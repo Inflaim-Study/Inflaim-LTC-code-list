@@ -39,7 +39,7 @@ A detailed manuscript describing the methodology used to generate and clinically
 ```plaintext
 ├── CodeLists/                                    # Directory containing condition-specific code files
 │   ├── all_colde_csv/                            # Contains [ConditionName].csv for each condition (all systems)
-│   │   ├── [ConditionName1].csv                 # E.g., Asthma.csv
+│   │   ├── [ConditionName1].csv                 # E.g., Diabetes.csv
 │   │   └── ...                                 # Files for all 63 conditions
 │   ├── Medcode/                                # Contains [ConditionName]_Medcode.csv for each condition
 │   │   ├── [ConditionName1]_Medcode.csv         # E.g., Diabetes_Medcode.csv
