@@ -1,0 +1,36 @@
+Condition,SnomedCTConceptId,SnomedCTDescriptionId,Term
+Spine arthritis/spondylitis,65260001.0,890851000006116.0,Cervical spond.with myelopathy
+Spine arthritis/spondylitis,202677007.0,890861000006119.0,Lumbosacral spond + myelopathy
+Spine arthritis/spondylitis,207968008.0,318465011.0,"Open fracture lumbar vertebra, spondylolysis"
+Spine arthritis/spondylitis,666611000000101.0,990511000006110.0,Spondyloses
+Spine arthritis/spondylitis,666611000000101.0,1463151000000118.0,Osteoarthritis of spine NOS
+Spine arthritis/spondylitis,666611000000101.0,1463161000000115.0,Spondylosis NOS
+Spine arthritis/spondylitis,192907007.0,297150011.0,Myelopathy due to spondylosis
+Spine arthritis/spondylitis,8847002.0,508047017.0,Arthritis of spine
+Spine arthritis/spondylitis,8847002.0,508047017.0,Osteoarthritis of spine
+Spine arthritis/spondylitis,65260001.0,108431018.0,Cervical spondylosis with myelopathy
+Spine arthritis/spondylitis,202661006.0,311061016.0,Single-level cervical spondylosis with myelopathy
+Spine arthritis/spondylitis,202662004.0,311062011.0,Two-level cervical spondylosis with myelopathy
+Spine arthritis/spondylitis,202663009.0,311063018.0,Multiple-level cervical spondylosis with myelopathy
+Spine arthritis/spondylitis,10948005.0,19006012.0,Thoracic spondylosis with myelopathy
+Spine arthritis/spondylitis,202670009.0,311072014.0,Single-level thoracic spondylosis with myelopathy
+Spine arthritis/spondylitis,202672001.0,311074010.0,Multiple-level thoracic spondylosis with myelopathy
+Spine arthritis/spondylitis,48210000.0,80324016.0,Lumbosacral spondylosis without myelopathy
+Spine arthritis/spondylitis,202674000.0,311079017.0,Single-level lumbosacral spondylosis without myelopathy
+Spine arthritis/spondylitis,202675004.0,311080019.0,Two-level lumbosacral spondylosis without myelopathy
+Spine arthritis/spondylitis,202676003.0,311081015.0,Multiple-level lumbosacral spondylosis without myelopathy
+Spine arthritis/spondylitis,202677007.0,311082010.0,Lumbosacral spondylosis with myelopathy
+Spine arthritis/spondylitis,202678002.0,311083017.0,Single-level lumbosacral spondylosis with myelopathy
+Spine arthritis/spondylitis,202679005.0,311084011.0,Two-level lumbosacral spondylosis with myelopathy
+Spine arthritis/spondylitis,202680008.0,311085012.0,Multiple-level lumbosacral spondylosis with myelopathy
+Spine arthritis/spondylitis,202693003.0,311106014.0,Lumbosacral spondylosis with radiculopathy
+Spine arthritis/spondylitis,202694009.0,311108010.0,Single-level lumbosacral spondylosis with radiculopathy
+Spine arthritis/spondylitis,202695005.0,311109019.0,Two-level lumbosacral spondylosis with radiculopathy
+Spine arthritis/spondylitis,202696006.0,311110012.0,Multiple-level lumbosacral spondylosis with radiculopathy
+Spine arthritis/spondylitis,8847002.0,508047017.0,Osteoarthritis of spine NOS
+Spine arthritis/spondylitis,8847002.0,15601012.0,Spondylosis NOS
+Spine arthritis/spondylitis,8847002.0,508047017.0,Osteoarthritis spine
+Spine arthritis/spondylitis,68859000.0,114373013.0,"Spondylosis without myelopathy, NOS"
+Spine arthritis/spondylitis,192907007.0,297150011.0,"Spondylosis with myelopathy, NOS"
+Spine arthritis/spondylitis,8847002.0,15601012.0,[X]Other spondylosis with radiculopathy
+Spine arthritis/spondylitis,8847002.0,15601012.0,[X]Other spondylosis

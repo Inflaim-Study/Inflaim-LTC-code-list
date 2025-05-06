@@ -1,0 +1,22 @@
+Condition,MedCodeId,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,ICD10Code,Term
+Hyperparathyroidism,60663012.0,C1200,C120000,36348003.0,60663012.0,E210,Primary hyperparathyroidism
+Hyperparathyroidism,129770011.0,C1202,C120200,78200003.0,129770011.0,E212,Tertiary hyperparathyroidism
+Hyperparathyroidism,140466019.0,C1201-1,C120111,84727000.0,140466019.0,E210,Osteitis fibrosa cystica
+Hyperparathyroidism,111289013.0,C120,C120.00,66999008.0,111289013.0,E213,Hyperparathyroidism
+Hyperparathyroidism,111289013.0,C120,C120.00,66999008.0,111289013.0,N258,Hyperparathyroidism
+Hyperparathyroidism,111289013.0,C120,C120.00,66999008.0,111289013.0,E211,Hyperparathyroidism
+Hyperparathyroidism,111289013.0,C120,C120.00,66999008.0,111289013.0,E210,Hyperparathyroidism
+Hyperparathyroidism,111289013.0,C120,C120.00,66999008.0,111289013.0,E212,Hyperparathyroidism
+Hyperparathyroidism,312190010.0,N3325,N332500,203471008.0,312190010.0,E210,Brown tumour of hyperparathyroidism
+Hyperparathyroidism,830981000006111.0,C1201,C120100,84727000.0,140459015.0,E210,Hyperparathyroid bone disease
+Hyperparathyroidism,63791000006110.0,C120-2,C120.12,84727000.0,1234973018.0,E210,Von Recklinghausen's bone disease
+Hyperparathyroidism,1234973018.0,C1201-2,C120112,84727000.0,1234973018.0,E210,von Recklinghausen's bone disease
+Hyperparathyroidism,41211000006118.0,C120-1,C120.11,84727000.0,140466019.0,E210,Osteitis fibrosa cystica
+Hyperparathyroidism,293766019.0,Cyu41,Cyu4100,66999008.0,111289013.0,E213,[X]Other hyperparathyroidism
+Hyperparathyroidism,293766019.0,Cyu41,Cyu4100,66999008.0,111289013.0,N258,[X]Other hyperparathyroidism
+Hyperparathyroidism,293766019.0,Cyu41,Cyu4100,66999008.0,111289013.0,E211,[X]Other hyperparathyroidism
+Hyperparathyroidism,293766019.0,Cyu41,Cyu4100,66999008.0,111289013.0,E210,[X]Other hyperparathyroidism
+Hyperparathyroidism,293766019.0,Cyu41,Cyu4100,66999008.0,111289013.0,E212,[X]Other hyperparathyroidism
+Hyperparathyroidism,151534010.0,K08y1,K08y100,91478007.0,151534010.0,N258,Secondary hyperparathyroidism
+Hyperparathyroidism,151534010.0,K08y1,K08y100,91478007.0,151534010.0,E211,Secondary hyperparathyroidism
+Hyperparathyroidism,49080014.0,C1z31,C1z3100,29326002.0,49080014.0,E342,Ectopic hyperparathyroidism

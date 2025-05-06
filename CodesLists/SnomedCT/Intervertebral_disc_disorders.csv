@@ -1,0 +1,64 @@
+Condition,SnomedCTConceptId,SnomedCTDescriptionId,Term
+Intervertebral disc disorders,387731002.0,1481809019.0,Laminectomy
+Intervertebral disc disorders,575091000000108.0,875071000006117.0,Laminectomy - unspecified
+Intervertebral disc disorders,575101000000100.0,875081000006119.0,Laminectomy site re-opening
+Intervertebral disc disorders,27151001.0,890921000006116.0,Post laminectomy syndrome
+Intervertebral disc disorders,265709001.0,394575012.0,Primary anterior excis cervical IV disc & interbody fusion
+Intervertebral disc disorders,178526006.0,276277012.0,Primary microdiscectomy of cervical intervertebral disc
+Intervertebral disc disorders,178553005.0,276312011.0,Primary costotransversectomy of thoracic intervertebral disc
+Intervertebral disc disorders,178618008.0,276388015.0,Primary lumbar discectomy
+Intervertebral disc disorders,178620006.0,276393017.0,Primary fenestration of lumbar intervertebral disc
+Intervertebral disc disorders,178625001.0,276400013.0,Primary lumbar microdiscectomy
+Intervertebral disc disorders,309702009.0,453172019.0,Primary percutaneous intradiscal lumbar discectomy
+Intervertebral disc disorders,178618008.0,276388015.0,Other specified primary lumbar discectomy
+Intervertebral disc disorders,178631003.0,276406019.0,Other specified revisional lumbar discectomy
+Intervertebral disc disorders,238001000000100.0,385661000000117.0,Primary automated percutan mech excis cerv intervert disc
+Intervertebral disc disorders,238281000000103.0,386251000000111.0,Primary percutaneous decompres coblat cerv intervert disc
+Intervertebral disc disorders,429558007.0,2772706015.0,Primary percut intrad radio thermocoag cerv intervert disc
+Intervertebral disc disorders,36427004.0,1228648018.0,Intervertebral disc disorders
+Intervertebral disc disorders,267974002.0,400273014.0,Cervical disc displacement without myelopathy
+Intervertebral disc disorders,267974002.0,400272016.0,Prolapsed cervical intervertebral disc without myelopathy
+Intervertebral disc disorders,240215009.0,359856016.0,Cervical disc displacement
+Intervertebral disc disorders,202707000.0,311131010.0,Thoracic disc displacement without myelopathy
+Intervertebral disc disorders,202707000.0,311130011.0,Prolapsed thoracic intervertebral disc without myelopathy
+Intervertebral disc disorders,202708005.0,311132015.0,Lumbar disc displacement
+Intervertebral disc disorders,202708005.0,311132015.0,Prolapsed lumbar intervertebral disc
+Intervertebral disc disorders,240213002.0,359854018.0,"Disc displacement, site unspecified, without myelopathy"
+Intervertebral disc disorders,73589001.0,122194016.0,Intervertebral disc prolapse NOS
+Intervertebral disc disorders,240213002.0,359854018.0,Prolapsed intervertebral disc without myelopathy
+Intervertebral disc disorders,45181002.0,75341011.0,Schmorl's nodes
+Intervertebral disc disorders,45181002.0,75341011.0,Schmorl's nodes of unspecified region
+Intervertebral disc disorders,86804002.0,143963017.0,Schmorl's nodes of the thoracic region
+Intervertebral disc disorders,29574001.0,49481016.0,Schmorl's nodes of the lumbar region
+Intervertebral disc disorders,45181002.0,75341011.0,"Schmorl's nodes, region NOS"
+Intervertebral disc disorders,69195002.0,114931012.0,Cervical disc degeneration
+Intervertebral disc disorders,68675004.0,114066012.0,Thoracic disc degeneration
+Intervertebral disc disorders,26538006.0,44436017.0,Lumbar disc degeneration
+Intervertebral disc disorders,77547008.0,128728011.0,Degenerative disc disease NOS
+Intervertebral disc disorders,202733008.0,311164010.0,Cervical disc prolapse with radiculopathy
+Intervertebral disc disorders,36427004.0,60784012.0,Other and unspecified disc disorders
+Intervertebral disc disorders,36427004.0,60784012.0,Other disc disorders of unspecified site
+Intervertebral disc disorders,425878001.0,2674166010.0,Other cervical disc disorders
+Intervertebral disc disorders,36427004.0,60784012.0,Other thoracic disc disorders
+Intervertebral disc disorders,443700006.0,2840290015.0,Other lumbar disc disorders
+Intervertebral disc disorders,202745004.0,311179015.0,Annular tear of cervical disc
+Intervertebral disc disorders,202746003.0,311180017.0,Resorption of cervical disc
+Intervertebral disc disorders,202747007.0,311181018.0,Calcification of cervical disc
+Intervertebral disc disorders,202749005.0,311183015.0,Annular tear of thoracic disc
+Intervertebral disc disorders,202751009.0,311185010.0,Calcification of thoracic disc
+Intervertebral disc disorders,202753007.0,311187019.0,Annular tear of lumbar disc
+Intervertebral disc disorders,202754001.0,311188012.0,Resorption of lumbar disc
+Intervertebral disc disorders,202755000.0,311189016.0,Calcification of lumbar disc
+Intervertebral disc disorders,202757008.0,311191012.0,Cervical disc disorder with radiculopathy
+Intervertebral disc disorders,36427004.0,60784012.0,Disc disorders NOS
+Intervertebral disc disorders,73589001.0,122194016.0,[X]Other cervical disc displacement
+Intervertebral disc disorders,69195002.0,114931012.0,[X]Other cervical disc degeneration
+Intervertebral disc disorders,425878001.0,2674166010.0,[X]Other cervical disc disorders
+Intervertebral disc disorders,36427004.0,60784012.0,[X]Lumbar+other intervertebral disc disordrs with myelopathy
+Intervertebral disc disorders,73589001.0,122194016.0,[X]Other specified intervertebral disc displacement
+Intervertebral disc disorders,77547008.0,128725014.0,[X]Other specified intervertebral disc degeneration
+Intervertebral disc disorders,36427004.0,60784012.0,[X]Other specified intervertebral disc disorders
+Intervertebral disc disorders,425878001.0,2674166010.0,"[X]Cervical disc disorder, unspecified"
+Intervertebral disc disorders,73589001.0,122194016.0,[Q] Central disc prolapse
+Intervertebral disc disorders,73589001.0,122194016.0,[Q] Posterolateral disc prolapse
+Intervertebral disc disorders,73589001.0,122194016.0,[Q] Sequestrated disc prolapse

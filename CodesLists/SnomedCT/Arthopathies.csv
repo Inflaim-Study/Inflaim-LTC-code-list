@@ -1,0 +1,234 @@
+Condition,SnomedCTConceptId,SnomedCTDescriptionId,Term
+Arthopathies,69896004.0,889751000006116.0,Rheum. arth. - ankle/foot
+Arthopathies,69896004.0,889801000006111.0,Rheum. arth. - elbow joint
+Arthopathies,69896004.0,889781000006112.0,Rheum. arth. - hand joint
+Arthopathies,69896004.0,889761000006119.0,Rheum. arth. - knee joint
+Arthopathies,69896004.0,889821000006118.0,Rheum. arth. - multiple joint
+Arthopathies,69896004.0,889741000006118.0,Rheum. arth. - other joint
+Arthopathies,69896004.0,889811000006114.0,Rheum. arth. - shoulder joint
+Arthopathies,69896004.0,889791000006110.0,Rheum. arth. - wrist joint
+Arthopathies,69896004.0,889731000006111.0,Rheumatoid arthritis NOS
+Arthopathies,287006005.0,2692387019.0,Rheumatoid arthritis of multiple joints
+Arthopathies,308143008.0,451461014.0,Seropositive errosive rheumatoid arthritis
+Arthopathies,164454008.0,255923010.0,O/E - hands - ulnar deviation
+Arthopathies,164454008.0,255922017.0,O/E - ulnar deviation
+Arthopathies,231041000000107.0,371261000000111.0,Delivery of rehabilitation for rheumatoid arthritis
+Arthopathies,239920006.0,359482019.0,Adult Still's Disease
+Arthopathies,69896004.0,116082011.0,Rheumatoid arthritis and other inflammatory polyarthropathy
+Arthopathies,69896004.0,116082011.0,Rheumatoid arthritis
+Arthopathies,9631008.0,16840014.0,Other rheumatoid arthritis of spine
+Arthopathies,201766009.0,309789018.0,Rheumatoid arthritis of shoulder
+Arthopathies,201767000.0,309790010.0,Rheumatoid arthritis of sternoclavicular joint
+Arthopathies,201768005.0,309791014.0,Rheumatoid arthritis of acromioclavicular joint
+Arthopathies,201769002.0,309792019.0,Rheumatoid arthritis of elbow
+Arthopathies,201770001.0,309793012.0,Rheumatoid arthritis of distal radio-ulnar joint
+Arthopathies,201771002.0,309794018.0,Rheumatoid arthritis of wrist
+Arthopathies,201772009.0,309795017.0,Rheumatoid arthritis of MCP joint
+Arthopathies,201773004.0,309796016.0,Rheumatoid arthritis of PIP joint of finger
+Arthopathies,201774005.0,309797013.0,Rheumatoid arthritis of DIP joint of finger
+Arthopathies,201775006.0,309798015.0,Rheumatoid arthritis of hip
+Arthopathies,201776007.0,309799011.0,Rheumatoid arthritis of sacro-iliac joint
+Arthopathies,201777003.0,309800010.0,Rheumatoid arthritis of knee
+Arthopathies,201778008.0,309801014.0,Rheumatoid arthritis of tibio-fibular joint
+Arthopathies,201779000.0,309802019.0,Rheumatoid arthritis of ankle
+Arthopathies,201780002.0,309803012.0,Rheumatoid arthritis of subtalar joint
+Arthopathies,201781003.0,309804018.0,Rheumatoid arthritis of talonavicular joint
+Arthopathies,429192004.0,2696026017.0,Rheumatoid arthritis of other tarsal joint
+Arthopathies,201783000.0,309807013.0,Rheumatoid arthritis of 1st MTP joint
+Arthopathies,201784006.0,309808015.0,Rheumatoid arthritis of lesser MTP joint
+Arthopathies,201785007.0,309809011.0,Rheumatoid arthritis of IP joint of toe
+Arthopathies,400054000.0,1779323014.0,Rheumatoid vasculitis
+Arthopathies,239792003.0,359292012.0,Seronegative rheumatoid arthritis
+Arthopathies,84017003.0,139318017.0,Rheumatoid bursitis
+Arthopathies,33719002.0,485614018.0,Rheumatoid nodule
+Arthopathies,287006005.0,426510015.0,Rheumatoid arthritis - multiple joint
+Arthopathies,201791009.0,309816012.0,Flare of rheumatoid arthritis
+Arthopathies,57160007.0,95067016.0,Felty's syndrome
+Arthopathies,239793008.0,359293019.0,Other rheumatoid arthropathy + visceral/systemic involvement
+Arthopathies,239793008.0,359293019.0,Rheumatoid arthropathy + visceral/systemic involvement NOS
+Arthopathies,308143008.0,3517964017.0,Seropositive errosive rheumatoid arthritis
+Arthopathies,239791005.0,359291017.0,"Seropositive rheumatoid arthritis, unspecified"
+Arthopathies,239920006.0,359482019.0,Adult-onset Still's disease
+Arthopathies,23060008.0,1223034016.0,Swan-neck finger deformity
+Arthopathies,239793008.0,359293019.0,[X]Rheumatoid arthritis+involvement/other organs or systems
+Arthopathies,239791005.0,359291017.0,[X]Other seropositive rheumatoid arthritis
+Arthopathies,69896004.0,116082011.0,[X]Other specified rheumatoid arthritis
+Arthopathies,239791005.0,359291017.0,"[X]Seropositive rheumatoid arthritis, unspecified"
+Arthopathies,646651000000108.0,1422821000000116.0,Gout NOS
+Arthopathies,90560007.0,150085018.0,Gout
+Arthopathies,190828008.0,293392012.0,Gouty arthropathy
+Arthopathies,190829000.0,293394013.0,Gouty nephropathy
+Arthopathies,190829000.0,293393019.0,Gouty nephropathy NOS
+Arthopathies,24595009.0,481958014.0,Idiopathic gout
+Arthopathies,239845005.0,359373012.0,Drug-induced gout
+Arthopathies,239844009.0,359372019.0,Gout due to impairment of renal function
+Arthopathies,3875003.0,7521017.0,Other specified gouty manifestation
+Arthopathies,14763005.0,476698015.0,Gouty tophi of ear
+Arthopathies,27277001.0,45604013.0,Gouty tophi of heart
+Arthopathies,402469004.0,1781601013.0,Gouty tophi of other sites
+Arthopathies,43193009.0,72069017.0,Gouty iritis
+Arthopathies,190842000.0,293410018.0,Gouty tophi of hand
+Arthopathies,90560007.0,150085018.0,Other specified gouty manifestation NOS
+Arthopathies,90560007.0,150085018.0,Gout NOS
+Arthopathies,48440001.0,80709010.0,Gouty arthritis
+Arthopathies,201663006.0,309674019.0,Gouty arthritis of the shoulder region
+Arthopathies,201663006.0,309674019.0,Gouty arthritis of the upper arm
+Arthopathies,48440001.0,80706015.0,Gouty arthritis of the forearm
+Arthopathies,201666003.0,309677014.0,Gouty arthritis of the hand
+Arthopathies,48440001.0,80706015.0,Gouty arthritis of the lower leg
+Arthopathies,201669005.0,309680010.0,Gouty arthritis of the ankle and foot
+Arthopathies,201670006.0,309681014.0,Gouty arthritis of multiple sites
+Arthopathies,48440001.0,80709010.0,Gouty arthritis of other specified site
+Arthopathies,48440001.0,80709010.0,Gouty arthritis NOS
+Arthopathies,239843003.0,359370010.0,[X]Other secondary gout
+Arthopathies,239874001.0,359422017.0,OA - Osteoarthritis of ankle
+Arthopathies,396275006.0,889931000006113.0,Osteoarthritis - ankle/foot
+Arthopathies,396275006.0,889881000006119.0,Osteoarthritis - elbow joint
+Arthopathies,396275006.0,889901000006117.0,Osteoarthritis - hand joint
+Arthopathies,396275006.0,889911000006119.0,Osteoarthritis - hip joint
+Arthopathies,637091000000105.0,889921000006110.0,Osteoarthritis - knee joint
+Arthopathies,666451000000100.0,889941000006115.0,Osteoarthritis - other joint
+Arthopathies,396275006.0,889891000006116.0,Osteoarthritis - wrist joint
+Arthopathies,201819000.0,889861000006112.0,Osteoarthritis -multiple joint
+Arthopathies,666441000000103.0,889871000006117.0,Osteoarthritis -shoulder joint
+Arthopathies,239868001.0,359414012.0,Osteoarthritis of finger joint
+Arthopathies,239873007.0,1954201000006110.0,Osteoarthritis of knee
+Arthopathies,201829007.0,309881012.0,"Localised, primary osteoarthritis of the lower leg"
+Arthopathies,576511000000100.0,1280421000000111.0,"Osteoarthritis NOS, of elbow"
+Arthopathies,666441000000103.0,1462811000000116.0,"Osteoarthritis NOS, of shoulder region"
+Arthopathies,637091000000105.0,1403631000000115.0,"Osteoarthritis NOS, of the lower leg"
+Arthopathies,666451000000100.0,1462821000000110.0,"Osteoarthritis NOS, other specified site"
+Arthopathies,239863005.0,1839121000006116.8,Osteoarthritis of spinal facet joint
+Arthopathies,239862000.0,359399017.0,Primary generalized osteoarthrosis
+Arthopathies,164455009.0,255924016.0,O/E - hands - Heberden's nodes
+Arthopathies,230771000000108.0,370721000000116.0,Delivery of rehabilitation for osteoarthritis
+Arthopathies,396275006.0,1776248011.0,Osteoarthritis and allied disorders
+Arthopathies,396275006.0,1776248011.0,Osteoarthritis
+Arthopathies,201819000.0,309860012.0,Generalised osteoarthritis - OA
+Arthopathies,201819000.0,309858010.0,Generalised osteoarthritis of unspecified site
+Arthopathies,267889007.0,400175010.0,Generalised osteoarthritis of the hand
+Arthopathies,371598009.0,1210227011.0,Heberdens' nodes
+Arthopathies,20243008.0,480522017.0,Bouchards' nodes
+Arthopathies,201819000.0,309854012.0,Generalised osteoarthritis of multiple sites
+Arthopathies,20243008.0,480522017.0,Bouchard's nodes with arthropathy
+Arthopathies,239862000.0,359394010.0,Primary generalized osteoarthrosis
+Arthopathies,201825001.0,309876015.0,Secondary multiple arthrosis
+Arthopathies,201826000.0,309877012.0,Erosive osteoarthrosis
+Arthopathies,201827009.0,309878019.0,Heberden's nodes with arthropathy
+Arthopathies,201819000.0,309860012.0,Generalised osteoarthritis NOS
+Arthopathies,201829007.0,309881012.0,"Localised, primary osteoarthritis"
+Arthopathies,201829007.0,309881012.0,"Localised, primary osteoarthritis of unspecified site"
+Arthopathies,201831003.0,309885015.0,"Localised, primary osteoarthritis of the shoulder region"
+Arthopathies,313259008.0,457122015.0,"Localised, primary osteoarthritis of the upper arm"
+Arthopathies,313257005.0,457118013.0,"Localised, primary osteoarthritis of the forearm"
+Arthopathies,201834006.0,309892013.0,"Localised, primary osteoarthritis of the hand"
+Arthopathies,201835007.0,309893015.0,"Localised, primary osteoarthritis of the pelvic region/thigh"
+Arthopathies,201837004.0,309898012.0,"Localised, primary osteoarthritis of the ankle and foot"
+Arthopathies,201829007.0,309881012.0,"Localised, primary osteoarthritis of other specified site"
+Arthopathies,201839001.0,309901013.0,"Primary coxarthrosis, bilateral"
+Arthopathies,201840004.0,309902018.0,"Coxarthrosis resulting from dysplasia, bilateral"
+Arthopathies,201841000.0,309903011.0,"Primary gonarthrosis, bilateral"
+Arthopathies,201842007.0,309904017.0,"Primary arthrosis of first carpometacarpal joints, bilateral"
+Arthopathies,313257005.0,457118013.0,"Localised, primary osteoarthritis of the wrist"
+Arthopathies,313259008.0,457122015.0,"Localised, primary osteoarthritis of elbow"
+Arthopathies,239863005.0,359402016.0,Osteoarthritis of spinal facet joint
+Arthopathies,201829007.0,309881012.0,"Localised, primary osteoarthritis NOS"
+Arthopathies,201847001.0,309914014.0,"Localised, secondary osteoarthritis"
+Arthopathies,201847001.0,309913015.0,"Localised, secondary osteoarthritis of unspecified site"
+Arthopathies,201849003.0,309918012.0,"Localised, secondary osteoarthritis of the shoulder region"
+Arthopathies,201847001.0,309913015.0,"Localised, secondary osteoarthritis of the upper arm"
+Arthopathies,201847001.0,309913015.0,"Localised, secondary osteoarthritis of the forearm"
+Arthopathies,201852006.0,309923012.0,"Localised, secondary osteoarthritis of the hand"
+Arthopathies,267890003.0,400176011.0,"Localised, secondary osteoarthritis of pelvic region/thigh"
+Arthopathies,55176002.0,91728013.0,Coxae malum senilis
+Arthopathies,201847001.0,309913015.0,"Localised, secondary osteoarthritis of the lower leg"
+Arthopathies,201855008.0,309933016.0,"Localised, secondary osteoarthritis of the ankle and foot"
+Arthopathies,201847001.0,309913015.0,"Localised, secondary osteoarthritis of other specified site"
+Arthopathies,201847001.0,309914014.0,"Localised, secondary osteoarthritis NOS"
+Arthopathies,33952002.0,485689019.0,"Localised osteoarthritis, unspecified"
+Arthopathies,33952002.0,56680019.0,"Localised osteoarthritis, unspecified, of unspecified site"
+Arthopathies,33952002.0,56680019.0,"Localised osteoarthritis, unspecified, of the upper arm"
+Arthopathies,43270005.0,72194019.0,"Localised osteoarthritis, unspecified, of the forearm"
+Arthopathies,22193007.0,37256012.0,"Localised osteoarthritis, unspecified, of the hand"
+Arthopathies,267891004.0,400178012.0,"Localised osteoarthritis, unspecified, pelvic region/thigh"
+Arthopathies,239872002.0,359419019.0,Hip osteoarthitis NOS
+Arthopathies,33952002.0,56680019.0,"Localised osteoarthritis, unspecified, of the lower leg"
+Arthopathies,450521003.0,2915470018.0,Patellofemoral osteoarthritis
+Arthopathies,201837004.0,1476420018.0,"Localised osteoarthritis, unspecified, of the ankle and foot"
+Arthopathies,33952002.0,56680019.0,"Localised osteoarthritis, unspecified, of other spec site"
+Arthopathies,37895003.0,63223018.0,"Arthrosis of first carpometacarpal joint, unspecified"
+Arthopathies,33952002.0,56680019.0,"Localised osteoarthritis, unspecified, NOS"
+Arthopathies,268054009.0,2692892014.0,"Oligoarticular osteoarthritis, unspecified"
+Arthopathies,268054009.0,2692892014.0,"Oligoarticular osteoarthritis, unspec, of unspecified sites"
+Arthopathies,396275006.0,1776248011.0,"Oligoarticular osteoarthritis, unspecified, of shoulder"
+Arthopathies,396275006.0,1776248011.0,"Oligoarticular osteoarthritis, unspecified, of upper arm"
+Arthopathies,22193007.0,37256012.0,"Oligoarticular osteoarthritis, unspecified, of hand"
+Arthopathies,396275006.0,1776248011.0,"Oligoarticular osteoarthritis, unspecified, of pelvis/thigh"
+Arthopathies,396275006.0,1776248011.0,"Oligoarticular osteoarthritis, unspecified, of lower leg"
+Arthopathies,396275006.0,1776248011.0,"Oligoarticular osteoarthritis, unspecified, of ankle/foot"
+Arthopathies,396275006.0,1776248011.0,"Oligoarticular osteoarthritis, unspecified, other spec sites"
+Arthopathies,268054009.0,2692892014.0,"Oligoarticular osteoarthritis, unspecified, multiple sites"
+Arthopathies,268054009.0,2692892014.0,"Osteoarthritis of more than one site, unspecified, NOS"
+Arthopathies,396275006.0,1776248011.0,Osteoarthritis NOS
+Arthopathies,396275006.0,1776248011.0,Joint degeneration
+Arthopathies,396275006.0,1776248011.0,"Osteoarthritis NOS, of unspecified site"
+Arthopathies,22193007.0,37256012.0,"Osteoarthritis NOS, of the hand"
+Arthopathies,239868001.0,2920945011.0,Finger osteoarthritis NOS
+Arthopathies,37895003.0,63223018.0,Thumb osteoarthritis NOS
+Arthopathies,445478004.0,2871421010.0,"Osteoarthritis NOS, pelvic region/thigh"
+Arthopathies,239872002.0,359419019.0,Hip osteoarthritis NOS
+Arthopathies,396275006.0,1776248011.0,"Osteoarthritis NOS, of the lower leg"
+Arthopathies,239873007.0,359420013.0,Knee osteoarthritis NOS
+Arthopathies,201837004.0,1476420018.0,"Osteoarthritis NOS, of ankle and foot"
+Arthopathies,239874001.0,359423010.0,Ankle osteoarthritis NOS
+Arthopathies,309246000.0,452614016.0,Foot osteoarthritis NOS
+Arthopathies,239878003.0,359429014.0,Toe osteoarthritis NOS
+Arthopathies,396275006.0,1776248011.0,"Osteoarthritis NOS, other specified site"
+Arthopathies,239865003.0,359408017.0,"Osteoarthritis NOS, of acromioclavicular joint"
+Arthopathies,239866002.0,359409013.0,"Osteoarthritis NOS, of elbow"
+Arthopathies,396275006.0,1776248011.0,"Osteoarthritis NOS, of distal radio-ulnar joint"
+Arthopathies,239867006.0,359412011.0,"Osteoarthritis NOS, of wrist"
+Arthopathies,275324008.0,411290018.0,"Osteoarthritis NOS, of MCP joint"
+Arthopathies,239870005.0,359416014.0,"Osteoarthritis NOS, of PIP joint of finger"
+Arthopathies,239869009.0,359415013.0,"Osteoarthritis NOS, of DIP joint of finger"
+Arthopathies,239872002.0,359419019.0,"Osteoarthritis NOS, of hip"
+Arthopathies,55146009.0,91681011.0,"Osteoarthritis NOS, of sacro-iliac joint"
+Arthopathies,239873007.0,359420013.0,"Osteoarthritis NOS, of knee"
+Arthopathies,396275006.0,1776248011.0,"Osteoarthritis NOS, of tibio-fibular joint"
+Arthopathies,239874001.0,359423010.0,"Osteoarthritis NOS, of ankle"
+Arthopathies,239876004.0,359426019.0,"Osteoarthritis NOS, of subtalar joint"
+Arthopathies,700324005.0,2989803011.0,"Osteoarthritis NOS, of talonavicular joint"
+Arthopathies,396275006.0,1776248011.0,"Osteoarthritis NOS, of other tarsal joint"
+Arthopathies,239877008.0,2983768015.0,"Osteoarthritis NOS, of 1st MTP joint"
+Arthopathies,239878003.0,359429014.0,"Osteoarthritis NOS, of lesser MTP joint"
+Arthopathies,239878003.0,359429014.0,"Osteoarthritis NOS, of IP joint of toe"
+Arthopathies,399269003.0,1778721018.0,[X]Arthrosis
+Arthopathies,36186002.0,60385010.0,[X]Other polyarthrosis
+Arthopathies,399269003.0,1778721018.0,[X]Other primary coxarthrosis
+Arthopathies,399269003.0,1778721018.0,[X]Other dysplastic coxarthrosis
+Arthopathies,399269003.0,1778721018.0,"[X]Other secondary coxarthrosis, bilateral"
+Arthopathies,239873007.0,359420013.0,[X]Other primary gonarthrosis
+Arthopathies,239873007.0,359420013.0,[X] Unilateral primary gonarthrosis
+Arthopathies,399269003.0,1778721018.0,"[X]Other secondary gonarthrosis, bilateral"
+Arthopathies,399269003.0,1778721018.0,[X]Other secondary gonarthrosis
+Arthopathies,399269003.0,1778721018.0,[X] Unilateral secondary gonarthrosis
+Arthopathies,399269003.0,1778721018.0,[X]Other primary arthrosis of first carpometacarpal joint
+Arthopathies,399269003.0,1786778011.0,[X]Other specified arthrosis
+Arthopathies,399269003.0,1778721018.0,[X]Other secondary coxarthrosis
+Arthopathies,399269003.0,1778721018.0,[X] Unilateral secondary coxarthrosis
+Arthopathies,123951002.0,472876012.0,Cutaneous cellulitis
+Arthopathies,31928004.0,1227884013.0,Cutaneous abscess
+Arthopathies,410795001.0,2472447010.0,Juvenile rheumatoid arthritis - Still's disease
+Arthopathies,410793008.0,2472445019.0,Juvenile rheumatoid arthropathy unspecified
+Arthopathies,74391003.0,502690012.0,Pauciarticular juvenile rheumatoid arthritis
+Arthopathies,201799006.0,309827014.0,Monarticular juvenile rheumatoid arthritis
+Arthopathies,239796000.0,359297018.0,Other juvenile arthritis
+Arthopathies,239805001.0,359312010.0,Juvenile ankylosing spondylitis
+Arthopathies,410797009.0,2472449013.0,Juvenile seronegative polyarthritis
+Arthopathies,239803008.0,359310019.0,Juvenile arthritis in psoriasis
+Arthopathies,201805000.0,309833017.0,Juvenile arthritis in Crohn's disease
+Arthopathies,201807008.0,309836013.0,Juvenile arthritis in ulcerative colitis
+Arthopathies,410795001.0,2472447010.0,Juvenile rheumatoid arthritis
+Arthopathies,74391003.0,502690012.0,Pauciarticular onset juvenile chronic arthritis
+Arthopathies,410795001.0,2472447010.0,Juvenile rheumatoid arthritis NOS
+Arthopathies,239796000.0,359297018.0,[X]Other juvenile arthritis

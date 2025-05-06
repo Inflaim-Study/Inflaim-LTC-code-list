@@ -1,0 +1,41 @@
+Condition,SnomedCTConceptId,SnomedCTDescriptionId,Term
+Glaucoma,77075001.0,503455016.0,COAG - Chronic open-angle glaucoma
+Glaucoma,77075001.0,503454017.0,CSG - Chronic simple glaucoma
+Glaucoma,33647009.0,485587011.0,Chronic angle-closure glaucoma
+Glaucoma,65460003.0,108757016.0,Intermittent angle-closure glaucoma
+Glaucoma,50485007.0,495682014.0,Normal tension glaucoma
+Glaucoma,77075001.0,503453011.0,POAG - Primary open-angle glaucoma
+Glaucoma,392300000.0,1486280011.0,Phacomorphic glaucoma
+Glaucoma,392288006.0,883291000006119.0,Primary closed-angle glaucoma
+Glaucoma,77075001.0,127956010.0,Primary open angle glaucoma
+Glaucoma,193561006.0,298063016.0,Secondary angle-closure glaucoma with pupil block
+Glaucoma,193548006.0,298050010.0,Steroid-induced glaucoma glaucomatous stage
+Glaucoma,428494000.0,3032787012.0,Needling of bleb following glaucoma surgery
+Glaucoma,236891000000101.0,383421000000110.0,Needling of bleb following glaucoma surgery
+Glaucoma,792741000000100.0,1772301000000112.0,Other specified operations following glaucoma surgery
+Glaucoma,172586003.0,267176015.0,Pan retinal photocoagulation for glaucoma
+Glaucoma,19144002.0,32262013.0,Glaucoma - absolute
+Glaucoma,23986001.0,40268016.0,Glaucoma
+Glaucoma,193533000.0,298026013.0,Open angle glaucoma with borderline intraocular pressure
+Glaucoma,84494001.0,140102012.0,Open-angle glaucoma
+Glaucoma,84494001.0,140102012.0,Unspecified open-angle glaucoma
+Glaucoma,77075001.0,503452018.0,Primary open-angle glaucoma
+Glaucoma,77075001.0,503452018.0,Simple chronic glaucoma
+Glaucoma,50485007.0,84105018.0,Low tension glaucoma
+Glaucoma,50485007.0,495680018.0,Normal pressure glaucoma
+Glaucoma,66990007.0,111276019.0,Open-angle glaucoma residual stage
+Glaucoma,84494001.0,140102012.0,Open-angle glaucoma NOS
+Glaucoma,392288006.0,1486268015.0,Primary angle-closure glaucoma
+Glaucoma,392288006.0,1486268015.0,Closed angle glaucoma
+Glaucoma,392288006.0,1486268015.0,Unspecified primary angle-closure glaucoma
+Glaucoma,65460003.0,1232679017.0,Intermittent primary angle-closure glaucoma
+Glaucoma,33647009.0,485588018.0,Chronic primary angle-closure glaucoma
+Glaucoma,193546005.0,298048019.0,Primary angle-closure glaucoma residual stage
+Glaucoma,232080006.0,347744010.0,Plateau iris
+Glaucoma,392288006.0,1486268015.0,Primary angle-closure glaucoma NOS
+Glaucoma,23986001.0,40268016.0,Other specified forms of glaucoma
+Glaucoma,23986001.0,40268016.0,Other specified glaucoma NOS
+Glaucoma,23986001.0,40268016.0,Glaucoma NOS
+Glaucoma,67733005.0,1232965011.0,Glaucomatous subcapsular flecks
+Glaucoma,1207009.0,1220514012.0,Optic disc glaucomatous atrophy
+Glaucoma,23986001.0,40268016.0,[X]Glaucoma

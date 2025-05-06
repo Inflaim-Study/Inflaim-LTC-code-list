@@ -1,0 +1,595 @@
+Condition,MedCodeId,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,ICD10Code,Term
+HIV disease,1.1989691000006112e+16,^ESCT1198969,,88415009.0,825821000006110.0,A309,HIV disease resulting in mycobacterial infection
+HIV disease,1.1989691000006112e+16,^ESCT1198969,,88415009.0,825821000006110.0,A301,HIV disease resulting in mycobacterial infection
+HIV disease,1.1989691000006112e+16,^ESCT1198969,,88415009.0,825821000006110.0,A319,HIV disease resulting in mycobacterial infection
+HIV disease,1.1989691000006112e+16,^ESCT1198969,,88415009.0,825821000006110.0,A303,HIV disease resulting in mycobacterial infection
+HIV disease,1.1989691000006112e+16,^ESCT1198969,,88415009.0,825821000006110.0,A305,HIV disease resulting in mycobacterial infection
+HIV disease,1.1989691000006112e+16,^ESCT1198969,,88415009.0,825821000006110.0,A308,HIV disease resulting in mycobacterial infection
+HIV disease,1.1989691000006112e+16,^ESCT1198969,,88415009.0,825821000006110.0,A310,HIV disease resulting in mycobacterial infection
+HIV disease,1.1989691000006112e+16,^ESCT1198969,,88415009.0,825821000006110.0,A311,HIV disease resulting in mycobacterial infection
+HIV disease,1.1989691000006112e+16,^ESCT1198969,,88415009.0,825821000006110.0,A300,HIV disease resulting in mycobacterial infection
+HIV disease,1.1989691000006112e+16,^ESCT1198969,,88415009.0,825821000006110.0,A304,HIV disease resulting in mycobacterial infection
+HIV disease,1.1989691000006112e+16,^ESCT1198969,,88415009.0,825821000006110.0,A318,HIV disease resulting in mycobacterial infection
+HIV disease,1.1989691000006112e+16,^ESCT1198969,,88415009.0,825821000006110.0,A302,HIV disease resulting in mycobacterial infection
+HIV disease,1.1989701000006112e+16,^ESCT1198970,,363346000.0,829211000006116.0,C809,Human immunodeficiency virus with secondary cancers
+HIV disease,1.1989701000006112e+16,^ESCT1198970,,363346000.0,829211000006116.0,C800,Human immunodeficiency virus with secondary cancers
+HIV disease,257855012.0,43C3-1,43C3.11,165816005.0,257855012.0,Z21X,HIV positive
+HIV disease,264371011.0,65QA,65QA.00,699433000.0,2984517011.0,Z21X,AIDS carrier
+HIV disease,103844015.0,A788,A788.00,62479008.0,103844015.0,B24X,Acquired immune deficiency syndrome
+HIV disease,143288017.0,A788-1,A788.11,86406008.0,143288017.0,B204,Human immunodeficiency virus infection
+HIV disease,143288017.0,A788-1,A788.11,86406008.0,143288017.0,B211,Human immunodeficiency virus infection
+HIV disease,143288017.0,A788-1,A788.11,86406008.0,143288017.0,B222,Human immunodeficiency virus infection
+HIV disease,143288017.0,A788-1,A788.11,86406008.0,143288017.0,B210,Human immunodeficiency virus infection
+HIV disease,143288017.0,A788-1,A788.11,86406008.0,143288017.0,B205,Human immunodeficiency virus infection
+HIV disease,143288017.0,A788-1,A788.11,86406008.0,143288017.0,B218,Human immunodeficiency virus infection
+HIV disease,143288017.0,A788-1,A788.11,86406008.0,143288017.0,B207,Human immunodeficiency virus infection
+HIV disease,143288017.0,A788-1,A788.11,86406008.0,143288017.0,B209,Human immunodeficiency virus infection
+HIV disease,143288017.0,A788-1,A788.11,86406008.0,143288017.0,B212,Human immunodeficiency virus infection
+HIV disease,143288017.0,A788-1,A788.11,86406008.0,143288017.0,B227,Human immunodeficiency virus infection
+HIV disease,143288017.0,A788-1,A788.11,86406008.0,143288017.0,B238,Human immunodeficiency virus infection
+HIV disease,143288017.0,A788-1,A788.11,86406008.0,143288017.0,B201,Human immunodeficiency virus infection
+HIV disease,143288017.0,A788-1,A788.11,86406008.0,143288017.0,B203,Human immunodeficiency virus infection
+HIV disease,143288017.0,A788-1,A788.11,86406008.0,143288017.0,B220,Human immunodeficiency virus infection
+HIV disease,143288017.0,A788-1,A788.11,86406008.0,143288017.0,B219,Human immunodeficiency virus infection
+HIV disease,143288017.0,A788-1,A788.11,86406008.0,143288017.0,B206,Human immunodeficiency virus infection
+HIV disease,143288017.0,A788-1,A788.11,86406008.0,143288017.0,B200,Human immunodeficiency virus infection
+HIV disease,143288017.0,A788-1,A788.11,86406008.0,143288017.0,B202,Human immunodeficiency virus infection
+HIV disease,143288017.0,A788-1,A788.11,86406008.0,143288017.0,B217,Human immunodeficiency virus infection
+HIV disease,143288017.0,A788-1,A788.11,86406008.0,143288017.0,B230,Human immunodeficiency virus infection
+HIV disease,143288017.0,A788-1,A788.11,86406008.0,143288017.0,B231,Human immunodeficiency virus infection
+HIV disease,143288017.0,A788-1,A788.11,86406008.0,143288017.0,B213,Human immunodeficiency virus infection
+HIV disease,143288017.0,A788-1,A788.11,86406008.0,143288017.0,B24X,Human immunodeficiency virus infection
+HIV disease,143288017.0,A788-1,A788.11,86406008.0,143288017.0,B221,Human immunodeficiency virus infection
+HIV disease,143288017.0,A788-1,A788.11,86406008.0,143288017.0,B232,Human immunodeficiency virus infection
+HIV disease,143288017.0,A788-1,A788.11,86406008.0,143288017.0,B208,Human immunodeficiency virus infection
+HIV disease,152322017.0,A7881,A788100,91947003.0,152322017.0,B220,Asymptomatic human immunodeficiency virus infection
+HIV disease,152322017.0,A7881,A788100,91947003.0,152322017.0,B213,Asymptomatic human immunodeficiency virus infection
+HIV disease,152322017.0,A7881,A788100,91947003.0,152322017.0,B211,Asymptomatic human immunodeficiency virus infection
+HIV disease,152322017.0,A7881,A788100,91947003.0,152322017.0,B24X,Asymptomatic human immunodeficiency virus infection
+HIV disease,152322017.0,A7881,A788100,91947003.0,152322017.0,B230,Asymptomatic human immunodeficiency virus infection
+HIV disease,152322017.0,A7881,A788100,91947003.0,152322017.0,B219,Asymptomatic human immunodeficiency virus infection
+HIV disease,152322017.0,A7881,A788100,91947003.0,152322017.0,B200,Asymptomatic human immunodeficiency virus infection
+HIV disease,152322017.0,A7881,A788100,91947003.0,152322017.0,B203,Asymptomatic human immunodeficiency virus infection
+HIV disease,152322017.0,A7881,A788100,91947003.0,152322017.0,B231,Asymptomatic human immunodeficiency virus infection
+HIV disease,152322017.0,A7881,A788100,91947003.0,152322017.0,B212,Asymptomatic human immunodeficiency virus infection
+HIV disease,152322017.0,A7881,A788100,91947003.0,152322017.0,B238,Asymptomatic human immunodeficiency virus infection
+HIV disease,152322017.0,A7881,A788100,91947003.0,152322017.0,B206,Asymptomatic human immunodeficiency virus infection
+HIV disease,152322017.0,A7881,A788100,91947003.0,152322017.0,B209,Asymptomatic human immunodeficiency virus infection
+HIV disease,152322017.0,A7881,A788100,91947003.0,152322017.0,B217,Asymptomatic human immunodeficiency virus infection
+HIV disease,152322017.0,A7881,A788100,91947003.0,152322017.0,R75X,Asymptomatic human immunodeficiency virus infection
+HIV disease,152322017.0,A7881,A788100,91947003.0,152322017.0,B207,Asymptomatic human immunodeficiency virus infection
+HIV disease,152322017.0,A7881,A788100,91947003.0,152322017.0,B221,Asymptomatic human immunodeficiency virus infection
+HIV disease,152322017.0,A7881,A788100,91947003.0,152322017.0,B202,Asymptomatic human immunodeficiency virus infection
+HIV disease,152322017.0,A7881,A788100,91947003.0,152322017.0,B227,Asymptomatic human immunodeficiency virus infection
+HIV disease,152322017.0,A7881,A788100,91947003.0,152322017.0,B232,Asymptomatic human immunodeficiency virus infection
+HIV disease,152322017.0,A7881,A788100,91947003.0,152322017.0,Z206,Asymptomatic human immunodeficiency virus infection
+HIV disease,152322017.0,A7881,A788100,91947003.0,152322017.0,B204,Asymptomatic human immunodeficiency virus infection
+HIV disease,152322017.0,A7881,A788100,91947003.0,152322017.0,B218,Asymptomatic human immunodeficiency virus infection
+HIV disease,152322017.0,A7881,A788100,91947003.0,152322017.0,B222,Asymptomatic human immunodeficiency virus infection
+HIV disease,152322017.0,A7881,A788100,91947003.0,152322017.0,B205,Asymptomatic human immunodeficiency virus infection
+HIV disease,152322017.0,A7881,A788100,91947003.0,152322017.0,B208,Asymptomatic human immunodeficiency virus infection
+HIV disease,152322017.0,A7881,A788100,91947003.0,152322017.0,Z21X,Asymptomatic human immunodeficiency virus infection
+HIV disease,152322017.0,A7881,A788100,91947003.0,152322017.0,B210,Asymptomatic human immunodeficiency virus infection
+HIV disease,152322017.0,A7881,A788100,91947003.0,152322017.0,B201,Asymptomatic human immunodeficiency virus infection
+HIV disease,825871000006111.0,A7882,A788200,95892003.0,512343012.0,B231,HIV infection with persistent generalised lymphadenopathy
+HIV disease,829181000006115.0,A7883,A788300,186706006.0,287010012.0,B238,Human immunodeficiency virus with constitutional disease
+HIV disease,287012016.0,A7884,A788400,186707002.0,287012016.0,B220,Human immunodeficiency virus with neurological disease
+HIV disease,829221000006112.0,A7885,A788500,186708007.0,287013014.0,B205,Human immunodeficiency virus with secondary infection
+HIV disease,829221000006112.0,A7885,A788500,186708007.0,287013014.0,B205 ,Human immunodeficiency virus with secondary infection
+HIV disease,829221000006112.0,A7885,A788500,186708007.0,287013014.0,B202,Human immunodeficiency virus with secondary infection
+HIV disease,829221000006112.0,A7885,A788500,186708007.0,287013014.0,B200,Human immunodeficiency virus with secondary infection
+HIV disease,829221000006112.0,A7885,A788500,186708007.0,287013014.0,B207 ,Human immunodeficiency virus with secondary infection
+HIV disease,829221000006112.0,A7885,A788500,186708007.0,287013014.0,B204 ,Human immunodeficiency virus with secondary infection
+HIV disease,829221000006112.0,A7885,A788500,186708007.0,287013014.0,B208 ,Human immunodeficiency virus with secondary infection
+HIV disease,829221000006112.0,A7885,A788500,186708007.0,287013014.0,B208,Human immunodeficiency virus with secondary infection
+HIV disease,829221000006112.0,A7885,A788500,186708007.0,287013014.0,B203,Human immunodeficiency virus with secondary infection
+HIV disease,829221000006112.0,A7885,A788500,186708007.0,287013014.0,B207,Human immunodeficiency virus with secondary infection
+HIV disease,829221000006112.0,A7885,A788500,186708007.0,287013014.0,B201,Human immunodeficiency virus with secondary infection
+HIV disease,829221000006112.0,A7885,A788500,186708007.0,287013014.0,B204,Human immunodeficiency virus with secondary infection
+HIV disease,829221000006112.0,A7885,A788500,186708007.0,287013014.0,B209 ,Human immunodeficiency virus with secondary infection
+HIV disease,829221000006112.0,A7885,A788500,186708007.0,287013014.0,B206,Human immunodeficiency virus with secondary infection
+HIV disease,829221000006112.0,A7885,A788500,186708007.0,287013014.0,B203 ,Human immunodeficiency virus with secondary infection
+HIV disease,829221000006112.0,A7885,A788500,186708007.0,287013014.0,B209,Human immunodeficiency virus with secondary infection
+HIV disease,829221000006112.0,A7885,A788500,186708007.0,287013014.0,B202 ,Human immunodeficiency virus with secondary infection
+HIV disease,829221000006112.0,A7885,A788500,186708007.0,287013014.0,B206 ,Human immunodeficiency virus with secondary infection
+HIV disease,829221000006112.0,A7885,A788500,186708007.0,287013014.0,B201 ,Human immunodeficiency virus with secondary infection
+HIV disease,829221000006112.0,A7885,A788500,186708007.0,287013014.0,B200 ,Human immunodeficiency virus with secondary infection
+HIV disease,287014015.0,A7886,A788600,713572001.0,3290189011.0,C809,Human immunodeficiency virus with secondary cancers
+HIV disease,287014015.0,A7886,A788600,713572001.0,3290189011.0,B24X,Human immunodeficiency virus with secondary cancers
+HIV disease,825731000006117.0,A788U,A788U00,943041000000105.0,2412691000000112.0,B232,"HIV disease result/haematological+immunologic abnorms,NEC"
+HIV disease,825841000006115.0,A788W,A788W00,86406008.0,143288017.0,B204,HIV disease resulting in unspecified malignant neoplasm
+HIV disease,825841000006115.0,A788W,A788W00,86406008.0,143288017.0,B211,HIV disease resulting in unspecified malignant neoplasm
+HIV disease,825841000006115.0,A788W,A788W00,86406008.0,143288017.0,B222,HIV disease resulting in unspecified malignant neoplasm
+HIV disease,825841000006115.0,A788W,A788W00,86406008.0,143288017.0,B210,HIV disease resulting in unspecified malignant neoplasm
+HIV disease,825841000006115.0,A788W,A788W00,86406008.0,143288017.0,B205,HIV disease resulting in unspecified malignant neoplasm
+HIV disease,825841000006115.0,A788W,A788W00,86406008.0,143288017.0,B218,HIV disease resulting in unspecified malignant neoplasm
+HIV disease,825841000006115.0,A788W,A788W00,86406008.0,143288017.0,B207,HIV disease resulting in unspecified malignant neoplasm
+HIV disease,825841000006115.0,A788W,A788W00,86406008.0,143288017.0,B209,HIV disease resulting in unspecified malignant neoplasm
+HIV disease,825841000006115.0,A788W,A788W00,86406008.0,143288017.0,B212,HIV disease resulting in unspecified malignant neoplasm
+HIV disease,825841000006115.0,A788W,A788W00,86406008.0,143288017.0,B227,HIV disease resulting in unspecified malignant neoplasm
+HIV disease,825841000006115.0,A788W,A788W00,86406008.0,143288017.0,B238,HIV disease resulting in unspecified malignant neoplasm
+HIV disease,825841000006115.0,A788W,A788W00,86406008.0,143288017.0,B201,HIV disease resulting in unspecified malignant neoplasm
+HIV disease,825841000006115.0,A788W,A788W00,86406008.0,143288017.0,B203,HIV disease resulting in unspecified malignant neoplasm
+HIV disease,825841000006115.0,A788W,A788W00,86406008.0,143288017.0,B220,HIV disease resulting in unspecified malignant neoplasm
+HIV disease,825841000006115.0,A788W,A788W00,86406008.0,143288017.0,B219,HIV disease resulting in unspecified malignant neoplasm
+HIV disease,825841000006115.0,A788W,A788W00,86406008.0,143288017.0,B206,HIV disease resulting in unspecified malignant neoplasm
+HIV disease,825841000006115.0,A788W,A788W00,86406008.0,143288017.0,B200,HIV disease resulting in unspecified malignant neoplasm
+HIV disease,825841000006115.0,A788W,A788W00,86406008.0,143288017.0,B202,HIV disease resulting in unspecified malignant neoplasm
+HIV disease,825841000006115.0,A788W,A788W00,86406008.0,143288017.0,B217,HIV disease resulting in unspecified malignant neoplasm
+HIV disease,825841000006115.0,A788W,A788W00,86406008.0,143288017.0,B230,HIV disease resulting in unspecified malignant neoplasm
+HIV disease,825841000006115.0,A788W,A788W00,86406008.0,143288017.0,B231,HIV disease resulting in unspecified malignant neoplasm
+HIV disease,825841000006115.0,A788W,A788W00,86406008.0,143288017.0,B213,HIV disease resulting in unspecified malignant neoplasm
+HIV disease,825841000006115.0,A788W,A788W00,86406008.0,143288017.0,B24X,HIV disease resulting in unspecified malignant neoplasm
+HIV disease,825841000006115.0,A788W,A788W00,86406008.0,143288017.0,B221,HIV disease resulting in unspecified malignant neoplasm
+HIV disease,825841000006115.0,A788W,A788W00,86406008.0,143288017.0,B232,HIV disease resulting in unspecified malignant neoplasm
+HIV disease,825841000006115.0,A788W,A788W00,86406008.0,143288017.0,B208,HIV disease resulting in unspecified malignant neoplasm
+HIV disease,825861000006116.0,A788X,A788X00,186708007.0,287013014.0,B205,HIV disease resulting/unspcf infectious+parasitic disease
+HIV disease,825861000006116.0,A788X,A788X00,186708007.0,287013014.0,B205 ,HIV disease resulting/unspcf infectious+parasitic disease
+HIV disease,825861000006116.0,A788X,A788X00,186708007.0,287013014.0,B202,HIV disease resulting/unspcf infectious+parasitic disease
+HIV disease,825861000006116.0,A788X,A788X00,186708007.0,287013014.0,B200,HIV disease resulting/unspcf infectious+parasitic disease
+HIV disease,825861000006116.0,A788X,A788X00,186708007.0,287013014.0,B207 ,HIV disease resulting/unspcf infectious+parasitic disease
+HIV disease,825861000006116.0,A788X,A788X00,186708007.0,287013014.0,B204 ,HIV disease resulting/unspcf infectious+parasitic disease
+HIV disease,825861000006116.0,A788X,A788X00,186708007.0,287013014.0,B208 ,HIV disease resulting/unspcf infectious+parasitic disease
+HIV disease,825861000006116.0,A788X,A788X00,186708007.0,287013014.0,B208,HIV disease resulting/unspcf infectious+parasitic disease
+HIV disease,825861000006116.0,A788X,A788X00,186708007.0,287013014.0,B203,HIV disease resulting/unspcf infectious+parasitic disease
+HIV disease,825861000006116.0,A788X,A788X00,186708007.0,287013014.0,B207,HIV disease resulting/unspcf infectious+parasitic disease
+HIV disease,825861000006116.0,A788X,A788X00,186708007.0,287013014.0,B201,HIV disease resulting/unspcf infectious+parasitic disease
+HIV disease,825861000006116.0,A788X,A788X00,186708007.0,287013014.0,B204,HIV disease resulting/unspcf infectious+parasitic disease
+HIV disease,825861000006116.0,A788X,A788X00,186708007.0,287013014.0,B209 ,HIV disease resulting/unspcf infectious+parasitic disease
+HIV disease,825861000006116.0,A788X,A788X00,186708007.0,287013014.0,B206,HIV disease resulting/unspcf infectious+parasitic disease
+HIV disease,825861000006116.0,A788X,A788X00,186708007.0,287013014.0,B203 ,HIV disease resulting/unspcf infectious+parasitic disease
+HIV disease,825861000006116.0,A788X,A788X00,186708007.0,287013014.0,B209,HIV disease resulting/unspcf infectious+parasitic disease
+HIV disease,825861000006116.0,A788X,A788X00,186708007.0,287013014.0,B202 ,HIV disease resulting/unspcf infectious+parasitic disease
+HIV disease,825861000006116.0,A788X,A788X00,186708007.0,287013014.0,B206 ,HIV disease resulting/unspcf infectious+parasitic disease
+HIV disease,825861000006116.0,A788X,A788X00,186708007.0,287013014.0,B201 ,HIV disease resulting/unspcf infectious+parasitic disease
+HIV disease,825861000006116.0,A788X,A788X00,186708007.0,287013014.0,B200 ,HIV disease resulting/unspcf infectious+parasitic disease
+HIV disease,287020019.0,A788y,A788y00,86406008.0,143288017.0,B204,Human immunodeficiency virus with other clinical findings
+HIV disease,287020019.0,A788y,A788y00,86406008.0,143288017.0,B211,Human immunodeficiency virus with other clinical findings
+HIV disease,287020019.0,A788y,A788y00,86406008.0,143288017.0,B222,Human immunodeficiency virus with other clinical findings
+HIV disease,287020019.0,A788y,A788y00,86406008.0,143288017.0,B210,Human immunodeficiency virus with other clinical findings
+HIV disease,287020019.0,A788y,A788y00,86406008.0,143288017.0,B205,Human immunodeficiency virus with other clinical findings
+HIV disease,287020019.0,A788y,A788y00,86406008.0,143288017.0,B218,Human immunodeficiency virus with other clinical findings
+HIV disease,287020019.0,A788y,A788y00,86406008.0,143288017.0,B207,Human immunodeficiency virus with other clinical findings
+HIV disease,287020019.0,A788y,A788y00,86406008.0,143288017.0,B209,Human immunodeficiency virus with other clinical findings
+HIV disease,287020019.0,A788y,A788y00,86406008.0,143288017.0,B212,Human immunodeficiency virus with other clinical findings
+HIV disease,287020019.0,A788y,A788y00,86406008.0,143288017.0,B227,Human immunodeficiency virus with other clinical findings
+HIV disease,287020019.0,A788y,A788y00,86406008.0,143288017.0,B238,Human immunodeficiency virus with other clinical findings
+HIV disease,287020019.0,A788y,A788y00,86406008.0,143288017.0,B201,Human immunodeficiency virus with other clinical findings
+HIV disease,287020019.0,A788y,A788y00,86406008.0,143288017.0,B203,Human immunodeficiency virus with other clinical findings
+HIV disease,287020019.0,A788y,A788y00,86406008.0,143288017.0,B220,Human immunodeficiency virus with other clinical findings
+HIV disease,287020019.0,A788y,A788y00,86406008.0,143288017.0,B219,Human immunodeficiency virus with other clinical findings
+HIV disease,287020019.0,A788y,A788y00,86406008.0,143288017.0,B206,Human immunodeficiency virus with other clinical findings
+HIV disease,287020019.0,A788y,A788y00,86406008.0,143288017.0,B200,Human immunodeficiency virus with other clinical findings
+HIV disease,287020019.0,A788y,A788y00,86406008.0,143288017.0,B202,Human immunodeficiency virus with other clinical findings
+HIV disease,287020019.0,A788y,A788y00,86406008.0,143288017.0,B217,Human immunodeficiency virus with other clinical findings
+HIV disease,287020019.0,A788y,A788y00,86406008.0,143288017.0,B230,Human immunodeficiency virus with other clinical findings
+HIV disease,287020019.0,A788y,A788y00,86406008.0,143288017.0,B231,Human immunodeficiency virus with other clinical findings
+HIV disease,287020019.0,A788y,A788y00,86406008.0,143288017.0,B213,Human immunodeficiency virus with other clinical findings
+HIV disease,287020019.0,A788y,A788y00,86406008.0,143288017.0,B24X,Human immunodeficiency virus with other clinical findings
+HIV disease,287020019.0,A788y,A788y00,86406008.0,143288017.0,B221,Human immunodeficiency virus with other clinical findings
+HIV disease,287020019.0,A788y,A788y00,86406008.0,143288017.0,B232,Human immunodeficiency virus with other clinical findings
+HIV disease,287020019.0,A788y,A788y00,86406008.0,143288017.0,B208,Human immunodeficiency virus with other clinical findings
+HIV disease,287021015.0,A788z,A788z00,86406008.0,143288017.0,B204,Acquired human immunodeficiency virus infection syndrome NOS
+HIV disease,287021015.0,A788z,A788z00,86406008.0,143288017.0,B211,Acquired human immunodeficiency virus infection syndrome NOS
+HIV disease,287021015.0,A788z,A788z00,86406008.0,143288017.0,B222,Acquired human immunodeficiency virus infection syndrome NOS
+HIV disease,287021015.0,A788z,A788z00,86406008.0,143288017.0,B210,Acquired human immunodeficiency virus infection syndrome NOS
+HIV disease,287021015.0,A788z,A788z00,86406008.0,143288017.0,B205,Acquired human immunodeficiency virus infection syndrome NOS
+HIV disease,287021015.0,A788z,A788z00,86406008.0,143288017.0,B218,Acquired human immunodeficiency virus infection syndrome NOS
+HIV disease,287021015.0,A788z,A788z00,86406008.0,143288017.0,B207,Acquired human immunodeficiency virus infection syndrome NOS
+HIV disease,287021015.0,A788z,A788z00,86406008.0,143288017.0,B209,Acquired human immunodeficiency virus infection syndrome NOS
+HIV disease,287021015.0,A788z,A788z00,86406008.0,143288017.0,B212,Acquired human immunodeficiency virus infection syndrome NOS
+HIV disease,287021015.0,A788z,A788z00,86406008.0,143288017.0,B227,Acquired human immunodeficiency virus infection syndrome NOS
+HIV disease,287021015.0,A788z,A788z00,86406008.0,143288017.0,B238,Acquired human immunodeficiency virus infection syndrome NOS
+HIV disease,287021015.0,A788z,A788z00,86406008.0,143288017.0,B201,Acquired human immunodeficiency virus infection syndrome NOS
+HIV disease,287021015.0,A788z,A788z00,86406008.0,143288017.0,B203,Acquired human immunodeficiency virus infection syndrome NOS
+HIV disease,287021015.0,A788z,A788z00,86406008.0,143288017.0,B220,Acquired human immunodeficiency virus infection syndrome NOS
+HIV disease,287021015.0,A788z,A788z00,86406008.0,143288017.0,B219,Acquired human immunodeficiency virus infection syndrome NOS
+HIV disease,287021015.0,A788z,A788z00,86406008.0,143288017.0,B206,Acquired human immunodeficiency virus infection syndrome NOS
+HIV disease,287021015.0,A788z,A788z00,86406008.0,143288017.0,B200,Acquired human immunodeficiency virus infection syndrome NOS
+HIV disease,287021015.0,A788z,A788z00,86406008.0,143288017.0,B202,Acquired human immunodeficiency virus infection syndrome NOS
+HIV disease,287021015.0,A788z,A788z00,86406008.0,143288017.0,B217,Acquired human immunodeficiency virus infection syndrome NOS
+HIV disease,287021015.0,A788z,A788z00,86406008.0,143288017.0,B230,Acquired human immunodeficiency virus infection syndrome NOS
+HIV disease,287021015.0,A788z,A788z00,86406008.0,143288017.0,B231,Acquired human immunodeficiency virus infection syndrome NOS
+HIV disease,287021015.0,A788z,A788z00,86406008.0,143288017.0,B213,Acquired human immunodeficiency virus infection syndrome NOS
+HIV disease,287021015.0,A788z,A788z00,86406008.0,143288017.0,B24X,Acquired human immunodeficiency virus infection syndrome NOS
+HIV disease,287021015.0,A788z,A788z00,86406008.0,143288017.0,B221,Acquired human immunodeficiency virus infection syndrome NOS
+HIV disease,287021015.0,A788z,A788z00,86406008.0,143288017.0,B232,Acquired human immunodeficiency virus infection syndrome NOS
+HIV disease,287021015.0,A788z,A788z00,86406008.0,143288017.0,B208,Acquired human immunodeficiency virus infection syndrome NOS
+HIV disease,287022010.0,A789,A789.00,81000119104.0,2967570018.0,B210,Human immunodef virus resulting in other disease
+HIV disease,287022010.0,A789,A789.00,81000119104.0,2967570018.0,B206,Human immunodef virus resulting in other disease
+HIV disease,287022010.0,A789,A789.00,81000119104.0,2967570018.0,B205 ,Human immunodef virus resulting in other disease
+HIV disease,287022010.0,A789,A789.00,81000119104.0,2967570018.0,B218 ,Human immunodef virus resulting in other disease
+HIV disease,287022010.0,A789,A789.00,81000119104.0,2967570018.0,B238 ,Human immunodef virus resulting in other disease
+HIV disease,287022010.0,A789,A789.00,81000119104.0,2967570018.0,B217,Human immunodef virus resulting in other disease
+HIV disease,287022010.0,A789,A789.00,81000119104.0,2967570018.0,B212,Human immunodef virus resulting in other disease
+HIV disease,287022010.0,A789,A789.00,81000119104.0,2967570018.0,B203 ,Human immunodef virus resulting in other disease
+HIV disease,287022010.0,A789,A789.00,81000119104.0,2967570018.0,B208,Human immunodef virus resulting in other disease
+HIV disease,287022010.0,A789,A789.00,81000119104.0,2967570018.0,B230 ,Human immunodef virus resulting in other disease
+HIV disease,287022010.0,A789,A789.00,81000119104.0,2967570018.0,B217 ,Human immunodef virus resulting in other disease
+HIV disease,287022010.0,A789,A789.00,81000119104.0,2967570018.0,B232,Human immunodef virus resulting in other disease
+HIV disease,287022010.0,A789,A789.00,81000119104.0,2967570018.0,B200,Human immunodef virus resulting in other disease
+HIV disease,287022010.0,A789,A789.00,81000119104.0,2967570018.0,B213,Human immunodef virus resulting in other disease
+HIV disease,287022010.0,A789,A789.00,81000119104.0,2967570018.0,B219 ,Human immunodef virus resulting in other disease
+HIV disease,287022010.0,A789,A789.00,81000119104.0,2967570018.0,B211 ,Human immunodef virus resulting in other disease
+HIV disease,287022010.0,A789,A789.00,81000119104.0,2967570018.0,B212 ,Human immunodef virus resulting in other disease
+HIV disease,287022010.0,A789,A789.00,81000119104.0,2967570018.0,B202 ,Human immunodef virus resulting in other disease
+HIV disease,287022010.0,A789,A789.00,81000119104.0,2967570018.0,B209,Human immunodef virus resulting in other disease
+HIV disease,287022010.0,A789,A789.00,81000119104.0,2967570018.0,B210 ,Human immunodef virus resulting in other disease
+HIV disease,287022010.0,A789,A789.00,81000119104.0,2967570018.0,B204,Human immunodef virus resulting in other disease
+HIV disease,287022010.0,A789,A789.00,81000119104.0,2967570018.0,B221 ,Human immunodef virus resulting in other disease
+HIV disease,287022010.0,A789,A789.00,81000119104.0,2967570018.0,B231,Human immunodef virus resulting in other disease
+HIV disease,287022010.0,A789,A789.00,81000119104.0,2967570018.0,B222 ,Human immunodef virus resulting in other disease
+HIV disease,287022010.0,A789,A789.00,81000119104.0,2967570018.0,B227 ,Human immunodef virus resulting in other disease
+HIV disease,287022010.0,A789,A789.00,81000119104.0,2967570018.0,B24X,Human immunodef virus resulting in other disease
+HIV disease,287022010.0,A789,A789.00,81000119104.0,2967570018.0,B232 ,Human immunodef virus resulting in other disease
+HIV disease,287022010.0,A789,A789.00,81000119104.0,2967570018.0,B207,Human immunodef virus resulting in other disease
+HIV disease,287022010.0,A789,A789.00,81000119104.0,2967570018.0,B209 ,Human immunodef virus resulting in other disease
+HIV disease,287022010.0,A789,A789.00,81000119104.0,2967570018.0,B218,Human immunodef virus resulting in other disease
+HIV disease,287022010.0,A789,A789.00,81000119104.0,2967570018.0,B238,Human immunodef virus resulting in other disease
+HIV disease,287022010.0,A789,A789.00,81000119104.0,2967570018.0,B220,Human immunodef virus resulting in other disease
+HIV disease,287022010.0,A789,A789.00,81000119104.0,2967570018.0,B211,Human immunodef virus resulting in other disease
+HIV disease,287022010.0,A789,A789.00,81000119104.0,2967570018.0,B227,Human immunodef virus resulting in other disease
+HIV disease,287022010.0,A789,A789.00,81000119104.0,2967570018.0,B230,Human immunodef virus resulting in other disease
+HIV disease,287022010.0,A789,A789.00,81000119104.0,2967570018.0,B201,Human immunodef virus resulting in other disease
+HIV disease,287022010.0,A789,A789.00,81000119104.0,2967570018.0,B222,Human immunodef virus resulting in other disease
+HIV disease,287022010.0,A789,A789.00,81000119104.0,2967570018.0,B220 ,Human immunodef virus resulting in other disease
+HIV disease,287022010.0,A789,A789.00,81000119104.0,2967570018.0,B221,Human immunodef virus resulting in other disease
+HIV disease,287022010.0,A789,A789.00,81000119104.0,2967570018.0,B200 ,Human immunodef virus resulting in other disease
+HIV disease,287022010.0,A789,A789.00,81000119104.0,2967570018.0,B231 ,Human immunodef virus resulting in other disease
+HIV disease,287022010.0,A789,A789.00,81000119104.0,2967570018.0,B213 ,Human immunodef virus resulting in other disease
+HIV disease,287022010.0,A789,A789.00,81000119104.0,2967570018.0,B203,Human immunodef virus resulting in other disease
+HIV disease,287022010.0,A789,A789.00,81000119104.0,2967570018.0,B202,Human immunodef virus resulting in other disease
+HIV disease,287022010.0,A789,A789.00,81000119104.0,2967570018.0,B204 ,Human immunodef virus resulting in other disease
+HIV disease,287022010.0,A789,A789.00,81000119104.0,2967570018.0,B208 ,Human immunodef virus resulting in other disease
+HIV disease,287022010.0,A789,A789.00,81000119104.0,2967570018.0,B201 ,Human immunodef virus resulting in other disease
+HIV disease,287022010.0,A789,A789.00,81000119104.0,2967570018.0,B206 ,Human immunodef virus resulting in other disease
+HIV disease,287022010.0,A789,A789.00,81000119104.0,2967570018.0,B205,Human immunodef virus resulting in other disease
+HIV disease,287022010.0,A789,A789.00,81000119104.0,2967570018.0,B207 ,Human immunodef virus resulting in other disease
+HIV disease,287022010.0,A789,A789.00,81000119104.0,2967570018.0,B219,Human immunodef virus resulting in other disease
+HIV disease,287023017.0,A7890,A789000,420818005.0,2617389018.0,B200,HIV disease resulting in mycobacterial infection
+HIV disease,287024011.0,A7891,A789100,81000119104.0,2967570018.0,B210,HIV disease resulting in cytomegaloviral disease
+HIV disease,287024011.0,A7891,A789100,81000119104.0,2967570018.0,B206,HIV disease resulting in cytomegaloviral disease
+HIV disease,287024011.0,A7891,A789100,81000119104.0,2967570018.0,B205 ,HIV disease resulting in cytomegaloviral disease
+HIV disease,287024011.0,A7891,A789100,81000119104.0,2967570018.0,B218 ,HIV disease resulting in cytomegaloviral disease
+HIV disease,287024011.0,A7891,A789100,81000119104.0,2967570018.0,B238 ,HIV disease resulting in cytomegaloviral disease
+HIV disease,287024011.0,A7891,A789100,81000119104.0,2967570018.0,B217,HIV disease resulting in cytomegaloviral disease
+HIV disease,287024011.0,A7891,A789100,81000119104.0,2967570018.0,B212,HIV disease resulting in cytomegaloviral disease
+HIV disease,287024011.0,A7891,A789100,81000119104.0,2967570018.0,B203 ,HIV disease resulting in cytomegaloviral disease
+HIV disease,287024011.0,A7891,A789100,81000119104.0,2967570018.0,B208,HIV disease resulting in cytomegaloviral disease
+HIV disease,287024011.0,A7891,A789100,81000119104.0,2967570018.0,B230 ,HIV disease resulting in cytomegaloviral disease
+HIV disease,287024011.0,A7891,A789100,81000119104.0,2967570018.0,B217 ,HIV disease resulting in cytomegaloviral disease
+HIV disease,287024011.0,A7891,A789100,81000119104.0,2967570018.0,B232,HIV disease resulting in cytomegaloviral disease
+HIV disease,287024011.0,A7891,A789100,81000119104.0,2967570018.0,B200,HIV disease resulting in cytomegaloviral disease
+HIV disease,287024011.0,A7891,A789100,81000119104.0,2967570018.0,B213,HIV disease resulting in cytomegaloviral disease
+HIV disease,287024011.0,A7891,A789100,81000119104.0,2967570018.0,B219 ,HIV disease resulting in cytomegaloviral disease
+HIV disease,287024011.0,A7891,A789100,81000119104.0,2967570018.0,B211 ,HIV disease resulting in cytomegaloviral disease
+HIV disease,287024011.0,A7891,A789100,81000119104.0,2967570018.0,B212 ,HIV disease resulting in cytomegaloviral disease
+HIV disease,287024011.0,A7891,A789100,81000119104.0,2967570018.0,B202 ,HIV disease resulting in cytomegaloviral disease
+HIV disease,287024011.0,A7891,A789100,81000119104.0,2967570018.0,B209,HIV disease resulting in cytomegaloviral disease
+HIV disease,287024011.0,A7891,A789100,81000119104.0,2967570018.0,B210 ,HIV disease resulting in cytomegaloviral disease
+HIV disease,287024011.0,A7891,A789100,81000119104.0,2967570018.0,B204,HIV disease resulting in cytomegaloviral disease
+HIV disease,287024011.0,A7891,A789100,81000119104.0,2967570018.0,B221 ,HIV disease resulting in cytomegaloviral disease
+HIV disease,287024011.0,A7891,A789100,81000119104.0,2967570018.0,B231,HIV disease resulting in cytomegaloviral disease
+HIV disease,287024011.0,A7891,A789100,81000119104.0,2967570018.0,B222 ,HIV disease resulting in cytomegaloviral disease
+HIV disease,287024011.0,A7891,A789100,81000119104.0,2967570018.0,B227 ,HIV disease resulting in cytomegaloviral disease
+HIV disease,287024011.0,A7891,A789100,81000119104.0,2967570018.0,B24X,HIV disease resulting in cytomegaloviral disease
+HIV disease,287024011.0,A7891,A789100,81000119104.0,2967570018.0,B232 ,HIV disease resulting in cytomegaloviral disease
+HIV disease,287024011.0,A7891,A789100,81000119104.0,2967570018.0,B207,HIV disease resulting in cytomegaloviral disease
+HIV disease,287024011.0,A7891,A789100,81000119104.0,2967570018.0,B209 ,HIV disease resulting in cytomegaloviral disease
+HIV disease,287024011.0,A7891,A789100,81000119104.0,2967570018.0,B218,HIV disease resulting in cytomegaloviral disease
+HIV disease,287024011.0,A7891,A789100,81000119104.0,2967570018.0,B238,HIV disease resulting in cytomegaloviral disease
+HIV disease,287024011.0,A7891,A789100,81000119104.0,2967570018.0,B220,HIV disease resulting in cytomegaloviral disease
+HIV disease,287024011.0,A7891,A789100,81000119104.0,2967570018.0,B211,HIV disease resulting in cytomegaloviral disease
+HIV disease,287024011.0,A7891,A789100,81000119104.0,2967570018.0,B227,HIV disease resulting in cytomegaloviral disease
+HIV disease,287024011.0,A7891,A789100,81000119104.0,2967570018.0,B230,HIV disease resulting in cytomegaloviral disease
+HIV disease,287024011.0,A7891,A789100,81000119104.0,2967570018.0,B201,HIV disease resulting in cytomegaloviral disease
+HIV disease,287024011.0,A7891,A789100,81000119104.0,2967570018.0,B222,HIV disease resulting in cytomegaloviral disease
+HIV disease,287024011.0,A7891,A789100,81000119104.0,2967570018.0,B220 ,HIV disease resulting in cytomegaloviral disease
+HIV disease,287024011.0,A7891,A789100,81000119104.0,2967570018.0,B221,HIV disease resulting in cytomegaloviral disease
+HIV disease,287024011.0,A7891,A789100,81000119104.0,2967570018.0,B200 ,HIV disease resulting in cytomegaloviral disease
+HIV disease,287024011.0,A7891,A789100,81000119104.0,2967570018.0,B231 ,HIV disease resulting in cytomegaloviral disease
+HIV disease,287024011.0,A7891,A789100,81000119104.0,2967570018.0,B213 ,HIV disease resulting in cytomegaloviral disease
+HIV disease,287024011.0,A7891,A789100,81000119104.0,2967570018.0,B203,HIV disease resulting in cytomegaloviral disease
+HIV disease,287024011.0,A7891,A789100,81000119104.0,2967570018.0,B202,HIV disease resulting in cytomegaloviral disease
+HIV disease,287024011.0,A7891,A789100,81000119104.0,2967570018.0,B204 ,HIV disease resulting in cytomegaloviral disease
+HIV disease,287024011.0,A7891,A789100,81000119104.0,2967570018.0,B208 ,HIV disease resulting in cytomegaloviral disease
+HIV disease,287024011.0,A7891,A789100,81000119104.0,2967570018.0,B201 ,HIV disease resulting in cytomegaloviral disease
+HIV disease,287024011.0,A7891,A789100,81000119104.0,2967570018.0,B206 ,HIV disease resulting in cytomegaloviral disease
+HIV disease,287024011.0,A7891,A789100,81000119104.0,2967570018.0,B205,HIV disease resulting in cytomegaloviral disease
+HIV disease,287024011.0,A7891,A789100,81000119104.0,2967570018.0,B207 ,HIV disease resulting in cytomegaloviral disease
+HIV disease,287024011.0,A7891,A789100,81000119104.0,2967570018.0,B219,HIV disease resulting in cytomegaloviral disease
+HIV disease,287025012.0,A7892,A789200,81000119104.0,2967570018.0,B210,HIV disease resulting in candidiasis
+HIV disease,287025012.0,A7892,A789200,81000119104.0,2967570018.0,B206,HIV disease resulting in candidiasis
+HIV disease,287025012.0,A7892,A789200,81000119104.0,2967570018.0,B205 ,HIV disease resulting in candidiasis
+HIV disease,287025012.0,A7892,A789200,81000119104.0,2967570018.0,B218 ,HIV disease resulting in candidiasis
+HIV disease,287025012.0,A7892,A789200,81000119104.0,2967570018.0,B238 ,HIV disease resulting in candidiasis
+HIV disease,287025012.0,A7892,A789200,81000119104.0,2967570018.0,B217,HIV disease resulting in candidiasis
+HIV disease,287025012.0,A7892,A789200,81000119104.0,2967570018.0,B212,HIV disease resulting in candidiasis
+HIV disease,287025012.0,A7892,A789200,81000119104.0,2967570018.0,B203 ,HIV disease resulting in candidiasis
+HIV disease,287025012.0,A7892,A789200,81000119104.0,2967570018.0,B208,HIV disease resulting in candidiasis
+HIV disease,287025012.0,A7892,A789200,81000119104.0,2967570018.0,B230 ,HIV disease resulting in candidiasis
+HIV disease,287025012.0,A7892,A789200,81000119104.0,2967570018.0,B217 ,HIV disease resulting in candidiasis
+HIV disease,287025012.0,A7892,A789200,81000119104.0,2967570018.0,B232,HIV disease resulting in candidiasis
+HIV disease,287025012.0,A7892,A789200,81000119104.0,2967570018.0,B200,HIV disease resulting in candidiasis
+HIV disease,287025012.0,A7892,A789200,81000119104.0,2967570018.0,B213,HIV disease resulting in candidiasis
+HIV disease,287025012.0,A7892,A789200,81000119104.0,2967570018.0,B219 ,HIV disease resulting in candidiasis
+HIV disease,287025012.0,A7892,A789200,81000119104.0,2967570018.0,B211 ,HIV disease resulting in candidiasis
+HIV disease,287025012.0,A7892,A789200,81000119104.0,2967570018.0,B212 ,HIV disease resulting in candidiasis
+HIV disease,287025012.0,A7892,A789200,81000119104.0,2967570018.0,B202 ,HIV disease resulting in candidiasis
+HIV disease,287025012.0,A7892,A789200,81000119104.0,2967570018.0,B209,HIV disease resulting in candidiasis
+HIV disease,287025012.0,A7892,A789200,81000119104.0,2967570018.0,B210 ,HIV disease resulting in candidiasis
+HIV disease,287025012.0,A7892,A789200,81000119104.0,2967570018.0,B204,HIV disease resulting in candidiasis
+HIV disease,287025012.0,A7892,A789200,81000119104.0,2967570018.0,B221 ,HIV disease resulting in candidiasis
+HIV disease,287025012.0,A7892,A789200,81000119104.0,2967570018.0,B231,HIV disease resulting in candidiasis
+HIV disease,287025012.0,A7892,A789200,81000119104.0,2967570018.0,B222 ,HIV disease resulting in candidiasis
+HIV disease,287025012.0,A7892,A789200,81000119104.0,2967570018.0,B227 ,HIV disease resulting in candidiasis
+HIV disease,287025012.0,A7892,A789200,81000119104.0,2967570018.0,B24X,HIV disease resulting in candidiasis
+HIV disease,287025012.0,A7892,A789200,81000119104.0,2967570018.0,B232 ,HIV disease resulting in candidiasis
+HIV disease,287025012.0,A7892,A789200,81000119104.0,2967570018.0,B207,HIV disease resulting in candidiasis
+HIV disease,287025012.0,A7892,A789200,81000119104.0,2967570018.0,B209 ,HIV disease resulting in candidiasis
+HIV disease,287025012.0,A7892,A789200,81000119104.0,2967570018.0,B218,HIV disease resulting in candidiasis
+HIV disease,287025012.0,A7892,A789200,81000119104.0,2967570018.0,B238,HIV disease resulting in candidiasis
+HIV disease,287025012.0,A7892,A789200,81000119104.0,2967570018.0,B220,HIV disease resulting in candidiasis
+HIV disease,287025012.0,A7892,A789200,81000119104.0,2967570018.0,B211,HIV disease resulting in candidiasis
+HIV disease,287025012.0,A7892,A789200,81000119104.0,2967570018.0,B227,HIV disease resulting in candidiasis
+HIV disease,287025012.0,A7892,A789200,81000119104.0,2967570018.0,B230,HIV disease resulting in candidiasis
+HIV disease,287025012.0,A7892,A789200,81000119104.0,2967570018.0,B201,HIV disease resulting in candidiasis
+HIV disease,287025012.0,A7892,A789200,81000119104.0,2967570018.0,B222,HIV disease resulting in candidiasis
+HIV disease,287025012.0,A7892,A789200,81000119104.0,2967570018.0,B220 ,HIV disease resulting in candidiasis
+HIV disease,287025012.0,A7892,A789200,81000119104.0,2967570018.0,B221,HIV disease resulting in candidiasis
+HIV disease,287025012.0,A7892,A789200,81000119104.0,2967570018.0,B200 ,HIV disease resulting in candidiasis
+HIV disease,287025012.0,A7892,A789200,81000119104.0,2967570018.0,B231 ,HIV disease resulting in candidiasis
+HIV disease,287025012.0,A7892,A789200,81000119104.0,2967570018.0,B213 ,HIV disease resulting in candidiasis
+HIV disease,287025012.0,A7892,A789200,81000119104.0,2967570018.0,B203,HIV disease resulting in candidiasis
+HIV disease,287025012.0,A7892,A789200,81000119104.0,2967570018.0,B202,HIV disease resulting in candidiasis
+HIV disease,287025012.0,A7892,A789200,81000119104.0,2967570018.0,B204 ,HIV disease resulting in candidiasis
+HIV disease,287025012.0,A7892,A789200,81000119104.0,2967570018.0,B208 ,HIV disease resulting in candidiasis
+HIV disease,287025012.0,A7892,A789200,81000119104.0,2967570018.0,B201 ,HIV disease resulting in candidiasis
+HIV disease,287025012.0,A7892,A789200,81000119104.0,2967570018.0,B206 ,HIV disease resulting in candidiasis
+HIV disease,287025012.0,A7892,A789200,81000119104.0,2967570018.0,B205,HIV disease resulting in candidiasis
+HIV disease,287025012.0,A7892,A789200,81000119104.0,2967570018.0,B207 ,HIV disease resulting in candidiasis
+HIV disease,287025012.0,A7892,A789200,81000119104.0,2967570018.0,B219,HIV disease resulting in candidiasis
+HIV disease,825831000006113.0,A7893,A789300,420403001.0,2617400016.0,B206,HIV disease resulting in Pneumocystis carinii pneumonia
+HIV disease,1814921000006112.0,A7893-1,A789311,420403001.0,2617400016.0,B206,HIV disease resulting in Pneumocystis jirovecii pneumonia
+HIV disease,287027016.0,A7894,A789400,186708007.0,287013014.0,B205,HIV disease resulting in multiple infections
+HIV disease,287027016.0,A7894,A789400,186708007.0,287013014.0,B205 ,HIV disease resulting in multiple infections
+HIV disease,287027016.0,A7894,A789400,186708007.0,287013014.0,B202,HIV disease resulting in multiple infections
+HIV disease,287027016.0,A7894,A789400,186708007.0,287013014.0,B200,HIV disease resulting in multiple infections
+HIV disease,287027016.0,A7894,A789400,186708007.0,287013014.0,B207 ,HIV disease resulting in multiple infections
+HIV disease,287027016.0,A7894,A789400,186708007.0,287013014.0,B204 ,HIV disease resulting in multiple infections
+HIV disease,287027016.0,A7894,A789400,186708007.0,287013014.0,B208 ,HIV disease resulting in multiple infections
+HIV disease,287027016.0,A7894,A789400,186708007.0,287013014.0,B208,HIV disease resulting in multiple infections
+HIV disease,287027016.0,A7894,A789400,186708007.0,287013014.0,B203,HIV disease resulting in multiple infections
+HIV disease,287027016.0,A7894,A789400,186708007.0,287013014.0,B207,HIV disease resulting in multiple infections
+HIV disease,287027016.0,A7894,A789400,186708007.0,287013014.0,B201,HIV disease resulting in multiple infections
+HIV disease,287027016.0,A7894,A789400,186708007.0,287013014.0,B204,HIV disease resulting in multiple infections
+HIV disease,287027016.0,A7894,A789400,186708007.0,287013014.0,B209 ,HIV disease resulting in multiple infections
+HIV disease,287027016.0,A7894,A789400,186708007.0,287013014.0,B206,HIV disease resulting in multiple infections
+HIV disease,287027016.0,A7894,A789400,186708007.0,287013014.0,B203 ,HIV disease resulting in multiple infections
+HIV disease,287027016.0,A7894,A789400,186708007.0,287013014.0,B209,HIV disease resulting in multiple infections
+HIV disease,287027016.0,A7894,A789400,186708007.0,287013014.0,B202 ,HIV disease resulting in multiple infections
+HIV disease,287027016.0,A7894,A789400,186708007.0,287013014.0,B206 ,HIV disease resulting in multiple infections
+HIV disease,287027016.0,A7894,A789400,186708007.0,287013014.0,B201 ,HIV disease resulting in multiple infections
+HIV disease,287027016.0,A7894,A789400,186708007.0,287013014.0,B200 ,HIV disease resulting in multiple infections
+HIV disease,825771000006119.0,A7895,A789500,420524008.0,2617386013.0,C469,HIV disease resulting in Kaposi's sarcoma
+HIV disease,825771000006119.0,A7895,A789500,420524008.0,2617386013.0,B210,HIV disease resulting in Kaposi's sarcoma
+HIV disease,1814931000006110.0,A7895-1,A789511,420524008.0,2614767011.0,C469,HIV disease resulting in Kaposi sarcoma
+HIV disease,1814931000006110.0,A7895-1,A789511,420524008.0,2614767011.0,B210,HIV disease resulting in Kaposi sarcoma
+HIV disease,287029018.0,A7896,A789600,713897006.0,3297968018.0,B24X,HIV disease resulting in Burkitt's lymphoma
+HIV disease,287029018.0,A7896,A789600,713897006.0,3297968018.0,C837,HIV disease resulting in Burkitt's lymphoma
+HIV disease,825721000006115.0,A7897,A789700,442537007.0,2816358010.0,C822,HIV dis resulting oth types of non-Hodgkin's lymphoma
+HIV disease,825721000006115.0,A7897,A789700,442537007.0,2816358010.0,C833,HIV dis resulting oth types of non-Hodgkin's lymphoma
+HIV disease,825721000006115.0,A7897,A789700,442537007.0,2816358010.0,C839,HIV dis resulting oth types of non-Hodgkin's lymphoma
+HIV disease,825721000006115.0,A7897,A789700,442537007.0,2816358010.0,C823,HIV dis resulting oth types of non-Hodgkin's lymphoma
+HIV disease,825721000006115.0,A7897,A789700,442537007.0,2816358010.0,C824,HIV dis resulting oth types of non-Hodgkin's lymphoma
+HIV disease,825721000006115.0,A7897,A789700,442537007.0,2816358010.0,C820,HIV dis resulting oth types of non-Hodgkin's lymphoma
+HIV disease,825721000006115.0,A7897,A789700,442537007.0,2816358010.0,C826,HIV dis resulting oth types of non-Hodgkin's lymphoma
+HIV disease,825721000006115.0,A7897,A789700,442537007.0,2816358010.0,C825,HIV dis resulting oth types of non-Hodgkin's lymphoma
+HIV disease,825721000006115.0,A7897,A789700,442537007.0,2816358010.0,B211,HIV dis resulting oth types of non-Hodgkin's lymphoma
+HIV disease,825721000006115.0,A7897,A789700,442537007.0,2816358010.0,C837,HIV dis resulting oth types of non-Hodgkin's lymphoma
+HIV disease,825721000006115.0,A7897,A789700,442537007.0,2816358010.0,C835,HIV dis resulting oth types of non-Hodgkin's lymphoma
+HIV disease,825721000006115.0,A7897,A789700,442537007.0,2816358010.0,C830,HIV dis resulting oth types of non-Hodgkin's lymphoma
+HIV disease,825721000006115.0,A7897,A789700,442537007.0,2816358010.0,B212,HIV dis resulting oth types of non-Hodgkin's lymphoma
+HIV disease,825721000006115.0,A7897,A789700,442537007.0,2816358010.0,C829,HIV dis resulting oth types of non-Hodgkin's lymphoma
+HIV disease,825721000006115.0,A7897,A789700,442537007.0,2816358010.0,C852,HIV dis resulting oth types of non-Hodgkin's lymphoma
+HIV disease,825721000006115.0,A7897,A789700,442537007.0,2816358010.0,C838,HIV dis resulting oth types of non-Hodgkin's lymphoma
+HIV disease,825721000006115.0,A7897,A789700,442537007.0,2816358010.0,C859,HIV dis resulting oth types of non-Hodgkin's lymphoma
+HIV disease,825721000006115.0,A7897,A789700,442537007.0,2816358010.0,C857,HIV dis resulting oth types of non-Hodgkin's lymphoma
+HIV disease,825721000006115.0,A7897,A789700,442537007.0,2816358010.0,C851,HIV dis resulting oth types of non-Hodgkin's lymphoma
+HIV disease,825721000006115.0,A7897,A789700,442537007.0,2816358010.0,C827,HIV dis resulting oth types of non-Hodgkin's lymphoma
+HIV disease,825721000006115.0,A7897,A789700,442537007.0,2816358010.0,C831,HIV dis resulting oth types of non-Hodgkin's lymphoma
+HIV disease,825721000006115.0,A7897,A789700,442537007.0,2816358010.0,C821,HIV dis resulting oth types of non-Hodgkin's lymphoma
+HIV disease,287031010.0,A7898,A789800,713572001.0,3290189011.0,C809,HIV disease resulting in multiple malignant neoplasms
+HIV disease,287031010.0,A7898,A789800,713572001.0,3290189011.0,B24X,HIV disease resulting in multiple malignant neoplasms
+HIV disease,287032015.0,A7899,A789900,421671002.0,2614782018.0,B208,HIV disease resulting in lymphoid interstitial pneumonitis
+HIV disease,2622348012.0,A789A,A789A00,422003001.0,2622348012.0,B222,HIV disease resulting in wasting syndrome
+HIV disease,825711000006111.0,A789X,A789X00,86406008.0,143288017.0,B204,"HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu"
+HIV disease,825711000006111.0,A789X,A789X00,86406008.0,143288017.0,B211,"HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu"
+HIV disease,825711000006111.0,A789X,A789X00,86406008.0,143288017.0,B222,"HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu"
+HIV disease,825711000006111.0,A789X,A789X00,86406008.0,143288017.0,B210,"HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu"
+HIV disease,825711000006111.0,A789X,A789X00,86406008.0,143288017.0,B205,"HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu"
+HIV disease,825711000006111.0,A789X,A789X00,86406008.0,143288017.0,B218,"HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu"
+HIV disease,825711000006111.0,A789X,A789X00,86406008.0,143288017.0,B207,"HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu"
+HIV disease,825711000006111.0,A789X,A789X00,86406008.0,143288017.0,B209,"HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu"
+HIV disease,825711000006111.0,A789X,A789X00,86406008.0,143288017.0,B212,"HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu"
+HIV disease,825711000006111.0,A789X,A789X00,86406008.0,143288017.0,B227,"HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu"
+HIV disease,825711000006111.0,A789X,A789X00,86406008.0,143288017.0,B238,"HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu"
+HIV disease,825711000006111.0,A789X,A789X00,86406008.0,143288017.0,B201,"HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu"
+HIV disease,825711000006111.0,A789X,A789X00,86406008.0,143288017.0,B203,"HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu"
+HIV disease,825711000006111.0,A789X,A789X00,86406008.0,143288017.0,B220,"HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu"
+HIV disease,825711000006111.0,A789X,A789X00,86406008.0,143288017.0,B219,"HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu"
+HIV disease,825711000006111.0,A789X,A789X00,86406008.0,143288017.0,B206,"HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu"
+HIV disease,825711000006111.0,A789X,A789X00,86406008.0,143288017.0,B200,"HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu"
+HIV disease,825711000006111.0,A789X,A789X00,86406008.0,143288017.0,B202,"HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu"
+HIV disease,825711000006111.0,A789X,A789X00,86406008.0,143288017.0,B217,"HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu"
+HIV disease,825711000006111.0,A789X,A789X00,86406008.0,143288017.0,B230,"HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu"
+HIV disease,825711000006111.0,A789X,A789X00,86406008.0,143288017.0,B231,"HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu"
+HIV disease,825711000006111.0,A789X,A789X00,86406008.0,143288017.0,B213,"HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu"
+HIV disease,825711000006111.0,A789X,A789X00,86406008.0,143288017.0,B24X,"HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu"
+HIV disease,825711000006111.0,A789X,A789X00,86406008.0,143288017.0,B221,"HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu"
+HIV disease,825711000006111.0,A789X,A789X00,86406008.0,143288017.0,B232,"HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu"
+HIV disease,825711000006111.0,A789X,A789X00,86406008.0,143288017.0,B208,"HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu"
+HIV disease,288173019.0,AyuC,AyuC.00,86406008.0,143288017.0,B204,[X]Human immunodeficiency virus disease
+HIV disease,288173019.0,AyuC,AyuC.00,86406008.0,143288017.0,B211,[X]Human immunodeficiency virus disease
+HIV disease,288173019.0,AyuC,AyuC.00,86406008.0,143288017.0,B222,[X]Human immunodeficiency virus disease
+HIV disease,288173019.0,AyuC,AyuC.00,86406008.0,143288017.0,B210,[X]Human immunodeficiency virus disease
+HIV disease,288173019.0,AyuC,AyuC.00,86406008.0,143288017.0,B205,[X]Human immunodeficiency virus disease
+HIV disease,288173019.0,AyuC,AyuC.00,86406008.0,143288017.0,B218,[X]Human immunodeficiency virus disease
+HIV disease,288173019.0,AyuC,AyuC.00,86406008.0,143288017.0,B207,[X]Human immunodeficiency virus disease
+HIV disease,288173019.0,AyuC,AyuC.00,86406008.0,143288017.0,B209,[X]Human immunodeficiency virus disease
+HIV disease,288173019.0,AyuC,AyuC.00,86406008.0,143288017.0,B212,[X]Human immunodeficiency virus disease
+HIV disease,288173019.0,AyuC,AyuC.00,86406008.0,143288017.0,B227,[X]Human immunodeficiency virus disease
+HIV disease,288173019.0,AyuC,AyuC.00,86406008.0,143288017.0,B238,[X]Human immunodeficiency virus disease
+HIV disease,288173019.0,AyuC,AyuC.00,86406008.0,143288017.0,B201,[X]Human immunodeficiency virus disease
+HIV disease,288173019.0,AyuC,AyuC.00,86406008.0,143288017.0,B203,[X]Human immunodeficiency virus disease
+HIV disease,288173019.0,AyuC,AyuC.00,86406008.0,143288017.0,B220,[X]Human immunodeficiency virus disease
+HIV disease,288173019.0,AyuC,AyuC.00,86406008.0,143288017.0,B219,[X]Human immunodeficiency virus disease
+HIV disease,288173019.0,AyuC,AyuC.00,86406008.0,143288017.0,B206,[X]Human immunodeficiency virus disease
+HIV disease,288173019.0,AyuC,AyuC.00,86406008.0,143288017.0,B200,[X]Human immunodeficiency virus disease
+HIV disease,288173019.0,AyuC,AyuC.00,86406008.0,143288017.0,B202,[X]Human immunodeficiency virus disease
+HIV disease,288173019.0,AyuC,AyuC.00,86406008.0,143288017.0,B217,[X]Human immunodeficiency virus disease
+HIV disease,288173019.0,AyuC,AyuC.00,86406008.0,143288017.0,B230,[X]Human immunodeficiency virus disease
+HIV disease,288173019.0,AyuC,AyuC.00,86406008.0,143288017.0,B231,[X]Human immunodeficiency virus disease
+HIV disease,288173019.0,AyuC,AyuC.00,86406008.0,143288017.0,B213,[X]Human immunodeficiency virus disease
+HIV disease,288173019.0,AyuC,AyuC.00,86406008.0,143288017.0,B24X,[X]Human immunodeficiency virus disease
+HIV disease,288173019.0,AyuC,AyuC.00,86406008.0,143288017.0,B221,[X]Human immunodeficiency virus disease
+HIV disease,288173019.0,AyuC,AyuC.00,86406008.0,143288017.0,B232,[X]Human immunodeficiency virus disease
+HIV disease,288173019.0,AyuC,AyuC.00,86406008.0,143288017.0,B208,[X]Human immunodeficiency virus disease
+HIV disease,288177018.0,AyuC1,AyuC100,186708007.0,287013014.0,B205,[X]HIV disease resulting in other viral infections
+HIV disease,288177018.0,AyuC1,AyuC100,186708007.0,287013014.0,B205 ,[X]HIV disease resulting in other viral infections
+HIV disease,288177018.0,AyuC1,AyuC100,186708007.0,287013014.0,B202,[X]HIV disease resulting in other viral infections
+HIV disease,288177018.0,AyuC1,AyuC100,186708007.0,287013014.0,B200,[X]HIV disease resulting in other viral infections
+HIV disease,288177018.0,AyuC1,AyuC100,186708007.0,287013014.0,B207 ,[X]HIV disease resulting in other viral infections
+HIV disease,288177018.0,AyuC1,AyuC100,186708007.0,287013014.0,B204 ,[X]HIV disease resulting in other viral infections
+HIV disease,288177018.0,AyuC1,AyuC100,186708007.0,287013014.0,B208 ,[X]HIV disease resulting in other viral infections
+HIV disease,288177018.0,AyuC1,AyuC100,186708007.0,287013014.0,B208,[X]HIV disease resulting in other viral infections
+HIV disease,288177018.0,AyuC1,AyuC100,186708007.0,287013014.0,B203,[X]HIV disease resulting in other viral infections
+HIV disease,288177018.0,AyuC1,AyuC100,186708007.0,287013014.0,B207,[X]HIV disease resulting in other viral infections
+HIV disease,288177018.0,AyuC1,AyuC100,186708007.0,287013014.0,B201,[X]HIV disease resulting in other viral infections
+HIV disease,288177018.0,AyuC1,AyuC100,186708007.0,287013014.0,B204,[X]HIV disease resulting in other viral infections
+HIV disease,288177018.0,AyuC1,AyuC100,186708007.0,287013014.0,B209 ,[X]HIV disease resulting in other viral infections
+HIV disease,288177018.0,AyuC1,AyuC100,186708007.0,287013014.0,B206,[X]HIV disease resulting in other viral infections
+HIV disease,288177018.0,AyuC1,AyuC100,186708007.0,287013014.0,B203 ,[X]HIV disease resulting in other viral infections
+HIV disease,288177018.0,AyuC1,AyuC100,186708007.0,287013014.0,B209,[X]HIV disease resulting in other viral infections
+HIV disease,288177018.0,AyuC1,AyuC100,186708007.0,287013014.0,B202 ,[X]HIV disease resulting in other viral infections
+HIV disease,288177018.0,AyuC1,AyuC100,186708007.0,287013014.0,B206 ,[X]HIV disease resulting in other viral infections
+HIV disease,288177018.0,AyuC1,AyuC100,186708007.0,287013014.0,B201 ,[X]HIV disease resulting in other viral infections
+HIV disease,288177018.0,AyuC1,AyuC100,186708007.0,287013014.0,B200 ,[X]HIV disease resulting in other viral infections
+HIV disease,389021000006114.0,AyuC3,AyuC300,186708007.0,287013014.0,B205,[X]HIV disease resulting in multiple infections
+HIV disease,389021000006114.0,AyuC3,AyuC300,186708007.0,287013014.0,B205 ,[X]HIV disease resulting in multiple infections
+HIV disease,389021000006114.0,AyuC3,AyuC300,186708007.0,287013014.0,B202,[X]HIV disease resulting in multiple infections
+HIV disease,389021000006114.0,AyuC3,AyuC300,186708007.0,287013014.0,B200,[X]HIV disease resulting in multiple infections
+HIV disease,389021000006114.0,AyuC3,AyuC300,186708007.0,287013014.0,B207 ,[X]HIV disease resulting in multiple infections
+HIV disease,389021000006114.0,AyuC3,AyuC300,186708007.0,287013014.0,B204 ,[X]HIV disease resulting in multiple infections
+HIV disease,389021000006114.0,AyuC3,AyuC300,186708007.0,287013014.0,B208 ,[X]HIV disease resulting in multiple infections
+HIV disease,389021000006114.0,AyuC3,AyuC300,186708007.0,287013014.0,B208,[X]HIV disease resulting in multiple infections
+HIV disease,389021000006114.0,AyuC3,AyuC300,186708007.0,287013014.0,B203,[X]HIV disease resulting in multiple infections
+HIV disease,389021000006114.0,AyuC3,AyuC300,186708007.0,287013014.0,B207,[X]HIV disease resulting in multiple infections
+HIV disease,389021000006114.0,AyuC3,AyuC300,186708007.0,287013014.0,B201,[X]HIV disease resulting in multiple infections
+HIV disease,389021000006114.0,AyuC3,AyuC300,186708007.0,287013014.0,B204,[X]HIV disease resulting in multiple infections
+HIV disease,389021000006114.0,AyuC3,AyuC300,186708007.0,287013014.0,B209 ,[X]HIV disease resulting in multiple infections
+HIV disease,389021000006114.0,AyuC3,AyuC300,186708007.0,287013014.0,B206,[X]HIV disease resulting in multiple infections
+HIV disease,389021000006114.0,AyuC3,AyuC300,186708007.0,287013014.0,B203 ,[X]HIV disease resulting in multiple infections
+HIV disease,389021000006114.0,AyuC3,AyuC300,186708007.0,287013014.0,B209,[X]HIV disease resulting in multiple infections
+HIV disease,389021000006114.0,AyuC3,AyuC300,186708007.0,287013014.0,B202 ,[X]HIV disease resulting in multiple infections
+HIV disease,389021000006114.0,AyuC3,AyuC300,186708007.0,287013014.0,B206 ,[X]HIV disease resulting in multiple infections
+HIV disease,389021000006114.0,AyuC3,AyuC300,186708007.0,287013014.0,B201 ,[X]HIV disease resulting in multiple infections
+HIV disease,389021000006114.0,AyuC3,AyuC300,186708007.0,287013014.0,B200 ,[X]HIV disease resulting in multiple infections
+HIV disease,389101000006117.0,AyuC4,AyuC400,186708007.0,287013014.0,B205,[X]HIV disease resulting/other infectious+parasitic diseases
+HIV disease,389101000006117.0,AyuC4,AyuC400,186708007.0,287013014.0,B205 ,[X]HIV disease resulting/other infectious+parasitic diseases
+HIV disease,389101000006117.0,AyuC4,AyuC400,186708007.0,287013014.0,B202,[X]HIV disease resulting/other infectious+parasitic diseases
+HIV disease,389101000006117.0,AyuC4,AyuC400,186708007.0,287013014.0,B200,[X]HIV disease resulting/other infectious+parasitic diseases
+HIV disease,389101000006117.0,AyuC4,AyuC400,186708007.0,287013014.0,B207 ,[X]HIV disease resulting/other infectious+parasitic diseases
+HIV disease,389101000006117.0,AyuC4,AyuC400,186708007.0,287013014.0,B204 ,[X]HIV disease resulting/other infectious+parasitic diseases
+HIV disease,389101000006117.0,AyuC4,AyuC400,186708007.0,287013014.0,B208 ,[X]HIV disease resulting/other infectious+parasitic diseases
+HIV disease,389101000006117.0,AyuC4,AyuC400,186708007.0,287013014.0,B208,[X]HIV disease resulting/other infectious+parasitic diseases
+HIV disease,389101000006117.0,AyuC4,AyuC400,186708007.0,287013014.0,B203,[X]HIV disease resulting/other infectious+parasitic diseases
+HIV disease,389101000006117.0,AyuC4,AyuC400,186708007.0,287013014.0,B207,[X]HIV disease resulting/other infectious+parasitic diseases
+HIV disease,389101000006117.0,AyuC4,AyuC400,186708007.0,287013014.0,B201,[X]HIV disease resulting/other infectious+parasitic diseases
+HIV disease,389101000006117.0,AyuC4,AyuC400,186708007.0,287013014.0,B204,[X]HIV disease resulting/other infectious+parasitic diseases
+HIV disease,389101000006117.0,AyuC4,AyuC400,186708007.0,287013014.0,B209 ,[X]HIV disease resulting/other infectious+parasitic diseases
+HIV disease,389101000006117.0,AyuC4,AyuC400,186708007.0,287013014.0,B206,[X]HIV disease resulting/other infectious+parasitic diseases
+HIV disease,389101000006117.0,AyuC4,AyuC400,186708007.0,287013014.0,B203 ,[X]HIV disease resulting/other infectious+parasitic diseases
+HIV disease,389101000006117.0,AyuC4,AyuC400,186708007.0,287013014.0,B209,[X]HIV disease resulting/other infectious+parasitic diseases
+HIV disease,389101000006117.0,AyuC4,AyuC400,186708007.0,287013014.0,B202 ,[X]HIV disease resulting/other infectious+parasitic diseases
+HIV disease,389101000006117.0,AyuC4,AyuC400,186708007.0,287013014.0,B206 ,[X]HIV disease resulting/other infectious+parasitic diseases
+HIV disease,389101000006117.0,AyuC4,AyuC400,186708007.0,287013014.0,B201 ,[X]HIV disease resulting/other infectious+parasitic diseases
+HIV disease,389101000006117.0,AyuC4,AyuC400,186708007.0,287013014.0,B200 ,[X]HIV disease resulting/other infectious+parasitic diseases
+HIV disease,288182013.0,AyuC6,AyuC600,442537007.0,2816358010.0,C822,[X]HIV disease resulting in other non-Hodgkin's lymphoma
+HIV disease,288182013.0,AyuC6,AyuC600,442537007.0,2816358010.0,C833,[X]HIV disease resulting in other non-Hodgkin's lymphoma
+HIV disease,288182013.0,AyuC6,AyuC600,442537007.0,2816358010.0,C839,[X]HIV disease resulting in other non-Hodgkin's lymphoma
+HIV disease,288182013.0,AyuC6,AyuC600,442537007.0,2816358010.0,C823,[X]HIV disease resulting in other non-Hodgkin's lymphoma
+HIV disease,288182013.0,AyuC6,AyuC600,442537007.0,2816358010.0,C824,[X]HIV disease resulting in other non-Hodgkin's lymphoma
+HIV disease,288182013.0,AyuC6,AyuC600,442537007.0,2816358010.0,C820,[X]HIV disease resulting in other non-Hodgkin's lymphoma
+HIV disease,288182013.0,AyuC6,AyuC600,442537007.0,2816358010.0,C826,[X]HIV disease resulting in other non-Hodgkin's lymphoma
+HIV disease,288182013.0,AyuC6,AyuC600,442537007.0,2816358010.0,C825,[X]HIV disease resulting in other non-Hodgkin's lymphoma
+HIV disease,288182013.0,AyuC6,AyuC600,442537007.0,2816358010.0,B211,[X]HIV disease resulting in other non-Hodgkin's lymphoma
+HIV disease,288182013.0,AyuC6,AyuC600,442537007.0,2816358010.0,C837,[X]HIV disease resulting in other non-Hodgkin's lymphoma
+HIV disease,288182013.0,AyuC6,AyuC600,442537007.0,2816358010.0,C835,[X]HIV disease resulting in other non-Hodgkin's lymphoma
+HIV disease,288182013.0,AyuC6,AyuC600,442537007.0,2816358010.0,C830,[X]HIV disease resulting in other non-Hodgkin's lymphoma
+HIV disease,288182013.0,AyuC6,AyuC600,442537007.0,2816358010.0,B212,[X]HIV disease resulting in other non-Hodgkin's lymphoma
+HIV disease,288182013.0,AyuC6,AyuC600,442537007.0,2816358010.0,C829,[X]HIV disease resulting in other non-Hodgkin's lymphoma
+HIV disease,288182013.0,AyuC6,AyuC600,442537007.0,2816358010.0,C852,[X]HIV disease resulting in other non-Hodgkin's lymphoma
+HIV disease,288182013.0,AyuC6,AyuC600,442537007.0,2816358010.0,C838,[X]HIV disease resulting in other non-Hodgkin's lymphoma
+HIV disease,288182013.0,AyuC6,AyuC600,442537007.0,2816358010.0,C859,[X]HIV disease resulting in other non-Hodgkin's lymphoma
+HIV disease,288182013.0,AyuC6,AyuC600,442537007.0,2816358010.0,C857,[X]HIV disease resulting in other non-Hodgkin's lymphoma
+HIV disease,288182013.0,AyuC6,AyuC600,442537007.0,2816358010.0,C851,[X]HIV disease resulting in other non-Hodgkin's lymphoma
+HIV disease,288182013.0,AyuC6,AyuC600,442537007.0,2816358010.0,C827,[X]HIV disease resulting in other non-Hodgkin's lymphoma
+HIV disease,288182013.0,AyuC6,AyuC600,442537007.0,2816358010.0,C831,[X]HIV disease resulting in other non-Hodgkin's lymphoma
+HIV disease,288182013.0,AyuC6,AyuC600,442537007.0,2816358010.0,C821,[X]HIV disease resulting in other non-Hodgkin's lymphoma
+HIV disease,389001000006116.0,AyuCB,AyuCB00,943041000000105.0,2412691000000112.0,B232,"[X]HIV disease result/haematological+immunologic abnorms,NEC"
+HIV disease,288190013.0,AyuCC,AyuCC00,86406008.0,143288017.0,B204,[X]HIV disease resulting in other specified conditions
+HIV disease,288190013.0,AyuCC,AyuCC00,86406008.0,143288017.0,B211,[X]HIV disease resulting in other specified conditions
+HIV disease,288190013.0,AyuCC,AyuCC00,86406008.0,143288017.0,B222,[X]HIV disease resulting in other specified conditions
+HIV disease,288190013.0,AyuCC,AyuCC00,86406008.0,143288017.0,B210,[X]HIV disease resulting in other specified conditions
+HIV disease,288190013.0,AyuCC,AyuCC00,86406008.0,143288017.0,B205,[X]HIV disease resulting in other specified conditions
+HIV disease,288190013.0,AyuCC,AyuCC00,86406008.0,143288017.0,B218,[X]HIV disease resulting in other specified conditions
+HIV disease,288190013.0,AyuCC,AyuCC00,86406008.0,143288017.0,B207,[X]HIV disease resulting in other specified conditions
+HIV disease,288190013.0,AyuCC,AyuCC00,86406008.0,143288017.0,B209,[X]HIV disease resulting in other specified conditions
+HIV disease,288190013.0,AyuCC,AyuCC00,86406008.0,143288017.0,B212,[X]HIV disease resulting in other specified conditions
+HIV disease,288190013.0,AyuCC,AyuCC00,86406008.0,143288017.0,B227,[X]HIV disease resulting in other specified conditions
+HIV disease,288190013.0,AyuCC,AyuCC00,86406008.0,143288017.0,B238,[X]HIV disease resulting in other specified conditions
+HIV disease,288190013.0,AyuCC,AyuCC00,86406008.0,143288017.0,B201,[X]HIV disease resulting in other specified conditions
+HIV disease,288190013.0,AyuCC,AyuCC00,86406008.0,143288017.0,B203,[X]HIV disease resulting in other specified conditions
+HIV disease,288190013.0,AyuCC,AyuCC00,86406008.0,143288017.0,B220,[X]HIV disease resulting in other specified conditions
+HIV disease,288190013.0,AyuCC,AyuCC00,86406008.0,143288017.0,B219,[X]HIV disease resulting in other specified conditions
+HIV disease,288190013.0,AyuCC,AyuCC00,86406008.0,143288017.0,B206,[X]HIV disease resulting in other specified conditions
+HIV disease,288190013.0,AyuCC,AyuCC00,86406008.0,143288017.0,B200,[X]HIV disease resulting in other specified conditions
+HIV disease,288190013.0,AyuCC,AyuCC00,86406008.0,143288017.0,B202,[X]HIV disease resulting in other specified conditions
+HIV disease,288190013.0,AyuCC,AyuCC00,86406008.0,143288017.0,B217,[X]HIV disease resulting in other specified conditions
+HIV disease,288190013.0,AyuCC,AyuCC00,86406008.0,143288017.0,B230,[X]HIV disease resulting in other specified conditions
+HIV disease,288190013.0,AyuCC,AyuCC00,86406008.0,143288017.0,B231,[X]HIV disease resulting in other specified conditions
+HIV disease,288190013.0,AyuCC,AyuCC00,86406008.0,143288017.0,B213,[X]HIV disease resulting in other specified conditions
+HIV disease,288190013.0,AyuCC,AyuCC00,86406008.0,143288017.0,B24X,[X]HIV disease resulting in other specified conditions
+HIV disease,288190013.0,AyuCC,AyuCC00,86406008.0,143288017.0,B221,[X]HIV disease resulting in other specified conditions
+HIV disease,288190013.0,AyuCC,AyuCC00,86406008.0,143288017.0,B232,[X]HIV disease resulting in other specified conditions
+HIV disease,288190013.0,AyuCC,AyuCC00,86406008.0,143288017.0,B208,[X]HIV disease resulting in other specified conditions
+HIV disease,288191012.0,AyuCD,AyuCD00,86406008.0,143288017.0,B204,[X]Unspecified human immunodeficiency virus [HIV] disease
+HIV disease,288191012.0,AyuCD,AyuCD00,86406008.0,143288017.0,B211,[X]Unspecified human immunodeficiency virus [HIV] disease
+HIV disease,288191012.0,AyuCD,AyuCD00,86406008.0,143288017.0,B222,[X]Unspecified human immunodeficiency virus [HIV] disease
+HIV disease,288191012.0,AyuCD,AyuCD00,86406008.0,143288017.0,B210,[X]Unspecified human immunodeficiency virus [HIV] disease
+HIV disease,288191012.0,AyuCD,AyuCD00,86406008.0,143288017.0,B205,[X]Unspecified human immunodeficiency virus [HIV] disease
+HIV disease,288191012.0,AyuCD,AyuCD00,86406008.0,143288017.0,B218,[X]Unspecified human immunodeficiency virus [HIV] disease
+HIV disease,288191012.0,AyuCD,AyuCD00,86406008.0,143288017.0,B207,[X]Unspecified human immunodeficiency virus [HIV] disease
+HIV disease,288191012.0,AyuCD,AyuCD00,86406008.0,143288017.0,B209,[X]Unspecified human immunodeficiency virus [HIV] disease
+HIV disease,288191012.0,AyuCD,AyuCD00,86406008.0,143288017.0,B212,[X]Unspecified human immunodeficiency virus [HIV] disease
+HIV disease,288191012.0,AyuCD,AyuCD00,86406008.0,143288017.0,B227,[X]Unspecified human immunodeficiency virus [HIV] disease
+HIV disease,288191012.0,AyuCD,AyuCD00,86406008.0,143288017.0,B238,[X]Unspecified human immunodeficiency virus [HIV] disease
+HIV disease,288191012.0,AyuCD,AyuCD00,86406008.0,143288017.0,B201,[X]Unspecified human immunodeficiency virus [HIV] disease
+HIV disease,288191012.0,AyuCD,AyuCD00,86406008.0,143288017.0,B203,[X]Unspecified human immunodeficiency virus [HIV] disease
+HIV disease,288191012.0,AyuCD,AyuCD00,86406008.0,143288017.0,B220,[X]Unspecified human immunodeficiency virus [HIV] disease
+HIV disease,288191012.0,AyuCD,AyuCD00,86406008.0,143288017.0,B219,[X]Unspecified human immunodeficiency virus [HIV] disease
+HIV disease,288191012.0,AyuCD,AyuCD00,86406008.0,143288017.0,B206,[X]Unspecified human immunodeficiency virus [HIV] disease
+HIV disease,288191012.0,AyuCD,AyuCD00,86406008.0,143288017.0,B200,[X]Unspecified human immunodeficiency virus [HIV] disease
+HIV disease,288191012.0,AyuCD,AyuCD00,86406008.0,143288017.0,B202,[X]Unspecified human immunodeficiency virus [HIV] disease
+HIV disease,288191012.0,AyuCD,AyuCD00,86406008.0,143288017.0,B217,[X]Unspecified human immunodeficiency virus [HIV] disease
+HIV disease,288191012.0,AyuCD,AyuCD00,86406008.0,143288017.0,B230,[X]Unspecified human immunodeficiency virus [HIV] disease
+HIV disease,288191012.0,AyuCD,AyuCD00,86406008.0,143288017.0,B231,[X]Unspecified human immunodeficiency virus [HIV] disease
+HIV disease,288191012.0,AyuCD,AyuCD00,86406008.0,143288017.0,B213,[X]Unspecified human immunodeficiency virus [HIV] disease
+HIV disease,288191012.0,AyuCD,AyuCD00,86406008.0,143288017.0,B24X,[X]Unspecified human immunodeficiency virus [HIV] disease
+HIV disease,288191012.0,AyuCD,AyuCD00,86406008.0,143288017.0,B221,[X]Unspecified human immunodeficiency virus [HIV] disease
+HIV disease,288191012.0,AyuCD,AyuCD00,86406008.0,143288017.0,B232,[X]Unspecified human immunodeficiency virus [HIV] disease
+HIV disease,288191012.0,AyuCD,AyuCD00,86406008.0,143288017.0,B208,[X]Unspecified human immunodeficiency virus [HIV] disease
+HIV disease,376571000006116.0,Eu024,Eu02400,421529006.0,2622767013.0,B220,[X]Dementia in human immunodef virus [HIV] disease
+HIV disease,317670010.0,R109,R109.00,165816005.0,257855012.0,Z21X,[D]Laboratory evidence of human immunodeficiency virus [HIV]
+HIV disease,337231000006117.0,ZV01A,ZV01A00,427921000000108.0,938141000000118.0,Z21X,[V]Asymptomatic human immunodeficency virus infection status

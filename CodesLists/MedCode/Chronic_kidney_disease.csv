@@ -1,0 +1,145 @@
+Condition,MedCodeId,Term
+Chronic kidney disease,8104231000006115.0,CKD (chronic kidney disease) stage 3 with proteinuria
+Chronic kidney disease,8104261000006112.0,CKD (chronic kidney disease) stage 3 without proteinuria
+Chronic kidney disease,8104301000006115.0,CKD (chronic kidney disease) stage 3A with proteinuria
+Chronic kidney disease,8104351000006115.0,CKD (chronic kidney disease) stage 3A without proteinuria
+Chronic kidney disease,8104381000006112.0,CKD (chronic kidney disease) stage 3B with proteinuria
+Chronic kidney disease,8104411000006110.0,CKD (chronic kidney disease) stage 3B without proteinuria
+Chronic kidney disease,8104451000006110.0,CKD (chronic kidney disease) stage 4 with proteinuria
+Chronic kidney disease,8104481000006115.0,CKD (chronic kidney disease) stage 4 without proteinuria
+Chronic kidney disease,8104511000006110.0,CKD (chronic kidney disease) stage 5 with proteinuria
+Chronic kidney disease,8104551000006112.0,CKD (chronic kidney disease) stage 5 without proteinuria
+Chronic kidney disease,7174791000006111.0,CKD stage 3
+Chronic kidney disease,618431000000114.0,CKD stage 3 with proteinuria
+Chronic kidney disease,618441000000117.0,CKD stage 3 without proteinuria
+Chronic kidney disease,618451000000119.0,CKD stage 3A with proteinuria
+Chronic kidney disease,618461000000116.0,CKD stage 3A without proteinuria
+Chronic kidney disease,618471000000111.0,CKD stage 3B with proteinuria
+Chronic kidney disease,618481000000113.0,CKD stage 3B without proteinuria
+Chronic kidney disease,7147781000006115.0,CKD stage 4
+Chronic kidney disease,618491000000110.0,CKD stage 4 with proteinuria
+Chronic kidney disease,618501000000116.0,CKD stage 4 without proteinuria
+Chronic kidney disease,7174851000006111.0,CKD stage 5
+Chronic kidney disease,618511000000119.0,CKD stage 5 with proteinuria
+Chronic kidney disease,1940621000006111.2,CKD with GFR category G3a & albuminuria category A1
+Chronic kidney disease,1940631000006114.0,CKD with GFR category G3a & albuminuria category A2
+Chronic kidney disease,1940641000006116.0,CKD with GFR category G3a & albuminuria category A3
+Chronic kidney disease,1940651000006119.2,CKD with GFR category G3b & albuminuria category A1
+Chronic kidney disease,1940661000006116.8,CKD with GFR category G3b & albuminuria category A2
+Chronic kidney disease,1940671000006112.0,CKD with GFR category G3b & albuminuria category A3
+Chronic kidney disease,1940501000006119.2,CKD with GFR category G4 & albuminuria category A1
+Chronic kidney disease,1940511000006116.0,CKD with GFR category G4 & albuminuria category A2
+Chronic kidney disease,1940521000006112.0,CKD with GFR category G4 & albuminuria category A3
+Chronic kidney disease,1940531000006110.0,CKD with GFR category G5 & albuminuria category A1
+Chronic kidney disease,1940541000006116.8,CKD with GFR category G5 & albuminuria category A2
+Chronic kidney disease,1940551000006115.2,CKD with GFR category G5 & albuminuria category A3
+Chronic kidney disease,2773184015.0,Chronic kidney disease stage 3
+Chronic kidney disease,304071000000115.0,Chronic kidney disease stage 3
+Chronic kidney disease,595811000000117.0,Chronic kidney disease stage 3 with proteinuria
+Chronic kidney disease,595871000000110.0,Chronic kidney disease stage 3 without proteinuria
+Chronic kidney disease,557811000000119.0,Chronic kidney disease stage 3A
+Chronic kidney disease,595931000000116.0,Chronic kidney disease stage 3A with proteinuria
+Chronic kidney disease,595991000000115.0,Chronic kidney disease stage 3A without proteinuria
+Chronic kidney disease,557831000000110.0,Chronic kidney disease stage 3B
+Chronic kidney disease,596051000000115.0,Chronic kidney disease stage 3B with proteinuria
+Chronic kidney disease,596131000000114.0,Chronic kidney disease stage 3B without proteinuria
+Chronic kidney disease,2767385013.0,Chronic kidney disease stage 4
+Chronic kidney disease,304091000000116.0,Chronic kidney disease stage 4
+Chronic kidney disease,596191000000110.0,Chronic kidney disease stage 4 with proteinuria
+Chronic kidney disease,596261000000111.0,Chronic kidney disease stage 4 without proteinuria
+Chronic kidney disease,8345881000006115.0,Chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A1
+Chronic kidney disease,8345901000006118.0,Chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A2
+Chronic kidney disease,8345931000006110.0,Chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A3
+Chronic kidney disease,8346001000006110.0,Chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A1
+Chronic kidney disease,8346021000006117.0,Chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A2
+Chronic kidney disease,8346041000006112.0,Chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A3
+Chronic kidney disease,8346101000006114.0,Chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A1
+Chronic kidney disease,8346121000006115.0,Chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A2
+Chronic kidney disease,8346151000006114.0,Chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A3
+Chronic kidney disease,8346171000006115.0,Chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A1
+Chronic kidney disease,8346201000006115.0,Chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A2
+Chronic kidney disease,8346221000006114.0,Chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A3
+Chronic kidney disease,3528309015.0,MCKD - Multicystic kidney disease
+Chronic kidney disease,117168016.0,Renal transplant
+Chronic kidney disease,1.2456601000006116e+16,[V]Aftercare involving extracorporeal dialysis
+Chronic kidney disease,1.2456611000006118e+16,[V]Aftercare involving intermittent dialysis
+Chronic kidney disease,1.2456621000006114e+16,[V]Aftercare involving peritoneal dialysis
+Chronic kidney disease,1.2456631000006112e+16,[V]Aftercare involving renal dialysis NOS
+Chronic kidney disease,1.2459361000006116e+16,[V]Other specified aftercare involving intermittent dialysis
+Chronic kidney disease,1.2461771000006116e+16,[V]Unspecified aftercare involving intermittent dialysis
+Chronic kidney disease,2767154014.0,Chronic kidney disease stage 5
+Chronic kidney disease,1.1924551000006114e+16,End-stage renal disease
+Chronic kidney disease,1.2704471000006116e+16,End-stage renal disease
+Chronic kidney disease,304111000000114.0,Chronic kidney disease stage 5
+Chronic kidney disease,596321000000110.0,Chronic kidney disease stage 5 with proteinuria
+Chronic kidney disease,596401000000111.0,Chronic kidney disease stage 5 without proteinuria
+Chronic kidney disease,618521000000113.0,CKD stage 5 without proteinuria
+Chronic kidney disease,501594013.0,Transplantation of kidney
+Chronic kidney disease,90471000006113.0,Transplantation of kidney from live donor
+Chronic kidney disease,272320011.0,Allotransplantation of kidney from live donor
+Chronic kidney disease,90461000006118.0,Transplantation of kidney from cadaver
+Chronic kidney disease,478131000006115.0,Allotransplantation of kidney from cadaver
+Chronic kidney disease,272325018.0,Cadaveric renal transplant
+Chronic kidney disease,372621000000114.0,"Allotransplantation of kidney from cadaver, heart-beating"
+Chronic kidney disease,1549841000006116.0,"Allotransplantation kidney from cadaver, heart non-beating"
+Chronic kidney disease,399381000000115.0,Allotransplantation of kidney from cadaver NEC
+Chronic kidney disease,272326017.0,Other specified transplantation of kidney
+Chronic kidney disease,272327014.0,Transplantation of kidney NOS
+Chronic kidney disease,272389014.0,Exploration of renal transplant
+Chronic kidney disease,366671000000118.0,Interventions associated with transplantation of kidney
+Chronic kidney disease,380101000000116.0,"Post-transplantation of kidney examination, recipient"
+Chronic kidney disease,1550021000006110.0,OS interventions associated with transplantation of kidney
+Chronic kidney disease,380061000000118.0,Interventions associated with transplantation of kidney NOS
+Chronic kidney disease,619541000006116.0,Dialysis for renal failure
+Chronic kidney disease,394640016.0,Renal dialysis
+Chronic kidney disease,106291000006118.0,Thomas intravascular shunt for dialysis
+Chronic kidney disease,118218017.0,Peritoneal dialysis
+Chronic kidney disease,278832011.0,Haemodialysis NEC
+Chronic kidney disease,2692168016.0,Automated peritoneal dialysis
+Chronic kidney disease,357219012.0,Continuous ambulatory peritoneal dialysis
+Chronic kidney disease,375841000000114.0,Peritoneal dialysis NEC
+Chronic kidney disease,228131000006117.0,Placement ambulatory dialysis apparatus - compens renal fail
+Chronic kidney disease,1705621000000113.0,Flushing of peritoneal dialysis catheter
+Chronic kidney disease,2195121000000112.8,Ruptured aneurysm of dialysis vascular access
+Chronic kidney disease,2195661000000114.0,Aneurysm of dialysis arteriovenous fistula
+Chronic kidney disease,1847091000006110.0,Aneurysm of superficialised artery of dialysis AV fistula
+Chronic kidney disease,2195721000000112.0,Aneurysm of needle site of dialysis arteriovenous fistula
+Chronic kidney disease,1847111000006118.0,Aneurysm of anastomotic site of dialysis AV fistula
+Chronic kidney disease,2210341000000112.8,Stenosis of dialysis vascular access
+Chronic kidney disease,2210381000000116.8,Thrombosis of dialysis vascular access
+Chronic kidney disease,2238301000000119.2,Thrombosis of dialysis arteriovenous fistula
+Chronic kidney disease,2237821000000118.0,Occlusion of dialysis vascular access
+Chronic kidney disease,2238421000000115.2,Occlusion of dialysis arteriovenous fistula
+Chronic kidney disease,2237861000000114.0,Infection of dialysis vascular access
+Chronic kidney disease,1870801000006111.2,Infection of dialysis arteriovenous fistula
+Chronic kidney disease,2237901000000119.2,Haemorrhage of dialysis vascular access
+Chronic kidney disease,2240871000000116.0,Haemorrhage of dialysis arteriovenous fistula
+Chronic kidney disease,641471000006117.0,End stage renal failure
+Chronic kidney disease,215521000000116.0,End stage renal failure
+Chronic kidney disease,641491000006116.0,End-stage renal disease
+Chronic kidney disease,30043012.0,Mechanical complication of dialysis catheter
+Chronic kidney disease,453312018.0,[X] Peritoneal dialysis associated peritonitis
+Chronic kidney disease,1743241000006119.0,Continuous ambulatory peritoneal dialysis associated perit
+Chronic kidney disease,2645965011.0,Stenosis of arteriovenous dialysis fistula
+Chronic kidney disease,324973015.0,Kidney transplant failure and rejection
+Chronic kidney disease,354619014.0,Chronic rejection of renal transplant
+Chronic kidney disease,413415016.0,Unexplained episode of renal transplant dysfunction
+Chronic kidney disease,2198141000000110.0,Stenosis of vein of transplanted kidney
+Chronic kidney disease,354610013.0,Renal transplant rejection
+Chronic kidney disease,2189151000000116.8,Urological complication of renal transplant
+Chronic kidney disease,2191221000000118.0,Vascular complication of renal transplant
+Chronic kidney disease,1848741000006116.0,Disorders associated with peritoneal dialysis
+Chronic kidney disease,2211311000000116.8,Haemodialysis first use syndrome
+Chronic kidney disease,2211671000000119.2,Anaphylactoid reaction due to haemodialysis
+Chronic kidney disease,441151000006115.0,"Accid cut,puncture,perf,h'ge - kidney dialysis"
+Chronic kidney disease,329116017.0,Failure of sterile precautions during kidney dialysis
+Chronic kidney disease,754061000006111.0,"Kidney transplant with complication, without blame"
+Chronic kidney disease,177251000006119.0,"Renal transplant with complication, without blame"
+Chronic kidney disease,460644012.0,[V]Kidney transplanted
+Chronic kidney disease,460910019.0,[V]Aftercare involving intermittent dialysis
+Chronic kidney disease,460911015.0,[V]Aftercare involving extracorporeal dialysis
+Chronic kidney disease,1227722017.0,[V]Aftercare involving renal dialysis NOS
+Chronic kidney disease,460913017.0,[V]Other specified aftercare involving intermittent dialysis
+Chronic kidney disease,1227723010.0,[V]Aftercare involving peritoneal dialysis
+Chronic kidney disease,460914011.0,[V]Unspecified aftercare involving intermittent dialysis
+Chronic kidney disease,461420012.0,[X]Other dialysis

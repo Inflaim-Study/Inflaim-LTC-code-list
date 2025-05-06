@@ -1,0 +1,12 @@
+Condition,OriginalReadCode,CleansedReadCode,Term
+Multiple sclerosis (and optic neuritis),F20,F20..00,Multiple sclerosis
+Multiple sclerosis (and optic neuritis),F20-1,F20..11,Disseminated sclerosis
+Multiple sclerosis (and optic neuritis),F200,F200.00,Multiple sclerosis of the brain stem
+Multiple sclerosis (and optic neuritis),F201,F201.00,Multiple sclerosis of the spinal cord
+Multiple sclerosis (and optic neuritis),F202,F202.00,Generalised multiple sclerosis
+Multiple sclerosis (and optic neuritis),F203,F203.00,Exacerbation of multiple sclerosis
+Multiple sclerosis (and optic neuritis),F204,F204.00,Benign multiple sclerosis
+Multiple sclerosis (and optic neuritis),F206,F206.00,Primary progressive multiple sclerosis
+Multiple sclerosis (and optic neuritis),F207,F207.00,Relapsing and remitting multiple sclerosis
+Multiple sclerosis (and optic neuritis),F208,F208.00,Secondary progressive multiple sclerosis
+Multiple sclerosis (and optic neuritis),F20z,F20z.00,Multiple sclerosis NOS

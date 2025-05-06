@@ -1,0 +1,25 @@
+Condition,OriginalReadCode,CleansedReadCode,Term
+Migraine,^ESCTCL257016,,Classical migraine
+Migraine,F26,F26..00,Migraine
+Migraine,F260,F260.00,Classical migraine
+Migraine,F260-1,F260.11,Migraine with aura
+Migraine,F261,F261.00,Common migraine
+Migraine,F261-1,F261.11,Migraine without aura
+Migraine,F2610,F261000,Atypical migraine
+Migraine,F261z,F261z00,Common migraine NOS
+Migraine,F262,F262.00,Migraine variants
+Migraine,F2622,F262200,Abdominal migraine
+Migraine,F2623,F262300,Basilar migraine
+Migraine,F2624,F262400,Ophthalmic migraine
+Migraine,F2628,F262800,Migraine induced by oestrogen contraceptive
+Migraine,F262z,F262z00,Migraine variant NOS
+Migraine,F26y,F26y.00,Other forms of migraine
+Migraine,F26y0,F26y000,Hemiplegic migraine
+Migraine,F26y1,F26y100,Ophthalmoplegic migraine
+Migraine,F26y1-1,F26y111,Moebius' ophthalmoplegic migraine
+Migraine,F26y2,F26y200,Status migrainosus
+Migraine,F26y3,F26y300,Complicated migraine
+Migraine,F26yz,F26yz00,Other forms of migraine NOS
+Migraine,F26z,F26z.00,Migraine NOS
+Migraine,Fyu53,Fyu5300,[X]Other migraine
+Migraine,K584-1,K584.11,Migraine - menstrual

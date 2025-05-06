@@ -1,0 +1,9 @@
+Condition,SnomedCTConceptId,SnomedCTDescriptionId,Term
+Eating disorders,56882008.0,94597012.0,Anorexia nervosa
+Eating disorders,78004001.0,129452012.0,Bulimia (non-organic overeating)
+Eating disorders,56882008.0,94597012.0,[X]Anorexia nervosa
+Eating disorders,231522009.0,347005011.0,[X]Atypical anorexia nervosa
+Eating disorders,78004001.0,129452012.0,[X]Bulimia nervosa
+Eating disorders,78004001.0,129452012.0,[X]Bulimia NOS
+Eating disorders,231523004.0,347006012.0,[X]Atypical bulimia nervosa
+Eating disorders,78004001.0,129453019.0,[D]Bulimia NOS

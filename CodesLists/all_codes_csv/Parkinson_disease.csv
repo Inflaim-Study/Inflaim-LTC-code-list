@@ -1,0 +1,83 @@
+Condition,MedCodeId,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,ICD10Code,Term
+Parkinson disease,3293631000006118.0,^ESCTID329363,,49049000.0,1230677014.0,G212 ,Idiopathic Parkinson's disease
+Parkinson disease,3293631000006118.0,^ESCTID329363,,49049000.0,1230677014.0,G213,Idiopathic Parkinson's disease
+Parkinson disease,3293631000006118.0,^ESCTID329363,,49049000.0,1230677014.0,G218,Idiopathic Parkinson's disease
+Parkinson disease,3293631000006118.0,^ESCTID329363,,49049000.0,1230677014.0,G213 ,Idiopathic Parkinson's disease
+Parkinson disease,3293631000006118.0,^ESCTID329363,,49049000.0,1230677014.0,G218 ,Idiopathic Parkinson's disease
+Parkinson disease,3293631000006118.0,^ESCTID329363,,49049000.0,1230677014.0,G214 ,Idiopathic Parkinson's disease
+Parkinson disease,3293631000006118.0,^ESCTID329363,,49049000.0,1230677014.0,G219,Idiopathic Parkinson's disease
+Parkinson disease,3293631000006118.0,^ESCTID329363,,49049000.0,1230677014.0,G210 ,Idiopathic Parkinson's disease
+Parkinson disease,3293631000006118.0,^ESCTID329363,,49049000.0,1230677014.0,G210,Idiopathic Parkinson's disease
+Parkinson disease,3293631000006118.0,^ESCTID329363,,49049000.0,1230677014.0,G219 ,Idiopathic Parkinson's disease
+Parkinson disease,3293631000006118.0,^ESCTID329363,,49049000.0,1230677014.0,G211 ,Idiopathic Parkinson's disease
+Parkinson disease,3293631000006118.0,^ESCTID329363,,49049000.0,1230677014.0,G212,Idiopathic Parkinson's disease
+Parkinson disease,3293631000006118.0,^ESCTID329363,,49049000.0,1230677014.0,G211,Idiopathic Parkinson's disease
+Parkinson disease,3293631000006118.0,^ESCTID329363,,49049000.0,1230677014.0,G214,Idiopathic Parkinson's disease
+Parkinson disease,3293631000006118.0,^ESCTID329363,,49049000.0,1230677014.0,G20X,Idiopathic Parkinson's disease
+Parkinson disease,3293631000006118.0,^ESCTID329363,,49049000.0,1230677014.0,G22X,Idiopathic Parkinson's disease
+Parkinson disease,3293611000006112.0,^ESCTPA329361,,49049000.0,81719014.0,G212 ,Paralysis agitans
+Parkinson disease,3293611000006112.0,^ESCTPA329361,,49049000.0,81719014.0,G213,Paralysis agitans
+Parkinson disease,3293611000006112.0,^ESCTPA329361,,49049000.0,81719014.0,G218,Paralysis agitans
+Parkinson disease,3293611000006112.0,^ESCTPA329361,,49049000.0,81719014.0,G213 ,Paralysis agitans
+Parkinson disease,3293611000006112.0,^ESCTPA329361,,49049000.0,81719014.0,G218 ,Paralysis agitans
+Parkinson disease,3293611000006112.0,^ESCTPA329361,,49049000.0,81719014.0,G214 ,Paralysis agitans
+Parkinson disease,3293611000006112.0,^ESCTPA329361,,49049000.0,81719014.0,G219,Paralysis agitans
+Parkinson disease,3293611000006112.0,^ESCTPA329361,,49049000.0,81719014.0,G210 ,Paralysis agitans
+Parkinson disease,3293611000006112.0,^ESCTPA329361,,49049000.0,81719014.0,G210,Paralysis agitans
+Parkinson disease,3293611000006112.0,^ESCTPA329361,,49049000.0,81719014.0,G219 ,Paralysis agitans
+Parkinson disease,3293611000006112.0,^ESCTPA329361,,49049000.0,81719014.0,G211 ,Paralysis agitans
+Parkinson disease,3293611000006112.0,^ESCTPA329361,,49049000.0,81719014.0,G212,Paralysis agitans
+Parkinson disease,3293611000006112.0,^ESCTPA329361,,49049000.0,81719014.0,G211,Paralysis agitans
+Parkinson disease,3293611000006112.0,^ESCTPA329361,,49049000.0,81719014.0,G214,Paralysis agitans
+Parkinson disease,3293611000006112.0,^ESCTPA329361,,49049000.0,81719014.0,G20X,Paralysis agitans
+Parkinson disease,3293611000006112.0,^ESCTPA329361,,49049000.0,81719014.0,G22X,Paralysis agitans
+Parkinson disease,295688010.0,Eu023,Eu02300,425390006.0,2921040013.0,G20X,[X]Dementia in Parkinson's disease
+Parkinson disease,636681000000117.0,F11x9,F11x900,341551000000108.0,636681000000117.0,G20X,Cerebral degeneration in Parkinson's disease
+Parkinson disease,81717011.0,F12,F12..00,49049000.0,81717011.0,G212 ,Parkinson's disease
+Parkinson disease,81717011.0,F12,F12..00,49049000.0,81717011.0,G213,Parkinson's disease
+Parkinson disease,81717011.0,F12,F12..00,49049000.0,81717011.0,G218,Parkinson's disease
+Parkinson disease,81717011.0,F12,F12..00,49049000.0,81717011.0,G213 ,Parkinson's disease
+Parkinson disease,81717011.0,F12,F12..00,49049000.0,81717011.0,G218 ,Parkinson's disease
+Parkinson disease,81717011.0,F12,F12..00,49049000.0,81717011.0,G214 ,Parkinson's disease
+Parkinson disease,81717011.0,F12,F12..00,49049000.0,81717011.0,G219,Parkinson's disease
+Parkinson disease,81717011.0,F12,F12..00,49049000.0,81717011.0,G210 ,Parkinson's disease
+Parkinson disease,81717011.0,F12,F12..00,49049000.0,81717011.0,G210,Parkinson's disease
+Parkinson disease,81717011.0,F12,F12..00,49049000.0,81717011.0,G219 ,Parkinson's disease
+Parkinson disease,81717011.0,F12,F12..00,49049000.0,81717011.0,G211 ,Parkinson's disease
+Parkinson disease,81717011.0,F12,F12..00,49049000.0,81717011.0,G212,Parkinson's disease
+Parkinson disease,81717011.0,F12,F12..00,49049000.0,81717011.0,G211,Parkinson's disease
+Parkinson disease,81717011.0,F12,F12..00,49049000.0,81717011.0,G214,Parkinson's disease
+Parkinson disease,81717011.0,F12,F12..00,49049000.0,81717011.0,G20X,Parkinson's disease
+Parkinson disease,81717011.0,F12,F12..00,49049000.0,81717011.0,G22X,Parkinson's disease
+Parkinson disease,81719014.0,F120,F120.00,49049000.0,81717011.0,G212 ,Paralysis agitans
+Parkinson disease,81719014.0,F120,F120.00,49049000.0,81717011.0,G213,Paralysis agitans
+Parkinson disease,81719014.0,F120,F120.00,49049000.0,81717011.0,G218,Paralysis agitans
+Parkinson disease,81719014.0,F120,F120.00,49049000.0,81717011.0,G213 ,Paralysis agitans
+Parkinson disease,81719014.0,F120,F120.00,49049000.0,81717011.0,G218 ,Paralysis agitans
+Parkinson disease,81719014.0,F120,F120.00,49049000.0,81717011.0,G214 ,Paralysis agitans
+Parkinson disease,81719014.0,F120,F120.00,49049000.0,81717011.0,G219,Paralysis agitans
+Parkinson disease,81719014.0,F120,F120.00,49049000.0,81717011.0,G210 ,Paralysis agitans
+Parkinson disease,81719014.0,F120,F120.00,49049000.0,81717011.0,G210,Paralysis agitans
+Parkinson disease,81719014.0,F120,F120.00,49049000.0,81717011.0,G219 ,Paralysis agitans
+Parkinson disease,81719014.0,F120,F120.00,49049000.0,81717011.0,G211 ,Paralysis agitans
+Parkinson disease,81719014.0,F120,F120.00,49049000.0,81717011.0,G212,Paralysis agitans
+Parkinson disease,81719014.0,F120,F120.00,49049000.0,81717011.0,G211,Paralysis agitans
+Parkinson disease,81719014.0,F120,F120.00,49049000.0,81717011.0,G214,Paralysis agitans
+Parkinson disease,81719014.0,F120,F120.00,49049000.0,81717011.0,G20X,Paralysis agitans
+Parkinson disease,81719014.0,F120,F120.00,49049000.0,81717011.0,G22X,Paralysis agitans
+Parkinson disease,297037012.0,F12z,F12z.00,49049000.0,81717011.0,G212 ,Parkinson's disease NOS
+Parkinson disease,297037012.0,F12z,F12z.00,49049000.0,81717011.0,G213,Parkinson's disease NOS
+Parkinson disease,297037012.0,F12z,F12z.00,49049000.0,81717011.0,G218,Parkinson's disease NOS
+Parkinson disease,297037012.0,F12z,F12z.00,49049000.0,81717011.0,G213 ,Parkinson's disease NOS
+Parkinson disease,297037012.0,F12z,F12z.00,49049000.0,81717011.0,G218 ,Parkinson's disease NOS
+Parkinson disease,297037012.0,F12z,F12z.00,49049000.0,81717011.0,G214 ,Parkinson's disease NOS
+Parkinson disease,297037012.0,F12z,F12z.00,49049000.0,81717011.0,G219,Parkinson's disease NOS
+Parkinson disease,297037012.0,F12z,F12z.00,49049000.0,81717011.0,G210 ,Parkinson's disease NOS
+Parkinson disease,297037012.0,F12z,F12z.00,49049000.0,81717011.0,G210,Parkinson's disease NOS
+Parkinson disease,297037012.0,F12z,F12z.00,49049000.0,81717011.0,G219 ,Parkinson's disease NOS
+Parkinson disease,297037012.0,F12z,F12z.00,49049000.0,81717011.0,G211 ,Parkinson's disease NOS
+Parkinson disease,297037012.0,F12z,F12z.00,49049000.0,81717011.0,G212,Parkinson's disease NOS
+Parkinson disease,297037012.0,F12z,F12z.00,49049000.0,81717011.0,G211,Parkinson's disease NOS
+Parkinson disease,297037012.0,F12z,F12z.00,49049000.0,81717011.0,G214,Parkinson's disease NOS
+Parkinson disease,297037012.0,F12z,F12z.00,49049000.0,81717011.0,G20X,Parkinson's disease NOS
+Parkinson disease,297037012.0,F12z,F12z.00,49049000.0,81717011.0,G22X,Parkinson's disease NOS

@@ -1,0 +1,104 @@
+Condition,MedCodeId,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,ICD10Code,Term
+Chronic viral hepatitis,288739019.0,B18,B18..00,187801002.0,288739019.0,C481 ,Malignant neoplasm of retroperitoneum and peritoneum
+Chronic viral hepatitis,288739019.0,B18,B18..00,187801002.0,288739019.0,C480,Malignant neoplasm of retroperitoneum and peritoneum
+Chronic viral hepatitis,288739019.0,B18,B18..00,187801002.0,288739019.0,C482,Malignant neoplasm of retroperitoneum and peritoneum
+Chronic viral hepatitis,288739019.0,B18,B18..00,187801002.0,288739019.0,C488,Malignant neoplasm of retroperitoneum and peritoneum
+Chronic viral hepatitis,288739019.0,B18,B18..00,187801002.0,288739019.0,C480 ,Malignant neoplasm of retroperitoneum and peritoneum
+Chronic viral hepatitis,288739019.0,B18,B18..00,187801002.0,288739019.0,C482 ,Malignant neoplasm of retroperitoneum and peritoneum
+Chronic viral hepatitis,288739019.0,B18,B18..00,187801002.0,288739019.0,C481,Malignant neoplasm of retroperitoneum and peritoneum
+Chronic viral hepatitis,288739019.0,B18,B18..00,187801002.0,288739019.0,C488 ,Malignant neoplasm of retroperitoneum and peritoneum
+Chronic viral hepatitis,2146501000000114.0,A70C,A70C.00,824871000000104.0,2146501000000114.0,B171,Hepatitis C genotype 3
+Chronic viral hepatitis,2146501000000114.0,A70C,A70C.00,824871000000104.0,2146501000000114.0,B182,Hepatitis C genotype 3
+Chronic viral hepatitis,557071000006112.0,A7072,A707200,128302006.0,206586011.0,B182,Chronic viral hepatitis C
+Chronic viral hepatitis,1232261014.0,A7073,A707300,61977001.0,1232261014.0,B180,Chronic viral hepatitis B
+Chronic viral hepatitis,1232261014.0,A7073,A707300,61977001.0,1232261014.0,B181,Chronic viral hepatitis B
+Chronic viral hepatitis,350841000000119.0,7Q052,7Q05200,221021000000103.0,350841000000119.0,X863,Hepatitis B treatment drugs Band 1
+Chronic viral hepatitis,286871011.0,A7050,A705000,50711007.0,84513012.0,B171,Viral hepatitis C without mention of hepatic coma
+Chronic viral hepatitis,286871011.0,A7050,A705000,50711007.0,84513012.0,B182,Viral hepatitis C without mention of hepatic coma
+Chronic viral hepatitis,1780228019.0,43b5,43b5.00,996701000000107.0,2576701000000110.0,,HEp-2 nuclear pattern
+Chronic viral hepatitis,257841016.0,43B5,43B5.00,165807006.0,257841016.0,,Hepatitis e antigen present
+Chronic viral hepatitis,557081000006110.0,A707X,A707X00,10295004.0,17930015.0,B188,"Chronic viral hepatitis, unspecified"
+Chronic viral hepatitis,557081000006110.0,A707X,A707X00,10295004.0,17930015.0,B189,"Chronic viral hepatitis, unspecified"
+Chronic viral hepatitis,414973018.0,43x3,43x3.00,278152006.0,414973018.0,,Blood group A Rh(D) negative
+Chronic viral hepatitis,459095018.0,43X3,43X3.00,314706002.0,459095018.0,,Hepatitis C antibody test positive
+Chronic viral hepatitis,2155841000000118.0,8BB5,8BB5.00,829241000000108.0,2155841000000118.0,,12 week virologic response to hepatitis C treatment
+Chronic viral hepatitis,2146461000000114.0,A70B,A70B.00,824851000000108.0,2146461000000114.0,B171,Hepatitis C genotype 2
+Chronic viral hepatitis,2146461000000114.0,A70B,A70B.00,824851000000108.0,2146461000000114.0,B182,Hepatitis C genotype 2
+Chronic viral hepatitis,17930015.0,A707,A707.00,10295004.0,17930015.0,B188,Chronic viral hepatitis
+Chronic viral hepatitis,17930015.0,A707,A707.00,10295004.0,17930015.0,B189,Chronic viral hepatitis
+Chronic viral hepatitis,2146441000000113.0,A70A,A70A.00,824841000000105.0,2146441000000112.8,B171,Hepatitis C genotype 1
+Chronic viral hepatitis,2146441000000113.0,A70A,A70A.00,824841000000105.0,2146441000000112.8,B182,Hepatitis C genotype 1
+Chronic viral hepatitis,1783609017.0,4JQ3,4JQ3.00,992771000000100.0,2581311000000111.0,,Hepatitis C virus genotype
+Chronic viral hepatitis,2146521000000117.0,A70D,A70D.00,824881000000102.0,2146521000000116.8,B171,Hepatitis C genotype 4
+Chronic viral hepatitis,2146521000000117.0,A70D,A70D.00,824881000000102.0,2146521000000116.8,B182,Hepatitis C genotype 4
+Chronic viral hepatitis,354081000000114.0,4J3D,4J3D.00,222531000000101.0,354081000000114.0,,Hepatitis B viral load
+Chronic viral hepatitis,1488891017.0,4J3B,4J3B.00,992751000000109.0,2576171000000118.0,,Hepatitis C viral load
+Chronic viral hepatitis,1488857016.0,43b4,43b4.00,1015081000000104.0,2552581000000111.0,,Hepatitis immunity test
+Chronic viral hepatitis,820791000006114.0,43B4,43B4.00,165806002.0,257840015.0,,Hepatitis B surface antig +ve
+Chronic viral hepatitis,2693857014.0,141E,141E.00,429721005.0,2693857014.0,Z861,History of hepatitis B
+Chronic viral hepatitis,353580016.0,A7070,A707000,235869004.0,353580016.0,B180,Chronic viral hepatitis B with delta-agent
+Chronic viral hepatitis,286879013.0,A7071,A707100,186639003.0,286879013.0,B181,Chronic viral hepatitis B without delta-agent
+Chronic viral hepatitis,61061000006116.0,A703,A703.00,66071002.0,109733012.0,B169,Viral (serum) hepatitis B
+Chronic viral hepatitis,61061000006116.0,A703,A703.00,66071002.0,109733012.0,B161 ,Viral (serum) hepatitis B
+Chronic viral hepatitis,61061000006116.0,A703,A703.00,66071002.0,109733012.0,B181,Viral (serum) hepatitis B
+Chronic viral hepatitis,61061000006116.0,A703,A703.00,66071002.0,109733012.0,B180,Viral (serum) hepatitis B
+Chronic viral hepatitis,61061000006116.0,A703,A703.00,66071002.0,109733012.0,B162 ,Viral (serum) hepatitis B
+Chronic viral hepatitis,61061000006116.0,A703,A703.00,66071002.0,109733012.0,B160,Viral (serum) hepatitis B
+Chronic viral hepatitis,61061000006116.0,A703,A703.00,66071002.0,109733012.0,B162,Viral (serum) hepatitis B
+Chronic viral hepatitis,61061000006116.0,A703,A703.00,66071002.0,109733012.0,B169 ,Viral (serum) hepatitis B
+Chronic viral hepatitis,61061000006116.0,A703,A703.00,66071002.0,109733012.0,B160 ,Viral (serum) hepatitis B
+Chronic viral hepatitis,61061000006116.0,A703,A703.00,66071002.0,109733012.0,B161,Viral (serum) hepatitis B
+Chronic viral hepatitis,288170016.0,AyuB2,AyuB200,10295004.0,17930015.0,B188,"[X]Chronic viral hepatitis, unspecified"
+Chronic viral hepatitis,288170016.0,AyuB2,AyuB200,10295004.0,17930015.0,B189,"[X]Chronic viral hepatitis, unspecified"
+Chronic viral hepatitis,1742311000006115.0,9NiR,9NiR.00,517511000000109.0,1154661000000116.0,,"DNA diphtheria, tetanus and acellular pertussis vaccination"
+Chronic viral hepatitis,2157051000000119.0,9NgR,9NgR.00,829731000000106.0,2157051000000119.2,,On hepatitis C treatment plan
+Chronic viral hepatitis,2418601000000115.0,9NnR,9NnR.00,945711000000107.0,2418601000000115.0,,Visual frame sign language interpreter needed
+Chronic viral hepatitis,741671000000118.0,9NJr,9NJr.00,376891000000108.0,741671000000118.0,,In-house rheumatology follow-up appointment
+Chronic viral hepatitis,305871000000114.0,9NNR,9NNR.00,201161000000102.0,305871000000114.0,,Under care of community matron
+Chronic viral hepatitis,311371000000117.0,9NUR,9NUR.00,203701000000104.0,311371000000117.0,,Interpreter needed - Kurdish
+Chronic viral hepatitis,312401000000111.0,9NUr,9NUr.00,204201000000107.0,312401000000111.0,,Interpreter needed - Ukrainian
+Chronic viral hepatitis,404331000000110.0,9NJR,9NJR.00,247171000000109.0,404331000000110.0,,In-house counselling first appointment
+Chronic viral hepatitis,1654061000000111.0,9NFR,9NFR.00,751801000000106.0,1654061000000111.0,,Home visit request by residential institution
+Chronic viral hepatitis,1786681000006113.0,9Ndr,9Ndr.00,794311000000109.0,1775741000000118.0,,Consent for key information summary upload
+Chronic viral hepatitis,2286501000000119.0,9Ngr,9Ngr.00,702526004.0,2995988013.0,,Under care of homeless advocacy service
+Chronic viral hepatitis,2399051000000112.0,9NfR,9NfR.00,936741000000100.0,2399051000000112.0,,Requires contact by email
+Chronic viral hepatitis,2393421000000110.0,9NSR,9NSR.00,934311000000108.0,2393421000000110.0,,Unsuitable for Over 75 Health Check
+Chronic viral hepatitis,681151000000119.0,9NmR,9NmR.00,361441000000100.0,681151000000119.0,,Guarani language interpreter needed
+Chronic viral hepatitis,683791000000113.0,9Nmr,9Nmr.00,362691000000102.0,683791000000113.0,,Afar language interpreter needed
+Chronic viral hepatitis,448275015.0,9NlR,9NlR.00,305749000.0,448275015.0,,Seen by rheumatology nurse specialist
+Chronic viral hepatitis,1149611000000116.0,9NdR,9NdR.00,516261000000106.0,1149611000000116.0,,Unable to consent to information sharing
+Chronic viral hepatitis,2156971000000110.0,14i,14i..00,829691000000100.0,2156971000000110.0,Z922,H/O hepatitis C antiviral drug therapy
+Chronic viral hepatitis,251809017.0,14I,14I..00,161579008.0,251809017.0,Z876,H/O: perinatal problem
+Chronic viral hepatitis,313221000000112.0,43jg,43jg.00,1029541000000105.0,2597111000000116.0,,Poxvirus nucleic acid detection
+Chronic viral hepatitis,457551011.0,43JG,43JG.00,995991000000106.0,2572521000000112.0,,Epstein-Barr virus capsid IgG level
+Chronic viral hepatitis,459565018.0,43Jg,43Jg.00,1009351000000108.0,2574081000000110.0,,Canary serum antibody level
+Chronic viral hepatitis,1786360015.0,43jG,43jG.00,1031571000000101.0,2595441000000119.0,,Hepatitis B nucleic acid detection
+Chronic viral hepatitis,1686831000000111.0,21267,2126700,761381000000102.0,1686831000000111.0,,Hepatitis C resolved
+Chronic viral hepatitis,1739601000000111.0,4JQD-1,4JQD.11,760421000000100.0,1739601000000111.0,,Hepatitis C PCR positive
+Chronic viral hepatitis,669601000000113.0,9kZ-1,9kZ..11,356121000000100.0,669601000000113.0,,Hepatitis B screening positive
+Chronic viral hepatitis,786781000006119.0,43J5,43J5.00,997031000000102.0,2571261000000110.0,,IgA
+Chronic viral hepatitis,1786403019.0,43j5,43j5.00,1030511000000102.0,2595451000000116.0,,Hepatitis C nucleic acid detection
+Chronic viral hepatitis,84516016.0,A70z0,A70z000,50711007.0,84516016.0,B171,Hepatitis C
+Chronic viral hepatitis,84516016.0,A70z0,A70z000,50711007.0,84516016.0,B182,Hepatitis C
+Chronic viral hepatitis,2474365011.0,4JRF,4JRF.00,1024481000000104.0,2584161000000114.0,,Viral hepatitis screening test
+Chronic viral hepatitis,130131000000114.0,4JDF,4JDF.00,1009191000000103.0,2556831000000113.0,,Leptospira serology
+Chronic viral hepatitis,1791621000000114.0,4JDf,4JDf.00,1006121000000108.0,2585841000000118.0,,Borrelia serology
+Chronic viral hepatitis,2118321000000118.0,4JQF,4JQF.00,812181000000106.0,2118321000000118.0,,Hepatitis C antigen positive
+Chronic viral hepatitis,689941000000115.0,4JUF,4JUF.00,441344004.0,2790535011.0,,Human parainfluenza virus detected
+Chronic viral hepatitis,1766481000006112.0,4JQD,4JQD.00,760421000000100.0,1681741000000116.0,,Hepatitis C viral ribonucleic acid PCR positive
+Chronic viral hepatitis,689721000000112.0,4JUD,4JUD.00,441256000.0,2793495012.0,,Human bocavirus detected
+Chronic viral hepatitis,130111000000118.0,4JDD,4JDD.00,1009171000000102.0,2586371000000111.0,,Brucella serology
+Chronic viral hepatitis,2159758017.0,4JRD,4JRD.00,1009851000000104.0,2556921000000118.0,,Malarial parasite screening test
+Chronic viral hepatitis,693131000000114.0,4JDd,4JDd.00,1000241000000109.0,2569541000000115.0,,Campylobacter serology
+Chronic viral hepatitis,304881000000112.0,4JKD,4JKD.00,200761000000105.0,304881000000112.0,,Low vaginal swab for chlamydia taken by patient
+Chronic viral hepatitis,288169017.0,AyuB1,AyuB100,10295004.0,17930015.0,B188,[X]Other chronic viral hepatitis
+Chronic viral hepatitis,288169017.0,AyuB1,AyuB100,10295004.0,17930015.0,B189,[X]Other chronic viral hepatitis
+Chronic viral hepatitis,1868571000006112.0,9kv,9kv..00,865431000000108.0,2237051000000116.8,,Pertussis vaccinatn progrme pregnant women enhan srvce admin
+Chronic viral hepatitis,1680661000006114.0,9kV,9kV..00,362751000000101.0,683911000000119.0,,Hepatitis C screening positive - enhanced services admin
+Chronic viral hepatitis,683911000000119.0,9kV-1,9kV..11,362751000000101.0,683911000000119.0,,Hepatitis C screening positive
+Chronic viral hepatitis,1680731000006114.0,9kZ,9kZ..00,356121000000100.0,728581000000110.0,,Hepatitis B screening positive - enhanced services admin
+Chronic viral hepatitis,1967071000006113.0,9kz,9kz..00,983821000000103.0,2501841000000117.0,,"Out of area regstratn, in-hours urgnt primry medicl care ESA"
+Chronic viral hepatitis,1680701000006118.0,9kX,9kX..00,355741000000101.0,1154311000000113.0,,Hepatitis status 6 months post treatment - enhanced serv adm
+Chronic viral hepatitis,2340191000000119.0,9kx,9kx..00,910381000000101.0,2340191000000119.0,,24 hour electrocardiogram enhanced services administration
+Chronic viral hepatitis,1769721000006112.0,9kr,9kr..00,763421000000107.0,1693361000000119.0,,Subdermal etonogestrel implant insertion ESA
+Chronic viral hepatitis,1680591000006117.0,9kR,9kR..00,362421000000102.0,683201000000111.0,,Chronic hepatitis annual review - enhanced services admin

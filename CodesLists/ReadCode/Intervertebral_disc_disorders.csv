@@ -1,0 +1,64 @@
+Condition,OriginalReadCode,CleansedReadCode,Term
+Intervertebral disc disorders,EMISNQLA75,,Laminectomy
+Intervertebral disc disorders,7J405-99,7J40599,Laminectomy - unspecified
+Intervertebral disc disorders,7J406-99,7J40699,Laminectomy site re-opening
+Intervertebral disc disorders,N12A-99,N12A.99,Post laminectomy syndrome
+Intervertebral disc disorders,7J203,7J20300,Primary anterior excis cervical IV disc & interbody fusion
+Intervertebral disc disorders,7J207,7J20700,Primary microdiscectomy of cervical intervertebral disc
+Intervertebral disc disorders,7J232,7J23200,Primary costotransversectomy of thoracic intervertebral disc
+Intervertebral disc disorders,7J32,7J32.00,Primary lumbar discectomy
+Intervertebral disc disorders,7J321-1,7J32111,Primary fenestration of lumbar intervertebral disc
+Intervertebral disc disorders,7J326,7J32600,Primary lumbar microdiscectomy
+Intervertebral disc disorders,7J329,7J32900,Primary percutaneous intradiscal lumbar discectomy
+Intervertebral disc disorders,7J32y,7J32y00,Other specified primary lumbar discectomy
+Intervertebral disc disorders,7J33y,7J33y00,Other specified revisional lumbar discectomy
+Intervertebral disc disorders,7J4H0,7J4H000,Primary automated percutan mech excis cerv intervert disc
+Intervertebral disc disorders,7J4K0,7J4K000,Primary percutaneous decompres coblat cerv intervert disc
+Intervertebral disc disorders,7J4M0,7J4M000,Primary percut intrad radio thermocoag cerv intervert disc
+Intervertebral disc disorders,N12,N12..00,Intervertebral disc disorders
+Intervertebral disc disorders,N120,N120.00,Cervical disc displacement without myelopathy
+Intervertebral disc disorders,N120-1,N120.11,Prolapsed cervical intervertebral disc without myelopathy
+Intervertebral disc disorders,N120-2,N120.12,Cervical disc displacement
+Intervertebral disc disorders,N121,N121.00,Thoracic disc displacement without myelopathy
+Intervertebral disc disorders,N121-1,N121.11,Prolapsed thoracic intervertebral disc without myelopathy
+Intervertebral disc disorders,N122,N122.00,Lumbar disc displacement
+Intervertebral disc disorders,N122-1,N122.11,Prolapsed lumbar intervertebral disc
+Intervertebral disc disorders,N123,N123.00,"Disc displacement, site unspecified, without myelopathy"
+Intervertebral disc disorders,N123-1,N123.11,Intervertebral disc prolapse NOS
+Intervertebral disc disorders,N123-2,N123.12,Prolapsed intervertebral disc without myelopathy
+Intervertebral disc disorders,N124,N124.00,Schmorl's nodes
+Intervertebral disc disorders,N1240,N124000,Schmorl's nodes of unspecified region
+Intervertebral disc disorders,N1241,N124100,Schmorl's nodes of the thoracic region
+Intervertebral disc disorders,N1242,N124200,Schmorl's nodes of the lumbar region
+Intervertebral disc disorders,N124z,N124z00,"Schmorl's nodes, region NOS"
+Intervertebral disc disorders,N125,N125.00,Cervical disc degeneration
+Intervertebral disc disorders,N126,N126.00,Thoracic disc degeneration
+Intervertebral disc disorders,N127,N127.00,Lumbar disc degeneration
+Intervertebral disc disorders,N128,N128.00,Degenerative disc disease NOS
+Intervertebral disc disorders,N12C0,N12C000,Cervical disc prolapse with radiculopathy
+Intervertebral disc disorders,N12z,N12z.00,Other and unspecified disc disorders
+Intervertebral disc disorders,N12z0,N12z000,Other disc disorders of unspecified site
+Intervertebral disc disorders,N12z1,N12z100,Other cervical disc disorders
+Intervertebral disc disorders,N12z2,N12z200,Other thoracic disc disorders
+Intervertebral disc disorders,N12z3,N12z300,Other lumbar disc disorders
+Intervertebral disc disorders,N12z5,N12z500,Annular tear of cervical disc
+Intervertebral disc disorders,N12z6,N12z600,Resorption of cervical disc
+Intervertebral disc disorders,N12z7,N12z700,Calcification of cervical disc
+Intervertebral disc disorders,N12z9,N12z900,Annular tear of thoracic disc
+Intervertebral disc disorders,N12zB,N12zB00,Calcification of thoracic disc
+Intervertebral disc disorders,N12zD,N12zD00,Annular tear of lumbar disc
+Intervertebral disc disorders,N12zE,N12zE00,Resorption of lumbar disc
+Intervertebral disc disorders,N12zF,N12zF00,Calcification of lumbar disc
+Intervertebral disc disorders,N12zH,N12zH00,Cervical disc disorder with radiculopathy
+Intervertebral disc disorders,N12zz,N12zz00,Disc disorders NOS
+Intervertebral disc disorders,Nyu70,Nyu7000,[X]Other cervical disc displacement
+Intervertebral disc disorders,Nyu71,Nyu7100,[X]Other cervical disc degeneration
+Intervertebral disc disorders,Nyu72,Nyu7200,[X]Other cervical disc disorders
+Intervertebral disc disorders,Nyu73,Nyu7300,[X]Lumbar+other intervertebral disc disordrs with myelopathy
+Intervertebral disc disorders,Nyu75,Nyu7500,[X]Other specified intervertebral disc displacement
+Intervertebral disc disorders,Nyu76,Nyu7600,[X]Other specified intervertebral disc degeneration
+Intervertebral disc disorders,Nyu77,Nyu7700,[X]Other specified intervertebral disc disorders
+Intervertebral disc disorders,Nyu7B,Nyu7B00,"[X]Cervical disc disorder, unspecified"
+Intervertebral disc disorders,Zw040,Zw04000,[Q] Central disc prolapse
+Intervertebral disc disorders,Zw041,Zw04100,[Q] Posterolateral disc prolapse
+Intervertebral disc disorders,Zw042,Zw04200,[Q] Sequestrated disc prolapse

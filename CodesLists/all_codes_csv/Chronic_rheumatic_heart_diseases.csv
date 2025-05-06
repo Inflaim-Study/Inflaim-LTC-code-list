@@ -1,0 +1,102 @@
+Condition,MedCodeId,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,ICD10Code,Term
+Chronic rheumatic heart diseases,505828015.0,G11-1,G11..11,83898004.0,505828015.0,I080,Rheumatic mitral valve disease
+Chronic rheumatic heart diseases,505828015.0,G11-1,G11..11,83898004.0,505828015.0,I081,Rheumatic mitral valve disease
+Chronic rheumatic heart diseases,505828015.0,G11-1,G11..11,83898004.0,505828015.0,I051,Rheumatic mitral valve disease
+Chronic rheumatic heart diseases,505828015.0,G11-1,G11..11,83898004.0,505828015.0,I083,Rheumatic mitral valve disease
+Chronic rheumatic heart diseases,505828015.0,G11-1,G11..11,83898004.0,505828015.0,I059,Rheumatic mitral valve disease
+Chronic rheumatic heart diseases,505828015.0,G11-1,G11..11,83898004.0,505828015.0,I052,Rheumatic mitral valve disease
+Chronic rheumatic heart diseases,505828015.0,G11-1,G11..11,83898004.0,505828015.0,I050,Rheumatic mitral valve disease
+Chronic rheumatic heart diseases,505828015.0,G11-1,G11..11,83898004.0,505828015.0,I058,Rheumatic mitral valve disease
+Chronic rheumatic heart diseases,1234383014.0,G110,G110.00,79619009.0,1234383014.0,Q232,Mitral stenosis
+Chronic rheumatic heart diseases,1234383014.0,G110,G110.00,79619009.0,1234383014.0,I011,Mitral stenosis
+Chronic rheumatic heart diseases,1234383014.0,G110,G110.00,79619009.0,1234383014.0,I052,Mitral stenosis
+Chronic rheumatic heart diseases,1234383014.0,G110,G110.00,79619009.0,1234383014.0,I020,Mitral stenosis
+Chronic rheumatic heart diseases,1234383014.0,G110,G110.00,79619009.0,1234383014.0,I050,Mitral stenosis
+Chronic rheumatic heart diseases,1234383014.0,G110,G110.00,79619009.0,1234383014.0,I080,Mitral stenosis
+Chronic rheumatic heart diseases,1234383014.0,G110,G110.00,79619009.0,1234383014.0,I342,Mitral stenosis
+Chronic rheumatic heart diseases,143386015.0,G110-1,G110.11,86466006.0,143386015.0,I050,Rheumatic mitral stenosis
+Chronic rheumatic heart diseases,52032016.0,G111,G111.00,31085000.0,52032016.0,I011,Rheumatic mitral insufficiency
+Chronic rheumatic heart diseases,52032016.0,G111,G111.00,31085000.0,52032016.0,I081,Rheumatic mitral insufficiency
+Chronic rheumatic heart diseases,52032016.0,G111,G111.00,31085000.0,52032016.0,I083,Rheumatic mitral insufficiency
+Chronic rheumatic heart diseases,52032016.0,G111,G111.00,31085000.0,52032016.0,I052,Rheumatic mitral insufficiency
+Chronic rheumatic heart diseases,52032016.0,G111,G111.00,31085000.0,52032016.0,I020,Rheumatic mitral insufficiency
+Chronic rheumatic heart diseases,52032016.0,G111,G111.00,31085000.0,52032016.0,I051,Rheumatic mitral insufficiency
+Chronic rheumatic heart diseases,52032016.0,G111,G111.00,31085000.0,52032016.0,I080,Rheumatic mitral insufficiency
+Chronic rheumatic heart diseases,1227426018.0,G111-1,G111.11,31085000.0,1227426018.0,I011,Mitral incompetence - rheumatic
+Chronic rheumatic heart diseases,1227426018.0,G111-1,G111.11,31085000.0,1227426018.0,I081,Mitral incompetence - rheumatic
+Chronic rheumatic heart diseases,1227426018.0,G111-1,G111.11,31085000.0,1227426018.0,I083,Mitral incompetence - rheumatic
+Chronic rheumatic heart diseases,1227426018.0,G111-1,G111.11,31085000.0,1227426018.0,I052,Mitral incompetence - rheumatic
+Chronic rheumatic heart diseases,1227426018.0,G111-1,G111.11,31085000.0,1227426018.0,I020,Mitral incompetence - rheumatic
+Chronic rheumatic heart diseases,1227426018.0,G111-1,G111.11,31085000.0,1227426018.0,I051,Mitral incompetence - rheumatic
+Chronic rheumatic heart diseases,1227426018.0,G111-1,G111.11,31085000.0,1227426018.0,I080,Mitral incompetence - rheumatic
+Chronic rheumatic heart diseases,700741000006112.0,G111-2,G111.12,31085000.0,52030012.0,I011,Mitral regurgitation - rheumatic
+Chronic rheumatic heart diseases,700741000006112.0,G111-2,G111.12,31085000.0,52030012.0,I081,Mitral regurgitation - rheumatic
+Chronic rheumatic heart diseases,700741000006112.0,G111-2,G111.12,31085000.0,52030012.0,I083,Mitral regurgitation - rheumatic
+Chronic rheumatic heart diseases,700741000006112.0,G111-2,G111.12,31085000.0,52030012.0,I052,Mitral regurgitation - rheumatic
+Chronic rheumatic heart diseases,700741000006112.0,G111-2,G111.12,31085000.0,52030012.0,I020,Mitral regurgitation - rheumatic
+Chronic rheumatic heart diseases,700741000006112.0,G111-2,G111.12,31085000.0,52030012.0,I051,Mitral regurgitation - rheumatic
+Chronic rheumatic heart diseases,700741000006112.0,G111-2,G111.12,31085000.0,52030012.0,I080,Mitral regurgitation - rheumatic
+Chronic rheumatic heart diseases,299591014.0,G112,G112.00,194726006.0,299591014.0,I052,Mitral stenosis with insufficiency
+Chronic rheumatic heart diseases,299593012.0,G112-2,G112.12,194726006.0,299593012.0,I052,Mitral stenosis with incompetence
+Chronic rheumatic heart diseases,299592019.0,G112-3,G112.13,194726006.0,299592019.0,I052,Mitral stenosis with regurgitation
+Chronic rheumatic heart diseases,20721017.0,G12,G12..00,12023003.0,20721017.0,I069,Rheumatic aortic valve disease
+Chronic rheumatic heart diseases,20721017.0,G12,G12..00,12023003.0,20721017.0,I068,Rheumatic aortic valve disease
+Chronic rheumatic heart diseases,20721017.0,G12,G12..00,12023003.0,20721017.0,I061,Rheumatic aortic valve disease
+Chronic rheumatic heart diseases,20721017.0,G12,G12..00,12023003.0,20721017.0,I062,Rheumatic aortic valve disease
+Chronic rheumatic heart diseases,20721017.0,G12,G12..00,12023003.0,20721017.0,I060,Rheumatic aortic valve disease
+Chronic rheumatic heart diseases,119660019.0,G120,G120.00,72011007.0,119660019.0,I082,Rheumatic aortic stenosis
+Chronic rheumatic heart diseases,119660019.0,G120,G120.00,72011007.0,119660019.0,I060,Rheumatic aortic stenosis
+Chronic rheumatic heart diseases,119660019.0,G120,G120.00,72011007.0,119660019.0,I080,Rheumatic aortic stenosis
+Chronic rheumatic heart diseases,119660019.0,G120,G120.00,72011007.0,119660019.0,I062,Rheumatic aortic stenosis
+Chronic rheumatic heart diseases,119660019.0,G120,G120.00,72011007.0,119660019.0,I083,Rheumatic aortic stenosis
+Chronic rheumatic heart diseases,129504017.0,G121,G121.00,78031003.0,129504017.0,I061,Rheumatic aortic insufficiency
+Chronic rheumatic heart diseases,129504017.0,G121,G121.00,78031003.0,129504017.0,I080,Rheumatic aortic insufficiency
+Chronic rheumatic heart diseases,129504017.0,G121,G121.00,78031003.0,129504017.0,I083,Rheumatic aortic insufficiency
+Chronic rheumatic heart diseases,129504017.0,G121,G121.00,78031003.0,129504017.0,I062,Rheumatic aortic insufficiency
+Chronic rheumatic heart diseases,129504017.0,G121,G121.00,78031003.0,129504017.0,I082,Rheumatic aortic insufficiency
+Chronic rheumatic heart diseases,1234202016.0,G121-1,G121.11,78031003.0,1234202016.0,I061,Aortic incompetence - rheumatic
+Chronic rheumatic heart diseases,1234202016.0,G121-1,G121.11,78031003.0,1234202016.0,I080,Aortic incompetence - rheumatic
+Chronic rheumatic heart diseases,1234202016.0,G121-1,G121.11,78031003.0,1234202016.0,I083,Aortic incompetence - rheumatic
+Chronic rheumatic heart diseases,1234202016.0,G121-1,G121.11,78031003.0,1234202016.0,I062,Aortic incompetence - rheumatic
+Chronic rheumatic heart diseases,1234202016.0,G121-1,G121.11,78031003.0,1234202016.0,I082,Aortic incompetence - rheumatic
+Chronic rheumatic heart diseases,488451000006114.0,G121-2,G121.12,78031003.0,129502018.0,I061,Aortic regurgitation - rheumatic
+Chronic rheumatic heart diseases,488451000006114.0,G121-2,G121.12,78031003.0,129502018.0,I080,Aortic regurgitation - rheumatic
+Chronic rheumatic heart diseases,488451000006114.0,G121-2,G121.12,78031003.0,129502018.0,I083,Aortic regurgitation - rheumatic
+Chronic rheumatic heart diseases,488451000006114.0,G121-2,G121.12,78031003.0,129502018.0,I062,Aortic regurgitation - rheumatic
+Chronic rheumatic heart diseases,488451000006114.0,G121-2,G121.12,78031003.0,129502018.0,I082,Aortic regurgitation - rheumatic
+Chronic rheumatic heart diseases,30011012.0,G122,G122.00,17759006.0,30011012.0,I062,Rheumatic aortic stenosis with insufficiency
+Chronic rheumatic heart diseases,30011012.0,G122,G122.00,17759006.0,30011012.0,I083,Rheumatic aortic stenosis with insufficiency
+Chronic rheumatic heart diseases,30011012.0,G122,G122.00,17759006.0,30011012.0,I080,Rheumatic aortic stenosis with insufficiency
+Chronic rheumatic heart diseases,299597013.0,G12z,G12z.00,12023003.0,20718019.0,I069,Rheumatic aortic valve disease NOS
+Chronic rheumatic heart diseases,299597013.0,G12z,G12z.00,12023003.0,20718019.0,I068,Rheumatic aortic valve disease NOS
+Chronic rheumatic heart diseases,299597013.0,G12z,G12z.00,12023003.0,20718019.0,I061,Rheumatic aortic valve disease NOS
+Chronic rheumatic heart diseases,299597013.0,G12z,G12z.00,12023003.0,20718019.0,I062,Rheumatic aortic valve disease NOS
+Chronic rheumatic heart diseases,299597013.0,G12z,G12z.00,12023003.0,20718019.0,I060,Rheumatic aortic valve disease NOS
+Chronic rheumatic heart diseases,168601000006114.0,G1400,G140000,88318005.0,146419014.0,I081,Rheumatic tricuspid stenosis
+Chronic rheumatic heart diseases,168601000006114.0,G1400,G140000,88318005.0,146419014.0,I082,Rheumatic tricuspid stenosis
+Chronic rheumatic heart diseases,168601000006114.0,G1400,G140000,88318005.0,146419014.0,I070,Rheumatic tricuspid stenosis
+Chronic rheumatic heart diseases,168601000006114.0,G1400,G140000,88318005.0,146419014.0,I072,Rheumatic tricuspid stenosis
+Chronic rheumatic heart diseases,168601000006114.0,G1400,G140000,88318005.0,146419014.0,I083,Rheumatic tricuspid stenosis
+Chronic rheumatic heart diseases,1232960018.0,G1401,G140100,67696008.0,1232960018.0,I071,Rheumatic tricuspid insufficiency
+Chronic rheumatic heart diseases,87501000006118.0,G1401-1,G140111,67696008.0,1232959011.0,I071,Tricuspid regurgitation - rheumatic
+Chronic rheumatic heart diseases,1232958015.0,G1401-2,G140112,67696008.0,1232958015.0,I071,Tricuspid incompetence - rheumatic
+Chronic rheumatic heart diseases,299620010.0,G1402,G140200,194741006.0,299620010.0,I072,Rheumatic tricuspid stenosis and insufficiency
+Chronic rheumatic heart diseases,299619016.0,G1402-X,G14021X,194741006.0,299619016.0,I072,Rheumatic tricuspid stenosis and regurgitation
+Chronic rheumatic heart diseases,299618012.0,G1402-Y,G14021Y,194741006.0,299618012.0,I072,Rheumatic tricuspid stenosis and incompetence
+Chronic rheumatic heart diseases,299624018.0,G140z,G140z00,49699002.0,82772011.0,I079,Rheumatic tricuspid valve disease NOS
+Chronic rheumatic heart diseases,31507017.0,G141,G141.00,18687009.0,31507017.0,I098,Rheumatic pulmonary valve disease
+Chronic rheumatic heart diseases,168541000006110.0,G1410,G141000,91442002.0,151483011.0,I088,Rheumatic pulmonary stenosis
+Chronic rheumatic heart diseases,168541000006110.0,G1410,G141000,91442002.0,151483011.0,I098,Rheumatic pulmonary stenosis
+Chronic rheumatic heart diseases,1228148017.0,G1411,G141100,34126003.0,1228148017.0,I098,Rheumatic pulmonary insufficiency
+Chronic rheumatic heart diseases,1495489016.0,G1412,G141200,85971001.0,1495489016.0,I098,Rheumatic pulmonary stenosis and insufficiency
+Chronic rheumatic heart diseases,299626016.0,G141z,G141z00,18687009.0,31504012.0,I098,Rheumatic pulmonary valve disease NOS
+Chronic rheumatic heart diseases,168651000006113.0,G14z-1,G14z.11,87648004.0,145328019.0,I099,"Rheumatic valvulitis, chronic NOS"
+Chronic rheumatic heart diseases,168651000006113.0,G14z-1,G14z.11,87648004.0,145328019.0,I090,"Rheumatic valvulitis, chronic NOS"
+Chronic rheumatic heart diseases,168651000006113.0,G14z-1,G14z.11,87648004.0,145328019.0,I098,"Rheumatic valvulitis, chronic NOS"
+Chronic rheumatic heart diseases,168651000006113.0,G14z-1,G14z.11,87648004.0,145328019.0,I091,"Rheumatic valvulitis, chronic NOS"
+Chronic rheumatic heart diseases,168651000006113.0,G14z-1,G14z.11,87648004.0,145328019.0,I092,"Rheumatic valvulitis, chronic NOS"
+Chronic rheumatic heart diseases,300864010.0,Gyu11,Gyu1100,12023003.0,20718019.0,I069,[X]Other rheumatic aortic valve diseases
+Chronic rheumatic heart diseases,300864010.0,Gyu11,Gyu1100,12023003.0,20718019.0,I068,[X]Other rheumatic aortic valve diseases
+Chronic rheumatic heart diseases,300864010.0,Gyu11,Gyu1100,12023003.0,20718019.0,I061,[X]Other rheumatic aortic valve diseases
+Chronic rheumatic heart diseases,300864010.0,Gyu11,Gyu1100,12023003.0,20718019.0,I062,[X]Other rheumatic aortic valve diseases
+Chronic rheumatic heart diseases,300864010.0,Gyu11,Gyu1100,12023003.0,20718019.0,I060,[X]Other rheumatic aortic valve diseases

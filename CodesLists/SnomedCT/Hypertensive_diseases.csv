@@ -1,0 +1,72 @@
+Condition,SnomedCTConceptId,SnomedCTDescriptionId,Term
+Hypertensive diseases,70272006.0,116721012.0,Malignant hypertension
+Hypertensive diseases,78975002.0,884121000006111.0,Malignant hypertension
+Hypertensive diseases,198942000.0,887811000006117.0,Preg.+ pre-existing hypertensn
+Hypertensive diseases,169465000.0,262960017.0,Hypertension induced by oral contraceptive pill
+Hypertensive diseases,220901000000101.0,350601000000116.0,High cost hypertension drugs
+Hypertensive diseases,6962006.0,12496011.0,Hypertensive retinopathy
+Hypertensive diseases,38341003.0,64168014.0,Hypertensive disease
+Hypertensive diseases,38341003.0,64168014.0,BP - hypertensive disease
+Hypertensive diseases,59621000.0,99042012.0,Essential hypertension
+Hypertensive diseases,78975002.0,131046010.0,Malignant essential hypertension
+Hypertensive diseases,1201005.0,3135013.0,Benign essential hypertension
+Hypertensive diseases,56218007.0,93494011.0,Systolic hypertension
+Hypertensive diseases,48146000.0,80224019.0,Diastolic hypertension
+Hypertensive diseases,59621000.0,99042012.0,Essential hypertension NOS
+Hypertensive diseases,38341003.0,64176011.0,Hypertension NOS
+Hypertensive diseases,64715009.0,107545013.0,Hypertensive heart disease
+Hypertensive diseases,54225002.0,90135019.0,Malignant hypertensive heart disease
+Hypertensive diseases,36315003.0,60617018.0,Malignant hypertensive heart disease without CCF
+Hypertensive diseases,83105008.0,1236017010.0,Malignant hypertensive heart disease with CCF
+Hypertensive diseases,36221001.0,60444016.0,Benign hypertensive heart disease
+Hypertensive diseases,77970009.0,129404019.0,Benign hypertensive heart disease without CCF
+Hypertensive diseases,194767001.0,299653017.0,Benign hypertensive heart disease with CCF
+Hypertensive diseases,64715009.0,107545013.0,Hypertensive heart disease NOS
+Hypertensive diseases,64715009.0,107545013.0,Hypertensive heart disease NOS without CCF
+Hypertensive diseases,275516004.0,411508017.0,Cardiomegaly - hypertensive
+Hypertensive diseases,64715009.0,107545013.0,Hypertensive heart disease NOS with CCF
+Hypertensive diseases,38481006.0,64282015.0,Hypertensive renal disease
+Hypertensive diseases,65443008.0,108730018.0,Malignant hypertensive renal disease
+Hypertensive diseases,193003.0,1409014.0,Benign hypertensive renal disease
+Hypertensive diseases,49220004.0,81984019.0,Hypertensive renal disease with renal failure
+Hypertensive diseases,38481006.0,64282015.0,Hypertensive renal disease NOS
+Hypertensive diseases,38481006.0,64282015.0,Renal hypertension
+Hypertensive diseases,86234004.0,143003017.0,Hypertensive heart AND renal disease
+Hypertensive diseases,66610008.0,110659019.0,Malignant hypertensive heart AND renal disease
+Hypertensive diseases,66052004.0,109700019.0,Benign hypertensive heart AND renal disease
+Hypertensive diseases,194779001.0,299672017.0,Hypertensive heart&renal dis wth (congestive) heart failure
+Hypertensive diseases,194780003.0,299673010.0,Hypertensive heart and renal disease with renal failure
+Hypertensive diseases,194781004.0,299674016.0,Hyperten heart&renal dis+both(congestv)heart and renal fail
+Hypertensive diseases,86234004.0,143003017.0,Hypertensive heart and renal disease NOS
+Hypertensive diseases,31992008.0,53452019.0,Secondary hypertension
+Hypertensive diseases,89242004.0,147988014.0,Secondary malignant hypertension
+Hypertensive diseases,194783001.0,299676019.0,Secondary malignant renovascular hypertension
+Hypertensive diseases,89242004.0,147988014.0,Secondary malignant hypertension NOS
+Hypertensive diseases,194785008.0,299678018.0,Secondary benign hypertension
+Hypertensive diseases,73410007.0,2478822013.0,Secondary benign renovascular hypertension
+Hypertensive diseases,194785008.0,2470031013.0,Secondary benign hypertension NOS
+Hypertensive diseases,194788005.0,299681011.0,Hypertension secondary to endocrine disorders
+Hypertensive diseases,31992008.0,53452019.0,Secondary hypertension NOS
+Hypertensive diseases,123799005.0,192288012.0,Secondary renovascular hypertension NOS
+Hypertensive diseases,194791005.0,299684015.0,Hypertension secondary to drug
+Hypertensive diseases,38341003.0,1215744012.0,Other specified hypertensive disease
+Hypertensive diseases,38341003.0,1215744012.0,Hypertensive disease NOS
+Hypertensive diseases,50490005.0,84111015.0,Hypertensive encephalopathy
+Hypertensive diseases,50490005.0,84111015.0,Hypertensive crisis
+Hypertensive diseases,38341003.0,1215744012.0,[X]Hypertensive diseases
+Hypertensive diseases,31992008.0,53452019.0,[X]Hypertension secondary to other renal disorders
+Hypertensive diseases,86041002.0,142647015.0,Other pre-existing hypertension in preg/childbirth/puerp
+Hypertensive diseases,86041002.0,142647015.0,Other pre-existing hypertension in preg/childb/puerp unspec
+Hypertensive diseases,86041002.0,142647015.0,Other pre-existing hypertension in preg/childb/puerp - deliv
+Hypertensive diseases,86041002.0,142647015.0,Other pre-exist hypertension in preg/childb/puerp-not deliv
+Hypertensive diseases,86041002.0,142647015.0,Other pre-existing hypertension in preg/childb/puerp NOS
+Hypertensive diseases,198997005.0,305818015.0,Pre-eclampsia or eclampsia with pre-existing hypertension
+Hypertensive diseases,198997005.0,305818015.0,Pre-eclampsia or eclampsia + pre-existing hypertension NOS
+Hypertensive diseases,199005000.0,305826011.0,Pre-exist hypertension compl preg childbirth and puerperium
+Hypertensive diseases,199006004.0,305827019.0,Pre-exist hyperten heart dis compl preg childbth+puerperium
+Hypertensive diseases,199008003.0,305829016.0,Pre-exist 2ndry hypertens comp preg childbth and puerperium
+Hypertensive diseases,293495006.0,433712011.0,Adverse reaction to other antihypertensives
+Hypertensive diseases,293495006.0,433712011.0,Adverse reaction to antihypertensives NOS
+Hypertensive diseases,293495006.0,433712011.0,"[X]Oth antihyperten drug caus advers eff in therap use, NEC"
+Hypertensive diseases,293495006.0,433712011.0,[X] Adverse reaction to other antihypertensives
+Hypertensive diseases,293495006.0,433712011.0,[X] Adverse reaction to antihypertensives NOS

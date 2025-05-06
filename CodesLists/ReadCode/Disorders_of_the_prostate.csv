@@ -1,0 +1,11 @@
+Condition,OriginalReadCode,CleansedReadCode,Term
+Disorders of the prostate,^ESCTBP549335,,BPH - Benign prostatic hypertrophy
+Disorders of the prostate,1AA,1AA..00,Prostatism
+Disorders of the prostate,K20,K20..00,Benign prostatic hypertrophy
+Disorders of the prostate,K20-4,K20..14,Enlarged prostate - benign
+Disorders of the prostate,K20-5,K20..15,BPH - Benign prostatic hypertrophy
+Disorders of the prostate,K20-6,K20..16,Prostatism
+Disorders of the prostate,K200,K200.00,Prostatic hyperplasia unspecified
+Disorders of the prostate,K201,K201.00,Prostatic hyperplasia of the lateral lobe
+Disorders of the prostate,K202,K202.00,Prostatic hyperplasia of the medial lobe
+Disorders of the prostate,K20z,K20z.00,Prostatic hyperplasia NOS

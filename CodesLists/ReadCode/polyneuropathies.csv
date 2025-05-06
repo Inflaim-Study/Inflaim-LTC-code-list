@@ -1,0 +1,128 @@
+Condition,OriginalReadCode,CleansedReadCode,Term
+polyneuropathies,N242z-99,N242z99,Neuralgia/neuritis - NOS
+polyneuropathies,^ESCTRE500892,,Retrobulbar neuritis
+polyneuropathies,F4H3-99,F4H3.99,Retrobulbar neuritis
+polyneuropathies,^ESCTAL262614,,Alcoholic polyneuropathy
+polyneuropathies,^ESCT1192518,,Median nerve lesions NOS
+polyneuropathies,^ESCTMO298416,,Morton's metatarsalgia
+polyneuropathies,C10EB-1,C10EB11,Type I diabetes mellitus with mononeuropathy
+polyneuropathies,A72x1,A72x100,Mumps polyneuropathy
+polyneuropathies,C108B-1,C108B11,Type I diabetes mellitus with mononeuropathy
+polyneuropathies,C10EC-2,C10EC12,Insulin dependent diabetes mellitus with polyneuropathy
+polyneuropathies,C10FH-1,C10FH11,Type II diabetes mellitus with neuropathic arthropathy
+polyneuropathies,C34y4,C34y400,Gouty neuritis
+polyneuropathies,C3732,C373200,Familial neuropathic amyloid
+polyneuropathies,C373K-3,C373K13,Familial amyloid polyneuropathy type III
+polyneuropathies,E0111,E011100,Korsakov's alcoholic psychosis with peripheral neuritis
+polyneuropathies,F341,F341.00,Other median nerve lesions
+polyneuropathies,F3410,F341000,Median nerve neuritis
+polyneuropathies,F3411,F341100,Median nerve compression in forearm
+polyneuropathies,F341z,F341z00,Median nerve lesions NOS
+polyneuropathies,F342,F342.00,Ulnar nerve lesions
+polyneuropathies,F342-1,F342.11,Neuritis ulnar nerve
+polyneuropathies,F3420,F342000,Cubital tunnel syndrome
+polyneuropathies,F3421,F342100,Tardy ulnar nerve palsy
+polyneuropathies,F3422,F342200,Canal of Guyon compression
+polyneuropathies,F3423,F342300,Ulnar nerve entrapment
+polyneuropathies,F3424,F342400,Ulnar neuropathy
+polyneuropathies,F342z,F342z00,Ulnar nerve lesion NOS
+polyneuropathies,F343,F343.00,Radial nerve lesions
+polyneuropathies,F3431,F343100,Sensory branch of radial nerve lesion
+polyneuropathies,F3432,F343200,Posterior interosseous nerve lesion
+polyneuropathies,F343z,F343z00,Radial nerve lesion NOS
+polyneuropathies,F344,F344.00,Causalgia
+polyneuropathies,F345,F345.00,Mononeuritis multiplex
+polyneuropathies,F346,F346.00,Median nerve entrapment
+polyneuropathies,F34y,F34y.00,Other upper limb mononeuritis
+polyneuropathies,F34z,F34z.00,Mononeuritis upper limb NOS
+polyneuropathies,F35,F35..00,Mononeuritis lower limb
+polyneuropathies,F350,F350.00,Sciatic nerve lesion
+polyneuropathies,F351,F351.00,Meralgia paraesthetica
+polyneuropathies,F352,F352.00,Femoral nerve lesions
+polyneuropathies,F353,F353.00,Common peroneal nerve lesion
+polyneuropathies,F353-1,F353.11,Lateral popliteal nerve lesion
+polyneuropathies,F354,F354.00,Tibial nerve lesion
+polyneuropathies,F354-1,F354.11,Medial popliteal nerve lesion
+polyneuropathies,F355,F355.00,Tarsal tunnel syndrome
+polyneuropathies,F356,F356.00,Plantar nerve lesion
+polyneuropathies,F3560,F356000,Morton's metatarsalgia
+polyneuropathies,F3561,F356100,Morton's neuralgia
+polyneuropathies,F356z,F356z00,Plantar nerve lesion NOS
+polyneuropathies,F357,F357.00,Superficial peroneal nerve lesion
+polyneuropathies,F358,F358.00,Deep peroneal nerve lesion
+polyneuropathies,F35x,F35x.00,Other mononeuritis lower limb
+polyneuropathies,F35y,F35y.00,Unspecified mononeuritis lower limb
+polyneuropathies,F35z,F35z.00,Mononeuritis of unspecified site NOS
+polyneuropathies,F35z-1,F35z.11,Peripheral neuropathy - hereditary or idiopathic
+polyneuropathies,F36,F36..00,Hereditary and idiopathic peripheral neuropathy
+polyneuropathies,F360,F360.00,Hereditary peripheral neuropathy
+polyneuropathies,F3600,F360000,Dejerine-Sottas disease
+polyneuropathies,F360z,F360z00,Hereditary peripheral neuropathy NOS
+polyneuropathies,F361,F361.00,Peroneal muscular atrophy
+polyneuropathies,F3610,F361000,Charcot-Marie-Tooth disease
+polyneuropathies,F3610-1,F361011,Charcot's atrophy
+polyneuropathies,F3610-2,F361012,Charcot-Marie-Tooth syndrome
+polyneuropathies,F361z,F361z00,Peroneal muscular atrophy NOS
+polyneuropathies,F362,F362.00,Hereditary sensory neuropathy
+polyneuropathies,F363,F363.00,Refsum's disease
+polyneuropathies,F364,F364.00,Idiopathic progressive polyneuropathy
+polyneuropathies,F365,F365.00,Neuropathy in association with hereditary ataxia
+polyneuropathies,F366,F366.00,Polyneuropathy
+polyneuropathies,F367,F367.00,Peripheral neuropathy
+polyneuropathies,F368,F368.00,Hereditary motor and sensory neuropathy
+polyneuropathies,F3680,F368000,Hereditary motor and sensory neuropathy type I
+polyneuropathies,F3681,F368100,Hereditary motor and sensory neuropathy type II
+polyneuropathies,F3682,F368200,Hereditary motor and sensory neuropathy type III
+polyneuropathies,F36y,F36y.00,Other idiopathic peripheral neuropathy
+polyneuropathies,F36yz,F36yz00,Other idiopathic peripheral neuropathy NOS
+polyneuropathies,F36z,F36z.00,Hereditary or idiopathic peripheral neuropathy NOS
+polyneuropathies,F37,F37..00,Inflammatory and toxic neuropathy
+polyneuropathies,F37-1,F37..11,Toxic neuropathy
+polyneuropathies,F3700,F370000,Guillain-Barre syndrome
+polyneuropathies,F3701,F370100,Postinfectious polyneuritis
+polyneuropathies,F3702,F370200,Miller-Fisher syndrome
+polyneuropathies,F371,F371.00,Polyneuropathy in collagen vascular disease
+polyneuropathies,F3711,F371100,Polyneuropathy in polyarteritis nodosa
+polyneuropathies,F371z,F371z00,Polyneuropathy in collagen vascular disease NOS
+polyneuropathies,F374,F374.00,Polyneuropathy in disease EC
+polyneuropathies,F3740,F374000,Polyneuropathy in amyloidosis
+polyneuropathies,F3741,F374100,Polyneuropathy in beriberi
+polyneuropathies,F3742,F374200,Polyneuropathy in vitamin B deficiency
+polyneuropathies,F3743,F374300,Polyneuropathy in diphtheria
+polyneuropathies,F3745,F374500,Polyneuropathy in hypoglycaemia
+polyneuropathies,F3746,F374600,Polyneuropathy in mumps
+polyneuropathies,F3748,F374800,Polyneuropathy in porphyria
+polyneuropathies,F3749,F374900,Polyneuropathy in sarcoidosis
+polyneuropathies,F374A,F374A00,Polyneuropathy in uraemia
+polyneuropathies,F374z,F374z00,Polyneuropathy in disease NOS
+polyneuropathies,F375,F375.00,Alcoholic polyneuropathy
+polyneuropathies,F376,F376.00,Polyneuropathy due to drugs
+polyneuropathies,F377,F377.00,Other toxic agent polyneuropathy
+polyneuropathies,F378,F378.00,Intercostal neuropathy
+polyneuropathies,F37X,F37X.00,"Inflammatory polyneuropathy, unspecified"
+polyneuropathies,F37y,F37y.00,Other toxic or inflammatory neuropathy
+polyneuropathies,F37y0,F37y000,Serum neuropathy
+polyneuropathies,F37y1,F37y100,Axonal sensorimotor neuropathy
+polyneuropathies,F37z,F37z.00,Toxic or inflammatory neuropathy NOS
+polyneuropathies,F37z-1,F37z.11,Polyneuropathy unspecified
+polyneuropathies,F3y,F3y..00,Other specified disorders of peripheral nervous system
+polyneuropathies,F3z,F3z..00,Peripheral nervous system disorder NOS
+polyneuropathies,Fyu69,Fyu6900,[X]Other lesions of median nerve
+polyneuropathies,Fyu6A,Fyu6A00,[X]Other mononeuropathies of upper limb
+polyneuropathies,Fyu6B,Fyu6B00,[X]Other mononeuropathies of lower limb
+polyneuropathies,Fyu6C,Fyu6C00,[X]Other specified mononeuropathies
+polyneuropathies,Fyu6D,Fyu6D00,[X]Other mononeuropathies in diseases classified elsewhere
+polyneuropathies,Fyu7,Fyu7.00,[X]Polyneuropathies & other disord of peripheral nerv syst
+polyneuropathies,Fyu70,Fyu7000,[X]Other hereditary and idiopathic neuropathies
+polyneuropathies,Fyu71,Fyu7100,[X]Other inflammatory polyneuropathies
+polyneuropathies,Fyu72,Fyu7200,[X]Other specified polyneuropathies
+polyneuropathies,Fyu75,Fyu7500,[X]Polyneuropathy/other endocrine+metabolic diseases CE
+polyneuropathies,Fyu78,Fyu7800,[X]Polyneuropathy/other musculoskeletal disorders CE
+polyneuropathies,Fyu7B,Fyu7B00,"[X]Inflammatory polyneuropathy, unspecified"
+polyneuropathies,Fyu7C,Fyu7C00,"[X] Polyneuropathy, unspecified"
+polyneuropathies,M2717,M271700,Neuropathic foot ulcer
+polyneuropathies,N035,N035.00,Neuropathic arthropathy
+polyneuropathies,N035-2,N035.12,Neuropathic arthritis
+polyneuropathies,N11y2,N11y200,Neuropathic spondylopathy
+polyneuropathies,N134-4,N134.14,Ulnar neuritis
+polyneuropathies,SD722,SD72200,Neuropathic foot blister

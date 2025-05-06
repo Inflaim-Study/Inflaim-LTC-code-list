@@ -1,0 +1,151 @@
+Condition,MedCodeId,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,ICD10Code,Term
+Rhinitis and Sinusitis,61668014.0,H01-1,H01..11,36971009.0,61668014.0,J320,Sinusitis
+Rhinitis and Sinusitis,61668014.0,H01-1,H01..11,36971009.0,61668014.0,J321,Sinusitis
+Rhinitis and Sinusitis,61668014.0,H01-1,H01..11,36971009.0,61668014.0,J011,Sinusitis
+Rhinitis and Sinusitis,61668014.0,H01-1,H01..11,36971009.0,61668014.0,J012,Sinusitis
+Rhinitis and Sinusitis,61668014.0,H01-1,H01..11,36971009.0,61668014.0,J323,Sinusitis
+Rhinitis and Sinusitis,61668014.0,H01-1,H01..11,36971009.0,61668014.0,J014,Sinusitis
+Rhinitis and Sinusitis,61668014.0,H01-1,H01..11,36971009.0,61668014.0,J018,Sinusitis
+Rhinitis and Sinusitis,61668014.0,H01-1,H01..11,36971009.0,61668014.0,J329,Sinusitis
+Rhinitis and Sinusitis,61668014.0,H01-1,H01..11,36971009.0,61668014.0,J010,Sinusitis
+Rhinitis and Sinusitis,61668014.0,H01-1,H01..11,36971009.0,61668014.0,J013,Sinusitis
+Rhinitis and Sinusitis,61668014.0,H01-1,H01..11,36971009.0,61668014.0,J324,Sinusitis
+Rhinitis and Sinusitis,61668014.0,H01-1,H01..11,36971009.0,61668014.0,J019,Sinusitis
+Rhinitis and Sinusitis,61668014.0,H01-1,H01..11,36971009.0,61668014.0,J328,Sinusitis
+Rhinitis and Sinusitis,61668014.0,H01-1,H01..11,36971009.0,61668014.0,J322,Sinusitis
+Rhinitis and Sinusitis,66718013.0,H13,H13..00,40055000.0,66718013.0,J329,Chronic sinusitis
+Rhinitis and Sinusitis,66718013.0,H13,H13..00,40055000.0,66718013.0,J328,Chronic sinusitis
+Rhinitis and Sinusitis,66718013.0,H13,H13..00,40055000.0,66718013.0,J323,Chronic sinusitis
+Rhinitis and Sinusitis,66718013.0,H13,H13..00,40055000.0,66718013.0,J322,Chronic sinusitis
+Rhinitis and Sinusitis,66718013.0,H13,H13..00,40055000.0,66718013.0,J320,Chronic sinusitis
+Rhinitis and Sinusitis,66718013.0,H13,H13..00,40055000.0,66718013.0,J321,Chronic sinusitis
+Rhinitis and Sinusitis,66718013.0,H13,H13..00,40055000.0,66718013.0,J324,Chronic sinusitis
+Rhinitis and Sinusitis,1229598015.0,H13-1,H13..11,40055000.0,1229598015.0,J329,Chronic rhinosinusitis
+Rhinitis and Sinusitis,1229598015.0,H13-1,H13..11,40055000.0,1229598015.0,J328,Chronic rhinosinusitis
+Rhinitis and Sinusitis,1229598015.0,H13-1,H13..11,40055000.0,1229598015.0,J323,Chronic rhinosinusitis
+Rhinitis and Sinusitis,1229598015.0,H13-1,H13..11,40055000.0,1229598015.0,J322,Chronic rhinosinusitis
+Rhinitis and Sinusitis,1229598015.0,H13-1,H13..11,40055000.0,1229598015.0,J320,Chronic rhinosinusitis
+Rhinitis and Sinusitis,1229598015.0,H13-1,H13..11,40055000.0,1229598015.0,J321,Chronic rhinosinusitis
+Rhinitis and Sinusitis,1229598015.0,H13-1,H13..11,40055000.0,1229598015.0,J324,Chronic rhinosinusitis
+Rhinitis and Sinusitis,59944016.0,H130,H130.00,35923002.0,59944016.0,J320,Chronic maxillary sinusitis
+Rhinitis and Sinusitis,488111000006118.0,H130-1,H130.11,35923002.0,486320019.0,J320,Antritis - chronic
+Rhinitis and Sinusitis,146480018.0,H130-2,H130.12,88348008.0,146480018.0,J010,Maxillary sinusitis
+Rhinitis and Sinusitis,146480018.0,H130-2,H130.12,88348008.0,146480018.0,J320,Maxillary sinusitis
+Rhinitis and Sinusitis,99894013.0,H131,H131.00,60130002.0,99894013.0,J321,Chronic frontal sinusitis
+Rhinitis and Sinusitis,130650014.0,H131-1,H131.11,78737005.0,130650014.0,J011,Frontal sinusitis
+Rhinitis and Sinusitis,130650014.0,H131-1,H131.11,78737005.0,130650014.0,J321,Frontal sinusitis
+Rhinitis and Sinusitis,121629017.0,H132,H132.00,73237007.0,121629017.0,J322,Chronic ethmoidal sinusitis
+Rhinitis and Sinusitis,65349012.0,H133,H133.00,38961000.0,65349012.0,J323,Chronic sphenoidal sinusitis
+Rhinitis and Sinusitis,301210011.0,H135,H135.00,195788001.0,301210011.0,J329,Recurrent sinusitis
+Rhinitis and Sinusitis,301211010.0,H13y,H13y.00,40055000.0,66718013.0,J329,Other chronic sinusitis
+Rhinitis and Sinusitis,301211010.0,H13y,H13y.00,40055000.0,66718013.0,J328,Other chronic sinusitis
+Rhinitis and Sinusitis,301211010.0,H13y,H13y.00,40055000.0,66718013.0,J323,Other chronic sinusitis
+Rhinitis and Sinusitis,301211010.0,H13y,H13y.00,40055000.0,66718013.0,J322,Other chronic sinusitis
+Rhinitis and Sinusitis,301211010.0,H13y,H13y.00,40055000.0,66718013.0,J320,Other chronic sinusitis
+Rhinitis and Sinusitis,301211010.0,H13y,H13y.00,40055000.0,66718013.0,J321,Other chronic sinusitis
+Rhinitis and Sinusitis,301211010.0,H13y,H13y.00,40055000.0,66718013.0,J324,Other chronic sinusitis
+Rhinitis and Sinusitis,147320013.0,H13y0,H13y000,88850006.0,147320013.0,J324,Chronic pansinusitis
+Rhinitis and Sinusitis,301212015.0,H13y1,H13y100,195790000.0,301212015.0,A158,Pansinusitis
+Rhinitis and Sinusitis,301212015.0,H13y1,H13y100,195790000.0,301212015.0,A168,Pansinusitis
+Rhinitis and Sinusitis,301212015.0,H13y1,H13y100,195790000.0,301212015.0,J014,Pansinusitis
+Rhinitis and Sinusitis,301212015.0,H13y1,H13y100,195790000.0,301212015.0,J324,Pansinusitis
+Rhinitis and Sinusitis,301213013.0,H13yz,H13yz00,40055000.0,66718013.0,J329,Other chronic sinusitis NOS
+Rhinitis and Sinusitis,301213013.0,H13yz,H13yz00,40055000.0,66718013.0,J328,Other chronic sinusitis NOS
+Rhinitis and Sinusitis,301213013.0,H13yz,H13yz00,40055000.0,66718013.0,J323,Other chronic sinusitis NOS
+Rhinitis and Sinusitis,301213013.0,H13yz,H13yz00,40055000.0,66718013.0,J322,Other chronic sinusitis NOS
+Rhinitis and Sinusitis,301213013.0,H13yz,H13yz00,40055000.0,66718013.0,J320,Other chronic sinusitis NOS
+Rhinitis and Sinusitis,301213013.0,H13yz,H13yz00,40055000.0,66718013.0,J321,Other chronic sinusitis NOS
+Rhinitis and Sinusitis,301213013.0,H13yz,H13yz00,40055000.0,66718013.0,J324,Other chronic sinusitis NOS
+Rhinitis and Sinusitis,301214019.0,H13z,H13z.00,40055000.0,66718013.0,J329,Chronic sinusitis NOS
+Rhinitis and Sinusitis,301214019.0,H13z,H13z.00,40055000.0,66718013.0,J328,Chronic sinusitis NOS
+Rhinitis and Sinusitis,301214019.0,H13z,H13z.00,40055000.0,66718013.0,J323,Chronic sinusitis NOS
+Rhinitis and Sinusitis,301214019.0,H13z,H13z.00,40055000.0,66718013.0,J322,Chronic sinusitis NOS
+Rhinitis and Sinusitis,301214019.0,H13z,H13z.00,40055000.0,66718013.0,J320,Chronic sinusitis NOS
+Rhinitis and Sinusitis,301214019.0,H13z,H13z.00,40055000.0,66718013.0,J321,Chronic sinusitis NOS
+Rhinitis and Sinusitis,301214019.0,H13z,H13z.00,40055000.0,66718013.0,J324,Chronic sinusitis NOS
+Rhinitis and Sinusitis,477701000006111.0,H17-2,H17..12,61582004.0,102311013.0,J301,Allergic rhinosinusitis
+Rhinitis and Sinusitis,477701000006111.0,H17-2,H17..12,61582004.0,102311013.0,J302,Allergic rhinosinusitis
+Rhinitis and Sinusitis,477701000006111.0,H17-2,H17..12,61582004.0,102311013.0,J450,Allergic rhinosinusitis
+Rhinitis and Sinusitis,477701000006111.0,H17-2,H17..12,61582004.0,102311013.0,J304,Allergic rhinosinusitis
+Rhinitis and Sinusitis,477701000006111.0,H17-2,H17..12,61582004.0,102311013.0,J303,Allergic rhinosinusitis
+Rhinitis and Sinusitis,301825016.0,Hyu22,Hyu2200,40055000.0,66718013.0,J329,[X]Other chronic sinusitis
+Rhinitis and Sinusitis,301825016.0,Hyu22,Hyu2200,40055000.0,66718013.0,J328,[X]Other chronic sinusitis
+Rhinitis and Sinusitis,301825016.0,Hyu22,Hyu2200,40055000.0,66718013.0,J323,[X]Other chronic sinusitis
+Rhinitis and Sinusitis,301825016.0,Hyu22,Hyu2200,40055000.0,66718013.0,J322,[X]Other chronic sinusitis
+Rhinitis and Sinusitis,301825016.0,Hyu22,Hyu2200,40055000.0,66718013.0,J320,[X]Other chronic sinusitis
+Rhinitis and Sinusitis,301825016.0,Hyu22,Hyu2200,40055000.0,66718013.0,J321,[X]Other chronic sinusitis
+Rhinitis and Sinusitis,301825016.0,Hyu22,Hyu2200,40055000.0,66718013.0,J324,[X]Other chronic sinusitis
+Rhinitis and Sinusitis,481105015.0,H170-99,H170.99,21719001.0,885121000006110.0,J301,Hay fever
+Rhinitis and Sinusitis,6298141000006118.0,^ESCTHA629814,,367498001.0,2119211000000114.0,J301,Hay fever
+Rhinitis and Sinusitis,6298141000006118.0,^ESCTHA629814,,367498001.0,2119211000000114.0,J302,Hay fever
+Rhinitis and Sinusitis,933361000006117.0,H17-99,H17..99,61582004.0,933361000006117.0,J301,Hay fever
+Rhinitis and Sinusitis,933361000006117.0,H17-99,H17..99,61582004.0,933361000006117.0,J302,Hay fever
+Rhinitis and Sinusitis,933361000006117.0,H17-99,H17..99,61582004.0,933361000006117.0,J450,Hay fever
+Rhinitis and Sinusitis,933361000006117.0,H17-99,H17..99,61582004.0,933361000006117.0,J304,Hay fever
+Rhinitis and Sinusitis,933361000006117.0,H17-99,H17..99,61582004.0,933361000006117.0,J303,Hay fever
+Rhinitis and Sinusitis,492457012.0,ESCTSE4,,367498001.0,1956781000006116.0,J301,Seasonal allergic rhinitis
+Rhinitis and Sinusitis,492457012.0,ESCTSE4,,367498001.0,1956781000006116.0,J302,Seasonal allergic rhinitis
+Rhinitis and Sinusitis,142764012.0,H120,H120.00,86094006.0,142764012.0,J300,Chronic rhinitis
+Rhinitis and Sinusitis,142764012.0,H120,H120.00,86094006.0,142764012.0,J304,Chronic rhinitis
+Rhinitis and Sinusitis,142764012.0,H120,H120.00,86094006.0,142764012.0,J303,Chronic rhinitis
+Rhinitis and Sinusitis,142764012.0,H120,H120.00,86094006.0,142764012.0,J301,Chronic rhinitis
+Rhinitis and Sinusitis,142764012.0,H120,H120.00,86094006.0,142764012.0,J310,Chronic rhinitis
+Rhinitis and Sinusitis,142764012.0,H120,H120.00,86094006.0,142764012.0,J302,Chronic rhinitis
+Rhinitis and Sinusitis,301176016.0,H1200,H120000,195765002.0,301176016.0,J310,Chronic simple rhinitis
+Rhinitis and Sinusitis,396095011.0,H1201,H120100,266342009.0,396095011.0,J310,Chronic catarrhal rhinitis
+Rhinitis and Sinusitis,301181013.0,H1202,H120200,195768000.0,301181013.0,J310,Chronic hypertrophic rhinitis
+Rhinitis and Sinusitis,301182018.0,H1203,H120300,195769008.0,301182018.0,J310,Chronic atrophic rhinitis
+Rhinitis and Sinusitis,301183011.0,H1204,H120400,195770009.0,301183011.0,J00X,Chronic infective rhinitis
+Rhinitis and Sinusitis,301184017.0,H1205,H120500,195771008.0,301184017.0,J310,Chronic ulcerative rhinitis
+Rhinitis and Sinusitis,301185016.0,H1206,H120600,195772001.0,301185016.0,J310,Chronic membranous rhinitis
+Rhinitis and Sinusitis,301186015.0,H1207,H120700,195773006.0,301186015.0,J310,Chronic fibrinous rhinitis
+Rhinitis and Sinusitis,301187012.0,H120z,H120z00,86094006.0,142764012.0,J300,Chronic rhinitis NOS
+Rhinitis and Sinusitis,301187012.0,H120z,H120z00,86094006.0,142764012.0,J304,Chronic rhinitis NOS
+Rhinitis and Sinusitis,301187012.0,H120z,H120z00,86094006.0,142764012.0,J303,Chronic rhinitis NOS
+Rhinitis and Sinusitis,301187012.0,H120z,H120z00,86094006.0,142764012.0,J301,Chronic rhinitis NOS
+Rhinitis and Sinusitis,301187012.0,H120z,H120z00,86094006.0,142764012.0,J310,Chronic rhinitis NOS
+Rhinitis and Sinusitis,301187012.0,H120z,H120z00,86094006.0,142764012.0,J302,Chronic rhinitis NOS
+Rhinitis and Sinusitis,102311013.0,H17,H17..00,61582004.0,102311013.0,J301,Allergic rhinitis
+Rhinitis and Sinusitis,102311013.0,H17,H17..00,61582004.0,102311013.0,J302,Allergic rhinitis
+Rhinitis and Sinusitis,102311013.0,H17,H17..00,61582004.0,102311013.0,J450,Allergic rhinitis
+Rhinitis and Sinusitis,102311013.0,H17,H17..00,61582004.0,102311013.0,J304,Allergic rhinitis
+Rhinitis and Sinusitis,102311013.0,H17,H17..00,61582004.0,102311013.0,J303,Allergic rhinitis
+Rhinitis and Sinusitis,224001000000114.0,H17-1,H17..11,446096008.0,2883237016.0,J303,Perennial rhinitis
+Rhinitis and Sinusitis,481104016.0,H170,H170.00,21719001.0,481104016.0,J301,Allergic rhinitis due to pollens
+Rhinitis and Sinusitis,817341000006110.0,H170-1,H170.11,21719001.0,481104016.0,J301,Hay fever - pollens
+Rhinitis and Sinusitis,36447011.0,H170-2,H170.12,21719001.0,36447011.0,J301,Pollinosis
+Rhinitis and Sinusitis,396097015.0,H171,H171.00,61582004.0,102311013.0,J301,Allergic rhinitis due to other allergens
+Rhinitis and Sinusitis,396097015.0,H171,H171.00,61582004.0,102311013.0,J302,Allergic rhinitis due to other allergens
+Rhinitis and Sinusitis,396097015.0,H171,H171.00,61582004.0,102311013.0,J450,Allergic rhinitis due to other allergens
+Rhinitis and Sinusitis,396097015.0,H171,H171.00,61582004.0,102311013.0,J304,Allergic rhinitis due to other allergens
+Rhinitis and Sinusitis,396097015.0,H171,H171.00,61582004.0,102311013.0,J303,Allergic rhinitis due to other allergens
+Rhinitis and Sinusitis,348103016.0,H171-1,H171.11,232346004.0,348103016.0,J303,Cat allergy
+Rhinitis and Sinusitis,348104010.0,H171-2,H171.12,232347008.0,348105011.0,J303,Dander (animal) allergy
+Rhinitis and Sinusitis,348106012.0,H171-3,H171.13,232348003.0,348106012.0,J303,Feather allergy
+Rhinitis and Sinusitis,348109017.0,H171-4,H171.14,21719001.0,36446019.0,J301,Hay fever - other allergen
+Rhinitis and Sinusitis,348107015.0,H171-5,H171.15,232349006.0,348107015.0,J303,House dust allergy
+Rhinitis and Sinusitis,348107015.0,H171-5,H171.15,232349006.0,348107015.0,J450,House dust allergy
+Rhinitis and Sinusitis,348108013.0,H171-6,H171.16,232350006.0,348108013.0,J303,House dust mite allergy
+Rhinitis and Sinusitis,1495072016.0,H1710,H171000,717234006.0,3308773018.0,Z910,Allergy to animal
+Rhinitis and Sinusitis,634501000000119.0,H1711,H171100,419271008.0,634501000000119.0,J303,Dog allergy
+Rhinitis and Sinusitis,396098013.0,H172,H172.00,61582004.0,499054013.0,J301,Allergic rhinitis due to unspecified allergen
+Rhinitis and Sinusitis,396098013.0,H172,H172.00,61582004.0,499054013.0,J302,Allergic rhinitis due to unspecified allergen
+Rhinitis and Sinusitis,396098013.0,H172,H172.00,61582004.0,499054013.0,J450,Allergic rhinitis due to unspecified allergen
+Rhinitis and Sinusitis,396098013.0,H172,H172.00,61582004.0,499054013.0,J304,Allergic rhinitis due to unspecified allergen
+Rhinitis and Sinusitis,396098013.0,H172,H172.00,61582004.0,499054013.0,J303,Allergic rhinitis due to unspecified allergen
+Rhinitis and Sinusitis,348110010.0,H172-1,H172.11,21719001.0,481105015.0,J301,Hay fever - unspecified allergen
+Rhinitis and Sinusitis,301268012.0,H17z,H17z.00,61582004.0,102311013.0,J301,Allergic rhinitis NOS
+Rhinitis and Sinusitis,301268012.0,H17z,H17z.00,61582004.0,102311013.0,J302,Allergic rhinitis NOS
+Rhinitis and Sinusitis,301268012.0,H17z,H17z.00,61582004.0,102311013.0,J450,Allergic rhinitis NOS
+Rhinitis and Sinusitis,301268012.0,H17z,H17z.00,61582004.0,102311013.0,J304,Allergic rhinitis NOS
+Rhinitis and Sinusitis,301268012.0,H17z,H17z.00,61582004.0,102311013.0,J303,Allergic rhinitis NOS
+Rhinitis and Sinusitis,14582019.0,H18,H18..00,8229003.0,14582019.0,J300,Vasomotor rhinitis
+Rhinitis and Sinusitis,817361000006114.0,H330-3,H330.13,233683003.0,350153016.0,J450,Hay fever with asthma
+Rhinitis and Sinusitis,350153016.0,H3300-1,H330011,233683003.0,350153016.0,J450,Hay fever with asthma
+Rhinitis and Sinusitis,301823011.0,Hyu20,Hyu2000,367498001.0,492457012.0,J301,[X]Other seasonal allergic rhinitis
+Rhinitis and Sinusitis,301823011.0,Hyu20,Hyu2000,367498001.0,492457012.0,J302,[X]Other seasonal allergic rhinitis
+Rhinitis and Sinusitis,301824017.0,Hyu21,Hyu2100,61582004.0,102311013.0,J301,[X]Other allergic rhinitis
+Rhinitis and Sinusitis,301824017.0,Hyu21,Hyu2100,61582004.0,102311013.0,J302,[X]Other allergic rhinitis
+Rhinitis and Sinusitis,301824017.0,Hyu21,Hyu2100,61582004.0,102311013.0,J450,[X]Other allergic rhinitis
+Rhinitis and Sinusitis,301824017.0,Hyu21,Hyu2100,61582004.0,102311013.0,J304,[X]Other allergic rhinitis
+Rhinitis and Sinusitis,301824017.0,Hyu21,Hyu2100,61582004.0,102311013.0,J303,[X]Other allergic rhinitis

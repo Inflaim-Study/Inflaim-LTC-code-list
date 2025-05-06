@@ -1,0 +1,834 @@
+Condition,MedCodeId,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,ICD10Code,Term
+Mood disorders ,882321000006119.0,E110-99,E110.99,268619003.0,882321000006119.0,F309,Mania/hypomania
+Mood disorders ,882311000006110.0,E11-99,E11..99,13746004.0,882311000006110.0,F318,Manic-depressive psychoses
+Mood disorders ,882311000006110.0,E11-99,E11..99,13746004.0,882311000006110.0,F319,Manic-depressive psychoses
+Mood disorders ,882311000006110.0,E11-99,E11..99,13746004.0,882311000006110.0,F309,Manic-depressive psychoses
+Mood disorders ,882311000006110.0,E11-99,E11..99,13746004.0,882311000006110.0,F063,Manic-depressive psychoses
+Mood disorders ,882311000006110.0,E11-99,E11..99,13746004.0,882311000006110.0,F308,Manic-depressive psychoses
+Mood disorders ,882311000006110.0,E11-99,E11..99,13746004.0,882311000006110.0,F316,Manic-depressive psychoses
+Mood disorders ,882311000006110.0,E11-99,E11..99,13746004.0,882311000006110.0,F314,Manic-depressive psychoses
+Mood disorders ,882311000006110.0,E11-99,E11..99,13746004.0,882311000006110.0,F317,Manic-depressive psychoses
+Mood disorders ,882311000006110.0,E11-99,E11..99,13746004.0,882311000006110.0,F311,Manic-depressive psychoses
+Mood disorders ,882311000006110.0,E11-99,E11..99,13746004.0,882311000006110.0,F302,Manic-depressive psychoses
+Mood disorders ,882311000006110.0,E11-99,E11..99,13746004.0,882311000006110.0,F312,Manic-depressive psychoses
+Mood disorders ,882311000006110.0,E11-99,E11..99,13746004.0,882311000006110.0,F310,Manic-depressive psychoses
+Mood disorders ,882311000006110.0,E11-99,E11..99,13746004.0,882311000006110.0,F315,Manic-depressive psychoses
+Mood disorders ,882311000006110.0,E11-99,E11..99,13746004.0,882311000006110.0,F301,Manic-depressive psychoses
+Mood disorders ,882311000006110.0,E11-99,E11..99,13746004.0,882311000006110.0,F313,Manic-depressive psychoses
+Mood disorders ,882311000006110.0,E11-99,E11..99,13746004.0,882311000006110.0,F300,Manic-depressive psychoses
+Mood disorders ,513871000006118.0,E11-1,E11..11,13746004.0,23447014.0,F318,Bipolar psychoses
+Mood disorders ,513871000006118.0,E11-1,E11..11,13746004.0,23447014.0,F319,Bipolar psychoses
+Mood disorders ,513871000006118.0,E11-1,E11..11,13746004.0,23447014.0,F309,Bipolar psychoses
+Mood disorders ,513871000006118.0,E11-1,E11..11,13746004.0,23447014.0,F063,Bipolar psychoses
+Mood disorders ,513871000006118.0,E11-1,E11..11,13746004.0,23447014.0,F308,Bipolar psychoses
+Mood disorders ,513871000006118.0,E11-1,E11..11,13746004.0,23447014.0,F316,Bipolar psychoses
+Mood disorders ,513871000006118.0,E11-1,E11..11,13746004.0,23447014.0,F314,Bipolar psychoses
+Mood disorders ,513871000006118.0,E11-1,E11..11,13746004.0,23447014.0,F317,Bipolar psychoses
+Mood disorders ,513871000006118.0,E11-1,E11..11,13746004.0,23447014.0,F311,Bipolar psychoses
+Mood disorders ,513871000006118.0,E11-1,E11..11,13746004.0,23447014.0,F302,Bipolar psychoses
+Mood disorders ,513871000006118.0,E11-1,E11..11,13746004.0,23447014.0,F312,Bipolar psychoses
+Mood disorders ,513871000006118.0,E11-1,E11..11,13746004.0,23447014.0,F310,Bipolar psychoses
+Mood disorders ,513871000006118.0,E11-1,E11..11,13746004.0,23447014.0,F315,Bipolar psychoses
+Mood disorders ,513871000006118.0,E11-1,E11..11,13746004.0,23447014.0,F301,Bipolar psychoses
+Mood disorders ,513871000006118.0,E11-1,E11..11,13746004.0,23447014.0,F313,Bipolar psychoses
+Mood disorders ,513871000006118.0,E11-1,E11..11,13746004.0,23447014.0,F300,Bipolar psychoses
+Mood disorders ,223601000000119.0,E11-3,E11..13,231494001.0,346966018.0,F302,Manic psychoses
+Mood disorders ,223601000000119.0,E11-3,E11..13,231494001.0,346966018.0,F448,Manic psychoses
+Mood disorders ,223601000000119.0,E11-3,E11..13,231494001.0,346966018.0,F309,Manic psychoses
+Mood disorders ,223601000000119.0,E11-3,E11..13,231494001.0,346966018.0,F308,Manic psychoses
+Mood disorders ,223601000000119.0,E11-3,E11..13,231494001.0,346966018.0,F300,Manic psychoses
+Mood disorders ,223601000000119.0,E11-3,E11..13,231494001.0,346966018.0,F105,Manic psychoses
+Mood disorders ,223601000000119.0,E11-3,E11..13,231494001.0,346966018.0,F301,Manic psychoses
+Mood disorders ,223601000000119.0,E11-3,E11..13,231494001.0,346966018.0,F318,Manic psychoses
+Mood disorders ,401765010.0,E110,E110.00,268619003.0,401765010.0,F309,"Manic disorder, single episode"
+Mood disorders ,789221000006116.0,E110-1,E110.11,231496004.0,346969013.0,F300,Hypomanic psychoses
+Mood disorders ,294802018.0,E1100,E110000,268619003.0,401765010.0,F309,"Single manic episode, unspecified"
+Mood disorders ,294803011.0,E1101,E110100,191583000.0,294803011.0,F300,"Single manic episode, mild"
+Mood disorders ,294803011.0,E1101,E110100,191583000.0,294803011.0,F301,"Single manic episode, mild"
+Mood disorders ,294803011.0,E1101,E110100,191583000.0,294803011.0,F309,"Single manic episode, mild"
+Mood disorders ,294803011.0,E1101,E110100,191583000.0,294803011.0,F308,"Single manic episode, mild"
+Mood disorders ,294803011.0,E1101,E110100,191583000.0,294803011.0,F302,"Single manic episode, mild"
+Mood disorders ,294804017.0,E1102,E110200,191584006.0,294804017.0,F308,"Single manic episode, moderate"
+Mood disorders ,294804017.0,E1102,E110200,191584006.0,294804017.0,F301,"Single manic episode, moderate"
+Mood disorders ,294804017.0,E1102,E110200,191584006.0,294804017.0,F302,"Single manic episode, moderate"
+Mood disorders ,294804017.0,E1102,E110200,191584006.0,294804017.0,F300,"Single manic episode, moderate"
+Mood disorders ,294804017.0,E1102,E110200,191584006.0,294804017.0,F309,"Single manic episode, moderate"
+Mood disorders ,294806015.0,E1104,E110400,191586008.0,294806015.0,F302,"Single manic episode, severe, with psychosis"
+Mood disorders ,294808019.0,E1106,E110600,191588009.0,294808019.0,F309,Single manic episode in full remission
+Mood disorders ,294809010.0,E110z,E110z00,268619003.0,401765010.0,F309,"Manic disorder, single episode NOS"
+Mood disorders ,294810017.0,E111,E111.00,191590005.0,294810017.0,F318,Recurrent manic episodes
+Mood disorders ,294811018.0,E1110,E111000,191590005.0,294810017.0,F318,"Recurrent manic episodes, unspecified"
+Mood disorders ,294812013.0,E1111,E111100,191592002.0,294812013.0,F318,"Recurrent manic episodes, mild"
+Mood disorders ,294813015.0,E1112,E111200,191593007.0,294813015.0,F318,"Recurrent manic episodes, moderate"
+Mood disorders ,294815010.0,E1114,E111400,191595000.0,294815010.0,F302,"Recurrent manic episodes, severe, with psychosis"
+Mood disorders ,294817019.0,E1116,E111600,191597008.0,294817019.0,F318,"Recurrent manic episodes, in full remission"
+Mood disorders ,294818012.0,E111z,E111z00,191590005.0,294810017.0,F318,Recurrent manic episode NOS
+Mood disorders ,513801000006112.0,E114,E114.00,191618007.0,294846014.0,F312,"Bipolar affective disorder, currently manic"
+Mood disorders ,513801000006112.0,E114,E114.00,191618007.0,294846014.0,F311,"Bipolar affective disorder, currently manic"
+Mood disorders ,294847017.0,E114-1,E114.11,191618007.0,294847017.0,F312,Manic-depressive - now manic
+Mood disorders ,294847017.0,E114-1,E114.11,191618007.0,294847017.0,F311,Manic-depressive - now manic
+Mood disorders ,294848010.0,E1140,E114000,191618007.0,294846014.0,F312,"Bipolar affective disorder, currently manic, unspecified"
+Mood disorders ,294848010.0,E1140,E114000,191618007.0,294846014.0,F311,"Bipolar affective disorder, currently manic, unspecified"
+Mood disorders ,294849019.0,E1141,E114100,191620005.0,294849019.0,F312,"Bipolar affective disorder, currently manic, mild"
+Mood disorders ,294849019.0,E1141,E114100,191620005.0,294849019.0,F311,"Bipolar affective disorder, currently manic, mild"
+Mood disorders ,294850019.0,E1142,E114200,191621009.0,294850019.0,F312,"Bipolar affective disorder, currently manic, moderate"
+Mood disorders ,294850019.0,E1142,E114200,191621009.0,294850019.0,F311,"Bipolar affective disorder, currently manic, moderate"
+Mood disorders ,513691000006116.0,E1143,E114300,162004.0,1352013.0,F311,"Bipolar affect disord, currently manic, severe, no psychosis"
+Mood disorders ,513701000006116.0,E1144,E114400,191623007.0,294852010.0,F312,"Bipolar affect disord, currently manic,severe with psychosis"
+Mood disorders ,513741000006119.0,E1145,E114500,63249007.0,105141010.0,F317,"Bipolar affect disord,currently manic, part/unspec remission"
+Mood disorders ,294858014.0,E114z,E114z00,191618007.0,294846014.0,F312,"Bipolar affective disorder, currently manic, NOS"
+Mood disorders ,294858014.0,E114z,E114z00,191618007.0,294846014.0,F311,"Bipolar affective disorder, currently manic, NOS"
+Mood disorders ,294862015.0,E1151,E115100,191629006.0,294862015.0,F313,"Bipolar affective disorder, currently depressed, mild"
+Mood disorders ,294863013.0,E1152,E115200,191630001.0,294863013.0,F313,"Bipolar affective disorder, currently depressed, moderate"
+Mood disorders ,513731000006112.0,E1153,E115300,61403008.0,102016011.0,F314,"Bipolar affect disord, now depressed, severe, no psychosis"
+Mood disorders ,513721000006114.0,E1154,E115400,765176007.0,3657334019.0,F315,"Bipolar affect disord, now depressed, severe with psychosis"
+Mood disorders ,513711000006118.0,E1155,E115500,49512000.0,82468013.0,F317,"Bipolar affect disord, now depressed, part/unspec remission"
+Mood disorders ,294869012.0,E116,E116.00,191636007.0,294869012.0,F316,Mixed bipolar affective disorder
+Mood disorders ,294870013.0,E1160,E116000,191636007.0,294869012.0,F316,"Mixed bipolar affective disorder, unspecified"
+Mood disorders ,294871012.0,E1161,E116100,191638008.0,294871012.0,F316,"Mixed bipolar affective disorder, mild"
+Mood disorders ,294872017.0,E1162,E116200,191639000.0,294872017.0,F316,"Mixed bipolar affective disorder, moderate"
+Mood disorders ,294874016.0,E1164,E116400,191641004.0,294874016.0,F316,"Mixed bipolar affective disorder, severe, with psychosis"
+Mood disorders ,294876019.0,E1166,E116600,191643001.0,294876019.0,F317,"Mixed bipolar affective disorder, in full remission"
+Mood disorders ,294877011.0,E116z,E116z00,191636007.0,294869012.0,F316,"Mixed bipolar affective disorder, NOS"
+Mood disorders ,294880012.0,E117,E117.00,13746004.0,2839307017.0,F318,Unspecified bipolar affective disorder
+Mood disorders ,294880012.0,E117,E117.00,13746004.0,2839307017.0,F319,Unspecified bipolar affective disorder
+Mood disorders ,294880012.0,E117,E117.00,13746004.0,2839307017.0,F309,Unspecified bipolar affective disorder
+Mood disorders ,294880012.0,E117,E117.00,13746004.0,2839307017.0,F063,Unspecified bipolar affective disorder
+Mood disorders ,294880012.0,E117,E117.00,13746004.0,2839307017.0,F308,Unspecified bipolar affective disorder
+Mood disorders ,294880012.0,E117,E117.00,13746004.0,2839307017.0,F316,Unspecified bipolar affective disorder
+Mood disorders ,294880012.0,E117,E117.00,13746004.0,2839307017.0,F314,Unspecified bipolar affective disorder
+Mood disorders ,294880012.0,E117,E117.00,13746004.0,2839307017.0,F317,Unspecified bipolar affective disorder
+Mood disorders ,294880012.0,E117,E117.00,13746004.0,2839307017.0,F311,Unspecified bipolar affective disorder
+Mood disorders ,294880012.0,E117,E117.00,13746004.0,2839307017.0,F302,Unspecified bipolar affective disorder
+Mood disorders ,294880012.0,E117,E117.00,13746004.0,2839307017.0,F312,Unspecified bipolar affective disorder
+Mood disorders ,294880012.0,E117,E117.00,13746004.0,2839307017.0,F310,Unspecified bipolar affective disorder
+Mood disorders ,294880012.0,E117,E117.00,13746004.0,2839307017.0,F315,Unspecified bipolar affective disorder
+Mood disorders ,294880012.0,E117,E117.00,13746004.0,2839307017.0,F301,Unspecified bipolar affective disorder
+Mood disorders ,294880012.0,E117,E117.00,13746004.0,2839307017.0,F313,Unspecified bipolar affective disorder
+Mood disorders ,294880012.0,E117,E117.00,13746004.0,2839307017.0,F300,Unspecified bipolar affective disorder
+Mood disorders ,294881011.0,E1170,E117000,13746004.0,2839307017.0,F318,"Unspecified bipolar affective disorder, unspecified"
+Mood disorders ,294881011.0,E1170,E117000,13746004.0,2839307017.0,F319,"Unspecified bipolar affective disorder, unspecified"
+Mood disorders ,294881011.0,E1170,E117000,13746004.0,2839307017.0,F309,"Unspecified bipolar affective disorder, unspecified"
+Mood disorders ,294881011.0,E1170,E117000,13746004.0,2839307017.0,F063,"Unspecified bipolar affective disorder, unspecified"
+Mood disorders ,294881011.0,E1170,E117000,13746004.0,2839307017.0,F308,"Unspecified bipolar affective disorder, unspecified"
+Mood disorders ,294881011.0,E1170,E117000,13746004.0,2839307017.0,F316,"Unspecified bipolar affective disorder, unspecified"
+Mood disorders ,294881011.0,E1170,E117000,13746004.0,2839307017.0,F314,"Unspecified bipolar affective disorder, unspecified"
+Mood disorders ,294881011.0,E1170,E117000,13746004.0,2839307017.0,F317,"Unspecified bipolar affective disorder, unspecified"
+Mood disorders ,294881011.0,E1170,E117000,13746004.0,2839307017.0,F311,"Unspecified bipolar affective disorder, unspecified"
+Mood disorders ,294881011.0,E1170,E117000,13746004.0,2839307017.0,F302,"Unspecified bipolar affective disorder, unspecified"
+Mood disorders ,294881011.0,E1170,E117000,13746004.0,2839307017.0,F312,"Unspecified bipolar affective disorder, unspecified"
+Mood disorders ,294881011.0,E1170,E117000,13746004.0,2839307017.0,F310,"Unspecified bipolar affective disorder, unspecified"
+Mood disorders ,294881011.0,E1170,E117000,13746004.0,2839307017.0,F315,"Unspecified bipolar affective disorder, unspecified"
+Mood disorders ,294881011.0,E1170,E117000,13746004.0,2839307017.0,F301,"Unspecified bipolar affective disorder, unspecified"
+Mood disorders ,294881011.0,E1170,E117000,13746004.0,2839307017.0,F313,"Unspecified bipolar affective disorder, unspecified"
+Mood disorders ,294881011.0,E1170,E117000,13746004.0,2839307017.0,F300,"Unspecified bipolar affective disorder, unspecified"
+Mood disorders ,294882016.0,E1171,E117100,13313007.0,22777014.0,F319,"Unspecified bipolar affective disorder, mild"
+Mood disorders ,294882016.0,E1171,E117100,13313007.0,22777014.0,F315,"Unspecified bipolar affective disorder, mild"
+Mood disorders ,294882016.0,E1171,E117100,13313007.0,22777014.0,F317,"Unspecified bipolar affective disorder, mild"
+Mood disorders ,294882016.0,E1171,E117100,13313007.0,22777014.0,F313,"Unspecified bipolar affective disorder, mild"
+Mood disorders ,294882016.0,E1171,E117100,13313007.0,22777014.0,F316,"Unspecified bipolar affective disorder, mild"
+Mood disorders ,294882016.0,E1171,E117100,13313007.0,22777014.0,F311,"Unspecified bipolar affective disorder, mild"
+Mood disorders ,294882016.0,E1171,E117100,13313007.0,22777014.0,F312,"Unspecified bipolar affective disorder, mild"
+Mood disorders ,294882016.0,E1171,E117100,13313007.0,22777014.0,F310,"Unspecified bipolar affective disorder, mild"
+Mood disorders ,294882016.0,E1171,E117100,13313007.0,22777014.0,F318,"Unspecified bipolar affective disorder, mild"
+Mood disorders ,294882016.0,E1171,E117100,13313007.0,22777014.0,F314,"Unspecified bipolar affective disorder, mild"
+Mood disorders ,294883014.0,E1172,E117200,79584002.0,132034014.0,F319,"Unspecified bipolar affective disorder, moderate"
+Mood disorders ,82151000006114.0,E1173,E117300,53049002.0,88241016.0,F314,"Unspecified bipolar affective disorder, severe, no psychosis"
+Mood disorders ,82171000006116.0,E1174,E117400,4441000.0,7545018.0,F315,"Unspecified bipolar affective disorder,severe with psychosis"
+Mood disorders ,82091000006116.0,E1175,E117500,5703000.0,10501015.0,F317,"Unspecified bipolar affect disord, partial/unspec remission"
+Mood disorders ,294887010.0,E1176,E117600,41836007.0,69794013.0,F317,"Unspecified bipolar affective disorder, in full remission"
+Mood disorders ,294888017.0,E117z,E117z00,13746004.0,2839307017.0,F318,"Unspecified bipolar affective disorder, NOS"
+Mood disorders ,294888017.0,E117z,E117z00,13746004.0,2839307017.0,F319,"Unspecified bipolar affective disorder, NOS"
+Mood disorders ,294888017.0,E117z,E117z00,13746004.0,2839307017.0,F309,"Unspecified bipolar affective disorder, NOS"
+Mood disorders ,294888017.0,E117z,E117z00,13746004.0,2839307017.0,F063,"Unspecified bipolar affective disorder, NOS"
+Mood disorders ,294888017.0,E117z,E117z00,13746004.0,2839307017.0,F308,"Unspecified bipolar affective disorder, NOS"
+Mood disorders ,294888017.0,E117z,E117z00,13746004.0,2839307017.0,F316,"Unspecified bipolar affective disorder, NOS"
+Mood disorders ,294888017.0,E117z,E117z00,13746004.0,2839307017.0,F314,"Unspecified bipolar affective disorder, NOS"
+Mood disorders ,294888017.0,E117z,E117z00,13746004.0,2839307017.0,F317,"Unspecified bipolar affective disorder, NOS"
+Mood disorders ,294888017.0,E117z,E117z00,13746004.0,2839307017.0,F311,"Unspecified bipolar affective disorder, NOS"
+Mood disorders ,294888017.0,E117z,E117z00,13746004.0,2839307017.0,F302,"Unspecified bipolar affective disorder, NOS"
+Mood disorders ,294888017.0,E117z,E117z00,13746004.0,2839307017.0,F312,"Unspecified bipolar affective disorder, NOS"
+Mood disorders ,294888017.0,E117z,E117z00,13746004.0,2839307017.0,F310,"Unspecified bipolar affective disorder, NOS"
+Mood disorders ,294888017.0,E117z,E117z00,13746004.0,2839307017.0,F315,"Unspecified bipolar affective disorder, NOS"
+Mood disorders ,294888017.0,E117z,E117z00,13746004.0,2839307017.0,F301,"Unspecified bipolar affective disorder, NOS"
+Mood disorders ,294888017.0,E117z,E117z00,13746004.0,2839307017.0,F313,"Unspecified bipolar affective disorder, NOS"
+Mood disorders ,294888017.0,E117z,E117z00,13746004.0,2839307017.0,F300,"Unspecified bipolar affective disorder, NOS"
+Mood disorders ,294891017.0,E11y,E11y.00,13746004.0,1221011015.0,F318,Other and unspecified manic-depressive psychoses
+Mood disorders ,294891017.0,E11y,E11y.00,13746004.0,1221011015.0,F319,Other and unspecified manic-depressive psychoses
+Mood disorders ,294891017.0,E11y,E11y.00,13746004.0,1221011015.0,F309,Other and unspecified manic-depressive psychoses
+Mood disorders ,294891017.0,E11y,E11y.00,13746004.0,1221011015.0,F063,Other and unspecified manic-depressive psychoses
+Mood disorders ,294891017.0,E11y,E11y.00,13746004.0,1221011015.0,F308,Other and unspecified manic-depressive psychoses
+Mood disorders ,294891017.0,E11y,E11y.00,13746004.0,1221011015.0,F316,Other and unspecified manic-depressive psychoses
+Mood disorders ,294891017.0,E11y,E11y.00,13746004.0,1221011015.0,F314,Other and unspecified manic-depressive psychoses
+Mood disorders ,294891017.0,E11y,E11y.00,13746004.0,1221011015.0,F317,Other and unspecified manic-depressive psychoses
+Mood disorders ,294891017.0,E11y,E11y.00,13746004.0,1221011015.0,F311,Other and unspecified manic-depressive psychoses
+Mood disorders ,294891017.0,E11y,E11y.00,13746004.0,1221011015.0,F302,Other and unspecified manic-depressive psychoses
+Mood disorders ,294891017.0,E11y,E11y.00,13746004.0,1221011015.0,F312,Other and unspecified manic-depressive psychoses
+Mood disorders ,294891017.0,E11y,E11y.00,13746004.0,1221011015.0,F310,Other and unspecified manic-depressive psychoses
+Mood disorders ,294891017.0,E11y,E11y.00,13746004.0,1221011015.0,F315,Other and unspecified manic-depressive psychoses
+Mood disorders ,294891017.0,E11y,E11y.00,13746004.0,1221011015.0,F301,Other and unspecified manic-depressive psychoses
+Mood disorders ,294891017.0,E11y,E11y.00,13746004.0,1221011015.0,F313,Other and unspecified manic-depressive psychoses
+Mood disorders ,294891017.0,E11y,E11y.00,13746004.0,1221011015.0,F300,Other and unspecified manic-depressive psychoses
+Mood disorders ,294892012.0,E11y0,E11y000,13746004.0,1221011015.0,F318,Unspecified manic-depressive psychoses
+Mood disorders ,294892012.0,E11y0,E11y000,13746004.0,1221011015.0,F319,Unspecified manic-depressive psychoses
+Mood disorders ,294892012.0,E11y0,E11y000,13746004.0,1221011015.0,F309,Unspecified manic-depressive psychoses
+Mood disorders ,294892012.0,E11y0,E11y000,13746004.0,1221011015.0,F063,Unspecified manic-depressive psychoses
+Mood disorders ,294892012.0,E11y0,E11y000,13746004.0,1221011015.0,F308,Unspecified manic-depressive psychoses
+Mood disorders ,294892012.0,E11y0,E11y000,13746004.0,1221011015.0,F316,Unspecified manic-depressive psychoses
+Mood disorders ,294892012.0,E11y0,E11y000,13746004.0,1221011015.0,F314,Unspecified manic-depressive psychoses
+Mood disorders ,294892012.0,E11y0,E11y000,13746004.0,1221011015.0,F317,Unspecified manic-depressive psychoses
+Mood disorders ,294892012.0,E11y0,E11y000,13746004.0,1221011015.0,F311,Unspecified manic-depressive psychoses
+Mood disorders ,294892012.0,E11y0,E11y000,13746004.0,1221011015.0,F302,Unspecified manic-depressive psychoses
+Mood disorders ,294892012.0,E11y0,E11y000,13746004.0,1221011015.0,F312,Unspecified manic-depressive psychoses
+Mood disorders ,294892012.0,E11y0,E11y000,13746004.0,1221011015.0,F310,Unspecified manic-depressive psychoses
+Mood disorders ,294892012.0,E11y0,E11y000,13746004.0,1221011015.0,F315,Unspecified manic-depressive psychoses
+Mood disorders ,294892012.0,E11y0,E11y000,13746004.0,1221011015.0,F301,Unspecified manic-depressive psychoses
+Mood disorders ,294892012.0,E11y0,E11y000,13746004.0,1221011015.0,F313,Unspecified manic-depressive psychoses
+Mood disorders ,294892012.0,E11y0,E11y000,13746004.0,1221011015.0,F300,Unspecified manic-depressive psychoses
+Mood disorders ,294893019.0,E11y1,E11y100,191658009.0,294893019.0,F308,Atypical manic disorder
+Mood disorders ,294895014.0,E11y3,E11y300,16506000.0,27929014.0,F316,Other mixed manic-depressive psychoses
+Mood disorders ,294896010.0,E11yz,E11yz00,13746004.0,1221011015.0,F318,Other and unspecified manic-depressive psychoses NOS
+Mood disorders ,294896010.0,E11yz,E11yz00,13746004.0,1221011015.0,F319,Other and unspecified manic-depressive psychoses NOS
+Mood disorders ,294896010.0,E11yz,E11yz00,13746004.0,1221011015.0,F309,Other and unspecified manic-depressive psychoses NOS
+Mood disorders ,294896010.0,E11yz,E11yz00,13746004.0,1221011015.0,F063,Other and unspecified manic-depressive psychoses NOS
+Mood disorders ,294896010.0,E11yz,E11yz00,13746004.0,1221011015.0,F308,Other and unspecified manic-depressive psychoses NOS
+Mood disorders ,294896010.0,E11yz,E11yz00,13746004.0,1221011015.0,F316,Other and unspecified manic-depressive psychoses NOS
+Mood disorders ,294896010.0,E11yz,E11yz00,13746004.0,1221011015.0,F314,Other and unspecified manic-depressive psychoses NOS
+Mood disorders ,294896010.0,E11yz,E11yz00,13746004.0,1221011015.0,F317,Other and unspecified manic-depressive psychoses NOS
+Mood disorders ,294896010.0,E11yz,E11yz00,13746004.0,1221011015.0,F311,Other and unspecified manic-depressive psychoses NOS
+Mood disorders ,294896010.0,E11yz,E11yz00,13746004.0,1221011015.0,F302,Other and unspecified manic-depressive psychoses NOS
+Mood disorders ,294896010.0,E11yz,E11yz00,13746004.0,1221011015.0,F312,Other and unspecified manic-depressive psychoses NOS
+Mood disorders ,294896010.0,E11yz,E11yz00,13746004.0,1221011015.0,F310,Other and unspecified manic-depressive psychoses NOS
+Mood disorders ,294896010.0,E11yz,E11yz00,13746004.0,1221011015.0,F315,Other and unspecified manic-depressive psychoses NOS
+Mood disorders ,294896010.0,E11yz,E11yz00,13746004.0,1221011015.0,F301,Other and unspecified manic-depressive psychoses NOS
+Mood disorders ,294896010.0,E11yz,E11yz00,13746004.0,1221011015.0,F313,Other and unspecified manic-depressive psychoses NOS
+Mood disorders ,294896010.0,E11yz,E11yz00,13746004.0,1221011015.0,F300,Other and unspecified manic-depressive psychoses NOS
+Mood disorders ,396741000006113.0,Eu30,Eu30.00,268619003.0,401765010.0,F309,[X]Manic episode
+Mood disorders ,367151000006111.0,Eu30-1,Eu30.11,268619003.0,401765010.0,F309,"[X]Bipolar disorder, single manic episode"
+Mood disorders ,389401000006111.0,Eu300,Eu30000,231496004.0,346969013.0,F300,[X]Hypomania
+Mood disorders ,296110017.0,Eu301,Eu30100,231494001.0,346965019.0,F302,[X]Mania without psychotic symptoms
+Mood disorders ,296110017.0,Eu301,Eu30100,231494001.0,346965019.0,F448,[X]Mania without psychotic symptoms
+Mood disorders ,296110017.0,Eu301,Eu30100,231494001.0,346965019.0,F309,[X]Mania without psychotic symptoms
+Mood disorders ,296110017.0,Eu301,Eu30100,231494001.0,346965019.0,F308,[X]Mania without psychotic symptoms
+Mood disorders ,296110017.0,Eu301,Eu30100,231494001.0,346965019.0,F300,[X]Mania without psychotic symptoms
+Mood disorders ,296110017.0,Eu301,Eu30100,231494001.0,346965019.0,F105,[X]Mania without psychotic symptoms
+Mood disorders ,296110017.0,Eu301,Eu30100,231494001.0,346965019.0,F301,[X]Mania without psychotic symptoms
+Mood disorders ,296110017.0,Eu301,Eu30100,231494001.0,346965019.0,F318,[X]Mania without psychotic symptoms
+Mood disorders ,401863011.0,Eu302,Eu30200,231494001.0,346965019.0,F302,[X]Mania with psychotic symptoms
+Mood disorders ,401863011.0,Eu302,Eu30200,231494001.0,346965019.0,F448,[X]Mania with psychotic symptoms
+Mood disorders ,401863011.0,Eu302,Eu30200,231494001.0,346965019.0,F309,[X]Mania with psychotic symptoms
+Mood disorders ,401863011.0,Eu302,Eu30200,231494001.0,346965019.0,F308,[X]Mania with psychotic symptoms
+Mood disorders ,401863011.0,Eu302,Eu30200,231494001.0,346965019.0,F300,[X]Mania with psychotic symptoms
+Mood disorders ,401863011.0,Eu302,Eu30200,231494001.0,346965019.0,F105,[X]Mania with psychotic symptoms
+Mood disorders ,401863011.0,Eu302,Eu30200,231494001.0,346965019.0,F301,[X]Mania with psychotic symptoms
+Mood disorders ,401863011.0,Eu302,Eu30200,231494001.0,346965019.0,F318,[X]Mania with psychotic symptoms
+Mood disorders ,396701000006111.0,Eu302-1,Eu30211,231494001.0,346965019.0,F302,[X]Mania with mood-congruent psychotic symptoms
+Mood disorders ,396701000006111.0,Eu302-1,Eu30211,231494001.0,346965019.0,F448,[X]Mania with mood-congruent psychotic symptoms
+Mood disorders ,396701000006111.0,Eu302-1,Eu30211,231494001.0,346965019.0,F309,[X]Mania with mood-congruent psychotic symptoms
+Mood disorders ,396701000006111.0,Eu302-1,Eu30211,231494001.0,346965019.0,F308,[X]Mania with mood-congruent psychotic symptoms
+Mood disorders ,396701000006111.0,Eu302-1,Eu30211,231494001.0,346965019.0,F300,[X]Mania with mood-congruent psychotic symptoms
+Mood disorders ,396701000006111.0,Eu302-1,Eu30211,231494001.0,346965019.0,F105,[X]Mania with mood-congruent psychotic symptoms
+Mood disorders ,396701000006111.0,Eu302-1,Eu30211,231494001.0,346965019.0,F301,[X]Mania with mood-congruent psychotic symptoms
+Mood disorders ,396701000006111.0,Eu302-1,Eu30211,231494001.0,346965019.0,F318,[X]Mania with mood-congruent psychotic symptoms
+Mood disorders ,396711000006114.0,Eu302-2,Eu30212,231494001.0,346965019.0,F302,[X]Mania with mood-incongruent psychotic symptoms
+Mood disorders ,396711000006114.0,Eu302-2,Eu30212,231494001.0,346965019.0,F448,[X]Mania with mood-incongruent psychotic symptoms
+Mood disorders ,396711000006114.0,Eu302-2,Eu30212,231494001.0,346965019.0,F309,[X]Mania with mood-incongruent psychotic symptoms
+Mood disorders ,396711000006114.0,Eu302-2,Eu30212,231494001.0,346965019.0,F308,[X]Mania with mood-incongruent psychotic symptoms
+Mood disorders ,396711000006114.0,Eu302-2,Eu30212,231494001.0,346965019.0,F300,[X]Mania with mood-incongruent psychotic symptoms
+Mood disorders ,396711000006114.0,Eu302-2,Eu30212,231494001.0,346965019.0,F105,[X]Mania with mood-incongruent psychotic symptoms
+Mood disorders ,396711000006114.0,Eu302-2,Eu30212,231494001.0,346965019.0,F301,[X]Mania with mood-incongruent psychotic symptoms
+Mood disorders ,396711000006114.0,Eu302-2,Eu30212,231494001.0,346965019.0,F318,[X]Mania with mood-incongruent psychotic symptoms
+Mood disorders ,296118012.0,Eu30y,Eu30y00,231494001.0,346965019.0,F302,[X]Other manic episodes
+Mood disorders ,296118012.0,Eu30y,Eu30y00,231494001.0,346965019.0,F448,[X]Other manic episodes
+Mood disorders ,296118012.0,Eu30y,Eu30y00,231494001.0,346965019.0,F309,[X]Other manic episodes
+Mood disorders ,296118012.0,Eu30y,Eu30y00,231494001.0,346965019.0,F308,[X]Other manic episodes
+Mood disorders ,296118012.0,Eu30y,Eu30y00,231494001.0,346965019.0,F300,[X]Other manic episodes
+Mood disorders ,296118012.0,Eu30y,Eu30y00,231494001.0,346965019.0,F105,[X]Other manic episodes
+Mood disorders ,296118012.0,Eu30y,Eu30y00,231494001.0,346965019.0,F301,[X]Other manic episodes
+Mood disorders ,296118012.0,Eu30y,Eu30y00,231494001.0,346965019.0,F318,[X]Other manic episodes
+Mood disorders ,401864017.0,Eu30z,Eu30z00,268619003.0,401765010.0,F309,"[X]Manic episode, unspecified"
+Mood disorders ,396691000006111.0,Eu30z-1,Eu30z11,268619003.0,401765010.0,F309,[X]Mania NOS
+Mood disorders ,367101000006112.0,Eu31,Eu31.00,13746004.0,2839307017.0,F318,[X]Bipolar affective disorder
+Mood disorders ,367101000006112.0,Eu31,Eu31.00,13746004.0,2839307017.0,F319,[X]Bipolar affective disorder
+Mood disorders ,367101000006112.0,Eu31,Eu31.00,13746004.0,2839307017.0,F309,[X]Bipolar affective disorder
+Mood disorders ,367101000006112.0,Eu31,Eu31.00,13746004.0,2839307017.0,F063,[X]Bipolar affective disorder
+Mood disorders ,367101000006112.0,Eu31,Eu31.00,13746004.0,2839307017.0,F308,[X]Bipolar affective disorder
+Mood disorders ,367101000006112.0,Eu31,Eu31.00,13746004.0,2839307017.0,F316,[X]Bipolar affective disorder
+Mood disorders ,367101000006112.0,Eu31,Eu31.00,13746004.0,2839307017.0,F314,[X]Bipolar affective disorder
+Mood disorders ,367101000006112.0,Eu31,Eu31.00,13746004.0,2839307017.0,F317,[X]Bipolar affective disorder
+Mood disorders ,367101000006112.0,Eu31,Eu31.00,13746004.0,2839307017.0,F311,[X]Bipolar affective disorder
+Mood disorders ,367101000006112.0,Eu31,Eu31.00,13746004.0,2839307017.0,F302,[X]Bipolar affective disorder
+Mood disorders ,367101000006112.0,Eu31,Eu31.00,13746004.0,2839307017.0,F312,[X]Bipolar affective disorder
+Mood disorders ,367101000006112.0,Eu31,Eu31.00,13746004.0,2839307017.0,F310,[X]Bipolar affective disorder
+Mood disorders ,367101000006112.0,Eu31,Eu31.00,13746004.0,2839307017.0,F315,[X]Bipolar affective disorder
+Mood disorders ,367101000006112.0,Eu31,Eu31.00,13746004.0,2839307017.0,F301,[X]Bipolar affective disorder
+Mood disorders ,367101000006112.0,Eu31,Eu31.00,13746004.0,2839307017.0,F313,[X]Bipolar affective disorder
+Mood disorders ,367101000006112.0,Eu31,Eu31.00,13746004.0,2839307017.0,F300,[X]Bipolar affective disorder
+Mood disorders ,396791000006116.0,Eu31-1,Eu31.11,13746004.0,1221012010.0,F318,[X]Manic-depressive illness
+Mood disorders ,396791000006116.0,Eu31-1,Eu31.11,13746004.0,1221012010.0,F319,[X]Manic-depressive illness
+Mood disorders ,396791000006116.0,Eu31-1,Eu31.11,13746004.0,1221012010.0,F309,[X]Manic-depressive illness
+Mood disorders ,396791000006116.0,Eu31-1,Eu31.11,13746004.0,1221012010.0,F063,[X]Manic-depressive illness
+Mood disorders ,396791000006116.0,Eu31-1,Eu31.11,13746004.0,1221012010.0,F308,[X]Manic-depressive illness
+Mood disorders ,396791000006116.0,Eu31-1,Eu31.11,13746004.0,1221012010.0,F316,[X]Manic-depressive illness
+Mood disorders ,396791000006116.0,Eu31-1,Eu31.11,13746004.0,1221012010.0,F314,[X]Manic-depressive illness
+Mood disorders ,396791000006116.0,Eu31-1,Eu31.11,13746004.0,1221012010.0,F317,[X]Manic-depressive illness
+Mood disorders ,396791000006116.0,Eu31-1,Eu31.11,13746004.0,1221012010.0,F311,[X]Manic-depressive illness
+Mood disorders ,396791000006116.0,Eu31-1,Eu31.11,13746004.0,1221012010.0,F302,[X]Manic-depressive illness
+Mood disorders ,396791000006116.0,Eu31-1,Eu31.11,13746004.0,1221012010.0,F312,[X]Manic-depressive illness
+Mood disorders ,396791000006116.0,Eu31-1,Eu31.11,13746004.0,1221012010.0,F310,[X]Manic-depressive illness
+Mood disorders ,396791000006116.0,Eu31-1,Eu31.11,13746004.0,1221012010.0,F315,[X]Manic-depressive illness
+Mood disorders ,396791000006116.0,Eu31-1,Eu31.11,13746004.0,1221012010.0,F301,[X]Manic-depressive illness
+Mood disorders ,396791000006116.0,Eu31-1,Eu31.11,13746004.0,1221012010.0,F313,[X]Manic-depressive illness
+Mood disorders ,396791000006116.0,Eu31-1,Eu31.11,13746004.0,1221012010.0,F300,[X]Manic-depressive illness
+Mood disorders ,396801000006115.0,Eu31-2,Eu31.12,13746004.0,1221011015.0,F318,[X]Manic-depressive psychosis
+Mood disorders ,396801000006115.0,Eu31-2,Eu31.12,13746004.0,1221011015.0,F319,[X]Manic-depressive psychosis
+Mood disorders ,396801000006115.0,Eu31-2,Eu31.12,13746004.0,1221011015.0,F309,[X]Manic-depressive psychosis
+Mood disorders ,396801000006115.0,Eu31-2,Eu31.12,13746004.0,1221011015.0,F063,[X]Manic-depressive psychosis
+Mood disorders ,396801000006115.0,Eu31-2,Eu31.12,13746004.0,1221011015.0,F308,[X]Manic-depressive psychosis
+Mood disorders ,396801000006115.0,Eu31-2,Eu31.12,13746004.0,1221011015.0,F316,[X]Manic-depressive psychosis
+Mood disorders ,396801000006115.0,Eu31-2,Eu31.12,13746004.0,1221011015.0,F314,[X]Manic-depressive psychosis
+Mood disorders ,396801000006115.0,Eu31-2,Eu31.12,13746004.0,1221011015.0,F317,[X]Manic-depressive psychosis
+Mood disorders ,396801000006115.0,Eu31-2,Eu31.12,13746004.0,1221011015.0,F311,[X]Manic-depressive psychosis
+Mood disorders ,396801000006115.0,Eu31-2,Eu31.12,13746004.0,1221011015.0,F302,[X]Manic-depressive psychosis
+Mood disorders ,396801000006115.0,Eu31-2,Eu31.12,13746004.0,1221011015.0,F312,[X]Manic-depressive psychosis
+Mood disorders ,396801000006115.0,Eu31-2,Eu31.12,13746004.0,1221011015.0,F310,[X]Manic-depressive psychosis
+Mood disorders ,396801000006115.0,Eu31-2,Eu31.12,13746004.0,1221011015.0,F315,[X]Manic-depressive psychosis
+Mood disorders ,396801000006115.0,Eu31-2,Eu31.12,13746004.0,1221011015.0,F301,[X]Manic-depressive psychosis
+Mood disorders ,396801000006115.0,Eu31-2,Eu31.12,13746004.0,1221011015.0,F313,[X]Manic-depressive psychosis
+Mood disorders ,396801000006115.0,Eu31-2,Eu31.12,13746004.0,1221011015.0,F300,[X]Manic-depressive psychosis
+Mood disorders ,396071000006119.0,Eu31-3,Eu31.13,13746004.0,23447014.0,F318,[X]Manic-depressive reaction
+Mood disorders ,396071000006119.0,Eu31-3,Eu31.13,13746004.0,23447014.0,F319,[X]Manic-depressive reaction
+Mood disorders ,396071000006119.0,Eu31-3,Eu31.13,13746004.0,23447014.0,F309,[X]Manic-depressive reaction
+Mood disorders ,396071000006119.0,Eu31-3,Eu31.13,13746004.0,23447014.0,F063,[X]Manic-depressive reaction
+Mood disorders ,396071000006119.0,Eu31-3,Eu31.13,13746004.0,23447014.0,F308,[X]Manic-depressive reaction
+Mood disorders ,396071000006119.0,Eu31-3,Eu31.13,13746004.0,23447014.0,F316,[X]Manic-depressive reaction
+Mood disorders ,396071000006119.0,Eu31-3,Eu31.13,13746004.0,23447014.0,F314,[X]Manic-depressive reaction
+Mood disorders ,396071000006119.0,Eu31-3,Eu31.13,13746004.0,23447014.0,F317,[X]Manic-depressive reaction
+Mood disorders ,396071000006119.0,Eu31-3,Eu31.13,13746004.0,23447014.0,F311,[X]Manic-depressive reaction
+Mood disorders ,396071000006119.0,Eu31-3,Eu31.13,13746004.0,23447014.0,F302,[X]Manic-depressive reaction
+Mood disorders ,396071000006119.0,Eu31-3,Eu31.13,13746004.0,23447014.0,F312,[X]Manic-depressive reaction
+Mood disorders ,396071000006119.0,Eu31-3,Eu31.13,13746004.0,23447014.0,F310,[X]Manic-depressive reaction
+Mood disorders ,396071000006119.0,Eu31-3,Eu31.13,13746004.0,23447014.0,F315,[X]Manic-depressive reaction
+Mood disorders ,396071000006119.0,Eu31-3,Eu31.13,13746004.0,23447014.0,F301,[X]Manic-depressive reaction
+Mood disorders ,396071000006119.0,Eu31-3,Eu31.13,13746004.0,23447014.0,F313,[X]Manic-depressive reaction
+Mood disorders ,396071000006119.0,Eu31-3,Eu31.13,13746004.0,23447014.0,F300,[X]Manic-depressive reaction
+Mood disorders ,367111000006110.0,Eu310,Eu31000,31446002.0,484876019.0,F310,"[X]Bipolar affective disorder, current episode hypomanic"
+Mood disorders ,367081000006116.0,Eu311,Eu31100,191618007.0,294846014.0,F312,[X]Bipolar affect disorder cur epi manic wout psychotic symp
+Mood disorders ,367081000006116.0,Eu311,Eu31100,191618007.0,294846014.0,F311,[X]Bipolar affect disorder cur epi manic wout psychotic symp
+Mood disorders ,367071000006119.0,Eu312,Eu31200,191623007.0,294852010.0,F312,[X]Bipolar affect disorder cur epi manic with psychotic symp
+Mood disorders ,367091000006118.0,Eu313,Eu31300,191630001.0,294863013.0,F313,[X]Bipolar affect disorder cur epi mild or moderate depressn
+Mood disorders ,367051000006112.0,Eu314,Eu31400,61403008.0,102016011.0,F314,"[X]Bipol aff disord, curr epis sev depress, no psychot symp"
+Mood disorders ,367061000006114.0,Eu315,Eu31500,765176007.0,3657334019.0,F315,[X]Bipolar affect dis cur epi severe depres with psyc symp
+Mood disorders ,367121000006119.0,Eu316,Eu31600,192362008.0,296129011.0,F316,"[X]Bipolar affective disorder, current episode mixed"
+Mood disorders ,296130018.0,Eu317,Eu31700,85248005.0,141328010.0,F317,"[X]Bipolar affective disorder, currently in remission"
+Mood disorders ,1785851000006110.0,Eu318,Eu31800,371596008.0,1210225015.0,F314,[X]Bipolar affective disorder type I
+Mood disorders ,1785851000006110.0,Eu318,Eu31800,371596008.0,1210225015.0,F318,[X]Bipolar affective disorder type I
+Mood disorders ,1785851000006110.0,Eu318,Eu31800,371596008.0,1210225015.0,F316,[X]Bipolar affective disorder type I
+Mood disorders ,1785851000006110.0,Eu318,Eu31800,371596008.0,1210225015.0,F313,[X]Bipolar affective disorder type I
+Mood disorders ,1785851000006110.0,Eu318,Eu31800,371596008.0,1210225015.0,F311,[X]Bipolar affective disorder type I
+Mood disorders ,1785851000006110.0,Eu318,Eu31800,371596008.0,1210225015.0,F317,[X]Bipolar affective disorder type I
+Mood disorders ,1785851000006110.0,Eu318,Eu31800,371596008.0,1210225015.0,F315,[X]Bipolar affective disorder type I
+Mood disorders ,1785851000006110.0,Eu318,Eu31800,371596008.0,1210225015.0,F310,[X]Bipolar affective disorder type I
+Mood disorders ,1785851000006110.0,Eu318,Eu31800,371596008.0,1210225015.0,F312,[X]Bipolar affective disorder type I
+Mood disorders ,1785851000006110.0,Eu318,Eu31800,371596008.0,1210225015.0,F319,[X]Bipolar affective disorder type I
+Mood disorders ,1785861000006112.0,Eu319,Eu31900,83225003.0,138029017.0,F318,[X]Bipolar affective disorder type II
+Mood disorders ,1785871000006117.0,Eu319-1,Eu31911,83225003.0,138029017.0,F318,[X]Bipolar II disorder
+Mood disorders ,401865016.0,Eu31y,Eu31y00,13746004.0,23447014.0,F318,[X]Other bipolar affective disorders
+Mood disorders ,401865016.0,Eu31y,Eu31y00,13746004.0,23447014.0,F319,[X]Other bipolar affective disorders
+Mood disorders ,401865016.0,Eu31y,Eu31y00,13746004.0,23447014.0,F309,[X]Other bipolar affective disorders
+Mood disorders ,401865016.0,Eu31y,Eu31y00,13746004.0,23447014.0,F063,[X]Other bipolar affective disorders
+Mood disorders ,401865016.0,Eu31y,Eu31y00,13746004.0,23447014.0,F308,[X]Other bipolar affective disorders
+Mood disorders ,401865016.0,Eu31y,Eu31y00,13746004.0,23447014.0,F316,[X]Other bipolar affective disorders
+Mood disorders ,401865016.0,Eu31y,Eu31y00,13746004.0,23447014.0,F314,[X]Other bipolar affective disorders
+Mood disorders ,401865016.0,Eu31y,Eu31y00,13746004.0,23447014.0,F317,[X]Other bipolar affective disorders
+Mood disorders ,401865016.0,Eu31y,Eu31y00,13746004.0,23447014.0,F311,[X]Other bipolar affective disorders
+Mood disorders ,401865016.0,Eu31y,Eu31y00,13746004.0,23447014.0,F302,[X]Other bipolar affective disorders
+Mood disorders ,401865016.0,Eu31y,Eu31y00,13746004.0,23447014.0,F312,[X]Other bipolar affective disorders
+Mood disorders ,401865016.0,Eu31y,Eu31y00,13746004.0,23447014.0,F310,[X]Other bipolar affective disorders
+Mood disorders ,401865016.0,Eu31y,Eu31y00,13746004.0,23447014.0,F315,[X]Other bipolar affective disorders
+Mood disorders ,401865016.0,Eu31y,Eu31y00,13746004.0,23447014.0,F301,[X]Other bipolar affective disorders
+Mood disorders ,401865016.0,Eu31y,Eu31y00,13746004.0,23447014.0,F313,[X]Other bipolar affective disorders
+Mood disorders ,401865016.0,Eu31y,Eu31y00,13746004.0,23447014.0,F300,[X]Other bipolar affective disorders
+Mood disorders ,367161000006113.0,Eu31y-1,Eu31y11,83225003.0,138029017.0,F318,[X]Bipolar II disorder
+Mood disorders ,424661000006111.0,Eu31y-2,Eu31y12,191590005.0,294810017.0,F318,[X]Recurrent manic episodes
+Mood disorders ,296135011.0,Eu31z,Eu31z00,13746004.0,2839307017.0,F318,"[X]Bipolar affective disorder, unspecified"
+Mood disorders ,296135011.0,Eu31z,Eu31z00,13746004.0,2839307017.0,F319,"[X]Bipolar affective disorder, unspecified"
+Mood disorders ,296135011.0,Eu31z,Eu31z00,13746004.0,2839307017.0,F309,"[X]Bipolar affective disorder, unspecified"
+Mood disorders ,296135011.0,Eu31z,Eu31z00,13746004.0,2839307017.0,F063,"[X]Bipolar affective disorder, unspecified"
+Mood disorders ,296135011.0,Eu31z,Eu31z00,13746004.0,2839307017.0,F308,"[X]Bipolar affective disorder, unspecified"
+Mood disorders ,296135011.0,Eu31z,Eu31z00,13746004.0,2839307017.0,F316,"[X]Bipolar affective disorder, unspecified"
+Mood disorders ,296135011.0,Eu31z,Eu31z00,13746004.0,2839307017.0,F314,"[X]Bipolar affective disorder, unspecified"
+Mood disorders ,296135011.0,Eu31z,Eu31z00,13746004.0,2839307017.0,F317,"[X]Bipolar affective disorder, unspecified"
+Mood disorders ,296135011.0,Eu31z,Eu31z00,13746004.0,2839307017.0,F311,"[X]Bipolar affective disorder, unspecified"
+Mood disorders ,296135011.0,Eu31z,Eu31z00,13746004.0,2839307017.0,F302,"[X]Bipolar affective disorder, unspecified"
+Mood disorders ,296135011.0,Eu31z,Eu31z00,13746004.0,2839307017.0,F312,"[X]Bipolar affective disorder, unspecified"
+Mood disorders ,296135011.0,Eu31z,Eu31z00,13746004.0,2839307017.0,F310,"[X]Bipolar affective disorder, unspecified"
+Mood disorders ,296135011.0,Eu31z,Eu31z00,13746004.0,2839307017.0,F315,"[X]Bipolar affective disorder, unspecified"
+Mood disorders ,296135011.0,Eu31z,Eu31z00,13746004.0,2839307017.0,F301,"[X]Bipolar affective disorder, unspecified"
+Mood disorders ,296135011.0,Eu31z,Eu31z00,13746004.0,2839307017.0,F313,"[X]Bipolar affective disorder, unspecified"
+Mood disorders ,296135011.0,Eu31z,Eu31z00,13746004.0,2839307017.0,F300,"[X]Bipolar affective disorder, unspecified"
+Mood disorders ,396771000006117.0,Eu332-3,Eu33213,36474008.0,60885016.0,F332,"[X]Manic-depress psychosis,depressd,no psychotic symptoms"
+Mood disorders ,396781000006119.0,Eu333-2,Eu33312,765176007.0,3657334019.0,F315,"[X]Manic-depress psychosis,depressed type+psychotic symptoms"
+Mood disorders ,1.1914901000006114e+16,^ESCT1191490,,78667006.0,376751000006117.0,F341,[X]Depressive personality disorder
+Mood disorders ,1.1918531000006118e+16,^ESCT1191853,,430421000000104.0,904321000000110.0,F320,[X]Mild depressive episode
+Mood disorders ,1.191856100000611e+16,^ESCT1191856,,465441000000108.0,904331000000112.0,F321,[X]Moderate depressive episode
+Mood disorders ,1.1921141000006116e+16,^ESCT1192114,,191613003.0,424681000006118.0,F333,[X]Recurrent severe episodes/reactive depressive psychosis
+Mood disorders ,1.192130100000612e+16,^ESCT1192130,,397701000000102.0,882711000000116.0,F322,[X]Severe depressive episode without psychotic symptoms
+Mood disorders ,1.245145100000611e+16,^ESCT1245145,,19527009.0,142491000006113.0,F329,"Single major depressive episode, in full remission"
+Mood disorders ,1.2451461000006112e+16,^ESCT1245146,,15639000.0,142511000006119.0,F321,"Single major depressive episode, moderate"
+Mood disorders ,294642013.0,E0013,E001300,191455000.0,294642013.0,F03X,Presenile dementia with depression
+Mood disorders ,294646011.0,E0021,E002100,191459006.0,294646011.0,F03X,Senile dementia with depression
+Mood disorders ,294655014.0,E0043,E004300,191466007.0,294655014.0,F333 ,Arteriosclerotic dementia with depression
+Mood disorders ,294655014.0,E0043,E004300,191466007.0,294655014.0,F012,Arteriosclerotic dementia with depression
+Mood disorders ,294655014.0,E0043,E004300,191466007.0,294655014.0,F322,Arteriosclerotic dementia with depression
+Mood disorders ,294655014.0,E0043,E004300,191466007.0,294655014.0,F330,Arteriosclerotic dementia with depression
+Mood disorders ,294655014.0,E0043,E004300,191466007.0,294655014.0,F339 ,Arteriosclerotic dementia with depression
+Mood disorders ,294655014.0,E0043,E004300,191466007.0,294655014.0,F010 ,Arteriosclerotic dementia with depression
+Mood disorders ,294655014.0,E0043,E004300,191466007.0,294655014.0,F321 ,Arteriosclerotic dementia with depression
+Mood disorders ,294655014.0,E0043,E004300,191466007.0,294655014.0,F013,Arteriosclerotic dementia with depression
+Mood disorders ,294655014.0,E0043,E004300,191466007.0,294655014.0,F010,Arteriosclerotic dementia with depression
+Mood disorders ,294655014.0,E0043,E004300,191466007.0,294655014.0,F019,Arteriosclerotic dementia with depression
+Mood disorders ,294655014.0,E0043,E004300,191466007.0,294655014.0,F011,Arteriosclerotic dementia with depression
+Mood disorders ,294655014.0,E0043,E004300,191466007.0,294655014.0,F332,Arteriosclerotic dementia with depression
+Mood disorders ,294655014.0,E0043,E004300,191466007.0,294655014.0,F321,Arteriosclerotic dementia with depression
+Mood disorders ,294655014.0,E0043,E004300,191466007.0,294655014.0,F334,Arteriosclerotic dementia with depression
+Mood disorders ,294655014.0,E0043,E004300,191466007.0,294655014.0,F329 ,Arteriosclerotic dementia with depression
+Mood disorders ,294655014.0,E0043,E004300,191466007.0,294655014.0,F322 ,Arteriosclerotic dementia with depression
+Mood disorders ,294655014.0,E0043,E004300,191466007.0,294655014.0,F331,Arteriosclerotic dementia with depression
+Mood disorders ,294655014.0,E0043,E004300,191466007.0,294655014.0,F332 ,Arteriosclerotic dementia with depression
+Mood disorders ,294655014.0,E0043,E004300,191466007.0,294655014.0,F018 ,Arteriosclerotic dementia with depression
+Mood disorders ,294655014.0,E0043,E004300,191466007.0,294655014.0,F320,Arteriosclerotic dementia with depression
+Mood disorders ,294655014.0,E0043,E004300,191466007.0,294655014.0,F338,Arteriosclerotic dementia with depression
+Mood disorders ,294655014.0,E0043,E004300,191466007.0,294655014.0,F329,Arteriosclerotic dementia with depression
+Mood disorders ,294655014.0,E0043,E004300,191466007.0,294655014.0,F011 ,Arteriosclerotic dementia with depression
+Mood disorders ,294655014.0,E0043,E004300,191466007.0,294655014.0,F320 ,Arteriosclerotic dementia with depression
+Mood disorders ,294655014.0,E0043,E004300,191466007.0,294655014.0,F018,Arteriosclerotic dementia with depression
+Mood disorders ,294655014.0,E0043,E004300,191466007.0,294655014.0,F323,Arteriosclerotic dementia with depression
+Mood disorders ,294655014.0,E0043,E004300,191466007.0,294655014.0,F019 ,Arteriosclerotic dementia with depression
+Mood disorders ,294655014.0,E0043,E004300,191466007.0,294655014.0,F339,Arteriosclerotic dementia with depression
+Mood disorders ,294655014.0,E0043,E004300,191466007.0,294655014.0,F328,Arteriosclerotic dementia with depression
+Mood disorders ,294655014.0,E0043,E004300,191466007.0,294655014.0,F328 ,Arteriosclerotic dementia with depression
+Mood disorders ,294655014.0,E0043,E004300,191466007.0,294655014.0,F323 ,Arteriosclerotic dementia with depression
+Mood disorders ,294655014.0,E0043,E004300,191466007.0,294655014.0,F330 ,Arteriosclerotic dementia with depression
+Mood disorders ,294655014.0,E0043,E004300,191466007.0,294655014.0,F013 ,Arteriosclerotic dementia with depression
+Mood disorders ,294655014.0,E0043,E004300,191466007.0,294655014.0,F333,Arteriosclerotic dementia with depression
+Mood disorders ,294655014.0,E0043,E004300,191466007.0,294655014.0,F331 ,Arteriosclerotic dementia with depression
+Mood disorders ,294655014.0,E0043,E004300,191466007.0,294655014.0,F338 ,Arteriosclerotic dementia with depression
+Mood disorders ,294655014.0,E0043,E004300,191466007.0,294655014.0,F334 ,Arteriosclerotic dementia with depression
+Mood disorders ,294655014.0,E0043,E004300,191466007.0,294655014.0,F012 ,Arteriosclerotic dementia with depression
+Mood disorders ,613791000006115.0,E11-2,E11..12,35489007.0,59212011.0,F323,Depressive psychoses
+Mood disorders ,613791000006115.0,E11-2,E11..12,35489007.0,59212011.0,F412,Depressive psychoses
+Mood disorders ,613791000006115.0,E11-2,E11..12,35489007.0,59212011.0,F331,Depressive psychoses
+Mood disorders ,613791000006115.0,E11-2,E11..12,35489007.0,59212011.0,F530,Depressive psychoses
+Mood disorders ,613791000006115.0,E11-2,E11..12,35489007.0,59212011.0,F332,Depressive psychoses
+Mood disorders ,613791000006115.0,E11-2,E11..12,35489007.0,59212011.0,F063,Depressive psychoses
+Mood disorders ,613791000006115.0,E11-2,E11..12,35489007.0,59212011.0,F338,Depressive psychoses
+Mood disorders ,613791000006115.0,E11-2,E11..12,35489007.0,59212011.0,F329,Depressive psychoses
+Mood disorders ,613791000006115.0,E11-2,E11..12,35489007.0,59212011.0,F320,Depressive psychoses
+Mood disorders ,613791000006115.0,E11-2,E11..12,35489007.0,59212011.0,F204,Depressive psychoses
+Mood disorders ,613791000006115.0,E11-2,E11..12,35489007.0,59212011.0,F03X,Depressive psychoses
+Mood disorders ,613791000006115.0,E11-2,E11..12,35489007.0,59212011.0,F321,Depressive psychoses
+Mood disorders ,613791000006115.0,E11-2,E11..12,35489007.0,59212011.0,F328,Depressive psychoses
+Mood disorders ,613791000006115.0,E11-2,E11..12,35489007.0,59212011.0,F330,Depressive psychoses
+Mood disorders ,613791000006115.0,E11-2,E11..12,35489007.0,59212011.0,F333,Depressive psychoses
+Mood disorders ,613791000006115.0,E11-2,E11..12,35489007.0,59212011.0,F322,Depressive psychoses
+Mood disorders ,613791000006115.0,E11-2,E11..12,35489007.0,59212011.0,F339,Depressive psychoses
+Mood disorders ,613791000006115.0,E11-2,E11..12,35489007.0,59212011.0,F448,Depressive psychoses
+Mood disorders ,613791000006115.0,E11-2,E11..12,35489007.0,59212011.0,F334,Depressive psychoses
+Mood disorders ,613791000006115.0,E11-2,E11..12,35489007.0,59212011.0,F341,Depressive psychoses
+Mood disorders ,401766011.0,E112,E112.00,36923009.0,61590015.0,F329,Single major depressive episode
+Mood disorders ,474171000006112.0,E112-1,E112.11,83458005.0,138421012.0,F322,Agitated depression
+Mood disorders ,642461000006116.0,E112-2,E112.12,231499006.0,346972018.0,F332,Endogenous depression first episode
+Mood disorders ,642461000006116.0,E112-2,E112.12,231499006.0,346972018.0,F333,Endogenous depression first episode
+Mood disorders ,346972018.0,E112-3,E112.13,231499006.0,346972018.0,F332,Endogenous depression first episode
+Mood disorders ,346972018.0,E112-3,E112.13,231499006.0,346972018.0,F333,Endogenous depression first episode
+Mood disorders ,441826016.0,E112-4,E112.14,300706003.0,441826016.0,F332,Endogenous depression
+Mood disorders ,441826016.0,E112-4,E112.14,300706003.0,441826016.0,F333,Endogenous depression
+Mood disorders ,294824018.0,E1120,E112000,36923009.0,61590015.0,F329,"Single major depressive episode, unspecified"
+Mood disorders ,294825017.0,E1121,E112100,79298009.0,131561018.0,F320,"Single major depressive episode, mild"
+Mood disorders ,294826016.0,E1122,E112200,15639000.0,26507014.0,F321,"Single major depressive episode, moderate"
+Mood disorders ,142541000006115.0,E1123,E112300,251000119105.0,2916281014.0,F322,"Single major depressive episode, severe, without psychosis"
+Mood disorders ,294828015.0,E1124,E112400,191604000.0,294828015.0,F323,"Single major depressive episode, severe, with psychosis"
+Mood disorders ,142521000006110.0,E1125,E112500,70747007.0,117520015.0,F322,"Single major depressive episode, partial or unspec remission"
+Mood disorders ,142521000006110.0,E1125,E112500,70747007.0,117520015.0,F334,"Single major depressive episode, partial or unspec remission"
+Mood disorders ,142521000006110.0,E1125,E112500,70747007.0,117520015.0,F323,"Single major depressive episode, partial or unspec remission"
+Mood disorders ,294831019.0,E1126,E112600,19527009.0,3304522019.0,F329,"Single major depressive episode, in full remission"
+Mood disorders ,294832014.0,E112z,E112z00,36923009.0,61590015.0,F329,Single major depressive episode NOS
+Mood disorders ,182721000006111.0,E113,E113.00,268621008.0,401767019.0,F332,Recurrent major depressive episode
+Mood disorders ,410861011.0,E113-1,E113.11,274948002.0,410861011.0,F333,Endogenous depression - recurrent
+Mood disorders ,410861011.0,E113-1,E113.11,274948002.0,410861011.0,F332,Endogenous depression - recurrent
+Mood disorders ,294836012.0,E1130,E113000,268621008.0,401767019.0,F332,"Recurrent major depressive episodes, unspecified"
+Mood disorders ,294837015.0,E1131,E113100,191610000.0,294837015.0,F330,"Recurrent major depressive episodes, mild"
+Mood disorders ,294838013.0,E1132,E113200,191611001.0,294838013.0,F331,"Recurrent major depressive episodes, moderate"
+Mood disorders ,182771000006112.0,E1133,E113300,764611000000100.0,1696221000000111.0,F332,"Recurrent major depressive episodes, severe, no psychosis"
+Mood disorders ,294840015.0,E1134,E113400,191613003.0,294840015.0,F333,"Recurrent major depressive episodes, severe, with psychosis"
+Mood disorders ,182801000006114.0,E1135,E113500,764691000000109.0,1696381000000115.0,F334,"Recurrent major depressive episodes,partial/unspec remission"
+Mood disorders ,294843018.0,E1136,E113600,46244001.0,3304524018.0,F334,"Recurrent major depressive episodes, in full remission"
+Mood disorders ,294844012.0,E1137,E113700,191616006.0,294844012.0,F330,Recurrent depression
+Mood disorders ,294844012.0,E1137,E113700,191616006.0,294844012.0,F333,Recurrent depression
+Mood disorders ,294844012.0,E1137,E113700,191616006.0,294844012.0,F331,Recurrent depression
+Mood disorders ,294844012.0,E1137,E113700,191616006.0,294844012.0,F338,Recurrent depression
+Mood disorders ,294844012.0,E1137,E113700,191616006.0,294844012.0,F339,Recurrent depression
+Mood disorders ,294844012.0,E1137,E113700,191616006.0,294844012.0,F332,Recurrent depression
+Mood disorders ,294844012.0,E1137,E113700,191616006.0,294844012.0,F334,Recurrent depression
+Mood disorders ,294845013.0,E113z,E113z00,268621008.0,401767019.0,F332,Recurrent major depressive episode NOS
+Mood disorders ,369982012.0,E118,E118.00,247803002.0,369982012.0,F388,Seasonal affective disorder
+Mood disorders ,294894013.0,E11y2,E11y200,191659001.0,294894013.0,F328,Atypical depressive disorder
+Mood disorders ,346973011.0,E11z2,E11z200,231500002.0,346973011.0,F328,Masked depression
+Mood disorders ,294917018.0,E130,E130.00,191676002.0,294917018.0,F333,Reactive depressive psychosis
+Mood disorders ,294917018.0,E130,E130.00,191676002.0,294917018.0,F323,Reactive depressive psychosis
+Mood disorders ,294918011.0,E130-1,E130.11,191676002.0,294918011.0,F333,Psychotic reactive depression
+Mood disorders ,294918011.0,E130-1,E130.11,191676002.0,294918011.0,F323,Psychotic reactive depression
+Mood disorders ,138421012.0,E135,E135.00,83458005.0,138421012.0,F322,Agitated depression
+Mood disorders ,488211000006112.0,E2003,E200300,231504006.0,346979010.0,F412,Anxiety with depression
+Mood disorders ,202561000006114.0,E291,E291.00,192049004.0,295495012.0,F432,Prolonged depressive reaction
+Mood disorders ,295535012.0,E2B,E2B..00,35489007.0,59212011.0,F323,Depressive disorder NEC
+Mood disorders ,295535012.0,E2B,E2B..00,35489007.0,59212011.0,F412,Depressive disorder NEC
+Mood disorders ,295535012.0,E2B,E2B..00,35489007.0,59212011.0,F331,Depressive disorder NEC
+Mood disorders ,295535012.0,E2B,E2B..00,35489007.0,59212011.0,F530,Depressive disorder NEC
+Mood disorders ,295535012.0,E2B,E2B..00,35489007.0,59212011.0,F332,Depressive disorder NEC
+Mood disorders ,295535012.0,E2B,E2B..00,35489007.0,59212011.0,F063,Depressive disorder NEC
+Mood disorders ,295535012.0,E2B,E2B..00,35489007.0,59212011.0,F338,Depressive disorder NEC
+Mood disorders ,295535012.0,E2B,E2B..00,35489007.0,59212011.0,F329,Depressive disorder NEC
+Mood disorders ,295535012.0,E2B,E2B..00,35489007.0,59212011.0,F320,Depressive disorder NEC
+Mood disorders ,295535012.0,E2B,E2B..00,35489007.0,59212011.0,F204,Depressive disorder NEC
+Mood disorders ,295535012.0,E2B,E2B..00,35489007.0,59212011.0,F03X,Depressive disorder NEC
+Mood disorders ,295535012.0,E2B,E2B..00,35489007.0,59212011.0,F321,Depressive disorder NEC
+Mood disorders ,295535012.0,E2B,E2B..00,35489007.0,59212011.0,F328,Depressive disorder NEC
+Mood disorders ,295535012.0,E2B,E2B..00,35489007.0,59212011.0,F330,Depressive disorder NEC
+Mood disorders ,295535012.0,E2B,E2B..00,35489007.0,59212011.0,F333,Depressive disorder NEC
+Mood disorders ,295535012.0,E2B,E2B..00,35489007.0,59212011.0,F322,Depressive disorder NEC
+Mood disorders ,295535012.0,E2B,E2B..00,35489007.0,59212011.0,F339,Depressive disorder NEC
+Mood disorders ,295535012.0,E2B,E2B..00,35489007.0,59212011.0,F448,Depressive disorder NEC
+Mood disorders ,295535012.0,E2B,E2B..00,35489007.0,59212011.0,F334,Depressive disorder NEC
+Mood disorders ,295535012.0,E2B,E2B..00,35489007.0,59212011.0,F341,Depressive disorder NEC
+Mood disorders ,295537016.0,E2B1,E2B1.00,192080009.0,295537016.0,F328,Chronic depression
+Mood disorders ,423041000006119.0,Eu204,Eu20400,231485007.0,346956014.0,F204,[X]Post-schizophrenic depression
+Mood disorders ,425501000006113.0,Eu251,Eu25100,84760002.0,140519016.0,F251,"[X]Schizoaffective disorder, depressive type"
+Mood disorders ,425561000006114.0,Eu251-1,Eu25111,84760002.0,140519016.0,F251,"[X]Schizoaffective psychosis, depressive type"
+Mood disorders ,425691000006119.0,Eu251-2,Eu25112,84760002.0,1234980016.0,F251,"[X]Schizophreniform psychosis, depressive type"
+Mood disorders ,376721000006114.0,Eu32,Eu32.00,35489007.0,486185019.0,F323,[X]Depressive episode
+Mood disorders ,376721000006114.0,Eu32,Eu32.00,35489007.0,486185019.0,F412,[X]Depressive episode
+Mood disorders ,376721000006114.0,Eu32,Eu32.00,35489007.0,486185019.0,F331,[X]Depressive episode
+Mood disorders ,376721000006114.0,Eu32,Eu32.00,35489007.0,486185019.0,F530,[X]Depressive episode
+Mood disorders ,376721000006114.0,Eu32,Eu32.00,35489007.0,486185019.0,F332,[X]Depressive episode
+Mood disorders ,376721000006114.0,Eu32,Eu32.00,35489007.0,486185019.0,F063,[X]Depressive episode
+Mood disorders ,376721000006114.0,Eu32,Eu32.00,35489007.0,486185019.0,F338,[X]Depressive episode
+Mood disorders ,376721000006114.0,Eu32,Eu32.00,35489007.0,486185019.0,F329,[X]Depressive episode
+Mood disorders ,376721000006114.0,Eu32,Eu32.00,35489007.0,486185019.0,F320,[X]Depressive episode
+Mood disorders ,376721000006114.0,Eu32,Eu32.00,35489007.0,486185019.0,F204,[X]Depressive episode
+Mood disorders ,376721000006114.0,Eu32,Eu32.00,35489007.0,486185019.0,F03X,[X]Depressive episode
+Mood disorders ,376721000006114.0,Eu32,Eu32.00,35489007.0,486185019.0,F321,[X]Depressive episode
+Mood disorders ,376721000006114.0,Eu32,Eu32.00,35489007.0,486185019.0,F328,[X]Depressive episode
+Mood disorders ,376721000006114.0,Eu32,Eu32.00,35489007.0,486185019.0,F330,[X]Depressive episode
+Mood disorders ,376721000006114.0,Eu32,Eu32.00,35489007.0,486185019.0,F333,[X]Depressive episode
+Mood disorders ,376721000006114.0,Eu32,Eu32.00,35489007.0,486185019.0,F322,[X]Depressive episode
+Mood disorders ,376721000006114.0,Eu32,Eu32.00,35489007.0,486185019.0,F339,[X]Depressive episode
+Mood disorders ,376721000006114.0,Eu32,Eu32.00,35489007.0,486185019.0,F448,[X]Depressive episode
+Mood disorders ,376721000006114.0,Eu32,Eu32.00,35489007.0,486185019.0,F334,[X]Depressive episode
+Mood disorders ,376721000006114.0,Eu32,Eu32.00,35489007.0,486185019.0,F341,[X]Depressive episode
+Mood disorders ,426911000006111.0,Eu32-1,Eu32.11,87414006.0,2951871015.0,F329,[X]Single episode of depressive reaction
+Mood disorders ,426911000006111.0,Eu32-1,Eu32.11,87414006.0,2951871015.0,F323,[X]Single episode of depressive reaction
+Mood disorders ,426941000006110.0,Eu32-2,Eu32.12,87414006.0,2951871015.0,F329,[X]Single episode of psychogenic depression
+Mood disorders ,426941000006110.0,Eu32-2,Eu32.12,87414006.0,2951871015.0,F323,[X]Single episode of psychogenic depression
+Mood disorders ,426971000006119.0,Eu32-3,Eu32.13,87414006.0,2951871015.0,F329,[X]Single episode of reactive depression
+Mood disorders ,426971000006119.0,Eu32-3,Eu32.13,87414006.0,2951871015.0,F323,[X]Single episode of reactive depression
+Mood disorders ,296137015.0,Eu320,Eu32000,310495003.0,454082014.0,F320,[X]Mild depressive episode
+Mood disorders ,296138013.0,Eu321,Eu32100,310496002.0,454083016.0,F328,[X]Moderate depressive episode
+Mood disorders ,296138013.0,Eu321,Eu32100,310496002.0,454083016.0,F331,[X]Moderate depressive episode
+Mood disorders ,296138013.0,Eu321,Eu32100,310496002.0,454083016.0,F329,[X]Moderate depressive episode
+Mood disorders ,296138013.0,Eu321,Eu32100,310496002.0,454083016.0,F339,[X]Moderate depressive episode
+Mood disorders ,296138013.0,Eu321,Eu32100,310496002.0,454083016.0,F330,[X]Moderate depressive episode
+Mood disorders ,296138013.0,Eu321,Eu32100,310496002.0,454083016.0,F338,[X]Moderate depressive episode
+Mood disorders ,296138013.0,Eu321,Eu32100,310496002.0,454083016.0,F322,[X]Moderate depressive episode
+Mood disorders ,296138013.0,Eu321,Eu32100,310496002.0,454083016.0,F321,[X]Moderate depressive episode
+Mood disorders ,296138013.0,Eu321,Eu32100,310496002.0,454083016.0,F333,[X]Moderate depressive episode
+Mood disorders ,296138013.0,Eu321,Eu32100,310496002.0,454083016.0,F332,[X]Moderate depressive episode
+Mood disorders ,296138013.0,Eu321,Eu32100,310496002.0,454083016.0,F323,[X]Moderate depressive episode
+Mood disorders ,296138013.0,Eu321,Eu32100,310496002.0,454083016.0,F334,[X]Moderate depressive episode
+Mood disorders ,296138013.0,Eu321,Eu32100,310496002.0,454083016.0,F320,[X]Moderate depressive episode
+Mood disorders ,401866015.0,Eu322,Eu32200,310497006.0,454084010.0,F339,[X]Severe depressive episode without psychotic symptoms
+Mood disorders ,401866015.0,Eu322,Eu32200,310497006.0,454084010.0,F321,[X]Severe depressive episode without psychotic symptoms
+Mood disorders ,401866015.0,Eu322,Eu32200,310497006.0,454084010.0,F329,[X]Severe depressive episode without psychotic symptoms
+Mood disorders ,401866015.0,Eu322,Eu32200,310497006.0,454084010.0,F334,[X]Severe depressive episode without psychotic symptoms
+Mood disorders ,401866015.0,Eu322,Eu32200,310497006.0,454084010.0,F328,[X]Severe depressive episode without psychotic symptoms
+Mood disorders ,401866015.0,Eu322,Eu32200,310497006.0,454084010.0,F331,[X]Severe depressive episode without psychotic symptoms
+Mood disorders ,401866015.0,Eu322,Eu32200,310497006.0,454084010.0,F330,[X]Severe depressive episode without psychotic symptoms
+Mood disorders ,401866015.0,Eu322,Eu32200,310497006.0,454084010.0,F323,[X]Severe depressive episode without psychotic symptoms
+Mood disorders ,401866015.0,Eu322,Eu32200,310497006.0,454084010.0,F322,[X]Severe depressive episode without psychotic symptoms
+Mood disorders ,401866015.0,Eu322,Eu32200,310497006.0,454084010.0,F333,[X]Severe depressive episode without psychotic symptoms
+Mood disorders ,401866015.0,Eu322,Eu32200,310497006.0,454084010.0,F338,[X]Severe depressive episode without psychotic symptoms
+Mood disorders ,401866015.0,Eu322,Eu32200,310497006.0,454084010.0,F320,[X]Severe depressive episode without psychotic symptoms
+Mood disorders ,401866015.0,Eu322,Eu32200,310497006.0,454084010.0,F332,[X]Severe depressive episode without psychotic symptoms
+Mood disorders ,426891000006114.0,Eu322-1,Eu32211,310497006.0,454084010.0,F339,[X]Single episode agitated depressn w'out psychotic symptoms
+Mood disorders ,426891000006114.0,Eu322-1,Eu32211,310497006.0,454084010.0,F321,[X]Single episode agitated depressn w'out psychotic symptoms
+Mood disorders ,426891000006114.0,Eu322-1,Eu32211,310497006.0,454084010.0,F329,[X]Single episode agitated depressn w'out psychotic symptoms
+Mood disorders ,426891000006114.0,Eu322-1,Eu32211,310497006.0,454084010.0,F334,[X]Single episode agitated depressn w'out psychotic symptoms
+Mood disorders ,426891000006114.0,Eu322-1,Eu32211,310497006.0,454084010.0,F328,[X]Single episode agitated depressn w'out psychotic symptoms
+Mood disorders ,426891000006114.0,Eu322-1,Eu32211,310497006.0,454084010.0,F331,[X]Single episode agitated depressn w'out psychotic symptoms
+Mood disorders ,426891000006114.0,Eu322-1,Eu32211,310497006.0,454084010.0,F330,[X]Single episode agitated depressn w'out psychotic symptoms
+Mood disorders ,426891000006114.0,Eu322-1,Eu32211,310497006.0,454084010.0,F323,[X]Single episode agitated depressn w'out psychotic symptoms
+Mood disorders ,426891000006114.0,Eu322-1,Eu32211,310497006.0,454084010.0,F322,[X]Single episode agitated depressn w'out psychotic symptoms
+Mood disorders ,426891000006114.0,Eu322-1,Eu32211,310497006.0,454084010.0,F333,[X]Single episode agitated depressn w'out psychotic symptoms
+Mood disorders ,426891000006114.0,Eu322-1,Eu32211,310497006.0,454084010.0,F338,[X]Single episode agitated depressn w'out psychotic symptoms
+Mood disorders ,426891000006114.0,Eu322-1,Eu32211,310497006.0,454084010.0,F320,[X]Single episode agitated depressn w'out psychotic symptoms
+Mood disorders ,426891000006114.0,Eu322-1,Eu32211,310497006.0,454084010.0,F332,[X]Single episode agitated depressn w'out psychotic symptoms
+Mood disorders ,223741000000112.0,Eu322-2,Eu32212,310497006.0,454084010.0,F339,[X]Single episode major depression w'out psychotic symptoms
+Mood disorders ,223741000000112.0,Eu322-2,Eu32212,310497006.0,454084010.0,F321,[X]Single episode major depression w'out psychotic symptoms
+Mood disorders ,223741000000112.0,Eu322-2,Eu32212,310497006.0,454084010.0,F329,[X]Single episode major depression w'out psychotic symptoms
+Mood disorders ,223741000000112.0,Eu322-2,Eu32212,310497006.0,454084010.0,F334,[X]Single episode major depression w'out psychotic symptoms
+Mood disorders ,223741000000112.0,Eu322-2,Eu32212,310497006.0,454084010.0,F328,[X]Single episode major depression w'out psychotic symptoms
+Mood disorders ,223741000000112.0,Eu322-2,Eu32212,310497006.0,454084010.0,F331,[X]Single episode major depression w'out psychotic symptoms
+Mood disorders ,223741000000112.0,Eu322-2,Eu32212,310497006.0,454084010.0,F330,[X]Single episode major depression w'out psychotic symptoms
+Mood disorders ,223741000000112.0,Eu322-2,Eu32212,310497006.0,454084010.0,F323,[X]Single episode major depression w'out psychotic symptoms
+Mood disorders ,223741000000112.0,Eu322-2,Eu32212,310497006.0,454084010.0,F322,[X]Single episode major depression w'out psychotic symptoms
+Mood disorders ,223741000000112.0,Eu322-2,Eu32212,310497006.0,454084010.0,F333,[X]Single episode major depression w'out psychotic symptoms
+Mood disorders ,223741000000112.0,Eu322-2,Eu32212,310497006.0,454084010.0,F338,[X]Single episode major depression w'out psychotic symptoms
+Mood disorders ,223741000000112.0,Eu322-2,Eu32212,310497006.0,454084010.0,F320,[X]Single episode major depression w'out psychotic symptoms
+Mood disorders ,223741000000112.0,Eu322-2,Eu32212,310497006.0,454084010.0,F332,[X]Single episode major depression w'out psychotic symptoms
+Mood disorders ,426991000006118.0,Eu322-3,Eu32213,310497006.0,454084010.0,F339,[X]Single episode vital depression w'out psychotic symptoms
+Mood disorders ,426991000006118.0,Eu322-3,Eu32213,310497006.0,454084010.0,F321,[X]Single episode vital depression w'out psychotic symptoms
+Mood disorders ,426991000006118.0,Eu322-3,Eu32213,310497006.0,454084010.0,F329,[X]Single episode vital depression w'out psychotic symptoms
+Mood disorders ,426991000006118.0,Eu322-3,Eu32213,310497006.0,454084010.0,F334,[X]Single episode vital depression w'out psychotic symptoms
+Mood disorders ,426991000006118.0,Eu322-3,Eu32213,310497006.0,454084010.0,F328,[X]Single episode vital depression w'out psychotic symptoms
+Mood disorders ,426991000006118.0,Eu322-3,Eu32213,310497006.0,454084010.0,F331,[X]Single episode vital depression w'out psychotic symptoms
+Mood disorders ,426991000006118.0,Eu322-3,Eu32213,310497006.0,454084010.0,F330,[X]Single episode vital depression w'out psychotic symptoms
+Mood disorders ,426991000006118.0,Eu322-3,Eu32213,310497006.0,454084010.0,F323,[X]Single episode vital depression w'out psychotic symptoms
+Mood disorders ,426991000006118.0,Eu322-3,Eu32213,310497006.0,454084010.0,F322,[X]Single episode vital depression w'out psychotic symptoms
+Mood disorders ,426991000006118.0,Eu322-3,Eu32213,310497006.0,454084010.0,F333,[X]Single episode vital depression w'out psychotic symptoms
+Mood disorders ,426991000006118.0,Eu322-3,Eu32213,310497006.0,454084010.0,F338,[X]Single episode vital depression w'out psychotic symptoms
+Mood disorders ,426991000006118.0,Eu322-3,Eu32213,310497006.0,454084010.0,F320,[X]Single episode vital depression w'out psychotic symptoms
+Mood disorders ,426991000006118.0,Eu322-3,Eu32213,310497006.0,454084010.0,F332,[X]Single episode vital depression w'out psychotic symptoms
+Mood disorders ,401869010.0,Eu323,Eu32300,191604000.0,294828015.0,F323,[X]Severe depressive episode with psychotic symptoms
+Mood disorders ,426921000006115.0,Eu323-1,Eu32311,191604000.0,294828015.0,F323,[X]Single episode of major depression and psychotic symptoms
+Mood disorders ,426951000006112.0,Eu323-2,Eu32312,191676002.0,294917018.0,F333,[X]Single episode of psychogenic depressive psychosis
+Mood disorders ,426951000006112.0,Eu323-2,Eu32312,191676002.0,294917018.0,F323,[X]Single episode of psychogenic depressive psychosis
+Mood disorders ,426961000006114.0,Eu323-3,Eu32313,191604000.0,294828015.0,F323,[X]Single episode of psychotic depression
+Mood disorders ,426981000006116.0,Eu323-4,Eu32314,191676002.0,294917018.0,F333,[X]Single episode of reactive depressive psychosis
+Mood disorders ,426981000006116.0,Eu323-4,Eu32314,191676002.0,294917018.0,F323,[X]Single episode of reactive depressive psychosis
+Mood disorders ,213641000000111.0,Eu324,Eu32400,310495003.0,213641000000111.0,F320,[X]Mild depression
+Mood disorders ,1715771000006112.0,Eu325,Eu32500,87512008.0,145089017.0,F322,"[X]Major depression, mild"
+Mood disorders ,1715181000006114.0,Eu326,Eu32600,832007.0,2451016.0,F322,"[X]Major depression, moderately severe"
+Mood disorders ,1715781000006110.0,Eu327,Eu32700,75084000.0,124707013.0,F322,"[X]Major depression, severe without psychotic symptoms"
+Mood disorders ,1715191000006112.0,Eu328,Eu32800,73867007.0,122670017.0,F323,"[X]Major depression, severe with psychotic symptoms"
+Mood disorders ,1755901000006112.0,Eu329,Eu32900,755321000000106.0,1667601000000117.0,F323,"Single major depressive episode, severe, with psychosis, psychosis in remission"
+Mood disorders ,1755911000006110.0,Eu32A,Eu32A00,755331000000108.0,1667611000000115.0,F333,"Recurrent major depressive episodes, severe, with psychosis, psychosis in remission"
+Mood disorders ,401871010.0,Eu32y,Eu32y00,35489007.0,59212011.0,F323,[X]Other depressive episodes
+Mood disorders ,401871010.0,Eu32y,Eu32y00,35489007.0,59212011.0,F412,[X]Other depressive episodes
+Mood disorders ,401871010.0,Eu32y,Eu32y00,35489007.0,59212011.0,F331,[X]Other depressive episodes
+Mood disorders ,401871010.0,Eu32y,Eu32y00,35489007.0,59212011.0,F530,[X]Other depressive episodes
+Mood disorders ,401871010.0,Eu32y,Eu32y00,35489007.0,59212011.0,F332,[X]Other depressive episodes
+Mood disorders ,401871010.0,Eu32y,Eu32y00,35489007.0,59212011.0,F063,[X]Other depressive episodes
+Mood disorders ,401871010.0,Eu32y,Eu32y00,35489007.0,59212011.0,F338,[X]Other depressive episodes
+Mood disorders ,401871010.0,Eu32y,Eu32y00,35489007.0,59212011.0,F329,[X]Other depressive episodes
+Mood disorders ,401871010.0,Eu32y,Eu32y00,35489007.0,59212011.0,F320,[X]Other depressive episodes
+Mood disorders ,401871010.0,Eu32y,Eu32y00,35489007.0,59212011.0,F204,[X]Other depressive episodes
+Mood disorders ,401871010.0,Eu32y,Eu32y00,35489007.0,59212011.0,F03X,[X]Other depressive episodes
+Mood disorders ,401871010.0,Eu32y,Eu32y00,35489007.0,59212011.0,F321,[X]Other depressive episodes
+Mood disorders ,401871010.0,Eu32y,Eu32y00,35489007.0,59212011.0,F328,[X]Other depressive episodes
+Mood disorders ,401871010.0,Eu32y,Eu32y00,35489007.0,59212011.0,F330,[X]Other depressive episodes
+Mood disorders ,401871010.0,Eu32y,Eu32y00,35489007.0,59212011.0,F333,[X]Other depressive episodes
+Mood disorders ,401871010.0,Eu32y,Eu32y00,35489007.0,59212011.0,F322,[X]Other depressive episodes
+Mood disorders ,401871010.0,Eu32y,Eu32y00,35489007.0,59212011.0,F339,[X]Other depressive episodes
+Mood disorders ,401871010.0,Eu32y,Eu32y00,35489007.0,59212011.0,F448,[X]Other depressive episodes
+Mood disorders ,401871010.0,Eu32y,Eu32y00,35489007.0,59212011.0,F334,[X]Other depressive episodes
+Mood disorders ,401871010.0,Eu32y,Eu32y00,35489007.0,59212011.0,F341,[X]Other depressive episodes
+Mood disorders ,366561000006119.0,Eu32y-1,Eu32y11,191659001.0,294894013.0,F328,[X]Atypical depression
+Mood disorders ,426931000006117.0,Eu32y-2,Eu32y12,231500002.0,346973011.0,F328,[X]Single episode of masked depression NOS
+Mood disorders ,401872015.0,Eu32z,Eu32z00,35489007.0,486185019.0,F323,"[X]Depressive episode, unspecified"
+Mood disorders ,401872015.0,Eu32z,Eu32z00,35489007.0,486185019.0,F412,"[X]Depressive episode, unspecified"
+Mood disorders ,401872015.0,Eu32z,Eu32z00,35489007.0,486185019.0,F331,"[X]Depressive episode, unspecified"
+Mood disorders ,401872015.0,Eu32z,Eu32z00,35489007.0,486185019.0,F530,"[X]Depressive episode, unspecified"
+Mood disorders ,401872015.0,Eu32z,Eu32z00,35489007.0,486185019.0,F332,"[X]Depressive episode, unspecified"
+Mood disorders ,401872015.0,Eu32z,Eu32z00,35489007.0,486185019.0,F063,"[X]Depressive episode, unspecified"
+Mood disorders ,401872015.0,Eu32z,Eu32z00,35489007.0,486185019.0,F338,"[X]Depressive episode, unspecified"
+Mood disorders ,401872015.0,Eu32z,Eu32z00,35489007.0,486185019.0,F329,"[X]Depressive episode, unspecified"
+Mood disorders ,401872015.0,Eu32z,Eu32z00,35489007.0,486185019.0,F320,"[X]Depressive episode, unspecified"
+Mood disorders ,401872015.0,Eu32z,Eu32z00,35489007.0,486185019.0,F204,"[X]Depressive episode, unspecified"
+Mood disorders ,401872015.0,Eu32z,Eu32z00,35489007.0,486185019.0,F03X,"[X]Depressive episode, unspecified"
+Mood disorders ,401872015.0,Eu32z,Eu32z00,35489007.0,486185019.0,F321,"[X]Depressive episode, unspecified"
+Mood disorders ,401872015.0,Eu32z,Eu32z00,35489007.0,486185019.0,F328,"[X]Depressive episode, unspecified"
+Mood disorders ,401872015.0,Eu32z,Eu32z00,35489007.0,486185019.0,F330,"[X]Depressive episode, unspecified"
+Mood disorders ,401872015.0,Eu32z,Eu32z00,35489007.0,486185019.0,F333,"[X]Depressive episode, unspecified"
+Mood disorders ,401872015.0,Eu32z,Eu32z00,35489007.0,486185019.0,F322,"[X]Depressive episode, unspecified"
+Mood disorders ,401872015.0,Eu32z,Eu32z00,35489007.0,486185019.0,F339,"[X]Depressive episode, unspecified"
+Mood disorders ,401872015.0,Eu32z,Eu32z00,35489007.0,486185019.0,F448,"[X]Depressive episode, unspecified"
+Mood disorders ,401872015.0,Eu32z,Eu32z00,35489007.0,486185019.0,F334,"[X]Depressive episode, unspecified"
+Mood disorders ,401872015.0,Eu32z,Eu32z00,35489007.0,486185019.0,F341,"[X]Depressive episode, unspecified"
+Mood disorders ,376691000006116.0,Eu32z-1,Eu32z11,35489007.0,486184015.0,F323,[X]Depression NOS
+Mood disorders ,376691000006116.0,Eu32z-1,Eu32z11,35489007.0,486184015.0,F412,[X]Depression NOS
+Mood disorders ,376691000006116.0,Eu32z-1,Eu32z11,35489007.0,486184015.0,F331,[X]Depression NOS
+Mood disorders ,376691000006116.0,Eu32z-1,Eu32z11,35489007.0,486184015.0,F530,[X]Depression NOS
+Mood disorders ,376691000006116.0,Eu32z-1,Eu32z11,35489007.0,486184015.0,F332,[X]Depression NOS
+Mood disorders ,376691000006116.0,Eu32z-1,Eu32z11,35489007.0,486184015.0,F063,[X]Depression NOS
+Mood disorders ,376691000006116.0,Eu32z-1,Eu32z11,35489007.0,486184015.0,F338,[X]Depression NOS
+Mood disorders ,376691000006116.0,Eu32z-1,Eu32z11,35489007.0,486184015.0,F329,[X]Depression NOS
+Mood disorders ,376691000006116.0,Eu32z-1,Eu32z11,35489007.0,486184015.0,F320,[X]Depression NOS
+Mood disorders ,376691000006116.0,Eu32z-1,Eu32z11,35489007.0,486184015.0,F204,[X]Depression NOS
+Mood disorders ,376691000006116.0,Eu32z-1,Eu32z11,35489007.0,486184015.0,F03X,[X]Depression NOS
+Mood disorders ,376691000006116.0,Eu32z-1,Eu32z11,35489007.0,486184015.0,F321,[X]Depression NOS
+Mood disorders ,376691000006116.0,Eu32z-1,Eu32z11,35489007.0,486184015.0,F328,[X]Depression NOS
+Mood disorders ,376691000006116.0,Eu32z-1,Eu32z11,35489007.0,486184015.0,F330,[X]Depression NOS
+Mood disorders ,376691000006116.0,Eu32z-1,Eu32z11,35489007.0,486184015.0,F333,[X]Depression NOS
+Mood disorders ,376691000006116.0,Eu32z-1,Eu32z11,35489007.0,486184015.0,F322,[X]Depression NOS
+Mood disorders ,376691000006116.0,Eu32z-1,Eu32z11,35489007.0,486184015.0,F339,[X]Depression NOS
+Mood disorders ,376691000006116.0,Eu32z-1,Eu32z11,35489007.0,486184015.0,F448,[X]Depression NOS
+Mood disorders ,376691000006116.0,Eu32z-1,Eu32z11,35489007.0,486184015.0,F334,[X]Depression NOS
+Mood disorders ,376691000006116.0,Eu32z-1,Eu32z11,35489007.0,486184015.0,F341,[X]Depression NOS
+Mood disorders ,376711000006118.0,Eu32z-2,Eu32z12,35489007.0,486185019.0,F323,[X]Depressive disorder NOS
+Mood disorders ,376711000006118.0,Eu32z-2,Eu32z12,35489007.0,486185019.0,F412,[X]Depressive disorder NOS
+Mood disorders ,376711000006118.0,Eu32z-2,Eu32z12,35489007.0,486185019.0,F331,[X]Depressive disorder NOS
+Mood disorders ,376711000006118.0,Eu32z-2,Eu32z12,35489007.0,486185019.0,F530,[X]Depressive disorder NOS
+Mood disorders ,376711000006118.0,Eu32z-2,Eu32z12,35489007.0,486185019.0,F332,[X]Depressive disorder NOS
+Mood disorders ,376711000006118.0,Eu32z-2,Eu32z12,35489007.0,486185019.0,F063,[X]Depressive disorder NOS
+Mood disorders ,376711000006118.0,Eu32z-2,Eu32z12,35489007.0,486185019.0,F338,[X]Depressive disorder NOS
+Mood disorders ,376711000006118.0,Eu32z-2,Eu32z12,35489007.0,486185019.0,F329,[X]Depressive disorder NOS
+Mood disorders ,376711000006118.0,Eu32z-2,Eu32z12,35489007.0,486185019.0,F320,[X]Depressive disorder NOS
+Mood disorders ,376711000006118.0,Eu32z-2,Eu32z12,35489007.0,486185019.0,F204,[X]Depressive disorder NOS
+Mood disorders ,376711000006118.0,Eu32z-2,Eu32z12,35489007.0,486185019.0,F03X,[X]Depressive disorder NOS
+Mood disorders ,376711000006118.0,Eu32z-2,Eu32z12,35489007.0,486185019.0,F321,[X]Depressive disorder NOS
+Mood disorders ,376711000006118.0,Eu32z-2,Eu32z12,35489007.0,486185019.0,F328,[X]Depressive disorder NOS
+Mood disorders ,376711000006118.0,Eu32z-2,Eu32z12,35489007.0,486185019.0,F330,[X]Depressive disorder NOS
+Mood disorders ,376711000006118.0,Eu32z-2,Eu32z12,35489007.0,486185019.0,F333,[X]Depressive disorder NOS
+Mood disorders ,376711000006118.0,Eu32z-2,Eu32z12,35489007.0,486185019.0,F322,[X]Depressive disorder NOS
+Mood disorders ,376711000006118.0,Eu32z-2,Eu32z12,35489007.0,486185019.0,F339,[X]Depressive disorder NOS
+Mood disorders ,376711000006118.0,Eu32z-2,Eu32z12,35489007.0,486185019.0,F448,[X]Depressive disorder NOS
+Mood disorders ,376711000006118.0,Eu32z-2,Eu32z12,35489007.0,486185019.0,F334,[X]Depressive disorder NOS
+Mood disorders ,376711000006118.0,Eu32z-2,Eu32z12,35489007.0,486185019.0,F341,[X]Depressive disorder NOS
+Mood disorders ,423611000006111.0,Eu32z-3,Eu32z13,87414006.0,2951871015.0,F329,[X]Prolonged single episode of reactive depression
+Mood disorders ,423611000006111.0,Eu32z-3,Eu32z13,87414006.0,2951871015.0,F323,[X]Prolonged single episode of reactive depression
+Mood disorders ,359121000006116.0,Eu32z-4,Eu32z14,87414006.0,2951871015.0,F329,[X] Reactive depression NOS
+Mood disorders ,359121000006116.0,Eu32z-4,Eu32z14,87414006.0,2951871015.0,F323,[X] Reactive depression NOS
+Mood disorders ,401873013.0,Eu33,Eu33.00,191616006.0,294844012.0,F330,[X]Recurrent depressive disorder
+Mood disorders ,401873013.0,Eu33,Eu33.00,191616006.0,294844012.0,F333,[X]Recurrent depressive disorder
+Mood disorders ,401873013.0,Eu33,Eu33.00,191616006.0,294844012.0,F331,[X]Recurrent depressive disorder
+Mood disorders ,401873013.0,Eu33,Eu33.00,191616006.0,294844012.0,F338,[X]Recurrent depressive disorder
+Mood disorders ,401873013.0,Eu33,Eu33.00,191616006.0,294844012.0,F339,[X]Recurrent depressive disorder
+Mood disorders ,401873013.0,Eu33,Eu33.00,191616006.0,294844012.0,F332,[X]Recurrent depressive disorder
+Mood disorders ,401873013.0,Eu33,Eu33.00,191616006.0,294844012.0,F334,[X]Recurrent depressive disorder
+Mood disorders ,424631000006119.0,Eu33-1,Eu33.11,191616006.0,294844012.0,F330,[X]Recurrent episodes of depressive reaction
+Mood disorders ,424631000006119.0,Eu33-1,Eu33.11,191616006.0,294844012.0,F333,[X]Recurrent episodes of depressive reaction
+Mood disorders ,424631000006119.0,Eu33-1,Eu33.11,191616006.0,294844012.0,F331,[X]Recurrent episodes of depressive reaction
+Mood disorders ,424631000006119.0,Eu33-1,Eu33.11,191616006.0,294844012.0,F338,[X]Recurrent episodes of depressive reaction
+Mood disorders ,424631000006119.0,Eu33-1,Eu33.11,191616006.0,294844012.0,F339,[X]Recurrent episodes of depressive reaction
+Mood disorders ,424631000006119.0,Eu33-1,Eu33.11,191616006.0,294844012.0,F332,[X]Recurrent episodes of depressive reaction
+Mood disorders ,424631000006119.0,Eu33-1,Eu33.11,191616006.0,294844012.0,F334,[X]Recurrent episodes of depressive reaction
+Mood disorders ,424641000006112.0,Eu33-2,Eu33.12,191616006.0,294844012.0,F330,[X]Recurrent episodes of psychogenic depression
+Mood disorders ,424641000006112.0,Eu33-2,Eu33.12,191616006.0,294844012.0,F333,[X]Recurrent episodes of psychogenic depression
+Mood disorders ,424641000006112.0,Eu33-2,Eu33.12,191616006.0,294844012.0,F331,[X]Recurrent episodes of psychogenic depression
+Mood disorders ,424641000006112.0,Eu33-2,Eu33.12,191616006.0,294844012.0,F338,[X]Recurrent episodes of psychogenic depression
+Mood disorders ,424641000006112.0,Eu33-2,Eu33.12,191616006.0,294844012.0,F339,[X]Recurrent episodes of psychogenic depression
+Mood disorders ,424641000006112.0,Eu33-2,Eu33.12,191616006.0,294844012.0,F332,[X]Recurrent episodes of psychogenic depression
+Mood disorders ,424641000006112.0,Eu33-2,Eu33.12,191616006.0,294844012.0,F334,[X]Recurrent episodes of psychogenic depression
+Mood disorders ,424651000006114.0,Eu33-3,Eu33.13,191616006.0,294844012.0,F330,[X]Recurrent episodes of reactive depression
+Mood disorders ,424651000006114.0,Eu33-3,Eu33.13,191616006.0,294844012.0,F333,[X]Recurrent episodes of reactive depression
+Mood disorders ,424651000006114.0,Eu33-3,Eu33.13,191616006.0,294844012.0,F331,[X]Recurrent episodes of reactive depression
+Mood disorders ,424651000006114.0,Eu33-3,Eu33.13,191616006.0,294844012.0,F338,[X]Recurrent episodes of reactive depression
+Mood disorders ,424651000006114.0,Eu33-3,Eu33.13,191616006.0,294844012.0,F339,[X]Recurrent episodes of reactive depression
+Mood disorders ,424651000006114.0,Eu33-3,Eu33.13,191616006.0,294844012.0,F332,[X]Recurrent episodes of reactive depression
+Mood disorders ,424651000006114.0,Eu33-3,Eu33.13,191616006.0,294844012.0,F334,[X]Recurrent episodes of reactive depression
+Mood disorders ,425751000006115.0,Eu33-4,Eu33.14,247803002.0,369982012.0,F388,[X]Seasonal depressive disorder
+Mood disorders ,425411000006110.0,Eu33-5,Eu33.15,247803002.0,369983019.0,F388,[X]SAD - Seasonal affective disorder
+Mood disorders ,296180012.0,Eu330,Eu33000,310495003.0,454082014.0,F320,"[X]Recurrent depressive disorder, current episode mild"
+Mood disorders ,296181011.0,Eu331,Eu33100,310496002.0,454083016.0,F328,"[X]Recurrent depressive disorder, current episode moderate"
+Mood disorders ,296181011.0,Eu331,Eu33100,310496002.0,454083016.0,F331,"[X]Recurrent depressive disorder, current episode moderate"
+Mood disorders ,296181011.0,Eu331,Eu33100,310496002.0,454083016.0,F329,"[X]Recurrent depressive disorder, current episode moderate"
+Mood disorders ,296181011.0,Eu331,Eu33100,310496002.0,454083016.0,F339,"[X]Recurrent depressive disorder, current episode moderate"
+Mood disorders ,296181011.0,Eu331,Eu33100,310496002.0,454083016.0,F330,"[X]Recurrent depressive disorder, current episode moderate"
+Mood disorders ,296181011.0,Eu331,Eu33100,310496002.0,454083016.0,F338,"[X]Recurrent depressive disorder, current episode moderate"
+Mood disorders ,296181011.0,Eu331,Eu33100,310496002.0,454083016.0,F322,"[X]Recurrent depressive disorder, current episode moderate"
+Mood disorders ,296181011.0,Eu331,Eu33100,310496002.0,454083016.0,F321,"[X]Recurrent depressive disorder, current episode moderate"
+Mood disorders ,296181011.0,Eu331,Eu33100,310496002.0,454083016.0,F333,"[X]Recurrent depressive disorder, current episode moderate"
+Mood disorders ,296181011.0,Eu331,Eu33100,310496002.0,454083016.0,F332,"[X]Recurrent depressive disorder, current episode moderate"
+Mood disorders ,296181011.0,Eu331,Eu33100,310496002.0,454083016.0,F323,"[X]Recurrent depressive disorder, current episode moderate"
+Mood disorders ,296181011.0,Eu331,Eu33100,310496002.0,454083016.0,F334,"[X]Recurrent depressive disorder, current episode moderate"
+Mood disorders ,296181011.0,Eu331,Eu33100,310496002.0,454083016.0,F320,"[X]Recurrent depressive disorder, current episode moderate"
+Mood disorders ,424531000006118.0,Eu332,Eu33200,310497006.0,454084010.0,F339,[X]Recurr depress disorder cur epi severe without psyc sympt
+Mood disorders ,424531000006118.0,Eu332,Eu33200,310497006.0,454084010.0,F321,[X]Recurr depress disorder cur epi severe without psyc sympt
+Mood disorders ,424531000006118.0,Eu332,Eu33200,310497006.0,454084010.0,F329,[X]Recurr depress disorder cur epi severe without psyc sympt
+Mood disorders ,424531000006118.0,Eu332,Eu33200,310497006.0,454084010.0,F334,[X]Recurr depress disorder cur epi severe without psyc sympt
+Mood disorders ,424531000006118.0,Eu332,Eu33200,310497006.0,454084010.0,F328,[X]Recurr depress disorder cur epi severe without psyc sympt
+Mood disorders ,424531000006118.0,Eu332,Eu33200,310497006.0,454084010.0,F331,[X]Recurr depress disorder cur epi severe without psyc sympt
+Mood disorders ,424531000006118.0,Eu332,Eu33200,310497006.0,454084010.0,F330,[X]Recurr depress disorder cur epi severe without psyc sympt
+Mood disorders ,424531000006118.0,Eu332,Eu33200,310497006.0,454084010.0,F323,[X]Recurr depress disorder cur epi severe without psyc sympt
+Mood disorders ,424531000006118.0,Eu332,Eu33200,310497006.0,454084010.0,F322,[X]Recurr depress disorder cur epi severe without psyc sympt
+Mood disorders ,424531000006118.0,Eu332,Eu33200,310497006.0,454084010.0,F333,[X]Recurr depress disorder cur epi severe without psyc sympt
+Mood disorders ,424531000006118.0,Eu332,Eu33200,310497006.0,454084010.0,F338,[X]Recurr depress disorder cur epi severe without psyc sympt
+Mood disorders ,424531000006118.0,Eu332,Eu33200,310497006.0,454084010.0,F320,[X]Recurr depress disorder cur epi severe without psyc sympt
+Mood disorders ,424531000006118.0,Eu332,Eu33200,310497006.0,454084010.0,F332,[X]Recurr depress disorder cur epi severe without psyc sympt
+Mood disorders ,379781000006118.0,Eu332-1,Eu33211,300706003.0,441826016.0,F332,[X]Endogenous depression without psychotic symptoms
+Mood disorders ,379781000006118.0,Eu332-1,Eu33211,300706003.0,441826016.0,F333,[X]Endogenous depression without psychotic symptoms
+Mood disorders ,396081000006116.0,Eu332-2,Eu33212,268621008.0,401767019.0,F332,"[X]Major depression, recurrent without psychotic symptoms"
+Mood disorders ,432511000006119.0,Eu332-4,Eu33214,310497006.0,454084010.0,F339,"[X]Vital depression, recurrent without psychotic symptoms"
+Mood disorders ,432511000006119.0,Eu332-4,Eu33214,310497006.0,454084010.0,F321,"[X]Vital depression, recurrent without psychotic symptoms"
+Mood disorders ,432511000006119.0,Eu332-4,Eu33214,310497006.0,454084010.0,F329,"[X]Vital depression, recurrent without psychotic symptoms"
+Mood disorders ,432511000006119.0,Eu332-4,Eu33214,310497006.0,454084010.0,F334,"[X]Vital depression, recurrent without psychotic symptoms"
+Mood disorders ,432511000006119.0,Eu332-4,Eu33214,310497006.0,454084010.0,F328,"[X]Vital depression, recurrent without psychotic symptoms"
+Mood disorders ,432511000006119.0,Eu332-4,Eu33214,310497006.0,454084010.0,F331,"[X]Vital depression, recurrent without psychotic symptoms"
+Mood disorders ,432511000006119.0,Eu332-4,Eu33214,310497006.0,454084010.0,F330,"[X]Vital depression, recurrent without psychotic symptoms"
+Mood disorders ,432511000006119.0,Eu332-4,Eu33214,310497006.0,454084010.0,F323,"[X]Vital depression, recurrent without psychotic symptoms"
+Mood disorders ,432511000006119.0,Eu332-4,Eu33214,310497006.0,454084010.0,F322,"[X]Vital depression, recurrent without psychotic symptoms"
+Mood disorders ,432511000006119.0,Eu332-4,Eu33214,310497006.0,454084010.0,F333,"[X]Vital depression, recurrent without psychotic symptoms"
+Mood disorders ,432511000006119.0,Eu332-4,Eu33214,310497006.0,454084010.0,F338,"[X]Vital depression, recurrent without psychotic symptoms"
+Mood disorders ,432511000006119.0,Eu332-4,Eu33214,310497006.0,454084010.0,F320,"[X]Vital depression, recurrent without psychotic symptoms"
+Mood disorders ,432511000006119.0,Eu332-4,Eu33214,310497006.0,454084010.0,F332,"[X]Vital depression, recurrent without psychotic symptoms"
+Mood disorders ,424571000006115.0,Eu333,Eu33300,28475009.0,47670016.0,F333,[X]Recurrent depress disorder cur epi severe with psyc symp
+Mood disorders ,379771000006116.0,Eu333-1,Eu33311,73867007.0,122670017.0,F323,[X]Endogenous depression with psychotic symptoms
+Mood disorders ,424541000006111.0,Eu333-3,Eu33313,28475009.0,47670016.0,F333,[X]Recurr severe episodes/major depression+psychotic symptom
+Mood disorders ,424551000006113.0,Eu333-4,Eu33314,191613003.0,294840015.0,F333,[X]Recurr severe episodes/psychogenic depressive psychosis
+Mood disorders ,424671000006116.0,Eu333-5,Eu33315,191613003.0,294840015.0,F333,[X]Recurrent severe episodes of psychotic depression
+Mood disorders ,424681000006118.0,Eu333-6,Eu33316,1086471000000103.0,2721771000000114.0,F333,[X]Recurrent severe episodes/reactive depressive psychosis
+Mood disorders ,296198011.0,Eu334,Eu33400,698957003.0,2981573016.0,F338,"[X]Recurrent depressive disorder, currently in remission"
+Mood disorders ,296198011.0,Eu334,Eu33400,698957003.0,2981573016.0,F331,"[X]Recurrent depressive disorder, currently in remission"
+Mood disorders ,296198011.0,Eu334,Eu33400,698957003.0,2981573016.0,F329,"[X]Recurrent depressive disorder, currently in remission"
+Mood disorders ,296198011.0,Eu334,Eu33400,698957003.0,2981573016.0,F320,"[X]Recurrent depressive disorder, currently in remission"
+Mood disorders ,296198011.0,Eu334,Eu33400,698957003.0,2981573016.0,F330,"[X]Recurrent depressive disorder, currently in remission"
+Mood disorders ,296198011.0,Eu334,Eu33400,698957003.0,2981573016.0,F323,"[X]Recurrent depressive disorder, currently in remission"
+Mood disorders ,296198011.0,Eu334,Eu33400,698957003.0,2981573016.0,F328,"[X]Recurrent depressive disorder, currently in remission"
+Mood disorders ,296198011.0,Eu334,Eu33400,698957003.0,2981573016.0,F334,"[X]Recurrent depressive disorder, currently in remission"
+Mood disorders ,296198011.0,Eu334,Eu33400,698957003.0,2981573016.0,F339,"[X]Recurrent depressive disorder, currently in remission"
+Mood disorders ,296198011.0,Eu334,Eu33400,698957003.0,2981573016.0,F332,"[X]Recurrent depressive disorder, currently in remission"
+Mood disorders ,296198011.0,Eu334,Eu33400,698957003.0,2981573016.0,F333,"[X]Recurrent depressive disorder, currently in remission"
+Mood disorders ,296198011.0,Eu334,Eu33400,698957003.0,2981573016.0,F321,"[X]Recurrent depressive disorder, currently in remission"
+Mood disorders ,296198011.0,Eu334,Eu33400,698957003.0,2981573016.0,F322,"[X]Recurrent depressive disorder, currently in remission"
+Mood disorders ,296199015.0,Eu33y,Eu33y00,191616006.0,294844012.0,F330,[X]Other recurrent depressive disorders
+Mood disorders ,296199015.0,Eu33y,Eu33y00,191616006.0,294844012.0,F333,[X]Other recurrent depressive disorders
+Mood disorders ,296199015.0,Eu33y,Eu33y00,191616006.0,294844012.0,F331,[X]Other recurrent depressive disorders
+Mood disorders ,296199015.0,Eu33y,Eu33y00,191616006.0,294844012.0,F338,[X]Other recurrent depressive disorders
+Mood disorders ,296199015.0,Eu33y,Eu33y00,191616006.0,294844012.0,F339,[X]Other recurrent depressive disorders
+Mood disorders ,296199015.0,Eu33y,Eu33y00,191616006.0,294844012.0,F332,[X]Other recurrent depressive disorders
+Mood disorders ,296199015.0,Eu33y,Eu33y00,191616006.0,294844012.0,F334,[X]Other recurrent depressive disorders
+Mood disorders ,401876017.0,Eu33z,Eu33z00,191616006.0,294844012.0,F330,"[X]Recurrent depressive disorder, unspecified"
+Mood disorders ,401876017.0,Eu33z,Eu33z00,191616006.0,294844012.0,F333,"[X]Recurrent depressive disorder, unspecified"
+Mood disorders ,401876017.0,Eu33z,Eu33z00,191616006.0,294844012.0,F331,"[X]Recurrent depressive disorder, unspecified"
+Mood disorders ,401876017.0,Eu33z,Eu33z00,191616006.0,294844012.0,F338,"[X]Recurrent depressive disorder, unspecified"
+Mood disorders ,401876017.0,Eu33z,Eu33z00,191616006.0,294844012.0,F339,"[X]Recurrent depressive disorder, unspecified"
+Mood disorders ,401876017.0,Eu33z,Eu33z00,191616006.0,294844012.0,F332,"[X]Recurrent depressive disorder, unspecified"
+Mood disorders ,401876017.0,Eu33z,Eu33z00,191616006.0,294844012.0,F334,"[X]Recurrent depressive disorder, unspecified"
+Mood disorders ,398841000006119.0,Eu33z-1,Eu33z11,35489007.0,59212011.0,F323,[X]Monopolar depression NOS
+Mood disorders ,398841000006119.0,Eu33z-1,Eu33z11,35489007.0,59212011.0,F412,[X]Monopolar depression NOS
+Mood disorders ,398841000006119.0,Eu33z-1,Eu33z11,35489007.0,59212011.0,F331,[X]Monopolar depression NOS
+Mood disorders ,398841000006119.0,Eu33z-1,Eu33z11,35489007.0,59212011.0,F530,[X]Monopolar depression NOS
+Mood disorders ,398841000006119.0,Eu33z-1,Eu33z11,35489007.0,59212011.0,F332,[X]Monopolar depression NOS
+Mood disorders ,398841000006119.0,Eu33z-1,Eu33z11,35489007.0,59212011.0,F063,[X]Monopolar depression NOS
+Mood disorders ,398841000006119.0,Eu33z-1,Eu33z11,35489007.0,59212011.0,F338,[X]Monopolar depression NOS
+Mood disorders ,398841000006119.0,Eu33z-1,Eu33z11,35489007.0,59212011.0,F329,[X]Monopolar depression NOS
+Mood disorders ,398841000006119.0,Eu33z-1,Eu33z11,35489007.0,59212011.0,F320,[X]Monopolar depression NOS
+Mood disorders ,398841000006119.0,Eu33z-1,Eu33z11,35489007.0,59212011.0,F204,[X]Monopolar depression NOS
+Mood disorders ,398841000006119.0,Eu33z-1,Eu33z11,35489007.0,59212011.0,F03X,[X]Monopolar depression NOS
+Mood disorders ,398841000006119.0,Eu33z-1,Eu33z11,35489007.0,59212011.0,F321,[X]Monopolar depression NOS
+Mood disorders ,398841000006119.0,Eu33z-1,Eu33z11,35489007.0,59212011.0,F328,[X]Monopolar depression NOS
+Mood disorders ,398841000006119.0,Eu33z-1,Eu33z11,35489007.0,59212011.0,F330,[X]Monopolar depression NOS
+Mood disorders ,398841000006119.0,Eu33z-1,Eu33z11,35489007.0,59212011.0,F333,[X]Monopolar depression NOS
+Mood disorders ,398841000006119.0,Eu33z-1,Eu33z11,35489007.0,59212011.0,F322,[X]Monopolar depression NOS
+Mood disorders ,398841000006119.0,Eu33z-1,Eu33z11,35489007.0,59212011.0,F339,[X]Monopolar depression NOS
+Mood disorders ,398841000006119.0,Eu33z-1,Eu33z11,35489007.0,59212011.0,F448,[X]Monopolar depression NOS
+Mood disorders ,398841000006119.0,Eu33z-1,Eu33z11,35489007.0,59212011.0,F334,[X]Monopolar depression NOS
+Mood disorders ,398841000006119.0,Eu33z-1,Eu33z11,35489007.0,59212011.0,F341,[X]Monopolar depression NOS
+Mood disorders ,379431000006113.0,Eu341,Eu34100,78667006.0,130532011.0,F341,[X]Dysthymia
+Mood disorders ,376741000006119.0,Eu341-1,Eu34111,78667006.0,130534012.0,F341,[X]Depressive neurosis
+Mood disorders ,376751000006117.0,Eu341-2,Eu34112,1084061000000106.0,2716551000000112.0,F341,[X]Depressive personality disorder
+Mood disorders ,399961000006118.0,Eu341-3,Eu34113,78667006.0,130534012.0,F341,[X]Neurotic depression
+Mood disorders ,419841000006116.0,Eu341-4,Eu34114,231504006.0,346979010.0,F412,[X]Persistant anxiety depression
+Mood disorders ,398561000006117.0,Eu412,Eu41200,231504006.0,346979010.0,F412,[X]Mixed anxiety and depressive disorder
+Mood disorders ,398351000006110.0,Eu412-1,Eu41211,231504006.0,346979010.0,F412,[X]Mild anxiety depression

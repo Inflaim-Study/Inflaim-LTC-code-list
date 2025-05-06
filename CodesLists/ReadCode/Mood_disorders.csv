@@ -1,0 +1,194 @@
+Condition,OriginalReadCode,CleansedReadCode,Term
+Mood disorders ,E110-99,E110.99,Mania/hypomania
+Mood disorders ,E11-99,E11..99,Manic-depressive psychoses
+Mood disorders ,E11-1,E11..11,Bipolar psychoses
+Mood disorders ,E11-3,E11..13,Manic psychoses
+Mood disorders ,E110,E110.00,"Manic disorder, single episode"
+Mood disorders ,E110-1,E110.11,Hypomanic psychoses
+Mood disorders ,E1100,E110000,"Single manic episode, unspecified"
+Mood disorders ,E1101,E110100,"Single manic episode, mild"
+Mood disorders ,E1102,E110200,"Single manic episode, moderate"
+Mood disorders ,E1104,E110400,"Single manic episode, severe, with psychosis"
+Mood disorders ,E1106,E110600,Single manic episode in full remission
+Mood disorders ,E110z,E110z00,"Manic disorder, single episode NOS"
+Mood disorders ,E111,E111.00,Recurrent manic episodes
+Mood disorders ,E1110,E111000,"Recurrent manic episodes, unspecified"
+Mood disorders ,E1111,E111100,"Recurrent manic episodes, mild"
+Mood disorders ,E1112,E111200,"Recurrent manic episodes, moderate"
+Mood disorders ,E1114,E111400,"Recurrent manic episodes, severe, with psychosis"
+Mood disorders ,E1116,E111600,"Recurrent manic episodes, in full remission"
+Mood disorders ,E111z,E111z00,Recurrent manic episode NOS
+Mood disorders ,E114,E114.00,"Bipolar affective disorder, currently manic"
+Mood disorders ,E114-1,E114.11,Manic-depressive - now manic
+Mood disorders ,E1140,E114000,"Bipolar affective disorder, currently manic, unspecified"
+Mood disorders ,E1141,E114100,"Bipolar affective disorder, currently manic, mild"
+Mood disorders ,E1142,E114200,"Bipolar affective disorder, currently manic, moderate"
+Mood disorders ,E1143,E114300,"Bipolar affect disord, currently manic, severe, no psychosis"
+Mood disorders ,E1144,E114400,"Bipolar affect disord, currently manic,severe with psychosis"
+Mood disorders ,E1145,E114500,"Bipolar affect disord,currently manic, part/unspec remission"
+Mood disorders ,E114z,E114z00,"Bipolar affective disorder, currently manic, NOS"
+Mood disorders ,E1151,E115100,"Bipolar affective disorder, currently depressed, mild"
+Mood disorders ,E1152,E115200,"Bipolar affective disorder, currently depressed, moderate"
+Mood disorders ,E1153,E115300,"Bipolar affect disord, now depressed, severe, no psychosis"
+Mood disorders ,E1154,E115400,"Bipolar affect disord, now depressed, severe with psychosis"
+Mood disorders ,E1155,E115500,"Bipolar affect disord, now depressed, part/unspec remission"
+Mood disorders ,E116,E116.00,Mixed bipolar affective disorder
+Mood disorders ,E1160,E116000,"Mixed bipolar affective disorder, unspecified"
+Mood disorders ,E1161,E116100,"Mixed bipolar affective disorder, mild"
+Mood disorders ,E1162,E116200,"Mixed bipolar affective disorder, moderate"
+Mood disorders ,E1164,E116400,"Mixed bipolar affective disorder, severe, with psychosis"
+Mood disorders ,E1166,E116600,"Mixed bipolar affective disorder, in full remission"
+Mood disorders ,E116z,E116z00,"Mixed bipolar affective disorder, NOS"
+Mood disorders ,E117,E117.00,Unspecified bipolar affective disorder
+Mood disorders ,E1170,E117000,"Unspecified bipolar affective disorder, unspecified"
+Mood disorders ,E1171,E117100,"Unspecified bipolar affective disorder, mild"
+Mood disorders ,E1172,E117200,"Unspecified bipolar affective disorder, moderate"
+Mood disorders ,E1173,E117300,"Unspecified bipolar affective disorder, severe, no psychosis"
+Mood disorders ,E1174,E117400,"Unspecified bipolar affective disorder,severe with psychosis"
+Mood disorders ,E1175,E117500,"Unspecified bipolar affect disord, partial/unspec remission"
+Mood disorders ,E1176,E117600,"Unspecified bipolar affective disorder, in full remission"
+Mood disorders ,E117z,E117z00,"Unspecified bipolar affective disorder, NOS"
+Mood disorders ,E11y,E11y.00,Other and unspecified manic-depressive psychoses
+Mood disorders ,E11y0,E11y000,Unspecified manic-depressive psychoses
+Mood disorders ,E11y1,E11y100,Atypical manic disorder
+Mood disorders ,E11y3,E11y300,Other mixed manic-depressive psychoses
+Mood disorders ,E11yz,E11yz00,Other and unspecified manic-depressive psychoses NOS
+Mood disorders ,Eu30,Eu30.00,[X]Manic episode
+Mood disorders ,Eu30-1,Eu30.11,"[X]Bipolar disorder, single manic episode"
+Mood disorders ,Eu300,Eu30000,[X]Hypomania
+Mood disorders ,Eu301,Eu30100,[X]Mania without psychotic symptoms
+Mood disorders ,Eu302,Eu30200,[X]Mania with psychotic symptoms
+Mood disorders ,Eu302-1,Eu30211,[X]Mania with mood-congruent psychotic symptoms
+Mood disorders ,Eu302-2,Eu30212,[X]Mania with mood-incongruent psychotic symptoms
+Mood disorders ,Eu30y,Eu30y00,[X]Other manic episodes
+Mood disorders ,Eu30z,Eu30z00,"[X]Manic episode, unspecified"
+Mood disorders ,Eu30z-1,Eu30z11,[X]Mania NOS
+Mood disorders ,Eu31,Eu31.00,[X]Bipolar affective disorder
+Mood disorders ,Eu31-1,Eu31.11,[X]Manic-depressive illness
+Mood disorders ,Eu31-2,Eu31.12,[X]Manic-depressive psychosis
+Mood disorders ,Eu31-3,Eu31.13,[X]Manic-depressive reaction
+Mood disorders ,Eu310,Eu31000,"[X]Bipolar affective disorder, current episode hypomanic"
+Mood disorders ,Eu311,Eu31100,[X]Bipolar affect disorder cur epi manic wout psychotic symp
+Mood disorders ,Eu312,Eu31200,[X]Bipolar affect disorder cur epi manic with psychotic symp
+Mood disorders ,Eu313,Eu31300,[X]Bipolar affect disorder cur epi mild or moderate depressn
+Mood disorders ,Eu314,Eu31400,"[X]Bipol aff disord, curr epis sev depress, no psychot symp"
+Mood disorders ,Eu315,Eu31500,[X]Bipolar affect dis cur epi severe depres with psyc symp
+Mood disorders ,Eu316,Eu31600,"[X]Bipolar affective disorder, current episode mixed"
+Mood disorders ,Eu317,Eu31700,"[X]Bipolar affective disorder, currently in remission"
+Mood disorders ,Eu318,Eu31800,[X]Bipolar affective disorder type I
+Mood disorders ,Eu319,Eu31900,[X]Bipolar affective disorder type II
+Mood disorders ,Eu319-1,Eu31911,[X]Bipolar II disorder
+Mood disorders ,Eu31y,Eu31y00,[X]Other bipolar affective disorders
+Mood disorders ,Eu31y-1,Eu31y11,[X]Bipolar II disorder
+Mood disorders ,Eu31y-2,Eu31y12,[X]Recurrent manic episodes
+Mood disorders ,Eu31z,Eu31z00,"[X]Bipolar affective disorder, unspecified"
+Mood disorders ,Eu332-3,Eu33213,"[X]Manic-depress psychosis,depressd,no psychotic symptoms"
+Mood disorders ,Eu333-2,Eu33312,"[X]Manic-depress psychosis,depressed type+psychotic symptoms"
+Mood disorders ,^ESCT1191490,,[X]Depressive personality disorder
+Mood disorders ,^ESCT1191853,,[X]Mild depressive episode
+Mood disorders ,^ESCT1191856,,[X]Moderate depressive episode
+Mood disorders ,^ESCT1192114,,[X]Recurrent severe episodes/reactive depressive psychosis
+Mood disorders ,^ESCT1192130,,[X]Severe depressive episode without psychotic symptoms
+Mood disorders ,^ESCT1245145,,"Single major depressive episode, in full remission"
+Mood disorders ,^ESCT1245146,,"Single major depressive episode, moderate"
+Mood disorders ,E0013,E001300,Presenile dementia with depression
+Mood disorders ,E0021,E002100,Senile dementia with depression
+Mood disorders ,E0043,E004300,Arteriosclerotic dementia with depression
+Mood disorders ,E11-2,E11..12,Depressive psychoses
+Mood disorders ,E112,E112.00,Single major depressive episode
+Mood disorders ,E112-1,E112.11,Agitated depression
+Mood disorders ,E112-2,E112.12,Endogenous depression first episode
+Mood disorders ,E112-3,E112.13,Endogenous depression first episode
+Mood disorders ,E112-4,E112.14,Endogenous depression
+Mood disorders ,E1120,E112000,"Single major depressive episode, unspecified"
+Mood disorders ,E1121,E112100,"Single major depressive episode, mild"
+Mood disorders ,E1122,E112200,"Single major depressive episode, moderate"
+Mood disorders ,E1123,E112300,"Single major depressive episode, severe, without psychosis"
+Mood disorders ,E1124,E112400,"Single major depressive episode, severe, with psychosis"
+Mood disorders ,E1125,E112500,"Single major depressive episode, partial or unspec remission"
+Mood disorders ,E1126,E112600,"Single major depressive episode, in full remission"
+Mood disorders ,E112z,E112z00,Single major depressive episode NOS
+Mood disorders ,E113,E113.00,Recurrent major depressive episode
+Mood disorders ,E113-1,E113.11,Endogenous depression - recurrent
+Mood disorders ,E1130,E113000,"Recurrent major depressive episodes, unspecified"
+Mood disorders ,E1131,E113100,"Recurrent major depressive episodes, mild"
+Mood disorders ,E1132,E113200,"Recurrent major depressive episodes, moderate"
+Mood disorders ,E1133,E113300,"Recurrent major depressive episodes, severe, no psychosis"
+Mood disorders ,E1134,E113400,"Recurrent major depressive episodes, severe, with psychosis"
+Mood disorders ,E1135,E113500,"Recurrent major depressive episodes,partial/unspec remission"
+Mood disorders ,E1136,E113600,"Recurrent major depressive episodes, in full remission"
+Mood disorders ,E1137,E113700,Recurrent depression
+Mood disorders ,E113z,E113z00,Recurrent major depressive episode NOS
+Mood disorders ,E118,E118.00,Seasonal affective disorder
+Mood disorders ,E11y2,E11y200,Atypical depressive disorder
+Mood disorders ,E11z2,E11z200,Masked depression
+Mood disorders ,E130,E130.00,Reactive depressive psychosis
+Mood disorders ,E130-1,E130.11,Psychotic reactive depression
+Mood disorders ,E135,E135.00,Agitated depression
+Mood disorders ,E2003,E200300,Anxiety with depression
+Mood disorders ,E291,E291.00,Prolonged depressive reaction
+Mood disorders ,E2B,E2B..00,Depressive disorder NEC
+Mood disorders ,E2B1,E2B1.00,Chronic depression
+Mood disorders ,Eu204,Eu20400,[X]Post-schizophrenic depression
+Mood disorders ,Eu251,Eu25100,"[X]Schizoaffective disorder, depressive type"
+Mood disorders ,Eu251-1,Eu25111,"[X]Schizoaffective psychosis, depressive type"
+Mood disorders ,Eu251-2,Eu25112,"[X]Schizophreniform psychosis, depressive type"
+Mood disorders ,Eu32,Eu32.00,[X]Depressive episode
+Mood disorders ,Eu32-1,Eu32.11,[X]Single episode of depressive reaction
+Mood disorders ,Eu32-2,Eu32.12,[X]Single episode of psychogenic depression
+Mood disorders ,Eu32-3,Eu32.13,[X]Single episode of reactive depression
+Mood disorders ,Eu320,Eu32000,[X]Mild depressive episode
+Mood disorders ,Eu321,Eu32100,[X]Moderate depressive episode
+Mood disorders ,Eu322,Eu32200,[X]Severe depressive episode without psychotic symptoms
+Mood disorders ,Eu322-1,Eu32211,[X]Single episode agitated depressn w'out psychotic symptoms
+Mood disorders ,Eu322-2,Eu32212,[X]Single episode major depression w'out psychotic symptoms
+Mood disorders ,Eu322-3,Eu32213,[X]Single episode vital depression w'out psychotic symptoms
+Mood disorders ,Eu323,Eu32300,[X]Severe depressive episode with psychotic symptoms
+Mood disorders ,Eu323-1,Eu32311,[X]Single episode of major depression and psychotic symptoms
+Mood disorders ,Eu323-2,Eu32312,[X]Single episode of psychogenic depressive psychosis
+Mood disorders ,Eu323-3,Eu32313,[X]Single episode of psychotic depression
+Mood disorders ,Eu323-4,Eu32314,[X]Single episode of reactive depressive psychosis
+Mood disorders ,Eu324,Eu32400,[X]Mild depression
+Mood disorders ,Eu325,Eu32500,"[X]Major depression, mild"
+Mood disorders ,Eu326,Eu32600,"[X]Major depression, moderately severe"
+Mood disorders ,Eu327,Eu32700,"[X]Major depression, severe without psychotic symptoms"
+Mood disorders ,Eu328,Eu32800,"[X]Major depression, severe with psychotic symptoms"
+Mood disorders ,Eu329,Eu32900,"Single major depressive episode, severe, with psychosis, psychosis in remission"
+Mood disorders ,Eu32A,Eu32A00,"Recurrent major depressive episodes, severe, with psychosis, psychosis in remission"
+Mood disorders ,Eu32y,Eu32y00,[X]Other depressive episodes
+Mood disorders ,Eu32y-1,Eu32y11,[X]Atypical depression
+Mood disorders ,Eu32y-2,Eu32y12,[X]Single episode of masked depression NOS
+Mood disorders ,Eu32z,Eu32z00,"[X]Depressive episode, unspecified"
+Mood disorders ,Eu32z-1,Eu32z11,[X]Depression NOS
+Mood disorders ,Eu32z-2,Eu32z12,[X]Depressive disorder NOS
+Mood disorders ,Eu32z-3,Eu32z13,[X]Prolonged single episode of reactive depression
+Mood disorders ,Eu32z-4,Eu32z14,[X] Reactive depression NOS
+Mood disorders ,Eu33,Eu33.00,[X]Recurrent depressive disorder
+Mood disorders ,Eu33-1,Eu33.11,[X]Recurrent episodes of depressive reaction
+Mood disorders ,Eu33-2,Eu33.12,[X]Recurrent episodes of psychogenic depression
+Mood disorders ,Eu33-3,Eu33.13,[X]Recurrent episodes of reactive depression
+Mood disorders ,Eu33-4,Eu33.14,[X]Seasonal depressive disorder
+Mood disorders ,Eu33-5,Eu33.15,[X]SAD - Seasonal affective disorder
+Mood disorders ,Eu330,Eu33000,"[X]Recurrent depressive disorder, current episode mild"
+Mood disorders ,Eu331,Eu33100,"[X]Recurrent depressive disorder, current episode moderate"
+Mood disorders ,Eu332,Eu33200,[X]Recurr depress disorder cur epi severe without psyc sympt
+Mood disorders ,Eu332-1,Eu33211,[X]Endogenous depression without psychotic symptoms
+Mood disorders ,Eu332-2,Eu33212,"[X]Major depression, recurrent without psychotic symptoms"
+Mood disorders ,Eu332-4,Eu33214,"[X]Vital depression, recurrent without psychotic symptoms"
+Mood disorders ,Eu333,Eu33300,[X]Recurrent depress disorder cur epi severe with psyc symp
+Mood disorders ,Eu333-1,Eu33311,[X]Endogenous depression with psychotic symptoms
+Mood disorders ,Eu333-3,Eu33313,[X]Recurr severe episodes/major depression+psychotic symptom
+Mood disorders ,Eu333-4,Eu33314,[X]Recurr severe episodes/psychogenic depressive psychosis
+Mood disorders ,Eu333-5,Eu33315,[X]Recurrent severe episodes of psychotic depression
+Mood disorders ,Eu333-6,Eu33316,[X]Recurrent severe episodes/reactive depressive psychosis
+Mood disorders ,Eu334,Eu33400,"[X]Recurrent depressive disorder, currently in remission"
+Mood disorders ,Eu33y,Eu33y00,[X]Other recurrent depressive disorders
+Mood disorders ,Eu33z,Eu33z00,"[X]Recurrent depressive disorder, unspecified"
+Mood disorders ,Eu33z-1,Eu33z11,[X]Monopolar depression NOS
+Mood disorders ,Eu341,Eu34100,[X]Dysthymia
+Mood disorders ,Eu341-1,Eu34111,[X]Depressive neurosis
+Mood disorders ,Eu341-2,Eu34112,[X]Depressive personality disorder
+Mood disorders ,Eu341-3,Eu34113,[X]Neurotic depression
+Mood disorders ,Eu341-4,Eu34114,[X]Persistant anxiety depression
+Mood disorders ,Eu412,Eu41200,[X]Mixed anxiety and depressive disorder
+Mood disorders ,Eu412-1,Eu41211,[X]Mild anxiety depression

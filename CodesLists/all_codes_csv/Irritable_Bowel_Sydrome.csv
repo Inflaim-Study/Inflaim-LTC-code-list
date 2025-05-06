@@ -1,0 +1,12 @@
+Condition,MedCodeId,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,ICD10Code,Term
+Irritable Bowel Sydrome,304999017.0,K58,K58..00,198401009.0,304999017.0,,Female genital organ symptoms
+Irritable Bowel Sydrome,18666015.0,J521-1,J521.11,10743008.0,18666015.0,K589,Irritable bowel syndrome
+Irritable Bowel Sydrome,18666015.0,J521-1,J521.11,10743008.0,18666015.0,K580,Irritable bowel syndrome
+Irritable Bowel Sydrome,18665016.0,J521-3,J521.13,10743008.0,18665016.0,K589,Spastic colon
+Irritable Bowel Sydrome,18665016.0,J521-3,J521.13,10743008.0,18665016.0,K580,Spastic colon
+Irritable Bowel Sydrome,742351000006119.0,J521,J521.00,10743008.0,18666015.0,K589,Irritable colon - Irritable bowel syndrome
+Irritable Bowel Sydrome,742351000006119.0,J521,J521.00,10743008.0,18666015.0,K580,Irritable colon - Irritable bowel syndrome
+Irritable Bowel Sydrome,303172010.0,J5210,J521000,197125005.0,303172010.0,K580,Irritable bowel syndrome with diarrhoea
+Irritable Bowel Sydrome,303071000000118.0,14CF,14CF.00,70871000119100.0,3038540014.0,Z871,History of irritable bowel syndrome
+Irritable Bowel Sydrome,415348015.0,8CM,8CM..00,734163000.0,3489064013.0,,Care plan
+Irritable Bowel Sydrome,2129721000000119.0,8Cm,8Cm..00,817511000000108.0,2129721000000119.2,,Management of irritable bowel syndrome

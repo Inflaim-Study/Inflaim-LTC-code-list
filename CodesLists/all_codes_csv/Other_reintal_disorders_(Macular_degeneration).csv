@@ -1,0 +1,12 @@
+Condition,MedCodeId,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,ICD10Code,Term
+Other reintal disorders (Macular degeneration),369092019.0,2BBH,2BBH.00,247153005.0,369092019.0,H354,Retinal drusen
+Other reintal disorders (Macular degeneration),1231068014.0,F4242,F424200,52002008.0,1231068014.0,H357,Retinal pigment epithelium serous detachment
+Other reintal disorders (Macular degeneration),1216693019.0,F4243,F424300,50165004.0,1216693019.0,H357,Retinal pigment epithelium haemorrhagic detachment
+Other reintal disorders (Macular degeneration),347719019.0,F4244,F424400,232067008.0,347719019.0,H357,Retinal pigment epithelial detachment
+Other reintal disorders (Macular degeneration),399433012.0,F425,F425.00,267611002.0,399433012.0,H353,Degeneration of macula and posterior pole
+Other reintal disorders (Macular degeneration),399676018.0,F425-1,F425.11,267718000.0,399676018.0,H353,Senile macular degeneration
+Other reintal disorders (Macular degeneration),78571000006118.0,F4250,F425000,267718000.0,399670012.0,H353,Unspecified senile macular degeneration
+Other reintal disorders (Macular degeneration),2537365016.0,F4251,F425100,414875008.0,2537365016.0,H353,Dry senile macular degeneration
+Other reintal disorders (Macular degeneration),2538088014.0,F4252,F425200,414173003.0,2538088014.0,H353,Wet senile macular degeneration
+Other reintal disorders (Macular degeneration),753461000006116.0,F4252-1,F425211,414173003.0,2538090010.0,H353,Kuhnt - Junius degeneration
+Other reintal disorders (Macular degeneration),297816017.0,F425z,F425z00,267611002.0,399433012.0,H353,Degeneration of macula or posterior pole NOS

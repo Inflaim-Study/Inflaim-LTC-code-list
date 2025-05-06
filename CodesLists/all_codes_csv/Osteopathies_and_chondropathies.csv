@@ -1,0 +1,428 @@
+Condition,MedCodeId,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,ICD10Code,Term
+Osteopathies and chondropathies,5992471000006115.0,^ESCTOS599247,,309745002.0,453226012.0,M816,Osteoporosis localized to spine
+Osteopathies and chondropathies,107806013.0,N330,N330.00,64859006.0,107806013.0,M800,Osteoporosis
+Osteopathies and chondropathies,107806013.0,N330,N330.00,64859006.0,107806013.0,M804,Osteoporosis
+Osteopathies and chondropathies,107806013.0,N330,N330.00,64859006.0,107806013.0,C900,Osteoporosis
+Osteopathies and chondropathies,107806013.0,N330,N330.00,64859006.0,107806013.0,E349,Osteoporosis
+Osteopathies and chondropathies,107806013.0,N330,N330.00,64859006.0,107806013.0,M800 ,Osteoporosis
+Osteopathies and chondropathies,107806013.0,N330,N330.00,64859006.0,107806013.0,M808,Osteoporosis
+Osteopathies and chondropathies,107806013.0,N330,N330.00,64859006.0,107806013.0,M810 ,Osteoporosis
+Osteopathies and chondropathies,107806013.0,N330,N330.00,64859006.0,107806013.0,M818,Osteoporosis
+Osteopathies and chondropathies,107806013.0,N330,N330.00,64859006.0,107806013.0,M811,Osteoporosis
+Osteopathies and chondropathies,107806013.0,N330,N330.00,64859006.0,107806013.0,M805 ,Osteoporosis
+Osteopathies and chondropathies,107806013.0,N330,N330.00,64859006.0,107806013.0,M814 ,Osteoporosis
+Osteopathies and chondropathies,107806013.0,N330,N330.00,64859006.0,107806013.0,M813 ,Osteoporosis
+Osteopathies and chondropathies,107806013.0,N330,N330.00,64859006.0,107806013.0,M814,Osteoporosis
+Osteopathies and chondropathies,107806013.0,N330,N330.00,64859006.0,107806013.0,M815,Osteoporosis
+Osteopathies and chondropathies,107806013.0,N330,N330.00,64859006.0,107806013.0,M819,Osteoporosis
+Osteopathies and chondropathies,107806013.0,N330,N330.00,64859006.0,107806013.0,M802 ,Osteoporosis
+Osteopathies and chondropathies,107806013.0,N330,N330.00,64859006.0,107806013.0,M803 ,Osteoporosis
+Osteopathies and chondropathies,107806013.0,N330,N330.00,64859006.0,107806013.0,M810,Osteoporosis
+Osteopathies and chondropathies,107806013.0,N330,N330.00,64859006.0,107806013.0,M812,Osteoporosis
+Osteopathies and chondropathies,107806013.0,N330,N330.00,64859006.0,107806013.0,M809,Osteoporosis
+Osteopathies and chondropathies,107806013.0,N330,N330.00,64859006.0,107806013.0,M809 ,Osteoporosis
+Osteopathies and chondropathies,107806013.0,N330,N330.00,64859006.0,107806013.0,M818 ,Osteoporosis
+Osteopathies and chondropathies,107806013.0,N330,N330.00,64859006.0,107806013.0,M485,Osteoporosis
+Osteopathies and chondropathies,107806013.0,N330,N330.00,64859006.0,107806013.0,M805,Osteoporosis
+Osteopathies and chondropathies,107806013.0,N330,N330.00,64859006.0,107806013.0,M801,Osteoporosis
+Osteopathies and chondropathies,107806013.0,N330,N330.00,64859006.0,107806013.0,M815 ,Osteoporosis
+Osteopathies and chondropathies,107806013.0,N330,N330.00,64859006.0,107806013.0,M816,Osteoporosis
+Osteopathies and chondropathies,107806013.0,N330,N330.00,64859006.0,107806013.0,M813,Osteoporosis
+Osteopathies and chondropathies,107806013.0,N330,N330.00,64859006.0,107806013.0,M803,Osteoporosis
+Osteopathies and chondropathies,107806013.0,N330,N330.00,64859006.0,107806013.0,M802,Osteoporosis
+Osteopathies and chondropathies,107806013.0,N330,N330.00,64859006.0,107806013.0,M811 ,Osteoporosis
+Osteopathies and chondropathies,107806013.0,N330,N330.00,64859006.0,107806013.0,M808 ,Osteoporosis
+Osteopathies and chondropathies,107806013.0,N330,N330.00,64859006.0,107806013.0,M801 ,Osteoporosis
+Osteopathies and chondropathies,107806013.0,N330,N330.00,64859006.0,107806013.0,M816 ,Osteoporosis
+Osteopathies and chondropathies,107806013.0,N330,N330.00,64859006.0,107806013.0,M812 ,Osteoporosis
+Osteopathies and chondropathies,107806013.0,N330,N330.00,64859006.0,107806013.0,M804 ,Osteoporosis
+Osteopathies and chondropathies,107806013.0,N330,N330.00,64859006.0,107806013.0,M819 ,Osteoporosis
+Osteopathies and chondropathies,107806013.0,N330,N330.00,64859006.0,107806013.0,M821,Osteoporosis
+Osteopathies and chondropathies,107806013.0,N330,N330.00,64859006.0,107806013.0,M820,Osteoporosis
+Osteopathies and chondropathies,107806013.0,N330,N330.00,64859006.0,107806013.0,M828,Osteoporosis
+Osteopathies and chondropathies,312124013.0,N3300,N330000,64859006.0,107806013.0,M800,"Osteoporosis, unspecified"
+Osteopathies and chondropathies,312124013.0,N3300,N330000,64859006.0,107806013.0,M804,"Osteoporosis, unspecified"
+Osteopathies and chondropathies,312124013.0,N3300,N330000,64859006.0,107806013.0,C900,"Osteoporosis, unspecified"
+Osteopathies and chondropathies,312124013.0,N3300,N330000,64859006.0,107806013.0,E349,"Osteoporosis, unspecified"
+Osteopathies and chondropathies,312124013.0,N3300,N330000,64859006.0,107806013.0,M800 ,"Osteoporosis, unspecified"
+Osteopathies and chondropathies,312124013.0,N3300,N330000,64859006.0,107806013.0,M808,"Osteoporosis, unspecified"
+Osteopathies and chondropathies,312124013.0,N3300,N330000,64859006.0,107806013.0,M810 ,"Osteoporosis, unspecified"
+Osteopathies and chondropathies,312124013.0,N3300,N330000,64859006.0,107806013.0,M818,"Osteoporosis, unspecified"
+Osteopathies and chondropathies,312124013.0,N3300,N330000,64859006.0,107806013.0,M811,"Osteoporosis, unspecified"
+Osteopathies and chondropathies,312124013.0,N3300,N330000,64859006.0,107806013.0,M805 ,"Osteoporosis, unspecified"
+Osteopathies and chondropathies,312124013.0,N3300,N330000,64859006.0,107806013.0,M814 ,"Osteoporosis, unspecified"
+Osteopathies and chondropathies,312124013.0,N3300,N330000,64859006.0,107806013.0,M813 ,"Osteoporosis, unspecified"
+Osteopathies and chondropathies,312124013.0,N3300,N330000,64859006.0,107806013.0,M814,"Osteoporosis, unspecified"
+Osteopathies and chondropathies,312124013.0,N3300,N330000,64859006.0,107806013.0,M815,"Osteoporosis, unspecified"
+Osteopathies and chondropathies,312124013.0,N3300,N330000,64859006.0,107806013.0,M819,"Osteoporosis, unspecified"
+Osteopathies and chondropathies,312124013.0,N3300,N330000,64859006.0,107806013.0,M802 ,"Osteoporosis, unspecified"
+Osteopathies and chondropathies,312124013.0,N3300,N330000,64859006.0,107806013.0,M803 ,"Osteoporosis, unspecified"
+Osteopathies and chondropathies,312124013.0,N3300,N330000,64859006.0,107806013.0,M810,"Osteoporosis, unspecified"
+Osteopathies and chondropathies,312124013.0,N3300,N330000,64859006.0,107806013.0,M812,"Osteoporosis, unspecified"
+Osteopathies and chondropathies,312124013.0,N3300,N330000,64859006.0,107806013.0,M809,"Osteoporosis, unspecified"
+Osteopathies and chondropathies,312124013.0,N3300,N330000,64859006.0,107806013.0,M809 ,"Osteoporosis, unspecified"
+Osteopathies and chondropathies,312124013.0,N3300,N330000,64859006.0,107806013.0,M818 ,"Osteoporosis, unspecified"
+Osteopathies and chondropathies,312124013.0,N3300,N330000,64859006.0,107806013.0,M485,"Osteoporosis, unspecified"
+Osteopathies and chondropathies,312124013.0,N3300,N330000,64859006.0,107806013.0,M805,"Osteoporosis, unspecified"
+Osteopathies and chondropathies,312124013.0,N3300,N330000,64859006.0,107806013.0,M801,"Osteoporosis, unspecified"
+Osteopathies and chondropathies,312124013.0,N3300,N330000,64859006.0,107806013.0,M815 ,"Osteoporosis, unspecified"
+Osteopathies and chondropathies,312124013.0,N3300,N330000,64859006.0,107806013.0,M816,"Osteoporosis, unspecified"
+Osteopathies and chondropathies,312124013.0,N3300,N330000,64859006.0,107806013.0,M813,"Osteoporosis, unspecified"
+Osteopathies and chondropathies,312124013.0,N3300,N330000,64859006.0,107806013.0,M803,"Osteoporosis, unspecified"
+Osteopathies and chondropathies,312124013.0,N3300,N330000,64859006.0,107806013.0,M802,"Osteoporosis, unspecified"
+Osteopathies and chondropathies,312124013.0,N3300,N330000,64859006.0,107806013.0,M811 ,"Osteoporosis, unspecified"
+Osteopathies and chondropathies,312124013.0,N3300,N330000,64859006.0,107806013.0,M808 ,"Osteoporosis, unspecified"
+Osteopathies and chondropathies,312124013.0,N3300,N330000,64859006.0,107806013.0,M801 ,"Osteoporosis, unspecified"
+Osteopathies and chondropathies,312124013.0,N3300,N330000,64859006.0,107806013.0,M816 ,"Osteoporosis, unspecified"
+Osteopathies and chondropathies,312124013.0,N3300,N330000,64859006.0,107806013.0,M812 ,"Osteoporosis, unspecified"
+Osteopathies and chondropathies,312124013.0,N3300,N330000,64859006.0,107806013.0,M804 ,"Osteoporosis, unspecified"
+Osteopathies and chondropathies,312124013.0,N3300,N330000,64859006.0,107806013.0,M819 ,"Osteoporosis, unspecified"
+Osteopathies and chondropathies,312124013.0,N3300,N330000,64859006.0,107806013.0,M821,"Osteoporosis, unspecified"
+Osteopathies and chondropathies,312124013.0,N3300,N330000,64859006.0,107806013.0,M820,"Osteoporosis, unspecified"
+Osteopathies and chondropathies,312124013.0,N3300,N330000,64859006.0,107806013.0,M828,"Osteoporosis, unspecified"
+Osteopathies and chondropathies,30475015.0,N3301,N330100,18040001.0,30475015.0,M818,Senile osteoporosis
+Osteopathies and chondropathies,30475015.0,N3301,N330100,18040001.0,30475015.0,M808,Senile osteoporosis
+Osteopathies and chondropathies,54058015.0,N3302,N330200,102447009.0,165682016.0,M810,Postmenopausal osteoporosis
+Osteopathies and chondropathies,54058015.0,N3302,N330200,102447009.0,165682016.0,M800,Postmenopausal osteoporosis
+Osteopathies and chondropathies,786501000006117.0,N3303,N330300,203429007.0,312126010.0,M815,Idiopathic osteoporosis
+Osteopathies and chondropathies,786501000006117.0,N3303,N330300,203429007.0,312126010.0,M805,Idiopathic osteoporosis
+Osteopathies and chondropathies,625381000006110.0,N3304,N330400,53174001.0,88440018.0,M802,Dissuse osteoporosis
+Osteopathies and chondropathies,625381000006110.0,N3304,N330400,53174001.0,88440018.0,M812,Dissuse osteoporosis
+Osteopathies and chondropathies,24883018.0,N3305,N330500,14651005.0,24883018.0,M814,Drug-induced osteoporosis
+Osteopathies and chondropathies,24883018.0,N3305,N330500,14651005.0,24883018.0,M804,Drug-induced osteoporosis
+Osteopathies and chondropathies,312133010.0,N3306,N330600,203433000.0,312133010.0,M811,Postoophorectomy osteoporosis
+Osteopathies and chondropathies,212431000006119.0,N3307,N330700,203434006.0,312134016.0,M813,Postsurgical malabsorption osteoporosis
+Osteopathies and chondropathies,312139014.0,N330B,N330B00,203438009.0,312139014.0,M812,Vertebral osteoporosis
+Osteopathies and chondropathies,312139014.0,N330B,N330B00,203438009.0,312139014.0,M802,Vertebral osteoporosis
+Osteopathies and chondropathies,312139014.0,N330B,N330B00,203438009.0,312139014.0,M803 ,Vertebral osteoporosis
+Osteopathies and chondropathies,312139014.0,N330B,N330B00,203438009.0,312139014.0,M812 ,Vertebral osteoporosis
+Osteopathies and chondropathies,312139014.0,N330B,N330B00,203438009.0,312139014.0,M813,Vertebral osteoporosis
+Osteopathies and chondropathies,312139014.0,N330B,N330B00,203438009.0,312139014.0,M803,Vertebral osteoporosis
+Osteopathies and chondropathies,312139014.0,N330B,N330B00,203438009.0,312139014.0,M815 ,Vertebral osteoporosis
+Osteopathies and chondropathies,312139014.0,N330B,N330B00,203438009.0,312139014.0,M816,Vertebral osteoporosis
+Osteopathies and chondropathies,312139014.0,N330B,N330B00,203438009.0,312139014.0,M808,Vertebral osteoporosis
+Osteopathies and chondropathies,312139014.0,N330B,N330B00,203438009.0,312139014.0,M804,Vertebral osteoporosis
+Osteopathies and chondropathies,312139014.0,N330B,N330B00,203438009.0,312139014.0,M804 ,Vertebral osteoporosis
+Osteopathies and chondropathies,312139014.0,N330B,N330B00,203438009.0,312139014.0,M809 ,Vertebral osteoporosis
+Osteopathies and chondropathies,312139014.0,N330B,N330B00,203438009.0,312139014.0,M810,Vertebral osteoporosis
+Osteopathies and chondropathies,312139014.0,N330B,N330B00,203438009.0,312139014.0,M813 ,Vertebral osteoporosis
+Osteopathies and chondropathies,312139014.0,N330B,N330B00,203438009.0,312139014.0,M818,Vertebral osteoporosis
+Osteopathies and chondropathies,312139014.0,N330B,N330B00,203438009.0,312139014.0,M818 ,Vertebral osteoporosis
+Osteopathies and chondropathies,312139014.0,N330B,N330B00,203438009.0,312139014.0,M815,Vertebral osteoporosis
+Osteopathies and chondropathies,312139014.0,N330B,N330B00,203438009.0,312139014.0,M819,Vertebral osteoporosis
+Osteopathies and chondropathies,312139014.0,N330B,N330B00,203438009.0,312139014.0,M811,Vertebral osteoporosis
+Osteopathies and chondropathies,312139014.0,N330B,N330B00,203438009.0,312139014.0,M819 ,Vertebral osteoporosis
+Osteopathies and chondropathies,312139014.0,N330B,N330B00,203438009.0,312139014.0,M816 ,Vertebral osteoporosis
+Osteopathies and chondropathies,312139014.0,N330B,N330B00,203438009.0,312139014.0,M801 ,Vertebral osteoporosis
+Osteopathies and chondropathies,312139014.0,N330B,N330B00,203438009.0,312139014.0,M810 ,Vertebral osteoporosis
+Osteopathies and chondropathies,312139014.0,N330B,N330B00,203438009.0,312139014.0,M805 ,Vertebral osteoporosis
+Osteopathies and chondropathies,312139014.0,N330B,N330B00,203438009.0,312139014.0,M800 ,Vertebral osteoporosis
+Osteopathies and chondropathies,312139014.0,N330B,N330B00,203438009.0,312139014.0,M805,Vertebral osteoporosis
+Osteopathies and chondropathies,312139014.0,N330B,N330B00,203438009.0,312139014.0,M814,Vertebral osteoporosis
+Osteopathies and chondropathies,312139014.0,N330B,N330B00,203438009.0,312139014.0,M814 ,Vertebral osteoporosis
+Osteopathies and chondropathies,312139014.0,N330B,N330B00,203438009.0,312139014.0,M811 ,Vertebral osteoporosis
+Osteopathies and chondropathies,312139014.0,N330B,N330B00,203438009.0,312139014.0,M808 ,Vertebral osteoporosis
+Osteopathies and chondropathies,312139014.0,N330B,N330B00,203438009.0,312139014.0,M802 ,Vertebral osteoporosis
+Osteopathies and chondropathies,312139014.0,N330B,N330B00,203438009.0,312139014.0,M801,Vertebral osteoporosis
+Osteopathies and chondropathies,312139014.0,N330B,N330B00,203438009.0,312139014.0,M809,Vertebral osteoporosis
+Osteopathies and chondropathies,312139014.0,N330B,N330B00,203438009.0,312139014.0,M800,Vertebral osteoporosis
+Osteopathies and chondropathies,453226012.0,N330C,N330C00,309745002.0,453225011.0,M816,Osteoporosis localized to spine
+Osteopathies and chondropathies,1484866013.0,N330D,N330D00,390833005.0,1484866013.0,M814,Osteoporosis due to corticosteroids
+Osteopathies and chondropathies,312142015.0,N330z,N330z00,64859006.0,107806013.0,M800,Osteoporosis NOS
+Osteopathies and chondropathies,312142015.0,N330z,N330z00,64859006.0,107806013.0,M804,Osteoporosis NOS
+Osteopathies and chondropathies,312142015.0,N330z,N330z00,64859006.0,107806013.0,C900,Osteoporosis NOS
+Osteopathies and chondropathies,312142015.0,N330z,N330z00,64859006.0,107806013.0,E349,Osteoporosis NOS
+Osteopathies and chondropathies,312142015.0,N330z,N330z00,64859006.0,107806013.0,M800 ,Osteoporosis NOS
+Osteopathies and chondropathies,312142015.0,N330z,N330z00,64859006.0,107806013.0,M808,Osteoporosis NOS
+Osteopathies and chondropathies,312142015.0,N330z,N330z00,64859006.0,107806013.0,M810 ,Osteoporosis NOS
+Osteopathies and chondropathies,312142015.0,N330z,N330z00,64859006.0,107806013.0,M818,Osteoporosis NOS
+Osteopathies and chondropathies,312142015.0,N330z,N330z00,64859006.0,107806013.0,M811,Osteoporosis NOS
+Osteopathies and chondropathies,312142015.0,N330z,N330z00,64859006.0,107806013.0,M805 ,Osteoporosis NOS
+Osteopathies and chondropathies,312142015.0,N330z,N330z00,64859006.0,107806013.0,M814 ,Osteoporosis NOS
+Osteopathies and chondropathies,312142015.0,N330z,N330z00,64859006.0,107806013.0,M813 ,Osteoporosis NOS
+Osteopathies and chondropathies,312142015.0,N330z,N330z00,64859006.0,107806013.0,M814,Osteoporosis NOS
+Osteopathies and chondropathies,312142015.0,N330z,N330z00,64859006.0,107806013.0,M815,Osteoporosis NOS
+Osteopathies and chondropathies,312142015.0,N330z,N330z00,64859006.0,107806013.0,M819,Osteoporosis NOS
+Osteopathies and chondropathies,312142015.0,N330z,N330z00,64859006.0,107806013.0,M802 ,Osteoporosis NOS
+Osteopathies and chondropathies,312142015.0,N330z,N330z00,64859006.0,107806013.0,M803 ,Osteoporosis NOS
+Osteopathies and chondropathies,312142015.0,N330z,N330z00,64859006.0,107806013.0,M810,Osteoporosis NOS
+Osteopathies and chondropathies,312142015.0,N330z,N330z00,64859006.0,107806013.0,M812,Osteoporosis NOS
+Osteopathies and chondropathies,312142015.0,N330z,N330z00,64859006.0,107806013.0,M809,Osteoporosis NOS
+Osteopathies and chondropathies,312142015.0,N330z,N330z00,64859006.0,107806013.0,M809 ,Osteoporosis NOS
+Osteopathies and chondropathies,312142015.0,N330z,N330z00,64859006.0,107806013.0,M818 ,Osteoporosis NOS
+Osteopathies and chondropathies,312142015.0,N330z,N330z00,64859006.0,107806013.0,M485,Osteoporosis NOS
+Osteopathies and chondropathies,312142015.0,N330z,N330z00,64859006.0,107806013.0,M805,Osteoporosis NOS
+Osteopathies and chondropathies,312142015.0,N330z,N330z00,64859006.0,107806013.0,M801,Osteoporosis NOS
+Osteopathies and chondropathies,312142015.0,N330z,N330z00,64859006.0,107806013.0,M815 ,Osteoporosis NOS
+Osteopathies and chondropathies,312142015.0,N330z,N330z00,64859006.0,107806013.0,M816,Osteoporosis NOS
+Osteopathies and chondropathies,312142015.0,N330z,N330z00,64859006.0,107806013.0,M813,Osteoporosis NOS
+Osteopathies and chondropathies,312142015.0,N330z,N330z00,64859006.0,107806013.0,M803,Osteoporosis NOS
+Osteopathies and chondropathies,312142015.0,N330z,N330z00,64859006.0,107806013.0,M802,Osteoporosis NOS
+Osteopathies and chondropathies,312142015.0,N330z,N330z00,64859006.0,107806013.0,M811 ,Osteoporosis NOS
+Osteopathies and chondropathies,312142015.0,N330z,N330z00,64859006.0,107806013.0,M808 ,Osteoporosis NOS
+Osteopathies and chondropathies,312142015.0,N330z,N330z00,64859006.0,107806013.0,M801 ,Osteoporosis NOS
+Osteopathies and chondropathies,312142015.0,N330z,N330z00,64859006.0,107806013.0,M816 ,Osteoporosis NOS
+Osteopathies and chondropathies,312142015.0,N330z,N330z00,64859006.0,107806013.0,M812 ,Osteoporosis NOS
+Osteopathies and chondropathies,312142015.0,N330z,N330z00,64859006.0,107806013.0,M804 ,Osteoporosis NOS
+Osteopathies and chondropathies,312142015.0,N330z,N330z00,64859006.0,107806013.0,M819 ,Osteoporosis NOS
+Osteopathies and chondropathies,312142015.0,N330z,N330z00,64859006.0,107806013.0,M821,Osteoporosis NOS
+Osteopathies and chondropathies,312142015.0,N330z,N330z00,64859006.0,107806013.0,M820,Osteoporosis NOS
+Osteopathies and chondropathies,312142015.0,N330z,N330z00,64859006.0,107806013.0,M828,Osteoporosis NOS
+Osteopathies and chondropathies,312156018.0,N3312,N331200,203444008.0,312156018.0,M801,Postoophorectomy osteoporosis with pathological fracture
+Osteopathies and chondropathies,312157010.0,N3313,N331300,203445009.0,312157010.0,M802,Osteoporosis of disuse with pathological fracture
+Osteopathies and chondropathies,212441000006112.0,N3314,N331400,203446005.0,312158017.0,M803,Postsurgical malabsorption osteoporosis with path fracture
+Osteopathies and chondropathies,312159013.0,N3315,N331500,203447001.0,312159013.0,M804,Drug-induced osteoporosis with pathological fracture
+Osteopathies and chondropathies,312160015.0,N3316,N331600,203448006.0,312160015.0,M805,Idiopathic osteoporosis with pathological fracture
+Osteopathies and chondropathies,40881000006116.0,N3318,N331800,203450003.0,312162011.0,M803 ,Osteoporosis + pathological fracture lumbar vertebrae
+Osteopathies and chondropathies,40881000006116.0,N3318,N331800,203450003.0,312162011.0,M802 ,Osteoporosis + pathological fracture lumbar vertebrae
+Osteopathies and chondropathies,40881000006116.0,N3318,N331800,203450003.0,312162011.0,M809,Osteoporosis + pathological fracture lumbar vertebrae
+Osteopathies and chondropathies,40881000006116.0,N3318,N331800,203450003.0,312162011.0,M801 ,Osteoporosis + pathological fracture lumbar vertebrae
+Osteopathies and chondropathies,40881000006116.0,N3318,N331800,203450003.0,312162011.0,M485,Osteoporosis + pathological fracture lumbar vertebrae
+Osteopathies and chondropathies,40881000006116.0,N3318,N331800,203450003.0,312162011.0,M809 ,Osteoporosis + pathological fracture lumbar vertebrae
+Osteopathies and chondropathies,40881000006116.0,N3318,N331800,203450003.0,312162011.0,M800,Osteoporosis + pathological fracture lumbar vertebrae
+Osteopathies and chondropathies,40881000006116.0,N3318,N331800,203450003.0,312162011.0,M802,Osteoporosis + pathological fracture lumbar vertebrae
+Osteopathies and chondropathies,40881000006116.0,N3318,N331800,203450003.0,312162011.0,M803,Osteoporosis + pathological fracture lumbar vertebrae
+Osteopathies and chondropathies,40881000006116.0,N3318,N331800,203450003.0,312162011.0,M800 ,Osteoporosis + pathological fracture lumbar vertebrae
+Osteopathies and chondropathies,40881000006116.0,N3318,N331800,203450003.0,312162011.0,M808 ,Osteoporosis + pathological fracture lumbar vertebrae
+Osteopathies and chondropathies,40881000006116.0,N3318,N331800,203450003.0,312162011.0,M805,Osteoporosis + pathological fracture lumbar vertebrae
+Osteopathies and chondropathies,40881000006116.0,N3318,N331800,203450003.0,312162011.0,M805 ,Osteoporosis + pathological fracture lumbar vertebrae
+Osteopathies and chondropathies,40881000006116.0,N3318,N331800,203450003.0,312162011.0,M804 ,Osteoporosis + pathological fracture lumbar vertebrae
+Osteopathies and chondropathies,40881000006116.0,N3318,N331800,203450003.0,312162011.0,M804,Osteoporosis + pathological fracture lumbar vertebrae
+Osteopathies and chondropathies,40881000006116.0,N3318,N331800,203450003.0,312162011.0,M808,Osteoporosis + pathological fracture lumbar vertebrae
+Osteopathies and chondropathies,40881000006116.0,N3318,N331800,203450003.0,312162011.0,M801,Osteoporosis + pathological fracture lumbar vertebrae
+Osteopathies and chondropathies,40891000006118.0,N3319,N331900,203451004.0,312163018.0,M802 ,Osteoporosis + pathological fracture thoracic vertebrae
+Osteopathies and chondropathies,40891000006118.0,N3319,N331900,203451004.0,312163018.0,M809,Osteoporosis + pathological fracture thoracic vertebrae
+Osteopathies and chondropathies,40891000006118.0,N3319,N331900,203451004.0,312163018.0,M802,Osteoporosis + pathological fracture thoracic vertebrae
+Osteopathies and chondropathies,40891000006118.0,N3319,N331900,203451004.0,312163018.0,M805,Osteoporosis + pathological fracture thoracic vertebrae
+Osteopathies and chondropathies,40891000006118.0,N3319,N331900,203451004.0,312163018.0,M808 ,Osteoporosis + pathological fracture thoracic vertebrae
+Osteopathies and chondropathies,40891000006118.0,N3319,N331900,203451004.0,312163018.0,M801,Osteoporosis + pathological fracture thoracic vertebrae
+Osteopathies and chondropathies,40891000006118.0,N3319,N331900,203451004.0,312163018.0,M805 ,Osteoporosis + pathological fracture thoracic vertebrae
+Osteopathies and chondropathies,40891000006118.0,N3319,N331900,203451004.0,312163018.0,M800,Osteoporosis + pathological fracture thoracic vertebrae
+Osteopathies and chondropathies,40891000006118.0,N3319,N331900,203451004.0,312163018.0,M804,Osteoporosis + pathological fracture thoracic vertebrae
+Osteopathies and chondropathies,40891000006118.0,N3319,N331900,203451004.0,312163018.0,M801 ,Osteoporosis + pathological fracture thoracic vertebrae
+Osteopathies and chondropathies,40891000006118.0,N3319,N331900,203451004.0,312163018.0,M803 ,Osteoporosis + pathological fracture thoracic vertebrae
+Osteopathies and chondropathies,40891000006118.0,N3319,N331900,203451004.0,312163018.0,M809 ,Osteoporosis + pathological fracture thoracic vertebrae
+Osteopathies and chondropathies,40891000006118.0,N3319,N331900,203451004.0,312163018.0,M808,Osteoporosis + pathological fracture thoracic vertebrae
+Osteopathies and chondropathies,40891000006118.0,N3319,N331900,203451004.0,312163018.0,M800 ,Osteoporosis + pathological fracture thoracic vertebrae
+Osteopathies and chondropathies,40891000006118.0,N3319,N331900,203451004.0,312163018.0,M485,Osteoporosis + pathological fracture thoracic vertebrae
+Osteopathies and chondropathies,40891000006118.0,N3319,N331900,203451004.0,312163018.0,M804 ,Osteoporosis + pathological fracture thoracic vertebrae
+Osteopathies and chondropathies,40891000006118.0,N3319,N331900,203451004.0,312163018.0,M803,Osteoporosis + pathological fracture thoracic vertebrae
+Osteopathies and chondropathies,40871000006119.0,N331A,N331A00,203452006.0,312164012.0,M805,Osteoporosis + pathological fracture cervical vertebrae
+Osteopathies and chondropathies,40871000006119.0,N331A,N331A00,203452006.0,312164012.0,M803,Osteoporosis + pathological fracture cervical vertebrae
+Osteopathies and chondropathies,40871000006119.0,N331A,N331A00,203452006.0,312164012.0,M809 ,Osteoporosis + pathological fracture cervical vertebrae
+Osteopathies and chondropathies,40871000006119.0,N331A,N331A00,203452006.0,312164012.0,M804,Osteoporosis + pathological fracture cervical vertebrae
+Osteopathies and chondropathies,40871000006119.0,N331A,N331A00,203452006.0,312164012.0,M805 ,Osteoporosis + pathological fracture cervical vertebrae
+Osteopathies and chondropathies,40871000006119.0,N331A,N331A00,203452006.0,312164012.0,M808,Osteoporosis + pathological fracture cervical vertebrae
+Osteopathies and chondropathies,40871000006119.0,N331A,N331A00,203452006.0,312164012.0,M800,Osteoporosis + pathological fracture cervical vertebrae
+Osteopathies and chondropathies,40871000006119.0,N331A,N331A00,203452006.0,312164012.0,M802 ,Osteoporosis + pathological fracture cervical vertebrae
+Osteopathies and chondropathies,40871000006119.0,N331A,N331A00,203452006.0,312164012.0,M801 ,Osteoporosis + pathological fracture cervical vertebrae
+Osteopathies and chondropathies,40871000006119.0,N331A,N331A00,203452006.0,312164012.0,M801,Osteoporosis + pathological fracture cervical vertebrae
+Osteopathies and chondropathies,40871000006119.0,N331A,N331A00,203452006.0,312164012.0,M802,Osteoporosis + pathological fracture cervical vertebrae
+Osteopathies and chondropathies,40871000006119.0,N331A,N331A00,203452006.0,312164012.0,M804 ,Osteoporosis + pathological fracture cervical vertebrae
+Osteopathies and chondropathies,40871000006119.0,N331A,N331A00,203452006.0,312164012.0,M485,Osteoporosis + pathological fracture cervical vertebrae
+Osteopathies and chondropathies,40871000006119.0,N331A,N331A00,203452006.0,312164012.0,M800 ,Osteoporosis + pathological fracture cervical vertebrae
+Osteopathies and chondropathies,40871000006119.0,N331A,N331A00,203452006.0,312164012.0,M808 ,Osteoporosis + pathological fracture cervical vertebrae
+Osteopathies and chondropathies,40871000006119.0,N331A,N331A00,203452006.0,312164012.0,M809,Osteoporosis + pathological fracture cervical vertebrae
+Osteopathies and chondropathies,40871000006119.0,N331A,N331A00,203452006.0,312164012.0,M803 ,Osteoporosis + pathological fracture cervical vertebrae
+Osteopathies and chondropathies,312165013.0,N331B,N331B00,203453001.0,312165013.0,M800,Postmenopausal osteoporosis with pathological fracture
+Osteopathies and chondropathies,455433012.0,N331H,N331H00,311806008.0,455433012.0,M803,Collapse of cervical vertebra due to osteoporosis
+Osteopathies and chondropathies,455433012.0,N331H,N331H00,311806008.0,455433012.0,M801,Collapse of cervical vertebra due to osteoporosis
+Osteopathies and chondropathies,455433012.0,N331H,N331H00,311806008.0,455433012.0,M800,Collapse of cervical vertebra due to osteoporosis
+Osteopathies and chondropathies,455433012.0,N331H,N331H00,311806008.0,455433012.0,M805 ,Collapse of cervical vertebra due to osteoporosis
+Osteopathies and chondropathies,455433012.0,N331H,N331H00,311806008.0,455433012.0,M809,Collapse of cervical vertebra due to osteoporosis
+Osteopathies and chondropathies,455433012.0,N331H,N331H00,311806008.0,455433012.0,M808,Collapse of cervical vertebra due to osteoporosis
+Osteopathies and chondropathies,455433012.0,N331H,N331H00,311806008.0,455433012.0,M804,Collapse of cervical vertebra due to osteoporosis
+Osteopathies and chondropathies,455433012.0,N331H,N331H00,311806008.0,455433012.0,M805,Collapse of cervical vertebra due to osteoporosis
+Osteopathies and chondropathies,455433012.0,N331H,N331H00,311806008.0,455433012.0,M802,Collapse of cervical vertebra due to osteoporosis
+Osteopathies and chondropathies,455433012.0,N331H,N331H00,311806008.0,455433012.0,M800 ,Collapse of cervical vertebra due to osteoporosis
+Osteopathies and chondropathies,455433012.0,N331H,N331H00,311806008.0,455433012.0,M808 ,Collapse of cervical vertebra due to osteoporosis
+Osteopathies and chondropathies,455433012.0,N331H,N331H00,311806008.0,455433012.0,M801 ,Collapse of cervical vertebra due to osteoporosis
+Osteopathies and chondropathies,455433012.0,N331H,N331H00,311806008.0,455433012.0,M804 ,Collapse of cervical vertebra due to osteoporosis
+Osteopathies and chondropathies,455433012.0,N331H,N331H00,311806008.0,455433012.0,M802 ,Collapse of cervical vertebra due to osteoporosis
+Osteopathies and chondropathies,455433012.0,N331H,N331H00,311806008.0,455433012.0,M803 ,Collapse of cervical vertebra due to osteoporosis
+Osteopathies and chondropathies,455433012.0,N331H,N331H00,311806008.0,455433012.0,M809 ,Collapse of cervical vertebra due to osteoporosis
+Osteopathies and chondropathies,455534015.0,N331J,N331J00,311890007.0,455534015.0,M804,Collapse of lumbar vertebra due to osteoporosis
+Osteopathies and chondropathies,455534015.0,N331J,N331J00,311890007.0,455534015.0,M802,Collapse of lumbar vertebra due to osteoporosis
+Osteopathies and chondropathies,455534015.0,N331J,N331J00,311890007.0,455534015.0,M800,Collapse of lumbar vertebra due to osteoporosis
+Osteopathies and chondropathies,455534015.0,N331J,N331J00,311890007.0,455534015.0,M805 ,Collapse of lumbar vertebra due to osteoporosis
+Osteopathies and chondropathies,455534015.0,N331J,N331J00,311890007.0,455534015.0,M809,Collapse of lumbar vertebra due to osteoporosis
+Osteopathies and chondropathies,455534015.0,N331J,N331J00,311890007.0,455534015.0,M804 ,Collapse of lumbar vertebra due to osteoporosis
+Osteopathies and chondropathies,455534015.0,N331J,N331J00,311890007.0,455534015.0,M808,Collapse of lumbar vertebra due to osteoporosis
+Osteopathies and chondropathies,455534015.0,N331J,N331J00,311890007.0,455534015.0,M805,Collapse of lumbar vertebra due to osteoporosis
+Osteopathies and chondropathies,455534015.0,N331J,N331J00,311890007.0,455534015.0,M801,Collapse of lumbar vertebra due to osteoporosis
+Osteopathies and chondropathies,455534015.0,N331J,N331J00,311890007.0,455534015.0,M803 ,Collapse of lumbar vertebra due to osteoporosis
+Osteopathies and chondropathies,455534015.0,N331J,N331J00,311890007.0,455534015.0,M808 ,Collapse of lumbar vertebra due to osteoporosis
+Osteopathies and chondropathies,455534015.0,N331J,N331J00,311890007.0,455534015.0,M800 ,Collapse of lumbar vertebra due to osteoporosis
+Osteopathies and chondropathies,455534015.0,N331J,N331J00,311890007.0,455534015.0,M803,Collapse of lumbar vertebra due to osteoporosis
+Osteopathies and chondropathies,455534015.0,N331J,N331J00,311890007.0,455534015.0,M809 ,Collapse of lumbar vertebra due to osteoporosis
+Osteopathies and chondropathies,455534015.0,N331J,N331J00,311890007.0,455534015.0,M801 ,Collapse of lumbar vertebra due to osteoporosis
+Osteopathies and chondropathies,455534015.0,N331J,N331J00,311890007.0,455534015.0,M802 ,Collapse of lumbar vertebra due to osteoporosis
+Osteopathies and chondropathies,455535019.0,N331K,N331K00,311891006.0,455535019.0,M802,Collapse of thoracic vertebra due to osteoporosis
+Osteopathies and chondropathies,455535019.0,N331K,N331K00,311891006.0,455535019.0,M808 ,Collapse of thoracic vertebra due to osteoporosis
+Osteopathies and chondropathies,455535019.0,N331K,N331K00,311891006.0,455535019.0,M800,Collapse of thoracic vertebra due to osteoporosis
+Osteopathies and chondropathies,455535019.0,N331K,N331K00,311891006.0,455535019.0,M808,Collapse of thoracic vertebra due to osteoporosis
+Osteopathies and chondropathies,455535019.0,N331K,N331K00,311891006.0,455535019.0,M804,Collapse of thoracic vertebra due to osteoporosis
+Osteopathies and chondropathies,455535019.0,N331K,N331K00,311891006.0,455535019.0,M801 ,Collapse of thoracic vertebra due to osteoporosis
+Osteopathies and chondropathies,455535019.0,N331K,N331K00,311891006.0,455535019.0,M805,Collapse of thoracic vertebra due to osteoporosis
+Osteopathies and chondropathies,455535019.0,N331K,N331K00,311891006.0,455535019.0,M801,Collapse of thoracic vertebra due to osteoporosis
+Osteopathies and chondropathies,455535019.0,N331K,N331K00,311891006.0,455535019.0,M800 ,Collapse of thoracic vertebra due to osteoporosis
+Osteopathies and chondropathies,455535019.0,N331K,N331K00,311891006.0,455535019.0,M809,Collapse of thoracic vertebra due to osteoporosis
+Osteopathies and chondropathies,455535019.0,N331K,N331K00,311891006.0,455535019.0,M803,Collapse of thoracic vertebra due to osteoporosis
+Osteopathies and chondropathies,455535019.0,N331K,N331K00,311891006.0,455535019.0,M804 ,Collapse of thoracic vertebra due to osteoporosis
+Osteopathies and chondropathies,455535019.0,N331K,N331K00,311891006.0,455535019.0,M803 ,Collapse of thoracic vertebra due to osteoporosis
+Osteopathies and chondropathies,455535019.0,N331K,N331K00,311891006.0,455535019.0,M802 ,Collapse of thoracic vertebra due to osteoporosis
+Osteopathies and chondropathies,455535019.0,N331K,N331K00,311891006.0,455535019.0,M809 ,Collapse of thoracic vertebra due to osteoporosis
+Osteopathies and chondropathies,455535019.0,N331K,N331K00,311891006.0,455535019.0,M805 ,Collapse of thoracic vertebra due to osteoporosis
+Osteopathies and chondropathies,455536018.0,N331L,N331L00,240198002.0,2920899019.0,M805,Collapse of vertebra due to osteoporosis NOS
+Osteopathies and chondropathies,455536018.0,N331L,N331L00,240198002.0,2920899019.0,M800,Collapse of vertebra due to osteoporosis NOS
+Osteopathies and chondropathies,455536018.0,N331L,N331L00,240198002.0,2920899019.0,M802,Collapse of vertebra due to osteoporosis NOS
+Osteopathies and chondropathies,455536018.0,N331L,N331L00,240198002.0,2920899019.0,M808,Collapse of vertebra due to osteoporosis NOS
+Osteopathies and chondropathies,455536018.0,N331L,N331L00,240198002.0,2920899019.0,M809,Collapse of vertebra due to osteoporosis NOS
+Osteopathies and chondropathies,455536018.0,N331L,N331L00,240198002.0,2920899019.0,M803,Collapse of vertebra due to osteoporosis NOS
+Osteopathies and chondropathies,455536018.0,N331L,N331L00,240198002.0,2920899019.0,M804,Collapse of vertebra due to osteoporosis NOS
+Osteopathies and chondropathies,455536018.0,N331L,N331L00,240198002.0,2920899019.0,M801,Collapse of vertebra due to osteoporosis NOS
+Osteopathies and chondropathies,216206018.0,N331M,N331M00,443165006.0,2837900019.0,M804 ,Fragility fracture due to unspecified osteoporosis
+Osteopathies and chondropathies,216206018.0,N331M,N331M00,443165006.0,2837900019.0,M808,Fragility fracture due to unspecified osteoporosis
+Osteopathies and chondropathies,216206018.0,N331M,N331M00,443165006.0,2837900019.0,M808 ,Fragility fracture due to unspecified osteoporosis
+Osteopathies and chondropathies,216206018.0,N331M,N331M00,443165006.0,2837900019.0,M804,Fragility fracture due to unspecified osteoporosis
+Osteopathies and chondropathies,216206018.0,N331M,N331M00,443165006.0,2837900019.0,M809 ,Fragility fracture due to unspecified osteoporosis
+Osteopathies and chondropathies,216206018.0,N331M,N331M00,443165006.0,2837900019.0,M805 ,Fragility fracture due to unspecified osteoporosis
+Osteopathies and chondropathies,216206018.0,N331M,N331M00,443165006.0,2837900019.0,M800 ,Fragility fracture due to unspecified osteoporosis
+Osteopathies and chondropathies,216206018.0,N331M,N331M00,443165006.0,2837900019.0,M802,Fragility fracture due to unspecified osteoporosis
+Osteopathies and chondropathies,216206018.0,N331M,N331M00,443165006.0,2837900019.0,M809,Fragility fracture due to unspecified osteoporosis
+Osteopathies and chondropathies,216206018.0,N331M,N331M00,443165006.0,2837900019.0,M802 ,Fragility fracture due to unspecified osteoporosis
+Osteopathies and chondropathies,216206018.0,N331M,N331M00,443165006.0,2837900019.0,M805,Fragility fracture due to unspecified osteoporosis
+Osteopathies and chondropathies,216206018.0,N331M,N331M00,443165006.0,2837900019.0,M803 ,Fragility fracture due to unspecified osteoporosis
+Osteopathies and chondropathies,216206018.0,N331M,N331M00,443165006.0,2837900019.0,M803,Fragility fracture due to unspecified osteoporosis
+Osteopathies and chondropathies,216206018.0,N331M,N331M00,443165006.0,2837900019.0,M801 ,Fragility fracture due to unspecified osteoporosis
+Osteopathies and chondropathies,216206018.0,N331M,N331M00,443165006.0,2837900019.0,M800,Fragility fracture due to unspecified osteoporosis
+Osteopathies and chondropathies,216206018.0,N331M,N331M00,443165006.0,2837900019.0,M801,Fragility fracture due to unspecified osteoporosis
+Osteopathies and chondropathies,556881000000111.0,N331M-1,N331M11,443165006.0,2837900019.0,M804 ,Minimal trauma fracture due to unspecified osteoporosis
+Osteopathies and chondropathies,556881000000111.0,N331M-1,N331M11,443165006.0,2837900019.0,M808,Minimal trauma fracture due to unspecified osteoporosis
+Osteopathies and chondropathies,556881000000111.0,N331M-1,N331M11,443165006.0,2837900019.0,M808 ,Minimal trauma fracture due to unspecified osteoporosis
+Osteopathies and chondropathies,556881000000111.0,N331M-1,N331M11,443165006.0,2837900019.0,M804,Minimal trauma fracture due to unspecified osteoporosis
+Osteopathies and chondropathies,556881000000111.0,N331M-1,N331M11,443165006.0,2837900019.0,M809 ,Minimal trauma fracture due to unspecified osteoporosis
+Osteopathies and chondropathies,556881000000111.0,N331M-1,N331M11,443165006.0,2837900019.0,M805 ,Minimal trauma fracture due to unspecified osteoporosis
+Osteopathies and chondropathies,556881000000111.0,N331M-1,N331M11,443165006.0,2837900019.0,M800 ,Minimal trauma fracture due to unspecified osteoporosis
+Osteopathies and chondropathies,556881000000111.0,N331M-1,N331M11,443165006.0,2837900019.0,M802,Minimal trauma fracture due to unspecified osteoporosis
+Osteopathies and chondropathies,556881000000111.0,N331M-1,N331M11,443165006.0,2837900019.0,M809,Minimal trauma fracture due to unspecified osteoporosis
+Osteopathies and chondropathies,556881000000111.0,N331M-1,N331M11,443165006.0,2837900019.0,M802 ,Minimal trauma fracture due to unspecified osteoporosis
+Osteopathies and chondropathies,556881000000111.0,N331M-1,N331M11,443165006.0,2837900019.0,M805,Minimal trauma fracture due to unspecified osteoporosis
+Osteopathies and chondropathies,556881000000111.0,N331M-1,N331M11,443165006.0,2837900019.0,M803 ,Minimal trauma fracture due to unspecified osteoporosis
+Osteopathies and chondropathies,556881000000111.0,N331M-1,N331M11,443165006.0,2837900019.0,M803,Minimal trauma fracture due to unspecified osteoporosis
+Osteopathies and chondropathies,556881000000111.0,N331M-1,N331M11,443165006.0,2837900019.0,M801 ,Minimal trauma fracture due to unspecified osteoporosis
+Osteopathies and chondropathies,556881000000111.0,N331M-1,N331M11,443165006.0,2837900019.0,M800,Minimal trauma fracture due to unspecified osteoporosis
+Osteopathies and chondropathies,556881000000111.0,N331M-1,N331M11,443165006.0,2837900019.0,M801,Minimal trauma fracture due to unspecified osteoporosis
+Osteopathies and chondropathies,312441019.0,N3746,N374600,203657009.0,312441019.0,M402,Osteoporotic kyphosis
+Osteopathies and chondropathies,312681016.0,NyuB0,NyuB000,443165006.0,2837900019.0,M804 ,[X]Other osteoporosis with pathological fracture
+Osteopathies and chondropathies,312681016.0,NyuB0,NyuB000,443165006.0,2837900019.0,M808,[X]Other osteoporosis with pathological fracture
+Osteopathies and chondropathies,312681016.0,NyuB0,NyuB000,443165006.0,2837900019.0,M808 ,[X]Other osteoporosis with pathological fracture
+Osteopathies and chondropathies,312681016.0,NyuB0,NyuB000,443165006.0,2837900019.0,M804,[X]Other osteoporosis with pathological fracture
+Osteopathies and chondropathies,312681016.0,NyuB0,NyuB000,443165006.0,2837900019.0,M809 ,[X]Other osteoporosis with pathological fracture
+Osteopathies and chondropathies,312681016.0,NyuB0,NyuB000,443165006.0,2837900019.0,M805 ,[X]Other osteoporosis with pathological fracture
+Osteopathies and chondropathies,312681016.0,NyuB0,NyuB000,443165006.0,2837900019.0,M800 ,[X]Other osteoporosis with pathological fracture
+Osteopathies and chondropathies,312681016.0,NyuB0,NyuB000,443165006.0,2837900019.0,M802,[X]Other osteoporosis with pathological fracture
+Osteopathies and chondropathies,312681016.0,NyuB0,NyuB000,443165006.0,2837900019.0,M809,[X]Other osteoporosis with pathological fracture
+Osteopathies and chondropathies,312681016.0,NyuB0,NyuB000,443165006.0,2837900019.0,M802 ,[X]Other osteoporosis with pathological fracture
+Osteopathies and chondropathies,312681016.0,NyuB0,NyuB000,443165006.0,2837900019.0,M805,[X]Other osteoporosis with pathological fracture
+Osteopathies and chondropathies,312681016.0,NyuB0,NyuB000,443165006.0,2837900019.0,M803 ,[X]Other osteoporosis with pathological fracture
+Osteopathies and chondropathies,312681016.0,NyuB0,NyuB000,443165006.0,2837900019.0,M803,[X]Other osteoporosis with pathological fracture
+Osteopathies and chondropathies,312681016.0,NyuB0,NyuB000,443165006.0,2837900019.0,M801 ,[X]Other osteoporosis with pathological fracture
+Osteopathies and chondropathies,312681016.0,NyuB0,NyuB000,443165006.0,2837900019.0,M800,[X]Other osteoporosis with pathological fracture
+Osteopathies and chondropathies,312681016.0,NyuB0,NyuB000,443165006.0,2837900019.0,M801,[X]Other osteoporosis with pathological fracture
+Osteopathies and chondropathies,312682011.0,NyuB1,NyuB100,64859006.0,107806013.0,M800,[X]Other osteoporosis
+Osteopathies and chondropathies,312682011.0,NyuB1,NyuB100,64859006.0,107806013.0,M804,[X]Other osteoporosis
+Osteopathies and chondropathies,312682011.0,NyuB1,NyuB100,64859006.0,107806013.0,C900,[X]Other osteoporosis
+Osteopathies and chondropathies,312682011.0,NyuB1,NyuB100,64859006.0,107806013.0,E349,[X]Other osteoporosis
+Osteopathies and chondropathies,312682011.0,NyuB1,NyuB100,64859006.0,107806013.0,M800 ,[X]Other osteoporosis
+Osteopathies and chondropathies,312682011.0,NyuB1,NyuB100,64859006.0,107806013.0,M808,[X]Other osteoporosis
+Osteopathies and chondropathies,312682011.0,NyuB1,NyuB100,64859006.0,107806013.0,M810 ,[X]Other osteoporosis
+Osteopathies and chondropathies,312682011.0,NyuB1,NyuB100,64859006.0,107806013.0,M818,[X]Other osteoporosis
+Osteopathies and chondropathies,312682011.0,NyuB1,NyuB100,64859006.0,107806013.0,M811,[X]Other osteoporosis
+Osteopathies and chondropathies,312682011.0,NyuB1,NyuB100,64859006.0,107806013.0,M805 ,[X]Other osteoporosis
+Osteopathies and chondropathies,312682011.0,NyuB1,NyuB100,64859006.0,107806013.0,M814 ,[X]Other osteoporosis
+Osteopathies and chondropathies,312682011.0,NyuB1,NyuB100,64859006.0,107806013.0,M813 ,[X]Other osteoporosis
+Osteopathies and chondropathies,312682011.0,NyuB1,NyuB100,64859006.0,107806013.0,M814,[X]Other osteoporosis
+Osteopathies and chondropathies,312682011.0,NyuB1,NyuB100,64859006.0,107806013.0,M815,[X]Other osteoporosis
+Osteopathies and chondropathies,312682011.0,NyuB1,NyuB100,64859006.0,107806013.0,M819,[X]Other osteoporosis
+Osteopathies and chondropathies,312682011.0,NyuB1,NyuB100,64859006.0,107806013.0,M802 ,[X]Other osteoporosis
+Osteopathies and chondropathies,312682011.0,NyuB1,NyuB100,64859006.0,107806013.0,M803 ,[X]Other osteoporosis
+Osteopathies and chondropathies,312682011.0,NyuB1,NyuB100,64859006.0,107806013.0,M810,[X]Other osteoporosis
+Osteopathies and chondropathies,312682011.0,NyuB1,NyuB100,64859006.0,107806013.0,M812,[X]Other osteoporosis
+Osteopathies and chondropathies,312682011.0,NyuB1,NyuB100,64859006.0,107806013.0,M809,[X]Other osteoporosis
+Osteopathies and chondropathies,312682011.0,NyuB1,NyuB100,64859006.0,107806013.0,M809 ,[X]Other osteoporosis
+Osteopathies and chondropathies,312682011.0,NyuB1,NyuB100,64859006.0,107806013.0,M818 ,[X]Other osteoporosis
+Osteopathies and chondropathies,312682011.0,NyuB1,NyuB100,64859006.0,107806013.0,M485,[X]Other osteoporosis
+Osteopathies and chondropathies,312682011.0,NyuB1,NyuB100,64859006.0,107806013.0,M805,[X]Other osteoporosis
+Osteopathies and chondropathies,312682011.0,NyuB1,NyuB100,64859006.0,107806013.0,M801,[X]Other osteoporosis
+Osteopathies and chondropathies,312682011.0,NyuB1,NyuB100,64859006.0,107806013.0,M815 ,[X]Other osteoporosis
+Osteopathies and chondropathies,312682011.0,NyuB1,NyuB100,64859006.0,107806013.0,M816,[X]Other osteoporosis
+Osteopathies and chondropathies,312682011.0,NyuB1,NyuB100,64859006.0,107806013.0,M813,[X]Other osteoporosis
+Osteopathies and chondropathies,312682011.0,NyuB1,NyuB100,64859006.0,107806013.0,M803,[X]Other osteoporosis
+Osteopathies and chondropathies,312682011.0,NyuB1,NyuB100,64859006.0,107806013.0,M802,[X]Other osteoporosis
+Osteopathies and chondropathies,312682011.0,NyuB1,NyuB100,64859006.0,107806013.0,M811 ,[X]Other osteoporosis
+Osteopathies and chondropathies,312682011.0,NyuB1,NyuB100,64859006.0,107806013.0,M808 ,[X]Other osteoporosis
+Osteopathies and chondropathies,312682011.0,NyuB1,NyuB100,64859006.0,107806013.0,M801 ,[X]Other osteoporosis
+Osteopathies and chondropathies,312682011.0,NyuB1,NyuB100,64859006.0,107806013.0,M816 ,[X]Other osteoporosis
+Osteopathies and chondropathies,312682011.0,NyuB1,NyuB100,64859006.0,107806013.0,M812 ,[X]Other osteoporosis
+Osteopathies and chondropathies,312682011.0,NyuB1,NyuB100,64859006.0,107806013.0,M804 ,[X]Other osteoporosis
+Osteopathies and chondropathies,312682011.0,NyuB1,NyuB100,64859006.0,107806013.0,M819 ,[X]Other osteoporosis
+Osteopathies and chondropathies,312682011.0,NyuB1,NyuB100,64859006.0,107806013.0,M821,[X]Other osteoporosis
+Osteopathies and chondropathies,312682011.0,NyuB1,NyuB100,64859006.0,107806013.0,M820,[X]Other osteoporosis
+Osteopathies and chondropathies,312682011.0,NyuB1,NyuB100,64859006.0,107806013.0,M828,[X]Other osteoporosis
+Osteopathies and chondropathies,312683018.0,NyuB2,NyuB200,64859006.0,107806013.0,M800,[X]Osteoporosis in other disorders classified elsewhere
+Osteopathies and chondropathies,312683018.0,NyuB2,NyuB200,64859006.0,107806013.0,M804,[X]Osteoporosis in other disorders classified elsewhere
+Osteopathies and chondropathies,312683018.0,NyuB2,NyuB200,64859006.0,107806013.0,C900,[X]Osteoporosis in other disorders classified elsewhere
+Osteopathies and chondropathies,312683018.0,NyuB2,NyuB200,64859006.0,107806013.0,E349,[X]Osteoporosis in other disorders classified elsewhere
+Osteopathies and chondropathies,312683018.0,NyuB2,NyuB200,64859006.0,107806013.0,M800 ,[X]Osteoporosis in other disorders classified elsewhere
+Osteopathies and chondropathies,312683018.0,NyuB2,NyuB200,64859006.0,107806013.0,M808,[X]Osteoporosis in other disorders classified elsewhere
+Osteopathies and chondropathies,312683018.0,NyuB2,NyuB200,64859006.0,107806013.0,M810 ,[X]Osteoporosis in other disorders classified elsewhere
+Osteopathies and chondropathies,312683018.0,NyuB2,NyuB200,64859006.0,107806013.0,M818,[X]Osteoporosis in other disorders classified elsewhere
+Osteopathies and chondropathies,312683018.0,NyuB2,NyuB200,64859006.0,107806013.0,M811,[X]Osteoporosis in other disorders classified elsewhere
+Osteopathies and chondropathies,312683018.0,NyuB2,NyuB200,64859006.0,107806013.0,M805 ,[X]Osteoporosis in other disorders classified elsewhere
+Osteopathies and chondropathies,312683018.0,NyuB2,NyuB200,64859006.0,107806013.0,M814 ,[X]Osteoporosis in other disorders classified elsewhere
+Osteopathies and chondropathies,312683018.0,NyuB2,NyuB200,64859006.0,107806013.0,M813 ,[X]Osteoporosis in other disorders classified elsewhere
+Osteopathies and chondropathies,312683018.0,NyuB2,NyuB200,64859006.0,107806013.0,M814,[X]Osteoporosis in other disorders classified elsewhere
+Osteopathies and chondropathies,312683018.0,NyuB2,NyuB200,64859006.0,107806013.0,M815,[X]Osteoporosis in other disorders classified elsewhere
+Osteopathies and chondropathies,312683018.0,NyuB2,NyuB200,64859006.0,107806013.0,M819,[X]Osteoporosis in other disorders classified elsewhere
+Osteopathies and chondropathies,312683018.0,NyuB2,NyuB200,64859006.0,107806013.0,M802 ,[X]Osteoporosis in other disorders classified elsewhere
+Osteopathies and chondropathies,312683018.0,NyuB2,NyuB200,64859006.0,107806013.0,M803 ,[X]Osteoporosis in other disorders classified elsewhere
+Osteopathies and chondropathies,312683018.0,NyuB2,NyuB200,64859006.0,107806013.0,M810,[X]Osteoporosis in other disorders classified elsewhere
+Osteopathies and chondropathies,312683018.0,NyuB2,NyuB200,64859006.0,107806013.0,M812,[X]Osteoporosis in other disorders classified elsewhere
+Osteopathies and chondropathies,312683018.0,NyuB2,NyuB200,64859006.0,107806013.0,M809,[X]Osteoporosis in other disorders classified elsewhere
+Osteopathies and chondropathies,312683018.0,NyuB2,NyuB200,64859006.0,107806013.0,M809 ,[X]Osteoporosis in other disorders classified elsewhere
+Osteopathies and chondropathies,312683018.0,NyuB2,NyuB200,64859006.0,107806013.0,M818 ,[X]Osteoporosis in other disorders classified elsewhere
+Osteopathies and chondropathies,312683018.0,NyuB2,NyuB200,64859006.0,107806013.0,M485,[X]Osteoporosis in other disorders classified elsewhere
+Osteopathies and chondropathies,312683018.0,NyuB2,NyuB200,64859006.0,107806013.0,M805,[X]Osteoporosis in other disorders classified elsewhere
+Osteopathies and chondropathies,312683018.0,NyuB2,NyuB200,64859006.0,107806013.0,M801,[X]Osteoporosis in other disorders classified elsewhere
+Osteopathies and chondropathies,312683018.0,NyuB2,NyuB200,64859006.0,107806013.0,M815 ,[X]Osteoporosis in other disorders classified elsewhere
+Osteopathies and chondropathies,312683018.0,NyuB2,NyuB200,64859006.0,107806013.0,M816,[X]Osteoporosis in other disorders classified elsewhere
+Osteopathies and chondropathies,312683018.0,NyuB2,NyuB200,64859006.0,107806013.0,M813,[X]Osteoporosis in other disorders classified elsewhere
+Osteopathies and chondropathies,312683018.0,NyuB2,NyuB200,64859006.0,107806013.0,M803,[X]Osteoporosis in other disorders classified elsewhere
+Osteopathies and chondropathies,312683018.0,NyuB2,NyuB200,64859006.0,107806013.0,M802,[X]Osteoporosis in other disorders classified elsewhere
+Osteopathies and chondropathies,312683018.0,NyuB2,NyuB200,64859006.0,107806013.0,M811 ,[X]Osteoporosis in other disorders classified elsewhere
+Osteopathies and chondropathies,312683018.0,NyuB2,NyuB200,64859006.0,107806013.0,M808 ,[X]Osteoporosis in other disorders classified elsewhere
+Osteopathies and chondropathies,312683018.0,NyuB2,NyuB200,64859006.0,107806013.0,M801 ,[X]Osteoporosis in other disorders classified elsewhere
+Osteopathies and chondropathies,312683018.0,NyuB2,NyuB200,64859006.0,107806013.0,M816 ,[X]Osteoporosis in other disorders classified elsewhere
+Osteopathies and chondropathies,312683018.0,NyuB2,NyuB200,64859006.0,107806013.0,M812 ,[X]Osteoporosis in other disorders classified elsewhere
+Osteopathies and chondropathies,312683018.0,NyuB2,NyuB200,64859006.0,107806013.0,M804 ,[X]Osteoporosis in other disorders classified elsewhere
+Osteopathies and chondropathies,312683018.0,NyuB2,NyuB200,64859006.0,107806013.0,M819 ,[X]Osteoporosis in other disorders classified elsewhere
+Osteopathies and chondropathies,312683018.0,NyuB2,NyuB200,64859006.0,107806013.0,M821,[X]Osteoporosis in other disorders classified elsewhere
+Osteopathies and chondropathies,312683018.0,NyuB2,NyuB200,64859006.0,107806013.0,M820,[X]Osteoporosis in other disorders classified elsewhere
+Osteopathies and chondropathies,312683018.0,NyuB2,NyuB200,64859006.0,107806013.0,M828,[X]Osteoporosis in other disorders classified elsewhere
+Osteopathies and chondropathies,312689019.0,NyuB8,NyuB800,443165006.0,2837900019.0,M804 ,[X]Unspecified osteoporosis with pathological fracture
+Osteopathies and chondropathies,312689019.0,NyuB8,NyuB800,443165006.0,2837900019.0,M808,[X]Unspecified osteoporosis with pathological fracture
+Osteopathies and chondropathies,312689019.0,NyuB8,NyuB800,443165006.0,2837900019.0,M808 ,[X]Unspecified osteoporosis with pathological fracture
+Osteopathies and chondropathies,312689019.0,NyuB8,NyuB800,443165006.0,2837900019.0,M804,[X]Unspecified osteoporosis with pathological fracture
+Osteopathies and chondropathies,312689019.0,NyuB8,NyuB800,443165006.0,2837900019.0,M809 ,[X]Unspecified osteoporosis with pathological fracture
+Osteopathies and chondropathies,312689019.0,NyuB8,NyuB800,443165006.0,2837900019.0,M805 ,[X]Unspecified osteoporosis with pathological fracture
+Osteopathies and chondropathies,312689019.0,NyuB8,NyuB800,443165006.0,2837900019.0,M800 ,[X]Unspecified osteoporosis with pathological fracture
+Osteopathies and chondropathies,312689019.0,NyuB8,NyuB800,443165006.0,2837900019.0,M802,[X]Unspecified osteoporosis with pathological fracture
+Osteopathies and chondropathies,312689019.0,NyuB8,NyuB800,443165006.0,2837900019.0,M809,[X]Unspecified osteoporosis with pathological fracture
+Osteopathies and chondropathies,312689019.0,NyuB8,NyuB800,443165006.0,2837900019.0,M802 ,[X]Unspecified osteoporosis with pathological fracture
+Osteopathies and chondropathies,312689019.0,NyuB8,NyuB800,443165006.0,2837900019.0,M805,[X]Unspecified osteoporosis with pathological fracture
+Osteopathies and chondropathies,312689019.0,NyuB8,NyuB800,443165006.0,2837900019.0,M803 ,[X]Unspecified osteoporosis with pathological fracture
+Osteopathies and chondropathies,312689019.0,NyuB8,NyuB800,443165006.0,2837900019.0,M803,[X]Unspecified osteoporosis with pathological fracture
+Osteopathies and chondropathies,312689019.0,NyuB8,NyuB800,443165006.0,2837900019.0,M801 ,[X]Unspecified osteoporosis with pathological fracture
+Osteopathies and chondropathies,312689019.0,NyuB8,NyuB800,443165006.0,2837900019.0,M800,[X]Unspecified osteoporosis with pathological fracture
+Osteopathies and chondropathies,312689019.0,NyuB8,NyuB800,443165006.0,2837900019.0,M801,[X]Unspecified osteoporosis with pathological fracture

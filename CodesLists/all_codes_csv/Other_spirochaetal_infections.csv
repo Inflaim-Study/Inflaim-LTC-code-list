@@ -1,0 +1,51 @@
+Condition,MedCodeId,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,ICD10Code,Term
+Other spirochaetal infections,299288010.0,Fyu00,Fyu0000,95883001.0,158829010.0,A692,[X]Other bacterial meningitis
+Other spirochaetal infections,308710015.0,M15y,M15y.00,86735004.0,143838016.0,A692,Other specified erythematous conditions
+Other spirochaetal infections,308718010.0,M15y4,M15y400,86735004.0,143838016.0,A692,Other exfoliative erythema
+Other spirochaetal infections,309342017.0,Myu44,Myu4400,86735004.0,143838016.0,A692,[X]Erythema in other diseases classified elsewhere
+Other spirochaetal infections,1221485013.0,7059-1,7059.11,38663004.0,64337016.0,A692,Other neurolysis of peripheral nerve
+Other spirochaetal infections,2875141000006113.0,^ESCTST287514,,23502006.0,481637018.0,A692,Steere's disease
+Other spirochaetal infections,3268561000006115.0,^ESCTRE326856,,47534009.0,79241018.0,A692,Retinaculotomy of carpal tunnel
+Other spirochaetal infections,648201000006115.0,AA41,AA41.00,69588003.0,1233178016.0,A692,Erythema chronicum migrans
+Other spirochaetal infections,648431000006110.0,M15,M15..00,86735004.0,143838016.0,A692,Erythematous conditions
+Other spirochaetal infections,2894721000006112.0,^ESCTPE289472,,24723005.0,481995014.0,A692,Peripheral nerve procedure
+Other spirochaetal infections,7733351000006110.0,^ESCTIN773335,,715507005.0,3302869017.0,A692,Infection of central nervous system caused by Borrelia burgdorferi
+Other spirochaetal infections,3631811000006115.0,^ESCTER363181,,69588003.0,115616014.0,A692,Erythema chronica migrans
+Other spirochaetal infections,7771461000006117.0,^ESCTCU777146,,718373005.0,3312536018.0,A692,Cutaneous B-cell pseudolymphoma caused by Borrelia
+Other spirochaetal infections,4063781000006119.0,^ESCTME406378,,95883001.0,3028971018.0,A692,"Meningitis, bacterial"
+Other spirochaetal infections,3631841000006116.0,^ESCTER363184,,69588003.0,3028124013.0,A692,Erythema chronicum migrans skin condition
+Other spirochaetal infections,3162291000006113.0,^ESCTSP316229,,41116009.0,68588014.0,A692,Spirochetal infection
+Other spirochaetal infections,287461014.0,AA4,AA4..00,41116009.0,68588014.0,A692,Other spirochaetal infections
+Other spirochaetal infections,288092019.0,Ayu5,Ayu5.00,41116009.0,68588014.0,A692,[X]Other spirochaetal diseases
+Other spirochaetal infections,287473014.0,AAy,AAy..00,41116009.0,68588014.0,A692,Other specified spirochaetal infections
+Other spirochaetal infections,288101016.0,Ayu56,Ayu5600,41116009.0,68588014.0,A692,[X]Other specified spirochaetal infections
+Other spirochaetal infections,266189018.0,705z,705z.00,24723005.0,41436018.0,A692,Peripheral nerve operations NOS
+Other spirochaetal infections,158829010.0,F00,F00..00,95883001.0,158829010.0,A692,Bacterial meningitis
+Other spirochaetal infections,287393017.0,AA,AA...00,41116009.0,492887012.0,A692,Other spirochaetal diseases
+Other spirochaetal infections,296802015.0,F00yz,F00yz00,95883001.0,158829010.0,A692,Other specified bacterial meningitis NOS
+Other spirochaetal infections,4063771000006117.0,^ESCTBM406377,,95883001.0,1235949016.0,A692,BM - Bacterial meningitis
+Other spirochaetal infections,2875161000006112.0,^ESCTIN287516,,23502006.0,2923214018.0,A692,Infection due to Borrelia burgdorferi sensu lato
+Other spirochaetal infections,39462014.0,A8710,A871000,23502006.0,39462014.0,A692,Lyme disease
+Other spirochaetal infections,129217018.0,A8712,A871200,77863005.0,129217018.0,A692,Lyme carditis
+Other spirochaetal infections,481996010.0,705,705..00,24723005.0,481996010.0,A692,Peripheral nerve operations
+Other spirochaetal infections,485678014.0,N010A,N010A00,33937009.0,485678014.0,A692,Arthritis in Lyme disease
+Other spirochaetal infections,2955528012.0,AA41-1,AA41.11,69588003.0,2955528012.0,A692,Erythema migrans
+Other spirochaetal infections,2390131000000110.0,A8713,A871300,718373005.0,3312055010.0,A692,Borrelial lymphocytoma
+Other spirochaetal infections,287470012.0,AA4z,AA4z.00,41116009.0,492887012.0,A692,Other spirochaetal infection NOS
+Other spirochaetal infections,287474015.0,AAz,AAz..00,41116009.0,492887012.0,A692,Spirochaetal infection NOS
+Other spirochaetal infections,296780015.0,F007,F007.00,95883001.0,158829010.0,A692,Meningitis in other bacterial disease classified elsewhere
+Other spirochaetal infections,296788010.0,F007z,F007z00,95883001.0,158829010.0,A692,Unspecified meningitis in bacterial disease EC
+Other spirochaetal infections,296789019.0,F00y,F00y.00,95883001.0,158829010.0,A692,Other specified bacterial meningitis
+Other spirochaetal infections,1927231000006112.8,A8711,A871100,715507005.0,3302870016.0,A692,Lyme neuroborreliosis
+Other spirochaetal infections,91031000006110.0,70590-1,7059011,171849009.0,266151011.0,A692,Transposition of ulnar nerve
+Other spirochaetal infections,1541151000006113.0,70595,7059500,38663004.0,64337016.0,A692,Neurolysis peripheral nerve transposition peripher nerve NEC
+Other spirochaetal infections,288102011.0,Ayu57,Ayu5700,41116009.0,492887012.0,A692,"[X]Spirochaetal infection, unspecified"
+Other spirochaetal infections,287469011.0,AA4y,AA4y.00,41116009.0,492887012.0,A692,Other specified spirochaetal infection
+Other spirochaetal infections,296803013.0,F00z,F00z.00,95883001.0,158829010.0,A692,Bacterial meningitis NOS
+Other spirochaetal infections,308724016.0,M15z,M15z.00,86735004.0,143838016.0,A692,Erythematous conditions NOS
+Other spirochaetal infections,309341012.0,Myu43,Myu4300,86735004.0,143838016.0,A692,[X]Other specified erythematous conditions
+Other spirochaetal infections,481640018.0,A8710-1,A871011,23502006.0,481640018.0,A692,Lyme borreliosis
+Other spirochaetal infections,56659013.0,N010A-1,N010A11,33937009.0,56659013.0,A692,Lyme arthritis
+Other spirochaetal infections,399921010.0,M15yz,M15yz00,86735004.0,143838016.0,A692,Other erythematous conditions NOS
+Other spirochaetal infections,1221484012.0,7058-1,7058.11,38663004.0,64337016.0,A692,Neurolysis of other trapped periperal nerve
+Other spirochaetal infections,3162301000006114.0,^ESCTSP316230,,41116009.0,68591014.0,A692,Spirochetosis

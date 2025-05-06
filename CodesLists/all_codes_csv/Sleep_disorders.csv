@@ -1,0 +1,13 @@
+Condition,MedCodeId,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,ICD10Code,Term
+Sleep disorders,136581000006114.0,Fy03,Fy03.00,73430006.0,200354014.0,E662,Sleep apnoea
+Sleep disorders,136581000006114.0,Fy03,Fy03.00,73430006.0,200354014.0,G473,Sleep apnoea
+Sleep disorders,136581000006114.0,Fy03,Fy03.00,73430006.0,200354014.0,P283,Sleep apnoea
+Sleep disorders,267911000006119.0,Fy03-1,Fy03.11,78275009.0,2966563014.0,G473,Obstructive sleep apnoea
+Sleep disorders,200354014.0,H5B,H5B..00,73430006.0,200354014.0,E662,Sleep apnoea
+Sleep disorders,200354014.0,H5B,H5B..00,73430006.0,200354014.0,G473,Sleep apnoea
+Sleep disorders,200354014.0,H5B,H5B..00,73430006.0,200354014.0,P283,Sleep apnoea
+Sleep disorders,219501000000111.0,H5B0,H5B0.00,78275009.0,2966563014.0,G473,Obstructive sleep apnoea
+Sleep disorders,317034011.0,R0051,R005100,41975002.0,197601019.0,G473,[D]Insomnia with sleep apnoea
+Sleep disorders,317034011.0,R0051,R005100,41975002.0,197601019.0,G470,[D]Insomnia with sleep apnoea
+Sleep disorders,405691012.0,R0053,R005300,79280005.0,200785019.0,G471,[D]Hypersomnia with sleep apnoea
+Sleep disorders,405691012.0,R0053,R005300,79280005.0,200785019.0,G473,[D]Hypersomnia with sleep apnoea

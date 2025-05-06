@@ -1,0 +1,78 @@
+Condition,MedCodeId,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,ICD10Code,Term
+Endometriosis,3545641000006112.0,^ESCTEN354564,,64286001.0,106864016.0,N803,Endometriosis of the pouch of Douglas
+Endometriosis,3742411000006118.5,^ESCTIN374241,,76376003.0,126837014.0,N800,Internal endometriosis
+Endometriosis,1784724014.0,K50,K50..00,129103003.0,1784724014.0,N800,Endometriosis
+Endometriosis,1784724014.0,K50,K50..00,129103003.0,1784724014.0,N809,Endometriosis
+Endometriosis,1784724014.0,K50,K50..00,129103003.0,1784724014.0,N804,Endometriosis
+Endometriosis,1784724014.0,K50,K50..00,129103003.0,1784724014.0,N808,Endometriosis
+Endometriosis,1784724014.0,K50,K50..00,129103003.0,1784724014.0,N806,Endometriosis
+Endometriosis,1784724014.0,K50,K50..00,129103003.0,1784724014.0,N805,Endometriosis
+Endometriosis,1784724014.0,K50,K50..00,129103003.0,1784724014.0,N802,Endometriosis
+Endometriosis,1784724014.0,K50,K50..00,129103003.0,1784724014.0,N803,Endometriosis
+Endometriosis,1784724014.0,K50,K50..00,129103003.0,1784724014.0,N801,Endometriosis
+Endometriosis,126839012.0,K50-1,K50..11,76376003.0,126839012.0,N800,Adenomyosis
+Endometriosis,126835018.0,K500,K500.00,76376003.0,126835018.0,N800,Endometriosis of uterus
+Endometriosis,770611000006110.0,K5000,K500000,198247003.0,304789015.0,N800,Internal endometriosis
+Endometriosis,355411011.0,K5001,K500100,237115002.0,355411011.0,N800,Endometriosis of myometrium
+Endometriosis,461191000006115.0,K5001-1,K500111,237115002.0,355411011.0,N800,Adenomyosis of endometrium
+Endometriosis,102424012.0,K5002,K500200,61640006.0,102424012.0,N808,Endometriosis of cervix
+Endometriosis,304791011.0,K500z,K500z00,76376003.0,126835018.0,N800,Endometriosis of uterus NOS
+Endometriosis,396767017.0,K501,K501.00,266589005.0,396767017.0,N801,Endometriosis of ovary
+Endometriosis,355412016.0,K501-1,K501.11,237116001.0,355412016.0,N801,Chocolate cyst of ovary
+Endometriosis,642691000006110.0,K502,K502.00,22611009.0,37950010.0,N802,Endometriosis of the fallopian tube
+Endometriosis,642741000006112.0,K503,K503.00,198251001.0,304795019.0,N803,Endometriosis of the pelvic peritoneum
+Endometriosis,642671000006114.0,K5030,K503000,10535001.0,18314019.0,N803,Endometriosis of the broad ligament
+Endometriosis,106864016.0,K5031,K503100,64286001.0,1232545013.0,N803,Endometriosis of the pouch of Douglas
+Endometriosis,642731000006119.0,K5032,K503200,84305006.0,139827010.0,N803,Endometriosis of the parametrium
+Endometriosis,642811000006116.0,K5033,K503300,5327000.0,9929018.0,N803,Endometriosis of the round ligament
+Endometriosis,304796018.0,K503z,K503z00,198251001.0,304795019.0,N803,Endometriosis of the pelvic peritoneum NOS
+Endometriosis,642781000006118.0,K504,K504.00,52533003.0,87425018.0,N804,Endometriosis of the rectovaginal septum and vagina
+Endometriosis,642771000006116.0,K5040,K504000,52533003.0,87425018.0,N804,Endometriosis of the rectovaginal septum
+Endometriosis,642831000006110.0,K5041,K504100,57493005.0,95606014.0,N804,Endometriosis of the vagina
+Endometriosis,304798017.0,K504z,K504z00,52533003.0,87425018.0,N804,Endometriosis of the rectovaginal septum and vagina NOS
+Endometriosis,642701000006110.0,K505,K505.00,5562006.0,10284014.0,N805,Endometriosis of the intestine
+Endometriosis,642651000006116.0,K5050,K505000,8421002.0,14907015.0,N805,Endometriosis of the appendix
+Endometriosis,642681000006112.0,K5051,K505100,44601009.0,74408017.0,N805,Endometriosis of the colon
+Endometriosis,642801000006119.0,K5052,K505200,9563009.0,16732013.0,N805,Endometriosis of the rectum
+Endometriosis,304799013.0,K505z,K505z00,5562006.0,10284014.0,N805,Endometriosis of the intestine NOS
+Endometriosis,89618011.0,K506,K506.00,53913001.0,89618011.0,N806,Endometriosis in scar of skin
+Endometriosis,304801011.0,K50y,K50y.00,129103003.0,1784724014.0,N800,Other endometriosis
+Endometriosis,304801011.0,K50y,K50y.00,129103003.0,1784724014.0,N809,Other endometriosis
+Endometriosis,304801011.0,K50y,K50y.00,129103003.0,1784724014.0,N804,Other endometriosis
+Endometriosis,304801011.0,K50y,K50y.00,129103003.0,1784724014.0,N808,Other endometriosis
+Endometriosis,304801011.0,K50y,K50y.00,129103003.0,1784724014.0,N806,Other endometriosis
+Endometriosis,304801011.0,K50y,K50y.00,129103003.0,1784724014.0,N805,Other endometriosis
+Endometriosis,304801011.0,K50y,K50y.00,129103003.0,1784724014.0,N802,Other endometriosis
+Endometriosis,304801011.0,K50y,K50y.00,129103003.0,1784724014.0,N803,Other endometriosis
+Endometriosis,304801011.0,K50y,K50y.00,129103003.0,1784724014.0,N801,Other endometriosis
+Endometriosis,642661000006119.0,K50y0,K50y000,65099004.0,108185013.0,N808,Endometriosis of the bladder
+Endometriosis,642721000006117.0,K50y1,K50y100,50993001.0,84979012.0,N808,Endometriosis of the lung
+Endometriosis,642821000006112.0,K50y2,K50y200,17829005.0,30125011.0,N808,Endometriosis of the umbilicus
+Endometriosis,642841000006117.0,K50y3,K50y300,38780008.0,64543018.0,N808,Endometriosis of the vulva
+Endometriosis,304802016.0,K50yz,K50yz00,129103003.0,1784724014.0,N800,Other endometriosis NOS
+Endometriosis,304802016.0,K50yz,K50yz00,129103003.0,1784724014.0,N809,Other endometriosis NOS
+Endometriosis,304802016.0,K50yz,K50yz00,129103003.0,1784724014.0,N804,Other endometriosis NOS
+Endometriosis,304802016.0,K50yz,K50yz00,129103003.0,1784724014.0,N808,Other endometriosis NOS
+Endometriosis,304802016.0,K50yz,K50yz00,129103003.0,1784724014.0,N806,Other endometriosis NOS
+Endometriosis,304802016.0,K50yz,K50yz00,129103003.0,1784724014.0,N805,Other endometriosis NOS
+Endometriosis,304802016.0,K50yz,K50yz00,129103003.0,1784724014.0,N802,Other endometriosis NOS
+Endometriosis,304802016.0,K50yz,K50yz00,129103003.0,1784724014.0,N803,Other endometriosis NOS
+Endometriosis,304802016.0,K50yz,K50yz00,129103003.0,1784724014.0,N801,Other endometriosis NOS
+Endometriosis,304803014.0,K50z,K50z.00,129103003.0,1784724014.0,N800,Endometriosis NOS
+Endometriosis,304803014.0,K50z,K50z.00,129103003.0,1784724014.0,N809,Endometriosis NOS
+Endometriosis,304803014.0,K50z,K50z.00,129103003.0,1784724014.0,N804,Endometriosis NOS
+Endometriosis,304803014.0,K50z,K50z.00,129103003.0,1784724014.0,N808,Endometriosis NOS
+Endometriosis,304803014.0,K50z,K50z.00,129103003.0,1784724014.0,N806,Endometriosis NOS
+Endometriosis,304803014.0,K50z,K50z.00,129103003.0,1784724014.0,N805,Endometriosis NOS
+Endometriosis,304803014.0,K50z,K50z.00,129103003.0,1784724014.0,N802,Endometriosis NOS
+Endometriosis,304803014.0,K50z,K50z.00,129103003.0,1784724014.0,N803,Endometriosis NOS
+Endometriosis,304803014.0,K50z,K50z.00,129103003.0,1784724014.0,N801,Endometriosis NOS
+Endometriosis,305247015.0,Kyu90,Kyu9000,129103003.0,1784724014.0,N800,[X]Other endometriosis
+Endometriosis,305247015.0,Kyu90,Kyu9000,129103003.0,1784724014.0,N809,[X]Other endometriosis
+Endometriosis,305247015.0,Kyu90,Kyu9000,129103003.0,1784724014.0,N804,[X]Other endometriosis
+Endometriosis,305247015.0,Kyu90,Kyu9000,129103003.0,1784724014.0,N808,[X]Other endometriosis
+Endometriosis,305247015.0,Kyu90,Kyu9000,129103003.0,1784724014.0,N806,[X]Other endometriosis
+Endometriosis,305247015.0,Kyu90,Kyu9000,129103003.0,1784724014.0,N805,[X]Other endometriosis
+Endometriosis,305247015.0,Kyu90,Kyu9000,129103003.0,1784724014.0,N802,[X]Other endometriosis
+Endometriosis,305247015.0,Kyu90,Kyu9000,129103003.0,1784724014.0,N803,[X]Other endometriosis
+Endometriosis,305247015.0,Kyu90,Kyu9000,129103003.0,1784724014.0,N801,[X]Other endometriosis

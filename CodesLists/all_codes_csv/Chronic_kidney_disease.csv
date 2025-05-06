@@ -1,0 +1,346 @@
+Condition,MedCodeId,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,ICD10Code,Term
+Chronic kidney disease,8104231000006115.0,^ESCTCK810423,,324251000000105.0,1676871000000115.0,N183,CKD (chronic kidney disease) stage 3 with proteinuria
+Chronic kidney disease,8104261000006112.0,^ESCTCK810426,,324281000000104.0,1676861000000110.0,N183,CKD (chronic kidney disease) stage 3 without proteinuria
+Chronic kidney disease,8104301000006115.0,^ESCTCK810430,,324311000000101.0,1692921000000118.0,N183,CKD (chronic kidney disease) stage 3A with proteinuria
+Chronic kidney disease,8104351000006115.0,^ESCTCK810435,,324341000000100.0,1692931000000116.0,N183,CKD (chronic kidney disease) stage 3A without proteinuria
+Chronic kidney disease,8104381000006112.0,^ESCTCK810438,,324371000000106.0,1692941000000113.0,N183,CKD (chronic kidney disease) stage 3B with proteinuria
+Chronic kidney disease,8104411000006110.0,^ESCTCK810441,,324411000000105.0,1692951000000111.0,N183,CKD (chronic kidney disease) stage 3B without proteinuria
+Chronic kidney disease,8104451000006110.0,^ESCTCK810445,,324441000000106.0,1693001000000116.0,N184,CKD (chronic kidney disease) stage 4 with proteinuria
+Chronic kidney disease,8104481000006115.0,^ESCTCK810448,,324471000000100.0,1693051000000115.0,N184,CKD (chronic kidney disease) stage 4 without proteinuria
+Chronic kidney disease,8104511000006110.0,^ESCTCK810451,,324501000000107.0,1693061000000117.0,N185,CKD (chronic kidney disease) stage 5 with proteinuria
+Chronic kidney disease,8104551000006112.0,^ESCTCK810455,,324541000000105.0,1692911000000112.0,N185,CKD (chronic kidney disease) stage 5 without proteinuria
+Chronic kidney disease,7174791000006111.0,^ESCTCK717479,,433144002.0,2873059015.0,N183,CKD stage 3
+Chronic kidney disease,618431000000114.0,1Z1B-1,1Z1B.11,324251000000105.0,618431000000114.0,N183,CKD stage 3 with proteinuria
+Chronic kidney disease,618441000000117.0,1Z1C-1,1Z1C.11,324281000000104.0,618441000000117.0,N183,CKD stage 3 without proteinuria
+Chronic kidney disease,618451000000119.0,1Z1D-1,1Z1D.11,324311000000101.0,618451000000119.0,N183,CKD stage 3A with proteinuria
+Chronic kidney disease,618461000000116.0,1Z1E-1,1Z1E.11,324341000000100.0,618461000000116.0,N183,CKD stage 3A without proteinuria
+Chronic kidney disease,618471000000111.0,1Z1F-1,1Z1F.11,324371000000106.0,618471000000111.0,N183,CKD stage 3B with proteinuria
+Chronic kidney disease,618481000000113.0,1Z1G-1,1Z1G.11,324411000000105.0,618481000000113.0,N183,CKD stage 3B without proteinuria
+Chronic kidney disease,7147781000006115.0,^ESCTCK714778,,431857002.0,2872614018.0,N184,CKD stage 4
+Chronic kidney disease,618491000000110.0,1Z1H-1,1Z1H.11,324441000000106.0,618491000000110.0,N184,CKD stage 4 with proteinuria
+Chronic kidney disease,618501000000116.0,1Z1J-1,1Z1J.11,324471000000100.0,618501000000116.0,N184,CKD stage 4 without proteinuria
+Chronic kidney disease,7174851000006111.0,^ESCTCK717485,,433146000.0,2870834012.0,N185,CKD stage 5
+Chronic kidney disease,618511000000119.0,1Z1K-1,1Z1K.11,324501000000107.0,618511000000119.0,N185,CKD stage 5 with proteinuria
+Chronic kidney disease,1940621000006111.2,1Z1T,1Z1T.00,949881000000106.0,2427381000000110.0,N183,CKD with GFR category G3a & albuminuria category A1
+Chronic kidney disease,1940631000006114.0,1Z1V,1Z1V.00,949901000000109.0,2427401000000110.0,N183,CKD with GFR category G3a & albuminuria category A2
+Chronic kidney disease,1940641000006116.0,1Z1W,1Z1W.00,949921000000100.0,2427451000000111.0,N183,CKD with GFR category G3a & albuminuria category A3
+Chronic kidney disease,1940651000006119.2,1Z1X,1Z1X.00,950061000000103.0,2427751000000117.0,N183,CKD with GFR category G3b & albuminuria category A1
+Chronic kidney disease,1940661000006116.8,1Z1Y,1Z1Y.00,950081000000107.0,2427801000000112.0,N183,CKD with GFR category G3b & albuminuria category A2
+Chronic kidney disease,1940671000006112.0,1Z1Z,1Z1Z.00,950101000000101.0,2427851000000113.0,N183,CKD with GFR category G3b & albuminuria category A3
+Chronic kidney disease,1940501000006119.2,1Z1a,1Z1a.00,950181000000106.0,2428021000000111.0,N184,CKD with GFR category G4 & albuminuria category A1
+Chronic kidney disease,1940511000006116.0,1Z1b,1Z1b.00,950211000000107.0,2428091000000114.0,N184,CKD with GFR category G4 & albuminuria category A2
+Chronic kidney disease,1940521000006112.0,1Z1c,1Z1c.00,950231000000104.0,2428141000000115.0,N184,CKD with GFR category G4 & albuminuria category A3
+Chronic kidney disease,1940531000006110.0,1Z1d,1Z1d.00,950251000000106.0,2428191000000113.0,N185,CKD with GFR category G5 & albuminuria category A1
+Chronic kidney disease,1940541000006116.8,1Z1e,1Z1e.00,950291000000103.0,2428281000000117.0,N185,CKD with GFR category G5 & albuminuria category A2
+Chronic kidney disease,1940551000006115.2,1Z1f,1Z1f.00,950311000000102.0,2428331000000110.0,N185,CKD with GFR category G5 & albuminuria category A3
+Chronic kidney disease,2773184015.0,K053,K053.00,433144002.0,2773184015.0,N183,Chronic kidney disease stage 3
+Chronic kidney disease,304071000000115.0,1Z12,1Z12.00,433144002.0,2773184015.0,N183,Chronic kidney disease stage 3
+Chronic kidney disease,595811000000117.0,1Z1B,1Z1B.00,324251000000105.0,595811000000117.0,N183,Chronic kidney disease stage 3 with proteinuria
+Chronic kidney disease,595871000000110.0,1Z1C,1Z1C.00,324281000000104.0,595871000000110.0,N183,Chronic kidney disease stage 3 without proteinuria
+Chronic kidney disease,557811000000119.0,1Z15,1Z15.00,700378005.0,2990386017.0,N183,Chronic kidney disease stage 3A
+Chronic kidney disease,595931000000116.0,1Z1D,1Z1D.00,324311000000101.0,595931000000116.0,N183,Chronic kidney disease stage 3A with proteinuria
+Chronic kidney disease,595991000000115.0,1Z1E,1Z1E.00,324341000000100.0,595991000000115.0,N183,Chronic kidney disease stage 3A without proteinuria
+Chronic kidney disease,557831000000110.0,1Z16,1Z16.00,700379002.0,2990361014.0,N183,Chronic kidney disease stage 3B
+Chronic kidney disease,596051000000115.0,1Z1F,1Z1F.00,324371000000106.0,596051000000115.0,N183,Chronic kidney disease stage 3B with proteinuria
+Chronic kidney disease,596131000000114.0,1Z1G,1Z1G.00,324411000000105.0,596131000000114.0,N183,Chronic kidney disease stage 3B without proteinuria
+Chronic kidney disease,2767385013.0,K054,K054.00,431857002.0,2767385013.0,N184,Chronic kidney disease stage 4
+Chronic kidney disease,304091000000116.0,1Z13,1Z13.00,431857002.0,2767385013.0,N184,Chronic kidney disease stage 4
+Chronic kidney disease,596191000000110.0,1Z1H,1Z1H.00,324441000000106.0,596191000000110.0,N184,Chronic kidney disease stage 4 with proteinuria
+Chronic kidney disease,596261000000111.0,1Z1J,1Z1J.00,324471000000100.0,596261000000111.0,N184,Chronic kidney disease stage 4 without proteinuria
+Chronic kidney disease,8345881000006115.0,^ESCTCH834588,,949881000000106.0,2427351000000116.0,N183,Chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A1
+Chronic kidney disease,8345901000006118.0,^ESCTCH834590,,949901000000109.0,2427431000000116.0,N183,Chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A2
+Chronic kidney disease,8345931000006110.0,^ESCTCH834593,,949921000000100.0,2427481000000117.0,N183,Chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A3
+Chronic kidney disease,8346001000006110.0,^ESCTCH834600,,950061000000103.0,2427781000000111.0,N183,Chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A1
+Chronic kidney disease,8346021000006117.0,^ESCTCH834602,,950081000000107.0,2427831000000118.0,N183,Chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A2
+Chronic kidney disease,8346041000006112.0,^ESCTCH834604,,950101000000101.0,2427881000000119.0,N183,Chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A3
+Chronic kidney disease,8346101000006114.0,^ESCTCH834610,,950181000000106.0,2428071000000110.0,N184,Chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A1
+Chronic kidney disease,8346121000006115.0,^ESCTCH834612,,950211000000107.0,2428121000000110.0,N184,Chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A2
+Chronic kidney disease,8346151000006114.0,^ESCTCH834615,,950231000000104.0,2428171000000114.0,N184,Chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A3
+Chronic kidney disease,8346171000006115.0,^ESCTCH834617,,950251000000106.0,2428261000000114.0,N185,Chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A1
+Chronic kidney disease,8346201000006115.0,^ESCTCH834620,,950291000000103.0,2428311000000119.0,N185,Chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A2
+Chronic kidney disease,8346221000006114.0,^ESCTCH834622,,950311000000102.0,2428361000000117.0,N185,Chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A3
+Chronic kidney disease,3528309015.0,^ESCT1167847,,737562008.0,3528309015.0,Q614,MCKD - Multicystic kidney disease
+Chronic kidney disease,117168016.0,7B00-98,7B00.98,70536003.0,117168016.0,M012,Renal transplant
+Chronic kidney disease,117168016.0,7B00-98,7B00.98,70536003.0,117168016.0,M011,Renal transplant
+Chronic kidney disease,117168016.0,7B00-98,7B00.98,70536003.0,117168016.0,M018,Renal transplant
+Chronic kidney disease,117168016.0,7B00-98,7B00.98,70536003.0,117168016.0,M013,Renal transplant
+Chronic kidney disease,117168016.0,7B00-98,7B00.98,70536003.0,117168016.0,M015,Renal transplant
+Chronic kidney disease,117168016.0,7B00-98,7B00.98,70536003.0,117168016.0,M014,Renal transplant
+Chronic kidney disease,117168016.0,7B00-98,7B00.98,70536003.0,117168016.0,M019,Renal transplant
+Chronic kidney disease,1.2456601000006116e+16,^ESCT1245660,,410511000000103.0,968901000000114.0,Z491,[V]Aftercare involving extracorporeal dialysis
+Chronic kidney disease,1.2456611000006118e+16,^ESCT1245661,,398471000000102.0,895461000000116.0,Z492,[V]Aftercare involving intermittent dialysis
+Chronic kidney disease,1.2456621000006114e+16,^ESCT1245662,,426351000000102.0,955921000000117.0,Z492,[V]Aftercare involving peritoneal dialysis
+Chronic kidney disease,1.2456631000006112e+16,^ESCT1245663,,410511000000103.0,936221000000115.0,Z491,[V]Aftercare involving renal dialysis NOS
+Chronic kidney disease,1.2459361000006116e+16,^ESCT1245936,,426351000000102.0,915931000000110.0,Z492,[V]Other specified aftercare involving intermittent dialysis
+Chronic kidney disease,1.2461771000006116e+16,^ESCT1246177,,426361000000104.0,960061000000112.0,Z492,[V]Unspecified aftercare involving intermittent dialysis
+Chronic kidney disease,2767154014.0,K055,K055.00,433146000.0,2767154014.0,N185,Chronic kidney disease stage 5
+Chronic kidney disease,1.1924551000006114e+16,^ESCT1192455,,46177005.0,1.1924551000006114e+16,N185,End-stage renal disease
+Chronic kidney disease,1.2704471000006116e+16,^ESCT1270447,,46177005.0,3517959016.0,N185,End-stage renal disease
+Chronic kidney disease,304111000000114.0,1Z14,1Z14.00,433146000.0,2767154014.0,N185,Chronic kidney disease stage 5
+Chronic kidney disease,596321000000110.0,1Z1K,1Z1K.00,324501000000107.0,596321000000110.0,N185,Chronic kidney disease stage 5 with proteinuria
+Chronic kidney disease,596401000000111.0,1Z1L,1Z1L.00,324541000000105.0,596401000000111.0,N185,Chronic kidney disease stage 5 without proteinuria
+Chronic kidney disease,618521000000113.0,1Z1L-1,1Z1L.11,324541000000105.0,618521000000113.0,N185,CKD stage 5 without proteinuria
+Chronic kidney disease,501594013.0,7B00,7B00.00,70536003.0,501594013.0,M012,Transplantation of kidney
+Chronic kidney disease,501594013.0,7B00,7B00.00,70536003.0,501594013.0,M011,Transplantation of kidney
+Chronic kidney disease,501594013.0,7B00,7B00.00,70536003.0,501594013.0,M018,Transplantation of kidney
+Chronic kidney disease,501594013.0,7B00,7B00.00,70536003.0,501594013.0,M013,Transplantation of kidney
+Chronic kidney disease,501594013.0,7B00,7B00.00,70536003.0,501594013.0,M015,Transplantation of kidney
+Chronic kidney disease,501594013.0,7B00,7B00.00,70536003.0,501594013.0,M014,Transplantation of kidney
+Chronic kidney disease,501594013.0,7B00,7B00.00,70536003.0,501594013.0,M019,Transplantation of kidney
+Chronic kidney disease,90471000006113.0,7B001,7B00100,175901007.0,272318013.0,M012,Transplantation of kidney from live donor
+Chronic kidney disease,272320011.0,7B001-1,7B00111,175901007.0,272320011.0,M012,Allotransplantation of kidney from live donor
+Chronic kidney disease,90461000006118.0,7B002,7B00200,175902000.0,272325018.0,M013,Transplantation of kidney from cadaver
+Chronic kidney disease,478131000006115.0,7B002-1,7B00211,175902000.0,272325018.0,M013,Allotransplantation of kidney from cadaver
+Chronic kidney disease,272325018.0,7B002-2,7B00212,175902000.0,272325018.0,M013,Cadaveric renal transplant
+Chronic kidney disease,372621000000114.0,7B003,7B00300,711411006.0,3078356013.0,M014,"Allotransplantation of kidney from cadaver, heart-beating"
+Chronic kidney disease,1549841000006116.0,7B004,7B00400,711413009.0,3078484016.0,M015,"Allotransplantation kidney from cadaver, heart non-beating"
+Chronic kidney disease,399381000000115.0,7B005,7B00500,175902000.0,272323013.0,M013,Allotransplantation of kidney from cadaver NEC
+Chronic kidney disease,272326017.0,7B00y,7B00y00,70536003.0,117163013.0,M012,Other specified transplantation of kidney
+Chronic kidney disease,272326017.0,7B00y,7B00y00,70536003.0,117163013.0,M011,Other specified transplantation of kidney
+Chronic kidney disease,272326017.0,7B00y,7B00y00,70536003.0,117163013.0,M018,Other specified transplantation of kidney
+Chronic kidney disease,272326017.0,7B00y,7B00y00,70536003.0,117163013.0,M013,Other specified transplantation of kidney
+Chronic kidney disease,272326017.0,7B00y,7B00y00,70536003.0,117163013.0,M015,Other specified transplantation of kidney
+Chronic kidney disease,272326017.0,7B00y,7B00y00,70536003.0,117163013.0,M014,Other specified transplantation of kidney
+Chronic kidney disease,272326017.0,7B00y,7B00y00,70536003.0,117163013.0,M019,Other specified transplantation of kidney
+Chronic kidney disease,272327014.0,7B00z,7B00z00,70536003.0,501594013.0,M012,Transplantation of kidney NOS
+Chronic kidney disease,272327014.0,7B00z,7B00z00,70536003.0,501594013.0,M011,Transplantation of kidney NOS
+Chronic kidney disease,272327014.0,7B00z,7B00z00,70536003.0,501594013.0,M018,Transplantation of kidney NOS
+Chronic kidney disease,272327014.0,7B00z,7B00z00,70536003.0,501594013.0,M013,Transplantation of kidney NOS
+Chronic kidney disease,272327014.0,7B00z,7B00z00,70536003.0,501594013.0,M015,Transplantation of kidney NOS
+Chronic kidney disease,272327014.0,7B00z,7B00z00,70536003.0,501594013.0,M014,Transplantation of kidney NOS
+Chronic kidney disease,272327014.0,7B00z,7B00z00,70536003.0,501594013.0,M019,Transplantation of kidney NOS
+Chronic kidney disease,272389014.0,7B063,7B06300,175948009.0,272389014.0,M084,Exploration of renal transplant
+Chronic kidney disease,366671000000118.0,7B0F,7B0F.00,711446003.0,3078450015.0,M179,Interventions associated with transplantation of kidney
+Chronic kidney disease,366671000000118.0,7B0F,7B0F.00,711446003.0,3078450015.0,M178,Interventions associated with transplantation of kidney
+Chronic kidney disease,380101000000116.0,7B0F3,7B0F300,428645009.0,2693113012.0,M174,"Post-transplantation of kidney examination, recipient"
+Chronic kidney disease,1550021000006110.0,7B0Fy,7B0Fy00,711446003.0,3078450015.0,M179,OS interventions associated with transplantation of kidney
+Chronic kidney disease,1550021000006110.0,7B0Fy,7B0Fy00,711446003.0,3078450015.0,M178,OS interventions associated with transplantation of kidney
+Chronic kidney disease,380061000000118.0,7B0Fz,7B0Fz00,711446003.0,3078450015.0,M179,Interventions associated with transplantation of kidney NOS
+Chronic kidney disease,380061000000118.0,7B0Fz,7B0Fz00,711446003.0,3078450015.0,M178,Interventions associated with transplantation of kidney NOS
+Chronic kidney disease,619541000006116.0,7L1A-1,7L1A.11,265764009.0,394640016.0,X401,Dialysis for renal failure
+Chronic kidney disease,394640016.0,7L1A0,7L1A000,265764009.0,394640016.0,X401,Renal dialysis
+Chronic kidney disease,106291000006118.0,7L1A0-1,7L1A011,302497006.0,444203017.0,X403,Thomas intravascular shunt for dialysis
+Chronic kidney disease,118218017.0,7L1A1,7L1A100,71192002.0,118218017.0,X421,Peritoneal dialysis
+Chronic kidney disease,118218017.0,7L1A1,7L1A100,71192002.0,118218017.0,X405,Peritoneal dialysis
+Chronic kidney disease,118218017.0,7L1A1,7L1A100,71192002.0,118218017.0,X406,Peritoneal dialysis
+Chronic kidney disease,118218017.0,7L1A1,7L1A100,71192002.0,118218017.0,X411,Peritoneal dialysis
+Chronic kidney disease,118218017.0,7L1A1,7L1A100,71192002.0,118218017.0,X402,Peritoneal dialysis
+Chronic kidney disease,278832011.0,7L1A2,7L1A200,302497006.0,444203017.0,X403,Haemodialysis NEC
+Chronic kidney disease,2692168016.0,7L1A4,7L1A400,428648006.0,2692168016.0,X405,Automated peritoneal dialysis
+Chronic kidney disease,357219012.0,7L1A5,7L1A500,238318009.0,357219012.0,X406,Continuous ambulatory peritoneal dialysis
+Chronic kidney disease,375841000000114.0,7L1A6,7L1A600,71192002.0,118218017.0,X421,Peritoneal dialysis NEC
+Chronic kidney disease,375841000000114.0,7L1A6,7L1A600,71192002.0,118218017.0,X405,Peritoneal dialysis NEC
+Chronic kidney disease,375841000000114.0,7L1A6,7L1A600,71192002.0,118218017.0,X406,Peritoneal dialysis NEC
+Chronic kidney disease,375841000000114.0,7L1A6,7L1A600,71192002.0,118218017.0,X411,Peritoneal dialysis NEC
+Chronic kidney disease,375841000000114.0,7L1A6,7L1A600,71192002.0,118218017.0,X402,Peritoneal dialysis NEC
+Chronic kidney disease,228131000006117.0,7L1B-1,7L1B.11,180272001.0,278839019.0,X411,Placement ambulatory dialysis apparatus - compens renal fail
+Chronic kidney disease,1705621000000113.0,7L1B2,7L1B200,238317004.0,1705621000000113.0,Y031,Flushing of peritoneal dialysis catheter
+Chronic kidney disease,1705621000000113.0,7L1B2,7L1B200,238317004.0,1705621000000113.0,X418,Flushing of peritoneal dialysis catheter
+Chronic kidney disease,2195121000000112.8,G72C,G72C.00,846461000000102.0,2195121000000112.8,Y832,Ruptured aneurysm of dialysis vascular access
+Chronic kidney disease,2195121000000112.8,G72C,G72C.00,846461000000102.0,2195121000000112.8,I725,Ruptured aneurysm of dialysis vascular access
+Chronic kidney disease,2195121000000112.8,G72C,G72C.00,846461000000102.0,2195121000000112.8,I723,Ruptured aneurysm of dialysis vascular access
+Chronic kidney disease,2195121000000112.8,G72C,G72C.00,846461000000102.0,2195121000000112.8,I720,Ruptured aneurysm of dialysis vascular access
+Chronic kidney disease,2195121000000112.8,G72C,G72C.00,846461000000102.0,2195121000000112.8,I729,Ruptured aneurysm of dialysis vascular access
+Chronic kidney disease,2195121000000112.8,G72C,G72C.00,846461000000102.0,2195121000000112.8,I722,Ruptured aneurysm of dialysis vascular access
+Chronic kidney disease,2195121000000112.8,G72C,G72C.00,846461000000102.0,2195121000000112.8,I721,Ruptured aneurysm of dialysis vascular access
+Chronic kidney disease,2195121000000112.8,G72C,G72C.00,846461000000102.0,2195121000000112.8,I726,Ruptured aneurysm of dialysis vascular access
+Chronic kidney disease,2195121000000112.8,G72C,G72C.00,846461000000102.0,2195121000000112.8,I724,Ruptured aneurysm of dialysis vascular access
+Chronic kidney disease,2195121000000112.8,G72C,G72C.00,846461000000102.0,2195121000000112.8,I728,Ruptured aneurysm of dialysis vascular access
+Chronic kidney disease,2195661000000114.0,G72D,G72D.00,846731000000104.0,2195661000000114.0,I721,Aneurysm of dialysis arteriovenous fistula
+Chronic kidney disease,2195661000000114.0,G72D,G72D.00,846731000000104.0,2195661000000114.0,I722,Aneurysm of dialysis arteriovenous fistula
+Chronic kidney disease,2195661000000114.0,G72D,G72D.00,846731000000104.0,2195661000000114.0,I720,Aneurysm of dialysis arteriovenous fistula
+Chronic kidney disease,2195661000000114.0,G72D,G72D.00,846731000000104.0,2195661000000114.0,I726,Aneurysm of dialysis arteriovenous fistula
+Chronic kidney disease,2195661000000114.0,G72D,G72D.00,846731000000104.0,2195661000000114.0,I728,Aneurysm of dialysis arteriovenous fistula
+Chronic kidney disease,2195661000000114.0,G72D,G72D.00,846731000000104.0,2195661000000114.0,I729,Aneurysm of dialysis arteriovenous fistula
+Chronic kidney disease,2195661000000114.0,G72D,G72D.00,846731000000104.0,2195661000000114.0,I723,Aneurysm of dialysis arteriovenous fistula
+Chronic kidney disease,2195661000000114.0,G72D,G72D.00,846731000000104.0,2195661000000114.0,I724,Aneurysm of dialysis arteriovenous fistula
+Chronic kidney disease,2195661000000114.0,G72D,G72D.00,846731000000104.0,2195661000000114.0,I725,Aneurysm of dialysis arteriovenous fistula
+Chronic kidney disease,2195661000000114.0,G72D,G72D.00,846731000000104.0,2195661000000114.0,Y832,Aneurysm of dialysis arteriovenous fistula
+Chronic kidney disease,2195661000000114.0,G72D,G72D.00,846731000000104.0,2195661000000114.0,Y841,Aneurysm of dialysis arteriovenous fistula
+Chronic kidney disease,2195661000000114.0,G72D,G72D.00,846731000000104.0,2195661000000114.0,T828,Aneurysm of dialysis arteriovenous fistula
+Chronic kidney disease,1847091000006110.0,G72D0,G72D000,846671000000106.0,2195541000000114.0,I721,Aneurysm of superficialised artery of dialysis AV fistula
+Chronic kidney disease,1847091000006110.0,G72D0,G72D000,846671000000106.0,2195541000000114.0,I724,Aneurysm of superficialised artery of dialysis AV fistula
+Chronic kidney disease,1847091000006110.0,G72D0,G72D000,846671000000106.0,2195541000000114.0,I722,Aneurysm of superficialised artery of dialysis AV fistula
+Chronic kidney disease,1847091000006110.0,G72D0,G72D000,846671000000106.0,2195541000000114.0,I720,Aneurysm of superficialised artery of dialysis AV fistula
+Chronic kidney disease,1847091000006110.0,G72D0,G72D000,846671000000106.0,2195541000000114.0,I726,Aneurysm of superficialised artery of dialysis AV fistula
+Chronic kidney disease,1847091000006110.0,G72D0,G72D000,846671000000106.0,2195541000000114.0,I725,Aneurysm of superficialised artery of dialysis AV fistula
+Chronic kidney disease,1847091000006110.0,G72D0,G72D000,846671000000106.0,2195541000000114.0,I729,Aneurysm of superficialised artery of dialysis AV fistula
+Chronic kidney disease,1847091000006110.0,G72D0,G72D000,846671000000106.0,2195541000000114.0,I728,Aneurysm of superficialised artery of dialysis AV fistula
+Chronic kidney disease,1847091000006110.0,G72D0,G72D000,846671000000106.0,2195541000000114.0,I723,Aneurysm of superficialised artery of dialysis AV fistula
+Chronic kidney disease,1847091000006110.0,G72D0,G72D000,846671000000106.0,2195541000000114.0,Y832,Aneurysm of superficialised artery of dialysis AV fistula
+Chronic kidney disease,1847091000006110.0,G72D0,G72D000,846671000000106.0,2195541000000114.0,T828,Aneurysm of superficialised artery of dialysis AV fistula
+Chronic kidney disease,1847091000006110.0,G72D0,G72D000,846671000000106.0,2195541000000114.0,Y841,Aneurysm of superficialised artery of dialysis AV fistula
+Chronic kidney disease,2195721000000112.0,G72D1,G72D100,846761000000109.0,2195721000000112.0,I724,Aneurysm of needle site of dialysis arteriovenous fistula
+Chronic kidney disease,2195721000000112.0,G72D1,G72D100,846761000000109.0,2195721000000112.0,I728,Aneurysm of needle site of dialysis arteriovenous fistula
+Chronic kidney disease,2195721000000112.0,G72D1,G72D100,846761000000109.0,2195721000000112.0,I726,Aneurysm of needle site of dialysis arteriovenous fistula
+Chronic kidney disease,2195721000000112.0,G72D1,G72D100,846761000000109.0,2195721000000112.0,I729,Aneurysm of needle site of dialysis arteriovenous fistula
+Chronic kidney disease,2195721000000112.0,G72D1,G72D100,846761000000109.0,2195721000000112.0,I721,Aneurysm of needle site of dialysis arteriovenous fistula
+Chronic kidney disease,2195721000000112.0,G72D1,G72D100,846761000000109.0,2195721000000112.0,I725,Aneurysm of needle site of dialysis arteriovenous fistula
+Chronic kidney disease,2195721000000112.0,G72D1,G72D100,846761000000109.0,2195721000000112.0,I720,Aneurysm of needle site of dialysis arteriovenous fistula
+Chronic kidney disease,2195721000000112.0,G72D1,G72D100,846761000000109.0,2195721000000112.0,I722,Aneurysm of needle site of dialysis arteriovenous fistula
+Chronic kidney disease,2195721000000112.0,G72D1,G72D100,846761000000109.0,2195721000000112.0,Y832,Aneurysm of needle site of dialysis arteriovenous fistula
+Chronic kidney disease,2195721000000112.0,G72D1,G72D100,846761000000109.0,2195721000000112.0,I723,Aneurysm of needle site of dialysis arteriovenous fistula
+Chronic kidney disease,2195721000000112.0,G72D1,G72D100,846761000000109.0,2195721000000112.0,T828,Aneurysm of needle site of dialysis arteriovenous fistula
+Chronic kidney disease,2195721000000112.0,G72D1,G72D100,846761000000109.0,2195721000000112.0,Y841,Aneurysm of needle site of dialysis arteriovenous fistula
+Chronic kidney disease,1847111000006118.0,G72D2,G72D200,846801000000104.0,2195801000000114.0,Y832,Aneurysm of anastomotic site of dialysis AV fistula
+Chronic kidney disease,1847111000006118.0,G72D2,G72D200,846801000000104.0,2195801000000114.0,I725,Aneurysm of anastomotic site of dialysis AV fistula
+Chronic kidney disease,1847111000006118.0,G72D2,G72D200,846801000000104.0,2195801000000114.0,I724,Aneurysm of anastomotic site of dialysis AV fistula
+Chronic kidney disease,1847111000006118.0,G72D2,G72D200,846801000000104.0,2195801000000114.0,I728,Aneurysm of anastomotic site of dialysis AV fistula
+Chronic kidney disease,1847111000006118.0,G72D2,G72D200,846801000000104.0,2195801000000114.0,I720,Aneurysm of anastomotic site of dialysis AV fistula
+Chronic kidney disease,1847111000006118.0,G72D2,G72D200,846801000000104.0,2195801000000114.0,I723,Aneurysm of anastomotic site of dialysis AV fistula
+Chronic kidney disease,1847111000006118.0,G72D2,G72D200,846801000000104.0,2195801000000114.0,I729,Aneurysm of anastomotic site of dialysis AV fistula
+Chronic kidney disease,1847111000006118.0,G72D2,G72D200,846801000000104.0,2195801000000114.0,I721,Aneurysm of anastomotic site of dialysis AV fistula
+Chronic kidney disease,1847111000006118.0,G72D2,G72D200,846801000000104.0,2195801000000114.0,I726,Aneurysm of anastomotic site of dialysis AV fistula
+Chronic kidney disease,1847111000006118.0,G72D2,G72D200,846801000000104.0,2195801000000114.0,I722,Aneurysm of anastomotic site of dialysis AV fistula
+Chronic kidney disease,1847111000006118.0,G72D2,G72D200,846801000000104.0,2195801000000114.0,Y841,Aneurysm of anastomotic site of dialysis AV fistula
+Chronic kidney disease,1847111000006118.0,G72D2,G72D200,846801000000104.0,2195801000000114.0,T828,Aneurysm of anastomotic site of dialysis AV fistula
+Chronic kidney disease,2210341000000112.8,Gy1,Gy1..00,853631000000103.0,2210341000000112.8,T828,Stenosis of dialysis vascular access
+Chronic kidney disease,2210381000000116.8,Gy2,Gy2..00,853651000000105.0,2210381000000116.8,T828,Thrombosis of dialysis vascular access
+Chronic kidney disease,2238301000000119.2,Gy21,Gy21.00,866001000000102.0,2238301000000119.2,T828,Thrombosis of dialysis arteriovenous fistula
+Chronic kidney disease,2237821000000118.0,Gy3,Gy3..00,865761000000105.0,2237821000000118.0,T828,Occlusion of dialysis vascular access
+Chronic kidney disease,2238421000000115.2,Gy31,Gy31.00,866061000000103.0,2238421000000115.2,T828,Occlusion of dialysis arteriovenous fistula
+Chronic kidney disease,2237861000000114.0,Gy4,Gy4..00,865781000000101.0,2237861000000114.0,T827,Infection of dialysis vascular access
+Chronic kidney disease,1870801000006111.2,Gy41,Gy41.00,449288005.0,2901095010.0,T827,Infection of dialysis arteriovenous fistula
+Chronic kidney disease,2237901000000119.2,Gy5,Gy5..00,865801000000100.0,2237901000000119.2,T828,Haemorrhage of dialysis vascular access
+Chronic kidney disease,2240871000000116.0,Gy51,Gy51.00,867011000000102.0,2240871000000116.0,T828,Haemorrhage of dialysis arteriovenous fistula
+Chronic kidney disease,641471000006117.0,K05-2,K05..12,46177005.0,76995019.0,N185,End stage renal failure
+Chronic kidney disease,215521000000116.0,K050,K050.00,46177005.0,76995019.0,N185,End stage renal failure
+Chronic kidney disease,641491000006116.0,K0D,K0D..00,46177005.0,76996018.0,N185,End-stage renal disease
+Chronic kidney disease,30043012.0,SP015,SP01500,17778006.0,30043012.0,T824,Mechanical complication of dialysis catheter
+Chronic kidney disease,453312018.0,SP056-3,SP05613,276883000.0,413231010.0,K659,[X] Peritoneal dialysis associated peritonitis
+Chronic kidney disease,453312018.0,SP056-3,SP05613,276883000.0,413231010.0,K650,[X] Peritoneal dialysis associated peritonitis
+Chronic kidney disease,453312018.0,SP056-3,SP05613,276883000.0,413231010.0,Y841,[X] Peritoneal dialysis associated peritonitis
+Chronic kidney disease,453312018.0,SP056-3,SP05613,276883000.0,413231010.0,T857,[X] Peritoneal dialysis associated peritonitis
+Chronic kidney disease,453312018.0,SP056-3,SP05613,276883000.0,413231010.0,K658,[X] Peritoneal dialysis associated peritonitis
+Chronic kidney disease,1743241000006119.0,SP06B,SP06B00,699235009.0,2983127018.0,T857,Continuous ambulatory peritoneal dialysis associated perit
+Chronic kidney disease,2645965011.0,SP07G,SP07G00,423062001.0,2645965011.0,T828,Stenosis of arteriovenous dialysis fistula
+Chronic kidney disease,324973015.0,SP083,SP08300,213150003.0,324973015.0,T861,Kidney transplant failure and rejection
+Chronic kidney disease,354619014.0,SP08J,SP08J00,236578006.0,354619014.0,T861,Chronic rejection of renal transplant
+Chronic kidney disease,413415016.0,SP08N,SP08N00,277010001.0,413415016.0,T861,Unexplained episode of renal transplant dysfunction
+Chronic kidney disease,2198141000000110.0,SP08P,SP08P00,847881000000107.0,2198141000000110.0,T861,Stenosis of vein of transplanted kidney
+Chronic kidney disease,354610013.0,SP08R,SP08R00,236570004.0,354610013.0,T861,Renal transplant rejection
+Chronic kidney disease,2189151000000116.8,SP08T,SP08T00,843691000000100.0,2189151000000116.8,T861,Urological complication of renal transplant
+Chronic kidney disease,2191221000000118.0,SP08W,SP08W00,844661000000109.0,2191221000000118.0,T861,Vascular complication of renal transplant
+Chronic kidney disease,1848741000006116.0,SP0E,SP0E.00,33461007.0,55841017.0,T859,Disorders associated with peritoneal dialysis
+Chronic kidney disease,1848741000006116.0,SP0E,SP0E.00,33461007.0,55841017.0,T856,Disorders associated with peritoneal dialysis
+Chronic kidney disease,1848741000006116.0,SP0E,SP0E.00,33461007.0,55841017.0,T806,Disorders associated with peritoneal dialysis
+Chronic kidney disease,1848741000006116.0,SP0E,SP0E.00,33461007.0,55841017.0,T808,Disorders associated with peritoneal dialysis
+Chronic kidney disease,1848741000006116.0,SP0E,SP0E.00,33461007.0,55841017.0,T803 ,Disorders associated with peritoneal dialysis
+Chronic kidney disease,1848741000006116.0,SP0E,SP0E.00,33461007.0,55841017.0,T858,Disorders associated with peritoneal dialysis
+Chronic kidney disease,1848741000006116.0,SP0E,SP0E.00,33461007.0,55841017.0,T805,Disorders associated with peritoneal dialysis
+Chronic kidney disease,1848741000006116.0,SP0E,SP0E.00,33461007.0,55841017.0,T802 ,Disorders associated with peritoneal dialysis
+Chronic kidney disease,1848741000006116.0,SP0E,SP0E.00,33461007.0,55841017.0,T801,Disorders associated with peritoneal dialysis
+Chronic kidney disease,1848741000006116.0,SP0E,SP0E.00,33461007.0,55841017.0,T801 ,Disorders associated with peritoneal dialysis
+Chronic kidney disease,1848741000006116.0,SP0E,SP0E.00,33461007.0,55841017.0,T804,Disorders associated with peritoneal dialysis
+Chronic kidney disease,1848741000006116.0,SP0E,SP0E.00,33461007.0,55841017.0,T804 ,Disorders associated with peritoneal dialysis
+Chronic kidney disease,1848741000006116.0,SP0E,SP0E.00,33461007.0,55841017.0,T806 ,Disorders associated with peritoneal dialysis
+Chronic kidney disease,1848741000006116.0,SP0E,SP0E.00,33461007.0,55841017.0,T809 ,Disorders associated with peritoneal dialysis
+Chronic kidney disease,1848741000006116.0,SP0E,SP0E.00,33461007.0,55841017.0,T802,Disorders associated with peritoneal dialysis
+Chronic kidney disease,1848741000006116.0,SP0E,SP0E.00,33461007.0,55841017.0,T805 ,Disorders associated with peritoneal dialysis
+Chronic kidney disease,1848741000006116.0,SP0E,SP0E.00,33461007.0,55841017.0,T800,Disorders associated with peritoneal dialysis
+Chronic kidney disease,1848741000006116.0,SP0E,SP0E.00,33461007.0,55841017.0,T803,Disorders associated with peritoneal dialysis
+Chronic kidney disease,1848741000006116.0,SP0E,SP0E.00,33461007.0,55841017.0,T809,Disorders associated with peritoneal dialysis
+Chronic kidney disease,1848741000006116.0,SP0E,SP0E.00,33461007.0,55841017.0,T857,Disorders associated with peritoneal dialysis
+Chronic kidney disease,1848741000006116.0,SP0E,SP0E.00,33461007.0,55841017.0,T808 ,Disorders associated with peritoneal dialysis
+Chronic kidney disease,1848741000006116.0,SP0E,SP0E.00,33461007.0,55841017.0,T800 ,Disorders associated with peritoneal dialysis
+Chronic kidney disease,2211311000000116.8,SP0F,SP0F.00,236539007.0,2211311000000116.8,T808,Haemodialysis first use syndrome
+Chronic kidney disease,2211671000000119.2,SP0G,SP0G.00,854161000000102.0,2211671000000119.2,T808,Anaphylactoid reaction due to haemodialysis
+Chronic kidney disease,441151000006115.0,TA020,TA02000,216878005.0,329026014.0,T812,"Accid cut,puncture,perf,h'ge - kidney dialysis"
+Chronic kidney disease,329116017.0,TA220,TA22000,216933008.0,329116017.0,Y622,Failure of sterile precautions during kidney dialysis
+Chronic kidney disease,754061000006111.0,TB001,TB00100,88797001.0,147234011.0,T817,"Kidney transplant with complication, without blame"
+Chronic kidney disease,754061000006111.0,TB001,TB00100,88797001.0,147234011.0,Y839 ,"Kidney transplant with complication, without blame"
+Chronic kidney disease,754061000006111.0,TB001,TB00100,88797001.0,147234011.0,Y838,"Kidney transplant with complication, without blame"
+Chronic kidney disease,754061000006111.0,TB001,TB00100,88797001.0,147234011.0,Y833,"Kidney transplant with complication, without blame"
+Chronic kidney disease,754061000006111.0,TB001,TB00100,88797001.0,147234011.0,T810 ,"Kidney transplant with complication, without blame"
+Chronic kidney disease,754061000006111.0,TB001,TB00100,88797001.0,147234011.0,Y832,"Kidney transplant with complication, without blame"
+Chronic kidney disease,754061000006111.0,TB001,TB00100,88797001.0,147234011.0,T816,"Kidney transplant with complication, without blame"
+Chronic kidney disease,754061000006111.0,TB001,TB00100,88797001.0,147234011.0,Y830 ,"Kidney transplant with complication, without blame"
+Chronic kidney disease,754061000006111.0,TB001,TB00100,88797001.0,147234011.0,T818,"Kidney transplant with complication, without blame"
+Chronic kidney disease,754061000006111.0,TB001,TB00100,88797001.0,147234011.0,T814,"Kidney transplant with complication, without blame"
+Chronic kidney disease,754061000006111.0,TB001,TB00100,88797001.0,147234011.0,Y835,"Kidney transplant with complication, without blame"
+Chronic kidney disease,754061000006111.0,TB001,TB00100,88797001.0,147234011.0,T819,"Kidney transplant with complication, without blame"
+Chronic kidney disease,754061000006111.0,TB001,TB00100,88797001.0,147234011.0,T812,"Kidney transplant with complication, without blame"
+Chronic kidney disease,754061000006111.0,TB001,TB00100,88797001.0,147234011.0,Y833 ,"Kidney transplant with complication, without blame"
+Chronic kidney disease,754061000006111.0,TB001,TB00100,88797001.0,147234011.0,T819 ,"Kidney transplant with complication, without blame"
+Chronic kidney disease,754061000006111.0,TB001,TB00100,88797001.0,147234011.0,T810,"Kidney transplant with complication, without blame"
+Chronic kidney disease,754061000006111.0,TB001,TB00100,88797001.0,147234011.0,Y839,"Kidney transplant with complication, without blame"
+Chronic kidney disease,754061000006111.0,TB001,TB00100,88797001.0,147234011.0,Y831,"Kidney transplant with complication, without blame"
+Chronic kidney disease,754061000006111.0,TB001,TB00100,88797001.0,147234011.0,T816 ,"Kidney transplant with complication, without blame"
+Chronic kidney disease,754061000006111.0,TB001,TB00100,88797001.0,147234011.0,Y831 ,"Kidney transplant with complication, without blame"
+Chronic kidney disease,754061000006111.0,TB001,TB00100,88797001.0,147234011.0,T818 ,"Kidney transplant with complication, without blame"
+Chronic kidney disease,754061000006111.0,TB001,TB00100,88797001.0,147234011.0,Y836,"Kidney transplant with complication, without blame"
+Chronic kidney disease,754061000006111.0,TB001,TB00100,88797001.0,147234011.0,Y834 ,"Kidney transplant with complication, without blame"
+Chronic kidney disease,754061000006111.0,TB001,TB00100,88797001.0,147234011.0,Y832 ,"Kidney transplant with complication, without blame"
+Chronic kidney disease,754061000006111.0,TB001,TB00100,88797001.0,147234011.0,T817 ,"Kidney transplant with complication, without blame"
+Chronic kidney disease,754061000006111.0,TB001,TB00100,88797001.0,147234011.0,T814 ,"Kidney transplant with complication, without blame"
+Chronic kidney disease,754061000006111.0,TB001,TB00100,88797001.0,147234011.0,T813,"Kidney transplant with complication, without blame"
+Chronic kidney disease,754061000006111.0,TB001,TB00100,88797001.0,147234011.0,Y835 ,"Kidney transplant with complication, without blame"
+Chronic kidney disease,754061000006111.0,TB001,TB00100,88797001.0,147234011.0,T811,"Kidney transplant with complication, without blame"
+Chronic kidney disease,754061000006111.0,TB001,TB00100,88797001.0,147234011.0,T812 ,"Kidney transplant with complication, without blame"
+Chronic kidney disease,754061000006111.0,TB001,TB00100,88797001.0,147234011.0,T815 ,"Kidney transplant with complication, without blame"
+Chronic kidney disease,754061000006111.0,TB001,TB00100,88797001.0,147234011.0,Y834,"Kidney transplant with complication, without blame"
+Chronic kidney disease,754061000006111.0,TB001,TB00100,88797001.0,147234011.0,Y838 ,"Kidney transplant with complication, without blame"
+Chronic kidney disease,754061000006111.0,TB001,TB00100,88797001.0,147234011.0,T815,"Kidney transplant with complication, without blame"
+Chronic kidney disease,754061000006111.0,TB001,TB00100,88797001.0,147234011.0,T811 ,"Kidney transplant with complication, without blame"
+Chronic kidney disease,754061000006111.0,TB001,TB00100,88797001.0,147234011.0,T813 ,"Kidney transplant with complication, without blame"
+Chronic kidney disease,754061000006111.0,TB001,TB00100,88797001.0,147234011.0,Y836 ,"Kidney transplant with complication, without blame"
+Chronic kidney disease,754061000006111.0,TB001,TB00100,88797001.0,147234011.0,Y830,"Kidney transplant with complication, without blame"
+Chronic kidney disease,177251000006119.0,TB001-1,TB00111,88797001.0,147234011.0,T817,"Renal transplant with complication, without blame"
+Chronic kidney disease,177251000006119.0,TB001-1,TB00111,88797001.0,147234011.0,Y839 ,"Renal transplant with complication, without blame"
+Chronic kidney disease,177251000006119.0,TB001-1,TB00111,88797001.0,147234011.0,Y838,"Renal transplant with complication, without blame"
+Chronic kidney disease,177251000006119.0,TB001-1,TB00111,88797001.0,147234011.0,Y833,"Renal transplant with complication, without blame"
+Chronic kidney disease,177251000006119.0,TB001-1,TB00111,88797001.0,147234011.0,T810 ,"Renal transplant with complication, without blame"
+Chronic kidney disease,177251000006119.0,TB001-1,TB00111,88797001.0,147234011.0,Y832,"Renal transplant with complication, without blame"
+Chronic kidney disease,177251000006119.0,TB001-1,TB00111,88797001.0,147234011.0,T816,"Renal transplant with complication, without blame"
+Chronic kidney disease,177251000006119.0,TB001-1,TB00111,88797001.0,147234011.0,Y830 ,"Renal transplant with complication, without blame"
+Chronic kidney disease,177251000006119.0,TB001-1,TB00111,88797001.0,147234011.0,T818,"Renal transplant with complication, without blame"
+Chronic kidney disease,177251000006119.0,TB001-1,TB00111,88797001.0,147234011.0,T814,"Renal transplant with complication, without blame"
+Chronic kidney disease,177251000006119.0,TB001-1,TB00111,88797001.0,147234011.0,Y835,"Renal transplant with complication, without blame"
+Chronic kidney disease,177251000006119.0,TB001-1,TB00111,88797001.0,147234011.0,T819,"Renal transplant with complication, without blame"
+Chronic kidney disease,177251000006119.0,TB001-1,TB00111,88797001.0,147234011.0,T812,"Renal transplant with complication, without blame"
+Chronic kidney disease,177251000006119.0,TB001-1,TB00111,88797001.0,147234011.0,Y833 ,"Renal transplant with complication, without blame"
+Chronic kidney disease,177251000006119.0,TB001-1,TB00111,88797001.0,147234011.0,T819 ,"Renal transplant with complication, without blame"
+Chronic kidney disease,177251000006119.0,TB001-1,TB00111,88797001.0,147234011.0,T810,"Renal transplant with complication, without blame"
+Chronic kidney disease,177251000006119.0,TB001-1,TB00111,88797001.0,147234011.0,Y839,"Renal transplant with complication, without blame"
+Chronic kidney disease,177251000006119.0,TB001-1,TB00111,88797001.0,147234011.0,Y831,"Renal transplant with complication, without blame"
+Chronic kidney disease,177251000006119.0,TB001-1,TB00111,88797001.0,147234011.0,T816 ,"Renal transplant with complication, without blame"
+Chronic kidney disease,177251000006119.0,TB001-1,TB00111,88797001.0,147234011.0,Y831 ,"Renal transplant with complication, without blame"
+Chronic kidney disease,177251000006119.0,TB001-1,TB00111,88797001.0,147234011.0,T818 ,"Renal transplant with complication, without blame"
+Chronic kidney disease,177251000006119.0,TB001-1,TB00111,88797001.0,147234011.0,Y836,"Renal transplant with complication, without blame"
+Chronic kidney disease,177251000006119.0,TB001-1,TB00111,88797001.0,147234011.0,Y834 ,"Renal transplant with complication, without blame"
+Chronic kidney disease,177251000006119.0,TB001-1,TB00111,88797001.0,147234011.0,Y832 ,"Renal transplant with complication, without blame"
+Chronic kidney disease,177251000006119.0,TB001-1,TB00111,88797001.0,147234011.0,T817 ,"Renal transplant with complication, without blame"
+Chronic kidney disease,177251000006119.0,TB001-1,TB00111,88797001.0,147234011.0,T814 ,"Renal transplant with complication, without blame"
+Chronic kidney disease,177251000006119.0,TB001-1,TB00111,88797001.0,147234011.0,T813,"Renal transplant with complication, without blame"
+Chronic kidney disease,177251000006119.0,TB001-1,TB00111,88797001.0,147234011.0,Y835 ,"Renal transplant with complication, without blame"
+Chronic kidney disease,177251000006119.0,TB001-1,TB00111,88797001.0,147234011.0,T811,"Renal transplant with complication, without blame"
+Chronic kidney disease,177251000006119.0,TB001-1,TB00111,88797001.0,147234011.0,T812 ,"Renal transplant with complication, without blame"
+Chronic kidney disease,177251000006119.0,TB001-1,TB00111,88797001.0,147234011.0,T815 ,"Renal transplant with complication, without blame"
+Chronic kidney disease,177251000006119.0,TB001-1,TB00111,88797001.0,147234011.0,Y834,"Renal transplant with complication, without blame"
+Chronic kidney disease,177251000006119.0,TB001-1,TB00111,88797001.0,147234011.0,Y838 ,"Renal transplant with complication, without blame"
+Chronic kidney disease,177251000006119.0,TB001-1,TB00111,88797001.0,147234011.0,T815,"Renal transplant with complication, without blame"
+Chronic kidney disease,177251000006119.0,TB001-1,TB00111,88797001.0,147234011.0,T811 ,"Renal transplant with complication, without blame"
+Chronic kidney disease,177251000006119.0,TB001-1,TB00111,88797001.0,147234011.0,T813 ,"Renal transplant with complication, without blame"
+Chronic kidney disease,177251000006119.0,TB001-1,TB00111,88797001.0,147234011.0,Y836 ,"Renal transplant with complication, without blame"
+Chronic kidney disease,177251000006119.0,TB001-1,TB00111,88797001.0,147234011.0,Y830,"Renal transplant with complication, without blame"
+Chronic kidney disease,460644012.0,ZV420,ZV42000,161665007.0,2793932016.0,Z940,[V]Kidney transplanted
+Chronic kidney disease,460910019.0,ZV56,ZV56.00,398471000000102.0,1008471000000116.0,Z492,[V]Aftercare involving intermittent dialysis
+Chronic kidney disease,460911015.0,ZV560,ZV56000,410511000000103.0,1008481000000119.0,Z491,[V]Aftercare involving extracorporeal dialysis
+Chronic kidney disease,1227722017.0,ZV560-1,ZV56011,410511000000103.0,1008481000000119.0,Z491,[V]Aftercare involving renal dialysis NOS
+Chronic kidney disease,460913017.0,ZV56y,ZV56y00,426351000000102.0,1008501000000111.0,Z492,[V]Other specified aftercare involving intermittent dialysis
+Chronic kidney disease,1227723010.0,ZV56y-1,ZV56y11,426351000000102.0,1008501000000111.0,Z492,[V]Aftercare involving peritoneal dialysis
+Chronic kidney disease,460914011.0,ZV56z,ZV56z00,426361000000104.0,1008511000000113.0,Z492,[V]Unspecified aftercare involving intermittent dialysis
+Chronic kidney disease,461420012.0,ZVu3G,ZVu3G00,108241001.0,172680015.0,X402,[X]Other dialysis
+Chronic kidney disease,461420012.0,ZVu3G,ZVu3G00,108241001.0,172680015.0,X431,[X]Other dialysis
+Chronic kidney disease,461420012.0,ZVu3G,ZVu3G00,108241001.0,172680015.0,X439,[X]Other dialysis
+Chronic kidney disease,461420012.0,ZVu3G,ZVu3G00,108241001.0,172680015.0,X405,[X]Other dialysis
+Chronic kidney disease,461420012.0,ZVu3G,ZVu3G00,108241001.0,172680015.0,X438,[X]Other dialysis
+Chronic kidney disease,461420012.0,ZVu3G,ZVu3G00,108241001.0,172680015.0,X409,[X]Other dialysis
+Chronic kidney disease,461420012.0,ZVu3G,ZVu3G00,108241001.0,172680015.0,X401,[X]Other dialysis
+Chronic kidney disease,461420012.0,ZVu3G,ZVu3G00,108241001.0,172680015.0,X406,[X]Other dialysis
+Chronic kidney disease,461420012.0,ZVu3G,ZVu3G00,108241001.0,172680015.0,Z492,[X]Other dialysis
+Chronic kidney disease,461420012.0,ZVu3G,ZVu3G00,108241001.0,172680015.0,X408,[X]Other dialysis
+Chronic kidney disease,461420012.0,ZVu3G,ZVu3G00,108241001.0,172680015.0,X407,[X]Other dialysis
+Chronic kidney disease,461420012.0,ZVu3G,ZVu3G00,108241001.0,172680015.0,X403,[X]Other dialysis
+Chronic kidney disease,461420012.0,ZVu3G,ZVu3G00,108241001.0,172680015.0,X404,[X]Other dialysis
+Chronic kidney disease,461420012.0,ZVu3G,ZVu3G00,108241001.0,172680015.0,Z491,[X]Other dialysis

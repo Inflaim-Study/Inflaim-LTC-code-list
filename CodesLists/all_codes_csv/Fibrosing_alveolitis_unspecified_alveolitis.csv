@@ -1,0 +1,26 @@
+Condition,MedCodeId,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,ICD10Code,Term
+Fibrosing alveolitis/unspecified alveolitis,3336411000006117.0,^ESCTCI333641,,51615001.0,85961019.0,J841,Cirrhosis of lung
+Fibrosing alveolitis/unspecified alveolitis,3336411000006117.0,^ESCTCI333641,,51615001.0,85961019.0,J701,Cirrhosis of lung
+Fibrosing alveolitis/unspecified alveolitis,3336411000006117.0,^ESCTCI333641,,51615001.0,85961019.0,J684,Cirrhosis of lung
+Fibrosing alveolitis/unspecified alveolitis,5492481000006115.0,^ESCTPO549248,,266368002.0,3035384014.0,J841,Postinflammatory pulmonary fibrosis
+Fibrosing alveolitis/unspecified alveolitis,885491000006116.0,H5631-99,H563199,51615001.0,885491000006116.0,J841,Pulmonary fibrosis
+Fibrosing alveolitis/unspecified alveolitis,885491000006116.0,H5631-99,H563199,51615001.0,885491000006116.0,J701,Pulmonary fibrosis
+Fibrosing alveolitis/unspecified alveolitis,885491000006116.0,H5631-99,H563199,51615001.0,885491000006116.0,J684,Pulmonary fibrosis
+Fibrosing alveolitis/unspecified alveolitis,254003016.0,23E5,23E5.00,162974009.0,254003016.0,J841,O/E - fibrosis of lung present
+Fibrosing alveolitis/unspecified alveolitis,254002014.0,23E5-1,23E5.11,162974009.0,254002014.0,J841,O/E - fibrosis of lung
+Fibrosing alveolitis/unspecified alveolitis,211391000006118.0,H55,H55..00,266368002.0,396123011.0,J841,Postinflammatory pulmonary fibrosis
+Fibrosing alveolitis/unspecified alveolitis,85961019.0,H55-1,H55..11,266368002.0,396123011.0,J841,Cirrhosis of lung
+Fibrosing alveolitis/unspecified alveolitis,75302014.0,H563,H563.00,700250006.0,2989716019.0,J841,Idiopathic fibrosing alveolitis
+Fibrosing alveolitis/unspecified alveolitis,815341000006115.0,H563-1,H563.11,236302005.0,2579204016.0,J841,Hamman - Rich syndrome
+Fibrosing alveolitis/unspecified alveolitis,196654011.0,H563-2,H563.12,700250006.0,2989718018.0,J841,Cryptogenic fibrosing alveolitis
+Fibrosing alveolitis/unspecified alveolitis,1786131000006116.0,H563-3,H563.13,700250006.0,2989760019.0,J841,Idiopathic pulmonary fibrosis
+Fibrosing alveolitis/unspecified alveolitis,621121000006112.0,H5631,H563100,196125002.0,301706014.0,J841,Diffuse pulmonary fibrosis
+Fibrosing alveolitis/unspecified alveolitis,85960018.0,H5632,H563200,51615001.0,85960018.0,J841,Pulmonary fibrosis
+Fibrosing alveolitis/unspecified alveolitis,85960018.0,H5632,H563200,51615001.0,85960018.0,J701,Pulmonary fibrosis
+Fibrosing alveolitis/unspecified alveolitis,85960018.0,H5632,H563200,51615001.0,85960018.0,J684,Pulmonary fibrosis
+Fibrosing alveolitis/unspecified alveolitis,2475606014.0,H5633,H563300,196125002.0,2475606014.0,J841,Usual interstitial pneumonitis
+Fibrosing alveolitis/unspecified alveolitis,301709019.0,H563z,H563z00,700250006.0,2989716019.0,J841,Idiopathic fibrosing alveolitis NOS
+Fibrosing alveolitis/unspecified alveolitis,301852014.0,Hyu50,Hyu5000,233703007.0,350185018.0,J840,[X]Other interstitial pulmonary diseases with fibrosis
+Fibrosing alveolitis/unspecified alveolitis,301852014.0,Hyu50,Hyu5000,233703007.0,350185018.0,J849,[X]Other interstitial pulmonary diseases with fibrosis
+Fibrosing alveolitis/unspecified alveolitis,301852014.0,Hyu50,Hyu5000,233703007.0,350185018.0,J848,[X]Other interstitial pulmonary diseases with fibrosis
+Fibrosing alveolitis/unspecified alveolitis,301852014.0,Hyu50,Hyu5000,233703007.0,350185018.0,J841,[X]Other interstitial pulmonary diseases with fibrosis

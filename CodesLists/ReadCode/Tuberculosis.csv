@@ -1,0 +1,234 @@
+Condition,OriginalReadCode,CleansedReadCode,Term
+Tuberculosis,A16,A16..00,Tuberculosis of genitourinary system
+Tuberculosis,J65,J65..00,Other gallbladder disorders
+Tuberculosis,A17,A17..00,Tuberculosis of other organs
+Tuberculosis,A15,A15..00,Tuberculosis of bones and joints
+Tuberculosis,B90,B90..00,Neop uncertain behaviour of digestive and respiratory system
+Tuberculosis,A18,A18..00,Miliary tuberculosis
+Tuberculosis,A19,A19..00,Disseminated tuberculosis
+Tuberculosis,A151,A151.00,Tuberculosis of hip
+Tuberculosis,A167,A167.00,Tuberculosis of other female genital organs
+Tuberculosis,A1202,A120200,Tuberculous hydrothorax
+Tuberculosis,A1242,A124200,"Tuberculosis of lung, confirmed histologically"
+Tuberculosis,A14,A14..00,"Tuberculosis of intestines, peritoneum and mesenteric glands"
+Tuberculosis,A1702,A170200,Tuberculosis - scrofuloderma
+Tuberculosis,N3040,N304000,Tuberculosis of cervical spine
+Tuberculosis,ZV12A,ZV12A00,[V] Personal history of pulmonary tuberculosis
+Tuberculosis,N304-1,N304.11,Tuberculosis of spine
+Tuberculosis,A178,A178.00,Tuberculosis oesophagus
+Tuberculosis,N3061,N306100,Tuberculosis of the bones of the shoulder region
+Tuberculosis,A12,A12..00,Other respiratory tuberculosis
+Tuberculosis,14P9,14P9.00,History of tuberculosis drug therapy
+Tuberculosis,A124,A124.00,Resp TB bacteriologically and histologically confirmed
+Tuberculosis,A1722,A172200,Tuberculous adenitis
+Tuberculosis,A1650,A165000,Tuberculosis of prostate
+Tuberculosis,A15-2,A15..12,Tuberculous arthritis
+Tuberculosis,J5502,J550200,Peritonitis - tuberculous
+Tuberculosis,A1660,A166000,Tuberculous oophoritis
+Tuberculosis,A1246,A124600,"Tuberculous pleurisy, conf bacteriologically/histologically"
+Tuberculosis,F4A55,F4A5500,Keratitis due to tuberculosis
+Tuberculosis,A134,A134.00,Tuberculoma of spinal cord
+Tuberculosis,A173,A173.00,Tuberculosis of eye
+Tuberculosis,65Y9-1,65Y9.11,Latent tuberculosis
+Tuberculosis,A13,A13..00,Tuberculosis of meninges and central nervous system
+Tuberculosis,A121,A121.00,Tuberculosis of intrathoracic lymph nodes
+Tuberculosis,A116,A116.00,Tuberculous pneumonia
+Tuberculosis,A1212,A121200,Tuberculosis of tracheobronchial lymph nodes
+Tuberculosis,A1244,A124400,TB intrathoracic lymph nodes confirm bact histologically
+Tuberculosis,A1201,A120100,Tuberculous empyema
+Tuberculosis,A1211,A121100,Tuberculosis of mediastinal lymph nodes
+Tuberculosis,A130,A130.00,Tuberculous meningitis
+Tuberculosis,A1710,A171000,Bazin's disease - erythema induratum - TB hypersensitivity
+Tuberculosis,A15-1,A15..11,Tuberculous osteomylelytis
+Tuberculosis,A135,A135.00,Tuberculous abscess of spinal cord
+Tuberculosis,A100,A100.00,Primary tuberculous complex
+Tuberculosis,A150,A150.00,Tuberculosis of vertebral column - Pott's
+Tuberculosis,65V9-1,65V9.11,TB - tuberculosis notification
+Tuberculosis,A172,A172.00,Tuberculosis of peripheral lymph nodes
+Tuberculosis,A11,A11..00,Pulmonary tuberculosis
+Tuberculosis,A140,A140.00,Tuberculous peritonitis
+Tuberculosis,A170,A170.00,Tuberculosis of skin and subcutaneous tissue
+Tuberculosis,N3041,N304100,Tuberculosis of thoracic spine
+Tuberculosis,F0406,F040600,Tuberculous intracranial abscess
+Tuberculosis,A171,A171.00,Tuberculosis with erythema nodosum hypersensitivity reaction
+Tuberculosis,A1361,A136100,Tuberculous myelitis
+Tuberculosis,N304,N304.00,Tuberculosis of spine (Pott's)
+Tuberculosis,N3043,N304300,Tuberculosis of sacrum/coccyx
+Tuberculosis,A1711,A171100,Tuberculous erythema nodosum
+Tuberculosis,A132,A132.00,Tuberculoma of brain
+Tuberculosis,A111,A111.00,Nodular lung tuberculosis
+Tuberculosis,A152,A152.00,Tuberculosis of knee
+Tuberculosis,A1210,A121000,Tuberculosis of hilar lymph nodes
+Tuberculosis,N3051,N305100,Tuberculosis of the upper arm bone
+Tuberculosis,A101,A101.00,Tuberculous pleurisy in primary progressive tuberculosis
+Tuberculosis,A174,A174.00,Tuberculosis of ear
+Tuberculosis,A154,A154.00,Tuberculous mastoiditis
+Tuberculosis,A131,A131.00,Tuberculoma of meninges
+Tuberculosis,A125,A125.00,Respiratory TB not confirmed bact or histologically
+Tuberculosis,A1301,A130100,Tuberculosis of spinal meninges
+Tuberculosis,A177,A177.00,Tuberculosis spleen
+Tuberculosis,A176,A176.00,Tuberculosis of adrenal glands - Addison's disease
+Tuberculosis,F0413,F041300,Tuberculous intraspinal abscess
+Tuberculosis,AE04,AE04.00,Late effects of tuberculosis of other specified organs
+Tuberculosis,AE0,AE0..00,Late effects of tuberculosis
+Tuberculosis,A123,A123.00,Tuberculous laryngitis
+Tuberculosis,A1706,A170600,Tuberculosis lichenoides
+Tuberculosis,A1705,A170500,Tuberculosis cutis
+Tuberculosis,N3054,N305400,Tuberculosis of the lower leg bone
+Tuberculosis,A163,A163.00,Tuberculosis of other urinary organs
+Tuberculosis,A1601,A160100,Tuberculous pyelitis
+Tuberculosis,A1721,A172100,Scrofulous tuberculous abscess
+Tuberculosis,A112,A112.00,Tuberculosis of lung with cavitation
+Tuberculosis,A1,A1...00,Tuberculosis
+Tuberculosis,A1652,A165200,Tuberculosis of testis
+Tuberculosis,A10,A10..00,Primary tuberculous infection
+Tuberculosis,A113,A113.00,Tuberculosis of bronchus
+Tuberculosis,A110,A110.00,Infiltrative lung tuberculosis
+Tuberculosis,A1700,A170000,Tuberculosis - lupus exedens
+Tuberculosis,A1703,A170300,Tuberculosis - lupus NOS
+Tuberculosis,A164,A164.00,Tuberculosis of epididymis
+Tuberculosis,65Y2,65Y2.00,Streptomycin resistant tuberculosis
+Tuberculosis,A1300,A130000,Tuberculosis of cerebral meninges
+Tuberculosis,A168,A168.00,Tuberculosis of urinary tract
+Tuberculosis,A1670,A167000,Tuberculous cervicitis
+Tuberculosis,A1241,A124100,"Tuberculosis of lung, confirmed by culture only"
+Tuberculosis,AE03,AE03.00,Late effects of tuberculosis of bones and joints
+Tuberculosis,A1221,A122100,Isolated bronchial tuberculosis
+Tuberculosis,A1200,A120000,Tuberculosis of pleura
+Tuberculosis,A114,A114.00,Tuberculous fibrosis of lung
+Tuberculosis,K2143,K214300,Prostatitis in tuberculosis
+Tuberculosis,N3065,N306500,Tuberculosis of the bones of multiple sites
+Tuberculosis,N3042,N304200,Tuberculosis of lumbar spine
+Tuberculosis,A1250,A125000,"Tuberculosis of lung, bacteriologically & histolog'y neg"
+Tuberculosis,A1245,A124500,"Tuberculosis of larynx, trachea & bronchus conf bact/hist'y"
+Tuberculosis,A1661-1,A166111,Fallopian tube tuberculosis
+Tuberculosis,A1651,A165100,Tuberculosis seminal vesicle
+Tuberculosis,A170-1,A170.11,Lupus - tuberculous
+Tuberculosis,A11-1,A11..11,Lung tuberculosis
+Tuberculosis,F0333,F033300,Encephalitis due to tuberculosis
+Tuberculosis,A1251,A125100,Tuberculosis lung bact and histological examin not done
+Tuberculosis,A117,A117.00,Tuberculous pneumothorax
+Tuberculosis,N3060,N306000,"Tuberculosis of bone, site unspecified"
+Tuberculosis,A1720-1,A172011,Scrofula - tuberculous cervical lymph nodes
+Tuberculosis,H450,H450.00,Pneumoconiosis associated with tuberculosis
+Tuberculosis,65Y1,65Y1.00,On tuberculosis chemoprophylaxis
+Tuberculosis,A165,A165.00,Tuberculosis of other male genital organs
+Tuberculosis,A136,A136.00,Tuberculous encephalitis or myelitis
+Tuberculosis,F0333-1,F033311,Tuberculous encephalitis
+Tuberculosis,A1303,A130300,Tuberculous meningoencephalitis
+Tuberculosis,A133,A133.00,Tuberculous abscess of brain
+Tuberculosis,N3064,N306400,Tuberculosis of the bones of other sites
+Tuberculosis,A1243,A124300,"Tuberculosis of lung, confirmed by unspecified means"
+Tuberculosis,A166,A166.00,Tuberculous oophoritis or salpingitis
+Tuberculosis,65V9,65V9.00,Notification of tuberculosis
+Tuberculosis,A1732,A173200,Tuberculous interstitial keratitis
+Tuberculosis,A1730,A173000,Tuberculous chorioretinitis
+Tuberculosis,A1360,A136000,Tuberculous encephalitis
+Tuberculosis,A1600,A160000,Tuberculous nephropathy
+Tuberculosis,AE01,AE01.00,Late effects of central nervous system tuberculosis
+Tuberculosis,A125X,A125X00,"Resp TB unspcf,w'out mention/bacterial or histol confrmtn"
+Tuberculosis,N3063,N306300,Tuberculosis of the bones of the ankle and foot
+Tuberculosis,A120,A120.00,Tuberculous pleurisy
+Tuberculosis,A161,A161.00,Tuberculosis of bladder
+Tuberculosis,A1220,A122000,Isolated tracheal tuberculosis
+Tuberculosis,AE02,AE02.00,Late effects of genitourinary system tuberculosis
+Tuberculosis,A1671,A167100,Tuberculous endometritis
+Tuberculosis,F004,F004.00,Meningitis - tuberculous
+Tuberculosis,A1247,A124700,Primary respiratory TB confirm bact and histologically
+Tuberculosis,A1252,A125200,Prim respiratory TB without mention of bact or hist confirm
+Tuberculosis,1411,1411.00,H/O: tuberculosis
+Tuberculosis,A122,A122.00,Isolated tracheal or bronchial tuberculosis
+Tuberculosis,N305,N305.00,Tuberculosis of limb bones
+Tuberculosis,K43,K43..00,Female tuberculous pelvic inflammatory disease
+Tuberculosis,A1734,A173400,Tuberculous keratoconjunctivitis
+Tuberculosis,65Y9,65Y9.00,Inactive tuberculosis
+Tuberculosis,A1733,A173300,Tuberculous chronic iridocyclitis
+Tuberculosis,A160-1,A160.11,Renal tuberculosis
+Tuberculosis,A1708,A170800,Tuberculosis verrucosa cutis
+Tuberculosis,A115,A115.00,Tuberculous bronchiectasis
+Tuberculosis,A1731,A173100,Tuberculous episcleritis
+Tuberculosis,AE00,AE00.00,Late effects of respiratory tuberculosis
+Tuberculosis,A1720,A172000,Tuberculous - cervical lymphadenitis
+Tuberculosis,N3052,N305200,Tuberculosis of the forearm bone
+Tuberculosis,A153,A153.00,Tuberculosis limb bones - Tuberculous dactylitis
+Tuberculosis,A1240,A124000,TB lung confirm sputum microscopy with or without culture
+Tuberculosis,ZV12B,ZV12B00,[V] Personal history of tuberculosis
+Tuberculosis,A162,A162.00,Tuberculosis of ureter
+Tuberculosis,N3053,N305300,Tuberculosis of the pelvic and thigh bones
+Tuberculosis,A1602,A160200,Tuberculous pyelonephritis
+Tuberculosis,A175,A175.00,Tuberculosis of thyroid gland
+Tuberculosis,K1548,K154800,Cystitis in tuberculosis
+Tuberculosis,N018,N018.00,Tuberculous arthritis
+Tuberculosis,A1707,A170700,Tuberculosis papulonecrotica
+Tuberculosis,A1701,A170100,Tuberculosis - lupus vulgaris
+Tuberculosis,65Y8,65Y8.00,Ciprofloxacin resistant tuberculosis
+Tuberculosis,N3062,N306200,Tuberculosis of the bones of the hand
+Tuberculosis,N306,N306.00,Tuberculosis of other bones
+Tuberculosis,65Y5,65Y5.00,Isoniazid resistant tuberculosis
+Tuberculosis,N3050,N305000,Tuberculosis of unspecified limb bone
+Tuberculosis,A160,A160.00,Tuberculosis of kidney
+Tuberculosis,A1661,A166100,Tuberculous salpingitis
+Tuberculosis,N3055,N305500,Tuberculosis of other limb bones
+Tuberculosis,A15-3,A15..13,Tuberculous synovitis
+Tuberculosis,Ayu14,Ayu1400,[X]Other tuberculosis of nervous system
+Tuberculosis,AyuJ4,AyuJ400,[X]Sequelae of respiratory and unspecified tuberculosis
+Tuberculosis,A14yz,A14yz00,Other gastrointestinal tract tuberculosis NOS
+Tuberculosis,A11y,A11y.00,Other specified pulmonary tuberculosis
+Tuberculosis,Ayu13,Ayu1300,"[X]Resp TB unspcf,w'out mention/bacterial or histol confrmtn"
+Tuberculosis,Ayu16,Ayu1600,[X]Tuberculosis of other specified organs
+Tuberculosis,A17y2,A17y200,Tuberculosis pericardium
+Tuberculosis,A12y2,A12y200,Tuberculosis of nasal septum
+Tuberculosis,A1z,A1z..00,Tuberculosis NOS
+Tuberculosis,A173z,A173z00,Tuberculosis of eye NOS
+Tuberculosis,A13z,A13z.00,Tuberculosis of central nervous system NOS
+Tuberculosis,A122z,A122z00,Isolated tracheal or bronchial tuberculosis NOS
+Tuberculosis,A10y,A10y.00,Other primary progressive tuberculosis
+Tuberculosis,A130z,A130z00,Tuberculous meningitis NOS
+Tuberculosis,A17y3,A17y300,Tuberculosis of stomach
+Tuberculosis,A170z,A170z00,Tuberculosis of skin and subcutaneous tissue NOS
+Tuberculosis,N306z,N306z00,Tuberculosis of bone NOS
+Tuberculosis,A14y1,A14y100,Tuberculosis of large intestine
+Tuberculosis,A14y2,A14y200,Tuberculosis of small intestine
+Tuberculosis,A136z,A136z00,Tuberculous encephalitis or myelitis NOS
+Tuberculosis,A15z,A15z.00,Tuberculosis of bones or joints NOS
+Tuberculosis,AyuJ2,AyuJ200,[X]Sequelae of tuberculosis of bones and joints
+Tuberculosis,AE0z,AE0z.00,Late effects of tuberculosis NOS
+Tuberculosis,A121z,A121z00,Tuberculosis of intrathoracic lymph nodes NOS
+Tuberculosis,Ayu1,Ayu1.00,[X]Tuberculosis
+Tuberculosis,Ayu19,Ayu1900,"[X]Miliary tuberculosis, unspecified"
+Tuberculosis,A15x,A15x.00,Tuberculosis of other specified bones
+Tuberculosis,A16z,A16z.00,Genitourinary tuberculosis NOS
+Tuberculosis,A18z,A18z.00,Miliary tuberculosis NOS
+Tuberculosis,A12y,A12y.00,Other specified respiratory tuberculosis
+Tuberculosis,A14y5,A14y500,Tuberculosis of retroperitoneal lymph nodes
+Tuberculosis,A14z,A14z.00,Tuberculosis of gastrointestinal tract NOS
+Tuberculosis,A12yz,A12yz00,Other specified respiratory tuberculosis NOS
+Tuberculosis,A18y,A18y.00,Other specified miliary tuberculosis
+Tuberculosis,Ayu10,Ayu1000,"[X]Other resp tubercul,confirmd bacteriologicly+histologicly"
+Tuberculosis,A17y0,A17y000,Tuberculosis endocardium
+Tuberculosis,A160z,A160z00,Tuberculosis of kidney NOS
+Tuberculosis,A14y,A14y.00,Other gastrointestinal tract tuberculosis
+Tuberculosis,A171z,A171z00,Erythema nodosum with tuberculosis NOS
+Tuberculosis,Ayu18,Ayu1800,[X]Other miliary tuberculosis
+Tuberculosis,A17y4,A17y400,Tuberculosis of liver
+Tuberculosis,A12y1,A12y100,Tuberculosis of nasopharynx
+Tuberculosis,A12y3,A12y300,Tuberculosis of nasal sinus
+Tuberculosis,A17y1,A17y100,Tuberculosis myocardium
+Tuberculosis,A14y4,A14y400,Tuberculosis of rectum
+Tuberculosis,Ayu11,Ayu1100,"[X]Resp tuberculos unspcfd,confirmd bacteriolog+histologicly"
+Tuberculosis,A167z,A167z00,Tuberculosis of other female genital organs NOS
+Tuberculosis,A13y,A13y.00,Other specified tuberculosis of central nervous system
+Tuberculosis,A1y,A1y..00,Other specified tuberculosis
+Tuberculosis,A12y0,A12y000,Tuberculosis of mediastinum
+Tuberculosis,A120z,A120z00,Tuberculous pleurisy NOS
+Tuberculosis,A172z,A172z00,Tuberculosis of peripheral lymph nodes NOS
+Tuberculosis,A165z,A165z00,Tuberculosis of other male genital organs NOS
+Tuberculosis,8BAD1,8BAD100,TB chemotherapy
+Tuberculosis,A15y,A15y.00,Tuberculosis of other specified joint
+Tuberculosis,A166z,A166z00,Tuberculous oophoritis or salpingitis NOS
+Tuberculosis,A11z,A11z.00,Pulmonary tuberculosis NOS
+Tuberculosis,A10z,A10z.00,Primary tuberculous infection NOS
+Tuberculosis,A17yz,A17yz00,Tuberculosis of other specified organs NOS
+Tuberculosis,A17z,A17z.00,Tuberculosis of other organs NOS
+Tuberculosis,A17y,A17y.00,Tuberculosis of other specified organs
+Tuberculosis,A14y3,A14y300,Tuberculosis of mesenteric lymph glands

@@ -1,0 +1,13 @@
+Condition,OriginalReadCode,CleansedReadCode,Term
+Hyperparathyroidism,C1200,C120000,Primary hyperparathyroidism
+Hyperparathyroidism,C1202,C120200,Tertiary hyperparathyroidism
+Hyperparathyroidism,C1201-1,C120111,Osteitis fibrosa cystica
+Hyperparathyroidism,C120,C120.00,Hyperparathyroidism
+Hyperparathyroidism,N3325,N332500,Brown tumour of hyperparathyroidism
+Hyperparathyroidism,C1201,C120100,Hyperparathyroid bone disease
+Hyperparathyroidism,C120-2,C120.12,Von Recklinghausen's bone disease
+Hyperparathyroidism,C1201-2,C120112,von Recklinghausen's bone disease
+Hyperparathyroidism,C120-1,C120.11,Osteitis fibrosa cystica
+Hyperparathyroidism,Cyu41,Cyu4100,[X]Other hyperparathyroidism
+Hyperparathyroidism,K08y1,K08y100,Secondary hyperparathyroidism
+Hyperparathyroidism,C1z31,C1z3100,Ectopic hyperparathyroidism

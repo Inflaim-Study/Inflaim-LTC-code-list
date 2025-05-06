@@ -1,0 +1,334 @@
+Condition,MedCodeId,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,ICD10Code,Term
+Diverticular disease of the intestine,303127019.0,J5103,J510300,8114009.0,14400014.0,K570,Diverticulosis of the small intestine unspecified
+Diverticular disease of the intestine,303141011.0,J5113,J511300,56165008.0,93400012.0,K570,Diverticulitis of the small intestine unspecified
+Diverticular disease of the intestine,303142016.0,J5114,J511400,56165008.0,93400012.0,K570,Diverticulitis of the small intestine NOS
+Diverticular disease of the intestine,303145019.0,J511y,J511y00,307496006.0,450775010.0,K570,Diverticulitis unspecified
+Diverticular disease of the intestine,303146018.0,J511z,J511z00,307496006.0,450775010.0,K570,Diverticulitis NOS
+Diverticular disease of the intestine,303151012.0,J5123,J512300,280993006.0,418881013.0,K570,Perforated diverticulum of small intestine unspecified
+Diverticular disease of the intestine,303152017.0,J5124,J512400,280993006.0,418881013.0,K570,Perforated diverticulum of small intestine NOS
+Diverticular disease of the intestine,303159014.0,J51z,J51z.00,63532004.0,105596011.0,K570,Diverticula of the intestine NOS
+Diverticular disease of the intestine,303374019.0,J5z,J5z..00,85919009.0,506816016.0,K570,Intestinal disorders NOS
+Diverticular disease of the intestine,303772017.0,Jyu55,Jyu5500,85919009.0,506815017.0,K570,[X]Other specified diseases of intestine
+Diverticular disease of the intestine,2629541000006111.0,^ESCTDI262954,,8114009.0,195103016.0,K570,Diverticulum of small intestine
+Diverticular disease of the intestine,303156019.0,J512y,J512y00,197104005.0,3512575015.0,K570,Perforated diverticulum unspecified
+Diverticular disease of the intestine,1.1782171000006116e+16,^ESCT1178217,,197104005.0,1.1782171000006116e+16,K570,Perforated diverticulum of intestine
+Diverticular disease of the intestine,1.2452641000006118e+16,^ESCT1245264,,197104005.0,303147010.0,K570,Perforated diverticulum
+Diverticular disease of the intestine,1.1876441000006112e+16,^ESCT1187644,,235774002.0,3512385015.0,K570,Abscess of colon co-occurrent and due to diverticular disease of colon
+Diverticular disease of the intestine,1.1878541000006112e+16,^ESCT1187854,,63532004.0,3512567014.0,K570,Multiple diverticula of intestine
+Diverticular disease of the intestine,3533221000006117.0,^ESCTDI353322,,63532004.0,3028688010.0,K570,Diverticulosis of small intestine and colon
+Diverticular disease of the intestine,3896431000006115.0,^ESCTEN389643,,85919009.0,142436015.0,K570,Enteropathy
+Diverticular disease of the intestine,1.1876451000006114e+16,^ESCT1187645,,235774002.0,3512387011.0,K570,Abscess with diverticular disease of colon
+Diverticular disease of the intestine,5085371000006111.0,^ESCTCO508537,,235774002.0,353439014.0,K570,Colonic diverticular abscess
+Diverticular disease of the intestine,303770013.0,Jyu53,Jyu5300,85919009.0,142433011.0,K570,[X]Other specified functional disorders of intestine
+Diverticular disease of the intestine,303372015.0,J57z,J57z.00,85919009.0,142433011.0,K570,Other intestinal disorders NOS
+Diverticular disease of the intestine,303766017.0,Jyu5,Jyu5.00,85919009.0,142433011.0,K570,[X]Other diseases of intestines
+Diverticular disease of the intestine,303295010.0,J57,J57..00,85919009.0,506815017.0,K570,Other disorders of intestine
+Diverticular disease of the intestine,303157011.0,J512z,J512z00,197104005.0,3512575015.0,K570,Perforated diverticulum of intestine NOS
+Diverticular disease of the intestine,1.187853100000612e+16,^ESCT1187853,,63532004.0,3512569012.0,K570,Asymptomatic diverticulosis of intestine
+Diverticular disease of the intestine,2629551000006113.0,^ESCTDI262955,,8114009.0,195104010.0,K570,Diverticula of small intestine
+Diverticular disease of the intestine,303148017.0,J5120,J512000,197105006.0,303148017.0,K570,Perforated diverticulum of duodenum
+Diverticular disease of the intestine,303149013.0,J5121,J512100,197106007.0,303149013.0,K570,Perforated diverticulum of jejunum
+Diverticular disease of the intestine,303150013.0,J5122,J512200,197107003.0,303150013.0,K570,Perforated diverticulum of ileum
+Diverticular disease of the intestine,353440011.0,J513,J513.00,235774002.0,353440011.0,K570,Diverticular abscess
+Diverticular disease of the intestine,450775010.0,J511,J511.00,307496006.0,450775010.0,K570,Diverticulitis
+Diverticular disease of the intestine,303128012.0,J5104,J510400,8114009.0,14400014.0,K570,Diverticulosis of the small intestine NOS
+Diverticular disease of the intestine,105596011.0,J51,J51..00,63532004.0,105596011.0,K570,Diverticula of intestine
+Diverticular disease of the intestine,1222353014.0,J57y,J57y.00,85919009.0,506815017.0,K570,Other intestine disorders
+Diverticular disease of the intestine,303147010.0,J512,J512.00,197104005.0,3512575015.0,K570,Perforated diverticulum
+Diverticular disease of the intestine,1.190481100000612e+16,^ESCT1190481,,197104005.0,233441000006111.0,K570,Perforated diverticulum unspecified
+Diverticular disease of the intestine,1.1878551000006114e+16,^ESCT1187855,,63532004.0,3512568016.0,K570,Diverticulosis of intestine
+Diverticular disease of the intestine,303127019.0,J5103,J510300,8114009.0,14400014.0,K571,Diverticulosis of the small intestine unspecified
+Diverticular disease of the intestine,303141011.0,J5113,J511300,56165008.0,93400012.0,K571,Diverticulitis of the small intestine unspecified
+Diverticular disease of the intestine,303142016.0,J5114,J511400,56165008.0,93400012.0,K571,Diverticulitis of the small intestine NOS
+Diverticular disease of the intestine,303145019.0,J511y,J511y00,307496006.0,450775010.0,K571,Diverticulitis unspecified
+Diverticular disease of the intestine,303146018.0,J511z,J511z00,307496006.0,450775010.0,K571,Diverticulitis NOS
+Diverticular disease of the intestine,303159014.0,J51z,J51z.00,63532004.0,105596011.0,K571,Diverticula of the intestine NOS
+Diverticular disease of the intestine,303374019.0,J5z,J5z..00,85919009.0,506816016.0,K571,Intestinal disorders NOS
+Diverticular disease of the intestine,303772017.0,Jyu55,Jyu5500,85919009.0,506815017.0,K571,[X]Other specified diseases of intestine
+Diverticular disease of the intestine,818751000006112.0,79,79...00,64915003.0,107901016.0,K571,Heart operations
+Diverticular disease of the intestine,20181000006111.0,793y,793y.00,78418002.0,130132018.0,K571,Other parts of heart or pericardium operations OS
+Diverticular disease of the intestine,2629541000006111.0,^ESCTDI262954,,8114009.0,195103016.0,K571,Diverticulum of small intestine
+Diverticular disease of the intestine,376621000000113.0,79345,7934500,428290007.0,2693316014.0,K571,Percutaneous transluminal ablation of atrial wall
+Diverticular disease of the intestine,488161000000110.0,79348,7934800,428290007.0,2693316014.0,K571,Percutaneous transluminal ablation of atrial wall NEC
+Diverticular disease of the intestine,537671000006115.0,79-1,79...11,64915003.0,107901016.0,K571,Cardiac operations
+Diverticular disease of the intestine,3044531000006116.0,^ESCTDI304453,,33838003.0,56484017.0,K571,Diverticulitis of duodenum
+Diverticular disease of the intestine,1.1878561000006112e+16,^ESCT1187856,,197083003.0,3512600017.0,K571,Diverticulosis of duodenum
+Diverticular disease of the intestine,1.1878541000006112e+16,^ESCT1187854,,63532004.0,3512567014.0,K571,Multiple diverticula of intestine
+Diverticular disease of the intestine,3555851000006113.0,^ESCTOP355585,,64915003.0,107896018.0,K571,Operative procedure on heart
+Diverticular disease of the intestine,3533221000006117.0,^ESCTDI353322,,63532004.0,3028688010.0,K571,Diverticulosis of small intestine and colon
+Diverticular disease of the intestine,3896431000006115.0,^ESCTEN389643,,85919009.0,142436015.0,K571,Enteropathy
+Diverticular disease of the intestine,4786081000006113.0,^ESCTDI478608,,197085005.0,303125010.0,K571,Diverticulosis of ileum
+Diverticular disease of the intestine,303770013.0,Jyu53,Jyu5300,85919009.0,142433011.0,K571,[X]Other specified functional disorders of intestine
+Diverticular disease of the intestine,303372015.0,J57z,J57z.00,85919009.0,142433011.0,K571,Other intestinal disorders NOS
+Diverticular disease of the intestine,303766017.0,Jyu5,Jyu5.00,85919009.0,142433011.0,K571,[X]Other diseases of intestines
+Diverticular disease of the intestine,271312012.0,79z,79z..00,64915003.0,107901016.0,K571,Heart operations NOS
+Diverticular disease of the intestine,303295010.0,J57,J57..00,85919009.0,506815017.0,K571,Other disorders of intestine
+Diverticular disease of the intestine,1.1784311000006118e+16,^ESCT1178431,,197084009.0,3512593019.0,K571,Diverticulosis of jejunum
+Diverticular disease of the intestine,1.187853100000612e+16,^ESCT1187853,,63532004.0,3512569012.0,K571,Asymptomatic diverticulosis of intestine
+Diverticular disease of the intestine,2629551000006113.0,^ESCTDI262955,,8114009.0,195104010.0,K571,Diverticula of small intestine
+Diverticular disease of the intestine,4786071000006110.0,^ESCTDI478607,,197084009.0,1494961018.0,K571,Diverticula of jejunum
+Diverticular disease of the intestine,271209012.0,79340,7934000,175125003.0,271209012.0,K571,Percutaneous transluminal ablation of atrioventricular node
+Diverticular disease of the intestine,303123015.0,J5100,J510000,197083003.0,303123015.0,K571,Diverticulosis of the duodenum
+Diverticular disease of the intestine,303124014.0,J5101,J510100,197084009.0,303124014.0,K571,Diverticulosis of the jejunum
+Diverticular disease of the intestine,450775010.0,J511,J511.00,307496006.0,450775010.0,K571,Diverticulitis
+Diverticular disease of the intestine,485644015.0,J5110,J511000,33838003.0,485644015.0,K571,Diverticulitis of the duodenum
+Diverticular disease of the intestine,303128012.0,J5104,J510400,8114009.0,14400014.0,K571,Diverticulosis of the small intestine NOS
+Diverticular disease of the intestine,303126011.0,J5102,J510200,197085005.0,303126011.0,K571,Diverticulosis of the ileum
+Diverticular disease of the intestine,105596011.0,J51,J51..00,63532004.0,105596011.0,K571,Diverticula of intestine
+Diverticular disease of the intestine,1222353014.0,J57y,J57y.00,85919009.0,506815017.0,K571,Other intestine disorders
+Diverticular disease of the intestine,3591791000006115.0,^ESCTDI359179,,67153004.0,111546010.0,K571,Diverticulitis of ileum
+Diverticular disease of the intestine,271174012.0,793,793..00,78418002.0,130132018.0,K571,Other parts of heart and pericardium operations
+Diverticular disease of the intestine,271309014.0,793z,793z.00,78418002.0,130132018.0,K571,Other parts of heart and pericardium operations NOS
+Diverticular disease of the intestine,4786061000006115.0,^ESCTDI478606,,197084009.0,1494960017.0,K571,Diverticulum of jejunum
+Diverticular disease of the intestine,500628015.0,J5112,J511200,67153004.0,500628015.0,K571,Diverticulitis of the ileum
+Diverticular disease of the intestine,626681000006110.0,J5111,J511100,111358007.0,178594018.0,K571,Diverticulitis of the jejunum
+Diverticular disease of the intestine,5046541000006113.0,^ESCTPR504654,,233154000.0,349318018.0,K571,Procedure for arrhythmia
+Diverticular disease of the intestine,3555861000006110.0,^ESCTCA355586,,64915003.0,107900015.0,K571,Cardiac surgery procedure
+Diverticular disease of the intestine,1.1878551000006114e+16,^ESCT1187855,,63532004.0,3512568016.0,K571,Diverticulosis of intestine
+Diverticular disease of the intestine,303144015.0,J5117,J511700,4494009.0,7629011.0,K572,Diverticulitis of the large intestine NOS
+Diverticular disease of the intestine,303145019.0,J511y,J511y00,307496006.0,450775010.0,K572,Diverticulitis unspecified
+Diverticular disease of the intestine,303146018.0,J511z,J511z00,307496006.0,450775010.0,K572,Diverticulitis NOS
+Diverticular disease of the intestine,303153010.0,J5126,J512600,280992001.0,418880014.0,K572,Perforated diverticulum of large intestine unspecified
+Diverticular disease of the intestine,303159014.0,J51z,J51z.00,63532004.0,105596011.0,K572,Diverticula of the intestine NOS
+Diverticular disease of the intestine,303374019.0,J5z,J5z..00,85919009.0,506816016.0,K572,Intestinal disorders NOS
+Diverticular disease of the intestine,303772017.0,Jyu55,Jyu5500,85919009.0,506815017.0,K572,[X]Other specified diseases of intestine
+Diverticular disease of the intestine,1786077011.0,J5105,J510500,398050005.0,1777620011.0,K572,Diverticulosis of the colon
+Diverticular disease of the intestine,818751000006112.0,79,79...00,64915003.0,107901016.0,K572,Heart operations
+Diverticular disease of the intestine,998521000006116.0,79342,7934200,448042001.0,2900001016.0,K572,Transluminal radiofreq ablation heart conducting system NEC
+Diverticular disease of the intestine,20181000006111.0,793y,793y.00,78418002.0,130132018.0,K572,Other parts of heart or pericardium operations OS
+Diverticular disease of the intestine,3751141000006117.0,^ESCTDI375114,,76953007.0,127753011.0,K572,Diverticulitis of colon with perforation
+Diverticular disease of the intestine,376621000000113.0,79345,7934500,428290007.0,2693316014.0,K572,Percutaneous transluminal ablation of atrial wall
+Diverticular disease of the intestine,488161000000110.0,79348,7934800,428290007.0,2693316014.0,K572,Percutaneous transluminal ablation of atrial wall NEC
+Diverticular disease of the intestine,537671000006115.0,79-1,79...11,64915003.0,107901016.0,K572,Cardiac operations
+Diverticular disease of the intestine,303156019.0,J512y,J512y00,197104005.0,3512575015.0,K572,Perforated diverticulum unspecified
+Diverticular disease of the intestine,1.1782171000006116e+16,^ESCT1178217,,197104005.0,1.1782171000006116e+16,K572,Perforated diverticulum of intestine
+Diverticular disease of the intestine,1.2452641000006118e+16,^ESCT1245264,,197104005.0,303147010.0,K572,Perforated diverticulum
+Diverticular disease of the intestine,6597011000006113.0,^ESCTDI659701,,398050005.0,1786077011.0,K572,Diverticulosis of the colon
+Diverticular disease of the intestine,1.1876441000006112e+16,^ESCT1187644,,235774002.0,3512385015.0,K572,Abscess of colon co-occurrent and due to diverticular disease of colon
+Diverticular disease of the intestine,1.1878541000006112e+16,^ESCT1187854,,63532004.0,3512567014.0,K572,Multiple diverticula of intestine
+Diverticular disease of the intestine,3555851000006113.0,^ESCTOP355585,,64915003.0,107896018.0,K572,Operative procedure on heart
+Diverticular disease of the intestine,3533221000006117.0,^ESCTDI353322,,63532004.0,3028688010.0,K572,Diverticulosis of small intestine and colon
+Diverticular disease of the intestine,3896431000006115.0,^ESCTEN389643,,85919009.0,142436015.0,K572,Enteropathy
+Diverticular disease of the intestine,1.1876451000006114e+16,^ESCT1187645,,235774002.0,3512387011.0,K572,Abscess with diverticular disease of colon
+Diverticular disease of the intestine,5085371000006111.0,^ESCTCO508537,,235774002.0,353439014.0,K572,Colonic diverticular abscess
+Diverticular disease of the intestine,303770013.0,Jyu53,Jyu5300,85919009.0,142433011.0,K572,[X]Other specified functional disorders of intestine
+Diverticular disease of the intestine,303372015.0,J57z,J57z.00,85919009.0,142433011.0,K572,Other intestinal disorders NOS
+Diverticular disease of the intestine,303766017.0,Jyu5,Jyu5.00,85919009.0,142433011.0,K572,[X]Other diseases of intestines
+Diverticular disease of the intestine,271312012.0,79z,79z..00,64915003.0,107901016.0,K572,Heart operations NOS
+Diverticular disease of the intestine,303295010.0,J57,J57..00,85919009.0,506815017.0,K572,Other disorders of intestine
+Diverticular disease of the intestine,238631000006110.0,79341,7934100,448042001.0,2900001016.0,K572,Percut transluminal ablation of heart conducting system NEC
+Diverticular disease of the intestine,303157011.0,J512z,J512z00,197104005.0,3512575015.0,K572,Perforated diverticulum of intestine NOS
+Diverticular disease of the intestine,1.1851211000006118e+16,^ESCT1185121,,398050005.0,3512540015.0,K572,Symptomatic diverticulosis of colon
+Diverticular disease of the intestine,1.187853100000612e+16,^ESCT1187853,,63532004.0,3512569012.0,K572,Asymptomatic diverticulosis of intestine
+Diverticular disease of the intestine,353440011.0,J513,J513.00,235774002.0,353440011.0,K572,Diverticular abscess
+Diverticular disease of the intestine,450775010.0,J511,J511.00,307496006.0,450775010.0,K572,Diverticulitis
+Diverticular disease of the intestine,503419012.0,J5125,J512500,76953007.0,503419012.0,K572,Perforated diverticulum of colon
+Diverticular disease of the intestine,303143014.0,J5116,J511600,4494009.0,7629011.0,K572,Diverticulitis of the large intestine unspecified
+Diverticular disease of the intestine,105596011.0,J51,J51..00,63532004.0,105596011.0,K572,Diverticula of intestine
+Diverticular disease of the intestine,1222353014.0,J57y,J57y.00,85919009.0,506815017.0,K572,Other intestine disorders
+Diverticular disease of the intestine,303147010.0,J512,J512.00,197104005.0,3512575015.0,K572,Perforated diverticulum
+Diverticular disease of the intestine,6597001000006110.0,^ESCTDI659700,,398050005.0,1786076019.0,K572,Diverticulosis of colon
+Diverticular disease of the intestine,1.190481100000612e+16,^ESCT1190481,,197104005.0,233441000006111.0,K572,Perforated diverticulum unspecified
+Diverticular disease of the intestine,271174012.0,793,793..00,78418002.0,130132018.0,K572,Other parts of heart and pericardium operations
+Diverticular disease of the intestine,271309014.0,793z,793z.00,78418002.0,130132018.0,K572,Other parts of heart and pericardium operations NOS
+Diverticular disease of the intestine,303154016.0,J5127,J512700,280992001.0,418880014.0,K572,Perforated diverticulum of large intestine NOS
+Diverticular disease of the intestine,5046541000006113.0,^ESCTPR504654,,233154000.0,349318018.0,K572,Procedure for arrhythmia
+Diverticular disease of the intestine,3555861000006110.0,^ESCTCA355586,,64915003.0,107900015.0,K572,Cardiac surgery procedure
+Diverticular disease of the intestine,1.1878551000006114e+16,^ESCT1187855,,63532004.0,3512568016.0,K572,Diverticulosis of intestine
+Diverticular disease of the intestine,303144015.0,J5117,J511700,4494009.0,7629011.0,K573,Diverticulitis of the large intestine NOS
+Diverticular disease of the intestine,303145019.0,J511y,J511y00,307496006.0,450775010.0,K573,Diverticulitis unspecified
+Diverticular disease of the intestine,303146018.0,J511z,J511z00,307496006.0,450775010.0,K573,Diverticulitis NOS
+Diverticular disease of the intestine,303159014.0,J51z,J51z.00,63532004.0,105596011.0,K573,Diverticula of the intestine NOS
+Diverticular disease of the intestine,303374019.0,J5z,J5z..00,85919009.0,506816016.0,K573,Intestinal disorders NOS
+Diverticular disease of the intestine,303772017.0,Jyu55,Jyu5500,85919009.0,506815017.0,K573,[X]Other specified diseases of intestine
+Diverticular disease of the intestine,1786077011.0,J5105,J510500,398050005.0,1777620011.0,K573,Diverticulosis of the colon
+Diverticular disease of the intestine,818751000006112.0,79,79...00,64915003.0,107901016.0,K573,Heart operations
+Diverticular disease of the intestine,20181000006111.0,793y,793y.00,78418002.0,130132018.0,K573,Other parts of heart or pericardium operations OS
+Diverticular disease of the intestine,537671000006115.0,79-1,79...11,64915003.0,107901016.0,K573,Cardiac operations
+Diverticular disease of the intestine,6597011000006113.0,^ESCTDI659701,,398050005.0,1786077011.0,K573,Diverticulosis of the colon
+Diverticular disease of the intestine,1.1878541000006112e+16,^ESCT1187854,,63532004.0,3512567014.0,K573,Multiple diverticula of intestine
+Diverticular disease of the intestine,3555851000006113.0,^ESCTOP355585,,64915003.0,107896018.0,K573,Operative procedure on heart
+Diverticular disease of the intestine,3533221000006117.0,^ESCTDI353322,,63532004.0,3028688010.0,K573,Diverticulosis of small intestine and colon
+Diverticular disease of the intestine,3896431000006115.0,^ESCTEN389643,,85919009.0,142436015.0,K573,Enteropathy
+Diverticular disease of the intestine,303770013.0,Jyu53,Jyu5300,85919009.0,142433011.0,K573,[X]Other specified functional disorders of intestine
+Diverticular disease of the intestine,303372015.0,J57z,J57z.00,85919009.0,142433011.0,K573,Other intestinal disorders NOS
+Diverticular disease of the intestine,303766017.0,Jyu5,Jyu5.00,85919009.0,142433011.0,K573,[X]Other diseases of intestines
+Diverticular disease of the intestine,271312012.0,79z,79z..00,64915003.0,107901016.0,K573,Heart operations NOS
+Diverticular disease of the intestine,303295010.0,J57,J57..00,85919009.0,506815017.0,K573,Other disorders of intestine
+Diverticular disease of the intestine,1.1851211000006118e+16,^ESCT1185121,,398050005.0,3512540015.0,K573,Symptomatic diverticulosis of colon
+Diverticular disease of the intestine,1.187853100000612e+16,^ESCT1187853,,63532004.0,3512569012.0,K573,Asymptomatic diverticulosis of intestine
+Diverticular disease of the intestine,450775010.0,J511,J511.00,307496006.0,450775010.0,K573,Diverticulitis
+Diverticular disease of the intestine,303143014.0,J5116,J511600,4494009.0,7629011.0,K573,Diverticulitis of the large intestine unspecified
+Diverticular disease of the intestine,105596011.0,J51,J51..00,63532004.0,105596011.0,K573,Diverticula of intestine
+Diverticular disease of the intestine,1222353014.0,J57y,J57y.00,85919009.0,506815017.0,K573,Other intestine disorders
+Diverticular disease of the intestine,6597001000006110.0,^ESCTDI659700,,398050005.0,1786076019.0,K573,Diverticulosis of colon
+Diverticular disease of the intestine,271174012.0,793,793..00,78418002.0,130132018.0,K573,Other parts of heart and pericardium operations
+Diverticular disease of the intestine,271309014.0,793z,793z.00,78418002.0,130132018.0,K573,Other parts of heart and pericardium operations NOS
+Diverticular disease of the intestine,626651000006119.0,J5115,J511500,111359004.0,178595017.0,K573,Diverticulitis of the colon
+Diverticular disease of the intestine,5046541000006113.0,^ESCTPR504654,,233154000.0,349318018.0,K573,Procedure for arrhythmia
+Diverticular disease of the intestine,3555861000006110.0,^ESCTCA355586,,64915003.0,107900015.0,K573,Cardiac surgery procedure
+Diverticular disease of the intestine,1.1878551000006114e+16,^ESCT1187855,,63532004.0,3512568016.0,K573,Diverticulosis of intestine
+Diverticular disease of the intestine,303141011.0,J5113,J511300,56165008.0,93400012.0,K574,Diverticulitis of the small intestine unspecified
+Diverticular disease of the intestine,303142016.0,J5114,J511400,56165008.0,93400012.0,K574,Diverticulitis of the small intestine NOS
+Diverticular disease of the intestine,303144015.0,J5117,J511700,4494009.0,7629011.0,K574,Diverticulitis of the large intestine NOS
+Diverticular disease of the intestine,303145019.0,J511y,J511y00,307496006.0,450775010.0,K574,Diverticulitis unspecified
+Diverticular disease of the intestine,303146018.0,J511z,J511z00,307496006.0,450775010.0,K574,Diverticulitis NOS
+Diverticular disease of the intestine,303151012.0,J5123,J512300,280993006.0,418881013.0,K574,Perforated diverticulum of small intestine unspecified
+Diverticular disease of the intestine,303152017.0,J5124,J512400,280993006.0,418881013.0,K574,Perforated diverticulum of small intestine NOS
+Diverticular disease of the intestine,303153010.0,J5126,J512600,280992001.0,418880014.0,K574,Perforated diverticulum of large intestine unspecified
+Diverticular disease of the intestine,303159014.0,J51z,J51z.00,63532004.0,105596011.0,K574,Diverticula of the intestine NOS
+Diverticular disease of the intestine,303374019.0,J5z,J5z..00,85919009.0,506816016.0,K574,Intestinal disorders NOS
+Diverticular disease of the intestine,303772017.0,Jyu55,Jyu5500,85919009.0,506815017.0,K574,[X]Other specified diseases of intestine
+Diverticular disease of the intestine,818751000006112.0,79,79...00,64915003.0,107901016.0,K574,Heart operations
+Diverticular disease of the intestine,20181000006111.0,793y,793y.00,78418002.0,130132018.0,K574,Other parts of heart or pericardium operations OS
+Diverticular disease of the intestine,376621000000113.0,79345,7934500,428290007.0,2693316014.0,K574,Percutaneous transluminal ablation of atrial wall
+Diverticular disease of the intestine,488161000000110.0,79348,7934800,428290007.0,2693316014.0,K574,Percutaneous transluminal ablation of atrial wall NEC
+Diverticular disease of the intestine,537671000006115.0,79-1,79...11,64915003.0,107901016.0,K574,Cardiac operations
+Diverticular disease of the intestine,303156019.0,J512y,J512y00,197104005.0,3512575015.0,K574,Perforated diverticulum unspecified
+Diverticular disease of the intestine,1.1782171000006116e+16,^ESCT1178217,,197104005.0,1.1782171000006116e+16,K574,Perforated diverticulum of intestine
+Diverticular disease of the intestine,1.2452641000006118e+16,^ESCT1245264,,197104005.0,303147010.0,K574,Perforated diverticulum
+Diverticular disease of the intestine,1.1876441000006112e+16,^ESCT1187644,,235774002.0,3512385015.0,K574,Abscess of colon co-occurrent and due to diverticular disease of colon
+Diverticular disease of the intestine,1.1878541000006112e+16,^ESCT1187854,,63532004.0,3512567014.0,K574,Multiple diverticula of intestine
+Diverticular disease of the intestine,3555851000006113.0,^ESCTOP355585,,64915003.0,107896018.0,K574,Operative procedure on heart
+Diverticular disease of the intestine,1.185119100000612e+16,^ESCT1185119,,197112002.0,3515890019.0,K574,Perforation and abscess co-occurrent and due to diverticular disease of both small and large intestine
+Diverticular disease of the intestine,3533221000006117.0,^ESCTDI353322,,63532004.0,3028688010.0,K574,Diverticulosis of small intestine and colon
+Diverticular disease of the intestine,3896431000006115.0,^ESCTEN389643,,85919009.0,142436015.0,K574,Enteropathy
+Diverticular disease of the intestine,1.1876451000006114e+16,^ESCT1187645,,235774002.0,3512387011.0,K574,Abscess with diverticular disease of colon
+Diverticular disease of the intestine,5085371000006111.0,^ESCTCO508537,,235774002.0,353439014.0,K574,Colonic diverticular abscess
+Diverticular disease of the intestine,303770013.0,Jyu53,Jyu5300,85919009.0,142433011.0,K574,[X]Other specified functional disorders of intestine
+Diverticular disease of the intestine,303372015.0,J57z,J57z.00,85919009.0,142433011.0,K574,Other intestinal disorders NOS
+Diverticular disease of the intestine,303766017.0,Jyu5,Jyu5.00,85919009.0,142433011.0,K574,[X]Other diseases of intestines
+Diverticular disease of the intestine,271312012.0,79z,79z..00,64915003.0,107901016.0,K574,Heart operations NOS
+Diverticular disease of the intestine,303295010.0,J57,J57..00,85919009.0,506815017.0,K574,Other disorders of intestine
+Diverticular disease of the intestine,303157011.0,J512z,J512z00,197104005.0,3512575015.0,K574,Perforated diverticulum of intestine NOS
+Diverticular disease of the intestine,1.187853100000612e+16,^ESCT1187853,,63532004.0,3512569012.0,K574,Asymptomatic diverticulosis of intestine
+Diverticular disease of the intestine,353440011.0,J513,J513.00,235774002.0,353440011.0,K574,Diverticular abscess
+Diverticular disease of the intestine,450775010.0,J511,J511.00,307496006.0,450775010.0,K574,Diverticulitis
+Diverticular disease of the intestine,2694913017.0,79344,7934400,428581004.0,2694913017.0,K574,Percutaneous transluminal ablation of accessory pathway
+Diverticular disease of the intestine,303143014.0,J5116,J511600,4494009.0,7629011.0,K574,Diverticulitis of the large intestine unspecified
+Diverticular disease of the intestine,105596011.0,J51,J51..00,63532004.0,105596011.0,K574,Diverticula of intestine
+Diverticular disease of the intestine,1222353014.0,J57y,J57y.00,85919009.0,506815017.0,K574,Other intestine disorders
+Diverticular disease of the intestine,626571000006113.0,J5128,J512800,197112002.0,303155015.0,K574,Divertic disease/both sml+lge intestin with perforat+abscess
+Diverticular disease of the intestine,303147010.0,J512,J512.00,197104005.0,3512575015.0,K574,Perforated diverticulum
+Diverticular disease of the intestine,1.190481100000612e+16,^ESCT1190481,,197104005.0,233441000006111.0,K574,Perforated diverticulum unspecified
+Diverticular disease of the intestine,1.1851201000006116e+16,^ESCT1185120,,197112002.0,3515889011.0,K574,Perforation and abscess with diverticular disease of small and large intestine
+Diverticular disease of the intestine,271174012.0,793,793..00,78418002.0,130132018.0,K574,Other parts of heart and pericardium operations
+Diverticular disease of the intestine,271309014.0,793z,793z.00,78418002.0,130132018.0,K574,Other parts of heart and pericardium operations NOS
+Diverticular disease of the intestine,303154016.0,J5127,J512700,280992001.0,418880014.0,K574,Perforated diverticulum of large intestine NOS
+Diverticular disease of the intestine,5046541000006113.0,^ESCTPR504654,,233154000.0,349318018.0,K574,Procedure for arrhythmia
+Diverticular disease of the intestine,3555861000006110.0,^ESCTCA355586,,64915003.0,107900015.0,K574,Cardiac surgery procedure
+Diverticular disease of the intestine,1.1878551000006114e+16,^ESCT1187855,,63532004.0,3512568016.0,K574,Diverticulosis of intestine
+Diverticular disease of the intestine,303127019.0,J5103,J510300,8114009.0,14400014.0,K575,Diverticulosis of the small intestine unspecified
+Diverticular disease of the intestine,303141011.0,J5113,J511300,56165008.0,93400012.0,K575,Diverticulitis of the small intestine unspecified
+Diverticular disease of the intestine,303142016.0,J5114,J511400,56165008.0,93400012.0,K575,Diverticulitis of the small intestine NOS
+Diverticular disease of the intestine,303144015.0,J5117,J511700,4494009.0,7629011.0,K575,Diverticulitis of the large intestine NOS
+Diverticular disease of the intestine,303145019.0,J511y,J511y00,307496006.0,450775010.0,K575,Diverticulitis unspecified
+Diverticular disease of the intestine,303146018.0,J511z,J511z00,307496006.0,450775010.0,K575,Diverticulitis NOS
+Diverticular disease of the intestine,303159014.0,J51z,J51z.00,63532004.0,105596011.0,K575,Diverticula of the intestine NOS
+Diverticular disease of the intestine,303374019.0,J5z,J5z..00,85919009.0,506816016.0,K575,Intestinal disorders NOS
+Diverticular disease of the intestine,303772017.0,Jyu55,Jyu5500,85919009.0,506815017.0,K575,[X]Other specified diseases of intestine
+Diverticular disease of the intestine,818751000006112.0,79,79...00,64915003.0,107901016.0,K575,Heart operations
+Diverticular disease of the intestine,20181000006111.0,793y,793y.00,78418002.0,130132018.0,K575,Other parts of heart or pericardium operations OS
+Diverticular disease of the intestine,2629541000006111.0,^ESCTDI262954,,8114009.0,195103016.0,K575,Diverticulum of small intestine
+Diverticular disease of the intestine,376621000000113.0,79345,7934500,428290007.0,2693316014.0,K575,Percutaneous transluminal ablation of atrial wall
+Diverticular disease of the intestine,488161000000110.0,79348,7934800,428290007.0,2693316014.0,K575,Percutaneous transluminal ablation of atrial wall NEC
+Diverticular disease of the intestine,537671000006115.0,79-1,79...11,64915003.0,107901016.0,K575,Cardiac operations
+Diverticular disease of the intestine,1.1878541000006112e+16,^ESCT1187854,,63532004.0,3512567014.0,K575,Multiple diverticula of intestine
+Diverticular disease of the intestine,3555851000006113.0,^ESCTOP355585,,64915003.0,107896018.0,K575,Operative procedure on heart
+Diverticular disease of the intestine,3533221000006117.0,^ESCTDI353322,,63532004.0,3028688010.0,K575,Diverticulosis of small intestine and colon
+Diverticular disease of the intestine,3896431000006115.0,^ESCTEN389643,,85919009.0,142436015.0,K575,Enteropathy
+Diverticular disease of the intestine,303770013.0,Jyu53,Jyu5300,85919009.0,142433011.0,K575,[X]Other specified functional disorders of intestine
+Diverticular disease of the intestine,303372015.0,J57z,J57z.00,85919009.0,142433011.0,K575,Other intestinal disorders NOS
+Diverticular disease of the intestine,303766017.0,Jyu5,Jyu5.00,85919009.0,142433011.0,K575,[X]Other diseases of intestines
+Diverticular disease of the intestine,451208015.0,790-4,790..14,307823003.0,451208015.0,K575,Heart wall operations
+Diverticular disease of the intestine,271312012.0,79z,79z..00,64915003.0,107901016.0,K575,Heart operations NOS
+Diverticular disease of the intestine,303295010.0,J57,J57..00,85919009.0,506815017.0,K575,Other disorders of intestine
+Diverticular disease of the intestine,1.187853100000612e+16,^ESCT1187853,,63532004.0,3512569012.0,K575,Asymptomatic diverticulosis of intestine
+Diverticular disease of the intestine,2629551000006113.0,^ESCTDI262955,,8114009.0,195104010.0,K575,Diverticula of small intestine
+Diverticular disease of the intestine,410951015.0,790-1,790..11,275028003.0,410951015.0,K575,Heart atria and ventricle operations
+Diverticular disease of the intestine,450775010.0,J511,J511.00,307496006.0,450775010.0,K575,Diverticulitis
+Diverticular disease of the intestine,303128012.0,J5104,J510400,8114009.0,14400014.0,K575,Diverticulosis of the small intestine NOS
+Diverticular disease of the intestine,303143014.0,J5116,J511600,4494009.0,7629011.0,K575,Diverticulitis of the large intestine unspecified
+Diverticular disease of the intestine,271185014.0,79311,7931100,307823003.0,451208015.0,K575,Exploration of heart NEC
+Diverticular disease of the intestine,271186010.0,79312,7931200,307823003.0,451208015.0,K575,Cardiotomy NEC
+Diverticular disease of the intestine,105596011.0,J51,J51..00,63532004.0,105596011.0,K575,Diverticula of intestine
+Diverticular disease of the intestine,1222353014.0,J57y,J57y.00,85919009.0,506815017.0,K575,Other intestine disorders
+Diverticular disease of the intestine,271174012.0,793,793..00,78418002.0,130132018.0,K575,Other parts of heart and pericardium operations
+Diverticular disease of the intestine,271309014.0,793z,793z.00,78418002.0,130132018.0,K575,Other parts of heart and pericardium operations NOS
+Diverticular disease of the intestine,626561000006118.0,J5108,J510800,197091007.0,303133011.0,K575,Divertic dis/both sml+lge intestin without perfor or abscess
+Diverticular disease of the intestine,5046541000006113.0,^ESCTPR504654,,233154000.0,349318018.0,K575,Procedure for arrhythmia
+Diverticular disease of the intestine,818471000006114.0,790-2,790..12,275028003.0,410951015.0,K575,Heart chambers operations
+Diverticular disease of the intestine,3555861000006110.0,^ESCTCA355586,,64915003.0,107900015.0,K575,Cardiac surgery procedure
+Diverticular disease of the intestine,1.1878551000006114e+16,^ESCT1187855,,63532004.0,3512568016.0,K575,Diverticulosis of intestine
+Diverticular disease of the intestine,303145019.0,J511y,J511y00,307496006.0,450775010.0,K578,Diverticulitis unspecified
+Diverticular disease of the intestine,303146018.0,J511z,J511z00,307496006.0,450775010.0,K578,Diverticulitis NOS
+Diverticular disease of the intestine,303159014.0,J51z,J51z.00,63532004.0,105596011.0,K578,Diverticula of the intestine NOS
+Diverticular disease of the intestine,303374019.0,J5z,J5z..00,85919009.0,506816016.0,K578,Intestinal disorders NOS
+Diverticular disease of the intestine,303772017.0,Jyu55,Jyu5500,85919009.0,506815017.0,K578,[X]Other specified diseases of intestine
+Diverticular disease of the intestine,818751000006112.0,79,79...00,64915003.0,107901016.0,K578,Heart operations
+Diverticular disease of the intestine,20181000006111.0,793y,793y.00,78418002.0,130132018.0,K578,Other parts of heart or pericardium operations OS
+Diverticular disease of the intestine,537671000006115.0,79-1,79...11,64915003.0,107901016.0,K578,Cardiac operations
+Diverticular disease of the intestine,303156019.0,J512y,J512y00,197104005.0,3512575015.0,K578,Perforated diverticulum unspecified
+Diverticular disease of the intestine,1.1782171000006116e+16,^ESCT1178217,,197104005.0,1.1782171000006116e+16,K578,Perforated diverticulum of intestine
+Diverticular disease of the intestine,1.2452641000006118e+16,^ESCT1245264,,197104005.0,303147010.0,K578,Perforated diverticulum
+Diverticular disease of the intestine,1.1876441000006112e+16,^ESCT1187644,,235774002.0,3512385015.0,K578,Abscess of colon co-occurrent and due to diverticular disease of colon
+Diverticular disease of the intestine,1.1878541000006112e+16,^ESCT1187854,,63532004.0,3512567014.0,K578,Multiple diverticula of intestine
+Diverticular disease of the intestine,3555851000006113.0,^ESCTOP355585,,64915003.0,107896018.0,K578,Operative procedure on heart
+Diverticular disease of the intestine,3533221000006117.0,^ESCTDI353322,,63532004.0,3028688010.0,K578,Diverticulosis of small intestine and colon
+Diverticular disease of the intestine,3896431000006115.0,^ESCTEN389643,,85919009.0,142436015.0,K578,Enteropathy
+Diverticular disease of the intestine,1.1876451000006114e+16,^ESCT1187645,,235774002.0,3512387011.0,K578,Abscess with diverticular disease of colon
+Diverticular disease of the intestine,5085371000006111.0,^ESCTCO508537,,235774002.0,353439014.0,K578,Colonic diverticular abscess
+Diverticular disease of the intestine,303770013.0,Jyu53,Jyu5300,85919009.0,142433011.0,K578,[X]Other specified functional disorders of intestine
+Diverticular disease of the intestine,303372015.0,J57z,J57z.00,85919009.0,142433011.0,K578,Other intestinal disorders NOS
+Diverticular disease of the intestine,303766017.0,Jyu5,Jyu5.00,85919009.0,142433011.0,K578,[X]Other diseases of intestines
+Diverticular disease of the intestine,271312012.0,79z,79z..00,64915003.0,107901016.0,K578,Heart operations NOS
+Diverticular disease of the intestine,303295010.0,J57,J57..00,85919009.0,506815017.0,K578,Other disorders of intestine
+Diverticular disease of the intestine,303157011.0,J512z,J512z00,197104005.0,3512575015.0,K578,Perforated diverticulum of intestine NOS
+Diverticular disease of the intestine,1.187853100000612e+16,^ESCT1187853,,63532004.0,3512569012.0,K578,Asymptomatic diverticulosis of intestine
+Diverticular disease of the intestine,353440011.0,J513,J513.00,235774002.0,353440011.0,K578,Diverticular abscess
+Diverticular disease of the intestine,450775010.0,J511,J511.00,307496006.0,450775010.0,K578,Diverticulitis
+Diverticular disease of the intestine,105596011.0,J51,J51..00,63532004.0,105596011.0,K578,Diverticula of intestine
+Diverticular disease of the intestine,1222353014.0,J57y,J57y.00,85919009.0,506815017.0,K578,Other intestine disorders
+Diverticular disease of the intestine,303147010.0,J512,J512.00,197104005.0,3512575015.0,K578,Perforated diverticulum
+Diverticular disease of the intestine,1.190481100000612e+16,^ESCT1190481,,197104005.0,233441000006111.0,K578,Perforated diverticulum unspecified
+Diverticular disease of the intestine,271174012.0,793,793..00,78418002.0,130132018.0,K578,Other parts of heart and pericardium operations
+Diverticular disease of the intestine,271309014.0,793z,793z.00,78418002.0,130132018.0,K578,Other parts of heart and pericardium operations NOS
+Diverticular disease of the intestine,5046541000006113.0,^ESCTPR504654,,233154000.0,349318018.0,K578,Procedure for arrhythmia
+Diverticular disease of the intestine,3555861000006110.0,^ESCTCA355586,,64915003.0,107900015.0,K578,Cardiac surgery procedure
+Diverticular disease of the intestine,1.1878551000006114e+16,^ESCT1187855,,63532004.0,3512568016.0,K578,Diverticulosis of intestine
+Diverticular disease of the intestine,303131013.0,J5106,J510600,398157006.0,1777716018.0,K579,Diverticulosis of the large intestine unspecified
+Diverticular disease of the intestine,303145019.0,J511y,J511y00,307496006.0,450775010.0,K579,Diverticulitis unspecified
+Diverticular disease of the intestine,303146018.0,J511z,J511z00,307496006.0,450775010.0,K579,Diverticulitis NOS
+Diverticular disease of the intestine,303159014.0,J51z,J51z.00,63532004.0,105596011.0,K579,Diverticula of the intestine NOS
+Diverticular disease of the intestine,303374019.0,J5z,J5z..00,85919009.0,506816016.0,K579,Intestinal disorders NOS
+Diverticular disease of the intestine,303772017.0,Jyu55,Jyu5500,85919009.0,506815017.0,K579,[X]Other specified diseases of intestine
+Diverticular disease of the intestine,818751000006112.0,79,79...00,64915003.0,107901016.0,K579,Heart operations
+Diverticular disease of the intestine,1786007012.0,J510,J510.00,397881000.0,1777478012.0,K579,Diverticulosis
+Diverticular disease of the intestine,886341000006110.0,J51-99,J51..99,397881000.0,886341000006110.0,K579,Diverticular disease NOS
+Diverticular disease of the intestine,20181000006111.0,793y,793y.00,78418002.0,130132018.0,K579,Other parts of heart or pericardium operations OS
+Diverticular disease of the intestine,537671000006115.0,79-1,79...11,64915003.0,107901016.0,K579,Cardiac operations
+Diverticular disease of the intestine,1.1878541000006112e+16,^ESCT1187854,,63532004.0,3512567014.0,K579,Multiple diverticula of intestine
+Diverticular disease of the intestine,3555851000006113.0,^ESCTOP355585,,64915003.0,107896018.0,K579,Operative procedure on heart
+Diverticular disease of the intestine,3533221000006117.0,^ESCTDI353322,,63532004.0,3028688010.0,K579,Diverticulosis of small intestine and colon
+Diverticular disease of the intestine,3896431000006115.0,^ESCTEN389643,,85919009.0,142436015.0,K579,Enteropathy
+Diverticular disease of the intestine,1.1784321000006114e+16,^ESCT1178432,,398157006.0,3512372018.0,K579,Symptomatic diverticulosis of large intestine
+Diverticular disease of the intestine,303770013.0,Jyu53,Jyu5300,85919009.0,142433011.0,K579,[X]Other specified functional disorders of intestine
+Diverticular disease of the intestine,303372015.0,J57z,J57z.00,85919009.0,142433011.0,K579,Other intestinal disorders NOS
+Diverticular disease of the intestine,303766017.0,Jyu5,Jyu5.00,85919009.0,142433011.0,K579,[X]Other diseases of intestines
+Diverticular disease of the intestine,271312012.0,79z,79z..00,64915003.0,107901016.0,K579,Heart operations NOS
+Diverticular disease of the intestine,303135016.0,J510y,J510y00,397881000.0,1786007012.0,K579,Diverticulosis unspecified
+Diverticular disease of the intestine,303136015.0,J510z,J510z00,397881000.0,1777478012.0,K579,Diverticulosis NOS
+Diverticular disease of the intestine,303295010.0,J57,J57..00,85919009.0,506815017.0,K579,Other disorders of intestine
+Diverticular disease of the intestine,1.187853100000612e+16,^ESCT1187853,,63532004.0,3512569012.0,K579,Asymptomatic diverticulosis of intestine
+Diverticular disease of the intestine,1.1924441000006112e+16,^ESCT1192444,,397881000.0,626841000006115.0,K579,Diverticulosis unspecified
+Diverticular disease of the intestine,450775010.0,J511,J511.00,307496006.0,450775010.0,K579,Diverticulitis
+Diverticular disease of the intestine,1777478012.0,J51-1,J51..11,397881000.0,1777478012.0,K579,Diverticular disease
+Diverticular disease of the intestine,105596011.0,J51,J51..00,63532004.0,105596011.0,K579,Diverticula of intestine
+Diverticular disease of the intestine,1222353014.0,J57y,J57y.00,85919009.0,506815017.0,K579,Other intestine disorders
+Diverticular disease of the intestine,271174012.0,793,793..00,78418002.0,130132018.0,K579,Other parts of heart and pericardium operations
+Diverticular disease of the intestine,271309014.0,793z,793z.00,78418002.0,130132018.0,K579,Other parts of heart and pericardium operations NOS
+Diverticular disease of the intestine,303132018.0,J5107,J510700,398157006.0,1777716018.0,K579,Diverticulosis of the large intestine NOS
+Diverticular disease of the intestine,6594231000006117.0,^ESCTDD659423,,397881000.0,1786006015.0,K579,DD - Diverticular disease
+Diverticular disease of the intestine,5046541000006113.0,^ESCTPR504654,,233154000.0,349318018.0,K579,Procedure for arrhythmia
+Diverticular disease of the intestine,3555861000006110.0,^ESCTCA355586,,64915003.0,107900015.0,K579,Cardiac surgery procedure
+Diverticular disease of the intestine,1.1878551000006114e+16,^ESCT1187855,,63532004.0,3512568016.0,K579,Diverticulosis of intestine

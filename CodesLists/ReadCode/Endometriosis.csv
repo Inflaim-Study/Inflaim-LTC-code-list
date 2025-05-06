@@ -1,0 +1,38 @@
+Condition,OriginalReadCode,CleansedReadCode,Term
+Endometriosis,^ESCTEN354564,,Endometriosis of the pouch of Douglas
+Endometriosis,^ESCTIN374241,,Internal endometriosis
+Endometriosis,K50,K50..00,Endometriosis
+Endometriosis,K50-1,K50..11,Adenomyosis
+Endometriosis,K500,K500.00,Endometriosis of uterus
+Endometriosis,K5000,K500000,Internal endometriosis
+Endometriosis,K5001,K500100,Endometriosis of myometrium
+Endometriosis,K5001-1,K500111,Adenomyosis of endometrium
+Endometriosis,K5002,K500200,Endometriosis of cervix
+Endometriosis,K500z,K500z00,Endometriosis of uterus NOS
+Endometriosis,K501,K501.00,Endometriosis of ovary
+Endometriosis,K501-1,K501.11,Chocolate cyst of ovary
+Endometriosis,K502,K502.00,Endometriosis of the fallopian tube
+Endometriosis,K503,K503.00,Endometriosis of the pelvic peritoneum
+Endometriosis,K5030,K503000,Endometriosis of the broad ligament
+Endometriosis,K5031,K503100,Endometriosis of the pouch of Douglas
+Endometriosis,K5032,K503200,Endometriosis of the parametrium
+Endometriosis,K5033,K503300,Endometriosis of the round ligament
+Endometriosis,K503z,K503z00,Endometriosis of the pelvic peritoneum NOS
+Endometriosis,K504,K504.00,Endometriosis of the rectovaginal septum and vagina
+Endometriosis,K5040,K504000,Endometriosis of the rectovaginal septum
+Endometriosis,K5041,K504100,Endometriosis of the vagina
+Endometriosis,K504z,K504z00,Endometriosis of the rectovaginal septum and vagina NOS
+Endometriosis,K505,K505.00,Endometriosis of the intestine
+Endometriosis,K5050,K505000,Endometriosis of the appendix
+Endometriosis,K5051,K505100,Endometriosis of the colon
+Endometriosis,K5052,K505200,Endometriosis of the rectum
+Endometriosis,K505z,K505z00,Endometriosis of the intestine NOS
+Endometriosis,K506,K506.00,Endometriosis in scar of skin
+Endometriosis,K50y,K50y.00,Other endometriosis
+Endometriosis,K50y0,K50y000,Endometriosis of the bladder
+Endometriosis,K50y1,K50y100,Endometriosis of the lung
+Endometriosis,K50y2,K50y200,Endometriosis of the umbilicus
+Endometriosis,K50y3,K50y300,Endometriosis of the vulva
+Endometriosis,K50yz,K50yz00,Other endometriosis NOS
+Endometriosis,K50z,K50z.00,Endometriosis NOS
+Endometriosis,Kyu90,Kyu9000,[X]Other endometriosis

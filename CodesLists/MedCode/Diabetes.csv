@@ -1,0 +1,388 @@
+Condition,MedCodeId,Term
+Diabetes,1667921000000117.0,Type II diabetes mellitus with gastroparesis
+Diabetes,84531000006118.0,Type 2 diabetes mellitus with mononeuropathy
+Diabetes,84541000006111.0,Type 2 diabetes mellitus with multiple complications
+Diabetes,84641000006112.0,Type 2 diabetes mellitus without complication
+Diabetes,459311019.0,Type II diabetes mellitus with arthropathy
+Diabetes,292582011.0,Type II diabetes mellitus with gangrene
+Diabetes,84911000006119.0,Type II diabetes mellitus with multiple complications
+Diabetes,914271000006114.0,Type II diabetes mellitus with nephropathy
+Diabetes,1.2702411000006116e+16,Type II diabetes mellitus with neurological complications
+Diabetes,459306016.0,Type II diabetes mellitus with peripheral angiopathy
+Diabetes,85011000006119.0,Type II diabetes mellitus without complication
+Diabetes,84471000006119.0,Type 2 diabetes mellitus
+Diabetes,84841000006113.0,Type II diabetes mellitus
+Diabetes,84981000006114.0,Type II diabetes mellitus with renal complications
+Diabetes,84611000006113.0,Type 2 diabetes mellitus with renal complications
+Diabetes,84931000006113.0,Type II diabetes mellitus with neurological complications
+Diabetes,84561000006110.0,Type 2 diabetes mellitus with neurological complications
+Diabetes,85001000006117.0,Type II diabetes mellitus with ulcer
+Diabetes,84631000006119.0,Type 2 diabetes mellitus with ulcer
+Diabetes,84881000006119.0,Type II diabetes mellitus with gangrene
+Diabetes,84511000006112.0,Type 2 diabetes mellitus with gangrene
+Diabetes,84991000006112.0,Type II diabetes mellitus with retinopathy
+Diabetes,84621000006117.0,Type 2 diabetes mellitus with retinopathy
+Diabetes,84851000006110.0,Type II diabetes mellitus - poor control
+Diabetes,84481000006116.0,Type 2 diabetes mellitus - poor control
+Diabetes,84901000006117.0,Type II diabetes mellitus with mononeuropathy
+Diabetes,84921000006110.0,Type II diabetes mellitus with nephropathy
+Diabetes,84551000006113.0,Type 2 diabetes mellitus with nephropathy
+Diabetes,84891000006116.0,Type II diabetes mellitus with hypoglycaemic coma
+Diabetes,84521000006116.0,Type 2 diabetes mellitus with hypoglycaemic coma
+Diabetes,84871000006117.0,Type II diabetes mellitus with diabetic cataract
+Diabetes,84501000006114.0,Type 2 diabetes mellitus with diabetic cataract
+Diabetes,84961000006116.0,Type II diabetes mellitus with peripheral angiopathy
+Diabetes,84591000006119.0,Type 2 diabetes mellitus with peripheral angiopathy
+Diabetes,84861000006112.0,Type II diabetes mellitus with arthropathy
+Diabetes,84491000006118.0,Type 2 diabetes mellitus with arthropathy
+Diabetes,84941000006115.0,Type II diabetes mellitus with neuropathic arthropathy
+Diabetes,84571000006115.0,Type 2 diabetes mellitus with neuropathic arthropathy
+Diabetes,840951000006119.0,Insulin treated Type 2 diabetes mellitus
+Diabetes,841351000006110.0,Insulin treated Type II diabetes mellitus
+Diabetes,850691000006118.0,Hyperosmolar non-ketotic state in type 2 diabetes mellitus
+Diabetes,197761014.0,Type 2 diabetes mellitus
+Diabetes,493774016.0,Type II diabetes mellitus
+Diabetes,914031000006118.0,Type 2 diabetes mellitus with renal complications
+Diabetes,914041000006111.0,Type II diabetes mellitus with renal complications
+Diabetes,914071000006115.0,Type 2 diabetes mellitus with neurological complications
+Diabetes,914081000006117.0,Type II diabetes mellitus with neurological complications
+Diabetes,292577016.0,Type 2 diabetes mellitus with multiple complications
+Diabetes,292576013.0,Type II diabetes mellitus with multiple complications
+Diabetes,292579018.0,Type 2 diabetes mellitus with ulcer
+Diabetes,292581016.0,Type II diabetes mellitus with ulcer
+Diabetes,292583018.0,Type 2 diabetes mellitus with gangrene
+Diabetes,914151000006112.0,Type 2 diabetes mellitus with retinopathy
+Diabetes,914161000006114.0,Type II diabetes mellitus with retinopathy
+Diabetes,292590011.0,Type 2 diabetes mellitus - poor control
+Diabetes,292589019.0,Type II diabetes mellitus - poor control
+Diabetes,457329019.0,Type 2 diabetes mellitus without complication
+Diabetes,457330012.0,Type II diabetes mellitus without complication
+Diabetes,914221000006113.0,Type 2 diabetes mellitus with mononeuropathy
+Diabetes,914231000006111.0,Type II diabetes mellitus with mononeuropathy
+Diabetes,914261000006119.0,Type 2 diabetes mellitus with nephropathy
+Diabetes,459167016.0,Type 2 diabetes mellitus with hypoglycaemic coma
+Diabetes,459169018.0,Type II diabetes mellitus with hypoglycaemic coma
+Diabetes,914301000006111.0,Type 2 diabetes mellitus with diabetic cataract
+Diabetes,914311000006114.0,Type II diabetes mellitus with diabetic cataract
+Diabetes,459308015.0,Type 2 diabetes mellitus with peripheral angiopathy
+Diabetes,459310018.0,Type 2 diabetes mellitus with arthropathy
+Diabetes,459313016.0,Type 2 diabetes mellitus with neuropathic arthropathy
+Diabetes,914391000006116.0,Insulin treated Type 2 diabetes mellitus
+Diabetes,1223147012.0,Insulin treated Type II diabetes mellitus
+Diabetes,1488898011.0,Hyperosmolar non-ketotic state in type 2 diabetes mellitus
+Diabetes,928541000006117.0,Type 2 diabetes mellitus with persistent proteinuria
+Diabetes,928551000006115.0,Type II diabetes mellitus with persistent proteinuria
+Diabetes,928561000006118.0,Type 2 diabetes mellitus with persistent microalbuminuria
+Diabetes,928571000006113.0,Type II diabetes mellitus with persistent microalbuminuria
+Diabetes,928581000006111.0,Type 2 diabetes mellitus with ketoacidosis
+Diabetes,928601000006118.0,Type 2 diabetes mellitus with ketoacidotic coma
+Diabetes,938321000006116.0,Type 2 diabetes mellitus with exudative maculopathy
+Diabetes,299621000000117.0,Type 2 diabetes mellitus with gastroparesis
+Diabetes,6953901000006115.0,DKA - diabetic ketoacidosis
+Diabetes,881501000006110.0,Diabetes + neuropathy
+Diabetes,881441000006111.0,Diabetes mellitus - juvenile
+Diabetes,881451000006113.0,Diabetes mellitus -adult onset
+Diabetes,881461000006110.0,Diabetes+ketoacidosis -no coma
+Diabetes,3319861000006118.0,Diabetic autonomic neuropathy
+Diabetes,6953861000006110.0,Diabetic ketoacidosis
+Diabetes,178798017.0,Diabetic ketoacidosis without coma
+Diabetes,4808921000006113.0,Diabetic neuropathic arthropathy
+Diabetes,2817479019.0,Hyperglycaemic crisis in diabetes mellitus
+Diabetes,887971000006115.0,Preg.+ diabetes mellitus
+Diabetes,6022721000006112.0,Proliferative diabetic retinopathy - high risk
+Diabetes,902201000006112.0,Reaction: insulin/antidiabetic
+Diabetes,356078011.0,Secondary endocrine diabetes mellitus
+Diabetes,2586731000000110.0,Under care of community-based diabetes specialist nurse
+Diabetes,2586691000000116.0,Under care of hospital-based diabetes specialist nurse
+Diabetes,1.2730981000006112e+16,Diabetes mellitus NOS with other specified manifestation
+Diabetes,1.273097100000611e+16,Diabetes mellitus with other specified manifestation
+Diabetes,913981000006115.0,Insulin dependent diab mell with neuropathic arthropathy
+Diabetes,913921000006119.0,Insulin dependent diab mell with peripheral angiopathy
+Diabetes,6051171000006117.0,Insulin dependent diabetes mellitus with arthropathy
+Diabetes,913621000006112.0,Insulin dependent diabetes mellitus with gangrene
+Diabetes,459162010.0,Insulin dependent diabetes mellitus with hypoglycaemic coma
+Diabetes,6050041000006115.0,Insulin dependent diabetes mellitus with hypoglycaemic coma
+Diabetes,913771000006115.0,Insulin dependent diabetes mellitus with mononeuropathy
+Diabetes,913831000006114.0,Insulin dependent diabetes mellitus with nephropathy
+Diabetes,1.1927551000006116e+16,Insulin dependent diabetes mellitus with ulcer
+Diabetes,913441000006119.0,Insulin-dependent diabetes mellitus with renal complications
+Diabetes,457327017.0,Insulin-dependent diabetes without complication
+Diabetes,6030001000006116.0,Insulin-dependent diabetes without complication
+Diabetes,5687751000006119.0,Lipoatrophic diabetes mellitus
+Diabetes,1.248544100000612e+16,NIDDM with peripheral circulatory disorder
+Diabetes,1.2725191000006116e+16,Other specified diabetes mellitus with coma
+Diabetes,84311000006118.0,Type 1 diabetes mellitus with arthropathy
+Diabetes,84331000006112.0,Type 1 diabetes mellitus with gangrene
+Diabetes,84351000006117.0,Type 1 diabetes mellitus with mononeuropathy
+Diabetes,84361000006115.0,Type 1 diabetes mellitus with multiple complications
+Diabetes,84371000006110.0,Type 1 diabetes mellitus with nephropathy
+Diabetes,84411000006111.0,Type 1 diabetes mellitus with peripheral angiopathy
+Diabetes,84461000006114.0,Type 1 diabetes mellitus without complication
+Diabetes,292550013.0,Type I diabetes mellitus - poor control
+Diabetes,459294012.0,Type I diabetes mellitus with arthropathy
+Diabetes,913911000006110.0,Type I diabetes mellitus with diabetic cataract
+Diabetes,459163017.0,Type I diabetes mellitus with hypoglycaemic coma
+Diabetes,84731000006111.0,Type I diabetes mellitus with multiple complications
+Diabetes,913851000006119.0,Type I diabetes mellitus with nephropathy
+Diabetes,459295013.0,Type I diabetes mellitus with neuropathic arthropathy
+Diabetes,913461000006115.0,Type I diabetes mellitus with renal complications
+Diabetes,169731000006118.0,Retinal abnormality - diabetes related
+Diabetes,1484887015.0,O/E - diabetic maculopathy present both eyes
+Diabetes,2159973010.0,O/E - right eye background diabetic retinopathy
+Diabetes,2159974016.0,O/E - left eye background diabetic retinopathy
+Diabetes,2159975015.0,O/E - right eye preproliferative diabetic retinopathy
+Diabetes,2159976019.0,O/E - left eye preproliferative diabetic retinopathy
+Diabetes,2159977011.0,O/E - right eye proliferative diabetic retinopathy
+Diabetes,2159978018.0,O/E - left eye proliferative diabetic retinopathy
+Diabetes,2159979014.0,O/E - right eye diabetic maculopathy
+Diabetes,2159980012.0,O/E - left eye diabetic maculopathy
+Diabetes,975251000006111.0,O/E - right eye stable treated prolif diabetic retinopathy
+Diabetes,975261000006113.0,O/E - left eye stable treated prolif diabetic retinopathy
+Diabetes,2549896013.0,O/E - sight threatening diabetic retinopathy
+Diabetes,764191000006112.0,Foot abnormality - diabetes related
+Diabetes,451410016.0,O/E - Right diabetic foot at risk
+Diabetes,451411017.0,O/E - Left diabetic foot at risk
+Diabetes,764201000006110.0,Foot abnormality - diabetes related
+Diabetes,1488395018.0,O/E - Right diabetic foot - ulcerated
+Diabetes,1488396017.0,O/E - Left diabetic foot - ulcerated
+Diabetes,2532977011.0,O/E - right chronic diabetic foot ulcer
+Diabetes,2532976019.0,O/E - left chronic diabetic foot ulcer
+Diabetes,401531012.0,Diabetic - poor control
+Diabetes,411891014.0,Unstable diabetes
+Diabetes,19931010.0,Brittle diabetes
+Diabetes,264716012.0,Diabetic - poor control NOS
+Diabetes,2474726011.0,Pan retinal photocoagulation for diabetes
+Diabetes,278718015.0,Continuous subcutaneous infusion of insulin
+Diabetes,121589010.0,Diabetes mellitus
+Diabetes,292466013.0,Diabetes mellitus with no mention of complication
+Diabetes,616621000006115.0,"Diabetes mellitus, juvenile type, no mention of complication"
+Diabetes,772161000006119.0,Insulin dependent diabetes mellitus
+Diabetes,616511000006110.0,"Diabetes mellitus, adult onset, no mention of complication"
+Diabetes,223291000000111.0,Maturity onset diabetes
+Diabetes,73466011.0,Non-insulin dependent diabetes mellitus
+Diabetes,292475010.0,Diabetes mellitus NOS with no mention of complication
+Diabetes,2622193012.0,Diabetes mellitus with ketoacidosis
+Diabetes,616641000006110.0,"Diabetes mellitus, juvenile type, with ketoacidosis"
+Diabetes,616531000006116.0,"Diabetes mellitus, adult onset, with ketoacidosis"
+Diabetes,292478012.0,Other specified diabetes mellitus with ketoacidosis
+Diabetes,292479016.0,Diabetes mellitus NOS with ketoacidosis
+Diabetes,292480018.0,Diabetes mellitus with hyperosmolar coma
+Diabetes,292482014.0,"Diabetes mellitus, juvenile type, with hyperosmolar coma"
+Diabetes,292483016.0,"Diabetes mellitus, adult onset, with hyperosmolar coma"
+Diabetes,292484010.0,Diabetes mellitus NOS with hyperosmolar coma
+Diabetes,616381000006111.0,Diabetes mellitus with ketoacidotic coma
+Diabetes,616651000006112.0,"Diabetes mellitus, juvenile type, with ketoacidotic coma"
+Diabetes,616541000006114.0,"Diabetes mellitus, adult onset, with ketoacidotic coma"
+Diabetes,292488013.0,Other specified diabetes mellitus with coma
+Diabetes,292489017.0,Diabetes mellitus NOS with ketoacidotic coma
+Diabetes,616461000006112.0,Diabetes mellitus with renal manifestation
+Diabetes,205225016.0,Diabetic nephropathy
+Diabetes,616661000006114.0,"Diabetes mellitus, juvenile type, with renal manifestation"
+Diabetes,616551000006111.0,"Diabetes mellitus, adult onset, with renal manifestation"
+Diabetes,292495016.0,Other specified diabetes mellitus with renal complications
+Diabetes,292496015.0,Diabetes mellitis with nephropathy NOS
+Diabetes,616421000006118.0,Diabetes mellitus with ophthalmic manifestation
+Diabetes,13771000006110.0,Other specified diabetes mellitus with ophthalmic complicatn
+Diabetes,292503016.0,Diabetes mellitus NOS with ophthalmic manifestation
+Diabetes,616391000006114.0,Diabetes mellitus with neurological manifestation
+Diabetes,616921000006113.0,Diabetic amyotrophy
+Diabetes,345487013.0,Diabetes mellitus with neuropathy
+Diabetes,616451000006110.0,Diabetes mellitus with polyneuropathy
+Diabetes,616481000006119.0,"Diabetes mellitus, adult onset, + neurological manifestation"
+Diabetes,13761000006115.0,Other specified diabetes mellitus with neurological comps
+Diabetes,292512019.0,Diabetes mellitus NOS with neurological manifestation
+Diabetes,616441000006113.0,Diabetes mellitus with peripheral circulatory disorder
+Diabetes,616351000006115.0,Diabetes mellitus with gangrene
+Diabetes,616831000006118.0,Diabetes with gangrene
+Diabetes,616591000006117.0,"Diabetes mellitus, juvenile +peripheral circulatory disorder"
+Diabetes,616581000006115.0,"Diabetes mellitus, adult, + peripheral circulatory disorder"
+Diabetes,616561000006113.0,"Diabetes mellitus, adult with gangrene"
+Diabetes,787101000006114.0,IDDM with peripheral circulatory disorder
+Diabetes,674961000006118.0,NIDDM with peripheral circulatory disorder
+Diabetes,292523015.0,Diabetes mellitus NOS with peripheral circulatory disorder
+Diabetes,772171000006114.0,Insulin dependent diabetes mellitus
+Diabetes,787111000006112.0,IDDM-Insulin dependent diabetes mellitus
+Diabetes,84281000006115.0,Type 1 diabetes mellitus
+Diabetes,84651000006114.0,Type I diabetes mellitus
+Diabetes,771501000006119.0,Insulin-dependent diabetes mellitus with renal complications
+Diabetes,84801000006111.0,Type I diabetes mellitus with renal complications
+Diabetes,84431000006117.0,Type 1 diabetes mellitus with renal complications
+Diabetes,771491000006110.0,Insulin-dependent diabetes mellitus with ophthalmic comps
+Diabetes,771481000006112.0,Insulin-dependent diabetes mellitus with neurological comps
+Diabetes,771381000006115.0,Insulin dependent diabetes mellitus with multiple complicatn
+Diabetes,72651000006114.0,Unstable insulin dependent diabetes mellitus
+Diabetes,72721000006113.0,Unstable type I diabetes mellitus
+Diabetes,72711000006117.0,Unstable type 1 diabetes mellitus
+Diabetes,771421000006113.0,Insulin dependent diabetes mellitus with ulcer
+Diabetes,84821000006118.0,Type I diabetes mellitus with ulcer
+Diabetes,84451000006112.0,Type 1 diabetes mellitus with ulcer
+Diabetes,771351000006111.0,Insulin dependent diabetes mellitus with gangrene
+Diabetes,771411000006117.0,Insulin dependent diabetes mellitus with retinopathy
+Diabetes,84811000006114.0,Type I diabetes mellitus with retinopathy
+Diabetes,84441000006110.0,Type 1 diabetes mellitus with retinopathy
+Diabetes,772181000006112.0,Insulin dependent diabetes mellitus - poor control
+Diabetes,84661000006111.0,Type I diabetes mellitus - poor control
+Diabetes,84291000006117.0,Type 1 diabetes mellitus - poor control
+Diabetes,772151000006116.0,Insulin dependent diabetes maturity onset
+Diabetes,84671000006116.0,Type I diabetes mellitus maturity onset
+Diabetes,84301000006116.0,Type 1 diabetes mellitus maturity onset
+Diabetes,746791000006111.0,Insulin-dependent diabetes without complication
+Diabetes,84831000006115.0,Type I diabetes mellitus without complication
+Diabetes,771371000006118.0,Insulin dependent diabetes mellitus with mononeuropathy
+Diabetes,771401000006115.0,Insulin dependent diabetes mellitus with polyneuropathy
+Diabetes,771391000006117.0,Insulin dependent diabetes mellitus with nephropathy
+Diabetes,84741000006118.0,Type I diabetes mellitus with nephropathy
+Diabetes,771361000006113.0,Insulin dependent diabetes mellitus with hypoglycaemic coma
+Diabetes,84711000006117.0,Type I diabetes mellitus with hypoglycaemic coma
+Diabetes,84341000006119.0,Type 1 diabetes mellitus with hypoglycaemic coma
+Diabetes,771341000006114.0,Insulin dependent diabetes mellitus with diabetic cataract
+Diabetes,84691000006115.0,Type I diabetes mellitus with diabetic cataract
+Diabetes,772141000006118.0,Insulin dependent diab mell with peripheral angiopathy
+Diabetes,84681000006118.0,Type I diabetes mellitus with arthropathy
+Diabetes,772131000006111.0,Insulin dependent diab mell with neuropathic arthropathy
+Diabetes,84761000006119.0,Type I diabetes mellitus with neuropathic arthropathy
+Diabetes,84391000006111.0,Type 1 diabetes mellitus with neuropathic arthropathy
+Diabetes,13751000006117.0,Other specified diabetes mellitus with multiple comps
+Diabetes,292565014.0,Unspecified diabetes mellitus with multiple complications
+Diabetes,280571000006116.0,Non-insulin dependent diabetes mellitus
+Diabetes,493773010.0,NIDDM - Non-insulin dependent diabetes mellitus
+Diabetes,587521000006111.0,Non-insulin-dependent diabetes mellitus with renal comps
+Diabetes,280591000006115.0,Non-insulin-dependent diabetes mellitus with neuro comps
+Diabetes,280581000006118.0,Non-insulin-dependent diabetes mellitus with multiple comps
+Diabetes,280551000006114.0,Non-insulin dependent diabetes mellitus with ulcer
+Diabetes,281211000006117.0,Non-insulin dependent diabetes mellitus with gangrene
+Diabetes,641581000006115.0,Non-insulin-dependent diabetes mellitus with retinopathy
+Diabetes,281171000006119.0,Non-insulin dependent diabetes mellitus - poor control
+Diabetes,457328010.0,Non-insulin-dependent diabetes mellitus without complication
+Diabetes,280521000006117.0,Non-insulin dependent diabetes mellitus with mononeuropathy
+Diabetes,280531000006119.0,Non-insulin dependent diabetes mellitus with nephropathy
+Diabetes,280511000006113.0,Non-insulin dependent diabetes mellitus with hypoglyca coma
+Diabetes,281161000006114.0,Non-insulin depend diabetes mellitus with diabetic cataract
+Diabetes,280561000006111.0,Non-insulin-dependent d m with peripheral angiopath
+Diabetes,459309011.0,Non-insulin dependent diabetes mellitus with arthropathy
+Diabetes,281181000006116.0,Non-insulin dependent d m with neuropathic arthropathy
+Diabetes,1223148019.0,Insulin treated non-insulin dependent diabetes mellitus
+Diabetes,719531000006118.0,Malnutrition-related diabetes mellitus
+Diabetes,719541000006111.0,Malnutrition-related diabetes mellitus with coma
+Diabetes,292606016.0,Malnutrition-related diabetes mellitus with ketoacidosis
+Diabetes,616241000006112.0,Diabetes mellitus induced by steroids
+Diabetes,127051000006112.0,Steroid induced diabetes mellitus without complication
+Diabetes,483882011.0,Diabetes mellitus autosomal dominant
+Diabetes,483886014.0,Maturity onset diabetes in youth
+Diabetes,2476117016.0,Maturity onset diabetes in youth type 1
+Diabetes,840971000006112.0,Diabetes mellitus autosomal dominant type 2
+Diabetes,356085010.0,Maturity onset diabetes in youth type 2
+Diabetes,197984010.0,Type 1 diabetes mellitus
+Diabetes,494564012.0,Type I diabetes mellitus
+Diabetes,77727018.0,Insulin dependent diabetes mellitus
+Diabetes,913451000006117.0,Type 1 diabetes mellitus with renal complications
+Diabetes,913471000006110.0,Insulin-dependent diabetes mellitus with ophthalmic comps
+Diabetes,913541000006118.0,Type 1 diabetes mellitus with multiple complications
+Diabetes,913551000006116.0,Type I diabetes mellitus with multiple complications
+Diabetes,913531000006111.0,Insulin dependent diabetes mellitus with multiple complicat
+Diabetes,429971019.0,Unstable type 1 diabetes mellitus
+Diabetes,429970018.0,Unstable type I diabetes mellitus
+Diabetes,429972014.0,Unstable insulin dependent diabetes mellitus
+Diabetes,292540012.0,Type 1 diabetes mellitus with ulcer
+Diabetes,292538019.0,Type I diabetes mellitus with ulcer
+Diabetes,913591000006110.0,Insulin dependent diabetes mellitus with ulcer
+Diabetes,292541011.0,Type 1 diabetes mellitus with gangrene
+Diabetes,913661000006118.0,Type 1 diabetes mellitus with retinopathy
+Diabetes,913671000006113.0,Type I diabetes mellitus with retinopathy
+Diabetes,913651000006115.0,Insulin dependent diabetes mellitus with retinopathy
+Diabetes,292548017.0,Type 1 diabetes mellitus - poor control
+Diabetes,913681000006111.0,Insulin dependent diabetes mellitus - poor control
+Diabetes,292553010.0,Type 1 diabetes mellitus maturity onset
+Diabetes,292551012.0,Type I diabetes mellitus maturity onset
+Diabetes,913711000006112.0,Insulin dependent diabetes maturity onset
+Diabetes,457326014.0,Type 1 diabetes mellitus without complication
+Diabetes,457325013.0,Type I diabetes mellitus without complication
+Diabetes,913781000006117.0,Type 1 diabetes mellitus with mononeuropathy
+Diabetes,913841000006116.0,Type 1 diabetes mellitus with nephropathy
+Diabetes,459161015.0,Type 1 diabetes mellitus with hypoglycaemic coma
+Diabetes,913901000006112.0,Type 1 diabetes mellitus with diabetic cataract
+Diabetes,913931000006116.0,Type 1 diabetes mellitus with peripheral angiopathy
+Diabetes,459292011.0,Type 1 diabetes mellitus with arthropathy
+Diabetes,459296014.0,Type 1 diabetes mellitus with neuropathic arthropathy
+Diabetes,928461000006119.0,Type 1 diabetes mellitus with persistent proteinuria
+Diabetes,1780311019.0,Type 1 diabetes mellitus with persistent microalbuminuria
+Diabetes,928501000006119.0,Type 1 diabetes mellitus with ketoacidosis
+Diabetes,928511000006116.0,Type I diabetes mellitus with ketoacidosis
+Diabetes,928521000006112.0,Type 1 diabetes mellitus with ketoacidotic coma
+Diabetes,928531000006110.0,Type I diabetes mellitus with ketoacidotic coma
+Diabetes,938301000006114.0,Type 1 diabetes mellitus with exudative maculopathy
+Diabetes,938311000006112.0,Type I diabetes mellitus with exudative maculopathy
+Diabetes,299601000000114.0,Type 1 diabetes mellitus with gastroparesis
+Diabetes,2674067015.0,Latent autoimmune diabetes mellitus in adult
+Diabetes,622221000000118.0,Maternally inherited diabetes mellitus
+Diabetes,1230929011.0,Secondary pancreatic diabetes mellitus
+Diabetes,198461000000116.0,Secondary pancreatic diabetes mellitus without complication
+Diabetes,2160090014.0,Diabetes mellitus induced by non-steroid drugs
+Diabetes,967631000006115.0,DM induced by non-steroid drugs without complication
+Diabetes,967701000006116.0,Lipoatrophic diabetes mellitus
+Diabetes,15518018.0,Secondary diabetes mellitus
+Diabetes,189721000000113.0,Secondary diabetes mellitus without complication
+Diabetes,494831000000119.0,Cystic fibrosis related diabetes mellitus
+Diabetes,292617015.0,Diabetes mellitus with other specified manifestation
+Diabetes,616571000006118.0,"Diabetes mellitus, adult, + other specified manifestation"
+Diabetes,13781000006113.0,Other specified diabetes mellitus with other spec comps
+Diabetes,292621010.0,Diabetes mellitus NOS with other specified manifestation
+Diabetes,292622015.0,Diabetes mellitus with unspecified complication
+Diabetes,616611000006111.0,"Diabetes mellitus, juvenile type, + unspecified complication"
+Diabetes,616501000006112.0,"Diabetes mellitus, adult onset, + unspecified complication"
+Diabetes,13811000006110.0,Other specified diabetes mellitus with unspecified comps
+Diabetes,292626017.0,Diabetes mellitus NOS with unspecified complication
+Diabetes,127041000006110.0,Steroid induced diabetes
+Diabetes,354316011.0,Renal diabetes
+Diabetes,1786715019.0,Bronzed diabetes
+Diabetes,377001000006117.0,[X]Diabetes mellitus
+Diabetes,293756010.0,[X]Other specified diabetes mellitus
+Diabetes,1230890017.0,Autonomic neuropathy due to diabetes
+Diabetes,297492014.0,Diabetic mononeuritis multiplex
+Diabetes,297510017.0,Diabetic mononeuritis NOS
+Diabetes,214921000006116.0,Polyneuropathy in diabetes
+Diabetes,82373015.0,Diabetic polyneuropathy
+Diabetes,345486016.0,Diabetic neuropathy
+Diabetes,297551015.0,Chronic painful diabetic neuropathy
+Diabetes,297552010.0,Asymptomatic diabetic neuropathy
+Diabetes,399419012.0,Myasthenic syndrome due to diabetic amyotrophy
+Diabetes,65526011.0,Diabetic amyotrophy
+Diabetes,345492010.0,Diabetic mononeuropathy
+Diabetes,9093013.0,Diabetic retinopathy
+Diabetes,1785332013.0,Background diabetic retinopathy
+Diabetes,98476015.0,Proliferative diabetic retinopathy
+Diabetes,297754014.0,Preproliferative diabetic retinopathy
+Diabetes,297755010.0,Advanced diabetic maculopathy
+Diabetes,347657010.0,Diabetic maculopathy
+Diabetes,455408014.0,Advanced diabetic retinal disease
+Diabetes,1484867016.0,Non proliferative diabetic retinopathy
+Diabetes,1785163015.0,High risk proliferative diabetic retinopathy
+Diabetes,841011000006112.0,High risk non proliferative diabetic retinopathy
+Diabetes,297758012.0,Diabetic retinopathy NOS
+Diabetes,297964010.0,Diabetic iritis
+Diabetes,73294018.0,Diabetic cataract
+Diabetes,302011.0,Diabetic peripheral angiopathy
+Diabetes,303846016.0,Nephrotic syndrome in diabetes mellitus
+Diabetes,303847013.0,Kimmelstiel - Wilson disease
+Diabetes,306112011.0,"Pre-existing diabetes mellitus, insulin-dependent"
+Diabetes,306113018.0,"Pre-existing diabetes mellitus, non-insulin-dependent"
+Diabetes,213141000006111.0,"Pre-existing diabetes mellitus, unspecified"
+Diabetes,308360012.0,Cellulitis in diabetic foot
+Diabetes,358035014.0,Insulin lipohypertrophy
+Diabetes,358036010.0,Insulin site lipohypertrophy
+Diabetes,309177010.0,Ischaemic ulcer diabetic foot
+Diabetes,309179013.0,Neuropathic diabetic ulcer - foot
+Diabetes,309180011.0,Mixed diabetic ulcer - foot
+Diabetes,309737011.0,Diabetic cheiroarthropathy
+Diabetes,309738018.0,Diabetic cheiropathy
+Diabetes,616971000006114.0,Diabetic Charcot arthropathy
+Diabetes,82979011.0,Neonatal diabetes mellitus
+Diabetes,317347010.0,[D]Gangrene of toe in diabetic
+Diabetes,317348017.0,[D]Widespread diabetic foot gangrene
+Diabetes,468191000006114.0,Adverse reaction to insulins and antidiabetic agents
+Diabetes,330806013.0,Adverse reaction to insulins and antidiabetic agents NOS
+Diabetes,354661000006118.0,[X] Adverse reaction to insulins and antidiabetic agents
+Diabetes,2967831017.0,Pre-existing type 1 diabetes mellitus in pregnancy
+Diabetes,84781000006112.0,Type I diabetes mellitus with peripheral angiopathy
+Diabetes,913941000006114.0,Type I diabetes mellitus with peripheral angiopathy
+Diabetes,928471000006114.0,Type I diabetes mellitus with persistent proteinuria

@@ -1,0 +1,318 @@
+Condition,OriginalReadCode,CleansedReadCode,Term
+Ischaemic heart diseases,7922,7922.00,Allograft replacement of coronary artery
+Ischaemic heart diseases,7923,7923.00,Prosthetic replacement of coronary artery
+Ischaemic heart diseases,3235,3235.00,ECG: subendocardial infarct
+Ischaemic heart diseases,3232,3232.00,ECG: old myocardial infarction
+Ischaemic heart diseases,3236,3236.00,ECG: lateral infarction
+Ischaemic heart diseases,3222,3222.00,ECG:shows myocardial ischaemia
+Ischaemic heart diseases,3234,3234.00,ECG:posterior/inferior infarct
+Ischaemic heart diseases,7925,7925.00,Connection of mammary artery to coronary artery
+Ischaemic heart diseases,7920,7920.00,Saphenous vein graft replacement of coronary artery
+Ischaemic heart diseases,3233,3233.00,ECG: antero-septal infarct.
+Ischaemic heart diseases,5543,5543.00,Coronary arteriograph.abnormal
+Ischaemic heart diseases,7921,7921.00,Other autograft replacement of coronary artery
+Ischaemic heart diseases,7928,7928.00,Transluminal balloon angioplasty of coronary artery
+Ischaemic heart diseases,7926,7926.00,Connection of other thoracic artery to coronary artery
+Ischaemic heart diseases,7924,7924.00,Revision of bypass for coronary artery
+Ischaemic heart diseases,5533,5533.00,Angiocardiography abnormal
+Ischaemic heart diseases,G39,G39..00,Coronary microvascular disease
+Ischaemic heart diseases,G342,G342.00,Atherosclerotic cardiovascular disease
+Ischaemic heart diseases,G5740,G574000,Ventricular fibrillation
+Ischaemic heart diseases,8L40,8L40.00,Coronary artery bypass graft operation planned
+Ischaemic heart diseases,79232,7923200,Prosthetic replacement of three coronary arteries
+Ischaemic heart diseases,79263,7926300,Single implantation thoracic artery into coronary artery NEC
+Ischaemic heart diseases,323Z,323Z.00,ECG: myocardial infarct NOS
+Ischaemic heart diseases,G312,G312.00,Coronary thrombosis not resulting in myocardial infarction
+Ischaemic heart diseases,79250,7925000,Double anastomosis of mammary arteries to coronary arteries
+Ischaemic heart diseases,6A2,6A2..00,Coronary heart disease annual review
+Ischaemic heart diseases,G3111,G311100,Unstable angina
+Ischaemic heart diseases,661M0,661M000,Angina self-management plan agreed
+Ischaemic heart diseases,79240,7924000,Revision of bypass for one coronary artery
+Ischaemic heart diseases,ZV45K,ZV45K00,[V]Presence of coronary artery bypass graft
+Ischaemic heart diseases,79260,7926000,Double anastom thoracic arteries to coronary arteries NEC
+Ischaemic heart diseases,G380,G380.00,Postoperative transmural myocardial infarction anterior wall
+Ischaemic heart diseases,44h3,44h3.00,Blood bicarbonate level
+Ischaemic heart diseases,44H3,44H3.00,Cardiac enzymes abnormal
+Ischaemic heart diseases,79296,7929600,Percutaneous transluminal atherectomy of coronary artery
+Ischaemic heart diseases,G330,G330.00,Angina decubitus
+Ischaemic heart diseases,G35,G35..00,Subsequent myocardial infarction
+Ischaemic heart diseases,ZV458,ZV45800,[V]Presence of coronary angioplasty implant and graft
+Ischaemic heart diseases,7921-1,7921.11,Other autograft bypass of coronary artery
+Ischaemic heart diseases,G384,G384.00,Postoperative subendocardial myocardial infarction
+Ischaemic heart diseases,79242,7924200,Revision of bypass for three coronary arteries
+Ischaemic heart diseases,G332,G332.00,Coronary artery spasm
+Ischaemic heart diseases,G34,G34..00,Other chronic ischaemic heart disease
+Ischaemic heart diseases,G3113,G311300,Refractory angina
+Ischaemic heart diseases,79210,7921000,Autograft replacement of one coronary artery NEC
+Ischaemic heart diseases,G3-2,G3...12,Atherosclerotic heart disease
+Ischaemic heart diseases,44MH,44MH.00,Plasma troponin T level
+Ischaemic heart diseases,792C,792C.00,Other replacement of coronary artery
+Ischaemic heart diseases,7920-1,7920.11,Saphenous vein graft bypass of coronary artery
+Ischaemic heart diseases,8F93,8F93.00,Cardiac rehabilitation - phase 4
+Ischaemic heart diseases,G341-1,G341.11,Cardiac aneurysm
+Ischaemic heart diseases,G344,G344.00,Silent myocardial ischaemia
+Ischaemic heart diseases,79290,7929000,Percutaneous transluminal laser coronary angioplasty
+Ischaemic heart diseases,G360,G360.00,Haemopericardium/current comp folow acut myocard infarct
+Ischaemic heart diseases,8L41,8L41.00,Coronary angioplasty planned
+Ischaemic heart diseases,793G3,793G300,Percutaneous cor balloon angiop 3 more stents cor art NEC
+Ischaemic heart diseases,7A564,7A56400,Percutaneous transluminal balloon angioplasty of artery
+Ischaemic heart diseases,79221,7922100,Allograft replacement of two coronary arteries
+Ischaemic heart diseases,79280,7928000,Percut transluminal balloon angioplasty one coronary artery
+Ischaemic heart diseases,G30-1,G30..11,Attack - heart
+Ischaemic heart diseases,G3114,G311400,Worsening angina
+Ischaemic heart diseases,G311-1,G311.11,Crescendo angina
+Ischaemic heart diseases,G311,G311.00,Preinfarction syndrome
+Ischaemic heart diseases,G5,G5...00,Other forms of heart disease
+Ischaemic heart diseases,662K0,662K000,Angina control - good
+Ischaemic heart diseases,14A5,14A5.00,H/O: angina pectoris
+Ischaemic heart diseases,32BZ,32BZ.00,ECG: Q wave NOS
+Ischaemic heart diseases,79291-1,7929111,Percut translum coronary thrombolytic therapy- streptokinase
+Ischaemic heart diseases,G311-3,G311.13,Unstable angina
+Ischaemic heart diseases,ZV45L,ZV45L00,[V]Status following coronary angioplasty NOS
+Ischaemic heart diseases,ZV457,ZV45700,[V]Presence of aortocoronary bypass graft
+Ischaemic heart diseases,8B27,8B27.00,Antianginal therapy
+Ischaemic heart diseases,79282,7928200,Percut translum balloon angioplasty bypass graft coronary a
+Ischaemic heart diseases,G32-2,G32..12,Personal history of myocardial infarction
+Ischaemic heart diseases,662-1,662..11,Heart disease monitoring
+Ischaemic heart diseases,7A548,7A54800,Percutaneous transluminal atherectomy
+Ischaemic heart diseases,G30-2,G30..12,Coronary thrombosis
+Ischaemic heart diseases,G304,G304.00,Posterior myocardial infarction NOS
+Ischaemic heart diseases,8F91,8F91.00,Cardiac rehabilitation - phase 2
+Ischaemic heart diseases,662k,662k.00,JBS cardiovascular disease risk <10% over next 10 years
+Ischaemic heart diseases,662K,662K.00,Angina control
+Ischaemic heart diseases,G3411,G341100,Other cardiac wall aneurysm
+Ischaemic heart diseases,79203,7920300,Saphenous vein graft replacement of four+ coronary arteries
+Ischaemic heart diseases,G30-6,G30..16,Thrombosis - coronary
+Ischaemic heart diseases,G-3,G....13,Heart diseases
+Ischaemic heart diseases,G340-2,G340.12,Coronary artery disease
+Ischaemic heart diseases,79231,7923100,Prosthetic replacement of two coronary arteries
+Ischaemic heart diseases,14A4,14A4.00,H/O: myocardial infarct >60
+Ischaemic heart diseases,G30-7,G30..17,Silent myocardial infarction
+Ischaemic heart diseases,14AA,14AA.00,H/O: heart disease NOS
+Ischaemic heart diseases,662Z,662Z.00,Cardiac disease monitoring NOS
+Ischaemic heart diseases,79202,7920200,Saphenous vein graft replacement of three coronary arteries
+Ischaemic heart diseases,G301,G301.00,Other specified anterior myocardial infarction
+Ischaemic heart diseases,G310,G310.00,Postmyocardial infarction syndrome
+Ischaemic heart diseases,322Z,322Z.00,ECG: myocardial ischaemia NOS
+Ischaemic heart diseases,G362,G362.00,Ventric septal defect/curr comp fol acut myocardal infarctn
+Ischaemic heart diseases,182A,182A.00,Chest pain on exertion
+Ischaemic heart diseases,G3-1,G3...11,Arteriosclerotic heart disease
+Ischaemic heart diseases,G311-4,G311.14,Angina at rest
+Ischaemic heart diseases,G33,G33..00,Angina pectoris
+Ischaemic heart diseases,32E4,32E4.00,ECG: S-T depression
+Ischaemic heart diseases,G3401,G340100,Double coronary vessel disease
+Ischaemic heart diseases,793G1,793G100,Perc tran ball angio ins 3 or more drug elut stents cor art
+Ischaemic heart diseases,79254,7925400,Single implantation of mammary artery into coronary artery
+Ischaemic heart diseases,G3,G3...00,Ischaemic heart disease
+Ischaemic heart diseases,1J61,1J61.00,Suspected ischaemic heart disease
+Ischaemic heart diseases,662K1,662K100,Angina control - poor
+Ischaemic heart diseases,G306,G306.00,True posterior myocardial infarction
+Ischaemic heart diseases,792-1,792..11,Coronary artery bypass graft operations
+Ischaemic heart diseases,79251,7925100,Double implant of mammary arteries into coronary arteries
+Ischaemic heart diseases,SP076,SP07600,Coronary artery bypass graft occlusion
+Ischaemic heart diseases,G310-1,G310.11,Dressler's syndrome
+Ischaemic heart diseases,G3410,G341000,Ventricular cardiac aneurysm
+Ischaemic heart diseases,14AJ,14AJ.00,H/O: Angina in last year
+Ischaemic heart diseases,G361,G361.00,Atrial septal defect/curr comp folow acut myocardal infarct
+Ischaemic heart diseases,ZV45K-1,ZV45K11,[V]Presence of coronary artery bypass graft - CABG
+Ischaemic heart diseases,79230,7923000,Prosthetic replacement of one coronary artery
+Ischaemic heart diseases,G3-3,G3...13,IHD - Ischaemic heart disease
+Ischaemic heart diseases,32131-1,3213111,Positive exercise ECG test
+Ischaemic heart diseases,32B2,32B2.00,ECG: Q wave abnormal
+Ischaemic heart diseases,G30-4,G30..14,Heart attack
+Ischaemic heart diseases,8T04,8T04.00,Referral to Angina Plan self-management programme
+Ischaemic heart diseases,G3110,G311000,Myocardial infarction aborted
+Ischaemic heart diseases,79281,7928100,Percut translum balloon angioplasty mult coronary arteries
+Ischaemic heart diseases,G363,G363.00,Ruptur cardiac wall w'out haemopericard/cur comp fol ac MI
+Ischaemic heart diseases,G381,G381.00,Postoperative transmural myocardial infarction inferior wall
+Ischaemic heart diseases,7A6H3,7A6H300,Prosthetic graft patch angioplasty
+Ischaemic heart diseases,79200,7920000,Saphenous vein graft replacement of one coronary artery
+Ischaemic heart diseases,662K3,662K300,Angina control - worsening
+Ischaemic heart diseases,793G0,793G000,Perc translum ball angio insert 1-2 drug elut stents cor art
+Ischaemic heart diseases,8I37,8I37.00,Coronary heart disease monitoring refused
+Ischaemic heart diseases,14AH,14AH.00,H/O: Myocardial infarction in last year
+Ischaemic heart diseases,662,662..00,Cardiac disease monitoring
+Ischaemic heart diseases,14AL,14AL.00,H/O: Treatment for ischaemic heart disease
+Ischaemic heart diseases,79212,7921200,Autograft replacement of three coronary arteries NEC
+Ischaemic heart diseases,G305,G305.00,Lateral myocardial infarction NOS
+Ischaemic heart diseases,G30A,G30A.00,Mural thrombosis
+Ischaemic heart diseases,79241,7924100,Revision of bypass for two coronary arteries
+Ischaemic heart diseases,G308,G308.00,Inferior myocardial infarction NOS
+Ischaemic heart diseases,792B0,792B000,Endarterectomy of coronary artery NEC
+Ischaemic heart diseases,G501,G501.00,Post infarction pericarditis
+Ischaemic heart diseases,G343,G343.00,Ischaemic cardiomyopathy
+Ischaemic heart diseases,32B3,32B3.00,ECG: Q wave pathological
+Ischaemic heart diseases,G32,G32..00,Old myocardial infarction
+Ischaemic heart diseases,G350,G350.00,Subsequent myocardial infarction of anterior wall
+Ischaemic heart diseases,79213,7921300,Autograft replacement of four of more coronary arteries NEC
+Ischaemic heart diseases,7A540,7A54000,Percutaneous transluminal angioplasty of artery NEC
+Ischaemic heart diseases,G32-1,G32..11,Healed myocardial infarction
+Ischaemic heart diseases,SP003,SP00300,Mechanical complication of coronary bypass
+Ischaemic heart diseases,322,322..00,ECG: myocardial ischaemia
+Ischaemic heart diseases,8F92,8F92.00,Cardiac rehabilitation - phase 3
+Ischaemic heart diseases,8F90,8F90.00,Cardiac rehabilitation - phase 1
+Ischaemic heart diseases,G3400,G340000,Single coronary vessel disease
+Ischaemic heart diseases,8LF,8LF..00,Coronary angiography planned
+Ischaemic heart diseases,G340,G340.00,Coronary atherosclerosis
+Ischaemic heart diseases,7923-1,7923.11,Prosthetic bypass of coronary artery
+Ischaemic heart diseases,79223,7922300,Allograft replacement of four or more coronary arteries
+Ischaemic heart diseases,6A4,6A4..00,Coronary heart disease review
+Ischaemic heart diseases,32B,32B..00,ECG: Q wave
+Ischaemic heart diseases,G340-1,G340.11,Triple vessel disease of the heart
+Ischaemic heart diseases,7A6G1,7A6G100,Peroperative angioplasty
+Ischaemic heart diseases,G351,G351.00,Subsequent myocardial infarction of inferior wall
+Ischaemic heart diseases,G3112,G311200,Angina at rest
+Ischaemic heart diseases,79253-1,7925311,LIMA single anastomosis
+Ischaemic heart diseases,7A4B8,7A4B800,Percut translum thrombolysis femoral graft streptokinase
+Ischaemic heart diseases,79201,7920100,Saphenous vein graft replacement of two coronary arteries
+Ischaemic heart diseases,79291,7929100,Percut transluminal coronary thrombolysis with streptokinase
+Ischaemic heart diseases,G3110-1,G311011,MI - Myocardial infarction aborted
+Ischaemic heart diseases,8H2V,8H2V.00,Admit ischaemic heart disease emergency
+Ischaemic heart diseases,792C0,792C000,Replacement of coronary arteries using multiple methods
+Ischaemic heart diseases,ZV579,ZV57900,[V]Cardiac rehabilitation
+Ischaemic heart diseases,7A6H4,7A6H400,Percutaneous transluminal angioplasty of vascular graft
+Ischaemic heart diseases,7928-1,7928.11,Percutaneous balloon coronary angioplasty
+Ischaemic heart diseases,662K2,662K200,Angina control - improving
+Ischaemic heart diseases,79293,7929300,Rotary blade coronary angioplasty
+Ischaemic heart diseases,7A6S3,7A6S300,Percutaneous transluminal venous thrombolysis NEC
+Ischaemic heart diseases,7A545,7A54500,Rotary blade angioplasty
+Ischaemic heart diseases,79262,7926200,Single anastomosis of thoracic artery to coronary artery NEC
+Ischaemic heart diseases,14AT,14AT.00,History of myocardial infarction
+Ischaemic heart diseases,G-2,G....12,Cardiac diseases
+Ischaemic heart diseases,792D,792D.00,Other bypass of coronary artery
+Ischaemic heart diseases,79294,7929400,Insertion of coronary artery stent
+Ischaemic heart diseases,79211,7921100,Autograft replacement of two coronary arteries NEC
+Ischaemic heart diseases,G35X,G35X.00,Subsequent myocardial infarction of unspecified site
+Ischaemic heart diseases,44H30,44H3000,Cardiac enzymes abnormal - first set
+Ischaemic heart diseases,79220,7922000,Allograft replacement of one coronary artery
+Ischaemic heart diseases,G3300,G330000,Nocturnal angina
+Ischaemic heart diseases,G341,G341.00,Aneurysm of heart
+Ischaemic heart diseases,G38,G38..00,Postoperative myocardial infarction
+Ischaemic heart diseases,G331-1,G331.11,Variant angina pectoris
+Ischaemic heart diseases,G353,G353.00,Subsequent myocardial infarction of other sites
+Ischaemic heart diseases,187,187..00,Frequency of angina
+Ischaemic heart diseases,793G2,793G200,Perc translum balloon angioplasty insert 1-2 stents cor art
+Ischaemic heart diseases,662N,662N.00,CHD monitoring
+Ischaemic heart diseases,662n,662n.00,JBS cardiovascular disease risk >30% over next 10 years
+Ischaemic heart diseases,79222,7922200,Allograft replacement of three coronary arteries
+Ischaemic heart diseases,7A547,7A54700,Percutaneous transluminal thrombolysis of artery
+Ischaemic heart diseases,7922-1,7922.11,Allograft bypass of coronary artery
+Ischaemic heart diseases,323,323..00,ECG: myocardial infarction
+Ischaemic heart diseases,79253,7925300,Single anastomosis of mammary artery to coronary artery NEC
+Ischaemic heart diseases,79253-2,7925312,RIMA single anastomosis
+Ischaemic heart diseases,5C11,5C11.00,Radionuclide heart study abnormal
+Ischaemic heart diseases,79295,7929500,Insertion of drug-eluting coronary artery stent
+Ischaemic heart diseases,8F9,8F9..00,Cardiac rehabilitation
+Ischaemic heart diseases,79283,7928300,Percut translum cutting balloon angioplasty coronary artery
+Ischaemic heart diseases,44HJ,44HJ.00,Plasma creatinine phosphokinase MB isoenzyme level
+Ischaemic heart diseases,14A3,14A3.00,H/O: myocardial infarct <60
+Ischaemic heart diseases,7925-1,7925.11,Creation of bypass from mammary artery to coronary artery
+Ischaemic heart diseases,7A560,7A56000,Percutaneous transluminal arterial thrombolysis reconstruct
+Ischaemic heart diseases,G311-2,G311.12,Impending infarction
+Ischaemic heart diseases,G30-3,G30..13,Cardiac rupture following myocardial infarction (MI)
+Ischaemic heart diseases,G383,G383.00,Postoperative transmural myocardial infarction unspec site
+Ischaemic heart diseases,79275,7927500,Open angioplasty of coronary artery
+Ischaemic heart diseases,79233,7923300,Prosthetic replacement of four or more coronary arteries
+Ischaemic heart diseases,793G,793G.00,Perc translumin balloon angioplasty stenting coronary artery
+Ischaemic heart diseases,793Gz,793Gz00,Perc translum balloon angioplasty stenting coronary art NOS
+Ischaemic heart diseases,G33z6,G33z600,New onset angina
+Ischaemic heart diseases,G3y,G3y..00,Other specified ischaemic heart disease
+Ischaemic heart diseases,8I3A,8I3A.00,Referral to dietician declined
+Ischaemic heart diseases,8I3a,8I3a.00,Cardiac rehabilitation declined
+Ischaemic heart diseases,G301z,G301z00,Anterior myocardial infarction NOS
+Ischaemic heart diseases,G33zz,G33zz00,Angina pectoris NOS
+Ischaemic heart diseases,G33z0,G33z000,Status anginosus
+Ischaemic heart diseases,792Dy,792Dy00,Other specified other bypass of coronary artery
+Ischaemic heart diseases,G34y0,G34y000,Chronic coronary insufficiency
+Ischaemic heart diseases,Gyu5,Gyu5.00,[X]Other forms of heart disease
+Ischaemic heart diseases,9Ob3,9Ob3.00,Coronary heart disease monitoring 1st letter
+Ischaemic heart diseases,9OB3,9OB3.00,OC check - 3rd call
+Ischaemic heart diseases,8BPC,8BPC.00,On psychotropic medication
+Ischaemic heart diseases,8BAc,8BAc.00,Substance misuse management stopped - self withdrawal
+Ischaemic heart diseases,8BAC,8BAC.00,Helicobacter eradication therapy
+Ischaemic heart diseases,8BIc,8BIc.00,Drug monitoring done
+Ischaemic heart diseases,8BCC,8BCC.00,Oral vitamin K prophylaxis given by health visitor
+Ischaemic heart diseases,8BPc,8BPc.00,Mixed strength methotrexate prescribing warning
+Ischaemic heart diseases,8BMc,8BMc.00,Needs assistance with medication regimen adherence
+Ischaemic heart diseases,8BGC,8BGC.00,Long term dual antiplatelet drug therapy indicated
+Ischaemic heart diseases,8BMC,8BMC.00,Prescription collected by pharmacy
+Ischaemic heart diseases,8BIC,8BIC.00,Medication review done by pharmacist
+Ischaemic heart diseases,Gyu30,Gyu3000,[X]Other forms of angina pectoris
+Ischaemic heart diseases,9Ob9,9Ob9.00,Coronary heart disease monitoring telephone invite
+Ischaemic heart diseases,44p2,44p2.00,Cardiac troponin positive
+Ischaemic heart diseases,44P2,44P2.00,Serum cholesterol borderline
+Ischaemic heart diseases,7928y,7928y00,Transluminal balloon angioplasty of coronary artery OS
+Ischaemic heart diseases,G31y2,G31y200,Subendocardial ischaemia
+Ischaemic heart diseases,7920y,7920y00,Saphenous vein graft replacement of coronary artery OS
+Ischaemic heart diseases,G33z5,G33z500,Post infarct angina
+Ischaemic heart diseases,G34y1,G34y100,Chronic myocardial ischaemia
+Ischaemic heart diseases,G33z4,G33z400,Ischaemic chest pain
+Ischaemic heart diseases,7920z,7920z00,Saphenous vein graft replacement coronary artery NOS
+Ischaemic heart diseases,8B3K,8B3K.00,Patient misunderstood treatment instuctions
+Ischaemic heart diseases,8B3k,8B3k.00,Coronary heart disease medication review
+Ischaemic heart diseases,G33z2,G33z200,Syncope anginosa
+Ischaemic heart diseases,G34z0,G34z000,Asymptomatic coronary heart disease
+Ischaemic heart diseases,G34yz,G34yz00,Other specified chronic ischaemic heart disease NOS
+Ischaemic heart diseases,9Ob8,9Ob8.00,Coronary heart disease monitoring check done
+Ischaemic heart diseases,792Cz,792Cz00,Replacement of coronary artery NOS
+Ischaemic heart diseases,G34y,G34y.00,Other specified chronic ischaemic heart disease
+Ischaemic heart diseases,7923z,7923z00,Prosthetic replacement of coronary artery NOS
+Ischaemic heart diseases,662Kz,662Kz00,Angina control NOS
+Ischaemic heart diseases,G31y1,G31y100,Microinfarction of heart
+Ischaemic heart diseases,G38z,G38z.00,"Postoperative myocardial infarction, unspecified"
+Ischaemic heart diseases,7924z,7924z00,Revision of bypass for coronary artery NOS
+Ischaemic heart diseases,9Ob5,9Ob5.00,Coronary heart disease monitoring 3rd letter
+Ischaemic heart diseases,G34z,G34z.00,Other chronic ischaemic heart disease NOS
+Ischaemic heart diseases,9OB,9OB..00,Oral contracept. check admin.
+Ischaemic heart diseases,9Ob,9Ob..00,Coronary heart disease monitoring administration
+Ischaemic heart diseases,G330z,G330z00,Angina decubitus NOS
+Ischaemic heart diseases,G31y3,G31y300,Transient myocardial ischaemia
+Ischaemic heart diseases,7922z,7922z00,Allograft replacement of coronary artery NOS
+Ischaemic heart diseases,8H7v,8H7v.00,Referral to cardiac rehabilitation nurse
+Ischaemic heart diseases,8H7V,8H7V.00,Refer to audiologist
+Ischaemic heart diseases,G5z,G5z..00,Heart disease NOS
+Ischaemic heart diseases,793Gy,793Gy00,OS perc translumina balloon angioplast stenting coronary art
+Ischaemic heart diseases,9OB2,9OB2.00,OC check - 2nd call
+Ischaemic heart diseases,9Ob2,9Ob2.00,Coronary heart disease monitoring default
+Ischaemic heart diseases,G33z7,G33z700,Stable angina
+Ischaemic heart diseases,G5yyz,G5yyz00,Other ill-defined heart disease NOS
+Ischaemic heart diseases,Gyu36,Gyu3600,[X]Subsequent myocardial infarction of unspecified site
+Ischaemic heart diseases,G311z,G311z00,Preinfarction syndrome NOS
+Ischaemic heart diseases,Gyu33,Gyu3300,[X]Other forms of chronic ischaemic heart disease
+Ischaemic heart diseases,Gyu70,Gyu7000,[X]Atherosclerosis of other arteries
+Ischaemic heart diseases,7924y,7924y00,Other specified revision of bypass for coronary artery
+Ischaemic heart diseases,7922y,7922y00,Other specified allograft replacement of coronary artery
+Ischaemic heart diseases,7925z,7925z00,Connection of mammary artery to coronary artery NOS
+Ischaemic heart diseases,G341z,G341z00,Aneurysm of heart NOS
+Ischaemic heart diseases,9Ob6,9Ob6.00,Coronary heart disease monitoring verbal invitation
+Ischaemic heart diseases,7921z,7921z00,Other autograft replacement of coronary artery NOS
+Ischaemic heart diseases,G5y,G5y..00,Other specified heart disease
+Ischaemic heart diseases,66F1,66F1.00,Blood dis.- initial assessment
+Ischaemic heart diseases,66f1,66f1.00,Cardiovascular disease interim monitoring
+Ischaemic heart diseases,9Ob0,9Ob0.00,Attends coronary heart disease monitoring
+Ischaemic heart diseases,792Cy,792Cy00,Other specified replacement of coronary artery
+Ischaemic heart diseases,G33z1,G33z100,Stenocardia
+Ischaemic heart diseases,9OB1,9OB1.00,OC check - 1st call
+Ischaemic heart diseases,9Ob1,9Ob1.00,Refuses coronary heart disease monitoring
+Ischaemic heart diseases,7925y,7925y00,Connection of mammary artery to coronary artery OS
+Ischaemic heart diseases,7921y,7921y00,Other autograft replacement of coronary artery OS
+Ischaemic heart diseases,7928z,7928z00,Transluminal balloon angioplasty of coronary artery NOS
+Ischaemic heart diseases,7926z,7926z00,Connection of other thoracic artery to coronary artery NOS
+Ischaemic heart diseases,66F,66F..00,Blood disorder monitoring
+Ischaemic heart diseases,66f,66f..00,Cardiovascular disease monitoring
+Ischaemic heart diseases,G5yz,G5yz.00,Other heart disease NOS
+Ischaemic heart diseases,8IEy,8IEy.00,Chronic obstructive pulmon dis wr self managem plan declined
+Ischaemic heart diseases,8IEY,8IEY.00,Referral to Angina Plan self-management programme declined
+Ischaemic heart diseases,8IAy,8IAy.00,Tuberculosis screening chest X-ray declined
+Ischaemic heart diseases,8IAY,8IAY.00,DTaP/IPV/Hib immunisation declined
+Ischaemic heart diseases,Gyu3,Gyu3.00,[X]Ischaemic heart diseases
+Ischaemic heart diseases,9OB4,9OB4.00,OC check - call deleted
+Ischaemic heart diseases,9Ob4,9Ob4.00,Coronary heart disease monitoring 2nd letter
+Ischaemic heart diseases,G3z,G3z..00,Ischaemic heart disease NOS
+Ischaemic heart diseases,792Dz,792Dz00,Other bypass of coronary artery NOS
+Ischaemic heart diseases,G33z3,G33z300,Angina on effort
+Ischaemic heart diseases,8CMP,8CMP.00,Coronary heart disease care plan
+Ischaemic heart diseases,8CAP,8CAP.00,Head injury advice given
+Ischaemic heart diseases,8CEP,8CEP.00,Health care services information leaflet given
+Ischaemic heart diseases,8CAp,8CAp.00,Advised to contact surgery for test result
+Ischaemic heart diseases,G33z,G33z.00,Angina pectoris NOS

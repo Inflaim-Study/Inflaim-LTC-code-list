@@ -1,0 +1,514 @@
+Condition,MedCodeId,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,ICD10Code,Term
+Chronic lower respiratory diseases,2716321000006116.0,^ESCTCO271632,,13645005.0,475427019.0,J679,COPD - Chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,2716321000006116.0,^ESCTCO271632,,13645005.0,475427019.0,J675,COPD - Chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,2716321000006116.0,^ESCTCO271632,,13645005.0,475427019.0,J448,COPD - Chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,2716321000006116.0,^ESCTCO271632,,13645005.0,475427019.0,J670,COPD - Chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,2716321000006116.0,^ESCTCO271632,,13645005.0,475427019.0,J674,COPD - Chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,2716321000006116.0,^ESCTCO271632,,13645005.0,475427019.0,J672,COPD - Chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,2716321000006116.0,^ESCTCO271632,,13645005.0,475427019.0,J441,COPD - Chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,2716321000006116.0,^ESCTCO271632,,13645005.0,475427019.0,J449,COPD - Chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,2716321000006116.0,^ESCTCO271632,,13645005.0,475427019.0,J678,COPD - Chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,2716321000006116.0,^ESCTCO271632,,13645005.0,475427019.0,J676,COPD - Chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,2716321000006116.0,^ESCTCO271632,,13645005.0,475427019.0,J673,COPD - Chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,2716321000006116.0,^ESCTCO271632,,13645005.0,475427019.0,J440,COPD - Chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,2716321000006116.0,^ESCTCO271632,,13645005.0,475427019.0,J677,COPD - Chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,2716321000006116.0,^ESCTCO271632,,13645005.0,475427019.0,J671,COPD - Chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,990641000006110.0,H3-99,H3...99,13645005.0,990641000006110.0,J679,Chronic obst. pulm. dis. NOS
+Chronic lower respiratory diseases,990641000006110.0,H3-99,H3...99,13645005.0,990641000006110.0,J675,Chronic obst. pulm. dis. NOS
+Chronic lower respiratory diseases,990641000006110.0,H3-99,H3...99,13645005.0,990641000006110.0,J448,Chronic obst. pulm. dis. NOS
+Chronic lower respiratory diseases,990641000006110.0,H3-99,H3...99,13645005.0,990641000006110.0,J670,Chronic obst. pulm. dis. NOS
+Chronic lower respiratory diseases,990641000006110.0,H3-99,H3...99,13645005.0,990641000006110.0,J674,Chronic obst. pulm. dis. NOS
+Chronic lower respiratory diseases,990641000006110.0,H3-99,H3...99,13645005.0,990641000006110.0,J672,Chronic obst. pulm. dis. NOS
+Chronic lower respiratory diseases,990641000006110.0,H3-99,H3...99,13645005.0,990641000006110.0,J441,Chronic obst. pulm. dis. NOS
+Chronic lower respiratory diseases,990641000006110.0,H3-99,H3...99,13645005.0,990641000006110.0,J449,Chronic obst. pulm. dis. NOS
+Chronic lower respiratory diseases,990641000006110.0,H3-99,H3...99,13645005.0,990641000006110.0,J678,Chronic obst. pulm. dis. NOS
+Chronic lower respiratory diseases,990641000006110.0,H3-99,H3...99,13645005.0,990641000006110.0,J676,Chronic obst. pulm. dis. NOS
+Chronic lower respiratory diseases,990641000006110.0,H3-99,H3...99,13645005.0,990641000006110.0,J673,Chronic obst. pulm. dis. NOS
+Chronic lower respiratory diseases,990641000006110.0,H3-99,H3...99,13645005.0,990641000006110.0,J440,Chronic obst. pulm. dis. NOS
+Chronic lower respiratory diseases,990641000006110.0,H3-99,H3...99,13645005.0,990641000006110.0,J677,Chronic obst. pulm. dis. NOS
+Chronic lower respiratory diseases,990641000006110.0,H3-99,H3...99,13645005.0,990641000006110.0,J671,Chronic obst. pulm. dis. NOS
+Chronic lower respiratory diseases,2716231000006114.0,^ESCTCH271623,,13645005.0,23287019.0,J679,Chronic obstructive lung disease
+Chronic lower respiratory diseases,2716231000006114.0,^ESCTCH271623,,13645005.0,23287019.0,J675,Chronic obstructive lung disease
+Chronic lower respiratory diseases,2716231000006114.0,^ESCTCH271623,,13645005.0,23287019.0,J448,Chronic obstructive lung disease
+Chronic lower respiratory diseases,2716231000006114.0,^ESCTCH271623,,13645005.0,23287019.0,J670,Chronic obstructive lung disease
+Chronic lower respiratory diseases,2716231000006114.0,^ESCTCH271623,,13645005.0,23287019.0,J674,Chronic obstructive lung disease
+Chronic lower respiratory diseases,2716231000006114.0,^ESCTCH271623,,13645005.0,23287019.0,J672,Chronic obstructive lung disease
+Chronic lower respiratory diseases,2716231000006114.0,^ESCTCH271623,,13645005.0,23287019.0,J441,Chronic obstructive lung disease
+Chronic lower respiratory diseases,2716231000006114.0,^ESCTCH271623,,13645005.0,23287019.0,J449,Chronic obstructive lung disease
+Chronic lower respiratory diseases,2716231000006114.0,^ESCTCH271623,,13645005.0,23287019.0,J678,Chronic obstructive lung disease
+Chronic lower respiratory diseases,2716231000006114.0,^ESCTCH271623,,13645005.0,23287019.0,J676,Chronic obstructive lung disease
+Chronic lower respiratory diseases,2716231000006114.0,^ESCTCH271623,,13645005.0,23287019.0,J673,Chronic obstructive lung disease
+Chronic lower respiratory diseases,2716231000006114.0,^ESCTCH271623,,13645005.0,23287019.0,J440,Chronic obstructive lung disease
+Chronic lower respiratory diseases,2716231000006114.0,^ESCTCH271623,,13645005.0,23287019.0,J677,Chronic obstructive lung disease
+Chronic lower respiratory diseases,2716231000006114.0,^ESCTCH271623,,13645005.0,23287019.0,J671,Chronic obstructive lung disease
+Chronic lower respiratory diseases,3873191000006110.5,^ESCTFE387319,,84409004.0,139979010.0,J411,Fetid chronic bronchitis
+Chronic lower respiratory diseases,4733021000006111.0,^ESCTOB473302,,185086009.0,285104011.0,J448,Obstructive chronic bronchitis
+Chronic lower respiratory diseases,475431013.0,H3,H3...00,13645005.0,475431013.0,J679,Chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,475431013.0,H3,H3...00,13645005.0,475431013.0,J675,Chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,475431013.0,H3,H3...00,13645005.0,475431013.0,J448,Chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,475431013.0,H3,H3...00,13645005.0,475431013.0,J670,Chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,475431013.0,H3,H3...00,13645005.0,475431013.0,J674,Chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,475431013.0,H3,H3...00,13645005.0,475431013.0,J672,Chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,475431013.0,H3,H3...00,13645005.0,475431013.0,J441,Chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,475431013.0,H3,H3...00,13645005.0,475431013.0,J449,Chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,475431013.0,H3,H3...00,13645005.0,475431013.0,J678,Chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,475431013.0,H3,H3...00,13645005.0,475431013.0,J676,Chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,475431013.0,H3,H3...00,13645005.0,475431013.0,J673,Chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,475431013.0,H3,H3...00,13645005.0,475431013.0,J440,Chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,475431013.0,H3,H3...00,13645005.0,475431013.0,J677,Chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,475431013.0,H3,H3...00,13645005.0,475431013.0,J671,Chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,555471000006114.0,H3-1,H3...11,13645005.0,475423015.0,J679,Chronic obstructive airways disease
+Chronic lower respiratory diseases,555471000006114.0,H3-1,H3...11,13645005.0,475423015.0,J675,Chronic obstructive airways disease
+Chronic lower respiratory diseases,555471000006114.0,H3-1,H3...11,13645005.0,475423015.0,J448,Chronic obstructive airways disease
+Chronic lower respiratory diseases,555471000006114.0,H3-1,H3...11,13645005.0,475423015.0,J670,Chronic obstructive airways disease
+Chronic lower respiratory diseases,555471000006114.0,H3-1,H3...11,13645005.0,475423015.0,J674,Chronic obstructive airways disease
+Chronic lower respiratory diseases,555471000006114.0,H3-1,H3...11,13645005.0,475423015.0,J672,Chronic obstructive airways disease
+Chronic lower respiratory diseases,555471000006114.0,H3-1,H3...11,13645005.0,475423015.0,J441,Chronic obstructive airways disease
+Chronic lower respiratory diseases,555471000006114.0,H3-1,H3...11,13645005.0,475423015.0,J449,Chronic obstructive airways disease
+Chronic lower respiratory diseases,555471000006114.0,H3-1,H3...11,13645005.0,475423015.0,J678,Chronic obstructive airways disease
+Chronic lower respiratory diseases,555471000006114.0,H3-1,H3...11,13645005.0,475423015.0,J676,Chronic obstructive airways disease
+Chronic lower respiratory diseases,555471000006114.0,H3-1,H3...11,13645005.0,475423015.0,J673,Chronic obstructive airways disease
+Chronic lower respiratory diseases,555471000006114.0,H3-1,H3...11,13645005.0,475423015.0,J440,Chronic obstructive airways disease
+Chronic lower respiratory diseases,555471000006114.0,H3-1,H3...11,13645005.0,475423015.0,J677,Chronic obstructive airways disease
+Chronic lower respiratory diseases,555471000006114.0,H3-1,H3...11,13645005.0,475423015.0,J671,Chronic obstructive airways disease
+Chronic lower respiratory diseases,105519017.0,H31,H31..00,63480004.0,105519017.0,J701,Chronic bronchitis
+Chronic lower respiratory diseases,105519017.0,H31,H31..00,63480004.0,105519017.0,J684,Chronic bronchitis
+Chronic lower respiratory diseases,105519017.0,H31,H31..00,63480004.0,105519017.0,J448,Chronic bronchitis
+Chronic lower respiratory diseases,105519017.0,H31,H31..00,63480004.0,105519017.0,J410,Chronic bronchitis
+Chronic lower respiratory diseases,105519017.0,H31,H31..00,63480004.0,105519017.0,J411,Chronic bronchitis
+Chronic lower respiratory diseases,105519017.0,H31,H31..00,63480004.0,105519017.0,J42X,Chronic bronchitis
+Chronic lower respiratory diseases,508561017.0,H310,H310.00,61937009.0,102938011.0,J410,Simple chronic bronchitis
+Chronic lower respiratory diseases,508562012.0,H3100,H310000,89549007.0,508562012.0,J204,Chronic catarrhal bronchitis
+Chronic lower respiratory diseases,508562012.0,H3100,H310000,89549007.0,508562012.0,J201,Chronic catarrhal bronchitis
+Chronic lower respiratory diseases,508562012.0,H3100,H310000,89549007.0,508562012.0,J202,Chronic catarrhal bronchitis
+Chronic lower respiratory diseases,508562012.0,H3100,H310000,89549007.0,508562012.0,J200,Chronic catarrhal bronchitis
+Chronic lower respiratory diseases,508562012.0,H3100,H310000,89549007.0,508562012.0,J410,Chronic catarrhal bronchitis
+Chronic lower respiratory diseases,508562012.0,H3100,H310000,89549007.0,508562012.0,J207,Chronic catarrhal bronchitis
+Chronic lower respiratory diseases,508562012.0,H3100,H310000,89549007.0,508562012.0,J205,Chronic catarrhal bronchitis
+Chronic lower respiratory diseases,508562012.0,H3100,H310000,89549007.0,508562012.0,J209,Chronic catarrhal bronchitis
+Chronic lower respiratory diseases,508562012.0,H3100,H310000,89549007.0,508562012.0,J40X,Chronic catarrhal bronchitis
+Chronic lower respiratory diseases,508562012.0,H3100,H310000,89549007.0,508562012.0,J206,Chronic catarrhal bronchitis
+Chronic lower respiratory diseases,508562012.0,H3100,H310000,89549007.0,508562012.0,J203,Chronic catarrhal bronchitis
+Chronic lower respiratory diseases,508562012.0,H3100,H310000,89549007.0,508562012.0,J208,Chronic catarrhal bronchitis
+Chronic lower respiratory diseases,301444018.0,H310z,H310z00,61937009.0,102938011.0,J410,Simple chronic bronchitis NOS
+Chronic lower respiratory diseases,123588010.0,H311,H311.00,74417001.0,123588010.0,J411,Mucopurulent chronic bronchitis
+Chronic lower respiratory diseases,506053014.0,H3110,H311000,84409004.0,506053014.0,J411,Purulent chronic bronchitis
+Chronic lower respiratory diseases,139979010.0,H3111,H311100,84409004.0,506053014.0,J411,Fetid chronic bronchitis
+Chronic lower respiratory diseases,301448015.0,H311z,H311z00,74417001.0,123588010.0,J411,Mucopurulent chronic bronchitis NOS
+Chronic lower respiratory diseases,285104011.0,H312,H312.00,185086009.0,285100019.0,J448,Obstructive chronic bronchitis
+Chronic lower respiratory diseases,301450011.0,H3120,H312000,195949008.0,301450011.0,J448,Chronic asthmatic bronchitis
+Chronic lower respiratory diseases,301451010.0,H3120-1,H312011,195949008.0,301451010.0,J448,Chronic wheezy bronchitis
+Chronic lower respiratory diseases,285100019.0,H3121,H312100,185086009.0,285100019.0,J448,Emphysematous bronchitis
+Chronic lower respiratory diseases,492443010.0,H3123,H312300,40100001.0,492443010.0,J448,Bronchiolitis obliterans
+Chronic lower respiratory diseases,301455018.0,H312z,H312z00,185086009.0,285100019.0,J448,Obstructive chronic bronchitis NOS
+Chronic lower respiratory diseases,301456017.0,H313,H313.00,195953005.0,301456017.0,J418,Mixed simple and mucopurulent chronic bronchitis
+Chronic lower respiratory diseases,301457014.0,H31y,H31y.00,63480004.0,105519017.0,J701,Other chronic bronchitis
+Chronic lower respiratory diseases,301457014.0,H31y,H31y.00,63480004.0,105519017.0,J684,Other chronic bronchitis
+Chronic lower respiratory diseases,301457014.0,H31y,H31y.00,63480004.0,105519017.0,J448,Other chronic bronchitis
+Chronic lower respiratory diseases,301457014.0,H31y,H31y.00,63480004.0,105519017.0,J410,Other chronic bronchitis
+Chronic lower respiratory diseases,301457014.0,H31y,H31y.00,63480004.0,105519017.0,J411,Other chronic bronchitis
+Chronic lower respiratory diseases,301457014.0,H31y,H31y.00,63480004.0,105519017.0,J42X,Other chronic bronchitis
+Chronic lower respiratory diseases,87480013.0,H31y1,H31y100,52571006.0,87480013.0,J42X,Chronic tracheobronchitis
+Chronic lower respiratory diseases,301458016.0,H31yz,H31yz00,63480004.0,105519017.0,J701,Other chronic bronchitis NOS
+Chronic lower respiratory diseases,301458016.0,H31yz,H31yz00,63480004.0,105519017.0,J684,Other chronic bronchitis NOS
+Chronic lower respiratory diseases,301458016.0,H31yz,H31yz00,63480004.0,105519017.0,J448,Other chronic bronchitis NOS
+Chronic lower respiratory diseases,301458016.0,H31yz,H31yz00,63480004.0,105519017.0,J410,Other chronic bronchitis NOS
+Chronic lower respiratory diseases,301458016.0,H31yz,H31yz00,63480004.0,105519017.0,J411,Other chronic bronchitis NOS
+Chronic lower respiratory diseases,301458016.0,H31yz,H31yz00,63480004.0,105519017.0,J42X,Other chronic bronchitis NOS
+Chronic lower respiratory diseases,301459012.0,H31z,H31z.00,63480004.0,105519017.0,J701,Chronic bronchitis NOS
+Chronic lower respiratory diseases,301459012.0,H31z,H31z.00,63480004.0,105519017.0,J684,Chronic bronchitis NOS
+Chronic lower respiratory diseases,301459012.0,H31z,H31z.00,63480004.0,105519017.0,J448,Chronic bronchitis NOS
+Chronic lower respiratory diseases,301459012.0,H31z,H31z.00,63480004.0,105519017.0,J410,Chronic bronchitis NOS
+Chronic lower respiratory diseases,301459012.0,H31z,H31z.00,63480004.0,105519017.0,J411,Chronic bronchitis NOS
+Chronic lower respiratory diseases,301459012.0,H31z,H31z.00,63480004.0,105519017.0,J42X,Chronic bronchitis NOS
+Chronic lower respiratory diseases,640491000006111.0,H32,H32..00,87433001.0,144964015.0,J448,Emphysema
+Chronic lower respiratory diseases,640491000006111.0,H32,H32..00,87433001.0,144964015.0,J440,Emphysema
+Chronic lower respiratory diseases,640491000006111.0,H32,H32..00,87433001.0,144964015.0,J684,Emphysema
+Chronic lower respiratory diseases,640491000006111.0,H32,H32..00,87433001.0,144964015.0,J439,Emphysema
+Chronic lower respiratory diseases,640491000006111.0,H32,H32..00,87433001.0,144964015.0,J982,Emphysema
+Chronic lower respiratory diseases,640491000006111.0,H32,H32..00,87433001.0,144964015.0,J449,Emphysema
+Chronic lower respiratory diseases,640491000006111.0,H32,H32..00,87433001.0,144964015.0,P250,Emphysema
+Chronic lower respiratory diseases,640491000006111.0,H32,H32..00,87433001.0,144964015.0,J983,Emphysema
+Chronic lower respiratory diseases,640491000006111.0,H32,H32..00,87433001.0,144964015.0,J438,Emphysema
+Chronic lower respiratory diseases,640491000006111.0,H32,H32..00,87433001.0,144964015.0,J430,Emphysema
+Chronic lower respiratory diseases,640491000006111.0,H32,H32..00,87433001.0,144964015.0,J432,Emphysema
+Chronic lower respiratory diseases,640491000006111.0,H32,H32..00,87433001.0,144964015.0,J441,Emphysema
+Chronic lower respiratory diseases,640491000006111.0,H32,H32..00,87433001.0,144964015.0,J431,Emphysema
+Chronic lower respiratory diseases,301460019.0,H320,H320.00,195957006.0,301460019.0,J439,Chronic bullous emphysema
+Chronic lower respiratory diseases,301463017.0,H3200,H320000,195958001.0,301463017.0,J438,Segmental bullous emphysema
+Chronic lower respiratory diseases,301464011.0,H3201,H320100,195959009.0,301464011.0,J438,Zonal bullous emphysema
+Chronic lower respiratory diseases,27096010.0,H3202,H320200,16003001.0,27096010.0,J438,Giant bullous emphysema
+Chronic lower respiratory diseases,396108018.0,H3203,H320300,266355005.0,396108018.0,J439,Bullous emphysema with collapse
+Chronic lower respiratory diseases,301468014.0,H320z,H320z00,195957006.0,301460019.0,J439,Chronic bullous emphysema NOS
+Chronic lower respiratory diseases,9337016.0,H321,H321.00,4981000.0,9337016.0,J431,Panlobular emphysema
+Chronic lower respiratory diseases,113497011.0,H322,H322.00,68328006.0,113497011.0,J432,Centrilobular emphysema
+Chronic lower respiratory diseases,301469018.0,H32y,H32y.00,87433001.0,144964015.0,J448,Other emphysema
+Chronic lower respiratory diseases,301469018.0,H32y,H32y.00,87433001.0,144964015.0,J440,Other emphysema
+Chronic lower respiratory diseases,301469018.0,H32y,H32y.00,87433001.0,144964015.0,J684,Other emphysema
+Chronic lower respiratory diseases,301469018.0,H32y,H32y.00,87433001.0,144964015.0,J439,Other emphysema
+Chronic lower respiratory diseases,301469018.0,H32y,H32y.00,87433001.0,144964015.0,J982,Other emphysema
+Chronic lower respiratory diseases,301469018.0,H32y,H32y.00,87433001.0,144964015.0,J449,Other emphysema
+Chronic lower respiratory diseases,301469018.0,H32y,H32y.00,87433001.0,144964015.0,P250,Other emphysema
+Chronic lower respiratory diseases,301469018.0,H32y,H32y.00,87433001.0,144964015.0,J983,Other emphysema
+Chronic lower respiratory diseases,301469018.0,H32y,H32y.00,87433001.0,144964015.0,J438,Other emphysema
+Chronic lower respiratory diseases,301469018.0,H32y,H32y.00,87433001.0,144964015.0,J430,Other emphysema
+Chronic lower respiratory diseases,301469018.0,H32y,H32y.00,87433001.0,144964015.0,J432,Other emphysema
+Chronic lower respiratory diseases,301469018.0,H32y,H32y.00,87433001.0,144964015.0,J441,Other emphysema
+Chronic lower respiratory diseases,301469018.0,H32y,H32y.00,87433001.0,144964015.0,J431,Other emphysema
+Chronic lower respiratory diseases,396109014.0,H32y1,H32y100,266356006.0,396109014.0,J438,Atrophic (senile) emphysema
+Chronic lower respiratory diseases,1230190015.0,H32y2,H32y200,45145000.0,1230190015.0,J430,MacLeod's unilateral emphysema
+Chronic lower respiratory diseases,396110016.0,H32yz,H32yz00,87433001.0,144964015.0,J448,Other emphysema NOS
+Chronic lower respiratory diseases,396110016.0,H32yz,H32yz00,87433001.0,144964015.0,J440,Other emphysema NOS
+Chronic lower respiratory diseases,396110016.0,H32yz,H32yz00,87433001.0,144964015.0,J684,Other emphysema NOS
+Chronic lower respiratory diseases,396110016.0,H32yz,H32yz00,87433001.0,144964015.0,J439,Other emphysema NOS
+Chronic lower respiratory diseases,396110016.0,H32yz,H32yz00,87433001.0,144964015.0,J982,Other emphysema NOS
+Chronic lower respiratory diseases,396110016.0,H32yz,H32yz00,87433001.0,144964015.0,J449,Other emphysema NOS
+Chronic lower respiratory diseases,396110016.0,H32yz,H32yz00,87433001.0,144964015.0,P250,Other emphysema NOS
+Chronic lower respiratory diseases,396110016.0,H32yz,H32yz00,87433001.0,144964015.0,J983,Other emphysema NOS
+Chronic lower respiratory diseases,396110016.0,H32yz,H32yz00,87433001.0,144964015.0,J438,Other emphysema NOS
+Chronic lower respiratory diseases,396110016.0,H32yz,H32yz00,87433001.0,144964015.0,J430,Other emphysema NOS
+Chronic lower respiratory diseases,396110016.0,H32yz,H32yz00,87433001.0,144964015.0,J432,Other emphysema NOS
+Chronic lower respiratory diseases,396110016.0,H32yz,H32yz00,87433001.0,144964015.0,J441,Other emphysema NOS
+Chronic lower respiratory diseases,396110016.0,H32yz,H32yz00,87433001.0,144964015.0,J431,Other emphysema NOS
+Chronic lower respiratory diseases,301477019.0,H32z,H32z.00,87433001.0,144964015.0,J448,Emphysema NOS
+Chronic lower respiratory diseases,301477019.0,H32z,H32z.00,87433001.0,144964015.0,J440,Emphysema NOS
+Chronic lower respiratory diseases,301477019.0,H32z,H32z.00,87433001.0,144964015.0,J684,Emphysema NOS
+Chronic lower respiratory diseases,301477019.0,H32z,H32z.00,87433001.0,144964015.0,J439,Emphysema NOS
+Chronic lower respiratory diseases,301477019.0,H32z,H32z.00,87433001.0,144964015.0,J982,Emphysema NOS
+Chronic lower respiratory diseases,301477019.0,H32z,H32z.00,87433001.0,144964015.0,J449,Emphysema NOS
+Chronic lower respiratory diseases,301477019.0,H32z,H32z.00,87433001.0,144964015.0,P250,Emphysema NOS
+Chronic lower respiratory diseases,301477019.0,H32z,H32z.00,87433001.0,144964015.0,J983,Emphysema NOS
+Chronic lower respiratory diseases,301477019.0,H32z,H32z.00,87433001.0,144964015.0,J438,Emphysema NOS
+Chronic lower respiratory diseases,301477019.0,H32z,H32z.00,87433001.0,144964015.0,J430,Emphysema NOS
+Chronic lower respiratory diseases,301477019.0,H32z,H32z.00,87433001.0,144964015.0,J432,Emphysema NOS
+Chronic lower respiratory diseases,301477019.0,H32z,H32z.00,87433001.0,144964015.0,J441,Emphysema NOS
+Chronic lower respiratory diseases,301477019.0,H32z,H32z.00,87433001.0,144964015.0,J431,Emphysema NOS
+Chronic lower respiratory diseases,457168017.0,H36,H36..00,313296004.0,457168017.0,J448,Mild chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,457168017.0,H36,H36..00,313296004.0,457168017.0,J441,Mild chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,457168017.0,H36,H36..00,313296004.0,457168017.0,J440,Mild chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,457168017.0,H36,H36..00,313296004.0,457168017.0,J449,Mild chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,457169013.0,H37,H37..00,313297008.0,457169013.0,J441,Moderate chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,457169013.0,H37,H37..00,313297008.0,457169013.0,J449,Moderate chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,457169013.0,H37,H37..00,313297008.0,457169013.0,J440,Moderate chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,457169013.0,H37,H37..00,313297008.0,457169013.0,J448,Moderate chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,457171013.0,H38,H38..00,313299006.0,457171013.0,J449,Severe chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,457171013.0,H38,H38..00,313299006.0,457171013.0,J441,Severe chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,457171013.0,H38,H38..00,313299006.0,457171013.0,J440,Severe chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,457171013.0,H38,H38..00,313299006.0,457171013.0,J448,Severe chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,516801000000112.0,H39,H39..00,293991000000106.0,516801000000112.0,J448,Very severe chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,516801000000112.0,H39,H39..00,293991000000106.0,516801000000112.0,J441,Very severe chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,516801000000112.0,H39,H39..00,293991000000106.0,516801000000112.0,J449,Very severe chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,516801000000112.0,H39,H39..00,293991000000106.0,516801000000112.0,J440,Very severe chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,216596014.0,H3A,H3A..00,135836000.0,216596014.0,J668,End stage chronic obstructive airways disease
+Chronic lower respiratory diseases,216596014.0,H3A,H3A..00,135836000.0,216596014.0,J448,End stage chronic obstructive airways disease
+Chronic lower respiratory diseases,216596014.0,H3A,H3A..00,135836000.0,216596014.0,J660,End stage chronic obstructive airways disease
+Chronic lower respiratory diseases,216596014.0,H3A,H3A..00,135836000.0,216596014.0,J662,End stage chronic obstructive airways disease
+Chronic lower respiratory diseases,216596014.0,H3A,H3A..00,135836000.0,216596014.0,J449,End stage chronic obstructive airways disease
+Chronic lower respiratory diseases,216596014.0,H3A,H3A..00,135836000.0,216596014.0,J441,End stage chronic obstructive airways disease
+Chronic lower respiratory diseases,216596014.0,H3A,H3A..00,135836000.0,216596014.0,J440,End stage chronic obstructive airways disease
+Chronic lower respiratory diseases,216596014.0,H3A,H3A..00,135836000.0,216596014.0,J661,End stage chronic obstructive airways disease
+Chronic lower respiratory diseases,301539010.0,H3y,H3y..00,13645005.0,475428012.0,J679,Other specified chronic obstructive airways disease
+Chronic lower respiratory diseases,301539010.0,H3y,H3y..00,13645005.0,475428012.0,J675,Other specified chronic obstructive airways disease
+Chronic lower respiratory diseases,301539010.0,H3y,H3y..00,13645005.0,475428012.0,J448,Other specified chronic obstructive airways disease
+Chronic lower respiratory diseases,301539010.0,H3y,H3y..00,13645005.0,475428012.0,J670,Other specified chronic obstructive airways disease
+Chronic lower respiratory diseases,301539010.0,H3y,H3y..00,13645005.0,475428012.0,J674,Other specified chronic obstructive airways disease
+Chronic lower respiratory diseases,301539010.0,H3y,H3y..00,13645005.0,475428012.0,J672,Other specified chronic obstructive airways disease
+Chronic lower respiratory diseases,301539010.0,H3y,H3y..00,13645005.0,475428012.0,J441,Other specified chronic obstructive airways disease
+Chronic lower respiratory diseases,301539010.0,H3y,H3y..00,13645005.0,475428012.0,J449,Other specified chronic obstructive airways disease
+Chronic lower respiratory diseases,301539010.0,H3y,H3y..00,13645005.0,475428012.0,J678,Other specified chronic obstructive airways disease
+Chronic lower respiratory diseases,301539010.0,H3y,H3y..00,13645005.0,475428012.0,J676,Other specified chronic obstructive airways disease
+Chronic lower respiratory diseases,301539010.0,H3y,H3y..00,13645005.0,475428012.0,J673,Other specified chronic obstructive airways disease
+Chronic lower respiratory diseases,301539010.0,H3y,H3y..00,13645005.0,475428012.0,J440,Other specified chronic obstructive airways disease
+Chronic lower respiratory diseases,301539010.0,H3y,H3y..00,13645005.0,475428012.0,J677,Other specified chronic obstructive airways disease
+Chronic lower respiratory diseases,301539010.0,H3y,H3y..00,13645005.0,475428012.0,J671,Other specified chronic obstructive airways disease
+Chronic lower respiratory diseases,1222334016.0,H3y-1,H3y..11,13645005.0,475431013.0,J679,Other specified chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,1222334016.0,H3y-1,H3y..11,13645005.0,475431013.0,J675,Other specified chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,1222334016.0,H3y-1,H3y..11,13645005.0,475431013.0,J448,Other specified chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,1222334016.0,H3y-1,H3y..11,13645005.0,475431013.0,J670,Other specified chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,1222334016.0,H3y-1,H3y..11,13645005.0,475431013.0,J674,Other specified chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,1222334016.0,H3y-1,H3y..11,13645005.0,475431013.0,J672,Other specified chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,1222334016.0,H3y-1,H3y..11,13645005.0,475431013.0,J441,Other specified chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,1222334016.0,H3y-1,H3y..11,13645005.0,475431013.0,J449,Other specified chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,1222334016.0,H3y-1,H3y..11,13645005.0,475431013.0,J678,Other specified chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,1222334016.0,H3y-1,H3y..11,13645005.0,475431013.0,J676,Other specified chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,1222334016.0,H3y-1,H3y..11,13645005.0,475431013.0,J673,Other specified chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,1222334016.0,H3y-1,H3y..11,13645005.0,475431013.0,J440,Other specified chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,1222334016.0,H3y-1,H3y..11,13645005.0,475431013.0,J677,Other specified chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,1222334016.0,H3y-1,H3y..11,13645005.0,475431013.0,J671,Other specified chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,301545019.0,H3z,H3z..00,13645005.0,475428012.0,J679,Chronic obstructive airways disease NOS
+Chronic lower respiratory diseases,301545019.0,H3z,H3z..00,13645005.0,475428012.0,J675,Chronic obstructive airways disease NOS
+Chronic lower respiratory diseases,301545019.0,H3z,H3z..00,13645005.0,475428012.0,J448,Chronic obstructive airways disease NOS
+Chronic lower respiratory diseases,301545019.0,H3z,H3z..00,13645005.0,475428012.0,J670,Chronic obstructive airways disease NOS
+Chronic lower respiratory diseases,301545019.0,H3z,H3z..00,13645005.0,475428012.0,J674,Chronic obstructive airways disease NOS
+Chronic lower respiratory diseases,301545019.0,H3z,H3z..00,13645005.0,475428012.0,J672,Chronic obstructive airways disease NOS
+Chronic lower respiratory diseases,301545019.0,H3z,H3z..00,13645005.0,475428012.0,J441,Chronic obstructive airways disease NOS
+Chronic lower respiratory diseases,301545019.0,H3z,H3z..00,13645005.0,475428012.0,J449,Chronic obstructive airways disease NOS
+Chronic lower respiratory diseases,301545019.0,H3z,H3z..00,13645005.0,475428012.0,J678,Chronic obstructive airways disease NOS
+Chronic lower respiratory diseases,301545019.0,H3z,H3z..00,13645005.0,475428012.0,J676,Chronic obstructive airways disease NOS
+Chronic lower respiratory diseases,301545019.0,H3z,H3z..00,13645005.0,475428012.0,J673,Chronic obstructive airways disease NOS
+Chronic lower respiratory diseases,301545019.0,H3z,H3z..00,13645005.0,475428012.0,J440,Chronic obstructive airways disease NOS
+Chronic lower respiratory diseases,301545019.0,H3z,H3z..00,13645005.0,475428012.0,J677,Chronic obstructive airways disease NOS
+Chronic lower respiratory diseases,301545019.0,H3z,H3z..00,13645005.0,475428012.0,J671,Chronic obstructive airways disease NOS
+Chronic lower respiratory diseases,1222335015.0,H3z-1,H3z..11,13645005.0,475431013.0,J679,Chronic obstructive pulmonary disease NOS
+Chronic lower respiratory diseases,1222335015.0,H3z-1,H3z..11,13645005.0,475431013.0,J675,Chronic obstructive pulmonary disease NOS
+Chronic lower respiratory diseases,1222335015.0,H3z-1,H3z..11,13645005.0,475431013.0,J448,Chronic obstructive pulmonary disease NOS
+Chronic lower respiratory diseases,1222335015.0,H3z-1,H3z..11,13645005.0,475431013.0,J670,Chronic obstructive pulmonary disease NOS
+Chronic lower respiratory diseases,1222335015.0,H3z-1,H3z..11,13645005.0,475431013.0,J674,Chronic obstructive pulmonary disease NOS
+Chronic lower respiratory diseases,1222335015.0,H3z-1,H3z..11,13645005.0,475431013.0,J672,Chronic obstructive pulmonary disease NOS
+Chronic lower respiratory diseases,1222335015.0,H3z-1,H3z..11,13645005.0,475431013.0,J441,Chronic obstructive pulmonary disease NOS
+Chronic lower respiratory diseases,1222335015.0,H3z-1,H3z..11,13645005.0,475431013.0,J449,Chronic obstructive pulmonary disease NOS
+Chronic lower respiratory diseases,1222335015.0,H3z-1,H3z..11,13645005.0,475431013.0,J678,Chronic obstructive pulmonary disease NOS
+Chronic lower respiratory diseases,1222335015.0,H3z-1,H3z..11,13645005.0,475431013.0,J676,Chronic obstructive pulmonary disease NOS
+Chronic lower respiratory diseases,1222335015.0,H3z-1,H3z..11,13645005.0,475431013.0,J673,Chronic obstructive pulmonary disease NOS
+Chronic lower respiratory diseases,1222335015.0,H3z-1,H3z..11,13645005.0,475431013.0,J440,Chronic obstructive pulmonary disease NOS
+Chronic lower respiratory diseases,1222335015.0,H3z-1,H3z..11,13645005.0,475431013.0,J677,Chronic obstructive pulmonary disease NOS
+Chronic lower respiratory diseases,1222335015.0,H3z-1,H3z..11,13645005.0,475431013.0,J671,Chronic obstructive pulmonary disease NOS
+Chronic lower respiratory diseases,301572010.0,H4640,H464000,196026004.0,301572010.0,J684,Chronic emphysema due to chemical fumes
+Chronic lower respiratory diseases,269761000006112.0,H4641,H464100,196027008.0,301573017.0,J684,Obliterative bronchiolitis due to chemical fumes
+Chronic lower respiratory diseases,2240631000000119.2,H5832,H583200,866901000000103.0,2240631000000119.2,J82X,Eosinophilic bronchitis
+Chronic lower respiratory diseases,301835010.0,Hyu30,Hyu3000,87433001.0,144964015.0,J448,[X]Other emphysema
+Chronic lower respiratory diseases,301835010.0,Hyu30,Hyu3000,87433001.0,144964015.0,J440,[X]Other emphysema
+Chronic lower respiratory diseases,301835010.0,Hyu30,Hyu3000,87433001.0,144964015.0,J684,[X]Other emphysema
+Chronic lower respiratory diseases,301835010.0,Hyu30,Hyu3000,87433001.0,144964015.0,J439,[X]Other emphysema
+Chronic lower respiratory diseases,301835010.0,Hyu30,Hyu3000,87433001.0,144964015.0,J982,[X]Other emphysema
+Chronic lower respiratory diseases,301835010.0,Hyu30,Hyu3000,87433001.0,144964015.0,J449,[X]Other emphysema
+Chronic lower respiratory diseases,301835010.0,Hyu30,Hyu3000,87433001.0,144964015.0,P250,[X]Other emphysema
+Chronic lower respiratory diseases,301835010.0,Hyu30,Hyu3000,87433001.0,144964015.0,J983,[X]Other emphysema
+Chronic lower respiratory diseases,301835010.0,Hyu30,Hyu3000,87433001.0,144964015.0,J438,[X]Other emphysema
+Chronic lower respiratory diseases,301835010.0,Hyu30,Hyu3000,87433001.0,144964015.0,J430,[X]Other emphysema
+Chronic lower respiratory diseases,301835010.0,Hyu30,Hyu3000,87433001.0,144964015.0,J432,[X]Other emphysema
+Chronic lower respiratory diseases,301835010.0,Hyu30,Hyu3000,87433001.0,144964015.0,J441,[X]Other emphysema
+Chronic lower respiratory diseases,301835010.0,Hyu30,Hyu3000,87433001.0,144964015.0,J431,[X]Other emphysema
+Chronic lower respiratory diseases,301836011.0,Hyu31,Hyu3100,13645005.0,475431013.0,J679,[X]Other specified chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,301836011.0,Hyu31,Hyu3100,13645005.0,475431013.0,J675,[X]Other specified chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,301836011.0,Hyu31,Hyu3100,13645005.0,475431013.0,J448,[X]Other specified chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,301836011.0,Hyu31,Hyu3100,13645005.0,475431013.0,J670,[X]Other specified chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,301836011.0,Hyu31,Hyu3100,13645005.0,475431013.0,J674,[X]Other specified chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,301836011.0,Hyu31,Hyu3100,13645005.0,475431013.0,J672,[X]Other specified chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,301836011.0,Hyu31,Hyu3100,13645005.0,475431013.0,J441,[X]Other specified chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,301836011.0,Hyu31,Hyu3100,13645005.0,475431013.0,J449,[X]Other specified chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,301836011.0,Hyu31,Hyu3100,13645005.0,475431013.0,J678,[X]Other specified chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,301836011.0,Hyu31,Hyu3100,13645005.0,475431013.0,J676,[X]Other specified chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,301836011.0,Hyu31,Hyu3100,13645005.0,475431013.0,J673,[X]Other specified chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,301836011.0,Hyu31,Hyu3100,13645005.0,475431013.0,J440,[X]Other specified chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,301836011.0,Hyu31,Hyu3100,13645005.0,475431013.0,J677,[X]Other specified chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,301836011.0,Hyu31,Hyu3100,13645005.0,475431013.0,J671,[X]Other specified chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,6720721000006111.0,^ESCTAS672072,,405944004.0,2157699014.0,J459,Asthmatic bronchitis
+Chronic lower respiratory diseases,885291000006115.0,H330-99,H330.99,389145006.0,885291000006115.0,J450,Extrinsic asthma - atopy
+Chronic lower respiratory diseases,3005811000006119.0,^ESCTEX300581,,31387002.0,3035282010.0,J459,Exercise induced asthma
+Chronic lower respiratory diseases,5054341000006110.0,^ESCTLA505434,,233679003.0,350149018.0,J459,Late-onset asthma
+Chronic lower respiratory diseases,1.1903851000006116e+16,^ESCT1190385,,708038006.0,145961000006117.0,J451,Severe asthma attack
+Chronic lower respiratory diseases,1.1903851000006116e+16,^ESCT1190385,,708038006.0,145961000006117.0,J450,Severe asthma attack
+Chronic lower respiratory diseases,1.1903851000006116e+16,^ESCT1190385,,708038006.0,145961000006117.0,J459,Severe asthma attack
+Chronic lower respiratory diseases,1.1903851000006116e+16,^ESCT1190385,,708038006.0,145961000006117.0,J46X,Severe asthma attack
+Chronic lower respiratory diseases,1.1903851000006116e+16,^ESCT1190385,,708038006.0,145961000006117.0,J458,Severe asthma attack
+Chronic lower respiratory diseases,655601000006113.0,173A,173A.00,31387002.0,52467014.0,J459,Exercise induced asthma
+Chronic lower respiratory diseases,95786019.0,173c,173c.00,57607007.0,95786019.0,J60X,Occupational asthma
+Chronic lower respiratory diseases,95786019.0,173c,173c.00,57607007.0,95786019.0,J64X,Occupational asthma
+Chronic lower respiratory diseases,95786019.0,173c,173c.00,57607007.0,95786019.0,J662 ,Occupational asthma
+Chronic lower respiratory diseases,95786019.0,173c,173c.00,57607007.0,95786019.0,J668,Occupational asthma
+Chronic lower respiratory diseases,95786019.0,173c,173c.00,57607007.0,95786019.0,J660 ,Occupational asthma
+Chronic lower respiratory diseases,95786019.0,173c,173c.00,57607007.0,95786019.0,J661 ,Occupational asthma
+Chronic lower respiratory diseases,95786019.0,173c,173c.00,57607007.0,95786019.0,J688,Occupational asthma
+Chronic lower respiratory diseases,95786019.0,173c,173c.00,57607007.0,95786019.0,J628,Occupational asthma
+Chronic lower respiratory diseases,95786019.0,173c,173c.00,57607007.0,95786019.0,J662,Occupational asthma
+Chronic lower respiratory diseases,95786019.0,173c,173c.00,57607007.0,95786019.0,J668 ,Occupational asthma
+Chronic lower respiratory diseases,95786019.0,173c,173c.00,57607007.0,95786019.0,J450,Occupational asthma
+Chronic lower respiratory diseases,95786019.0,173c,173c.00,57607007.0,95786019.0,J698,Occupational asthma
+Chronic lower respiratory diseases,95786019.0,173c,173c.00,57607007.0,95786019.0,J660,Occupational asthma
+Chronic lower respiratory diseases,95786019.0,173c,173c.00,57607007.0,95786019.0,J661,Occupational asthma
+Chronic lower respiratory diseases,983771000006118.0,173d,173d.00,57607007.0,95786019.0,J60X,Work aggravated asthma
+Chronic lower respiratory diseases,983771000006118.0,173d,173d.00,57607007.0,95786019.0,J64X,Work aggravated asthma
+Chronic lower respiratory diseases,983771000006118.0,173d,173d.00,57607007.0,95786019.0,J662 ,Work aggravated asthma
+Chronic lower respiratory diseases,983771000006118.0,173d,173d.00,57607007.0,95786019.0,J668,Work aggravated asthma
+Chronic lower respiratory diseases,983771000006118.0,173d,173d.00,57607007.0,95786019.0,J660 ,Work aggravated asthma
+Chronic lower respiratory diseases,983771000006118.0,173d,173d.00,57607007.0,95786019.0,J661 ,Work aggravated asthma
+Chronic lower respiratory diseases,983771000006118.0,173d,173d.00,57607007.0,95786019.0,J688,Work aggravated asthma
+Chronic lower respiratory diseases,983771000006118.0,173d,173d.00,57607007.0,95786019.0,J628,Work aggravated asthma
+Chronic lower respiratory diseases,983771000006118.0,173d,173d.00,57607007.0,95786019.0,J662,Work aggravated asthma
+Chronic lower respiratory diseases,983771000006118.0,173d,173d.00,57607007.0,95786019.0,J668 ,Work aggravated asthma
+Chronic lower respiratory diseases,983771000006118.0,173d,173d.00,57607007.0,95786019.0,J450,Work aggravated asthma
+Chronic lower respiratory diseases,983771000006118.0,173d,173d.00,57607007.0,95786019.0,J698,Work aggravated asthma
+Chronic lower respiratory diseases,983771000006118.0,173d,173d.00,57607007.0,95786019.0,J660,Work aggravated asthma
+Chronic lower respiratory diseases,983771000006118.0,173d,173d.00,57607007.0,95786019.0,J661,Work aggravated asthma
+Chronic lower respiratory diseases,929091000006111.0,1780,1780.00,407674008.0,2159273015.0,J449 ,Aspirin induced asthma
+Chronic lower respiratory diseases,929091000006111.0,1780,1780.00,407674008.0,2159273015.0,J451,Aspirin induced asthma
+Chronic lower respiratory diseases,929091000006111.0,1780,1780.00,407674008.0,2159273015.0,J441 ,Aspirin induced asthma
+Chronic lower respiratory diseases,929091000006111.0,1780,1780.00,407674008.0,2159273015.0,J450 ,Aspirin induced asthma
+Chronic lower respiratory diseases,929091000006111.0,1780,1780.00,407674008.0,2159273015.0,J458,Aspirin induced asthma
+Chronic lower respiratory diseases,929091000006111.0,1780,1780.00,407674008.0,2159273015.0,J459 ,Aspirin induced asthma
+Chronic lower respiratory diseases,929091000006111.0,1780,1780.00,407674008.0,2159273015.0,J449,Aspirin induced asthma
+Chronic lower respiratory diseases,929091000006111.0,1780,1780.00,407674008.0,2159273015.0,J450,Aspirin induced asthma
+Chronic lower respiratory diseases,929091000006111.0,1780,1780.00,407674008.0,2159273015.0,J441,Aspirin induced asthma
+Chronic lower respiratory diseases,929091000006111.0,1780,1780.00,407674008.0,2159273015.0,J440,Aspirin induced asthma
+Chronic lower respiratory diseases,929091000006111.0,1780,1780.00,407674008.0,2159273015.0,J451 ,Aspirin induced asthma
+Chronic lower respiratory diseases,929091000006111.0,1780,1780.00,407674008.0,2159273015.0,J458 ,Aspirin induced asthma
+Chronic lower respiratory diseases,929091000006111.0,1780,1780.00,407674008.0,2159273015.0,J440 ,Aspirin induced asthma
+Chronic lower respiratory diseases,929091000006111.0,1780,1780.00,407674008.0,2159273015.0,J448 ,Aspirin induced asthma
+Chronic lower respiratory diseases,929091000006111.0,1780,1780.00,407674008.0,2159273015.0,J46X,Aspirin induced asthma
+Chronic lower respiratory diseases,929091000006111.0,1780,1780.00,407674008.0,2159273015.0,J448,Aspirin induced asthma
+Chronic lower respiratory diseases,929091000006111.0,1780,1780.00,407674008.0,2159273015.0,J459,Aspirin induced asthma
+Chronic lower respiratory diseases,1780388018.0,1O2,1O2..00,401193004.0,1780388018.0,J459,Asthma confirmed
+Chronic lower respiratory diseases,1780388018.0,1O2,1O2..00,401193004.0,1780388018.0,J458,Asthma confirmed
+Chronic lower respiratory diseases,1780388018.0,1O2,1O2..00,401193004.0,1780388018.0,J451,Asthma confirmed
+Chronic lower respiratory diseases,1780388018.0,1O2,1O2..00,401193004.0,1780388018.0,J450,Asthma confirmed
+Chronic lower respiratory diseases,301485011.0,H33,H33..00,195967001.0,301485011.0,J385,Asthma
+Chronic lower respiratory diseases,301485011.0,H33,H33..00,195967001.0,301485011.0,J46X,Asthma
+Chronic lower respiratory diseases,301485011.0,H33,H33..00,195967001.0,301485011.0,J451,Asthma
+Chronic lower respiratory diseases,301485011.0,H33,H33..00,195967001.0,301485011.0,J64X,Asthma
+Chronic lower respiratory diseases,301485011.0,H33,H33..00,195967001.0,301485011.0,J698,Asthma
+Chronic lower respiratory diseases,301485011.0,H33,H33..00,195967001.0,301485011.0,J450,Asthma
+Chronic lower respiratory diseases,301485011.0,H33,H33..00,195967001.0,301485011.0,J458,Asthma
+Chronic lower respiratory diseases,301485011.0,H33,H33..00,195967001.0,301485011.0,J60X,Asthma
+Chronic lower respiratory diseases,301485011.0,H33,H33..00,195967001.0,301485011.0,A162,Asthma
+Chronic lower respiratory diseases,301485011.0,H33,H33..00,195967001.0,301485011.0,J628,Asthma
+Chronic lower respiratory diseases,301485011.0,H33,H33..00,195967001.0,301485011.0,J82X,Asthma
+Chronic lower respiratory diseases,301485011.0,H33,H33..00,195967001.0,301485011.0,J459,Asthma
+Chronic lower respiratory diseases,301485011.0,H33,H33..00,195967001.0,301485011.0,I501,Asthma
+Chronic lower respiratory diseases,301480018.0,H33-1,H33..11,195967001.0,301480018.0,J385,Bronchial asthma
+Chronic lower respiratory diseases,301480018.0,H33-1,H33..11,195967001.0,301480018.0,J46X,Bronchial asthma
+Chronic lower respiratory diseases,301480018.0,H33-1,H33..11,195967001.0,301480018.0,J451,Bronchial asthma
+Chronic lower respiratory diseases,301480018.0,H33-1,H33..11,195967001.0,301480018.0,J64X,Bronchial asthma
+Chronic lower respiratory diseases,301480018.0,H33-1,H33..11,195967001.0,301480018.0,J698,Bronchial asthma
+Chronic lower respiratory diseases,301480018.0,H33-1,H33..11,195967001.0,301480018.0,J450,Bronchial asthma
+Chronic lower respiratory diseases,301480018.0,H33-1,H33..11,195967001.0,301480018.0,J458,Bronchial asthma
+Chronic lower respiratory diseases,301480018.0,H33-1,H33..11,195967001.0,301480018.0,J60X,Bronchial asthma
+Chronic lower respiratory diseases,301480018.0,H33-1,H33..11,195967001.0,301480018.0,A162,Bronchial asthma
+Chronic lower respiratory diseases,301480018.0,H33-1,H33..11,195967001.0,301480018.0,J628,Bronchial asthma
+Chronic lower respiratory diseases,301480018.0,H33-1,H33..11,195967001.0,301480018.0,J82X,Bronchial asthma
+Chronic lower respiratory diseases,301480018.0,H33-1,H33..11,195967001.0,301480018.0,J459,Bronchial asthma
+Chronic lower respiratory diseases,301480018.0,H33-1,H33..11,195967001.0,301480018.0,I501,Bronchial asthma
+Chronic lower respiratory diseases,660351000006118.0,H330,H330.00,389145006.0,1493645010.0,J450,Extrinsic (atopic) asthma
+Chronic lower respiratory diseases,1483199016.0,H330-1,H330.11,389145006.0,1483199016.0,J450,Allergic asthma
+Chronic lower respiratory diseases,350147016.0,H330-2,H330.12,233678006.0,350147016.0,J450,Childhood asthma
+Chronic lower respiratory diseases,350154010.0,H330-4,H330.14,233683003.0,350154010.0,J450,Pollen asthma
+Chronic lower respiratory diseases,104872017.0,H3300,H330000,63088003.0,104872017.0,J458,Extrinsic asthma without status asthmaticus
+Chronic lower respiratory diseases,151338014.0,H3301,H330100,1086701000000102.0,2722231000000112.0,J46X,Extrinsic asthma with status asthmaticus
+Chronic lower respiratory diseases,350151019.0,H3301-1,H330111,708093000.0,3083642013.0,J450,Extrinsic asthma with asthma attack
+Chronic lower respiratory diseases,301499010.0,H330z,H330z00,424643009.0,2648327010.0,J450,Extrinsic asthma NOS
+Chronic lower respiratory diseases,396114013.0,H331,H331.00,266361008.0,396114013.0,J451,Intrinsic asthma
+Chronic lower respiratory diseases,350148014.0,H331-1,H331.11,233679003.0,350148014.0,J459,Late onset asthma
+Chronic lower respiratory diseases,21390015.0,H3310,H331000,12428000.0,21390015.0,J451,Intrinsic asthma without status asthmaticus
+Chronic lower respiratory diseases,98546013.0,H3311,H331100,1086711000000100.0,2722261000000119.0,J46X,Intrinsic asthma with status asthmaticus
+Chronic lower respiratory diseases,350156012.0,H3311-1,H331111,708094006.0,3032866010.0,J451,Intrinsic asthma with asthma attack
+Chronic lower respiratory diseases,301508013.0,H331z,H331z00,266361008.0,396114013.0,J451,Intrinsic asthma NOS
+Chronic lower respiratory diseases,301509017.0,H332,H332.00,195977004.0,301509017.0,J458,Mixed asthma
+Chronic lower respiratory diseases,338238011.0,H334,H334.00,225057002.0,338238011.0,J458,Brittle asthma
+Chronic lower respiratory diseases,338238011.0,H334,H334.00,225057002.0,338238011.0,J450,Brittle asthma
+Chronic lower respiratory diseases,338238011.0,H334,H334.00,225057002.0,338238011.0,J451,Brittle asthma
+Chronic lower respiratory diseases,338238011.0,H334,H334.00,225057002.0,338238011.0,J46X,Brittle asthma
+Chronic lower respiratory diseases,338238011.0,H334,H334.00,225057002.0,338238011.0,J459,Brittle asthma
+Chronic lower respiratory diseases,2240591000000119.2,H335,H335.00,866881000000101.0,2240591000000119.2,J448,Chronic asthma with fixed airflow obstruction
+Chronic lower respiratory diseases,2240591000000119.2,H335,H335.00,866881000000101.0,2240591000000119.2,J449,Chronic asthma with fixed airflow obstruction
+Chronic lower respiratory diseases,2240591000000119.2,H335,H335.00,866881000000101.0,2240591000000119.2,J440,Chronic asthma with fixed airflow obstruction
+Chronic lower respiratory diseases,2240591000000119.2,H335,H335.00,866881000000101.0,2240591000000119.2,J441,Chronic asthma with fixed airflow obstruction
+Chronic lower respiratory diseases,301511014.0,H33z,H33z.00,195967001.0,301485011.0,J385,Asthma unspecified
+Chronic lower respiratory diseases,301511014.0,H33z,H33z.00,195967001.0,301485011.0,J46X,Asthma unspecified
+Chronic lower respiratory diseases,301511014.0,H33z,H33z.00,195967001.0,301485011.0,J451,Asthma unspecified
+Chronic lower respiratory diseases,301511014.0,H33z,H33z.00,195967001.0,301485011.0,J64X,Asthma unspecified
+Chronic lower respiratory diseases,301511014.0,H33z,H33z.00,195967001.0,301485011.0,J698,Asthma unspecified
+Chronic lower respiratory diseases,301511014.0,H33z,H33z.00,195967001.0,301485011.0,J450,Asthma unspecified
+Chronic lower respiratory diseases,301511014.0,H33z,H33z.00,195967001.0,301485011.0,J458,Asthma unspecified
+Chronic lower respiratory diseases,301511014.0,H33z,H33z.00,195967001.0,301485011.0,J60X,Asthma unspecified
+Chronic lower respiratory diseases,301511014.0,H33z,H33z.00,195967001.0,301485011.0,A162,Asthma unspecified
+Chronic lower respiratory diseases,301511014.0,H33z,H33z.00,195967001.0,301485011.0,J628,Asthma unspecified
+Chronic lower respiratory diseases,301511014.0,H33z,H33z.00,195967001.0,301485011.0,J82X,Asthma unspecified
+Chronic lower respiratory diseases,301511014.0,H33z,H33z.00,195967001.0,301485011.0,J459,Asthma unspecified
+Chronic lower respiratory diseases,301511014.0,H33z,H33z.00,195967001.0,301485011.0,I501,Asthma unspecified
+Chronic lower respiratory diseases,2535857010.0,H33z-1,H33z.11,195967001.0,2475605013.0,J385,Hyperreactive airways disease
+Chronic lower respiratory diseases,2535857010.0,H33z-1,H33z.11,195967001.0,2475605013.0,J46X,Hyperreactive airways disease
+Chronic lower respiratory diseases,2535857010.0,H33z-1,H33z.11,195967001.0,2475605013.0,J451,Hyperreactive airways disease
+Chronic lower respiratory diseases,2535857010.0,H33z-1,H33z.11,195967001.0,2475605013.0,J64X,Hyperreactive airways disease
+Chronic lower respiratory diseases,2535857010.0,H33z-1,H33z.11,195967001.0,2475605013.0,J698,Hyperreactive airways disease
+Chronic lower respiratory diseases,2535857010.0,H33z-1,H33z.11,195967001.0,2475605013.0,J450,Hyperreactive airways disease
+Chronic lower respiratory diseases,2535857010.0,H33z-1,H33z.11,195967001.0,2475605013.0,J458,Hyperreactive airways disease
+Chronic lower respiratory diseases,2535857010.0,H33z-1,H33z.11,195967001.0,2475605013.0,J60X,Hyperreactive airways disease
+Chronic lower respiratory diseases,2535857010.0,H33z-1,H33z.11,195967001.0,2475605013.0,A162,Hyperreactive airways disease
+Chronic lower respiratory diseases,2535857010.0,H33z-1,H33z.11,195967001.0,2475605013.0,J628,Hyperreactive airways disease
+Chronic lower respiratory diseases,2535857010.0,H33z-1,H33z.11,195967001.0,2475605013.0,J82X,Hyperreactive airways disease
+Chronic lower respiratory diseases,2535857010.0,H33z-1,H33z.11,195967001.0,2475605013.0,J459,Hyperreactive airways disease
+Chronic lower respiratory diseases,2535857010.0,H33z-1,H33z.11,195967001.0,2475605013.0,I501,Hyperreactive airways disease
+Chronic lower respiratory diseases,396118011.0,H33z0,H33z000,734904007.0,3511368015.0,J46X,Status asthmaticus NOS
+Chronic lower respiratory diseases,145961000006117.0,H33z0-1,H33z011,708090002.0,3033029011.0,J46X,Severe asthma attack
+Chronic lower respiratory diseases,396119015.0,H33z1,H33z100,708038006.0,3032734012.0,J451,Asthma attack
+Chronic lower respiratory diseases,396119015.0,H33z1,H33z100,708038006.0,3032734012.0,J450,Asthma attack
+Chronic lower respiratory diseases,396119015.0,H33z1,H33z100,708038006.0,3032734012.0,J459,Asthma attack
+Chronic lower respiratory diseases,396119015.0,H33z1,H33z100,708038006.0,3032734012.0,J46X,Asthma attack
+Chronic lower respiratory diseases,396119015.0,H33z1,H33z100,708038006.0,3032734012.0,J458,Asthma attack
+Chronic lower respiratory diseases,409865018.0,H33z1-1,H33z111,708038006.0,3032734012.0,J451,Asthma attack NOS
+Chronic lower respiratory diseases,409865018.0,H33z1-1,H33z111,708038006.0,3032734012.0,J450,Asthma attack NOS
+Chronic lower respiratory diseases,409865018.0,H33z1-1,H33z111,708038006.0,3032734012.0,J459,Asthma attack NOS
+Chronic lower respiratory diseases,409865018.0,H33z1-1,H33z111,708038006.0,3032734012.0,J46X,Asthma attack NOS
+Chronic lower respiratory diseases,409865018.0,H33z1-1,H33z111,708038006.0,3032734012.0,J458,Asthma attack NOS
+Chronic lower respiratory diseases,350149018.0,H33z2,H33z200,233679003.0,350148014.0,J459,Late-onset asthma
+Chronic lower respiratory diseases,396120014.0,H33zz,H33zz00,195967001.0,301485011.0,J385,Asthma NOS
+Chronic lower respiratory diseases,396120014.0,H33zz,H33zz00,195967001.0,301485011.0,J46X,Asthma NOS
+Chronic lower respiratory diseases,396120014.0,H33zz,H33zz00,195967001.0,301485011.0,J451,Asthma NOS
+Chronic lower respiratory diseases,396120014.0,H33zz,H33zz00,195967001.0,301485011.0,J64X,Asthma NOS
+Chronic lower respiratory diseases,396120014.0,H33zz,H33zz00,195967001.0,301485011.0,J698,Asthma NOS
+Chronic lower respiratory diseases,396120014.0,H33zz,H33zz00,195967001.0,301485011.0,J450,Asthma NOS
+Chronic lower respiratory diseases,396120014.0,H33zz,H33zz00,195967001.0,301485011.0,J458,Asthma NOS
+Chronic lower respiratory diseases,396120014.0,H33zz,H33zz00,195967001.0,301485011.0,J60X,Asthma NOS
+Chronic lower respiratory diseases,396120014.0,H33zz,H33zz00,195967001.0,301485011.0,A162,Asthma NOS
+Chronic lower respiratory diseases,396120014.0,H33zz,H33zz00,195967001.0,301485011.0,J628,Asthma NOS
+Chronic lower respiratory diseases,396120014.0,H33zz,H33zz00,195967001.0,301485011.0,J82X,Asthma NOS
+Chronic lower respiratory diseases,396120014.0,H33zz,H33zz00,195967001.0,301485011.0,J459,Asthma NOS
+Chronic lower respiratory diseases,396120014.0,H33zz,H33zz00,195967001.0,301485011.0,I501,Asthma NOS
+Chronic lower respiratory diseases,655611000006111.0,H33zz-1,H33zz11,31387002.0,52467014.0,J459,Exercise induced asthma
+Chronic lower respiratory diseases,350152014.0,H33zz-2,H33zz12,389145006.0,1483199016.0,J450,Allergic asthma NEC
+Chronic lower respiratory diseases,477291000006114.0,H33zz-3,H33zz13,405720007.0,2157501011.0,J46X,Allergic bronchitis NEC
+Chronic lower respiratory diseases,477291000006114.0,H33zz-3,H33zz13,405720007.0,2157501011.0,J458,Allergic bronchitis NEC
+Chronic lower respiratory diseases,477291000006114.0,H33zz-3,H33zz13,405720007.0,2157501011.0,J450,Allergic bronchitis NEC
+Chronic lower respiratory diseases,38677017.0,A115,A115.00,23022004.0,38677017.0,A157,Tuberculous bronchiectasis
+Chronic lower respiratory diseases,38677017.0,A115,A115.00,23022004.0,38677017.0,A160,Tuberculous bronchiectasis
+Chronic lower respiratory diseases,38677017.0,A115,A115.00,23022004.0,38677017.0,A161,Tuberculous bronchiectasis
+Chronic lower respiratory diseases,38677017.0,A115,A115.00,23022004.0,38677017.0,A167,Tuberculous bronchiectasis
+Chronic lower respiratory diseases,38677017.0,A115,A115.00,23022004.0,38677017.0,A150,Tuberculous bronchiectasis
+Chronic lower respiratory diseases,38677017.0,A115,A115.00,23022004.0,38677017.0,A162,Tuberculous bronchiectasis
+Chronic lower respiratory diseases,38677017.0,A115,A115.00,23022004.0,38677017.0,A151,Tuberculous bronchiectasis
+Chronic lower respiratory diseases,38677017.0,A115,A115.00,23022004.0,38677017.0,A152,Tuberculous bronchiectasis
+Chronic lower respiratory diseases,21163015.0,H34,H34..00,12295008.0,21163015.0,A155,Bronchiectasis
+Chronic lower respiratory diseases,21163015.0,H34,H34..00,12295008.0,21163015.0,A160,Bronchiectasis
+Chronic lower respiratory diseases,21163015.0,H34,H34..00,12295008.0,21163015.0,A161,Bronchiectasis
+Chronic lower respiratory diseases,21163015.0,H34,H34..00,12295008.0,21163015.0,J47X,Bronchiectasis
+Chronic lower respiratory diseases,21163015.0,H34,H34..00,12295008.0,21163015.0,A163,Bronchiectasis
+Chronic lower respiratory diseases,21163015.0,H34,H34..00,12295008.0,21163015.0,A151,Bronchiectasis
+Chronic lower respiratory diseases,21163015.0,H34,H34..00,12295008.0,21163015.0,A157,Bronchiectasis
+Chronic lower respiratory diseases,21163015.0,H34,H34..00,12295008.0,21163015.0,Q334,Bronchiectasis
+Chronic lower respiratory diseases,21163015.0,H34,H34..00,12295008.0,21163015.0,A153,Bronchiectasis
+Chronic lower respiratory diseases,21163015.0,H34,H34..00,12295008.0,21163015.0,A158,Bronchiectasis
+Chronic lower respiratory diseases,21163015.0,H34,H34..00,12295008.0,21163015.0,A168,Bronchiectasis
+Chronic lower respiratory diseases,21163015.0,H34,H34..00,12295008.0,21163015.0,A167,Bronchiectasis
+Chronic lower respiratory diseases,21163015.0,H34,H34..00,12295008.0,21163015.0,A156,Bronchiectasis
+Chronic lower respiratory diseases,21163015.0,H34,H34..00,12295008.0,21163015.0,A164,Bronchiectasis
+Chronic lower respiratory diseases,21163015.0,H34,H34..00,12295008.0,21163015.0,A154,Bronchiectasis
+Chronic lower respiratory diseases,21163015.0,H34,H34..00,12295008.0,21163015.0,A159,Bronchiectasis
+Chronic lower respiratory diseases,21163015.0,H34,H34..00,12295008.0,21163015.0,A165,Bronchiectasis
+Chronic lower respiratory diseases,21163015.0,H34,H34..00,12295008.0,21163015.0,A162,Bronchiectasis
+Chronic lower respiratory diseases,21163015.0,H34,H34..00,12295008.0,21163015.0,A152,Bronchiectasis
+Chronic lower respiratory diseases,21163015.0,H34,H34..00,12295008.0,21163015.0,A150,Bronchiectasis
+Chronic lower respiratory diseases,21163015.0,H34,H34..00,12295008.0,21163015.0,A169,Bronchiectasis
+Chronic lower respiratory diseases,301524014.0,H340,H340.00,195984007.0,301524014.0,Q334,Recurrent bronchiectasis
+Chronic lower respiratory diseases,301524014.0,H340,H340.00,195984007.0,301524014.0,J47X,Recurrent bronchiectasis
+Chronic lower respiratory diseases,301525010.0,H341,H341.00,195985008.0,301525010.0,J47X,Post-infective bronchiectasis
+Chronic lower respiratory diseases,301526011.0,H34z,H34z.00,12295008.0,21163015.0,A155,Bronchiectasis NOS
+Chronic lower respiratory diseases,301526011.0,H34z,H34z.00,12295008.0,21163015.0,A160,Bronchiectasis NOS
+Chronic lower respiratory diseases,301526011.0,H34z,H34z.00,12295008.0,21163015.0,A161,Bronchiectasis NOS
+Chronic lower respiratory diseases,301526011.0,H34z,H34z.00,12295008.0,21163015.0,J47X,Bronchiectasis NOS
+Chronic lower respiratory diseases,301526011.0,H34z,H34z.00,12295008.0,21163015.0,A163,Bronchiectasis NOS
+Chronic lower respiratory diseases,301526011.0,H34z,H34z.00,12295008.0,21163015.0,A151,Bronchiectasis NOS
+Chronic lower respiratory diseases,301526011.0,H34z,H34z.00,12295008.0,21163015.0,A157,Bronchiectasis NOS
+Chronic lower respiratory diseases,301526011.0,H34z,H34z.00,12295008.0,21163015.0,Q334,Bronchiectasis NOS
+Chronic lower respiratory diseases,301526011.0,H34z,H34z.00,12295008.0,21163015.0,A153,Bronchiectasis NOS
+Chronic lower respiratory diseases,301526011.0,H34z,H34z.00,12295008.0,21163015.0,A158,Bronchiectasis NOS
+Chronic lower respiratory diseases,301526011.0,H34z,H34z.00,12295008.0,21163015.0,A168,Bronchiectasis NOS
+Chronic lower respiratory diseases,301526011.0,H34z,H34z.00,12295008.0,21163015.0,A167,Bronchiectasis NOS
+Chronic lower respiratory diseases,301526011.0,H34z,H34z.00,12295008.0,21163015.0,A156,Bronchiectasis NOS
+Chronic lower respiratory diseases,301526011.0,H34z,H34z.00,12295008.0,21163015.0,A164,Bronchiectasis NOS
+Chronic lower respiratory diseases,301526011.0,H34z,H34z.00,12295008.0,21163015.0,A154,Bronchiectasis NOS
+Chronic lower respiratory diseases,301526011.0,H34z,H34z.00,12295008.0,21163015.0,A159,Bronchiectasis NOS
+Chronic lower respiratory diseases,301526011.0,H34z,H34z.00,12295008.0,21163015.0,A165,Bronchiectasis NOS
+Chronic lower respiratory diseases,301526011.0,H34z,H34z.00,12295008.0,21163015.0,A162,Bronchiectasis NOS
+Chronic lower respiratory diseases,301526011.0,H34z,H34z.00,12295008.0,21163015.0,A152,Bronchiectasis NOS
+Chronic lower respiratory diseases,301526011.0,H34z,H34z.00,12295008.0,21163015.0,A150,Bronchiectasis NOS
+Chronic lower respiratory diseases,301526011.0,H34z,H34z.00,12295008.0,21163015.0,A169,Bronchiectasis NOS

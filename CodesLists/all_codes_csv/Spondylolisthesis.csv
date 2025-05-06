@@ -1,0 +1,66 @@
+Condition,MedCodeId,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,ICD10Code,Term
+Spondylolisthesis  ,527151000006116.0,7J341-2,7J34112,265717009.0,394583018.0,V382,Buck fusion of lumbar spine for spondylolisthesis
+Spondylolisthesis  ,527151000006116.0,7J341-2,7J34112,265717009.0,394583018.0,V383,Buck fusion of lumbar spine for spondylolisthesis
+Spondylolisthesis  ,527151000006116.0,7J341-2,7J34112,265717009.0,394583018.0,V335,Buck fusion of lumbar spine for spondylolisthesis
+Spondylolisthesis  ,527151000006116.0,7J341-2,7J34112,265717009.0,394583018.0,V551,Buck fusion of lumbar spine for spondylolisthesis
+Spondylolisthesis  ,527151000006116.0,7J341-2,7J34112,265717009.0,394583018.0,V552,Buck fusion of lumbar spine for spondylolisthesis
+Spondylolisthesis  ,527151000006116.0,7J341-2,7J34112,265717009.0,394583018.0,V553,Buck fusion of lumbar spine for spondylolisthesis
+Spondylolisthesis  ,527151000006116.0,7J341-2,7J34112,265717009.0,394583018.0,V253,Buck fusion of lumbar spine for spondylolisthesis
+Spondylolisthesis  ,527151000006116.0,7J341-2,7J34112,265717009.0,394583018.0,V558,Buck fusion of lumbar spine for spondylolisthesis
+Spondylolisthesis  ,527151000006116.0,7J341-2,7J34112,265717009.0,394583018.0,V385,Buck fusion of lumbar spine for spondylolisthesis
+Spondylolisthesis  ,527151000006116.0,7J341-2,7J34112,265717009.0,394583018.0,V559,Buck fusion of lumbar spine for spondylolisthesis
+Spondylolisthesis  ,276668012.0,7J48K,7J48K00,178805003.0,276668012.0,V551,Reduction of spondylolisthesis and fusion
+Spondylolisthesis  ,276668012.0,7J48K,7J48K00,178805003.0,276668012.0,V553,Reduction of spondylolisthesis and fusion
+Spondylolisthesis  ,276668012.0,7J48K,7J48K00,178805003.0,276668012.0,V559,Reduction of spondylolisthesis and fusion
+Spondylolisthesis  ,276668012.0,7J48K,7J48K00,178805003.0,276668012.0,V552,Reduction of spondylolisthesis and fusion
+Spondylolisthesis  ,276668012.0,7J48K,7J48K00,178805003.0,276668012.0,V558,Reduction of spondylolisthesis and fusion
+Spondylolisthesis  ,276668012.0,7J48K,7J48K00,178805003.0,276668012.0,V548,Reduction of spondylolisthesis and fusion
+Spondylolisthesis  ,276668012.0,7J48K,7J48K00,178805003.0,276668012.0,V389,Reduction of spondylolisthesis and fusion
+Spondylolisthesis  ,276669016.0,7J48L,7J48L00,178806002.0,276669016.0,V559,Fusion spondylolisthesis in situ
+Spondylolisthesis  ,276669016.0,7J48L,7J48L00,178806002.0,276669016.0,V553,Fusion spondylolisthesis in situ
+Spondylolisthesis  ,276669016.0,7J48L,7J48L00,178806002.0,276669016.0,V551,Fusion spondylolisthesis in situ
+Spondylolisthesis  ,276669016.0,7J48L,7J48L00,178806002.0,276669016.0,V552,Fusion spondylolisthesis in situ
+Spondylolisthesis  ,276669016.0,7J48L,7J48L00,178806002.0,276669016.0,V548,Fusion spondylolisthesis in situ
+Spondylolisthesis  ,276669016.0,7J48L,7J48L00,178806002.0,276669016.0,V558,Fusion spondylolisthesis in situ
+Spondylolisthesis  ,312465016.0,N384,N384.00,203681002.0,312465016.0,S320,Acquired spondylolisthesis
+Spondylolisthesis  ,312465016.0,N384,N384.00,203681002.0,312465016.0,M431,Acquired spondylolisthesis
+Spondylolisthesis  ,312465016.0,N384,N384.00,203681002.0,312465016.0,S129 ,Acquired spondylolisthesis
+Spondylolisthesis  ,312465016.0,N384,N384.00,203681002.0,312465016.0,S127 ,Acquired spondylolisthesis
+Spondylolisthesis  ,312465016.0,N384,N384.00,203681002.0,312465016.0,S128,Acquired spondylolisthesis
+Spondylolisthesis  ,312465016.0,N384,N384.00,203681002.0,312465016.0,S120 ,Acquired spondylolisthesis
+Spondylolisthesis  ,312465016.0,N384,N384.00,203681002.0,312465016.0,S220,Acquired spondylolisthesis
+Spondylolisthesis  ,312465016.0,N384,N384.00,203681002.0,312465016.0,S128 ,Acquired spondylolisthesis
+Spondylolisthesis  ,312465016.0,N384,N384.00,203681002.0,312465016.0,S221,Acquired spondylolisthesis
+Spondylolisthesis  ,312465016.0,N384,N384.00,203681002.0,312465016.0,S120,Acquired spondylolisthesis
+Spondylolisthesis  ,312465016.0,N384,N384.00,203681002.0,312465016.0,S127,Acquired spondylolisthesis
+Spondylolisthesis  ,312465016.0,N384,N384.00,203681002.0,312465016.0,S122,Acquired spondylolisthesis
+Spondylolisthesis  ,312465016.0,N384,N384.00,203681002.0,312465016.0,S122 ,Acquired spondylolisthesis
+Spondylolisthesis  ,312465016.0,N384,N384.00,203681002.0,312465016.0,S331,Acquired spondylolisthesis
+Spondylolisthesis  ,312465016.0,N384,N384.00,203681002.0,312465016.0,S129,Acquired spondylolisthesis
+Spondylolisthesis  ,312465016.0,N384,N384.00,203681002.0,312465016.0,S327,Acquired spondylolisthesis
+Spondylolisthesis  ,312465016.0,N384,N384.00,203681002.0,312465016.0,S121,Acquired spondylolisthesis
+Spondylolisthesis  ,312465016.0,N384,N384.00,203681002.0,312465016.0,S121 ,Acquired spondylolisthesis
+Spondylolisthesis  ,312466015.0,N3840,N384000,203682009.0,312466015.0,M431,Dysplastic spondylolisthesis
+Spondylolisthesis  ,312467012.0,N3841,N384100,203683004.0,312467012.0,M431,Isthmic spondylolisthesis
+Spondylolisthesis  ,7967011.0,N3842,N384200,4046000.0,7967011.0,M431,Degenerative spondylolisthesis
+Spondylolisthesis  ,312469010.0,N3843,N384300,203685006.0,312469010.0,M431,Pedicular spondylolisthesis
+Spondylolisthesis  ,461579014.0,Zw046,Zw04600,44494000.0,74198015.0,P031,[Q] Spondylolisthesis grade 1
+Spondylolisthesis  ,461579014.0,Zw046,Zw04600,44494000.0,74198015.0,Q762,[Q] Spondylolisthesis grade 1
+Spondylolisthesis  ,461579014.0,Zw046,Zw04600,44494000.0,74198015.0,M431,[Q] Spondylolisthesis grade 1
+Spondylolisthesis  ,461579014.0,Zw046,Zw04600,44494000.0,74198015.0,O650,[Q] Spondylolisthesis grade 1
+Spondylolisthesis  ,461579014.0,Zw046,Zw04600,44494000.0,74198015.0,O330,[Q] Spondylolisthesis grade 1
+Spondylolisthesis  ,461580012.0,Zw047,Zw04700,62620001.0,104078019.0,Q762,[Q] Spondylolisthesis grade 2
+Spondylolisthesis  ,461580012.0,Zw047,Zw04700,62620001.0,104078019.0,P031,[Q] Spondylolisthesis grade 2
+Spondylolisthesis  ,461580012.0,Zw047,Zw04700,62620001.0,104078019.0,O650,[Q] Spondylolisthesis grade 2
+Spondylolisthesis  ,461580012.0,Zw047,Zw04700,62620001.0,104078019.0,M431,[Q] Spondylolisthesis grade 2
+Spondylolisthesis  ,461580012.0,Zw047,Zw04700,62620001.0,104078019.0,O330,[Q] Spondylolisthesis grade 2
+Spondylolisthesis  ,461581011.0,Zw048,Zw04800,13131000.0,22470010.0,M431,[Q] Spondylolisthesis grade 3
+Spondylolisthesis  ,461581011.0,Zw048,Zw04800,13131000.0,22470010.0,P031,[Q] Spondylolisthesis grade 3
+Spondylolisthesis  ,461581011.0,Zw048,Zw04800,13131000.0,22470010.0,O330,[Q] Spondylolisthesis grade 3
+Spondylolisthesis  ,461581011.0,Zw048,Zw04800,13131000.0,22470010.0,Q762,[Q] Spondylolisthesis grade 3
+Spondylolisthesis  ,461581011.0,Zw048,Zw04800,13131000.0,22470010.0,O650,[Q] Spondylolisthesis grade 3
+Spondylolisthesis  ,461582016.0,Zw049,Zw04900,3472009.0,6855017.0,Q762,[Q] Spondylolisthesis grade 4
+Spondylolisthesis  ,461582016.0,Zw049,Zw04900,3472009.0,6855017.0,M431,[Q] Spondylolisthesis grade 4
+Spondylolisthesis  ,461582016.0,Zw049,Zw04900,3472009.0,6855017.0,P031,[Q] Spondylolisthesis grade 4
+Spondylolisthesis  ,461582016.0,Zw049,Zw04900,3472009.0,6855017.0,O330,[Q] Spondylolisthesis grade 4
+Spondylolisthesis  ,461582016.0,Zw049,Zw04900,3472009.0,6855017.0,O650,[Q] Spondylolisthesis grade 4

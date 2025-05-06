@@ -1,0 +1,173 @@
+Condition,MedCodeId,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,ICD10Code,Term
+Spine arthritis/spondylitis,890851000006116.0,N111-99,N111.99,65260001.0,890851000006116.0,M471,Cervical spond.with myelopathy
+Spine arthritis/spondylitis,890861000006119.0,N115-99,N115.99,202677007.0,890861000006119.0,M471,Lumbosacral spond + myelopathy
+Spine arthritis/spondylitis,318465011.0,S1052,S105200,207968008.0,318465011.0,S320,"Open fracture lumbar vertebra, spondylolysis"
+Spine arthritis/spondylitis,990511000006110.0,N11zz-99,N11zz99,666611000000101.0,990511000006110.0,M479,Spondyloses
+Spine arthritis/spondylitis,1.2759411000006116e+16,^ESCT1275941,,666611000000101.0,1463151000000118.0,M479,Osteoarthritis of spine NOS
+Spine arthritis/spondylitis,1.272488100000611e+16,^ESCT1272488,,666611000000101.0,1463161000000115.0,M479,Spondylosis NOS
+Spine arthritis/spondylitis,297150011.0,F1632,F163200,192907007.0,297150011.0,M471,Myelopathy due to spondylosis
+Spine arthritis/spondylitis,1209790019.0,N11-1,N11..11,8847002.0,508047017.0,M479,Arthritis of spine
+Spine arthritis/spondylitis,1209790019.0,N11-1,N11..11,8847002.0,508047017.0,M471,Arthritis of spine
+Spine arthritis/spondylitis,1209790019.0,N11-1,N11..11,8847002.0,508047017.0,M471 ,Arthritis of spine
+Spine arthritis/spondylitis,1209790019.0,N11-1,N11..11,8847002.0,508047017.0,M478 ,Arthritis of spine
+Spine arthritis/spondylitis,1209790019.0,N11-1,N11..11,8847002.0,508047017.0,M472,Arthritis of spine
+Spine arthritis/spondylitis,1209790019.0,N11-1,N11..11,8847002.0,508047017.0,M478,Arthritis of spine
+Spine arthritis/spondylitis,1209790019.0,N11-1,N11..11,8847002.0,508047017.0,M479 ,Arthritis of spine
+Spine arthritis/spondylitis,1209790019.0,N11-1,N11..11,8847002.0,508047017.0,M483,Arthritis of spine
+Spine arthritis/spondylitis,1209790019.0,N11-1,N11..11,8847002.0,508047017.0,P031,Arthritis of spine
+Spine arthritis/spondylitis,1209790019.0,N11-1,N11..11,8847002.0,508047017.0,O650,Arthritis of spine
+Spine arthritis/spondylitis,1209790019.0,N11-1,N11..11,8847002.0,508047017.0,M470,Arthritis of spine
+Spine arthritis/spondylitis,1209790019.0,N11-1,N11..11,8847002.0,508047017.0,M470 ,Arthritis of spine
+Spine arthritis/spondylitis,1209790019.0,N11-1,N11..11,8847002.0,508047017.0,O330,Arthritis of spine
+Spine arthritis/spondylitis,1209790019.0,N11-1,N11..11,8847002.0,508047017.0,M472 ,Arthritis of spine
+Spine arthritis/spondylitis,1209790019.0,N11-1,N11..11,8847002.0,508047017.0,G992,Arthritis of spine
+Spine arthritis/spondylitis,1209790019.0,N11-1,N11..11,8847002.0,508047017.0,G552,Arthritis of spine
+Spine arthritis/spondylitis,18181000006118.0,N11-2,N11..12,8847002.0,508047017.0,M479,Osteoarthritis of spine
+Spine arthritis/spondylitis,18181000006118.0,N11-2,N11..12,8847002.0,508047017.0,M471,Osteoarthritis of spine
+Spine arthritis/spondylitis,18181000006118.0,N11-2,N11..12,8847002.0,508047017.0,M471 ,Osteoarthritis of spine
+Spine arthritis/spondylitis,18181000006118.0,N11-2,N11..12,8847002.0,508047017.0,M478 ,Osteoarthritis of spine
+Spine arthritis/spondylitis,18181000006118.0,N11-2,N11..12,8847002.0,508047017.0,M472,Osteoarthritis of spine
+Spine arthritis/spondylitis,18181000006118.0,N11-2,N11..12,8847002.0,508047017.0,M478,Osteoarthritis of spine
+Spine arthritis/spondylitis,18181000006118.0,N11-2,N11..12,8847002.0,508047017.0,M479 ,Osteoarthritis of spine
+Spine arthritis/spondylitis,18181000006118.0,N11-2,N11..12,8847002.0,508047017.0,M483,Osteoarthritis of spine
+Spine arthritis/spondylitis,18181000006118.0,N11-2,N11..12,8847002.0,508047017.0,P031,Osteoarthritis of spine
+Spine arthritis/spondylitis,18181000006118.0,N11-2,N11..12,8847002.0,508047017.0,O650,Osteoarthritis of spine
+Spine arthritis/spondylitis,18181000006118.0,N11-2,N11..12,8847002.0,508047017.0,M470,Osteoarthritis of spine
+Spine arthritis/spondylitis,18181000006118.0,N11-2,N11..12,8847002.0,508047017.0,M470 ,Osteoarthritis of spine
+Spine arthritis/spondylitis,18181000006118.0,N11-2,N11..12,8847002.0,508047017.0,O330,Osteoarthritis of spine
+Spine arthritis/spondylitis,18181000006118.0,N11-2,N11..12,8847002.0,508047017.0,M472 ,Osteoarthritis of spine
+Spine arthritis/spondylitis,18181000006118.0,N11-2,N11..12,8847002.0,508047017.0,G992,Osteoarthritis of spine
+Spine arthritis/spondylitis,18181000006118.0,N11-2,N11..12,8847002.0,508047017.0,G552,Osteoarthritis of spine
+Spine arthritis/spondylitis,108431018.0,N111,N111.00,65260001.0,108431018.0,M471,Cervical spondylosis with myelopathy
+Spine arthritis/spondylitis,311061016.0,N1110,N111000,202661006.0,311061016.0,M471,Single-level cervical spondylosis with myelopathy
+Spine arthritis/spondylitis,311062011.0,N1111,N111100,202662004.0,311062011.0,M471,Two-level cervical spondylosis with myelopathy
+Spine arthritis/spondylitis,311063018.0,N1112,N111200,202663009.0,311063018.0,M471,Multiple-level cervical spondylosis with myelopathy
+Spine arthritis/spondylitis,19006012.0,N113,N113.00,10948005.0,19006012.0,M471,Thoracic spondylosis with myelopathy
+Spine arthritis/spondylitis,311072014.0,N1130,N113000,202670009.0,311072014.0,M471,Single-level thoracic spondylosis with myelopathy
+Spine arthritis/spondylitis,311074010.0,N1132,N113200,202672001.0,311074010.0,M471,Multiple-level thoracic spondylosis with myelopathy
+Spine arthritis/spondylitis,80324016.0,N114,N114.00,48210000.0,80324016.0,M478,Lumbosacral spondylosis without myelopathy
+Spine arthritis/spondylitis,311079017.0,N1140,N114000,202674000.0,311079017.0,M478,Single-level lumbosacral spondylosis without myelopathy
+Spine arthritis/spondylitis,311080019.0,N1141,N114100,202675004.0,311080019.0,M478,Two-level lumbosacral spondylosis without myelopathy
+Spine arthritis/spondylitis,311081015.0,N1142,N114200,202676003.0,311081015.0,M478,Multiple-level lumbosacral spondylosis without myelopathy
+Spine arthritis/spondylitis,311082010.0,N115,N115.00,202677007.0,311082010.0,M471,Lumbosacral spondylosis with myelopathy
+Spine arthritis/spondylitis,311083017.0,N1150,N115000,202678002.0,311083017.0,M471,Single-level lumbosacral spondylosis with myelopathy
+Spine arthritis/spondylitis,311084011.0,N1151,N115100,202679005.0,311084011.0,M471,Two-level lumbosacral spondylosis with myelopathy
+Spine arthritis/spondylitis,311085012.0,N1152,N115200,202680008.0,311085012.0,M471,Multiple-level lumbosacral spondylosis with myelopathy
+Spine arthritis/spondylitis,311106014.0,N11C,N11C.00,202693003.0,311106014.0,M472,Lumbosacral spondylosis with radiculopathy
+Spine arthritis/spondylitis,311108010.0,N11C0,N11C000,202694009.0,311108010.0,M472,Single-level lumbosacral spondylosis with radiculopathy
+Spine arthritis/spondylitis,311109019.0,N11C1,N11C100,202695005.0,311109019.0,M472,Two-level lumbosacral spondylosis with radiculopathy
+Spine arthritis/spondylitis,311110012.0,N11C2,N11C200,202696006.0,311110012.0,M472,Multiple-level lumbosacral spondylosis with radiculopathy
+Spine arthritis/spondylitis,508047017.0,N11D,N11D.00,8847002.0,508047017.0,M479,Osteoarthritis of spine
+Spine arthritis/spondylitis,508047017.0,N11D,N11D.00,8847002.0,508047017.0,M471,Osteoarthritis of spine
+Spine arthritis/spondylitis,508047017.0,N11D,N11D.00,8847002.0,508047017.0,M471 ,Osteoarthritis of spine
+Spine arthritis/spondylitis,508047017.0,N11D,N11D.00,8847002.0,508047017.0,M478 ,Osteoarthritis of spine
+Spine arthritis/spondylitis,508047017.0,N11D,N11D.00,8847002.0,508047017.0,M472,Osteoarthritis of spine
+Spine arthritis/spondylitis,508047017.0,N11D,N11D.00,8847002.0,508047017.0,M478,Osteoarthritis of spine
+Spine arthritis/spondylitis,508047017.0,N11D,N11D.00,8847002.0,508047017.0,M479 ,Osteoarthritis of spine
+Spine arthritis/spondylitis,508047017.0,N11D,N11D.00,8847002.0,508047017.0,M483,Osteoarthritis of spine
+Spine arthritis/spondylitis,508047017.0,N11D,N11D.00,8847002.0,508047017.0,P031,Osteoarthritis of spine
+Spine arthritis/spondylitis,508047017.0,N11D,N11D.00,8847002.0,508047017.0,O650,Osteoarthritis of spine
+Spine arthritis/spondylitis,508047017.0,N11D,N11D.00,8847002.0,508047017.0,M470,Osteoarthritis of spine
+Spine arthritis/spondylitis,508047017.0,N11D,N11D.00,8847002.0,508047017.0,M470 ,Osteoarthritis of spine
+Spine arthritis/spondylitis,508047017.0,N11D,N11D.00,8847002.0,508047017.0,O330,Osteoarthritis of spine
+Spine arthritis/spondylitis,508047017.0,N11D,N11D.00,8847002.0,508047017.0,M472 ,Osteoarthritis of spine
+Spine arthritis/spondylitis,508047017.0,N11D,N11D.00,8847002.0,508047017.0,G992,Osteoarthritis of spine
+Spine arthritis/spondylitis,508047017.0,N11D,N11D.00,8847002.0,508047017.0,G552,Osteoarthritis of spine
+Spine arthritis/spondylitis,2476044012.0,N11D3,N11D300,8847002.0,508047017.0,M479,Osteoarthritis of spine NOS
+Spine arthritis/spondylitis,2476044012.0,N11D3,N11D300,8847002.0,508047017.0,M471,Osteoarthritis of spine NOS
+Spine arthritis/spondylitis,2476044012.0,N11D3,N11D300,8847002.0,508047017.0,M471 ,Osteoarthritis of spine NOS
+Spine arthritis/spondylitis,2476044012.0,N11D3,N11D300,8847002.0,508047017.0,M478 ,Osteoarthritis of spine NOS
+Spine arthritis/spondylitis,2476044012.0,N11D3,N11D300,8847002.0,508047017.0,M472,Osteoarthritis of spine NOS
+Spine arthritis/spondylitis,2476044012.0,N11D3,N11D300,8847002.0,508047017.0,M478,Osteoarthritis of spine NOS
+Spine arthritis/spondylitis,2476044012.0,N11D3,N11D300,8847002.0,508047017.0,M479 ,Osteoarthritis of spine NOS
+Spine arthritis/spondylitis,2476044012.0,N11D3,N11D300,8847002.0,508047017.0,M483,Osteoarthritis of spine NOS
+Spine arthritis/spondylitis,2476044012.0,N11D3,N11D300,8847002.0,508047017.0,P031,Osteoarthritis of spine NOS
+Spine arthritis/spondylitis,2476044012.0,N11D3,N11D300,8847002.0,508047017.0,O650,Osteoarthritis of spine NOS
+Spine arthritis/spondylitis,2476044012.0,N11D3,N11D300,8847002.0,508047017.0,M470,Osteoarthritis of spine NOS
+Spine arthritis/spondylitis,2476044012.0,N11D3,N11D300,8847002.0,508047017.0,M470 ,Osteoarthritis of spine NOS
+Spine arthritis/spondylitis,2476044012.0,N11D3,N11D300,8847002.0,508047017.0,O330,Osteoarthritis of spine NOS
+Spine arthritis/spondylitis,2476044012.0,N11D3,N11D300,8847002.0,508047017.0,M472 ,Osteoarthritis of spine NOS
+Spine arthritis/spondylitis,2476044012.0,N11D3,N11D300,8847002.0,508047017.0,G992,Osteoarthritis of spine NOS
+Spine arthritis/spondylitis,2476044012.0,N11D3,N11D300,8847002.0,508047017.0,G552,Osteoarthritis of spine NOS
+Spine arthritis/spondylitis,130001000006111.0,N11z,N11z.00,8847002.0,15601012.0,M479,Spondylosis NOS
+Spine arthritis/spondylitis,130001000006111.0,N11z,N11z.00,8847002.0,15601012.0,M471,Spondylosis NOS
+Spine arthritis/spondylitis,130001000006111.0,N11z,N11z.00,8847002.0,15601012.0,M471 ,Spondylosis NOS
+Spine arthritis/spondylitis,130001000006111.0,N11z,N11z.00,8847002.0,15601012.0,M478 ,Spondylosis NOS
+Spine arthritis/spondylitis,130001000006111.0,N11z,N11z.00,8847002.0,15601012.0,M472,Spondylosis NOS
+Spine arthritis/spondylitis,130001000006111.0,N11z,N11z.00,8847002.0,15601012.0,M478,Spondylosis NOS
+Spine arthritis/spondylitis,130001000006111.0,N11z,N11z.00,8847002.0,15601012.0,M479 ,Spondylosis NOS
+Spine arthritis/spondylitis,130001000006111.0,N11z,N11z.00,8847002.0,15601012.0,M483,Spondylosis NOS
+Spine arthritis/spondylitis,130001000006111.0,N11z,N11z.00,8847002.0,15601012.0,P031,Spondylosis NOS
+Spine arthritis/spondylitis,130001000006111.0,N11z,N11z.00,8847002.0,15601012.0,O650,Spondylosis NOS
+Spine arthritis/spondylitis,130001000006111.0,N11z,N11z.00,8847002.0,15601012.0,M470,Spondylosis NOS
+Spine arthritis/spondylitis,130001000006111.0,N11z,N11z.00,8847002.0,15601012.0,M470 ,Spondylosis NOS
+Spine arthritis/spondylitis,130001000006111.0,N11z,N11z.00,8847002.0,15601012.0,O330,Spondylosis NOS
+Spine arthritis/spondylitis,130001000006111.0,N11z,N11z.00,8847002.0,15601012.0,M472 ,Spondylosis NOS
+Spine arthritis/spondylitis,130001000006111.0,N11z,N11z.00,8847002.0,15601012.0,G992,Spondylosis NOS
+Spine arthritis/spondylitis,130001000006111.0,N11z,N11z.00,8847002.0,15601012.0,G552,Spondylosis NOS
+Spine arthritis/spondylitis,18191000006115.0,N11z-1,N11z.11,8847002.0,508047017.0,M479,Osteoarthritis spine
+Spine arthritis/spondylitis,18191000006115.0,N11z-1,N11z.11,8847002.0,508047017.0,M471,Osteoarthritis spine
+Spine arthritis/spondylitis,18191000006115.0,N11z-1,N11z.11,8847002.0,508047017.0,M471 ,Osteoarthritis spine
+Spine arthritis/spondylitis,18191000006115.0,N11z-1,N11z.11,8847002.0,508047017.0,M478 ,Osteoarthritis spine
+Spine arthritis/spondylitis,18191000006115.0,N11z-1,N11z.11,8847002.0,508047017.0,M472,Osteoarthritis spine
+Spine arthritis/spondylitis,18191000006115.0,N11z-1,N11z.11,8847002.0,508047017.0,M478,Osteoarthritis spine
+Spine arthritis/spondylitis,18191000006115.0,N11z-1,N11z.11,8847002.0,508047017.0,M479 ,Osteoarthritis spine
+Spine arthritis/spondylitis,18191000006115.0,N11z-1,N11z.11,8847002.0,508047017.0,M483,Osteoarthritis spine
+Spine arthritis/spondylitis,18191000006115.0,N11z-1,N11z.11,8847002.0,508047017.0,P031,Osteoarthritis spine
+Spine arthritis/spondylitis,18191000006115.0,N11z-1,N11z.11,8847002.0,508047017.0,O650,Osteoarthritis spine
+Spine arthritis/spondylitis,18191000006115.0,N11z-1,N11z.11,8847002.0,508047017.0,M470,Osteoarthritis spine
+Spine arthritis/spondylitis,18191000006115.0,N11z-1,N11z.11,8847002.0,508047017.0,M470 ,Osteoarthritis spine
+Spine arthritis/spondylitis,18191000006115.0,N11z-1,N11z.11,8847002.0,508047017.0,O330,Osteoarthritis spine
+Spine arthritis/spondylitis,18191000006115.0,N11z-1,N11z.11,8847002.0,508047017.0,M472 ,Osteoarthritis spine
+Spine arthritis/spondylitis,18191000006115.0,N11z-1,N11z.11,8847002.0,508047017.0,G992,Osteoarthritis spine
+Spine arthritis/spondylitis,18191000006115.0,N11z-1,N11z.11,8847002.0,508047017.0,G552,Osteoarthritis spine
+Spine arthritis/spondylitis,311118017.0,N11z0,N11z000,68859000.0,114373013.0,M478,"Spondylosis without myelopathy, NOS"
+Spine arthritis/spondylitis,311119013.0,N11z1,N11z100,192907007.0,297150011.0,M471,"Spondylosis with myelopathy, NOS"
+Spine arthritis/spondylitis,400271011.0,N11zz,N11zz00,8847002.0,15601012.0,M479,Spondylosis NOS
+Spine arthritis/spondylitis,400271011.0,N11zz,N11zz00,8847002.0,15601012.0,M471,Spondylosis NOS
+Spine arthritis/spondylitis,400271011.0,N11zz,N11zz00,8847002.0,15601012.0,M471 ,Spondylosis NOS
+Spine arthritis/spondylitis,400271011.0,N11zz,N11zz00,8847002.0,15601012.0,M478 ,Spondylosis NOS
+Spine arthritis/spondylitis,400271011.0,N11zz,N11zz00,8847002.0,15601012.0,M472,Spondylosis NOS
+Spine arthritis/spondylitis,400271011.0,N11zz,N11zz00,8847002.0,15601012.0,M478,Spondylosis NOS
+Spine arthritis/spondylitis,400271011.0,N11zz,N11zz00,8847002.0,15601012.0,M479 ,Spondylosis NOS
+Spine arthritis/spondylitis,400271011.0,N11zz,N11zz00,8847002.0,15601012.0,M483,Spondylosis NOS
+Spine arthritis/spondylitis,400271011.0,N11zz,N11zz00,8847002.0,15601012.0,P031,Spondylosis NOS
+Spine arthritis/spondylitis,400271011.0,N11zz,N11zz00,8847002.0,15601012.0,O650,Spondylosis NOS
+Spine arthritis/spondylitis,400271011.0,N11zz,N11zz00,8847002.0,15601012.0,M470,Spondylosis NOS
+Spine arthritis/spondylitis,400271011.0,N11zz,N11zz00,8847002.0,15601012.0,M470 ,Spondylosis NOS
+Spine arthritis/spondylitis,400271011.0,N11zz,N11zz00,8847002.0,15601012.0,O330,Spondylosis NOS
+Spine arthritis/spondylitis,400271011.0,N11zz,N11zz00,8847002.0,15601012.0,M472 ,Spondylosis NOS
+Spine arthritis/spondylitis,400271011.0,N11zz,N11zz00,8847002.0,15601012.0,G992,Spondylosis NOS
+Spine arthritis/spondylitis,400271011.0,N11zz,N11zz00,8847002.0,15601012.0,G552,Spondylosis NOS
+Spine arthritis/spondylitis,312613012.0,Nyu63,Nyu6300,8847002.0,15601012.0,M479,[X]Other spondylosis with radiculopathy
+Spine arthritis/spondylitis,312613012.0,Nyu63,Nyu6300,8847002.0,15601012.0,M471,[X]Other spondylosis with radiculopathy
+Spine arthritis/spondylitis,312613012.0,Nyu63,Nyu6300,8847002.0,15601012.0,M471 ,[X]Other spondylosis with radiculopathy
+Spine arthritis/spondylitis,312613012.0,Nyu63,Nyu6300,8847002.0,15601012.0,M478 ,[X]Other spondylosis with radiculopathy
+Spine arthritis/spondylitis,312613012.0,Nyu63,Nyu6300,8847002.0,15601012.0,M472,[X]Other spondylosis with radiculopathy
+Spine arthritis/spondylitis,312613012.0,Nyu63,Nyu6300,8847002.0,15601012.0,M478,[X]Other spondylosis with radiculopathy
+Spine arthritis/spondylitis,312613012.0,Nyu63,Nyu6300,8847002.0,15601012.0,M479 ,[X]Other spondylosis with radiculopathy
+Spine arthritis/spondylitis,312613012.0,Nyu63,Nyu6300,8847002.0,15601012.0,M483,[X]Other spondylosis with radiculopathy
+Spine arthritis/spondylitis,312613012.0,Nyu63,Nyu6300,8847002.0,15601012.0,P031,[X]Other spondylosis with radiculopathy
+Spine arthritis/spondylitis,312613012.0,Nyu63,Nyu6300,8847002.0,15601012.0,O650,[X]Other spondylosis with radiculopathy
+Spine arthritis/spondylitis,312613012.0,Nyu63,Nyu6300,8847002.0,15601012.0,M470,[X]Other spondylosis with radiculopathy
+Spine arthritis/spondylitis,312613012.0,Nyu63,Nyu6300,8847002.0,15601012.0,M470 ,[X]Other spondylosis with radiculopathy
+Spine arthritis/spondylitis,312613012.0,Nyu63,Nyu6300,8847002.0,15601012.0,O330,[X]Other spondylosis with radiculopathy
+Spine arthritis/spondylitis,312613012.0,Nyu63,Nyu6300,8847002.0,15601012.0,M472 ,[X]Other spondylosis with radiculopathy
+Spine arthritis/spondylitis,312613012.0,Nyu63,Nyu6300,8847002.0,15601012.0,G992,[X]Other spondylosis with radiculopathy
+Spine arthritis/spondylitis,312613012.0,Nyu63,Nyu6300,8847002.0,15601012.0,G552,[X]Other spondylosis with radiculopathy
+Spine arthritis/spondylitis,312614018.0,Nyu64,Nyu6400,8847002.0,15601012.0,M479,[X]Other spondylosis
+Spine arthritis/spondylitis,312614018.0,Nyu64,Nyu6400,8847002.0,15601012.0,M471,[X]Other spondylosis
+Spine arthritis/spondylitis,312614018.0,Nyu64,Nyu6400,8847002.0,15601012.0,M471 ,[X]Other spondylosis
+Spine arthritis/spondylitis,312614018.0,Nyu64,Nyu6400,8847002.0,15601012.0,M478 ,[X]Other spondylosis
+Spine arthritis/spondylitis,312614018.0,Nyu64,Nyu6400,8847002.0,15601012.0,M472,[X]Other spondylosis
+Spine arthritis/spondylitis,312614018.0,Nyu64,Nyu6400,8847002.0,15601012.0,M478,[X]Other spondylosis
+Spine arthritis/spondylitis,312614018.0,Nyu64,Nyu6400,8847002.0,15601012.0,M479 ,[X]Other spondylosis
+Spine arthritis/spondylitis,312614018.0,Nyu64,Nyu6400,8847002.0,15601012.0,M483,[X]Other spondylosis
+Spine arthritis/spondylitis,312614018.0,Nyu64,Nyu6400,8847002.0,15601012.0,P031,[X]Other spondylosis
+Spine arthritis/spondylitis,312614018.0,Nyu64,Nyu6400,8847002.0,15601012.0,O650,[X]Other spondylosis
+Spine arthritis/spondylitis,312614018.0,Nyu64,Nyu6400,8847002.0,15601012.0,M470,[X]Other spondylosis
+Spine arthritis/spondylitis,312614018.0,Nyu64,Nyu6400,8847002.0,15601012.0,M470 ,[X]Other spondylosis
+Spine arthritis/spondylitis,312614018.0,Nyu64,Nyu6400,8847002.0,15601012.0,O330,[X]Other spondylosis
+Spine arthritis/spondylitis,312614018.0,Nyu64,Nyu6400,8847002.0,15601012.0,M472 ,[X]Other spondylosis
+Spine arthritis/spondylitis,312614018.0,Nyu64,Nyu6400,8847002.0,15601012.0,G992,[X]Other spondylosis
+Spine arthritis/spondylitis,312614018.0,Nyu64,Nyu6400,8847002.0,15601012.0,G552,[X]Other spondylosis

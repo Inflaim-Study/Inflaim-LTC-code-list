@@ -1,0 +1,725 @@
+Condition,SnomedCTConceptId,SnomedCTDescriptionId,Term
+Other forms of heart disease,55855009.0,1231538011.0,Other diseases of pericardium
+Other forms of heart disease,37715009.0,62911012.0,Adhesive pericarditis NOS
+Other forms of heart disease,55855009.0,1231538011.0,[X]Other specified diseases of pericardium
+Other forms of heart disease,3238004.0,6471010.0,[X]Pericarditis in other diseases classified elsewhere
+Other forms of heart disease,55855009.0,92885015.0,Pericardial disorder
+Other forms of heart disease,55855009.0,92882017.0,Other specified pericardial disease NOS
+Other forms of heart disease,55855009.0,92882017.0,Other pericardial disease NOS
+Other forms of heart disease,37715009.0,62911012.0,Adhesive pericarditis
+Other forms of heart disease,55855009.0,92882017.0,Other diseases of pericardium OS
+Other forms of heart disease,37715009.0,62913010.0,Adherent pericardium
+Other forms of heart disease,85598007.0,141891015.0,Constrictive pericarditis NOS
+Other forms of heart disease,85598007.0,141891015.0,Pick's disease of heart
+Other forms of heart disease,85598007.0,3499779014.0,Pick syndrome of heart
+Other forms of heart disease,85598007.0,141891015.0,Constrictive pericarditis
+Other forms of heart disease,42653000.0,71153013.0,Calcification of pericardium
+Other forms of heart disease,85598007.0,3499780012.0,Pick disease of heart
+Other forms of heart disease,23412002.0,481610015.0,Haematopericardium
+Other forms of heart disease,23412002.0,39302012.0,Hematopericardium
+Other forms of heart disease,23412002.0,39301017.0,Hemopericardium
+Other forms of heart disease,23412002.0,39303019.0,Haemopericardium
+Other forms of heart disease,48724000.0,81186016.0,"Mitral incompetence, cause unspecified"
+Other forms of heart disease,11851006.0,444757013.0,Mitral valve disease NOS
+Other forms of heart disease,274097009.0,409856013.0,Heart valve disorders - non-rheumatic
+Other forms of heart disease,48724000.0,1230641019.0,Mitral insufficiency
+Other forms of heart disease,11851006.0,20449013.0,[X]Other nonrheumatic mitral valve disorders
+Other forms of heart disease,274097009.0,2957048011.0,Non-rheumatic heart valve disorder
+Other forms of heart disease,48724000.0,1230640018.0,MR - Mitral regurgitation
+Other forms of heart disease,11851006.0,444758015.0,MVD - Mitral valve disease
+Other forms of heart disease,194978002.0,884271000006117.0,Non-rheum. mitral incompetence
+Other forms of heart disease,11851006.0,20449013.0,Mitral valve disorders NOS
+Other forms of heart disease,11851006.0,20449013.0,[X]Other mitral valve diseases
+Other forms of heart disease,48724000.0,1230639015.0,MI - Mitral incompetence
+Other forms of heart disease,194978002.0,299979011.0,Non-rheumatic mitral regurgitation
+Other forms of heart disease,48724000.0,81186016.0,Mitral valve regurgitation
+Other forms of heart disease,48724000.0,81192010.0,Mitral valve insufficiency
+Other forms of heart disease,194978002.0,299980014.0,"Mitral incompetence, non-rheumatic"
+Other forms of heart disease,11851006.0,883991000006114.0,Chronic rheumatic mitral valve
+Other forms of heart disease,48724000.0,81193017.0,Mitral valve incompetence
+Other forms of heart disease,274097009.0,409856013.0,Heart valve disorders - non rheumatic
+Other forms of heart disease,48724000.0,81191015.0,Mitral valve incompetence
+Other forms of heart disease,11851006.0,20449013.0,[X]Mitral valve disorders in diseases classified elsewhere
+Other forms of heart disease,48724000.0,81193017.0,Mitral regurgitation
+Other forms of heart disease,11851006.0,444757013.0,Mitral valve diseases
+Other forms of heart disease,409712001.0,2471474013.0,Mitral valve prolapse
+Other forms of heart disease,250989005.0,374121019.0,Mitral cusp prolapse
+Other forms of heart disease,250989005.0,374119012.0,Mitral leaf prolapse
+Other forms of heart disease,250989005.0,374120018.0,Mitral valve leaf prolapse
+Other forms of heart disease,409712001.0,2477508016.0,MVP - Mitral valve prolapse
+Other forms of heart disease,194727002.0,299594018.0,Nonrheumatic mitral valve stenosis
+Other forms of heart disease,194727002.0,299594018.0,Non-rheumatic mitral valve stenosis
+Other forms of heart disease,79619009.0,1234382016.0,MS - Mitral stenosis
+Other forms of heart disease,79619009.0,132091016.0,Mitral valve stenosis
+Other forms of heart disease,79619009.0,1234383014.0,Mitral stenosis
+Other forms of heart disease,8722008.0,15387019.0,[X]Other aortic valve disorders
+Other forms of heart disease,60573004.0,100633013.0,"Aortic stenosis alone, cause unspecified"
+Other forms of heart disease,8722008.0,15387019.0,Aortic valve disorders NOS
+Other forms of heart disease,60573004.0,100633013.0,Aortic stenosis
+Other forms of heart disease,8722008.0,1235210010.0,AVD - Aortic valve disease
+Other forms of heart disease,8722008.0,1235209017.0,Aortic valve disorders
+Other forms of heart disease,60573004.0,1232103019.0,Aortic stenosis
+Other forms of heart disease,60573004.0,1232102012.0,Stenosed aortic valve
+Other forms of heart disease,60573004.0,1232104013.0,AS - Aortic stenosis
+Other forms of heart disease,8722008.0,15387019.0,[X]Aortic valve disorders in diseases classified elsewhere
+Other forms of heart disease,194984004.0,299988019.0,"Aortic stenosis, non-rheumatic"
+Other forms of heart disease,60234000.0,100055018.0,"Aortic incompetence alone, cause unspecified"
+Other forms of heart disease,60234000.0,100055018.0,"Aortic insufficiency alone, cause unspecified"
+Other forms of heart disease,60234000.0,100055018.0,"Aortic regurgitation alone, cause unspecified"
+Other forms of heart disease,194983005.0,2923421015.0,"Aortic valve regurgitation, nonrheumatic"
+Other forms of heart disease,60234000.0,100061015.0,Aortic valve incompetence
+Other forms of heart disease,60234000.0,1232060016.0,AR - Aortic regurgitation
+Other forms of heart disease,60234000.0,100060019.0,Aortic valve insufficiency
+Other forms of heart disease,60234000.0,1232058018.0,Aortic incompetence
+Other forms of heart disease,194983005.0,884281000006119.0,Non-rheumatic aortic sclerosis
+Other forms of heart disease,194983005.0,299985016.0,"Aortic incompetence, non-rheumatic"
+Other forms of heart disease,194983005.0,299986015.0,"Aortic regurgitation, non-rheumatic"
+Other forms of heart disease,194983005.0,299987012.0,"Aortic insufficiency, non-rheumatic"
+Other forms of heart disease,194983005.0,884291000006116.0,Non-rheum. aortic incompetence
+Other forms of heart disease,60234000.0,100062010.0,Aortic regurgitation
+Other forms of heart disease,60234000.0,1232059014.0,AI - Aortic incompetence
+Other forms of heart disease,60234000.0,1232061017.0,Aortic insufficiency
+Other forms of heart disease,194987006.0,299991019.0,Aortic valve stenosis with insufficiency
+Other forms of heart disease,67754003.0,500829014.0,Senile sclerosis of aortic cusp
+Other forms of heart disease,67754003.0,112523010.0,Aortic valve sclerosis
+Other forms of heart disease,163092009.0,254157014.0,O/E - aortic systolic murmur
+Other forms of heart disease,250978003.0,374104011.0,Aortic valve calcification
+Other forms of heart disease,250978003.0,374105012.0,Calcified aortic valve
+Other forms of heart disease,67754003.0,500828018.0,Aortic sclerosis
+Other forms of heart disease,163092009.0,2667644010.0,On examination - aortic systolic murmur
+Other forms of heart disease,20721001.0,34866017.0,Tricuspid valve disorders NOS
+Other forms of heart disease,20721001.0,1222524014.0,Tricuspid valve disease NEC
+Other forms of heart disease,20721001.0,34866017.0,[X]Other tricuspid valve diseases
+Other forms of heart disease,49915006.0,83138015.0,"Tricuspid stenosis and incompetence, cause unspecified"
+Other forms of heart disease,49915006.0,1230798015.0,TS - Tricuspid stenosis
+Other forms of heart disease,194991001.0,2923388013.0,"Tricuspid valve stenosis, nonrheumatic"
+Other forms of heart disease,194989009.0,2957051016.0,"[X]Nonrheumatic tricuspid valve disorder, unspecified"
+Other forms of heart disease,20721001.0,34866017.0,[X]Tricuspid valve disorders/diseases CE
+Other forms of heart disease,49915006.0,83138015.0,Tricuspid valve stenosis
+Other forms of heart disease,194989009.0,299993016.0,"Tricuspid valve disorders, non-rheumatic"
+Other forms of heart disease,194991001.0,299997015.0,"Tricuspid stenosis, non-rheumatic"
+Other forms of heart disease,194989009.0,2957051016.0,"Nonrheumatic tricuspid valve disorder, unspecified"
+Other forms of heart disease,194989009.0,2957051016.0,[X]Other nonrheumatic tricuspid valve disorders
+Other forms of heart disease,49915006.0,1230797013.0,Tricuspid stenosis
+Other forms of heart disease,194989009.0,2923325013.0,"Tricuspid valve disorder, nonrheumatic"
+Other forms of heart disease,194989009.0,2957051016.0,"Tricuspid valve disorder, non-rheumatic"
+Other forms of heart disease,49915006.0,83138015.0,"Tricuspid stenosis, cause unspecified"
+Other forms of heart disease,49915006.0,83138015.0,"Tricuspid stenosis and insufficiency, cause unspecified"
+Other forms of heart disease,194991001.0,884311000006117.0,Non-rheum. tricuspid stenosis
+Other forms of heart disease,49915006.0,83138015.0,"Tricuspid stenosis and regurgitation, cause unspecified"
+Other forms of heart disease,194990000.0,2923382014.0,"Tricuspid valve regurgitation, nonrheumatic"
+Other forms of heart disease,194990000.0,299994010.0,"Tricuspid incompetence, non-rheumatic"
+Other forms of heart disease,194990000.0,299995011.0,"Tricuspid insufficiency, non-rheumatic"
+Other forms of heart disease,194990000.0,299996012.0,"Tricuspid regurgitation, non-rheumatic"
+Other forms of heart disease,194990000.0,884301000006115.0,Non-rheum. tricuspid incomp.
+Other forms of heart disease,194992008.0,299998013.0,Nonrheumatic tricuspid valve stenosis with insufficiency
+Other forms of heart disease,194992008.0,299998013.0,Non-rheumatic tricuspid valve stenosis with insufficiency
+Other forms of heart disease,76267008.0,126662012.0,[X]Other pulmonary valve disorders
+Other forms of heart disease,56786000.0,1231648019.0,PVS - Pulmonary valve stenosis
+Other forms of heart disease,56786000.0,94441012.0,"Pulmonary stenosis, cause unspecified"
+Other forms of heart disease,76267008.0,1233968015.0,Pulmonary valve disorders
+Other forms of heart disease,76267008.0,126662012.0,[X]Pulmonary valve disorders in diseases CE
+Other forms of heart disease,56786000.0,1231650010.0,PS - Pulmonary valve stenosis
+Other forms of heart disease,76267008.0,126665014.0,Pulmonic valve disorder
+Other forms of heart disease,56786000.0,1231649010.0,Pulmonic stenosis
+Other forms of heart disease,194997002.0,2923401016.0,"Pulmonary valve stenosis, nonrheumatic"
+Other forms of heart disease,275284008.0,411247019.0,O/E - pulmonary murmur
+Other forms of heart disease,56786000.0,1231651014.0,Pulmonary stenosis
+Other forms of heart disease,275284008.0,2669941011.0,On examination - pulmonary murmur
+Other forms of heart disease,194997002.0,300008014.0,"Pulmonary stenosis, non-rheumatic"
+Other forms of heart disease,76267008.0,1233969011.0,PVD - Pulmonary valve disease
+Other forms of heart disease,76267008.0,126662012.0,Pulmonary valve disorders NOS
+Other forms of heart disease,56786000.0,94443010.0,Pulmonary valve stenosis
+Other forms of heart disease,91434003.0,178508012.0,"Pulmonary regurgitation, cause unspecified"
+Other forms of heart disease,91434003.0,178508012.0,"Pulmonary insufficiency, cause unspecified"
+Other forms of heart disease,91434003.0,1235668016.0,Pulmonic insufficiency
+Other forms of heart disease,91434003.0,189237010.0,Pulmonary valve incompetence
+Other forms of heart disease,91434003.0,189241014.0,Pulmonary valve regurgitation
+Other forms of heart disease,91434003.0,189238017.0,Pulmonic regurgitation
+Other forms of heart disease,194995005.0,2923369018.0,"Pulmonary valve regurgitation, nonrheumatic"
+Other forms of heart disease,91434003.0,189235019.0,Pulmonic valve insufficiency
+Other forms of heart disease,91434003.0,1235667014.0,PVR - Pulmonary regurgitation
+Other forms of heart disease,194995005.0,300001015.0,"Pulmonary incompetence, non-rheumatic"
+Other forms of heart disease,194995005.0,300002010.0,"Pulmonary regurgitation, non-rheumatic"
+Other forms of heart disease,194995005.0,884321000006113.0,Non-rheum. pulmonary regurg.
+Other forms of heart disease,91434003.0,189236018.0,Pulmonary valve insufficiency
+Other forms of heart disease,91434003.0,178508012.0,"Pulmonary incompetence, cause unspecified"
+Other forms of heart disease,91434003.0,189243012.0,Pulmonic valve incompetence
+Other forms of heart disease,194995005.0,300003017.0,"Pulmonary insufficiency, non-rheumatic"
+Other forms of heart disease,91434003.0,1235666017.0,PR - Pulmonary regurgitation
+Other forms of heart disease,195000004.0,300011010.0,Pulmonary valve stenosis with insufficiency
+Other forms of heart disease,163094005.0,2666571011.0,On examination - pulmonary systolic murmur
+Other forms of heart disease,163094005.0,254159012.0,O/E -pulmonary systolic murmur
+Other forms of heart disease,55464009.0,92208011.0,Systemic lupus erythematosus NOS
+Other forms of heart disease,55464009.0,92208011.0,[X]Other forms of systemic lupus erythematosus
+Other forms of heart disease,239887007.0,359443016.0,Systemic lupus erythematosus with organ or sys involv
+Other forms of heart disease,54072008.0,89874018.0,Nonbacterial verrucous endocarditis
+Other forms of heart disease,54072008.0,89870010.0,Nonbacterial verrucal endocardiosis
+Other forms of heart disease,54072008.0,89872019.0,Atypical verrucal endocarditis
+Other forms of heart disease,55464009.0,1231480012.0,SLE - Systemic lupus erythematosus
+Other forms of heart disease,54072008.0,89873012.0,Atypical verrucous endocarditis
+Other forms of heart disease,55464009.0,92209015.0,Disseminated lupus erythematosus
+Other forms of heart disease,54072008.0,496853017.0,Libman-Sacks disease
+Other forms of heart disease,54072008.0,89871014.0,Libman-Sacks endocarditis
+Other forms of heart disease,55464009.0,92208011.0,Systemic lupus erythematosus
+Other forms of heart disease,195002007.0,300013013.0,[X]Multiple valve disorders/diseases CE
+Other forms of heart disease,195002007.0,300013013.0,"Multiple valve disease, unspecified"
+Other forms of heart disease,195002007.0,300013013.0,Multiple valve diseases
+Other forms of heart disease,195002007.0,300013013.0,[X]Other multiple valve diseases
+Other forms of heart disease,195002007.0,300013013.0,"[X]Multiple valve disease, unspecified"
+Other forms of heart disease,239793008.0,359293019.0,Other rheumatoid arthropathy + visceral/systemic involvement
+Other forms of heart disease,201770001.0,309793012.0,Rheumatoid arthritis of distal radio-ulnar joint
+Other forms of heart disease,201784006.0,309808015.0,Rheumatoid arthritis of lesser MTP joint
+Other forms of heart disease,201772009.0,309795017.0,Rheumatoid arthritis of MCP joint
+Other forms of heart disease,201783000.0,309807013.0,Rheumatoid arthritis of 1st MTP joint
+Other forms of heart disease,56819008.0,94491011.0,"[X]Endocarditis,valve unspecified,in diseases CE"
+Other forms of heart disease,201783000.0,309806016.0,Rheumatoid arthritis of first metatarsophalangeal joint
+Other forms of heart disease,201778008.0,309801014.0,Rheumatoid arthritis of tibiofibular joint
+Other forms of heart disease,201770001.0,309793012.0,Rheumatoid arthritis of distal radioulnar joint
+Other forms of heart disease,201775006.0,989311000006111.0,Rheum. arth. - hip joint
+Other forms of heart disease,201766009.0,309789018.0,Rheumatoid arthritis of shoulder
+Other forms of heart disease,201775006.0,309798015.0,Rheumatoid arthritis of hip
+Other forms of heart disease,201777003.0,309800010.0,Rheumatoid arthritis of knee
+Other forms of heart disease,201774005.0,309797013.0,Rheumatoid arthritis of DIP joint of finger
+Other forms of heart disease,201773004.0,309796016.0,Rheumatoid arthritis of PIP joint of finger
+Other forms of heart disease,201778008.0,309801014.0,Rheumatoid arthritis of tibio-fibular joint
+Other forms of heart disease,201767000.0,309790010.0,Rheumatoid arthritis of sternoclavicular joint
+Other forms of heart disease,201768005.0,309791014.0,Rheumatoid arthritis of acromioclavicular joint
+Other forms of heart disease,201769002.0,309792019.0,Rheumatoid arthritis of elbow
+Other forms of heart disease,201771002.0,309794018.0,Rheumatoid arthritis of wrist
+Other forms of heart disease,201779000.0,309802019.0,Rheumatoid arthritis of ankle
+Other forms of heart disease,201780002.0,309803012.0,Rheumatoid arthritis of subtalar joint
+Other forms of heart disease,201781003.0,309804018.0,Rheumatoid arthritis of talonavicular joint
+Other forms of heart disease,201791009.0,309816012.0,Flare of rheumatoid arthritis
+Other forms of heart disease,201771002.0,989291000006112.0,Rheum. arth. - wrist joint
+Other forms of heart disease,201772009.0,989301000006113.0,Rheum. arth. - hand joint
+Other forms of heart disease,201777003.0,989321000006115.0,Rheum. arth. - knee joint
+Other forms of heart disease,201779000.0,989331000006117.0,Rheum. arth. - ankle/foot
+Other forms of heart disease,201776007.0,309799011.0,Rheumatoid arthritis of sacro-iliac joint
+Other forms of heart disease,239793008.0,359293019.0,Rheumatoid arthropathy + visceral/systemic involvement NOS
+Other forms of heart disease,239793008.0,359293019.0,[X]Rheumatoid arthritis+involvement/other organs or systems
+Other forms of heart disease,50920009.0,84844011.0,[X]Myocarditis in other diseases classified elsewhere
+Other forms of heart disease,50920009.0,84844011.0,Myocarditis NOS
+Other forms of heart disease,50920009.0,2536388014.0,Myocardial inflammation
+Other forms of heart disease,998008.0,2754013.0,Cardiomyopathy in Chagas's disease
+Other forms of heart disease,998008.0,2754013.0,Chagas' disease with heart involvement
+Other forms of heart disease,85898001.0,142397010.0,[X]Other cardiomyopathies
+Other forms of heart disease,85898001.0,142397010.0,Other primary cardiomyopathies
+Other forms of heart disease,85898001.0,142397010.0,Other primary cardiomyopathy NOS
+Other forms of heart disease,399020009.0,1786622015.0,Congestive dilated cardiomyopathy
+Other forms of heart disease,399020009.0,1786619017.0,CCM - Congestive cardiomyopathy
+Other forms of heart disease,85898001.0,142400018.0,Myocardiopathy
+Other forms of heart disease,399020009.0,1786620011.0,COCM - Congestive cardiomyopathy
+Other forms of heart disease,85898001.0,142397010.0,Cardiomyopathy NOS
+Other forms of heart disease,195021004.0,300040013.0,Primary dilated cardiomyopathy
+Other forms of heart disease,233871002.0,350413012.0,Congestive obstructive cardiomyopathy
+Other forms of heart disease,281170005.0,419130013.0,Arrhythmogenic right ventricular cardiomyopathy
+Other forms of heart disease,399020009.0,1778488011.0,Congestive cardiomyopathy
+Other forms of heart disease,426300009.0,2674238014.0,Tachycardia-induced cardiomyopathy
+Other forms of heart disease,426300009.0,1705371000000116.0,Tachycardiomyopathy
+Other forms of heart disease,399020009.0,1786621010.0,DCM - Dilated cardiomyopathy
+Other forms of heart disease,399020009.0,1786618013.0,Dilated cardiomyopathy
+Other forms of heart disease,85898001.0,142397010.0,Cardiomyopathy
+Other forms of heart disease,233873004.0,350415017.0,[X]Other hypertrophic cardiomyopathy
+Other forms of heart disease,45227007.0,494129012.0,Obstructive cardiomyopathy
+Other forms of heart disease,204368006.0,313383019.0,Subvalvular stenosis
+Other forms of heart disease,45227007.0,494130019.0,HOCM - Hypertrophic obstructive cardiomyopathy
+Other forms of heart disease,204368006.0,313384013.0,Subvalvar stenosis
+Other forms of heart disease,45227007.0,75410014.0,Hypertrophic obstructive cardiomyopathy
+Other forms of heart disease,204368006.0,313382012.0,Subaortic stenosis
+Other forms of heart disease,233873004.0,350416016.0,HCM - Hypertrophic cardiomyopathy
+Other forms of heart disease,195020003.0,300037013.0,Hypertrophic cardiomyopathy without obstruction
+Other forms of heart disease,195020003.0,300038015.0,Hypertrophic non-obstructive cardiomyopathy
+Other forms of heart disease,195020003.0,300039011.0,HCM - Hypertrophic non-obstructive cardiomyopathy
+Other forms of heart disease,398754006.0,1778261016.0,Endomyocardial fibrosis
+Other forms of heart disease,398754006.0,1786551012.0,African endomyocardial fibrosis
+Other forms of heart disease,398754006.0,1786552017.0,Obscure cardiomyopathy of Africa
+Other forms of heart disease,398754006.0,3448072015.0,Obscure African cardiomyopathy
+Other forms of heart disease,398754006.0,1778261016.0,Restrictive cardiomyopathy with endomyocardial fibrosis
+Other forms of heart disease,65457005.0,108753017.0,Elastomyofibrosis
+Other forms of heart disease,65457005.0,108752010.0,Endocardial fibroelastosis
+Other forms of heart disease,65457005.0,1232677015.0,EFE - Endocardial fibroelastosis
+Other forms of heart disease,90828009.0,150509016.0,[X]Other restrictive cardiomyopathy
+Other forms of heart disease,415295002.0,2536835010.0,Constrictive cardiomyopathy
+Other forms of heart disease,415295002.0,2532896011.0,Constrictive cardiomyopathy
+Other forms of heart disease,415295002.0,2532896011.0,Restrictive cardiomyopathy
+Other forms of heart disease,83521008.0,3290572011.0,Dilated cardiomyopathy caused by alcohol
+Other forms of heart disease,83521008.0,138526017.0,Dilated cardiomyopathy secondary to alcohol
+Other forms of heart disease,83521008.0,138527014.0,Alcoholic cardiomyopathy
+Other forms of heart disease,195141007.0,2475600015.0,Atrophy of papillary muscle
+Other forms of heart disease,195023001.0,300042017.0,[X]Cardiomyopathy in nutritional diseases CE
+Other forms of heart disease,35728003.0,59589012.0,Primary familial cardiomyopathy
+Other forms of heart disease,441541008.0,2923338017.0,Takotsubo syndrome
+Other forms of heart disease,195023001.0,300042017.0,[X]Cardiomyopathy in metabolic diseases CE
+Other forms of heart disease,20529002.0,34556015.0,Secondary dilated cardiomyopathy
+Other forms of heart disease,195023001.0,300042017.0,Nutritional and metabolic cardiomyopathies
+Other forms of heart disease,195141007.0,300228015.0,Papillary muscle atrophy
+Other forms of heart disease,195142000.0,300229011.0,Papillary muscle degeneration
+Other forms of heart disease,441541008.0,2816932015.0,Takotsubo cardiomyopathy
+Other forms of heart disease,35728003.0,59588016.0,Familial cardiomyopathy
+Other forms of heart disease,195023001.0,300042017.0,Nutritional and metabolic cardiomyopathy NOS
+Other forms of heart disease,441541008.0,2816931010.0,Stress cardiomyopathy
+Other forms of heart disease,441541008.0,2816895019.0,Left ventricular ballooning syndrome
+Other forms of heart disease,17602002.0,29745012.0,"Heredofamilial amyloidosis, unspecified"
+Other forms of heart disease,17602002.0,29745012.0,Amyloidosis
+Other forms of heart disease,17602002.0,29745012.0,[X]Other amyloidosis
+Other forms of heart disease,17602002.0,29745012.0,"[X]Heredofamilial amyloidosis, unspecified"
+Other forms of heart disease,17602002.0,29745012.0,Primary amyloidosis NEC
+Other forms of heart disease,17602002.0,29745012.0,Other specified amyloidosis
+Other forms of heart disease,17602002.0,29745012.0,Amyloidosis NOS
+Other forms of heart disease,48440001.0,80706015.0,Gouty arthritis of unspecified site
+Other forms of heart disease,48440001.0,80706015.0,Gouty arthritis of the lower leg
+Other forms of heart disease,48440001.0,80709010.0,Gouty arthritis of other specified site
+Other forms of heart disease,48440001.0,80706015.0,[X]Gouty arthrpathy due/enzym defects+oth inherit disordr CE
+Other forms of heart disease,48440001.0,3658147015.0,Arthritis due to gout
+Other forms of heart disease,48440001.0,80706015.0,Gouty arthritis of the forearm
+Other forms of heart disease,48440001.0,80709010.0,Gouty arthritis
+Other forms of heart disease,90560007.0,150085018.0,Gout
+Other forms of heart disease,90560007.0,150085018.0,Other specified gouty manifestation NOS
+Other forms of heart disease,90560007.0,150085018.0,Gout NOS
+Other forms of heart disease,48440001.0,80709010.0,Gouty arthritis NOS
+Other forms of heart disease,90560007.0,3658267015.0,Inflammatory disorder due to increased blood urate level
+Other forms of heart disease,233917008.0,350475012.0,Atrioventricular block unspecified
+Other forms of heart disease,233917008.0,350475012.0,Atrioventricular block NOS
+Other forms of heart disease,233916004.0,350471015.0,Other heart block
+Other forms of heart disease,233916004.0,350471015.0,Interventricular block NOS
+Other forms of heart disease,233916004.0,350471015.0,Other heart block NOS
+Other forms of heart disease,44808001.0,74759017.0,Other conduction disorders NOS
+Other forms of heart disease,44808001.0,74759017.0,[X]Other specified conduction disorders
+Other forms of heart disease,44808001.0,74759017.0,[X]Other and unspecified premature depolarization
+Other forms of heart disease,270492004.0,405112015.0,First degree heart block
+Other forms of heart disease,233917008.0,350474011.0,AV block
+Other forms of heart disease,233917008.0,350473017.0,AVB - Atrioventricular block
+Other forms of heart disease,233916004.0,350472010.0,HB - Heart block
+Other forms of heart disease,270492004.0,405113013.0,"Incomplete atrioventricular block, first degree"
+Other forms of heart disease,44808001.0,74759017.0,Conduction disorders NOS
+Other forms of heart disease,233916004.0,350471015.0,Heart block
+Other forms of heart disease,270492004.0,405111010.0,First degree atrioventricular block
+Other forms of heart disease,44808001.0,991651000006115.0,Cardiac dysrhythmias NOS
+Other forms of heart disease,233917008.0,350475012.0,[X]Other and unspecified atrioventricular block
+Other forms of heart disease,44808001.0,74759017.0,Other conduction disorders
+Other forms of heart disease,44808001.0,74759017.0,Conduction disorders unspecified
+Other forms of heart disease,233916004.0,350471015.0,[X]Other specified heart block
+Other forms of heart disease,44808001.0,1230149018.0,Conduction disorders of heart
+Other forms of heart disease,44808001.0,1230149018.0,Conduction disorders
+Other forms of heart disease,426183003.0,1689181000000114.0,Electrocardiogram: Mobitz type 2 second degree AV block
+Other forms of heart disease,28189009.0,47193014.0,Second degree Mobitz type II incomplete atrioventricular block
+Other forms of heart disease,28189009.0,47192016.0,Mobitz type II incomplete atrioventricular block
+Other forms of heart disease,195042002.0,2579149011.0,"Incomplete atrioventricular block, second degree"
+Other forms of heart disease,426183003.0,3300054014.0,EKG: Mobitz type II atrioventricular block
+Other forms of heart disease,54016002.0,89786014.0,Wenckebach's incomplete AV block
+Other forms of heart disease,426183003.0,3300053015.0,Electrocardiographic Mobitz type II atrioventricular block
+Other forms of heart disease,28189009.0,47191011.0,Mobitz type II atrioventricular block
+Other forms of heart disease,195042002.0,300073018.0,Second degree atrioventricular block
+Other forms of heart disease,195042002.0,2579150011.0,Second degree heart block
+Other forms of heart disease,426183003.0,2676273014.0,ECG: Mobitz type II atrioventricular block
+Other forms of heart disease,54016002.0,89784012.0,Mobitz type I incomplete atrioventricular block
+Other forms of heart disease,28189009.0,1225815019.0,Mobitz type 2 second degree atrioventricular block
+Other forms of heart disease,54016002.0,1231273012.0,Mobitz type 1 second degree atrioventricular block
+Other forms of heart disease,54016002.0,1231274018.0,Mobitz type I (Wenckebach) atrioventricular block
+Other forms of heart disease,54016002.0,89785013.0,Wenckebach's phenomenon
+Other forms of heart disease,27885002.0,46672019.0,Third degree heart block
+Other forms of heart disease,27885002.0,3288315016.0,High grade atrioventricular block
+Other forms of heart disease,27885002.0,46670010.0,Atrioventricular dissociation
+Other forms of heart disease,27885002.0,483698019.0,CHB - Complete heart block
+Other forms of heart disease,27885002.0,46673012.0,Complete heart block
+Other forms of heart disease,27885002.0,46670010.0,Complete atrioventricular block
+Other forms of heart disease,27885002.0,884341000006118.0,Complete atrioventric. block
+Other forms of heart disease,27885002.0,46671014.0,Third degree atrioventricular block
+Other forms of heart disease,195039008.0,2579148015.0,Partial heart block
+Other forms of heart disease,195039008.0,2579146016.0,Incomplete atrioventricular block
+Other forms of heart disease,195039008.0,2579147013.0,Incomplete heart block
+Other forms of heart disease,195039008.0,300067019.0,Partial atrioventricular block
+Other forms of heart disease,63467002.0,105498014.0,Left bundle branch hemiblock NOS
+Other forms of heart disease,6374002.0,11568018.0,Other bundle branch block
+Other forms of heart disease,6374002.0,11568018.0,Other bundle branch block NOS
+Other forms of heart disease,445118002.0,3543034015.0,ECG: left anterior fascicular block
+Other forms of heart disease,37760005.0,2956763014.0,Left anterior hemiblock
+Other forms of heart disease,445118002.0,2871020016.0,Left anterior fascicular block on electrocardiogram
+Other forms of heart disease,445118002.0,3543035019.0,Electrocardiogram: left anterior fascicular block
+Other forms of heart disease,6374002.0,1232499017.0,Fascicular block
+Other forms of heart disease,445118002.0,1645181000000116.0,Left anterior fascicular block on ECG (electrocardiogram)
+Other forms of heart disease,37760005.0,1229343012.0,LAFB - Left anterior fascicular block
+Other forms of heart disease,6374002.0,11568018.0,[X]Other and unspecified fascicular block
+Other forms of heart disease,6374002.0,11568018.0,Bundle branch block unspecified
+Other forms of heart disease,37760005.0,62986012.0,Left anterior fascicular block
+Other forms of heart disease,63467002.0,105498014.0,Left bundle branch block
+Other forms of heart disease,445263008.0,2872452013.0,ECG: right bundle branch and left anterior fascicular block
+Other forms of heart disease,63467002.0,1232465015.0,LBBB - Left bundle branch block
+Other forms of heart disease,6374002.0,1232498013.0,BBB - Bundle branch block
+Other forms of heart disease,445263008.0,1645201000000117.0,Right bundle branch block and left anterior fascicular block on ECG (electrocardiogram)
+Other forms of heart disease,445393004.0,2871599019.0,ECG: right bundle branch and left posterior fascicular block
+Other forms of heart disease,445211001.0,2871895018.0,Left posterior fascicular block on electrocardiogram
+Other forms of heart disease,445393004.0,1645211000000115.0,Right bundle branch block and left posterior fascicular block on ECG (electrocardiogram)
+Other forms of heart disease,62026008.0,103118017.0,Left posterior fascicular block
+Other forms of heart disease,445211001.0,1645191000000119.0,Left posterior fascicular block on ECG (electrocardiogram)
+Other forms of heart disease,445211001.0,3543025013.0,Electrocardiogram: left posterior fascicular block
+Other forms of heart disease,445211001.0,3543024012.0,ECG: left posterior fascicular block
+Other forms of heart disease,4973001.0,9313016.0,Left bundle branch hemiblock
+Other forms of heart disease,195046004.0,300079019.0,Left main stem bundle branch block
+Other forms of heart disease,418341009.0,2576982014.0,Atrioventricular conduction disorder
+Other forms of heart disease,59118001.0,98239015.0,[X]Other and unspecified right bundle-branch block
+Other forms of heart disease,59118001.0,1231921018.0,Right fascicular block
+Other forms of heart disease,42177007.0,1229834013.0,Bradycardia - pulse
+Other forms of heart disease,59118001.0,1231922013.0,RBBB - Right bundle branch block
+Other forms of heart disease,248629002.0,371119011.0,Pulse missed beats
+Other forms of heart disease,42177007.0,493226017.0,Pulse slow
+Other forms of heart disease,248629002.0,371120017.0,Skipped beat
+Other forms of heart disease,59118001.0,98239015.0,Right bundle branch block
+Other forms of heart disease,30667004.0,1227297017.0,Right BBB with left anterior fascicular block
+Other forms of heart disease,46319007.0,1230343010.0,Right BBB with left posterior fascicular block
+Other forms of heart disease,30667004.0,51333018.0,Right bundle branch block AND left anterior fascicular block
+Other forms of heart disease,46319007.0,1230341012.0,RBBB - Right bundle branch block with left posterior fascicular block
+Other forms of heart disease,46319007.0,77232016.0,Right bundle branch block AND left posterior fascicular block
+Other forms of heart disease,445481009.0,1650651000000113.0,Bifascicular block on ECG (electrocardiogram)
+Other forms of heart disease,30667004.0,1227296014.0,RBBB - Right bundle branch block with left anterior fascicular block
+Other forms of heart disease,74021003.0,122915018.0,Bifascicular block
+Other forms of heart disease,445481009.0,2871594012.0,ECG: bifascicular block
+Other forms of heart disease,445309007.0,2871902010.0,ECG: trifascicular block
+Other forms of heart disease,445309007.0,1645221000000114.0,Trifascicular block on ECG (electrocardiogram)
+Other forms of heart disease,86014007.0,142610015.0,Multifascicular block
+Other forms of heart disease,86014007.0,142607010.0,Trifascicular block
+Other forms of heart disease,20143001.0,33890011.0,Other bilateral bundle branch block
+Other forms of heart disease,65778007.0,109278014.0,Sinoauricular block
+Other forms of heart disease,65778007.0,3288650015.0,Sinoatrial exit block
+Other forms of heart disease,450919004.0,2920877010.0,Atrial arrest
+Other forms of heart disease,65778007.0,109275012.0,Sinoatrial block
+Other forms of heart disease,450919004.0,2920703018.0,Atrial standstill
+Other forms of heart disease,16797001.0,28446019.0,Pre-excitation atrioventricular conduction
+Other forms of heart disease,16797001.0,477950015.0,Accessory atrioventricular conduction
+Other forms of heart disease,55475008.0,2923321016.0,Lown Ganong Levine syndrome
+Other forms of heart disease,55475008.0,92226014.0,"Syndrome of short P-R interval, normal QRS complexes AND supraventricular tachycardias"
+Other forms of heart disease,16797001.0,477949015.0,Pre-excitation atrioventricular conduction
+Other forms of heart disease,74390002.0,2920406010.0,Wolff Parkinson White syndrome
+Other forms of heart disease,16797001.0,3688024010.0,Preexcitation syndrome
+Other forms of heart disease,74390002.0,123541011.0,Ventricular pre-excitation with arrhythmia
+Other forms of heart disease,74390002.0,502685014.0,Wolff-Parkinson-White pattern
+Other forms of heart disease,74390002.0,502686010.0,WPW - Wolff-Parkinson-White pattern
+Other forms of heart disease,74390002.0,502687018.0,WPW - Wolff-Parkinson-White syndrome
+Other forms of heart disease,16797001.0,28446019.0,Accelerated atrioventricular conduction
+Other forms of heart disease,17869006.0,30181017.0,Anomalous atrioventricular excitation
+Other forms of heart disease,55475008.0,92224012.0,Lown-Ganong-Levine syndrome
+Other forms of heart disease,74390002.0,123539010.0,Wolff-Parkinson-White syndrome
+Other forms of heart disease,195060002.0,300094015.0,Ventricular pre-excitation
+Other forms of heart disease,16797001.0,28446019.0,Accessory atrioventricular conduction
+Other forms of heart disease,17869006.0,30181017.0,Anomalous atrioventricular excitation NOS
+Other forms of heart disease,373905003.0,1229297014.0,Cardio-auditory syndrome
+Other forms of heart disease,20852007.0,35069016.0,Romano-Ward syndrome
+Other forms of heart disease,373905003.0,1229296017.0,Jervell and Lange-Nielsen syndrome
+Other forms of heart disease,20852007.0,35069016.0,Romano - Ward syndrome
+Other forms of heart disease,46935006.0,78226012.0,Stokes-Adams syndrome
+Other forms of heart disease,46935006.0,494683014.0,Stokes-Adams-Morgagni syndrome
+Other forms of heart disease,609506003.0,2966899014.0,Cardiac arrest following abortive pregnancy
+Other forms of heart disease,234172002.0,2162279019.0,Pulseless electrical activity
+Other forms of heart disease,234172002.0,2162278010.0,EMD
+Other forms of heart disease,609506003.0,2966899014.0,Induced termination of pregnancy complicated by cardiac arrest
+Other forms of heart disease,234172002.0,350844013.0,Cardiac arrest with electromechanical dissociation
+Other forms of heart disease,410430005.0,2477949012.0,Cardiopulmonary arrest
+Other forms of heart disease,410429000.0,2472090018.0,"Cardiac arrest, unspecified"
+Other forms of heart disease,397829000.0,1785991010.0,Cardiac standstill
+Other forms of heart disease,233927002.0,350487017.0,Cardiac arrest with successful resuscitation
+Other forms of heart disease,309809007.0,453302013.0,Electromechanical dissociation with successful resuscitation
+Other forms of heart disease,397829000.0,1777430012.0,Asystole
+Other forms of heart disease,410429000.0,2472090018.0,Cardiac arrest
+Other forms of heart disease,410431009.0,2472092014.0,[D]Cardiorespiratory failure
+Other forms of heart disease,234172002.0,350843019.0,Electromechanical dissociation
+Other forms of heart disease,422970001.0,2645956016.0,Cardiac arrest due to trauma
+Other forms of heart disease,234172002.0,2162280016.0,PEA - Pulseless electrical activity
+Other forms of heart disease,213213007.0,325057017.0,Cardiac arrest as a complication of care
+Other forms of heart disease,410430005.0,2472091019.0,Cardio-respiratory arrest
+Other forms of heart disease,162710004.0,2667327015.0,On examination - collapse -cardiac arrest
+Other forms of heart disease,162710004.0,253605019.0,O/E - collapse -cardiac arrest
+Other forms of heart disease,12026006.0,20726010.0,Paroxysmal tachycardia unspecified
+Other forms of heart disease,698247007.0,2972872011.0,Other cardiac dysrhythmias
+Other forms of heart disease,3424008.0,6781010.0,[D]Rapid heart beat
+Other forms of heart disease,3424008.0,6782015.0,Increased heart rate
+Other forms of heart disease,698247007.0,2972844016.0,Arrhythmia
+Other forms of heart disease,12026006.0,1220494013.0,PT - Paroxysmal tachycardia
+Other forms of heart disease,12026006.0,20729015.0,Essential paroxysmal tachycardia
+Other forms of heart disease,698247007.0,2972872011.0,[X]Other specified cardiac arrhythmias
+Other forms of heart disease,698247007.0,2972872011.0,Cardiac arrhythmias
+Other forms of heart disease,12026006.0,20728011.0,Bouveret-Hoffmann syndrome
+Other forms of heart disease,12026006.0,20726010.0,Paroxysmal tachycardia NOS
+Other forms of heart disease,195105007.0,300168010.0,Re-entry ventricular arrhythmia
+Other forms of heart disease,698247007.0,2972863015.0,Disorder of heart rhythm
+Other forms of heart disease,698247007.0,2972872011.0,Other cardiac dysrhythmia NOS
+Other forms of heart disease,698247007.0,2972872011.0,Cardiac dysrhythmia NOS
+Other forms of heart disease,3424008.0,6779013.0,"[D]Tachycardia, unspecified"
+Other forms of heart disease,698247007.0,2972846019.0,Cardiac dysrhythmias
+Other forms of heart disease,3424008.0,1228155015.0,Heart rate fast
+Other forms of heart disease,67198005.0,111643014.0,Paroxysmal supraventricular tachycardia NOS
+Other forms of heart disease,276796006.0,413083010.0,Atrial tachycardia
+Other forms of heart disease,49982000.0,83252012.0,Multifocal atrial tachycardia
+Other forms of heart disease,195069001.0,300105010.0,PAT
+Other forms of heart disease,195069001.0,300107019.0,PAT - Paroxysmal atrial tachycardia
+Other forms of heart disease,195072008.0,300113011.0,Nodal paroxysmal tachycardia
+Other forms of heart disease,195069001.0,300104014.0,Atrial paroxysmal tachycardia
+Other forms of heart disease,195071001.0,300112018.0,Junctional paroxysmal tachycardia
+Other forms of heart disease,195070000.0,300109016.0,Atrioventricular paroxysmal tachycardia
+Other forms of heart disease,195070000.0,300108012.0,AV paroxysmal tachycardia
+Other forms of heart disease,67198005.0,111643014.0,Paroxysmal supraventricular tachycardia
+Other forms of heart disease,6456007.0,11705016.0,Supraventricular tachycardia NOS
+Other forms of heart disease,195070000.0,300110014.0,Paroxysmal atrioventricular tachycardia
+Other forms of heart disease,195071001.0,300111013.0,Paroxysmal junctional tachycardia
+Other forms of heart disease,6456007.0,1232575015.0,SVT - Supraventricular tachycardia
+Other forms of heart disease,195069001.0,300106011.0,Paroxysmal atrial tachycardia
+Other forms of heart disease,67198005.0,884361000006119.0,Parox. supravent. tachycardia
+Other forms of heart disease,195072008.0,300114017.0,Paroxysmal nodal tachycardia
+Other forms of heart disease,25569003.0,1224898011.0,VT - Ventricular tachycardia
+Other forms of heart disease,25569003.0,42864016.0,Ventricular tachycardia
+Other forms of heart disease,66657009.0,110733013.0,Paroxysmal ventricular tachycardia
+Other forms of heart disease,66657009.0,884371000006114.0,Paroxysmal ventric. tachyc.
+Other forms of heart disease,49436004.0,1230726010.0,AF - Atrial fibrillation
+Other forms of heart disease,282825002.0,421234013.0,Intermittent atrial fibrillation
+Other forms of heart disease,282825002.0,421233019.0,PAF - Paroxysmal atrial fibrillation
+Other forms of heart disease,282825002.0,421232012.0,AF - Paroxysmal atrial fibrillation
+Other forms of heart disease,427665004.0,2675306013.0,Paroxysmal atrial flutter
+Other forms of heart disease,49436004.0,82343012.0,Atrial fibrillation
+Other forms of heart disease,282825002.0,421235014.0,Paroxysmal atrial fibrillation
+Other forms of heart disease,440059007.0,2793372019.0,Persistent atrial fibrillation
+Other forms of heart disease,426749004.0,2675253013.0,Chronic atrial fibrillation
+Other forms of heart disease,720448006.0,3320801015.0,Atrial flutter type I
+Other forms of heart disease,5370000.0,9988012.0,Atrial flutter
+Other forms of heart disease,720448006.0,3320796013.0,Typical atrial flutter
+Other forms of heart disease,720448006.0,3320802010.0,Atrial flutter type 1
+Other forms of heart disease,1.5964901000119108e+16,3323015018.0,Atrial flutter type 2
+Other forms of heart disease,1.5964901000119108e+16,3323016017.0,Atrial flutter type II
+Other forms of heart disease,1.5964901000119108e+16,3322864015.0,Atypical atrial flutter
+Other forms of heart disease,195080001.0,300130013.0,Atrial fibrillation and flutter NOS
+Other forms of heart disease,233911009.0,350466010.0,NRAF - Non-rheumatic atrial fibrillation
+Other forms of heart disease,195080001.0,300130013.0,Atrial fibrillation and flutter
+Other forms of heart disease,233911009.0,350465014.0,Non-rheumatic atrial fibrillation
+Other forms of heart disease,440028005.0,2793259018.0,Permanent atrial fibrillation
+Other forms of heart disease,195083004.0,300133010.0,Ventricular fibrillation and flutter NOS
+Other forms of heart disease,71908006.0,1233433010.0,Cardiac arrest-ventricular fibrillation
+Other forms of heart disease,71908006.0,119481012.0,Ventricular fibrillation
+Other forms of heart disease,111288001.0,178509016.0,Ventricular flutter
+Other forms of heart disease,195083004.0,300133010.0,Ventricular fibrillation and flutter
+Other forms of heart disease,71908006.0,1233434016.0,VF - Ventricular fibrillation
+Other forms of heart disease,287057009.0,426568019.0,Atrial premature depolarization
+Other forms of heart disease,287057009.0,426567012.0,Atrial premature depolarization
+Other forms of heart disease,287057009.0,426566015.0,Atrial premature complex
+Other forms of heart disease,251164006.0,374315014.0,Junctional premature depolarization
+Other forms of heart disease,251164006.0,374315014.0,Junctional premature depolarisation
+Other forms of heart disease,251164006.0,374316010.0,Junctional premature depolarization
+Other forms of heart disease,251164006.0,374313019.0,Junctional premature complex
+Other forms of heart disease,251164006.0,374314013.0,AV junctional (nodal) premature beats
+Other forms of heart disease,251175005.0,374330017.0,Ventricular premature depolarization
+Other forms of heart disease,17338001.0,29304019.0,Ventricular premature systoles
+Other forms of heart disease,251175005.0,374329010.0,Ventricular ectopic complex
+Other forms of heart disease,251175005.0,374331018.0,Ventricular premature depolarization
+Other forms of heart disease,17338001.0,29305018.0,Ventricular extrasystoles
+Other forms of heart disease,251175005.0,374328019.0,Ventricular premature complex
+Other forms of heart disease,251175005.0,1224598017.0,Premature ventricular complex
+Other forms of heart disease,17338001.0,29302015.0,Ventricular premature beats
+Other forms of heart disease,17338001.0,2619422017.0,Ventricular ectopic beats
+Other forms of heart disease,17338001.0,29303013.0,Ventricular premature contractions
+Other forms of heart disease,33413000.0,55752016.0,Ectopic beats unspecified
+Other forms of heart disease,33413000.0,485519017.0,Ectopic rhythm abnormality
+Other forms of heart disease,164883002.0,2619233016.0,Electrocardiogram: extrasystole
+Other forms of heart disease,29717002.0,49719010.0,Extrasystolic arrhythmia
+Other forms of heart disease,164881000.0,2619231019.0,Electrocardiogram: ectopic beats
+Other forms of heart disease,63593006.0,1788100015.0,Supraventricular premature contraction
+Other forms of heart disease,33413000.0,55751011.0,Premature beats
+Other forms of heart disease,63593006.0,105687017.0,Supraventricular extrasystoles
+Other forms of heart disease,63593006.0,105686014.0,Supraventricular premature beats
+Other forms of heart disease,33413000.0,55752016.0,Ectopic beats
+Other forms of heart disease,164881000.0,256470013.0,ECG: ectopic beats
+Other forms of heart disease,164883002.0,256472017.0,ECG: extrasystole
+Other forms of heart disease,29717002.0,49718019.0,Extrasystoles
+Other forms of heart disease,164881000.0,256470013.0,ECG: ectopic beats NOS
+Other forms of heart disease,33413000.0,884381000006112.0,Ectopic beats/extrasystoles
+Other forms of heart disease,29717002.0,49716015.0,Ectopic beats NOS
+Other forms of heart disease,63593006.0,1232474018.0,Supraventricular ectopic beats
+Other forms of heart disease,29717002.0,2164618014.0,Ectopics
+Other forms of heart disease,36083008.0,60214017.0,Sick sinus syndrome
+Other forms of heart disease,60423000.0,100402018.0,Coronary sinus rhythm disorder
+Other forms of heart disease,71792006.0,119268019.0,Nodal arrhythmia
+Other forms of heart disease,9651007.0,16882013.0,Prolonged Q-T interval syndrome
+Other forms of heart disease,71792006.0,119266015.0,Nodal rhythm disorder
+Other forms of heart disease,9651007.0,16879015.0,Long QT syndrome
+Other forms of heart disease,71792006.0,119267012.0,Sinus arrhythmia
+Other forms of heart disease,195101003.0,300164012.0,Wandering atrial pacemaker
+Other forms of heart disease,9651007.0,1235983011.0,Long Q-T syndrome
+Other forms of heart disease,418818005.0,2576883015.0,Brugada syndrome
+Other forms of heart disease,60423000.0,498734013.0,Sinoatrial node dysfunction NOS
+Other forms of heart disease,361137007.0,477420018.0,Heart beats irregular
+Other forms of heart disease,361137007.0,6219971000006116.0,Irregular heart beat
+Other forms of heart disease,84114007.0,139475013.0,Heart failure NOS
+Other forms of heart disease,367363000.0,490972013.0,Right ventricular failure
+Other forms of heart disease,84114007.0,139482012.0,Cardiac failure NOS
+Other forms of heart disease,42343007.0,493289014.0,CHF - Congestive heart failure
+Other forms of heart disease,42343007.0,493287011.0,Congestive cardiac failure
+Other forms of heart disease,267036007.0,397886014.0,Breathlessness symptom
+Other forms of heart disease,267036007.0,397886014.0,Dyspnoea - symptom
+Other forms of heart disease,92506005.0,510016018.0,Biventricular failure
+Other forms of heart disease,42343007.0,70654011.0,Congestive heart disease
+Other forms of heart disease,442433009.0,2819968012.0,Generalized edema
+Other forms of heart disease,84114007.0,2969213019.0,Cardiac insufficiency
+Other forms of heart disease,42343007.0,493288018.0,CCF - Congestive cardiac failure
+Other forms of heart disease,446221000.0,3496968011.0,Heart failure with preserved ejection fraction
+Other forms of heart disease,442433009.0,2819967019.0,Generalised oedema
+Other forms of heart disease,267036007.0,397887017.0,Breathless
+Other forms of heart disease,267036007.0,397885013.0,Dyspnea
+Other forms of heart disease,84114007.0,139481017.0,Weak heart
+Other forms of heart disease,84114007.0,139480016.0,Myocardial failure
+Other forms of heart disease,84114007.0,1234906013.0,HF - Heart failure
+Other forms of heart disease,267036007.0,397889019.0,SOB - Shortness of breath
+Other forms of heart disease,446221000.0,1713091000000115.0,HFNEF - heart failure with normal ejection fraction
+Other forms of heart disease,267036007.0,397890011.0,[D]Shortness of breath
+Other forms of heart disease,442433009.0,2819966011.0,[D]Anasarca
+Other forms of heart disease,42343007.0,70653017.0,Congestive cardiac failure
+Other forms of heart disease,92506005.0,153058012.0,Biventricular failure
+Other forms of heart disease,84114007.0,139482012.0,Cardiac failure
+Other forms of heart disease,88805009.0,147247018.0,Chronic congestive heart failure
+Other forms of heart disease,195111005.0,300179017.0,Decompensated cardiac failure
+Other forms of heart disease,195112003.0,300180019.0,Compensated cardiac failure
+Other forms of heart disease,233924009.0,350484012.0,Heart failure as a complication of care
+Other forms of heart disease,267036007.0,397890011.0,Shortness of breath
+Other forms of heart disease,267036007.0,397888010.0,Breathlessness
+Other forms of heart disease,395105005.0,1488804017.0,Heart failure confirmed
+Other forms of heart disease,429589006.0,2694523019.0,Left ventricular cardiac dysfunction
+Other forms of heart disease,446221000.0,2883808011.0,Heart failure with normal ejection fraction
+Other forms of heart disease,267036007.0,397888010.0,Breathlessness NOS
+Other forms of heart disease,267036007.0,397886014.0,[D]Dyspnoea
+Other forms of heart disease,84114007.0,139475013.0,Weak heart
+Other forms of heart disease,42343007.0,70653017.0,Congestive heart failure
+Other forms of heart disease,446221000.0,2227501000000110.0,Heart failure with preserved ejection fraction
+Other forms of heart disease,426611007.0,2675255018.0,Congestive heart failure due to valvular disease
+Other forms of heart disease,128404006.0,206703015.0,Right heart failure
+Other forms of heart disease,267036007.0,397886014.0,Shortness of breath symptom
+Other forms of heart disease,267036007.0,397888010.0,[D]Breathlessness
+Other forms of heart disease,84114007.0,139475013.0,Heart failure
+Other forms of heart disease,19242006.0,479262018.0,Pulmonary oedema NOS
+Other forms of heart disease,71892000.0,119456014.0,Asthma - cardiac
+Other forms of heart disease,19242006.0,32441014.0,Pulmonary edema
+Other forms of heart disease,71892000.0,1495417010.0,Asthma - cardiac
+Other forms of heart disease,85232009.0,141303019.0,Left heart failure
+Other forms of heart disease,195967001.0,301484010.0,Bronchial hypersensitivity
+Other forms of heart disease,85232009.0,1235017018.0,LVF - Left ventricular failure
+Other forms of heart disease,195967001.0,301482014.0,BHR - Bronchial hyperreactivity
+Other forms of heart disease,275514001.0,1495323018.0,Impaired left ventricular func
+Other forms of heart disease,85232009.0,201199018.0,Left-sided heart failure
+Other forms of heart disease,195967001.0,301478012.0,Airway hyperreactivity
+Other forms of heart disease,195967001.0,301481019.0,Bronchial hyperreactivity
+Other forms of heart disease,195967001.0,301479016.0,Asthmatic
+Other forms of heart disease,370219009.0,1208970013.0,Moderate asthma
+Other forms of heart disease,370220003.0,1208971012.0,Occasional asthma
+Other forms of heart disease,195967001.0,2475605013.0,Hyperreactive airways disease
+Other forms of heart disease,275514001.0,411506018.0,Impaired left ventricular function
+Other forms of heart disease,195967001.0,301483016.0,Bronchial hyperresponsiveness
+Other forms of heart disease,85232009.0,141306010.0,Left ventricular failure
+Other forms of heart disease,170633004.0,264542014.0,Asthma disturbs sleep weekly
+Other forms of heart disease,170634005.0,264543016.0,Asthma disturbs sleep frequently
+Other forms of heart disease,195967001.0,301485011.0,Asthma
+Other forms of heart disease,312453004.0,456163018.0,Asthma - currently active
+Other forms of heart disease,312454005.0,456164012.0,Asthma - currently dormant
+Other forms of heart disease,370218001.0,1208969012.0,Mild asthma
+Other forms of heart disease,764851000000102.0,1703621000000112.0,Worsening pulmonary oedema
+Other forms of heart disease,370221004.0,1208972017.0,Severe asthma
+Other forms of heart disease,195967001.0,301480018.0,Bronchial asthma
+Other forms of heart disease,170632009.0,264541019.0,Asthma causing night waking
+Other forms of heart disease,195967001.0,301485011.0,Asthma unspecified
+Other forms of heart disease,195967001.0,301485011.0,Asthma NOS
+Other forms of heart disease,56265001.0,93561011.0,Other specified heart disease
+Other forms of heart disease,56265001.0,93561011.0,Heart disease NOS
+Other forms of heart disease,56265001.0,93561011.0,Other forms of heart disease
+Other forms of heart disease,56265001.0,93561011.0,[X]Other forms of heart disease
+Other forms of heart disease,56265001.0,3414201000006113.0,Cardiac disorder
+Other forms of heart disease,56265001.0,497556011.0,Disorder of heart
+Other forms of heart disease,56265001.0,93565019.0,Morbus cordis
+Other forms of heart disease,56265001.0,537341000006118.0,Cardiac diseases
+Other forms of heart disease,195137008.0,3450247019.0,Make heart septal defect
+Other forms of heart disease,56265001.0,93566018.0,Cardiopathy
+Other forms of heart disease,253273004.0,377190017.0,Heart septal defects
+Other forms of heart disease,56265001.0,93561011.0,Other ill-defined heart disease NOS
+Other forms of heart disease,56265001.0,93561011.0,Other ill-defined heart disease
+Other forms of heart disease,56265001.0,93561011.0,Heart diseases
+Other forms of heart disease,56265001.0,497557019.0,Cardiac diseases
+Other forms of heart disease,195137008.0,3450246011.0,Acquired cardiac septal defect
+Other forms of heart disease,195137008.0,300222019.0,"Cardiac septal defect, acquired"
+Other forms of heart disease,56265001.0,93561011.0,[X]Oth heart disorders/oth infectious+parasitic diseases CE
+Other forms of heart disease,56265001.0,93561011.0,Other heart disease NOS
+Other forms of heart disease,56265001.0,93561011.0,[X]Other ill-defined heart diseases
+Other forms of heart disease,253273004.0,377189014.0,Cardiac septal defects
+Other forms of heart disease,56265001.0,93561011.0,[X]Other heart disorders in other diseases CE
+Other forms of heart disease,5919001.0,10853017.0,Rupture of papillary muscle
+Other forms of heart disease,309519009.0,452964014.0,Left ventricular thrombosis
+Other forms of heart disease,195147006.0,300234010.0,Atrial thrombosis
+Other forms of heart disease,309518001.0,452962013.0,Right ventricular thrombus
+Other forms of heart disease,309518001.0,452963015.0,Right ventricular thrombosis
+Other forms of heart disease,8186001.0,14506018.0,Cardiac hypertrophy NOS
+Other forms of heart disease,64077000.0,106506010.0,Degeneration of heart
+Other forms of heart disease,64077000.0,106505014.0,Mural degeneration of heart
+Other forms of heart disease,9909003.0,17294019.0,Degeneration fatty heart
+Other forms of heart disease,9909003.0,17294019.0,Fatty infiltration heart
+Other forms of heart disease,8186001.0,2899349012.0,Enlarged heart
+Other forms of heart disease,64077000.0,106504013.0,Muscular degeneration of heart
+Other forms of heart disease,8186001.0,14506018.0,Cardiomegaly
+Other forms of heart disease,55827005.0,92841017.0,Left ventricular hypertrophy
+Other forms of heart disease,64077000.0,106503019.0,Myocardial degeneration
+Other forms of heart disease,9909003.0,17294019.0,Fatty degeneration heart
+Other forms of heart disease,55827005.0,1231534013.0,LVH - Left ventricular hypertrophy
+Other forms of heart disease,8186001.0,14506018.0,Cardiomegaly NOS
+Other forms of heart disease,266249003.0,395773013.0,Ventricular hypertrophy
+Other forms of heart disease,55827005.0,1231533019.0,LV+ - Left ventricular hypertrophy
+Other forms of heart disease,55827005.0,1231532012.0,LV hypertrophy
+Other forms of heart disease,49601007.0,2474885016.0,Circulatory system disease NOS
+Other forms of heart disease,49601007.0,2474885016.0,"Vein, lymphatic and circulatory diseases NOS"
+Other forms of heart disease,49601007.0,2474885016.0,Other circulatory disorder NOS
+Other forms of heart disease,49601007.0,82610017.0,"[X]Other postprocedural disorders/circulatory system,NEC"
+Other forms of heart disease,49601007.0,495451016.0,Cardiovascular system disease
+Other forms of heart disease,49601007.0,495449015.0,Cardiovascular system diseases
+Other forms of heart disease,49601007.0,2474885016.0,"Cardiovascular disease, unspecified"
+Other forms of heart disease,49601007.0,82611018.0,Circulatory system diseases
+Other forms of heart disease,49601007.0,2957091018.0,CVD - cardiovascular disease
+Other forms of heart disease,49601007.0,538131000006110.0,"Cardiovascular disease, unspecified"
+Other forms of heart disease,49601007.0,82617019.0,Disorder of circulatory system
+Other forms of heart disease,49601007.0,82618012.0,Cardiovascular disease
+Other forms of heart disease,49601007.0,2957116014.0,CVS disease - cardiovascular system disease
+Other forms of heart disease,49601007.0,495450015.0,Disorder of the circulatory system
+Other forms of heart disease,49601007.0,495449015.0,CVS disease
+Other forms of heart disease,49601007.0,82610017.0,Other specified circulatory disorder NOS
+Other forms of heart disease,49601007.0,82610017.0,"Vein, lymphatic and other circulatory diseases NOS"
+Other forms of heart disease,49601007.0,82610017.0,Other specified diseases of circulatory system
+Other forms of heart disease,49601007.0,82610017.0,[X]Cardiovascular disorders/oth infectous+parasitic diseases
+Other forms of heart disease,49601007.0,82610017.0,[X]Other functional disturbances following cardiac surgery
+Other forms of heart disease,49601007.0,82610017.0,[X]Other specifd disorders/circulatory system in diseases CE
+Other forms of heart disease,49601007.0,82610017.0,[X]Other+unspecified disorders of the circulatory system
+Other forms of heart disease,49601007.0,82610017.0,Other specified circulatory disorder
+Other forms of heart disease,49601007.0,82610017.0,Venous collateral circulation NOS
+Other forms of heart disease,49601007.0,2474885016.0,"[X]Cardiovascular disease, unspecified"
+Other forms of heart disease,49601007.0,82610017.0,"Other specified vein, lymphatic or other circulatory disease"
+Other forms of heart disease,49601007.0,82610017.0,[X]Other and unspecified disorders of the circulatory system
+Other forms of heart disease,71932004.0,119522018.0,Cardiac dilatation NOS
+Other forms of heart disease,71932004.0,119522018.0,Dilatation - cardiac
+Other forms of heart disease,6210001.0,11309013.0,Ventricular dilatation
+Other forms of heart disease,82608003.0,137034016.0,Atrial dilatation
+Other forms of heart disease,195126007.0,300208019.0,Atrial hypertrophy
+Other forms of heart disease,253522006.0,377513011.0,Right ventricular dilatation
+Other forms of heart disease,6210001.0,11310015.0,Dilated ventricle
+Other forms of heart disease,233880002.0,350426011.0,Cardiomyopathy due to drugs and other external agents
+Other forms of heart disease,90154003.0,149444019.0,Papillary muscle disorder NOS
+Other forms of heart disease,233848004.0,350384013.0,Other diseases of endocardium
+Other forms of heart disease,86856005.0,144043016.0,Papillary muscle dysfunction
+Other forms of heart disease,128562005.0,206930018.0,[X]Other heart disorders in bacterial diseases CE
+Other forms of heart disease,233880002.0,3293245015.0,Chronic myocardial disorder caused by chemical or external agent
+Other forms of heart disease,233848004.0,350385014.0,Disease of endocardium and heart valve
+Other forms of heart disease,134401001.0,216207010.0,Left ventricular systolic dysfunction
+Other forms of heart disease,416158002.0,2548656015.0,Right ventricular systolic dysfunction
+Other forms of heart disease,416610007.0,2549128016.0,Right ventricular diastolic dysfunction
+Other forms of heart disease,395704004.0,1489358014.0,Left ventricular diastolic dysfunction
+Other forms of heart disease,27012009.0,45179015.0,Hyperkinetic heart disease
+Other forms of heart disease,266252006.0,395776017.0,Mitral papillary muscle dysfunction
+Other forms of heart disease,266252006.0,395776017.0,Papillary muscle disease
+Other forms of heart disease,40172005.0,63779017.0,Cardiac complication of care NOS
+Other forms of heart disease,40172005.0,1494719018.0,Cardiac complications of care
+Other forms of heart disease,40172005.0,63779017.0,Cardiac complication
+Other forms of heart disease,274096000.0,884181000006110.0,Pulmonary heart disease
+Other forms of heart disease,274096000.0,409855012.0,Pulmonary heart disease
+Other forms of heart disease,274096000.0,409855012.0,[X]Other specified pulmonary heart diseases
+Other forms of heart disease,11380006.0,388474016.0,MPS - Mucopolysaccharidosis
+Other forms of heart disease,11380006.0,19694018.0,Mucopolysaccharidosis
+Other forms of heart disease,11380006.0,19694018.0,[X]Other mucopolysaccharidoses
+Other forms of heart disease,11380006.0,19694018.0,Other specified mucopolysaccharidosis
+Other forms of heart disease,11380006.0,19694018.0,Mucopolysaccharidosis NOS

@@ -1,0 +1,70 @@
+Condition,OriginalReadCode,CleansedReadCode,Term
+Visual disturbances and blindness,^ESCTSI262708,,Sight impaired
+Visual disturbances and blindness,1B75,1B75.00,Loss of vision
+Visual disturbances and blindness,2B6A-1,2B6A.11,O/E - blind R-eye
+Visual disturbances and blindness,2B6B,2B6B.00,O/E - R-eye completely blind
+Visual disturbances and blindness,2B7A-1,2B7A.11,O/E - blind L-eye
+Visual disturbances and blindness,2B7B,2B7B.00,O/E - L-eye completely blind
+Visual disturbances and blindness,2BBr,2BBr.00,Impaired vision due to diabetic retinopathy
+Visual disturbances and blindness,F4041,F404100,Blind hypotensive eye
+Visual disturbances and blindness,F4042,F404200,Blind hypertensive eye
+Visual disturbances and blindness,F49,F49..00,Blindness and low vision
+Visual disturbances and blindness,F49-1,F49..11,Impaired vision
+Visual disturbances and blindness,F49-3,F49..13,Partial sight
+Visual disturbances and blindness,F49-4,F49..14,Sight impaired
+Visual disturbances and blindness,F490,F490.00,"Blindness, both eyes"
+Visual disturbances and blindness,F4900,F490000,Unspecified blindness both eyes
+Visual disturbances and blindness,F4901,F490100,Both eyes total visual impairment
+Visual disturbances and blindness,F4902,F490200,"Better eye: near total VI, Lesser eye: unspecified"
+Visual disturbances and blindness,F4904,F490400,"Better eye: near total VI, Lesser eye: near total VI"
+Visual disturbances and blindness,F4906,F490600,"Better eye: profound VI, Lesser eye: total VI"
+Visual disturbances and blindness,F4909,F490900,"Acquired blindness, both eyes"
+Visual disturbances and blindness,F490z,F490z00,Blindness both eyes NOS
+Visual disturbances and blindness,F491,F491.00,"Better eye: low vision, Lesser eye: profound VI"
+Visual disturbances and blindness,F4910,F491000,"One eye blind, one eye low vision"
+Visual disturbances and blindness,F4911,F491100,"Better eye: severe VI, Lesser eye: blind, unspecified"
+Visual disturbances and blindness,F4913,F491300,"Better eye: severe VI, Lesser eye: near total VI"
+Visual disturbances and blindness,F4914,F491400,"Better eye: severe VI, Lesser eye: profound VI"
+Visual disturbances and blindness,F4915,F491500,"Better eye: moderate VI, Lesser eye: blind, unspecified"
+Visual disturbances and blindness,F4917,F491700,"Better eye: moderate VI, Lesser eye: near total VI"
+Visual disturbances and blindness,F491z,F491z00,"One eye blind, one eye low vision NOS"
+Visual disturbances and blindness,F492,F492.00,"Low vision, both eyes"
+Visual disturbances and blindness,F4920,F492000,"Low vision, both eyes unspecified"
+Visual disturbances and blindness,F4922,F492200,"Better eye: severe VI, Lesser eye: severe VI"
+Visual disturbances and blindness,F4923,F492300,"Better eye: moderate VI, Lesser eye: low vision unspecified"
+Visual disturbances and blindness,F4924,F492400,"Better eye: moderate VI, Lesser eye: severe VI"
+Visual disturbances and blindness,F4925,F492500,"Better eye: moderate VI, Lesser eye: moderate VI"
+Visual disturbances and blindness,F492z,F492z00,"Low vision, both eyes NOS"
+Visual disturbances and blindness,F494,F494.00,Legal blindness USA
+Visual disturbances and blindness,F495,F495.00,"Profound impairment, one eye"
+Visual disturbances and blindness,F4950,F495000,"Blindness, one eye, unspecified"
+Visual disturbances and blindness,F4951,F495100,"Lesser eye: total visual impairment, Better eye: unspecified"
+Visual disturbances and blindness,F4952,F495200,"Lesser eye: total VI, Better eye: near normal vision"
+Visual disturbances and blindness,F4953,F495300,"Lesser eye: total VI, Better eye: normal vision"
+Visual disturbances and blindness,F4954,F495400,"Lesser eye: near total VI, Better eye: unspecified"
+Visual disturbances and blindness,F4955,F495500,"Lesser eye: near total VI, Better eye: near normal vision"
+Visual disturbances and blindness,F4956,F495600,"Lesser eye: near total VI, Better eye: normal vision"
+Visual disturbances and blindness,F4958,F495800,"Lesser eye: profound VI, Better eye: near normal vision"
+Visual disturbances and blindness,F495A,F495A00,"Acquired blindness, one eye"
+Visual disturbances and blindness,F495z,F495z00,Profound impairment one eye NOS
+Visual disturbances and blindness,F496,F496.00,"Low vision, one eye"
+Visual disturbances and blindness,F4960,F496000,"Low vision, one eye, unspecified"
+Visual disturbances and blindness,F4961,F496100,"Lesser eye: severe VI, Better eye: unspecified"
+Visual disturbances and blindness,F4962,F496200,"Lesser eye: severe VI, Better eye: near normal vision"
+Visual disturbances and blindness,F4963,F496300,"Lesser eye: severe VI, Better eye: normal vision"
+Visual disturbances and blindness,F4964,F496400,"Lesser eye: moderate VI, Better eye: unspecified"
+Visual disturbances and blindness,F4965,F496500,"Lesser eye: moderate VI, Better eye: near normal vision"
+Visual disturbances and blindness,F4966,F496600,"Lesser eye: moderate VI, Better eye: normal vision"
+Visual disturbances and blindness,F496z,F496z00,"Low vision, one eye NOS"
+Visual disturbances and blindness,F497,F497.00,"Severe visual impairment, binocular"
+Visual disturbances and blindness,F498,F498.00,"Moderate visual impairment, binocular"
+Visual disturbances and blindness,F499,F499.00,"Mild or no visual impairment, binocular"
+Visual disturbances and blindness,F49A,F49A.00,"Blindness, monocular"
+Visual disturbances and blindness,F49B,F49B.00,"Severe visual impairment, monocular"
+Visual disturbances and blindness,F49C,F49C.00,"Moderate visual impairment, monocular"
+Visual disturbances and blindness,F49z,F49z.00,Visual loss NOS
+Visual disturbances and blindness,F49z0,F49z000,Charles Bonnet syndrome
+Visual disturbances and blindness,F4H73,F4H7300,Cortical blindness
+Visual disturbances and blindness,Fy1,Fy1..00,Combined visual and hearing impairment
+Visual disturbances and blindness,SJ0z-1,SJ0z.11,Blindness - traumatic - NOS
+Visual disturbances and blindness,ZV410,ZV41000,[V]Problems with sight

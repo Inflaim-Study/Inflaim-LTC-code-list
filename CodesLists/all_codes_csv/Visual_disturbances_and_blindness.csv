@@ -1,0 +1,159 @@
+Condition,MedCodeId,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,ICD10Code,Term
+Visual disturbances and blindness,2627081000006116.0,^ESCTSI262708,,7973008.0,2164155010.0,H540,Sight impaired
+Visual disturbances and blindness,2627081000006116.0,^ESCTSI262708,,7973008.0,2164155010.0,H541,Sight impaired
+Visual disturbances and blindness,2627081000006116.0,^ESCTSI262708,,7973008.0,2164155010.0,H544,Sight impaired
+Visual disturbances and blindness,2627081000006116.0,^ESCTSI262708,,7973008.0,2164155010.0,H542,Sight impaired
+Visual disturbances and blindness,2627081000006116.0,^ESCTSI262708,,7973008.0,2164155010.0,H549,Sight impaired
+Visual disturbances and blindness,2627081000006116.0,^ESCTSI262708,,7973008.0,2164155010.0,H546,Sight impaired
+Visual disturbances and blindness,2627081000006116.0,^ESCTSI262708,,7973008.0,2164155010.0,H543,Sight impaired
+Visual disturbances and blindness,2627081000006116.0,^ESCTSI262708,,7973008.0,2164155010.0,H545,Sight impaired
+Visual disturbances and blindness,734661000006116.0,1B75,1B75.00,240311000000103.0,390341000000115.0,H531,Loss of vision
+Visual disturbances and blindness,255275013.0,2B6A-1,2B6A.11,163946009.0,255275013.0,H544,O/E - blind R-eye
+Visual disturbances and blindness,255276014.0,2B6B,2B6B.00,163946009.0,255276014.0,H544,O/E - R-eye completely blind
+Visual disturbances and blindness,255292016.0,2B7A-1,2B7A.11,163960006.0,255292016.0,H544,O/E - blind L-eye
+Visual disturbances and blindness,255293014.0,2B7B,2B7B.00,163960006.0,255293014.0,H544,O/E - L-eye completely blind
+Visual disturbances and blindness,733161000000116.0,2BBr,2BBr.00,373041000000101.0,733161000000116.0,E113,Impaired vision due to diabetic retinopathy
+Visual disturbances and blindness,733161000000116.0,2BBr,2BBr.00,373041000000101.0,733161000000116.0,H545,Impaired vision due to diabetic retinopathy
+Visual disturbances and blindness,733161000000116.0,2BBr,2BBr.00,373041000000101.0,733161000000116.0,H541,Impaired vision due to diabetic retinopathy
+Visual disturbances and blindness,733161000000116.0,2BBr,2BBr.00,373041000000101.0,733161000000116.0,H542,Impaired vision due to diabetic retinopathy
+Visual disturbances and blindness,733161000000116.0,2BBr,2BBr.00,373041000000101.0,733161000000116.0,E123,Impaired vision due to diabetic retinopathy
+Visual disturbances and blindness,733161000000116.0,2BBr,2BBr.00,373041000000101.0,733161000000116.0,O243,Impaired vision due to diabetic retinopathy
+Visual disturbances and blindness,733161000000116.0,2BBr,2BBr.00,373041000000101.0,733161000000116.0,H549,Impaired vision due to diabetic retinopathy
+Visual disturbances and blindness,733161000000116.0,2BBr,2BBr.00,373041000000101.0,733161000000116.0,H544,Impaired vision due to diabetic retinopathy
+Visual disturbances and blindness,733161000000116.0,2BBr,2BBr.00,373041000000101.0,733161000000116.0,H543,Impaired vision due to diabetic retinopathy
+Visual disturbances and blindness,733161000000116.0,2BBr,2BBr.00,373041000000101.0,733161000000116.0,O244,Impaired vision due to diabetic retinopathy
+Visual disturbances and blindness,733161000000116.0,2BBr,2BBr.00,373041000000101.0,733161000000116.0,H546,Impaired vision due to diabetic retinopathy
+Visual disturbances and blindness,733161000000116.0,2BBr,2BBr.00,373041000000101.0,733161000000116.0,E103,Impaired vision due to diabetic retinopathy
+Visual disturbances and blindness,733161000000116.0,2BBr,2BBr.00,373041000000101.0,733161000000116.0,O249,Impaired vision due to diabetic retinopathy
+Visual disturbances and blindness,733161000000116.0,2BBr,2BBr.00,373041000000101.0,733161000000116.0,H540,Impaired vision due to diabetic retinopathy
+Visual disturbances and blindness,733161000000116.0,2BBr,2BBr.00,373041000000101.0,733161000000116.0,E133,Impaired vision due to diabetic retinopathy
+Visual disturbances and blindness,493267010.0,F4041,F404100,4229009.0,493267010.0,H448,Blind hypotensive eye
+Visual disturbances and blindness,1529013.0,F4042,F404200,264008.0,1529013.0,H445,Blind hypertensive eye
+Visual disturbances and blindness,515791000006112.0,F49,F49..00,397540003.0,3011990016.0,H549,Blindness and low vision
+Visual disturbances and blindness,515791000006112.0,F49,F49..00,397540003.0,3011990016.0,H545,Blindness and low vision
+Visual disturbances and blindness,515791000006112.0,F49,F49..00,397540003.0,3011990016.0,H543,Blindness and low vision
+Visual disturbances and blindness,515791000006112.0,F49,F49..00,397540003.0,3011990016.0,H542,Blindness and low vision
+Visual disturbances and blindness,515791000006112.0,F49,F49..00,397540003.0,3011990016.0,H544,Blindness and low vision
+Visual disturbances and blindness,515791000006112.0,F49,F49..00,397540003.0,3011990016.0,H540,Blindness and low vision
+Visual disturbances and blindness,515791000006112.0,F49,F49..00,397540003.0,3011990016.0,H546,Blindness and low vision
+Visual disturbances and blindness,515791000006112.0,F49,F49..00,397540003.0,3011990016.0,H541,Blindness and low vision
+Visual disturbances and blindness,14191011.0,F49-1,F49..11,397540003.0,3011990016.0,H549,Impaired vision
+Visual disturbances and blindness,14191011.0,F49-1,F49..11,397540003.0,3011990016.0,H545,Impaired vision
+Visual disturbances and blindness,14191011.0,F49-1,F49..11,397540003.0,3011990016.0,H543,Impaired vision
+Visual disturbances and blindness,14191011.0,F49-1,F49..11,397540003.0,3011990016.0,H542,Impaired vision
+Visual disturbances and blindness,14191011.0,F49-1,F49..11,397540003.0,3011990016.0,H544,Impaired vision
+Visual disturbances and blindness,14191011.0,F49-1,F49..11,397540003.0,3011990016.0,H540,Impaired vision
+Visual disturbances and blindness,14191011.0,F49-1,F49..11,397540003.0,3011990016.0,H546,Impaired vision
+Visual disturbances and blindness,14191011.0,F49-1,F49..11,397540003.0,3011990016.0,H541,Impaired vision
+Visual disturbances and blindness,2164158012.0,F49-3,F49..13,7973008.0,2164158012.0,H540,Partial sight
+Visual disturbances and blindness,2164158012.0,F49-3,F49..13,7973008.0,2164158012.0,H541,Partial sight
+Visual disturbances and blindness,2164158012.0,F49-3,F49..13,7973008.0,2164158012.0,H544,Partial sight
+Visual disturbances and blindness,2164158012.0,F49-3,F49..13,7973008.0,2164158012.0,H542,Partial sight
+Visual disturbances and blindness,2164158012.0,F49-3,F49..13,7973008.0,2164158012.0,H549,Partial sight
+Visual disturbances and blindness,2164158012.0,F49-3,F49..13,7973008.0,2164158012.0,H546,Partial sight
+Visual disturbances and blindness,2164158012.0,F49-3,F49..13,7973008.0,2164158012.0,H543,Partial sight
+Visual disturbances and blindness,2164158012.0,F49-3,F49..13,7973008.0,2164158012.0,H545,Partial sight
+Visual disturbances and blindness,2164155010.0,F49-4,F49..14,397540003.0,3011990016.0,H549,Sight impaired
+Visual disturbances and blindness,2164155010.0,F49-4,F49..14,397540003.0,3011990016.0,H545,Sight impaired
+Visual disturbances and blindness,2164155010.0,F49-4,F49..14,397540003.0,3011990016.0,H543,Sight impaired
+Visual disturbances and blindness,2164155010.0,F49-4,F49..14,397540003.0,3011990016.0,H542,Sight impaired
+Visual disturbances and blindness,2164155010.0,F49-4,F49..14,397540003.0,3011990016.0,H544,Sight impaired
+Visual disturbances and blindness,2164155010.0,F49-4,F49..14,397540003.0,3011990016.0,H540,Sight impaired
+Visual disturbances and blindness,2164155010.0,F49-4,F49..14,397540003.0,3011990016.0,H546,Sight impaired
+Visual disturbances and blindness,2164155010.0,F49-4,F49..14,397540003.0,3011990016.0,H541,Sight impaired
+Visual disturbances and blindness,515811000006111.0,F490,F490.00,193699007.0,298251016.0,H540,"Blindness, both eyes"
+Visual disturbances and blindness,298252011.0,F4900,F490000,193699007.0,298251016.0,H540,Unspecified blindness both eyes
+Visual disturbances and blindness,2619503012.0,F4901,F490100,193699007.0,2619503012.0,H540,Both eyes total visual impairment
+Visual disturbances and blindness,510281000006111.0,F4902,F490200,193699007.0,298251016.0,H540,"Better eye: near total VI, Lesser eye: unspecified"
+Visual disturbances and blindness,510261000006118.0,F4904,F490400,193704004.0,298256014.0,H540,"Better eye: near total VI, Lesser eye: near total VI"
+Visual disturbances and blindness,510311000006113.0,F4906,F490600,13734003.0,23430013.0,H540,"Better eye: profound VI, Lesser eye: total VI"
+Visual disturbances and blindness,456798010.0,F4909,F490900,193709009.0,3670145014.0,H540,"Acquired blindness, both eyes"
+Visual disturbances and blindness,298262016.0,F490z,F490z00,193699007.0,298251016.0,H540,Blindness both eyes NOS
+Visual disturbances and blindness,510181000006115.0,F491,F491.00,193711000.0,298263014.0,H541,"Better eye: low vision, Lesser eye: profound VI"
+Visual disturbances and blindness,298264015.0,F4910,F491000,193712007.0,298264015.0,H544,"One eye blind, one eye low vision"
+Visual disturbances and blindness,510331000006119.0,F4911,F491100,193711000.0,298263014.0,H541,"Better eye: severe VI, Lesser eye: blind, unspecified"
+Visual disturbances and blindness,510351000006114.0,F4913,F491300,1909000.0,4295011.0,H541,"Better eye: severe VI, Lesser eye: near total VI"
+Visual disturbances and blindness,510361000006111.0,F4914,F491400,193716005.0,298271013.0,H541,"Better eye: severe VI, Lesser eye: profound VI"
+Visual disturbances and blindness,510191000006117.0,F4915,F491500,193711000.0,298263014.0,H541,"Better eye: moderate VI, Lesser eye: blind, unspecified"
+Visual disturbances and blindness,510221000006112.0,F4917,F491700,193719003.0,298274017.0,H541,"Better eye: moderate VI, Lesser eye: near total VI"
+Visual disturbances and blindness,298276015.0,F491z,F491z00,193711000.0,298263014.0,H541,"One eye blind, one eye low vision NOS"
+Visual disturbances and blindness,298277012.0,F492,F492.00,193722001.0,298277012.0,H542,"Low vision, both eyes"
+Visual disturbances and blindness,298278019.0,F4920,F492000,193722001.0,298277012.0,H542,"Low vision, both eyes unspecified"
+Visual disturbances and blindness,510371000006116.0,F4922,F492200,193725004.0,298280013.0,H542,"Better eye: severe VI, Lesser eye: severe VI"
+Visual disturbances and blindness,510201000006119.0,F4923,F492300,193722001.0,298277012.0,H542,"Better eye: moderate VI, Lesser eye: low vision unspecified"
+Visual disturbances and blindness,510241000006117.0,F4924,F492400,193727007.0,298282017.0,H542,"Better eye: moderate VI, Lesser eye: severe VI"
+Visual disturbances and blindness,510211000006116.0,F4925,F492500,193728002.0,298283010.0,H542,"Better eye: moderate VI, Lesser eye: moderate VI"
+Visual disturbances and blindness,298284016.0,F492z,F492z00,193722001.0,298277012.0,H542,"Low vision, both eyes NOS"
+Visual disturbances and blindness,298286019.0,F494,F494.00,193731001.0,298286019.0,H540,Legal blindness USA
+Visual disturbances and blindness,298287011.0,F495,F495.00,193732008.0,298287011.0,H544,"Profound impairment, one eye"
+Visual disturbances and blindness,298288018.0,F4950,F495000,22950006.0,38553019.0,H541,"Blindness, one eye, unspecified"
+Visual disturbances and blindness,298288018.0,F4950,F495000,22950006.0,38553019.0,H544,"Blindness, one eye, unspecified"
+Visual disturbances and blindness,298289014.0,F4951,F495100,193732008.0,298287011.0,H544,"Lesser eye: total visual impairment, Better eye: unspecified"
+Visual disturbances and blindness,747421000006119.0,F4952,F495200,193735005.0,298290017.0,H544,"Lesser eye: total VI, Better eye: near normal vision"
+Visual disturbances and blindness,747431000006116.0,F4953,F495300,193736006.0,298291018.0,H544,"Lesser eye: total VI, Better eye: normal vision"
+Visual disturbances and blindness,747351000006116.0,F4954,F495400,193732008.0,298287011.0,H544,"Lesser eye: near total VI, Better eye: unspecified"
+Visual disturbances and blindness,747341000006118.0,F4955,F495500,193738007.0,298293015.0,H544,"Lesser eye: near total VI, Better eye: near normal vision"
+Visual disturbances and blindness,734951000006114.0,F4956,F495600,111519001.0,2618966018.0,H544,"Lesser eye: near total VI, Better eye: normal vision"
+Visual disturbances and blindness,747361000006119.0,F4958,F495800,193741003.0,298296011.0,H544,"Lesser eye: profound VI, Better eye: near normal vision"
+Visual disturbances and blindness,456799019.0,F495A,F495A00,22950006.0,38553019.0,H541,"Acquired blindness, one eye"
+Visual disturbances and blindness,456799019.0,F495A,F495A00,22950006.0,38553019.0,H544,"Acquired blindness, one eye"
+Visual disturbances and blindness,298299016.0,F495z,F495z00,193732008.0,298287011.0,H544,Profound impairment one eye NOS
+Visual disturbances and blindness,298300012.0,F496,F496.00,193745007.0,298300012.0,H546,"Low vision, one eye"
+Visual disturbances and blindness,298301011.0,F4960,F496000,193745007.0,298300012.0,H546,"Low vision, one eye, unspecified"
+Visual disturbances and blindness,747411000006110.0,F4961,F496100,193745007.0,298300012.0,H546,"Lesser eye: severe VI, Better eye: unspecified"
+Visual disturbances and blindness,747391000006110.0,F4962,F496200,193748009.0,298303014.0,H545,"Lesser eye: severe VI, Better eye: near normal vision"
+Visual disturbances and blindness,747401000006112.0,F4963,F496300,193749001.0,298304015.0,H545,"Lesser eye: severe VI, Better eye: normal vision"
+Visual disturbances and blindness,747331000006111.0,F4964,F496400,193745007.0,298300012.0,H546,"Lesser eye: moderate VI, Better eye: unspecified"
+Visual disturbances and blindness,747311000006117.0,F4965,F496500,193751002.0,298306018.0,H546,"Lesser eye: moderate VI, Better eye: near normal vision"
+Visual disturbances and blindness,747321000006113.0,F4966,F496600,16169003.0,27365013.0,H546,"Lesser eye: moderate VI, Better eye: normal vision"
+Visual disturbances and blindness,298308017.0,F496z,F496z00,193745007.0,298300012.0,H546,"Low vision, one eye NOS"
+Visual disturbances and blindness,2168181000000116.0,F497,F497.00,813871000000108.0,2168181000000116.0,H541,"Severe visual impairment, binocular"
+Visual disturbances and blindness,2168201000000116.8,F498,F498.00,813891000000107.0,2168201000000116.8,H542,"Moderate visual impairment, binocular"
+Visual disturbances and blindness,1816031000006118.0,F499,F499.00,815051000000106.0,2124351000000112.0,H543,"Mild or no visual impairment, binocular"
+Visual disturbances and blindness,1816041000006111.2,F49A,F49A.00,22950006.0,38553019.0,H541,"Blindness, monocular"
+Visual disturbances and blindness,1816041000006111.2,F49A,F49A.00,22950006.0,38553019.0,H544,"Blindness, monocular"
+Visual disturbances and blindness,2168191000000119.2,F49B,F49B.00,813881000000105.0,2168191000000119.2,H545,"Severe visual impairment, monocular"
+Visual disturbances and blindness,2168211000000115.2,F49C,F49C.00,813901000000108.0,2168211000000115.2,H546,"Moderate visual impairment, monocular"
+Visual disturbances and blindness,399455016.0,F49z,F49z.00,240311000000103.0,390341000000115.0,H531,Visual loss NOS
+Visual disturbances and blindness,298313018.0,F49z0,F49z000,193756007.0,298313018.0,H531,Charles Bonnet syndrome
+Visual disturbances and blindness,298313018.0,F49z0,F49z000,193756007.0,298313018.0,H549,Charles Bonnet syndrome
+Visual disturbances and blindness,298313018.0,F49z0,F49z000,193756007.0,298313018.0,H541,Charles Bonnet syndrome
+Visual disturbances and blindness,298313018.0,F49z0,F49z000,193756007.0,298313018.0,H540,Charles Bonnet syndrome
+Visual disturbances and blindness,298313018.0,F49z0,F49z000,193756007.0,298313018.0,H544,Charles Bonnet syndrome
+Visual disturbances and blindness,298313018.0,F49z0,F49z000,193756007.0,298313018.0,H542,Charles Bonnet syndrome
+Visual disturbances and blindness,298313018.0,F49z0,F49z000,193756007.0,298313018.0,H546,Charles Bonnet syndrome
+Visual disturbances and blindness,298313018.0,F49z0,F49z000,193756007.0,298313018.0,H545,Charles Bonnet syndrome
+Visual disturbances and blindness,298313018.0,F49z0,F49z000,193756007.0,298313018.0,H543,Charles Bonnet syndrome
+Visual disturbances and blindness,113901010.0,F4H73,F4H7300,68574006.0,113901010.0,H476,Cortical blindness
+Visual disturbances and blindness,2773231012.0,Fy1,Fy1..00,433147009.0,2773231012.0,H541,Combined visual and hearing impairment
+Visual disturbances and blindness,2773231012.0,Fy1,Fy1..00,433147009.0,2773231012.0,H543,Combined visual and hearing impairment
+Visual disturbances and blindness,2773231012.0,Fy1,Fy1..00,433147009.0,2773231012.0,H900,Combined visual and hearing impairment
+Visual disturbances and blindness,2773231012.0,Fy1,Fy1..00,433147009.0,2773231012.0,H911,Combined visual and hearing impairment
+Visual disturbances and blindness,2773231012.0,Fy1,Fy1..00,433147009.0,2773231012.0,H549,Combined visual and hearing impairment
+Visual disturbances and blindness,2773231012.0,Fy1,Fy1..00,433147009.0,2773231012.0,H540,Combined visual and hearing impairment
+Visual disturbances and blindness,2773231012.0,Fy1,Fy1..00,433147009.0,2773231012.0,H913,Combined visual and hearing impairment
+Visual disturbances and blindness,2773231012.0,Fy1,Fy1..00,433147009.0,2773231012.0,H542,Combined visual and hearing impairment
+Visual disturbances and blindness,2773231012.0,Fy1,Fy1..00,433147009.0,2773231012.0,H544,Combined visual and hearing impairment
+Visual disturbances and blindness,2773231012.0,Fy1,Fy1..00,433147009.0,2773231012.0,H901,Combined visual and hearing impairment
+Visual disturbances and blindness,2773231012.0,Fy1,Fy1..00,433147009.0,2773231012.0,H903,Combined visual and hearing impairment
+Visual disturbances and blindness,2773231012.0,Fy1,Fy1..00,433147009.0,2773231012.0,H904,Combined visual and hearing impairment
+Visual disturbances and blindness,2773231012.0,Fy1,Fy1..00,433147009.0,2773231012.0,H906,Combined visual and hearing impairment
+Visual disturbances and blindness,2773231012.0,Fy1,Fy1..00,433147009.0,2773231012.0,H908,Combined visual and hearing impairment
+Visual disturbances and blindness,2773231012.0,Fy1,Fy1..00,433147009.0,2773231012.0,H910,Combined visual and hearing impairment
+Visual disturbances and blindness,2773231012.0,Fy1,Fy1..00,433147009.0,2773231012.0,H546,Combined visual and hearing impairment
+Visual disturbances and blindness,2773231012.0,Fy1,Fy1..00,433147009.0,2773231012.0,H918,Combined visual and hearing impairment
+Visual disturbances and blindness,2773231012.0,Fy1,Fy1..00,433147009.0,2773231012.0,H912,Combined visual and hearing impairment
+Visual disturbances and blindness,2773231012.0,Fy1,Fy1..00,433147009.0,2773231012.0,H919,Combined visual and hearing impairment
+Visual disturbances and blindness,2773231012.0,Fy1,Fy1..00,433147009.0,2773231012.0,H905,Combined visual and hearing impairment
+Visual disturbances and blindness,2773231012.0,Fy1,Fy1..00,433147009.0,2773231012.0,H902,Combined visual and hearing impairment
+Visual disturbances and blindness,2773231012.0,Fy1,Fy1..00,433147009.0,2773231012.0,H907,Combined visual and hearing impairment
+Visual disturbances and blindness,2773231012.0,Fy1,Fy1..00,433147009.0,2773231012.0,H545,Combined visual and hearing impairment
+Visual disturbances and blindness,515781000006114.0,SJ0z-1,SJ0z.11,212141007.0,323622018.0,S040,Blindness - traumatic - NOS
+Visual disturbances and blindness,460633016.0,ZV410,ZV41000,397540003.0,1777162017.0,H549,[V]Problems with sight
+Visual disturbances and blindness,460633016.0,ZV410,ZV41000,397540003.0,1777162017.0,H545,[V]Problems with sight
+Visual disturbances and blindness,460633016.0,ZV410,ZV41000,397540003.0,1777162017.0,H543,[V]Problems with sight
+Visual disturbances and blindness,460633016.0,ZV410,ZV41000,397540003.0,1777162017.0,H542,[V]Problems with sight
+Visual disturbances and blindness,460633016.0,ZV410,ZV41000,397540003.0,1777162017.0,H544,[V]Problems with sight
+Visual disturbances and blindness,460633016.0,ZV410,ZV41000,397540003.0,1777162017.0,H540,[V]Problems with sight
+Visual disturbances and blindness,460633016.0,ZV410,ZV41000,397540003.0,1777162017.0,H546,[V]Problems with sight
+Visual disturbances and blindness,460633016.0,ZV410,ZV41000,397540003.0,1777162017.0,H541,[V]Problems with sight

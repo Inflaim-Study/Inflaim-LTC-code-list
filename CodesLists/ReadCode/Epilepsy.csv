@@ -1,0 +1,100 @@
+Condition,OriginalReadCode,CleansedReadCode,Term
+Epilepsy,F2510-99,F251099,Grand mal epilepsy
+Epilepsy,F2500-99,F250099,Petit mal epilepsy
+Epilepsy,^ESCTPE819168,,Petit-mal epilepsy
+Epilepsy,SC200-99,SC20099,Post traumatic epilepsy
+Epilepsy,^ESCT1177804,,Dravet Syndrome
+Epilepsy,^ESCTGE476950,,Generalised nonconvulsive epilepsy
+Epilepsy,^ESCT1192615,,Infantile spasms
+Epilepsy,^ESCTPE261210,,Petit mal status
+Epilepsy,^ESCTSA295039,,Salaam attacks
+Epilepsy,F132z-1,F132z11,Unverricht - Lundborg disease
+Epilepsy,1B1W,1B1W.00,Transient epileptic amnesia
+Epilepsy,1O30,1O30.00,Epilepsy confirmed
+Epilepsy,667B,667B.00,Nocturnal epilepsy
+Epilepsy,Eu052-2,Eu05212,[X]Schizophrenia-like psychosis in epilepsy
+Epilepsy,Eu05y-1,Eu05y11,[X]Epileptic psychosis NOS
+Epilepsy,Eu060-3,Eu06013,[X]Limbic epilepsy personality
+Epilepsy,Eu803,Eu80300,[X]Acquired aphasia with epilepsy [Landau - Kleffner]
+Epilepsy,F1321,F132100,Progressive myoclonic epilepsy
+Epilepsy,F1321-1,F132111,Unverricht - Lundborg disease
+Epilepsy,F1322,F132200,Myoclonic encephalopathy
+Epilepsy,F1422,F142200,Dyssynergia cerebellaris myoclonica
+Epilepsy,F25,F25..00,Epilepsy
+Epilepsy,F250,F250.00,Generalised nonconvulsive epilepsy
+Epilepsy,F2500,F250000,Petit mal (minor) epilepsy
+Epilepsy,F2500-1,F250011,Epileptic absences
+Epilepsy,F2501,F250100,Pykno-epilepsy
+Epilepsy,F2502,F250200,Epileptic seizures - atonic
+Epilepsy,F2503,F250300,Epileptic seizures - akinetic
+Epilepsy,F2504,F250400,Juvenile absence epilepsy
+Epilepsy,F2505,F250500,Lennox-Gastaut syndrome
+Epilepsy,F250y,F250y00,Other specified generalised nonconvulsive epilepsy
+Epilepsy,F250z,F250z00,Generalised nonconvulsive epilepsy NOS
+Epilepsy,F251,F251.00,Generalised convulsive epilepsy
+Epilepsy,F2510,F251000,Grand mal (major) epilepsy
+Epilepsy,F2510-1,F251011,Tonic-clonic epilepsy
+Epilepsy,F2511,F251100,Neonatal myoclonic epilepsy
+Epilepsy,F2511-1,F251111,Otohara syndrome
+Epilepsy,F2512,F251200,Epileptic seizures - clonic
+Epilepsy,F2513,F251300,Epileptic seizures - myoclonic
+Epilepsy,F2514,F251400,Epileptic seizures - tonic
+Epilepsy,F2515,F251500,Tonic-clonic epilepsy
+Epilepsy,F251y,F251y00,Other specified generalised convulsive epilepsy
+Epilepsy,F251z,F251z00,Generalised convulsive epilepsy NOS
+Epilepsy,F252,F252.00,Petit mal status
+Epilepsy,F253,F253.00,Grand mal status
+Epilepsy,F253-1,F253.11,Status epilepticus
+Epilepsy,F254,F254.00,Partial epilepsy with impairment of consciousness
+Epilepsy,F2540,F254000,Temporal lobe epilepsy
+Epilepsy,F2541,F254100,Psychomotor epilepsy
+Epilepsy,F2542,F254200,Psychosensory epilepsy
+Epilepsy,F2543,F254300,Limbic system epilepsy
+Epilepsy,F2544,F254400,Epileptic automatism
+Epilepsy,F2545,F254500,Complex partial epileptic seizure
+Epilepsy,F254z,F254z00,Partial epilepsy with impairment of consciousness NOS
+Epilepsy,F255,F255.00,Partial epilepsy without impairment of consciousness
+Epilepsy,F2550,F255000,"Jacksonian, focal or motor epilepsy"
+Epilepsy,F2550-1,F255011,Focal epilepsy
+Epilepsy,F2550-2,F255012,Motor epilepsy
+Epilepsy,F2551,F255100,Sensory induced epilepsy
+Epilepsy,F2552,F255200,Somatosensory epilepsy
+Epilepsy,F2553,F255300,Visceral reflex epilepsy
+Epilepsy,F2553-1,F255311,Partial epilepsy with autonomic symptoms
+Epilepsy,F2554,F255400,Visual reflex epilepsy
+Epilepsy,F2555,F255500,Unilateral epilepsy
+Epilepsy,F2556,F255600,Simple partial epileptic seizure
+Epilepsy,F255y,F255y00,Partial epilepsy without impairment of consciousness OS
+Epilepsy,F255z,F255z00,Partial epilepsy without impairment of consciousness NOS
+Epilepsy,F256,F256.00,Infantile spasms
+Epilepsy,F256-1,F256.11,Lightning spasms
+Epilepsy,F256-2,F256.12,West syndrome
+Epilepsy,F2560,F256000,Hypsarrhythmia
+Epilepsy,F2561,F256100,Salaam attacks
+Epilepsy,F256z,F256z00,Infantile spasms NOS
+Epilepsy,F257,F257.00,Kojevnikov's epilepsy
+Epilepsy,F259,F259.00,Early infant epileptic encephalopathy wth suppression bursts
+Epilepsy,F259-1,F259.11,Ohtahara syndrome
+Epilepsy,F25A,F25A.00,Juvenile myoclonic epilepsy
+Epilepsy,F25B,F25B.00,Alcohol-induced epilepsy
+Epilepsy,F25C,F25C.00,Drug-induced epilepsy
+Epilepsy,F25D,F25D.00,Menstrual epilepsy
+Epilepsy,F25E,F25E.00,Stress-induced epilepsy
+Epilepsy,F25F,F25F.00,Photosensitive epilepsy
+Epilepsy,F25G,F25G.00,Severe myoclonic epilepsy in infancy
+Epilepsy,F25G-1,F25G.11,Dravet syndrome
+Epilepsy,F25X,F25X.00,"Status epilepticus, unspecified"
+Epilepsy,F25y,F25y.00,Other forms of epilepsy
+Epilepsy,F25y0,F25y000,Cursive (running) epilepsy
+Epilepsy,F25y1,F25y100,Gelastic epilepsy
+Epilepsy,F25y2,F25y200,Locl-rlt(foc)(part)idiop epilep&epilptic syn seiz locl onset
+Epilepsy,F25y3,F25y300,Complex partial status epilepticus
+Epilepsy,F25y4,F25y400,Benign Rolandic epilepsy
+Epilepsy,F25y5,F25y500,Panayiotopoulos syndrome
+Epilepsy,F25yz,F25yz00,Other forms of epilepsy NOS
+Epilepsy,F25z,F25z.00,Epilepsy NOS
+Epilepsy,F25z-1,F25z.11,Fit (in known epileptic) NOS
+Epilepsy,Fyu50,Fyu5000,[X]Other generalized epilepsy and epileptic syndromes
+Epilepsy,Fyu51,Fyu5100,[X]Other epilepsy
+Epilepsy,Fyu52,Fyu5200,[X]Other status epilepticus
+Epilepsy,Fyu59,Fyu5900,"[X]Status epilepticus, unspecified"

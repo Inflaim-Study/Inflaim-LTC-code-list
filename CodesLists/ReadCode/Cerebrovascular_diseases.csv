@@ -1,0 +1,113 @@
+Condition,OriginalReadCode,CleansedReadCode,Term
+Cerebrovascular diseases,434,434..00,Blood cross-matching
+Cerebrovascular diseases,433,433..00,Minor blood groups
+Cerebrovascular diseases,431,431..00,ABO blood grouping
+Cerebrovascular diseases,G61-2,G61..12,Stroke due to intracerebral haemorrhage
+Cerebrovascular diseases,G610,G610.00,Cortical haemorrhage
+Cerebrovascular diseases,G6410,G641000,Cerebral infarction due to embolism of cerebral arteries
+Cerebrovascular diseases,G62,G62..00,Other and unspecified intracranial haemorrhage
+Cerebrovascular diseases,G63,G63..00,Precerebral arterial occlusion
+Cerebrovascular diseases,G665,G665.00,Pure motor lacunar syndrome
+Cerebrovascular diseases,G3111,G311100,Unstable angina
+Cerebrovascular diseases,G305,G305.00,Lateral myocardial infarction NOS
+Cerebrovascular diseases,G61,G61..00,Intracerebral haemorrhage
+Cerebrovascular diseases,G617,G617.00,"Intracerebral haemorrhage, intraventricular"
+Cerebrovascular diseases,G61X,G61X.00,"Intracerebral haemorrhage in hemisphere, unspecified"
+Cerebrovascular diseases,G30-6,G30..16,Thrombosis - coronary
+Cerebrovascular diseases,G304,G304.00,Posterior myocardial infarction NOS
+Cerebrovascular diseases,323Z,323Z.00,ECG: myocardial infarct NOS
+Cerebrovascular diseases,G353,G353.00,Subsequent myocardial infarction of other sites
+Cerebrovascular diseases,G605,G605.00,Subarachnoid haemorrhage from basilar artery
+Cerebrovascular diseases,G35,G35..00,Subsequent myocardial infarction
+Cerebrovascular diseases,G350,G350.00,Subsequent myocardial infarction of anterior wall
+Cerebrovascular diseases,G600,G600.00,Ruptured berry aneurysm
+Cerebrovascular diseases,323,323..00,ECG: myocardial infarction
+Cerebrovascular diseases,G667,G667.00,Left sided CVA
+Cerebrovascular diseases,G6400,G640000,Cerebral infarction due to thrombosis of cerebral arteries
+Cerebrovascular diseases,G66-3,G66..13,CVA - Cerebrovascular accident unspecified
+Cerebrovascular diseases,G632,G632.00,Vertebral artery occlusion
+Cerebrovascular diseases,G575-1,G575.11,Cardio-respiratory arrest
+Cerebrovascular diseases,G384,G384.00,Postoperative subendocardial myocardial infarction
+Cerebrovascular diseases,G362,G362.00,Ventric septal defect/curr comp fol acut myocardal infarctn
+Cerebrovascular diseases,G360,G360.00,Haemopericardium/current comp folow acut myocard infarct
+Cerebrovascular diseases,G614,G614.00,Pontine haemorrhage
+Cerebrovascular diseases,G575,G575.00,Cardiac arrest
+Cerebrovascular diseases,G308,G308.00,Inferior myocardial infarction NOS
+Cerebrovascular diseases,G30-7,G30..17,Silent myocardial infarction
+Cerebrovascular diseases,G615,G615.00,Bulbar haemorrhage
+Cerebrovascular diseases,G381,G381.00,Postoperative transmural myocardial infarction inferior wall
+Cerebrovascular diseases,G30-2,G30..12,Coronary thrombosis
+Cerebrovascular diseases,G61-1,G61..11,CVA - cerebrovascular accid due to intracerebral haemorrhage
+Cerebrovascular diseases,G661,G661.00,Anterior cerebral artery syndrome
+Cerebrovascular diseases,G6X,G6X..00,Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+Cerebrovascular diseases,G606,G606.00,Subarachnoid haemorrhage from vertebral artery
+Cerebrovascular diseases,G5750,G575000,Cardiac arrest with successful resuscitation
+Cerebrovascular diseases,G5740-1,G574011,Cardiac arrest-ventricular fibrillation
+Cerebrovascular diseases,G601,G601.00,Subarachnoid haemorrhage from carotid siphon and bifurcation
+Cerebrovascular diseases,G35X,G35X.00,Subsequent myocardial infarction of unspecified site
+Cerebrovascular diseases,G603,G603.00,Subarachnoid haemorrhage from anterior communicating artery
+Cerebrovascular diseases,G61X1,G61X100,"Right sided intracerebral haemorrhage, unspecified"
+Cerebrovascular diseases,G604,G604.00,Subarachnoid haemorrhage from posterior communicating artery
+Cerebrovascular diseases,G60,G60..00,Subarachnoid haemorrhage
+Cerebrovascular diseases,G602,G602.00,Subarachnoid haemorrhage from middle cerebral artery
+Cerebrovascular diseases,G575-2,G575.12,Asystole
+Cerebrovascular diseases,G61X0,G61X000,"Left sided intracerebral haemorrhage, unspecified"
+Cerebrovascular diseases,G668,G668.00,Right sided CVA
+Cerebrovascular diseases,G3110,G311000,Myocardial infarction aborted
+Cerebrovascular diseases,G311-3,G311.13,Unstable angina
+Cerebrovascular diseases,G380,G380.00,Postoperative transmural myocardial infarction anterior wall
+Cerebrovascular diseases,G612,G612.00,Basal nucleus haemorrhage
+Cerebrovascular diseases,G30-3,G30..13,Cardiac rupture following myocardial infarction (MI)
+Cerebrovascular diseases,G38,G38..00,Postoperative myocardial infarction
+Cerebrovascular diseases,G616,G616.00,External capsule haemorrhage
+Cerebrovascular diseases,G301,G301.00,Other specified anterior myocardial infarction
+Cerebrovascular diseases,G620,G620.00,Extradural haemorrhage - nontraumatic
+Cerebrovascular diseases,G662,G662.00,Posterior cerebral artery syndrome
+Cerebrovascular diseases,G306,G306.00,True posterior myocardial infarction
+Cerebrovascular diseases,G613,G613.00,Cerebellar haemorrhage
+Cerebrovascular diseases,G64-3,G64..13,Stroke due to cerebral arterial occlusion
+Cerebrovascular diseases,G60X,G60X.00,"Subarachnoid haemorrh from intracranial artery, unspecif"
+Cerebrovascular diseases,G663,G663.00,Brain stem stroke syndrome
+Cerebrovascular diseases,G618,G618.00,"Intracerebral haemorrhage, multiple localized"
+Cerebrovascular diseases,G63-1,G63..11,Infarction - precerebral
+Cerebrovascular diseases,G3110-1,G311011,MI - Myocardial infarction aborted
+Cerebrovascular diseases,G666,G666.00,Pure sensory lacunar syndrome
+Cerebrovascular diseases,G6760,G676000,"Cereb infarct due cerebral venous thrombosis, nonpyogenic"
+Cerebrovascular diseases,G641,G641.00,Cerebral embolism
+Cerebrovascular diseases,G66-1,G66..11,CVA unspecified
+Cerebrovascular diseases,G351,G351.00,Subsequent myocardial infarction of inferior wall
+Cerebrovascular diseases,G641-1,G641.11,Cerebral embolus
+Cerebrovascular diseases,G611,G611.00,Internal capsule haemorrhage
+Cerebrovascular diseases,G664,G664.00,Cerebellar stroke syndrome
+Cerebrovascular diseases,G66,G66..00,Stroke and cerebrovascular accident unspecified
+Cerebrovascular diseases,G621,G621.00,Subdural haemorrhage - nontraumatic
+Cerebrovascular diseases,G640,G640.00,Cerebral thrombosis
+Cerebrovascular diseases,G671,G671.00,Generalised ischaemic cerebrovascular disease NOS
+Cerebrovascular diseases,G6W,G6W..00,Cereb infarct due unsp occlus/stenos precerebr arteries
+Cerebrovascular diseases,G363,G363.00,Ruptur cardiac wall w'out haemopericard/cur comp fol ac MI
+Cerebrovascular diseases,G64-2,G64..12,Infarction - cerebral
+Cerebrovascular diseases,G66-2,G66..12,Stroke unspecified
+Cerebrovascular diseases,G64z4,G64z400,Infarction of basal ganglia
+Cerebrovascular diseases,G64z2,G64z200,Left sided cerebral infarction
+Cerebrovascular diseases,G63y0,G63y000,Cerebral infarct due to thrombosis of precerebral arteries
+Cerebrovascular diseases,G61z,G61z.00,Intracerebral haemorrhage NOS
+Cerebrovascular diseases,G38z,G38z.00,"Postoperative myocardial infarction, unspecified"
+Cerebrovascular diseases,Gyu61,Gyu6100,[X]Other subarachnoid haemorrhage
+Cerebrovascular diseases,G301z,G301z00,Anterior myocardial infarction NOS
+Cerebrovascular diseases,Gyu63,Gyu6300,[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+Cerebrovascular diseases,G64z0,G64z000,Brainstem infarction
+Cerebrovascular diseases,G575z,G575z00,"Cardiac arrest, unspecified"
+Cerebrovascular diseases,G64z,G64z.00,Cerebral infarction NOS
+Cerebrovascular diseases,G64z-1,G64z.11,Brainstem infarction NOS
+Cerebrovascular diseases,G64z-2,G64z.12,Cerebellar infarction
+Cerebrovascular diseases,G63y1,G63y100,Cerebral infarction due to embolism of precerebral arteries
+Cerebrovascular diseases,G671z,G671z00,Generalised ischaemic cerebrovascular disease NOS
+Cerebrovascular diseases,Gyu36,Gyu3600,[X]Subsequent myocardial infarction of unspecified site
+Cerebrovascular diseases,Gyu64,Gyu6400,[X]Other cerebral infarction
+Cerebrovascular diseases,Gyu6G,Gyu6G00,[X]Cereb infarct due unsp occlus/stenos precerebr arteries
+Cerebrovascular diseases,G62z,G62z.00,Intracranial haemorrhage NOS
+Cerebrovascular diseases,G60z,G60z.00,Subarachnoid haemorrhage NOS
+Cerebrovascular diseases,G64z3,G64z300,Right sided cerebral infarction
+Cerebrovascular diseases,G64z1-1,G64z111,Lateral medullary syndrome
+Cerebrovascular diseases,Gyu6F,Gyu6F00,"[X]Intracerebral haemorrhage in hemisphere, unspecified"
+Cerebrovascular diseases,Gyu62,Gyu6200,[X]Other intracerebral haemorrhage

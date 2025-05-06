@@ -1,0 +1,424 @@
+Condition,OriginalReadCode,CleansedReadCode,Term
+In situ neoplasms,^ESCTCA400690,,Carcinoma in situ of gingiva
+In situ neoplasms,^ESCTCA400777,,Carcinoma in situ of mesopharynx
+In situ neoplasms,^ESCTCA400771,,Carcinoma in situ of epipharynx
+In situ neoplasms,^ESCTFO400674,,FOM - Carcinoma in situ of floor of mouth
+In situ neoplasms,^ESCTCA400764,,Cancer in situ of mouth
+In situ neoplasms,^ESCTCA400778,,Cancer in situ of oropharynx
+In situ neoplasms,^ESCTCA400772,,Carcinoma in situ of postnasal space
+In situ neoplasms,^ESCTCA400700,,Carcinoma in situ of laryngopharynx
+In situ neoplasms,^ESCTCA400776,,Carcinoma situ of oropharynx
+In situ neoplasms,^ESCTPN400770,,PNS - carcinoma in situ of postnasal space
+In situ neoplasms,^ESCTCA400796,,Cancer in situ of pharynx
+In situ neoplasms,^ESCTCA400691,,Cancer in situ of gum
+In situ neoplasms,^ESCTCA552343,,"Carcinoma in situ of lip, oral cavity and/or pharynx"
+In situ neoplasms,^ESCT1192343,,"Carcinoma in situ of lip, oral cavity and pharynx"
+In situ neoplasms,B800z,B800z00,"Carcinoma in situ of lip, oral cavity and pharynx NOS"
+In situ neoplasms,^ESCTCA400701,,Cancer in situ of hypopharynx
+In situ neoplasms,B8001,B800100,Carcinoma in situ of tongue
+In situ neoplasms,B8000,B800000,Carcinoma in situ of lip
+In situ neoplasms,B8008,B800800,Carcinoma in situ of oropharynx
+In situ neoplasms,B8006,B800600,Carcinoma in situ of palate
+In situ neoplasms,B800-2,B800.12,Carcinoma in situ of pharynx
+In situ neoplasms,B8106,B810600,Carcinoma in situ of aryepiglottic fold
+In situ neoplasms,B800,B800.00,"Carcinoma in situ of lip, oral cavity and pharynx"
+In situ neoplasms,B800-1,B800.11,Carcinoma in situ of oral cavity
+In situ neoplasms,B8004,B800400,Carcinoma in situ of floor of mouth
+In situ neoplasms,B8007,B800700,Carcinoma in situ of nasopharynx
+In situ neoplasms,B8003,B800300,Carcinoma in situ of gums
+In situ neoplasms,^ESCTCA400609,,Carcinoma in situ of buccal mucosa
+In situ neoplasms,^ESCTCA400900,,Cancer in situ of tongue
+In situ neoplasms,^ESCTCA400612,,Carcinoma in situ of internal cheek
+In situ neoplasms,^ESCTCA400781,,Carcinoma in situ of roof of mouth
+In situ neoplasms,^ESCTCA400762,,Carcinoma in situ of mouth
+In situ neoplasms,^ESCTCA400769,,Carcinoma in situ of nasopharyngeal wall
+In situ neoplasms,B8005,B800500,Carcinoma in situ of cheek
+In situ neoplasms,B8009,B800900,Carcinoma in situ of hypopharynx
+In situ neoplasms,B8002,B800200,Carcinoma in situ of salivary glands
+In situ neoplasms,^ESCTCA400689,,Carcinoma in situ of gum
+In situ neoplasms,^ESCTCA400611,,Carcinoma in situ of cheek mucosa
+In situ neoplasms,^ESCTCA400918,,Carcinoma in situ of upper 1/3 esophagus
+In situ neoplasms,^ESCTCA400744,,Carcinoma in situ of lower 1/3 esophagus
+In situ neoplasms,^ESCTCA400915,,Carcinoma in situ of upper third oesophagus
+In situ neoplasms,^ESCTCA400742,,Carcinoma in situ of lower third of esophagus
+In situ neoplasms,^ESCTCA400916,,Carcinoma in situ of upper third of esophagus
+In situ neoplasms,^ESCTCA400657,,Carcinoma in situ of esophagus
+In situ neoplasms,^ESCTCA400914,,Carcinoma in situ of upper third esophagus
+In situ neoplasms,^ESCTCA400659,,Cancer in situ of oesophagus
+In situ neoplasms,^ESCTCA400758,,Carcinoma in situ of middle third of esophagus
+In situ neoplasms,^ESCTCA400658,,Cancer in situ of esophagus
+In situ neoplasms,B8010,B801000,Carcinoma in situ of upper 1/3 oesophagus
+In situ neoplasms,B801z,B801z00,Carcinoma in situ of oesophagus NOS
+In situ neoplasms,B8012,B801200,Carcinoma in situ of lower 1/3 oesophagus
+In situ neoplasms,B8011,B801100,Carcinoma in situ of middle 1/3 oesophagus
+In situ neoplasms,^ESCTCA400741,,Carcinoma in situ of lower third of oesophagus
+In situ neoplasms,^ESCTCA400913,,Carcinoma in situ of upper third of oesophagus
+In situ neoplasms,B801,B801.00,Carcinoma in situ of oesophagus
+In situ neoplasms,^ESCTCA400760,,Carcinoma in situ of middle 1/3 esophagus
+In situ neoplasms,^ESCTCA400757,,Carcinoma in situ of middle third of oesophagus
+In situ neoplasms,^ESCTCA400618,,Cancer in situ of cardia of stomach
+In situ neoplasms,^ESCTCA400597,,Cancer in situ of body of stomach
+In situ neoplasms,^ESCTCA400617,,Carcinoma in situ of gastric cardia
+In situ neoplasms,^ESCTCA400616,,Carcinoma in situ of cardia
+In situ neoplasms,^ESCTCA400809,,Carcinoma in situ of pylorus
+In situ neoplasms,^ESCTCA400811,,Cancer in situ of pylorus
+In situ neoplasms,B8022,B802200,Carcinoma in situ of body of stomach
+In situ neoplasms,B8020,B802000,Carcinoma in situ of cardia of stomach
+In situ neoplasms,B8021,B802100,Carcinoma in situ of fundus of stomach
+In situ neoplasms,B802z,B802z00,Carcinoma in situ of stomach NOS
+In situ neoplasms,B8023,B802300,Carcinoma in situ of pyloric antrum
+In situ neoplasms,^ESCTCA400598,,Carcinoma in situ of gastric body
+In situ neoplasms,^ESCTCA400679,,Cancer in situ fundus of stomach
+In situ neoplasms,B8024,B802400,Carcinoma in situ of pyloric canal
+In situ neoplasms,B802,B802.00,Carcinoma in situ of stomach
+In situ neoplasms,^ESCTCA475580,,Carcinoma in situ of splenic flexure
+In situ neoplasms,^ESCTCA400614,,Carcinoma in situ of cecum
+In situ neoplasms,^ESCTCA400632,,Cancer in situ of colon
+In situ neoplasms,B803,B803.00,Carcinoma in situ of colon
+In situ neoplasms,B8031,B803100,Carcinoma in situ of transverse colon
+In situ neoplasms,B803z,B803z00,Carcinoma in situ of colon NOS
+In situ neoplasms,B8035,B803500,Carcinoma in situ of appendix
+In situ neoplasms,B8036,B803600,Carcinoma in situ of ascending colon
+In situ neoplasms,B8032,B803200,Carcinoma in situ of descending colon
+In situ neoplasms,B8030,B803000,Carcinoma in situ of hepatic flexure of colon
+In situ neoplasms,B8034,B803400,Carcinoma in situ of caecum
+In situ neoplasms,B8033,B803300,Carcinoma in situ of sigmoid colon
+In situ neoplasms,B8038,B803800,High grade dysplasia of colon
+In situ neoplasms,B80-1,B80..11,Ca-in-situ of G.I. tract
+In situ neoplasms,^ESCTCA400682,,Cancer in situ of gastrointestinal tract
+In situ neoplasms,B8037,B803700,Carcinoma in situ of splenic flexure of colon
+In situ neoplasms,^ESCTCA400695,,Carcinoma in situ of hepatic flexure
+In situ neoplasms,^ESCTAU421634,,Auriculectomy
+In situ neoplasms,B8040,B804000,Carcinoma in situ of rectosigmoid junction
+In situ neoplasms,73000-98,7300098,Amputation of ear
+In situ neoplasms,73z,73z..00,Ear operations NOS
+In situ neoplasms,^ESCTAM421633,,Amputation of external ear
+In situ neoplasms,73,73...00,Ear operations
+In situ neoplasms,^ESCTCA400815,,Cancer in situ of rectum
+In situ neoplasms,B8041,B804100,Carcinoma in situ of rectum
+In situ neoplasms,^ESCTCA400573,,Cancer in situ of anal canal
+In situ neoplasms,B805,B805.00,Carcinoma in situ of anal canal
+In situ neoplasms,73002-99,7300299,Pre-auricular fistula excised
+In situ neoplasms,B806,B806.00,Carcinoma in situ of anus NOS
+In situ neoplasms,B8050,B805000,Anal intraepithelial neoplasia grade III
+In situ neoplasms,ByuF0,ByuF000,[X]Carcinoma in situ/other+unspecified parts of intestine
+In situ neoplasms,^ESCTCA400647,,Cancer in situ of duodenum
+In situ neoplasms,B8072,B807200,Carcinoma in situ of ileum
+In situ neoplasms,^ESCTCA400710,,Carcinoma in situ of intestine
+In situ neoplasms,B8073,B807300,Carcinoma in situ of Meckel's diverticulum
+In situ neoplasms,^ESCTCA400715,,Cancer in situ of jejunum
+In situ neoplasms,B8070,B807000,Carcinoma in situ of duodenum
+In situ neoplasms,B8071,B807100,Carcinoma in situ of jejunum
+In situ neoplasms,^ESCTCA400755,,Carcinoma in situ of Meckel diverticulum
+In situ neoplasms,^ESCTCA400703,,Cancer in situ of ileum
+In situ neoplasms,B804,B804.00,Carcinoma in situ of rectum and rectosigmoid junction
+In situ neoplasms,B808-1,B808.11,Carcinoma in situ of biliary system
+In situ neoplasms,B8083,B808300,Carcinoma in situ of gall bladder
+In situ neoplasms,^ESCTCA400636,,Carcinoma in situ of distal extra hepatic duct
+In situ neoplasms,^ESCTCA400590,,Carcinoma in situ of biliary tract
+In situ neoplasms,B8082,B808200,Carcinoma in situ of hepatic duct
+In situ neoplasms,B8084,B808400,Carcinoma in situ of cystic duct
+In situ neoplasms,^ESCTCA400637,,Cancer in situ of common bile duct
+In situ neoplasms,B8086,B808600,Carcinoma in situ of ampulla of Vater
+In situ neoplasms,B8081,B808100,Carcinoma in situ of intrahepatic bile ducts
+In situ neoplasms,B8080,B808000,Carcinoma in situ of liver
+In situ neoplasms,B808z,B808z00,Carcinoma in situ of liver or biliary system NOS
+In situ neoplasms,^ESCTCA400643,,Cancer in situ of cystic duct
+In situ neoplasms,B808,B808.00,Carcinoma in situ of liver and biliary system
+In situ neoplasms,^ESCTAM400571,,Ampullary carcinoma in situ
+In situ neoplasms,B8087,B808700,Carcinoma in situ of sphincter of Oddi
+In situ neoplasms,B8085,B808500,Carcinoma in situ of common bile duct
+In situ neoplasms,B807z,B807z00,Carcinoma in situ other and unspecified small intestine NOS
+In situ neoplasms,^ESCTCA400785,,Cancer in situ of pancreas
+In situ neoplasms,B80z0,B80z000,Carcinoma in situ of pancreas
+In situ neoplasms,ByuF1,ByuF100,[X]Carcinoma in situ of other specified digestive organs
+In situ neoplasms,ByuF2,ByuF200,"[X]Carcinoma in situ of digestive organ, unspecified"
+In situ neoplasms,B807,B807.00,Carcinoma in situ of other and unspecified small intestine
+In situ neoplasms,B80zz,B80zz00,Carcinoma in situ of digestive organs NOS
+In situ neoplasms,B80z,B80z.00,Carcinoma in situ of other and unspecified digestive organs
+In situ neoplasms,B80,B80..00,Carcinoma in situ of digestive organs
+In situ neoplasms,B81y-1,B81y.11,Carcinoma in situ of nasal sinuses
+In situ neoplasms,B8108-1,B810811,Carcinoma in situ of glottis
+In situ neoplasms,ByuF3,ByuF300,[X]Carcinoma in situ of other parts of respiratory system
+In situ neoplasms,B81y,B81y.00,Carcinoma in situ of other specified part respiratory system
+In situ neoplasms,B8102,B810200,Carcinoma in situ of epiglottis
+In situ neoplasms,B810,B810.00,Carcinoma in situ of larynx
+In situ neoplasms,B8100,B810000,Carcinoma in situ of thyroid cartilage
+In situ neoplasms,B8103,B810300,Carcinoma in situ of arytenoid cartilage
+In situ neoplasms,B8104,B810400,Carcinoma in situ of corniculate cartilage
+In situ neoplasms,B8105,B810500,Carcinoma in situ of cuneiform cartilage
+In situ neoplasms,B8107,B810700,Carcinoma in situ of vestibular fold
+In situ neoplasms,B8108,B810800,Carcinoma in situ of vocal fold - glottis
+In situ neoplasms,B810z,B810z00,Carcinoma in situ of larynx NOS
+In situ neoplasms,B81z,B81z.00,Carcinoma in situ of respiratory organ NOS
+In situ neoplasms,^ESCTCA400728,,Cancer in situ of larynx
+In situ neoplasms,B81,B81..00,Carcinoma in situ of respiratory system
+In situ neoplasms,B8101,B810100,Carcinoma in situ of cricoid cartilage
+In situ neoplasms,ByuF4,ByuF400,"[X]Carcinoma in situ of respiratory system, unspecified"
+In situ neoplasms,B81yz,B81yz00,Carcinoma in situ of specified parts respiratory system NOS
+In situ neoplasms,^ESCTSE400904,,Severe epithelial dysplasia of trachea
+In situ neoplasms,7301y-99,7301y99,Ext. ear lesion curetted
+In situ neoplasms,B811,B811.00,Carcinoma in situ of trachea
+In situ neoplasms,^ESCTCA475599,,Carcinoma in situ of carina
+In situ neoplasms,B8123,B812300,Carcinoma in situ of middle lobe bronchus and lung
+In situ neoplasms,B8124,B812400,Carcinoma in situ of lower lobe bronchus and lung
+In situ neoplasms,B812z,B812z00,Carcinoma in situ of bronchus or lung NOS
+In situ neoplasms,B8121,B812100,Carcinoma in situ of main bronchus
+In situ neoplasms,B812,B812.00,Carcinoma in situ of bronchus and lung
+In situ neoplasms,B8120,B812000,Carcinoma in situ of carina of bronchus
+In situ neoplasms,B8122,B812200,Carcinoma in situ of upper lobe bronchus and lung
+In situ neoplasms,^ESCTCA400661,,Carcinoma in situ of ethmoid sinus
+In situ neoplasms,B81y4,B81y400,Carcinoma in situ of eustachian tube
+In situ neoplasms,^ESCTCA400753,,Carcinoma in situ of maxillary antrum
+In situ neoplasms,B81y7,B81y700,Carcinoma in situ of ethmoidal sinus
+In situ neoplasms,B81y8,B81y800,Carcinoma in situ of frontal sinus
+In situ neoplasms,B81y9,B81y900,Carcinoma in situ of sphenoidal sinus
+In situ neoplasms,B81y5,B81y500,Carcinoma in situ of mastoid air cells
+In situ neoplasms,B81y6,B81y600,Carcinoma in situ of maxillary sinus
+In situ neoplasms,B81y1,B81y100,Carcinoma in situ of nasal cavity
+In situ neoplasms,B81y2,B81y200,Carcinoma in situ of tympanic cavity
+In situ neoplasms,B81y3,B81y300,Carcinoma in situ of tympanic antrum
+In situ neoplasms,B81y0,B81y000,Carcinoma in situ of pleura
+In situ neoplasms,^ESCTCA400881,,Carcinoma in situ of sphenoid sinus
+In situ neoplasms,ByuFF,ByuFF00,"[X]Melanoma in situ, unspecified"
+In situ neoplasms,B828W,B828W00,"Melanoma in situ, unspecified"
+In situ neoplasms,^ESCTME439672,,Melanoma in situ by body site (clinical)
+In situ neoplasms,B8280,B828000,Melanoma in situ of lip
+In situ neoplasms,ByuF6,ByuF600,[X]Melanoma in situ of other sites
+In situ neoplasms,7302z-99,7302z99,External ear plastic op. NOS
+In situ neoplasms,B8281,B828100,"Melanoma in situ of eyelid, including canthus"
+In situ neoplasms,^ESCTME416200,,Melanoma in situ of ear
+In situ neoplasms,B8282,B828200,Melanoma in situ of ear and external auricular canal
+In situ neoplasms,^ESCTOT335239,,Otoplasty of auricle
+In situ neoplasms,B828X,B828X00,Melanoma in situ of other and unspecified parts of face
+In situ neoplasms,73022,7302200,Pinnaplasty
+In situ neoplasms,73022-3,7302213,Mustarde pinnaplasty
+In situ neoplasms,73022-98,7302298,Ear auricle reconstructed
+In situ neoplasms,ByuF5,ByuF500,[X]Melanoma in situ of other and unspecified parts of face
+In situ neoplasms,7302-99,7302.99,External ear plastic operat.
+In situ neoplasms,73022-99,7302299,Otoplasty - prominent ear
+In situ neoplasms,^ESCTOT304550,,Otoplasty of external ear
+In situ neoplasms,^ESCTOT278164,,Otoplasty of prominent or protruding ear
+In situ neoplasms,73022-1,7302211,Bat ear pinnaplasty
+In situ neoplasms,^ESCTOT335243,,Otoplasty
+In situ neoplasms,B8283,B828300,Melanoma in situ of scalp and neck
+In situ neoplasms,^ESCTME464993,,Meatoplasty of ear
+In situ neoplasms,^ESCT1192514,,Melanoma in situ of scalp and neck
+In situ neoplasms,73023-99,7302399,Meatal atresia corrected - ear
+In situ neoplasms,B8287,B828700,Melanoma in situ of scalp
+In situ neoplasms,73023,7302300,Meatoplasty of external ear
+In situ neoplasms,^ESCT1177796,,Melanoma in situ of skin structure of scalp and/or neck
+In situ neoplasms,B8284,B828400,Melanoma in situ of trunk
+In situ neoplasms,B8289,B828900,Melanoma in situ of back
+In situ neoplasms,B325-99,B325.99,Melanoma - trunk
+In situ neoplasms,B8285,B828500,"Melanoma in situ of upper limb, including shoulder"
+In situ neoplasms,B8288,B828800,Melanoma in situ of back of hand
+In situ neoplasms,B8286,B828600,"Melanoma in situ of lower limb, including hip"
+In situ neoplasms,BBEG-1,BBEG.11,[M]Lentigo maligna melanoma
+In situ neoplasms,^ESCTLM591180,,LM - Lentigo maligna
+In situ neoplasms,BBEF-1,BBEF.11,[M]Lentigo maligna
+In situ neoplasms,^ESCTIS416180,,ISM - In situ melanoma of skin
+In situ neoplasms,^ESCTIN416183,,In situ melanoma of skin
+In situ neoplasms,^ESCTIS416182,,ISMM - In situ malignant melanoma of skin
+In situ neoplasms,B828,B828.00,Melanoma in situ of skin
+In situ neoplasms,^ESCTME416178,,Melanoma in situ of skin (clinical)
+In situ neoplasms,^ESCTIN416181,,In situ malignant melanoma of skin
+In situ neoplasms,^ESCTCA400843,,Carcinoma in situ of skin of face
+In situ neoplasms,^ESCTCA400855,,Cancer in situ skin of lip
+In situ neoplasms,^ESCTCA400844,,Cancer in situ of skin of face
+In situ neoplasms,B820,B820.00,Carcinoma in situ of skin of lip
+In situ neoplasms,B822z,B822z00,Carcinoma in situ skin of ear/external auricular canal NOS
+In situ neoplasms,B821,B821.00,Carcinoma in situ of skin of eyelid including canthus
+In situ neoplasms,B8221,B822100,Carcinoma in situ of skin of external auricular canal
+In situ neoplasms,B8220,B822000,Carcinoma in situ of skin of auricle
+In situ neoplasms,73031-99,7303199,Ext. ear furuncle drained
+In situ neoplasms,B822,B822.00,Carcinoma in situ skin of ear and external auricular canal
+In situ neoplasms,^ESCTCA475607,,Carcinoma in situ of skin of external auditory canal
+In situ neoplasms,B822-1,B822.11,Carcinoma in situ of ear
+In situ neoplasms,B8233,B823300,Carcinoma in situ of skin of cheek
+In situ neoplasms,B8234,B823400,Carcinoma in situ of skin of nose
+In situ neoplasms,B8235,B823500,Carcinoma in situ of skin of temple
+In situ neoplasms,B8236,B823600,Carcinoma in situ of skin of jaw
+In situ neoplasms,B8230,B823000,Carcinoma in situ of skin of forehead skin
+In situ neoplasms,^ESCTCA400848,,Carcinoma in situ of skin of forehead
+In situ neoplasms,^ESCT1187850,,Carcinoma in situ of skin of head and neck
+In situ neoplasms,^ESCTCA400858,,Cancer in situ skin of neck
+In situ neoplasms,B8241,B824100,Carcinoma in situ of skin of neck
+In situ neoplasms,B824z,B824z00,Carcinoma in situ of scalp or skin of neck NOS
+In situ neoplasms,B8240,B824000,Carcinoma in situ of scalp
+In situ neoplasms,B824,B824.00,Carcinoma in situ of scalp and skin of neck
+In situ neoplasms,B8251,B825100,Carcinoma in situ of skin of chest wall NOS
+In situ neoplasms,B8252,B825200,Carcinoma in situ of skin of axilla
+In situ neoplasms,B8253,B825300,Carcinoma in situ of skin of back
+In situ neoplasms,B8255,B825500,Carcinoma in situ of skin of groin
+In situ neoplasms,B8256,B825600,Carcinoma in situ of skin of perineum
+In situ neoplasms,B825,B825.00,"Carcinoma in situ of skin of trunk, excluding scrotum"
+In situ neoplasms,B8254,B825400,Carcinoma in situ of skin of abdominal wall
+In situ neoplasms,B825z,B825z00,Carcinoma in situ of skin of trunk NOS
+In situ neoplasms,B8258,B825800,Carcinoma in situ of perianal skin
+In situ neoplasms,B8250,B825000,Carcinoma in situ of skin of breast
+In situ neoplasms,B8257,B825700,Carcinoma in situ of skin of buttock
+In situ neoplasms,B8263,B826300,Carcinoma in situ of skin of hand
+In situ neoplasms,B8260,B826000,Carcinoma in situ of skin of shoulder
+In situ neoplasms,B826,B826.00,Carcinoma in situ of skin of upper limb and shoulder
+In situ neoplasms,B8261,B826100,Carcinoma in situ of skin of upper arm
+In situ neoplasms,B8262,B826200,Carcinoma in situ of skin of lower arm
+In situ neoplasms,B826z,B826z00,Carcinoma in situ of skin of upper limb or shoulder NOS
+In situ neoplasms,B827,B827.00,Carcinoma in situ of skin of lower limb and hip
+In situ neoplasms,B827-1,B827.11,Carcinoma in situ of skin of leg
+In situ neoplasms,B8271,B827100,Carcinoma in situ of skin of thigh
+In situ neoplasms,B827z,B827z00,Carcinoma in situ of skin of lower limb or hip NOS
+In situ neoplasms,^ESCTCA400856,,Carcinoma in situ of skin of lower limb
+In situ neoplasms,B8274,B827400,Carcinoma in situ of skin of foot
+In situ neoplasms,B8270,B827000,Carcinoma in situ of skin of hip
+In situ neoplasms,B8272,B827200,Carcinoma in situ of skin of knee
+In situ neoplasms,B8273,B827300,Carcinoma in situ of skin of lower leg
+In situ neoplasms,^ESCTSC534776,,SCC - Squamous cell carcinoma in situ of skin
+In situ neoplasms,BB29-1,BB29.11,[M]Epidermoid carcinoma in situ
+In situ neoplasms,^ESCTIE346687,,IEC - Intraepidermal carcinoma
+In situ neoplasms,ByuF7,ByuF700,[X]Carcinoma in situ of skin of other+unspecified parts/face
+In situ neoplasms,^ESCTEP346684,,Epidermoid carcinoma in situ
+In situ neoplasms,^ESCTSQ346688,,"Squamous cell carcinoma in situ, no ICD-O subtype"
+In situ neoplasms,^ESCTSQ346682,,Squamous cell carcinoma in situ
+In situ neoplasms,^ESCTCA400875,,Cancer in situ of skin
+In situ neoplasms,^ESCTIN534777,,Intraepidermal carcinoma of skin
+In situ neoplasms,ByuF8,ByuF800,[X]Carcinoma in situ of skin of other sites
+In situ neoplasms,BB29-2,BB29.12,[M]Intraepidermal carcinoma NOS
+In situ neoplasms,B823,B823.00,Carcinoma in situ of skin of other parts of face
+In situ neoplasms,B823z,B823z00,Carcinoma in situ of skin of other parts of face NOS
+In situ neoplasms,B8-1,B8...11,Bowen's disease
+In situ neoplasms,B82,B82..00,Carcinoma in situ of skin
+In situ neoplasms,ByuF9,ByuF900,"[X]Carcinoma in situ of skin, unspecified"
+In situ neoplasms,B82z,B82z.00,Carcinoma in situ of skin NOS
+In situ neoplasms,B8-2,B8...12,Erythroplasia
+In situ neoplasms,BB29,BB29.00,[M]Squamous cell carcinoma in situ NOS
+In situ neoplasms,BB29-3,BB29.13,[M]Intraepithelial squamous cell carcinoma
+In situ neoplasms,^ESCTSQ534773,,Squamous cell carcinoma in situ of skin
+In situ neoplasms,B82y,B82y.00,Carcinoma in situ of other specified sites of skin
+In situ neoplasms,^ESCTIE534775,,IEC - Intraepidermal carcinoma of skin
+In situ neoplasms,^ESCTSQ346689,,"Squamous cell carcinoma in situ, no International Classification of Diseases for Oncology subtype"
+In situ neoplasms,^ESCTCA534778,,"Cancer in situ skin, squamous cell"
+In situ neoplasms,B8300,B830000,Lobular carcinoma in situ of breast
+In situ neoplasms,B8301,B830100,Intraductal carcinoma in situ of breast
+In situ neoplasms,^ESCTNO475626,,Non-invasive carcinoma of breast
+In situ neoplasms,ByuFG,ByuFG00,[X]Other carcinoma in situ of breast
+In situ neoplasms,B830-99,B830.99,Carcinoma in situ breast
+In situ neoplasms,B830,B830.00,Carcinoma in situ of breast
+In situ neoplasms,R1500,R150000,[D]Dyskaryotic cervical smear
+In situ neoplasms,4K2-2,4K2..12,Dysplasia (dysk.)on cerv.smear
+In situ neoplasms,B831-1,B831.11,CIN III - carcinoma in situ of cervix
+In situ neoplasms,B831-3,B831.13,Cervical intraepithelial neoplasia grade III
+In situ neoplasms,^ESCTCI400626,,CIN 3 - Cervical intraepithelial neoplasia grade 3
+In situ neoplasms,B8310,B831000,Carcinoma in situ of endocervix
+In situ neoplasms,4K2-1,4K2..11,Dyskaryosis on cervical smear
+In situ neoplasms,B831,B831.00,Carcinoma in situ of cervix uteri
+In situ neoplasms,ByuFA,ByuFA00,[X]Carcinoma in situ of other parts of cervix
+In situ neoplasms,^ESCTCA400625,,Carcinoma in situ of cervix uteri
+In situ neoplasms,^ESCTSU298254,,Surgical procedure on external ear
+In situ neoplasms,^ESCTEX298255,,External ear operations
+In situ neoplasms,B8311,B831100,Carcinoma in situ of exocervix
+In situ neoplasms,4K24-1,4K24.11,CIN III - severe dyskaryosis
+In situ neoplasms,^ESCTCI532420,,CIN III - Cervical intraepithelial neoplasia grade III with severe dysplasia
+In situ neoplasms,ZV13E,ZV13E00,"[V]PH of cervical intraepithelial neoplasia, grade III"
+In situ neoplasms,B8320,B832000,Carcinoma in situ of endometrium
+In situ neoplasms,Kyu9N,Kyu9N00,"[X]Dysplasia of vulva, unspecified"
+In situ neoplasms,9N7P,9N7P.00,Irrigation ext auditory canal gen 2nd care done by practice
+In situ neoplasms,^ESCTCA400954,,Cancer in situ of vulva
+In situ neoplasms,^ESCTVI559187,,VIN III - Vulval intraepithelial neoplasia grade III
+In situ neoplasms,K577,K577.00,Dysplasia of vulva
+In situ neoplasms,K577W,K577W00,"Dysplasia of vulva, unspecified"
+In situ neoplasms,^ESCTVI559186,,VIN - Vulval intraepithelial neoplasia grade 3
+In situ neoplasms,^ESCTSY357917,,Syringing of ear
+In situ neoplasms,^ESCTVU559185,,Vulval intraepithelial neoplasia grade III
+In situ neoplasms,^ESCTSE559188,,Severe dysplasia of vulva
+In situ neoplasms,Kyu9M,Kyu9M00,"[X]Severe vulvar dysplasia, not elsewhere classified"
+In situ neoplasms,K577X,K577X00,"Severe vulvar dysplasia, not elsewhere classified"
+In situ neoplasms,B8333-1,B833311,Vulval intraepithelial neoplasia
+In situ neoplasms,730-1,730..11,External auditory canal operations
+In situ neoplasms,73050-2,7305012,Washout of ear wax
+In situ neoplasms,^ESCTIR357916,,Irrigation of ear
+In situ neoplasms,7305,7305.00,Clearance of external auditory canal
+In situ neoplasms,B8336,B833600,Vulval intraepithelial neoplasia grade 3
+In situ neoplasms,73052,7305200,Microsuction clearance of external auditory canal
+In situ neoplasms,73050-99,7305099,Aural canal syringing
+In situ neoplasms,7305y,7305y00,Other specified clearance of external auditory canal
+In situ neoplasms,7305z,7305z00,Clearance of external auditory canal NOS
+In situ neoplasms,73064,7306400,Irrigation of external auditory canal NEC
+In situ neoplasms,730-99,730..99,External ear operations
+In situ neoplasms,73050-1,7305011,Syringe ear to remove wax
+In situ neoplasms,^ESCTWA465016,,Wax syringing - ear
+In situ neoplasms,B8333,B833300,Carcinoma in situ of vulva
+In situ neoplasms,^ESCTVU663177,,Vulval intraepithelial neoplasia (VIN)
+In situ neoplasms,Kyu9L,Kyu9L00,"[X]Severe vaginal dysplasia, not elsewhere classified"
+In situ neoplasms,B8339,B833900,Vaginal intraepithelial neoplasia grade 3
+In situ neoplasms,K56X,K56X.00,"Severe vaginal dysplasia, not elsewhere classified"
+In situ neoplasms,^ESCTCA400935,,Cancer in situ of vagina
+In situ neoplasms,^ESCTVA400933,,VAIN - Vaginal intraepithelial neoplasia 3
+In situ neoplasms,B8332,B833200,Carcinoma in situ of vagina
+In situ neoplasms,73053,7305300,Microsuction clearance of wax from external auditory canal
+In situ neoplasms,^ESCTVA400934,,VAIN III - Vaginal intraepithelial neoplasia grade III
+In situ neoplasms,^ESCTCA400672,,Carcinoma in situ of female genital organ
+In situ neoplasms,ByuFB,ByuFB00,[X]Carcinoma in situ of other+unspcfd female genital organs
+In situ neoplasms,^ESCTCA400600,,Carcinoma in situ of corpus uteri
+In situ neoplasms,B832-1,B832.11,Carcinoma in situ of body of uterus
+In situ neoplasms,B8331,B833100,Carcinoma in situ of fallopian tube
+In situ neoplasms,B8330,B833000,Carcinoma in situ of ovary
+In situ neoplasms,B833z,B833z00,Carcinoma in situ of female genital organs NOS
+In situ neoplasms,73065-99,7306599,Remove object from ear
+In situ neoplasms,B832,B832.00,Carcinoma in situ of other and unspecified parts of uterus
+In situ neoplasms,B833,B833.00,Carcinoma in situ other and unspecified female genital organ
+In situ neoplasms,B8-3,B8...13,Queyrats's erythroplasia
+In situ neoplasms,^ESCTQU661143,,Queyrat erythroplasia
+In situ neoplasms,B835,B835.00,Carcinoma in situ of penis
+In situ neoplasms,^ESCTPA661142,,Paget's disease of penis
+In situ neoplasms,^ESCTER661141,,Erythroplasia of Queyrat
+In situ neoplasms,^ESCTCA400793,,Cancer in situ of penis
+In situ neoplasms,^ESCTPI535259,,PIN - Prostatic intraepithelial neoplasia
+In situ neoplasms,^ESCTCA400807,,Cancer in situ of prostate
+In situ neoplasms,B8341,B834100,Prostatic intraepithelial neoplasia
+In situ neoplasms,K223,K223.00,Dysplasia of prostate
+In situ neoplasms,EMISNQPR140,,Prostatic intraepithelial neoplasia
+In situ neoplasms,B834,B834.00,Carcinoma in situ of prostate
+In situ neoplasms,B8340,B834000,High grade prostatic intraepithelial neoplasia
+In situ neoplasms,ByuFC,ByuFC00,[X]Carcinoma in situ of oth+unspecified male genital organs
+In situ neoplasms,B836,B836.00,Carcinoma in situ other and unspecified male genital organs
+In situ neoplasms,B8361,B836100,Carcinoma in situ of epididymis
+In situ neoplasms,^ESCTCA400750,,Carcinoma in situ of male genital organ
+In situ neoplasms,B836z,B836z00,Carcinoma in situ of male genital organs NOS
+In situ neoplasms,B8360,B836000,Carcinoma in situ of testis
+In situ neoplasms,B8363,B836300,Carcinoma in situ of scrotum
+In situ neoplasms,B8362,B836200,Carcinoma in situ of spermatic cord
+In situ neoplasms,^ESCTCA400591,,Cancer in situ of urinary bladder
+In situ neoplasms,B837,B837.00,Carcinoma in situ of bladder
+In situ neoplasms,B837-99,B837.99,Ca in situ bladder - papilloma
+In situ neoplasms,^ESCT1270355,,Carcinoma in situ of urinary tract proper
+In situ neoplasms,B83z,B83z.00,Carcinoma in situ of urinary organs NOS
+In situ neoplasms,ByuFD,ByuFD00,[X]Carcinoma in situ of other+unspecified urinary organs
+In situ neoplasms,^ESCTCA535662,,Carcinoma in situ of urinary tract
+In situ neoplasms,B8y0,B8y0.00,Carcinoma in situ of eye
+In situ neoplasms,^ESCTCA400667,,Cancer in situ of eye
+In situ neoplasms,BB5Vz,BB5Vz00,[M]Pituitary adenoma or carcinoma NOS
+In situ neoplasms,^ESCTTU439250,,Tumor of pituitary gland
+In situ neoplasms,^ESCTTU439248,,Tumour of pituitary gland
+In situ neoplasms,^ESCTPI439247,,Pituitary tumour
+In situ neoplasms,B8yy0,B8yy000,Carcinoma in situ of thyroid gland
+In situ neoplasms,B8yy1,B8yy100,Carcinoma in situ of adrenal gland
+In situ neoplasms,B8yy2,B8yy200,Carcinoma in situ of parathyroid gland
+In situ neoplasms,^ESCTPI439249,,Pituitary tumor
+In situ neoplasms,^ESCTNE439246,,Neoplasm of pituitary gland
+In situ neoplasms,^ESCTCA400894,,Carcinoma in situ of thyroid gland
+In situ neoplasms,B8yy3,B8yy300,Carcinoma in situ of pituitary gland
+In situ neoplasms,^ESCTCA400896,,Cancer in situ of thyroid
+In situ neoplasms,BB11-1,BB11.11,[M]Intraepithelial carcinoma NOS
+In situ neoplasms,B8yyz,B8yyz00,Carcinoma in situ of other specified site NOS
+In situ neoplasms,ByuF,ByuF.00,[X]In situ neoplasms
+In situ neoplasms,^ESCTCA416307,,Cancer in situ
+In situ neoplasms,^ESCTCA400883,,Cancer in situ of spleen
+In situ neoplasms,B83,B83..00,Carcinoma in situ of breast and genitourinary system
+In situ neoplasms,B8y,B8y..00,Carcinoma in situ of other and unspecified sites
+In situ neoplasms,ByuFE,ByuFE00,[X]Carcinoma in situ of other specified sites
+In situ neoplasms,BB11,BB11.00,[M]Carcinoma in situ NOS
+In situ neoplasms,B8,B8...00,Carcinoma in situ
+In situ neoplasms,B8yy,B8yy.00,Carcinoma in situ of other specified site
+In situ neoplasms,B8z,B8z..00,Carcinoma in situ NOS
+In situ neoplasms,B80z1,B80z100,Carcinoma in situ of spleen

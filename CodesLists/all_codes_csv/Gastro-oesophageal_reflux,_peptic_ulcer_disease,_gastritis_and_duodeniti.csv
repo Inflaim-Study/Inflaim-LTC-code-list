@@ -1,0 +1,515 @@
+Condition,MedCodeId,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,ICD10Code,Term
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302566013.0,J13y0,J13y000,13200003.0,22592012.0,K274,Unspecified peptic ulcer without mention of complication
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302568014.0,J13y1,J13y100,13200003.0,22592012.0,K274,Unspecified peptic ulcer with haemorrhage
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302571018.0,J13y3,J13y300,13200003.0,22592012.0,K274,Unspecified peptic ulcer with haemorrhage and perforation
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302575010.0,J13yz,J13yz00,13200003.0,22592012.0,K274,Unspecified peptic ulcer NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",396346019.0,J13,J13..00,13200003.0,22592012.0,K274,Peptic ulcer - (PU) site unspecified
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",818751000006112.0,79,79...00,64915003.0,107901016.0,K274,Heart operations
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",865131000006110.0,791-99,791..99,73544002.0,865131000006110.0,K274,Heart valve operations
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",865161000006118.0,79144-99,7914499,585591000000109.0,865161000006118.0,K274,Heart valvuloplasty
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",3102151000006114.0,^ESCTUP310215,,37372002.0,62345010.0,K274,Upper gastrointestinal hemorrhage
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",20181000006111.0,793y,793y.00,78418002.0,130132018.0,K274,Other parts of heart or pericardium operations OS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",81501000006111.0,J13yy,J13yy00,13200003.0,22592012.0,K274,Unspec peptic ulcer; unspec haemorrhage and/or perforation
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",121891000006117.0,J13-1,J13..11,13200003.0,22592012.0,K274,Stress ulcer NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",221161000000111.0,J681-2,J681.12,2901004.0,1226276012.0,K274,Altered blood in stools
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",221171000000116.0,J681-3,J681.13,405729008.0,2920724011.0,K274,Blood in stools altered
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",2709521000006115.0,^ESCTPU270952,,13200003.0,1220929016.0,K274,PUD - Peptic ulcer disease
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",6717711000006111.0,^ESCTBL671771,,405729008.0,2163134019.0,K274,Bloody stool
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",3102191000006115.0,^ESCTUP310219,,37372002.0,486703016.0,K274,Upper GI haemorrhage
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",2709491000006117.0,^ESCTGA270949,,13200003.0,22595014.0,K274,Gastroduodenal ulcer
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",517981000006116.0,J681-1,J681.11,405729008.0,2920724011.0,K274,Blood in stool
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",537671000006115.0,79-1,79...11,64915003.0,107901016.0,K274,Cardiac operations
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",6717731000006117.0,^ESCTBR671773,,405729008.0,2163137014.0,K274,Bright red blood per rectum
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",3102181000006118.0,^ESCTUP310218,,37372002.0,62348012.0,K274,Upper GI bleeding
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",6426391000006116.0,^ESCTTR642639,,384643000.0,2536640016.0,K274,Tricuspid valvoplasty
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",2545161000006114.0,^ESCTTA254516,,2901004.0,5912014.0,K274,Tarry stools
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",3102201000006117.0,^ESCTUP310220,,37372002.0,1216567017.0,K274,Upper GI - gastrointestinal haemorrhage
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",3695701000006118.5,^ESCTOP369570,,73544002.0,122109019.0,K274,Operative procedure on heart valve
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",6717781000006116.0,^ESCTFA671778,,405729008.0,2647547016.0,K274,Faeces: blood
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",6717771000006119.0,^ESCTBL671777,,405729008.0,2647546013.0,K274,Blood in feces
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",2545171000006119.0,^ESCTAL254517,,2901004.0,1226275011.0,K274,Altered blood passed per rectum
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",6717701000006113.0,^ESCTHE671770,,405729008.0,2155014017.0,K274,Hematochezia
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",2709511000006111.0,^ESCTPE270951,,13200003.0,1220928012.0,K274,Peptic ulceration
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",6717751000006112.0,^ESCTBR671775,,405729008.0,2647544011.0,K274,BRBPR - Bright red blood per rectum
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",5274421000006119.0,^ESCTBL527442,,249624003.0,372430019.0,K274,Blood in feces symptom
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",1.1776781000006112e+16,^ESCT1177678,,405729008.0,3513600011.0,K274,Fresh blood passed per rectum
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",3555851000006113.0,^ESCTOP355585,,64915003.0,107896018.0,K274,Operative procedure on heart
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",2639821000006115.0,^ESCTHE263982,,8765009.0,15458019.0,K274,Hematemesis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",3296621000006114.0,^ESCTCH329662,,49232000.0,82009014.0,K274,Chronic peptic ulcer with hemorrhage
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",6717761000006114.0,^ESCTFE671776,,405729008.0,2647545012.0,K274,Feces: blood
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",3102161000006111.0,^ESCTUP310216,,37372002.0,62346011.0,K274,Upper gastrointestinal bleeding
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",1.2719421000006116e+16,^ESCT1271942,,585591000000109.0,1299201000000112.0,K274,Valvuloplasty of heart NEC
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",271036018.0,79182,7918200,73544002.0,122109019.0,K274,Annuloplasty of valve of heart NEC
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",818851000006118.0,791y,791y.00,73544002.0,122109019.0,K274,Heart valve or adjacent structures operations OS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",495344012.0,J1311,J131100,49232000.0,495344012.0,K274,Chronic peptic ulcer with haemorrhage
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",419024010.0,1994-1,1994.11,281102003.0,419024010.0,K274,Blood in vomit - symptom
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",411734011.0,4737-1,4737.11,275782008.0,411734011.0,K274,Melaena - O/E of faeces
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",271312012.0,79z,79z..00,64915003.0,107901016.0,K274,Heart operations NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",5913016.0,J681,J681.00,2901004.0,5913016.0,K274,Melaena
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",372431015.0,19E6-1,19E6.11,249624003.0,372431015.0,K274,Blood in faeces symptom
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",486704010.0,J68z2,J68z200,37372002.0,486704010.0,K274,Upper gastrointestinal haemorrhage
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",2647548014.0,4762-1,4762.11,405729008.0,2647548014.0,K274,Blood in faeces
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",885981000006112.0,J1311-99,J131199,49232000.0,885981000006112.0,K274,PU - chronic + haemorrhage
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",15459010.0,J680-1,J680.11,8765009.0,507678016.0,K274,Vomiting of blood
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",270966017.0,79125,7912500,384643000.0,1478970018.0,K274,Tricuspid valvuloplasty NEC
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",2709531000006117.0,^ESCTPU270953,,13200003.0,1220930014.0,K274,PU - Peptic ulcer
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",6717741000006110.0,^ESCTPA671774,,405729008.0,2647543017.0,K274,Passage of bloody stools
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",6717721000006115.0,^ESCTBR671772,,405729008.0,2163136017.0,K274,Bright red blood in stool
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",3102211000006119.0,^ESCTUP310221,,37372002.0,1218058016.0,K274,Upper GI - gastrointestinal hemorrhage
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",6426381000006119.0,^ESCTTV642638,,384643000.0,2536639018.0,K274,TVP - Tricuspid valve plasty
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302569018.0,J13y2,J13y200,13200003.0,22592012.0,K274,Unspecified peptic ulcer with perforation
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302576011.0,J13z,J13z.00,13200003.0,22592012.0,K274,Peptic ulcer NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",2153991014.0,19E6-2,19E6.12,405729008.0,2153991014.0,K274,Haematochezia
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",507679012.0,J680,J680.00,8765009.0,507679012.0,K274,Haematemesis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",271066013.0,791z,791z.00,73544002.0,122109019.0,K274,Heart valve and adjacent structures operations NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",517931000006117.0,19E6,19E6.00,405729008.0,2647548014.0,K274,Blood in faeces
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",3102171000006116.0,^ESCTUP310217,,37372002.0,62347019.0,K274,Upper GI hemorrhage
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",5576661000006114.0,^ESCTME557666,,275782008.0,2771057011.0,K274,Melaena on examination of faeces
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",271174012.0,793,793..00,78418002.0,130132018.0,K274,Other parts of heart and pericardium operations
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",271309014.0,793z,793z.00,78418002.0,130132018.0,K274,Other parts of heart and pericardium operations NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302565012.0,J13y,J13y.00,13200003.0,22592012.0,K274,Unspecified peptic ulcer
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",2545151000006112.0,^ESCTME254515,,2901004.0,5911019.0,K274,Melena
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",5576641000006110.0,^ESCTME557664,,275782008.0,411735012.0,K274,Melena - O/E of feces
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",885931000006111.0,J13-99,J13..99,13200003.0,885931000006111.0,K274,Peptic ulcer NOS = PU
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",2536641017.0,7912-2,7912.12,384643000.0,2536641017.0,K274,Tricuspid valvuloplasty
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",2709501000006113.0,^ESCTPE270950,,13200003.0,1220927019.0,K274,Peptic ulcer disease
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",5576651000006112.0,^ESCTME557665,,275782008.0,2770255015.0,K274,Melena on examination of feces
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",3555861000006110.0,^ESCTCA355586,,64915003.0,107900015.0,K274,Cardiac surgery procedure
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",2639831000006117.0,^ESCTVO263983,,8765009.0,15459010.0,K274,Vomiting of blood
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",2545191000006118.0,^ESCTBL254519,,2901004.0,1226277015.0,K274,"Black, tarry stool"
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302566013.0,J13y0,J13y000,13200003.0,22592012.0,K275,Unspecified peptic ulcer without mention of complication
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302568014.0,J13y1,J13y100,13200003.0,22592012.0,K275,Unspecified peptic ulcer with haemorrhage
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302571018.0,J13y3,J13y300,13200003.0,22592012.0,K275,Unspecified peptic ulcer with haemorrhage and perforation
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302575010.0,J13yz,J13yz00,13200003.0,22592012.0,K275,Unspecified peptic ulcer NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",396346019.0,J13,J13..00,13200003.0,22592012.0,K275,Peptic ulcer - (PU) site unspecified
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",818751000006112.0,79,79...00,64915003.0,107901016.0,K275,Heart operations
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",865131000006110.0,791-99,791..99,73544002.0,865131000006110.0,K275,Heart valve operations
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",865161000006118.0,79144-99,7914499,585591000000109.0,865161000006118.0,K275,Heart valvuloplasty
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",3102151000006114.0,^ESCTUP310215,,37372002.0,62345010.0,K275,Upper gastrointestinal hemorrhage
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",20181000006111.0,793y,793y.00,78418002.0,130132018.0,K275,Other parts of heart or pericardium operations OS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",81501000006111.0,J13yy,J13yy00,13200003.0,22592012.0,K275,Unspec peptic ulcer; unspec haemorrhage and/or perforation
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",121891000006117.0,J13-1,J13..11,13200003.0,22592012.0,K275,Stress ulcer NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",2709521000006115.0,^ESCTPU270952,,13200003.0,1220929016.0,K275,PUD - Peptic ulcer disease
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",3102191000006115.0,^ESCTUP310219,,37372002.0,486703016.0,K275,Upper GI haemorrhage
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",2709491000006117.0,^ESCTGA270949,,13200003.0,22595014.0,K275,Gastroduodenal ulcer
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",537671000006115.0,79-1,79...11,64915003.0,107901016.0,K275,Cardiac operations
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",3102181000006118.0,^ESCTUP310218,,37372002.0,62348012.0,K275,Upper GI bleeding
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",6426391000006116.0,^ESCTTR642639,,384643000.0,2536640016.0,K275,Tricuspid valvoplasty
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",3102201000006117.0,^ESCTUP310220,,37372002.0,1216567017.0,K275,Upper GI - gastrointestinal haemorrhage
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",3695701000006118.5,^ESCTOP369570,,73544002.0,122109019.0,K275,Operative procedure on heart valve
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",2709511000006111.0,^ESCTPE270951,,13200003.0,1220928012.0,K275,Peptic ulceration
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",3555851000006113.0,^ESCTOP355585,,64915003.0,107896018.0,K275,Operative procedure on heart
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",3102161000006111.0,^ESCTUP310216,,37372002.0,62346011.0,K275,Upper gastrointestinal bleeding
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",1.2719421000006116e+16,^ESCT1271942,,585591000000109.0,1299201000000112.0,K275,Valvuloplasty of heart NEC
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",271036018.0,79182,7918200,73544002.0,122109019.0,K275,Annuloplasty of valve of heart NEC
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",818851000006118.0,791y,791y.00,73544002.0,122109019.0,K275,Heart valve or adjacent structures operations OS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",353305011.0,J179,J179.00,235674005.0,353305011.0,K275,Perforation of stomach
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",271312012.0,79z,79z..00,64915003.0,107901016.0,K275,Heart operations NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",486704010.0,J68z2,J68z200,37372002.0,486704010.0,K275,Upper gastrointestinal haemorrhage
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",885991000006110.0,J1312-99,J131299,3483000.0,885991000006110.0,K275,PU - chronic + perforation
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",270966017.0,79125,7912500,384643000.0,1478970018.0,K275,Tricuspid valvuloplasty NEC
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",2709531000006117.0,^ESCTPU270953,,13200003.0,1220930014.0,K275,PU - Peptic ulcer
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",3102211000006119.0,^ESCTUP310221,,37372002.0,1218058016.0,K275,Upper GI - gastrointestinal hemorrhage
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",6426381000006119.0,^ESCTTV642638,,384643000.0,2536639018.0,K275,TVP - Tricuspid valve plasty
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302569018.0,J13y2,J13y200,13200003.0,22592012.0,K275,Unspecified peptic ulcer with perforation
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302576011.0,J13z,J13z.00,13200003.0,22592012.0,K275,Peptic ulcer NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",271066013.0,791z,791z.00,73544002.0,122109019.0,K275,Heart valve and adjacent structures operations NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",3102171000006116.0,^ESCTUP310217,,37372002.0,62347019.0,K275,Upper GI hemorrhage
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",271174012.0,793,793..00,78418002.0,130132018.0,K275,Other parts of heart and pericardium operations
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",271309014.0,793z,793z.00,78418002.0,130132018.0,K275,Other parts of heart and pericardium operations NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302565012.0,J13y,J13y.00,13200003.0,22592012.0,K275,Unspecified peptic ulcer
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",1824551000006119.2,EMISNQPE39,,235674005.0,1824551000006119.2,K275,Perforation of stomach
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",885931000006111.0,J13-99,J13..99,13200003.0,885931000006111.0,K275,Peptic ulcer NOS = PU
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",2536641017.0,7912-2,7912.12,384643000.0,2536641017.0,K275,Tricuspid valvuloplasty
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",2709501000006113.0,^ESCTPE270950,,13200003.0,1220927019.0,K275,Peptic ulcer disease
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",6875014.0,J1312,J131200,3483000.0,6875014.0,K275,Chronic peptic ulcer with perforation
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",3555861000006110.0,^ESCTCA355586,,64915003.0,107900015.0,K275,Cardiac surgery procedure
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302566013.0,J13y0,J13y000,13200003.0,22592012.0,K276,Unspecified peptic ulcer without mention of complication
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302568014.0,J13y1,J13y100,13200003.0,22592012.0,K276,Unspecified peptic ulcer with haemorrhage
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302571018.0,J13y3,J13y300,13200003.0,22592012.0,K276,Unspecified peptic ulcer with haemorrhage and perforation
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302575010.0,J13yz,J13yz00,13200003.0,22592012.0,K276,Unspecified peptic ulcer NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",396346019.0,J13,J13..00,13200003.0,22592012.0,K276,Peptic ulcer - (PU) site unspecified
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",818751000006112.0,79,79...00,64915003.0,107901016.0,K276,Heart operations
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",270994013.0,79144,7914400,275212003.0,411156015.0,K276,Valvuloplasty of heart NEC
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",865131000006110.0,791-99,791..99,73544002.0,865131000006110.0,K276,Heart valve operations
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",865161000006118.0,79144-99,7914499,585591000000109.0,865161000006118.0,K276,Heart valvuloplasty
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",3102151000006114.0,^ESCTUP310215,,37372002.0,62345010.0,K276,Upper gastrointestinal hemorrhage
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",20181000006111.0,793y,793y.00,78418002.0,130132018.0,K276,Other parts of heart or pericardium operations OS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",81501000006111.0,J13yy,J13yy00,13200003.0,22592012.0,K276,Unspec peptic ulcer; unspec haemorrhage and/or perforation
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",121891000006117.0,J13-1,J13..11,13200003.0,22592012.0,K276,Stress ulcer NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",221171000000116.0,J681-3,J681.13,405729008.0,2920724011.0,K276,Blood in stools altered
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",2709521000006115.0,^ESCTPU270952,,13200003.0,1220929016.0,K276,PUD - Peptic ulcer disease
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",6717711000006111.0,^ESCTBL671771,,405729008.0,2163134019.0,K276,Bloody stool
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",3102191000006115.0,^ESCTUP310219,,37372002.0,486703016.0,K276,Upper GI haemorrhage
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",2709491000006117.0,^ESCTGA270949,,13200003.0,22595014.0,K276,Gastroduodenal ulcer
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",517981000006116.0,J681-1,J681.11,405729008.0,2920724011.0,K276,Blood in stool
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",537671000006115.0,79-1,79...11,64915003.0,107901016.0,K276,Cardiac operations
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",6717731000006117.0,^ESCTBR671773,,405729008.0,2163137014.0,K276,Bright red blood per rectum
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",3102181000006118.0,^ESCTUP310218,,37372002.0,62348012.0,K276,Upper GI bleeding
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",6426391000006116.0,^ESCTTR642639,,384643000.0,2536640016.0,K276,Tricuspid valvoplasty
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",3102201000006117.0,^ESCTUP310220,,37372002.0,1216567017.0,K276,Upper GI - gastrointestinal haemorrhage
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",3695701000006118.5,^ESCTOP369570,,73544002.0,122109019.0,K276,Operative procedure on heart valve
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",6717781000006116.0,^ESCTFA671778,,405729008.0,2647547016.0,K276,Faeces: blood
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",6717771000006119.0,^ESCTBL671777,,405729008.0,2647546013.0,K276,Blood in feces
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",6717701000006113.0,^ESCTHE671770,,405729008.0,2155014017.0,K276,Hematochezia
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",2709511000006111.0,^ESCTPE270951,,13200003.0,1220928012.0,K276,Peptic ulceration
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",3619901000006116.0,^ESCTTR361990,,68860005.0,2478806012.0,K276,Transluminal cardiac valvoplasty
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",6717751000006112.0,^ESCTBR671775,,405729008.0,2647544011.0,K276,BRBPR - Bright red blood per rectum
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",1.1776781000006112e+16,^ESCT1177678,,405729008.0,3513600011.0,K276,Fresh blood passed per rectum
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",3619881000006118.5,^ESCTPE361988,,68860005.0,114376017.0,K276,Percutaneous valvuloplasty
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",3555851000006113.0,^ESCTOP355585,,64915003.0,107896018.0,K276,Operative procedure on heart
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",6717761000006114.0,^ESCTFE671776,,405729008.0,2647545012.0,K276,Feces: blood
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",3102161000006111.0,^ESCTUP310216,,37372002.0,62346011.0,K276,Upper gastrointestinal bleeding
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",3619911000006118.5,^ESCTPE361991,,68860005.0,2478807015.0,K276,Percutaneous cardiac valvuloplasty
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",1.2719421000006116e+16,^ESCT1271942,,585591000000109.0,1299201000000112.0,K276,Valvuloplasty of heart NEC
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",271036018.0,79182,7918200,73544002.0,122109019.0,K276,Annuloplasty of valve of heart NEC
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",818851000006118.0,791y,791y.00,73544002.0,122109019.0,K276,Heart valve or adjacent structures operations OS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",394285014.0,79181,7918100,265480000.0,394285014.0,K276,Annuloplasty of tricuspid valve
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",419024010.0,1994-1,1994.11,281102003.0,419024010.0,K276,Blood in vomit - symptom
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",353305011.0,J179,J179.00,235674005.0,353305011.0,K276,Perforation of stomach
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",271312012.0,79z,79z..00,64915003.0,107901016.0,K276,Heart operations NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",270965018.0,79124,7912400,174939008.0,270965018.0,K276,Repositioning of tricuspid valve
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",486704010.0,J68z2,J68z200,37372002.0,486704010.0,K276,Upper gastrointestinal haemorrhage
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",498977018.0,J1313,J131300,61300005.0,498977018.0,K276,Chronic peptic ulcer with haemorrhage AND perforation
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",2647548014.0,4762-1,4762.11,405729008.0,2647548014.0,K276,Blood in faeces
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",886001000006111.0,J1313-99,J131399,61300005.0,886001000006111.0,K276,PU - chronic + h'ge + perf.
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",270966017.0,79125,7912500,384643000.0,1478970018.0,K276,Tricuspid valvuloplasty NEC
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",3496021000006116.0,^ESCTCH349602,,61300005.0,101859019.0,K276,Chronic peptic ulcer with hemorrhage AND perforation
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",2709531000006117.0,^ESCTPU270953,,13200003.0,1220930014.0,K276,PU - Peptic ulcer
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",6717741000006110.0,^ESCTPA671774,,405729008.0,2647543017.0,K276,Passage of bloody stools
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",6717721000006115.0,^ESCTBR671772,,405729008.0,2163136017.0,K276,Bright red blood in stool
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",3102211000006119.0,^ESCTUP310221,,37372002.0,1218058016.0,K276,Upper GI - gastrointestinal hemorrhage
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",6426381000006119.0,^ESCTTV642638,,384643000.0,2536639018.0,K276,TVP - Tricuspid valve plasty
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302569018.0,J13y2,J13y200,13200003.0,22592012.0,K276,Unspecified peptic ulcer with perforation
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302576011.0,J13z,J13z.00,13200003.0,22592012.0,K276,Peptic ulcer NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",2153991014.0,19E6-2,19E6.12,405729008.0,2153991014.0,K276,Haematochezia
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",271066013.0,791z,791z.00,73544002.0,122109019.0,K276,Heart valve and adjacent structures operations NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",517931000006117.0,19E6,19E6.00,405729008.0,2647548014.0,K276,Blood in faeces
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",3102171000006116.0,^ESCTUP310217,,37372002.0,62347019.0,K276,Upper GI hemorrhage
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",2478805011.0,79194,7919400,68860005.0,2478805011.0,K276,Percutaneous transluminal valvuloplasty
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",271174012.0,793,793..00,78418002.0,130132018.0,K276,Other parts of heart and pericardium operations
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",271309014.0,793z,793z.00,78418002.0,130132018.0,K276,Other parts of heart and pericardium operations NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302565012.0,J13y,J13y.00,13200003.0,22592012.0,K276,Unspecified peptic ulcer
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",1824551000006119.2,EMISNQPE39,,235674005.0,1824551000006119.2,K276,Perforation of stomach
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",885931000006111.0,J13-99,J13..99,13200003.0,885931000006111.0,K276,Peptic ulcer NOS = PU
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",2536641017.0,7912-2,7912.12,384643000.0,2536641017.0,K276,Tricuspid valvuloplasty
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",2709501000006113.0,^ESCTPE270950,,13200003.0,1220927019.0,K276,Peptic ulcer disease
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",3555861000006110.0,^ESCTCA355586,,64915003.0,107900015.0,K276,Cardiac surgery procedure
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302556017.0,J1310,J131000,128287004.0,206557013.0,K277,Chronic peptic ulcer without mention of complication
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302563017.0,J131y,J131y00,128287004.0,206557013.0,K277,Chronic peptic ulcer unspecified
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302566013.0,J13y0,J13y000,13200003.0,22592012.0,K277,Unspecified peptic ulcer without mention of complication
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302568014.0,J13y1,J13y100,13200003.0,22592012.0,K277,Unspecified peptic ulcer with haemorrhage
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302571018.0,J13y3,J13y300,13200003.0,22592012.0,K277,Unspecified peptic ulcer with haemorrhage and perforation
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302575010.0,J13yz,J13yz00,13200003.0,22592012.0,K277,Unspecified peptic ulcer NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",396346019.0,J13,J13..00,13200003.0,22592012.0,K277,Peptic ulcer - (PU) site unspecified
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",3102151000006114.0,^ESCTUP310215,,37372002.0,62345010.0,K277,Upper gastrointestinal hemorrhage
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",81501000006111.0,J13yy,J13yy00,13200003.0,22592012.0,K277,Unspec peptic ulcer; unspec haemorrhage and/or perforation
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",121891000006117.0,J13-1,J13..11,13200003.0,22592012.0,K277,Stress ulcer NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",2709521000006115.0,^ESCTPU270952,,13200003.0,1220929016.0,K277,PUD - Peptic ulcer disease
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",3102191000006115.0,^ESCTUP310219,,37372002.0,486703016.0,K277,Upper GI haemorrhage
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",2709491000006117.0,^ESCTGA270949,,13200003.0,22595014.0,K277,Gastroduodenal ulcer
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",3102181000006118.0,^ESCTUP310218,,37372002.0,62348012.0,K277,Upper GI bleeding
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",3102201000006117.0,^ESCTUP310220,,37372002.0,1216567017.0,K277,Upper GI - gastrointestinal haemorrhage
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",2709511000006111.0,^ESCTPE270951,,13200003.0,1220928012.0,K277,Peptic ulceration
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",3102161000006111.0,^ESCTUP310216,,37372002.0,62346011.0,K277,Upper gastrointestinal bleeding
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",1.2729731000006116e+16,^ESCT1272973,,652941000000102.0,1435481000000112.0,K277,Chronic peptic ulcer NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",886011000006114.0,J131z-99,J131z99,652941000000102.0,886011000006114.0,K277,PU - chronic NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302564011.0,J131z,J131z00,128287004.0,206557013.0,K277,Chronic peptic ulcer NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302562010.0,J1314,J131400,196694009.0,302562010.0,K277,Chronic peptic ulcer with obstruction
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",486704010.0,J68z2,J68z200,37372002.0,486704010.0,K277,Upper gastrointestinal haemorrhage
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",2709531000006117.0,^ESCTPU270953,,13200003.0,1220930014.0,K277,PU - Peptic ulcer
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",3102211000006119.0,^ESCTUP310221,,37372002.0,1218058016.0,K277,Upper GI - gastrointestinal hemorrhage
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302569018.0,J13y2,J13y200,13200003.0,22592012.0,K277,Unspecified peptic ulcer with perforation
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302576011.0,J13z,J13z.00,13200003.0,22592012.0,K277,Peptic ulcer NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",206557013.0,J131,J131.00,128287004.0,206557013.0,K277,Chronic peptic ulcer
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",3102171000006116.0,^ESCTUP310217,,37372002.0,62347019.0,K277,Upper GI hemorrhage
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302565012.0,J13y,J13y.00,13200003.0,22592012.0,K277,Unspecified peptic ulcer
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",885931000006111.0,J13-99,J13..99,13200003.0,885931000006111.0,K277,Peptic ulcer NOS = PU
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",2709501000006113.0,^ESCTPE270950,,13200003.0,1220927019.0,K277,Peptic ulcer disease
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302566013.0,J13y0,J13y000,13200003.0,22592012.0,K279,Unspecified peptic ulcer without mention of complication
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302568014.0,J13y1,J13y100,13200003.0,22592012.0,K279,Unspecified peptic ulcer with haemorrhage
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302571018.0,J13y3,J13y300,13200003.0,22592012.0,K279,Unspecified peptic ulcer with haemorrhage and perforation
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302572013.0,J13y4,J13y400,849611000000106.0,2201711000000115.2,K279,Unspecified peptic ulcer with obstruction
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302575010.0,J13yz,J13yz00,13200003.0,22592012.0,K279,Unspecified peptic ulcer NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",396346019.0,J13,J13..00,13200003.0,22592012.0,K279,Peptic ulcer - (PU) site unspecified
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",818751000006112.0,79,79...00,64915003.0,107901016.0,K279,Heart operations
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",865131000006110.0,791-99,791..99,73544002.0,865131000006110.0,K279,Heart valve operations
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",865161000006118.0,79144-99,7914499,585591000000109.0,865161000006118.0,K279,Heart valvuloplasty
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",3102151000006114.0,^ESCTUP310215,,37372002.0,62345010.0,K279,Upper gastrointestinal hemorrhage
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",20181000006111.0,793y,793y.00,78418002.0,130132018.0,K279,Other parts of heart or pericardium operations OS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",81501000006111.0,J13yy,J13yy00,13200003.0,22592012.0,K279,Unspec peptic ulcer; unspec haemorrhage and/or perforation
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",121891000006117.0,J13-1,J13..11,13200003.0,22592012.0,K279,Stress ulcer NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",2709521000006115.0,^ESCTPU270952,,13200003.0,1220929016.0,K279,PUD - Peptic ulcer disease
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",3102191000006115.0,^ESCTUP310219,,37372002.0,486703016.0,K279,Upper GI haemorrhage
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",2709491000006117.0,^ESCTGA270949,,13200003.0,22595014.0,K279,Gastroduodenal ulcer
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",537671000006115.0,79-1,79...11,64915003.0,107901016.0,K279,Cardiac operations
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",3102181000006118.0,^ESCTUP310218,,37372002.0,62348012.0,K279,Upper GI bleeding
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",6426391000006116.0,^ESCTTR642639,,384643000.0,2536640016.0,K279,Tricuspid valvoplasty
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",3102201000006117.0,^ESCTUP310220,,37372002.0,1216567017.0,K279,Upper GI - gastrointestinal haemorrhage
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",3695701000006118.5,^ESCTOP369570,,73544002.0,122109019.0,K279,Operative procedure on heart valve
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",2709511000006111.0,^ESCTPE270951,,13200003.0,1220928012.0,K279,Peptic ulceration
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",3555851000006113.0,^ESCTOP355585,,64915003.0,107896018.0,K279,Operative procedure on heart
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",3102161000006111.0,^ESCTUP310216,,37372002.0,62346011.0,K279,Upper gastrointestinal bleeding
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",1.2719421000006116e+16,^ESCT1271942,,585591000000109.0,1299201000000112.0,K279,Valvuloplasty of heart NEC
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",271036018.0,79182,7918200,73544002.0,122109019.0,K279,Annuloplasty of valve of heart NEC
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",818851000006118.0,791y,791y.00,73544002.0,122109019.0,K279,Heart valve or adjacent structures operations OS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",271312012.0,79z,79z..00,64915003.0,107901016.0,K279,Heart operations NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",486704010.0,J68z2,J68z200,37372002.0,486704010.0,K279,Upper gastrointestinal haemorrhage
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",270966017.0,79125,7912500,384643000.0,1478970018.0,K279,Tricuspid valvuloplasty NEC
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",2709531000006117.0,^ESCTPU270953,,13200003.0,1220930014.0,K279,PU - Peptic ulcer
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",3102211000006119.0,^ESCTUP310221,,37372002.0,1218058016.0,K279,Upper GI - gastrointestinal hemorrhage
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",6426381000006119.0,^ESCTTV642638,,384643000.0,2536639018.0,K279,TVP - Tricuspid valve plasty
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302569018.0,J13y2,J13y200,13200003.0,22592012.0,K279,Unspecified peptic ulcer with perforation
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302576011.0,J13z,J13z.00,13200003.0,22592012.0,K279,Peptic ulcer NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",271066013.0,791z,791z.00,73544002.0,122109019.0,K279,Heart valve and adjacent structures operations NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",3102171000006116.0,^ESCTUP310217,,37372002.0,62347019.0,K279,Upper GI hemorrhage
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",271174012.0,793,793..00,78418002.0,130132018.0,K279,Other parts of heart and pericardium operations
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",271309014.0,793z,793z.00,78418002.0,130132018.0,K279,Other parts of heart and pericardium operations NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302565012.0,J13y,J13y.00,13200003.0,22592012.0,K279,Unspecified peptic ulcer
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",885931000006111.0,J13-99,J13..99,13200003.0,885931000006111.0,K279,Peptic ulcer NOS = PU
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",2536641017.0,7912-2,7912.12,384643000.0,2536641017.0,K279,Tricuspid valvuloplasty
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",2709501000006113.0,^ESCTPE270950,,13200003.0,1220927019.0,K279,Peptic ulcer disease
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",3555861000006110.0,^ESCTCA355586,,64915003.0,107900015.0,K279,Cardiac surgery procedure
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",203211000006115.0,K21,K21..00,9713002.0,16976011.0,N413 ,Prostate inflammatory diseases
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",203211000006115.0,K21,K21..00,9713002.0,16976011.0,N419,Prostate inflammatory diseases
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",203211000006115.0,K21,K21..00,9713002.0,16976011.0,N413,Prostate inflammatory diseases
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",203211000006115.0,K21,K21..00,9713002.0,16976011.0,N412,Prostate inflammatory diseases
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",203211000006115.0,K21,K21..00,9713002.0,16976011.0,N418 ,Prostate inflammatory diseases
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",203211000006115.0,K21,K21..00,9713002.0,16976011.0,N419 ,Prostate inflammatory diseases
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",203211000006115.0,K21,K21..00,9713002.0,16976011.0,N410,Prostate inflammatory diseases
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",203211000006115.0,K21,K21..00,9713002.0,16976011.0,N418,Prostate inflammatory diseases
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",203211000006115.0,K21,K21..00,9713002.0,16976011.0,N411 ,Prostate inflammatory diseases
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",203211000006115.0,K21,K21..00,9713002.0,16976011.0,N411,Prostate inflammatory diseases
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",203211000006115.0,K21,K21..00,9713002.0,16976011.0,N410 ,Prostate inflammatory diseases
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",203211000006115.0,K21,K21..00,9713002.0,16976011.0,N412 ,Prostate inflammatory diseases
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",53452019.0,G24,G24..00,31992008.0,53452019.0,P000,Secondary hypertension
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",53452019.0,G24,G24..00,31992008.0,53452019.0,I159,Secondary hypertension
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",53452019.0,G24,G24..00,31992008.0,53452019.0,I152,Secondary hypertension
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",53452019.0,G24,G24..00,31992008.0,53452019.0,I150,Secondary hypertension
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",53452019.0,G24,G24..00,31992008.0,53452019.0,I158,Secondary hypertension
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",53452019.0,G24,G24..00,31992008.0,53452019.0,O11X,Secondary hypertension
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",53452019.0,G24,G24..00,31992008.0,53452019.0,O104,Secondary hypertension
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",53452019.0,G24,G24..00,31992008.0,53452019.0,I151,Secondary hypertension
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",1846941000006119.0,G25,G25..00,843821000000102.0,2189411000000111.2,I10X,Stage 1 hypertension (NICE - Nat Ins for Hth Clin Excl 2011)
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",1846941000006119.0,G25,G25..00,843821000000102.0,2189411000000111.2,O16X,Stage 1 hypertension (NICE - Nat Ins for Hth Clin Excl 2011)
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",119655018.0,J157,J157.00,72007001.0,119655018.0,K298,Duodenitis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",222841000000112.0,J1544,J154400,89538001.0,148452011.0,B980,Helicobacter gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",222841000000112.0,J1544,J154400,89538001.0,148452011.0,K296,Helicobacter gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",222841000000112.0,J1544,J154400,89538001.0,148452011.0,K290,Helicobacter gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",222841000000112.0,J1544,J154400,89538001.0,148452011.0,K291,Helicobacter gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",222841000000112.0,J1544,J154400,89538001.0,148452011.0,K293,Helicobacter gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",222841000000112.0,J1544,J154400,89538001.0,148452011.0,K294,Helicobacter gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",4151013.0,J1540,J154000,1824008.0,4151013.0,K528,Allergic gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",1227775018.0,ZV653-6,ZV65316,424753004.0,2645393015.0,Z713,[V]Dietary counselling in gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",819571000006118.0,A0743-3,A074313,89538001.0,148452011.0,B980,Helicobacter gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",819571000006118.0,A0743-3,A074313,89538001.0,148452011.0,K296,Helicobacter gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",819571000006118.0,A0743-3,A074313,89538001.0,148452011.0,K290,Helicobacter gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",819571000006118.0,A0743-3,A074313,89538001.0,148452011.0,K291,Helicobacter gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",819571000006118.0,A0743-3,A074313,89538001.0,148452011.0,K293,Helicobacter gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",819571000006118.0,A0743-3,A074313,89538001.0,148452011.0,K294,Helicobacter gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302634014.0,J156,J156.00,196731005.0,2532163012.0,K293,Gastroduodenitis unspecified
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302634014.0,J156,J156.00,196731005.0,2532163012.0,K290,Gastroduodenitis unspecified
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302634014.0,J156,J156.00,196731005.0,2532163012.0,K294,Gastroduodenitis unspecified
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302634014.0,J156,J156.00,196731005.0,2532163012.0,K291,Gastroduodenitis unspecified
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302634014.0,J156,J156.00,196731005.0,2532163012.0,K296,Gastroduodenitis unspecified
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302634014.0,J156,J156.00,196731005.0,2532163012.0,K298,Gastroduodenitis unspecified
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302634014.0,J156,J156.00,196731005.0,2532163012.0,K297,Gastroduodenitis unspecified
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302634014.0,J156,J156.00,196731005.0,2532163012.0,K299,Gastroduodenitis unspecified
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302634014.0,J156,J156.00,196731005.0,2532163012.0,K292,Gastroduodenitis unspecified
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302634014.0,J156,J156.00,196731005.0,2532163012.0,K295,Gastroduodenitis unspecified
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",15005019.0,J151,J151.00,8493009.0,15005019.0,K293,Chronic gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",15005019.0,J151,J151.00,8493009.0,15005019.0,K294,Chronic gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",15005019.0,J151,J151.00,8493009.0,15005019.0,K295,Chronic gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302619015.0,J1510,J151000,84568007.0,140221013.0,K294,Chronic atrophic gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302619015.0,J1510,J151000,84568007.0,140221013.0,K296,Chronic atrophic gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302616010.0,J15,J15..00,196731005.0,302616010.0,K293,Gastritis and duodenitis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302616010.0,J15,J15..00,196731005.0,302616010.0,K290,Gastritis and duodenitis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302616010.0,J15,J15..00,196731005.0,302616010.0,K294,Gastritis and duodenitis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302616010.0,J15,J15..00,196731005.0,302616010.0,K291,Gastritis and duodenitis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302616010.0,J15,J15..00,196731005.0,302616010.0,K296,Gastritis and duodenitis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302616010.0,J15,J15..00,196731005.0,302616010.0,K298,Gastritis and duodenitis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302616010.0,J15,J15..00,196731005.0,302616010.0,K297,Gastritis and duodenitis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302616010.0,J15,J15..00,196731005.0,302616010.0,K299,Gastritis and duodenitis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302616010.0,J15,J15..00,196731005.0,302616010.0,K292,Gastritis and duodenitis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302616010.0,J15,J15..00,196731005.0,302616010.0,K295,Gastritis and duodenitis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",70968018.0,J1542,J154200,42541005.0,70968018.0,K296,Irritant gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302630017.0,J1543,J154300,196740009.0,302630017.0,K296,Corrosive gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302633015.0,J155,J155.00,4556007.0,7841019.0,K295,Gastritis unspecified
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302633015.0,J155,J155.00,4556007.0,7841019.0,K290,Gastritis unspecified
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302633015.0,J155,J155.00,4556007.0,7841019.0,K294,Gastritis unspecified
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302633015.0,J155,J155.00,4556007.0,7841019.0,K292,Gastritis unspecified
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302633015.0,J155,J155.00,4556007.0,7841019.0,K291,Gastritis unspecified
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302633015.0,J155,J155.00,4556007.0,7841019.0,K297,Gastritis unspecified
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302633015.0,J155,J155.00,4556007.0,7841019.0,A084,Gastritis unspecified
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302633015.0,J155,J155.00,4556007.0,7841019.0,K296,Gastritis unspecified
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302633015.0,J155,J155.00,4556007.0,7841019.0,K293,Gastritis unspecified
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302633015.0,J155,J155.00,4556007.0,7841019.0,A188,Gastritis unspecified
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302633015.0,J155,J155.00,4556007.0,7841019.0,E639,Gastritis unspecified
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302633015.0,J155,J155.00,4556007.0,7841019.0,K528,Gastritis unspecified
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302633015.0,J155,J155.00,4556007.0,7841019.0,K938,Gastritis unspecified
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",4525015.0,J153,J153.00,2043009.0,4525015.0,K292,Alcoholic gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",99677013.0,J152,J152.00,60002000.0,99677013.0,K296,Gastric mucosal hypertrophy
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",554831000006112.0,J1511,J151100,8493009.0,15005019.0,K293,Chronic inflammatory gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",554831000006112.0,J1511,J151100,8493009.0,15005019.0,K294,Chronic inflammatory gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",554831000006112.0,J1511,J151100,8493009.0,15005019.0,K295,Chronic inflammatory gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",511831000006115.0,J1541,J154100,72950008.0,502298012.0,K296,Bile induced gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",353328012.0,J123,J123.00,235692002.0,353328012.0,K267,Duodenal erosion
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",353328012.0,J123,J123.00,235692002.0,353328012.0,K266,Duodenal erosion
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",353328012.0,J123,J123.00,235692002.0,353328012.0,K267 ,Duodenal erosion
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",353328012.0,J123,J123.00,235692002.0,353328012.0,K261 ,Duodenal erosion
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",353328012.0,J123,J123.00,235692002.0,353328012.0,K265 ,Duodenal erosion
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",353328012.0,J123,J123.00,235692002.0,353328012.0,K269,Duodenal erosion
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",353328012.0,J123,J123.00,235692002.0,353328012.0,K261,Duodenal erosion
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",353328012.0,J123,J123.00,235692002.0,353328012.0,K264,Duodenal erosion
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",353328012.0,J123,J123.00,235692002.0,353328012.0,K264 ,Duodenal erosion
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",353328012.0,J123,J123.00,235692002.0,353328012.0,K262 ,Duodenal erosion
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",353328012.0,J123,J123.00,235692002.0,353328012.0,K260,Duodenal erosion
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",353328012.0,J123,J123.00,235692002.0,353328012.0,K265,Duodenal erosion
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",353328012.0,J123,J123.00,235692002.0,353328012.0,K260 ,Duodenal erosion
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",353328012.0,J123,J123.00,235692002.0,353328012.0,K266 ,Duodenal erosion
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",353328012.0,J123,J123.00,235692002.0,353328012.0,K262,Duodenal erosion
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",353328012.0,J123,J123.00,235692002.0,353328012.0,K263,Duodenal erosion
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",353328012.0,J123,J123.00,235692002.0,353328012.0,K269 ,Duodenal erosion
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",353328012.0,J123,J123.00,235692002.0,353328012.0,K263 ,Duodenal erosion
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302624017.0,J154,J154.00,4556007.0,7841019.0,K295,Other specified gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302624017.0,J154,J154.00,4556007.0,7841019.0,K290,Other specified gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302624017.0,J154,J154.00,4556007.0,7841019.0,K294,Other specified gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302624017.0,J154,J154.00,4556007.0,7841019.0,K292,Other specified gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302624017.0,J154,J154.00,4556007.0,7841019.0,K291,Other specified gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302624017.0,J154,J154.00,4556007.0,7841019.0,K297,Other specified gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302624017.0,J154,J154.00,4556007.0,7841019.0,A084,Other specified gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302624017.0,J154,J154.00,4556007.0,7841019.0,K296,Other specified gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302624017.0,J154,J154.00,4556007.0,7841019.0,K293,Other specified gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302624017.0,J154,J154.00,4556007.0,7841019.0,A188,Other specified gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302624017.0,J154,J154.00,4556007.0,7841019.0,E639,Other specified gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302624017.0,J154,J154.00,4556007.0,7841019.0,K528,Other specified gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302624017.0,J154,J154.00,4556007.0,7841019.0,K938,Other specified gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302621013.0,J1512,J151200,196735001.0,302621013.0,K293,Chronic superficial gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302621013.0,J1512,J151200,196735001.0,302621013.0,K528,Chronic superficial gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302621013.0,J1512,J151200,196735001.0,302621013.0,E168,Chronic superficial gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",339001014.0,1957,1957.00,225587003.0,339001014.0,K219,Gastric reflux
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",799341000006115.0,J1011-2,J101112,266433003.0,396339011.0,K210,Gastro-oesophageal reflux with oesophagitis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",396340013.0,J1011,J101100,266433003.0,396340013.0,K210,Reflux oesophagitis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",452891000006114.0,J1011-1,J101111,698065002.0,2970070010.0,K219,Acid reflux
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",1221523017.0,760L1-1,760L111,265357009.0,394124015.0,G248,Antireflux procedure using thoracic approach NEC
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",1221523017.0,760L1-1,760L111,265357009.0,394124015.0,G244,Antireflux procedure using thoracic approach NEC
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",1221523017.0,760L1-1,760L111,265357009.0,394124015.0,G246,Antireflux procedure using thoracic approach NEC
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",1221523017.0,760L1-1,760L111,265357009.0,394124015.0,G245,Antireflux procedure using thoracic approach NEC
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",1221523017.0,760L1-1,760L111,265357009.0,394124015.0,G243,Antireflux procedure using thoracic approach NEC
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",1221523017.0,760L1-1,760L111,265357009.0,394124015.0,G249,Antireflux procedure using thoracic approach NEC
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",1221523017.0,760L1-1,760L111,265357009.0,394124015.0,G241,Antireflux procedure using thoracic approach NEC
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",1221523017.0,760L1-1,760L111,265357009.0,394124015.0,G242,Antireflux procedure using thoracic approach NEC
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",303321000000115.0,171J,171J.00,200151000000106.0,303321000000115.0,R05X,Reflux cough
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",487911000006115.0,760L3-1,760L311,9429009.0,16524019.0,G245,Antireflux gastroplasty
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",487911000006115.0,760L3-1,760L311,9429009.0,16524019.0,G301,Antireflux gastroplasty
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",394129013.0,760L3,760L300,265360002.0,394129013.0,G244,Antireflux gastropexy
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",267111000006116.0,760L-1,760L.11,265357009.0,394126018.0,G248,Oesophageal reflux operations
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",267111000006116.0,760L-1,760L.11,265357009.0,394126018.0,G244,Oesophageal reflux operations
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",267111000006116.0,760L-1,760L.11,265357009.0,394126018.0,G246,Oesophageal reflux operations
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",267111000006116.0,760L-1,760L.11,265357009.0,394126018.0,G245,Oesophageal reflux operations
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",267111000006116.0,760L-1,760L.11,265357009.0,394126018.0,G243,Oesophageal reflux operations
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",267111000006116.0,760L-1,760L.11,265357009.0,394126018.0,G249,Oesophageal reflux operations
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",267111000006116.0,760L-1,760L.11,265357009.0,394126018.0,G241,Oesophageal reflux operations
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",267111000006116.0,760L-1,760L.11,265357009.0,394126018.0,G242,Oesophageal reflux operations
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",269047010.0,760L1,760L100,265357009.0,394124015.0,,Antireflux operation using thoracic approach NEC
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",394127010.0,760L0,760L000,265358004.0,394127010.0,G241,Antireflux fundoplication using thoracic approach
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",396339011.0,J1011-3,J101113,266433003.0,396339011.0,K210,Oesophageal reflux with oesophagitis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",487951000006119.0,760L4,760L400,265357009.0,394124015.0,G248,Antireflux procedure and gastroplasty HFQ
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",487951000006119.0,760L4,760L400,265357009.0,394124015.0,G244,Antireflux procedure and gastroplasty HFQ
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",487951000006119.0,760L4,760L400,265357009.0,394124015.0,G246,Antireflux procedure and gastroplasty HFQ
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",487951000006119.0,760L4,760L400,265357009.0,394124015.0,G245,Antireflux procedure and gastroplasty HFQ
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",487951000006119.0,760L4,760L400,265357009.0,394124015.0,G243,Antireflux procedure and gastroplasty HFQ
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",487951000006119.0,760L4,760L400,265357009.0,394124015.0,G249,Antireflux procedure and gastroplasty HFQ
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",487951000006119.0,760L4,760L400,265357009.0,394124015.0,G241,Antireflux procedure and gastroplasty HFQ
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",487951000006119.0,760L4,760L400,265357009.0,394124015.0,G242,Antireflux procedure and gastroplasty HFQ
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",269069015.0,760M,760M.00,173704005.0,269069015.0,,Revision of antireflux operations
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",487941000006116.0,760L,760L.00,265357009.0,394125019.0,G248,Antireflux operations
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",487941000006116.0,760L,760L.00,265357009.0,394125019.0,G244,Antireflux operations
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",487941000006116.0,760L,760L.00,265357009.0,394125019.0,G246,Antireflux operations
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",487941000006116.0,760L,760L.00,265357009.0,394125019.0,G245,Antireflux operations
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",487941000006116.0,760L,760L.00,265357009.0,394125019.0,G243,Antireflux operations
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",487941000006116.0,760L,760L.00,265357009.0,394125019.0,G249,Antireflux operations
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",487941000006116.0,760L,760L.00,265357009.0,394125019.0,G241,Antireflux operations
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",487941000006116.0,760L,760L.00,265357009.0,394125019.0,G242,Antireflux operations
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",394128017.0,760L2,760L200,265359007.0,394128017.0,G243,Antireflux fundoplication using abdominal approach
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",353273019.0,J11z-1,J11z.11,235652004.0,353273019.0,K253,Gastric erosions
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",353273019.0,J11z-1,J11z.11,235652004.0,353273019.0,K255,Gastric erosions
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",353273019.0,J11z-1,J11z.11,235652004.0,353273019.0,K251,Gastric erosions
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",353273019.0,J11z-1,J11z.11,235652004.0,353273019.0,K255 ,Gastric erosions
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",353273019.0,J11z-1,J11z.11,235652004.0,353273019.0,K259,Gastric erosions
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",353273019.0,J11z-1,J11z.11,235652004.0,353273019.0,K252,Gastric erosions
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",353273019.0,J11z-1,J11z.11,235652004.0,353273019.0,K256,Gastric erosions
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",353273019.0,J11z-1,J11z.11,235652004.0,353273019.0,K257 ,Gastric erosions
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",353273019.0,J11z-1,J11z.11,235652004.0,353273019.0,K257,Gastric erosions
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",353273019.0,J11z-1,J11z.11,235652004.0,353273019.0,K250,Gastric erosions
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",353273019.0,J11z-1,J11z.11,235652004.0,353273019.0,K254 ,Gastric erosions
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",353273019.0,J11z-1,J11z.11,235652004.0,353273019.0,K253 ,Gastric erosions
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",353273019.0,J11z-1,J11z.11,235652004.0,353273019.0,K254,Gastric erosions
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",353273019.0,J11z-1,J11z.11,235652004.0,353273019.0,K256 ,Gastric erosions
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",353273019.0,J11z-1,J11z.11,235652004.0,353273019.0,K259 ,Gastric erosions
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",353273019.0,J11z-1,J11z.11,235652004.0,353273019.0,K251 ,Gastric erosions
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",353273019.0,J11z-1,J11z.11,235652004.0,353273019.0,K252 ,Gastric erosions
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",353273019.0,J11z-1,J11z.11,235652004.0,353273019.0,K250 ,Gastric erosions
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",303750019.0,Jyu13,Jyu1300,4556007.0,7841019.0,K295,[X]Other gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",303750019.0,Jyu13,Jyu1300,4556007.0,7841019.0,K290,[X]Other gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",303750019.0,Jyu13,Jyu1300,4556007.0,7841019.0,K294,[X]Other gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",303750019.0,Jyu13,Jyu1300,4556007.0,7841019.0,K292,[X]Other gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",303750019.0,Jyu13,Jyu1300,4556007.0,7841019.0,K291,[X]Other gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",303750019.0,Jyu13,Jyu1300,4556007.0,7841019.0,K297,[X]Other gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",303750019.0,Jyu13,Jyu1300,4556007.0,7841019.0,A084,[X]Other gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",303750019.0,Jyu13,Jyu1300,4556007.0,7841019.0,K296,[X]Other gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",303750019.0,Jyu13,Jyu1300,4556007.0,7841019.0,K293,[X]Other gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",303750019.0,Jyu13,Jyu1300,4556007.0,7841019.0,A188,[X]Other gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",303750019.0,Jyu13,Jyu1300,4556007.0,7841019.0,E639,[X]Other gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",303750019.0,Jyu13,Jyu1300,4556007.0,7841019.0,K528,[X]Other gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",303750019.0,Jyu13,Jyu1300,4556007.0,7841019.0,K938,[X]Other gastritis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",303048019.0,J4z0,J4z0.00,4556007.0,7841019.0,K295,Non-infective gastritis NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",303048019.0,J4z0,J4z0.00,4556007.0,7841019.0,K290,Non-infective gastritis NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",303048019.0,J4z0,J4z0.00,4556007.0,7841019.0,K294,Non-infective gastritis NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",303048019.0,J4z0,J4z0.00,4556007.0,7841019.0,K292,Non-infective gastritis NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",303048019.0,J4z0,J4z0.00,4556007.0,7841019.0,K291,Non-infective gastritis NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",303048019.0,J4z0,J4z0.00,4556007.0,7841019.0,K297,Non-infective gastritis NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",303048019.0,J4z0,J4z0.00,4556007.0,7841019.0,A084,Non-infective gastritis NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",303048019.0,J4z0,J4z0.00,4556007.0,7841019.0,K296,Non-infective gastritis NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",303048019.0,J4z0,J4z0.00,4556007.0,7841019.0,K293,Non-infective gastritis NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",303048019.0,J4z0,J4z0.00,4556007.0,7841019.0,A188,Non-infective gastritis NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",303048019.0,J4z0,J4z0.00,4556007.0,7841019.0,E639,Non-infective gastritis NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",303048019.0,J4z0,J4z0.00,4556007.0,7841019.0,K528,Non-infective gastritis NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",303048019.0,J4z0,J4z0.00,4556007.0,7841019.0,K938,Non-infective gastritis NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302635010.0,J15z,J15z.00,196731005.0,302616010.0,K293,Gastritis and duodenitis NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302635010.0,J15z,J15z.00,196731005.0,302616010.0,K290,Gastritis and duodenitis NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302635010.0,J15z,J15z.00,196731005.0,302616010.0,K294,Gastritis and duodenitis NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302635010.0,J15z,J15z.00,196731005.0,302616010.0,K291,Gastritis and duodenitis NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302635010.0,J15z,J15z.00,196731005.0,302616010.0,K296,Gastritis and duodenitis NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302635010.0,J15z,J15z.00,196731005.0,302616010.0,K298,Gastritis and duodenitis NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302635010.0,J15z,J15z.00,196731005.0,302616010.0,K297,Gastritis and duodenitis NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302635010.0,J15z,J15z.00,196731005.0,302616010.0,K299,Gastritis and duodenitis NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302635010.0,J15z,J15z.00,196731005.0,302616010.0,K292,Gastritis and duodenitis NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302635010.0,J15z,J15z.00,196731005.0,302616010.0,K295,Gastritis and duodenitis NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302623011.0,J151z,J151z00,8493009.0,15005019.0,K293,Chronic gastritis NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302623011.0,J151z,J151z00,8493009.0,15005019.0,K294,Chronic gastritis NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302623011.0,J151z,J151z00,8493009.0,15005019.0,K295,Chronic gastritis NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302632013.0,J154z,J154z00,4556007.0,7841019.0,K295,Other specified gastritis NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302632013.0,J154z,J154z00,4556007.0,7841019.0,K290,Other specified gastritis NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302632013.0,J154z,J154z00,4556007.0,7841019.0,K294,Other specified gastritis NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302632013.0,J154z,J154z00,4556007.0,7841019.0,K292,Other specified gastritis NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302632013.0,J154z,J154z00,4556007.0,7841019.0,K291,Other specified gastritis NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302632013.0,J154z,J154z00,4556007.0,7841019.0,K297,Other specified gastritis NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302632013.0,J154z,J154z00,4556007.0,7841019.0,A084,Other specified gastritis NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302632013.0,J154z,J154z00,4556007.0,7841019.0,K296,Other specified gastritis NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302632013.0,J154z,J154z00,4556007.0,7841019.0,K293,Other specified gastritis NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302632013.0,J154z,J154z00,4556007.0,7841019.0,A188,Other specified gastritis NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302632013.0,J154z,J154z00,4556007.0,7841019.0,E639,Other specified gastritis NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302632013.0,J154z,J154z00,4556007.0,7841019.0,K528,Other specified gastritis NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",302632013.0,J154z,J154z00,4556007.0,7841019.0,K938,Other specified gastritis NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",269068011.0,760Lz,760Lz00,265357009.0,394125019.0,,Antireflux operation NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",2532987010.0,J10y5,J10y500,414581006.0,2532987010.0,K228,Laryngopharyngeal reflux
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",269074011.0,760Mz,760Mz00,173704005.0,2791486011.0,,Revision of antireflux operation NOS
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",353143016.0,J10y4-2,J10y412,235595009.0,353143016.0,K210,Gastro-oesophageal reflux
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",353143016.0,J10y4-2,J10y412,235595009.0,353143016.0,P788,Gastro-oesophageal reflux
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",353143016.0,J10y4-2,J10y412,235595009.0,353143016.0,K219,Gastro-oesophageal reflux
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",353140018.0,J10y4-3,J10y413,698065002.0,2970070010.0,K219,Acid reflux
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",266601000006112.0,J10y4,J10y400,266435005.0,396344016.0,K219,Oesopheal reflux without mention of oesophagitis
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",372246012.0,J10y4-1,J10y411,249496004.0,372246012.0,K210,Oesophageal reflux
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",372246012.0,J10y4-1,J10y411,249496004.0,372246012.0,K219,Oesophageal reflux
+"Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",269067018.0,760Ly,760Ly00,265357009.0,394125019.0,,Other specified antireflux operation

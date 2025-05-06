@@ -1,0 +1,77 @@
+Condition,MedCodeId,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,ICD10Code,Term
+Hypoparathyroidism,297635015.0,F395,F395.00,57958006.0,96350012.0,E200,Myopathy due to endocrine disease EC
+Hypoparathyroidism,3441491000006113.0,^ESCTMU344149,,57958006.0,96353014.0,E200,Muscle disease related to endocrine disease
+Hypoparathyroidism,3095731000006119.0,^ESCTDE309573,,36976004.0,61681019.0,E200,Deficiency of parathyrin
+Hypoparathyroidism,3095741000006112.0,^ESCTDE309574,,36976004.0,61682014.0,E200,Deficiency of PTH
+Hypoparathyroidism,3441501000006117.0,^ESCTMU344150,,57958006.0,1231782017.0,E200,Muscle disorders associated with endocrine disease
+Hypoparathyroidism,356185013.0,C1212,C121200,237654002.0,356185013.0,E200,Idiopathic hypoparathyroidism
+Hypoparathyroidism,297636019.0,F395z,F395z00,57958006.0,96350012.0,E200,Myopathy due to endocrine disease NOS
+Hypoparathyroidism,3441481000006110.0,^ESCTEN344148,,57958006.0,96350012.0,E200,Endocrine myopathy
+Hypoparathyroidism,61678012.0,C121,C121.00,36976004.0,61678012.0,E200,Hypoparathyroidism
+Hypoparathyroidism,292683010.0,C121z,C121z00,36976004.0,61678012.0,E200,Hypoparathyroidism NOS
+Hypoparathyroidism,293765015.0,Cyu40,Cyu4000,36976004.0,61678012.0,E200,[X]Other hypoparathyroidism
+Hypoparathyroidism,3095721000006117.0,^ESCTDE309572,,36976004.0,61680018.0,E200,Deficiency of parathyroid hormone
+Hypoparathyroidism,297635015.0,F395,F395.00,57958006.0,96350012.0,E201,Myopathy due to endocrine disease EC
+Hypoparathyroidism,985661000006115.0,74212,7421200,20248004.0,34053018.0,E201,Curettage of adenoid
+Hypoparathyroidism,230871000006114.0,742,742..00,118784006.0,183468015.0,E201,Pharynx operations
+Hypoparathyroidism,3458111000006115.0,^ESCTPA345811,,58976002.0,98010014.0,E201,Parathyroid hormone resistant hypoparathyroidism
+Hypoparathyroidism,2964961000006113.0,^ESCTTS296496,,28913000.0,1226092010.0,E201,Ts and As - Tonsillectomy and adenoidectomy
+Hypoparathyroidism,3458101000006118.0,^ESCTFA345810,,58976002.0,98009016.0,E201,Familial pseudohypoparathyroidism
+Hypoparathyroidism,3441491000006113.0,^ESCTMU344149,,57958006.0,96353014.0,E201,Muscle disease related to endocrine disease
+Hypoparathyroidism,4321841000006113.5,^ESCTAS432184,,119954001.0,460597013.0,E201,As - Adenoidectomy
+Hypoparathyroidism,4321861000006113.0,^ESCTAD432186,,119954001.0,460599011.0,E201,Ads - Adenoidectomy
+Hypoparathyroidism,2964941000006114.0,^ESCTTO296494,,28913000.0,48410019.0,E201,Tonsillectomy with adenoidectomy
+Hypoparathyroidism,3458121000006111.0,^ESCTCO345812,,58976002.0,498307013.0,E201,Constitutional chronic hypocalcaemia
+Hypoparathyroidism,2964951000006111.0,^ESCTAD296495,,28913000.0,48413017.0,E201,Adenotonsillectomy
+Hypoparathyroidism,7058361000006117.0,^ESCTPL705836,,426391000.0,2674424017.0,E201,Plasma mediated ablation tonsillectomy
+Hypoparathyroidism,4312111000006116.0,^ESCTPH431211,,118784006.0,447451016.0,E201,Pharynx procedure
+Hypoparathyroidism,3441501000006117.0,^ESCTMU344150,,57958006.0,1231782017.0,E201,Muscle disorders associated with endocrine disease
+Hypoparathyroidism,4312091000006113.0,^ESCTPR431209,,118784006.0,183468015.0,E201,Procedure on pharynx
+Hypoparathyroidism,4312101000006119.0,^ESCTPH431210,,118784006.0,447450015.0,E201,Pharyngeal procedure
+Hypoparathyroidism,2674425016.0,7530C,7530C00,426391000.0,2674425016.0,E201,Coblation tonsillectomy
+Hypoparathyroidism,297636019.0,F395z,F395z00,57958006.0,96350012.0,E201,Myopathy due to endocrine disease NOS
+Hypoparathyroidism,3441481000006110.0,^ESCTEN344148,,57958006.0,96350012.0,E201,Endocrine myopathy
+Hypoparathyroidism,268496017.0,75308,7530800,173430005.0,268496017.0,E201,Dissection tonsillectomy and adenoidectomy
+Hypoparathyroidism,268497014.0,75309,7530900,173431009.0,268497014.0,E201,Guillotine tonsillectomy and adenoidectomy
+Hypoparathyroidism,460600014.0,74210,7421000,119954001.0,460600014.0,E201,Adenoidectomy
+Hypoparathyroidism,484011019.0,75306,7530600,28913000.0,484011019.0,E201,Tonsillectomy and adenoidectomy
+Hypoparathyroidism,498253016.0,C3543,C354300,58976002.0,98005010.0,E201,Pseudohypoparathyroidism
+Hypoparathyroidism,267827011.0,742z,742z.00,118784006.0,183468015.0,E201,Pharynx operations NOS
+Hypoparathyroidism,356191010.0,C3543-1,C354311,237659007.0,356191010.0,E201,Pseudopseudohypoparathyroidism
+Hypoparathyroidism,3458091000006112.0,^ESCTCO345809,,58976002.0,98008012.0,E201,Constitutional chronic hypocalcemia
+Hypoparathyroidism,862271000006112.0,75306-99,7530699,28913000.0,862271000006112.0,E201,Tonsillectomy + adenoidectomy
+Hypoparathyroidism,297635015.0,F395,F395.00,57958006.0,96350012.0,E208,Myopathy due to endocrine disease EC
+Hypoparathyroidism,230871000006114.0,742,742..00,118784006.0,183468015.0,E208,Pharynx operations
+Hypoparathyroidism,3441491000006113.0,^ESCTMU344149,,57958006.0,96353014.0,E208,Muscle disease related to endocrine disease
+Hypoparathyroidism,3095731000006119.0,^ESCTDE309573,,36976004.0,61681019.0,E208,Deficiency of parathyrin
+Hypoparathyroidism,4312111000006116.0,^ESCTPH431211,,118784006.0,447451016.0,E208,Pharynx procedure
+Hypoparathyroidism,3095741000006112.0,^ESCTDE309574,,36976004.0,61682014.0,E208,Deficiency of PTH
+Hypoparathyroidism,3441501000006117.0,^ESCTMU344150,,57958006.0,1231782017.0,E208,Muscle disorders associated with endocrine disease
+Hypoparathyroidism,4312091000006113.0,^ESCTPR431209,,118784006.0,183468015.0,E208,Procedure on pharynx
+Hypoparathyroidism,4312101000006119.0,^ESCTPH431210,,118784006.0,447450015.0,E208,Pharyngeal procedure
+Hypoparathyroidism,297636019.0,F395z,F395z00,57958006.0,96350012.0,E208,Myopathy due to endocrine disease NOS
+Hypoparathyroidism,3441481000006110.0,^ESCTEN344148,,57958006.0,96350012.0,E208,Endocrine myopathy
+Hypoparathyroidism,61678012.0,C121,C121.00,36976004.0,61678012.0,E208,Hypoparathyroidism
+Hypoparathyroidism,292683010.0,C121z,C121z00,36976004.0,61678012.0,E208,Hypoparathyroidism NOS
+Hypoparathyroidism,267827011.0,742z,742z.00,118784006.0,183468015.0,E208,Pharynx operations NOS
+Hypoparathyroidism,293765015.0,Cyu40,Cyu4000,36976004.0,61678012.0,E208,[X]Other hypoparathyroidism
+Hypoparathyroidism,3095721000006117.0,^ESCTDE309572,,36976004.0,61680018.0,E208,Deficiency of parathyroid hormone
+Hypoparathyroidism,297635015.0,F395,F395.00,57958006.0,96350012.0,E209,Myopathy due to endocrine disease EC
+Hypoparathyroidism,317139015.0,R017,R017.00,10629009.0,18466010.0,E209,[D]Tetany
+Hypoparathyroidism,317140018.0,R0170,R017000,75140002.0,124801018.0,E209,[D]Carpopedal spasm
+Hypoparathyroidism,317141019.0,R017z,R017z00,10629009.0,18466010.0,E209,[D]Tetany NOS
+Hypoparathyroidism,230871000006114.0,742,742..00,118784006.0,183468015.0,E209,Pharynx operations
+Hypoparathyroidism,3441491000006113.0,^ESCTMU344149,,57958006.0,96353014.0,E209,Muscle disease related to endocrine disease
+Hypoparathyroidism,3095731000006119.0,^ESCTDE309573,,36976004.0,61681019.0,E209,Deficiency of parathyrin
+Hypoparathyroidism,4312111000006116.0,^ESCTPH431211,,118784006.0,447451016.0,E209,Pharynx procedure
+Hypoparathyroidism,3095741000006112.0,^ESCTDE309574,,36976004.0,61682014.0,E209,Deficiency of PTH
+Hypoparathyroidism,3441501000006117.0,^ESCTMU344150,,57958006.0,1231782017.0,E209,Muscle disorders associated with endocrine disease
+Hypoparathyroidism,4312091000006113.0,^ESCTPR431209,,118784006.0,183468015.0,E209,Procedure on pharynx
+Hypoparathyroidism,4312101000006119.0,^ESCTPH431210,,118784006.0,447450015.0,E209,Pharyngeal procedure
+Hypoparathyroidism,297636019.0,F395z,F395z00,57958006.0,96350012.0,E209,Myopathy due to endocrine disease NOS
+Hypoparathyroidism,3441481000006110.0,^ESCTEN344148,,57958006.0,96350012.0,E209,Endocrine myopathy
+Hypoparathyroidism,61678012.0,C121,C121.00,36976004.0,61678012.0,E209,Hypoparathyroidism
+Hypoparathyroidism,292683010.0,C121z,C121z00,36976004.0,61678012.0,E209,Hypoparathyroidism NOS
+Hypoparathyroidism,267827011.0,742z,742z.00,118784006.0,183468015.0,E209,Pharynx operations NOS
+Hypoparathyroidism,293765015.0,Cyu40,Cyu4000,36976004.0,61678012.0,E209,[X]Other hypoparathyroidism
+Hypoparathyroidism,3095721000006117.0,^ESCTDE309572,,36976004.0,61680018.0,E209,Deficiency of parathyroid hormone

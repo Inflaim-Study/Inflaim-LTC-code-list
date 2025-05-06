@@ -1,0 +1,604 @@
+Condition,MedCodeId,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,ICD10Code,Term
+Cerebrovascular diseases,493147010.0,434,434..00,41902000.0,493147010.0,,Blood cross-matching
+Cerebrovascular diseases,257730012.0,433,433..00,365641003.0,488947014.0,,Minor blood groups
+Cerebrovascular diseases,437761000006110.0,431,431..00,991901000000101.0,2567581000000118.0,,ABO blood grouping
+Cerebrovascular diseases,122371000006118.0,G61-2,G61..12,274100004.0,409860011.0,S068,Stroke due to intracerebral haemorrhage
+Cerebrovascular diseases,122371000006118.0,G61-2,G61..12,274100004.0,409860011.0,P524,Stroke due to intracerebral haemorrhage
+Cerebrovascular diseases,122371000006118.0,G61-2,G61..12,274100004.0,409860011.0,I619,Stroke due to intracerebral haemorrhage
+Cerebrovascular diseases,122371000006118.0,G61-2,G61..12,274100004.0,409860011.0,I618,Stroke due to intracerebral haemorrhage
+Cerebrovascular diseases,495394013.0,G610,G610.00,49422009.0,495394013.0,I611,Cortical haemorrhage
+Cerebrovascular diseases,300322016.0,G6410,G641000,195190007.0,300322016.0,I634,Cerebral infarction due to embolism of cerebral arteries
+Cerebrovascular diseases,300290016.0,G62,G62..00,62914000.0,104563015.0,G463,Other and unspecified intracranial haemorrhage
+Cerebrovascular diseases,300290016.0,G62,G62..00,62914000.0,104563015.0,G468 ,Other and unspecified intracranial haemorrhage
+Cerebrovascular diseases,300290016.0,G62,G62..00,62914000.0,104563015.0,G463 ,Other and unspecified intracranial haemorrhage
+Cerebrovascular diseases,300290016.0,G62,G62..00,62914000.0,104563015.0,G466 ,Other and unspecified intracranial haemorrhage
+Cerebrovascular diseases,300290016.0,G62,G62..00,62914000.0,104563015.0,G468,Other and unspecified intracranial haemorrhage
+Cerebrovascular diseases,300290016.0,G62,G62..00,62914000.0,104563015.0,G460 ,Other and unspecified intracranial haemorrhage
+Cerebrovascular diseases,300290016.0,G62,G62..00,62914000.0,104563015.0,I680,Other and unspecified intracranial haemorrhage
+Cerebrovascular diseases,300290016.0,G62,G62..00,62914000.0,104563015.0,G466,Other and unspecified intracranial haemorrhage
+Cerebrovascular diseases,300290016.0,G62,G62..00,62914000.0,104563015.0,G467 ,Other and unspecified intracranial haemorrhage
+Cerebrovascular diseases,300290016.0,G62,G62..00,62914000.0,104563015.0,G464 ,Other and unspecified intracranial haemorrhage
+Cerebrovascular diseases,300290016.0,G62,G62..00,62914000.0,104563015.0,G460,Other and unspecified intracranial haemorrhage
+Cerebrovascular diseases,300290016.0,G62,G62..00,62914000.0,104563015.0,I681 ,Other and unspecified intracranial haemorrhage
+Cerebrovascular diseases,300290016.0,G62,G62..00,62914000.0,104563015.0,G462 ,Other and unspecified intracranial haemorrhage
+Cerebrovascular diseases,300290016.0,G62,G62..00,62914000.0,104563015.0,G462,Other and unspecified intracranial haemorrhage
+Cerebrovascular diseases,300290016.0,G62,G62..00,62914000.0,104563015.0,I682,Other and unspecified intracranial haemorrhage
+Cerebrovascular diseases,300290016.0,G62,G62..00,62914000.0,104563015.0,G467,Other and unspecified intracranial haemorrhage
+Cerebrovascular diseases,300290016.0,G62,G62..00,62914000.0,104563015.0,I681,Other and unspecified intracranial haemorrhage
+Cerebrovascular diseases,300290016.0,G62,G62..00,62914000.0,104563015.0,I680 ,Other and unspecified intracranial haemorrhage
+Cerebrovascular diseases,300290016.0,G62,G62..00,62914000.0,104563015.0,I688 ,Other and unspecified intracranial haemorrhage
+Cerebrovascular diseases,300290016.0,G62,G62..00,62914000.0,104563015.0,I682 ,Other and unspecified intracranial haemorrhage
+Cerebrovascular diseases,300290016.0,G62,G62..00,62914000.0,104563015.0,G465,Other and unspecified intracranial haemorrhage
+Cerebrovascular diseases,300290016.0,G62,G62..00,62914000.0,104563015.0,G461 ,Other and unspecified intracranial haemorrhage
+Cerebrovascular diseases,300290016.0,G62,G62..00,62914000.0,104563015.0,G465 ,Other and unspecified intracranial haemorrhage
+Cerebrovascular diseases,300290016.0,G62,G62..00,62914000.0,104563015.0,G464,Other and unspecified intracranial haemorrhage
+Cerebrovascular diseases,300290016.0,G62,G62..00,62914000.0,104563015.0,I688,Other and unspecified intracranial haemorrhage
+Cerebrovascular diseases,300290016.0,G62,G62..00,62914000.0,104563015.0,G461,Other and unspecified intracranial haemorrhage
+Cerebrovascular diseases,300290016.0,G62,G62..00,62914000.0,104563015.0,I634,Other and unspecified intracranial haemorrhage
+Cerebrovascular diseases,300290016.0,G62,G62..00,62914000.0,104563015.0,I673,Other and unspecified intracranial haemorrhage
+Cerebrovascular diseases,300290016.0,G62,G62..00,62914000.0,104563015.0,O994,Other and unspecified intracranial haemorrhage
+Cerebrovascular diseases,300290016.0,G62,G62..00,62914000.0,104563015.0,I679,Other and unspecified intracranial haemorrhage
+Cerebrovascular diseases,300290016.0,G62,G62..00,62914000.0,104563015.0,I675,Other and unspecified intracranial haemorrhage
+Cerebrovascular diseases,300290016.0,G62,G62..00,62914000.0,104563015.0,I676,Other and unspecified intracranial haemorrhage
+Cerebrovascular diseases,300290016.0,G62,G62..00,62914000.0,104563015.0,I671,Other and unspecified intracranial haemorrhage
+Cerebrovascular diseases,300290016.0,G62,G62..00,62914000.0,104563015.0,I670,Other and unspecified intracranial haemorrhage
+Cerebrovascular diseases,300290016.0,G62,G62..00,62914000.0,104563015.0,I674,Other and unspecified intracranial haemorrhage
+Cerebrovascular diseases,300290016.0,G62,G62..00,62914000.0,104563015.0,I677,Other and unspecified intracranial haemorrhage
+Cerebrovascular diseases,300290016.0,G62,G62..00,62914000.0,104563015.0,I672,Other and unspecified intracranial haemorrhage
+Cerebrovascular diseases,300290016.0,G62,G62..00,62914000.0,104563015.0,I678,Other and unspecified intracranial haemorrhage
+Cerebrovascular diseases,300290016.0,G62,G62..00,62914000.0,104563015.0,I633,Other and unspecified intracranial haemorrhage
+Cerebrovascular diseases,300290016.0,G62,G62..00,62914000.0,104563015.0,I669,Other and unspecified intracranial haemorrhage
+Cerebrovascular diseases,395777014.0,G63,G63..00,266253001.0,395777014.0,I659,Precerebral arterial occlusion
+Cerebrovascular diseases,345655015.0,G665,G665.00,230699008.0,345655015.0,I639,Pure motor lacunar syndrome
+Cerebrovascular diseases,345655015.0,G665,G665.00,230699008.0,345655015.0,I635,Pure motor lacunar syndrome
+Cerebrovascular diseases,7845011.0,G3111,G311100,4557003.0,7845011.0,I200,Unstable angina
+Cerebrovascular diseases,299711010.0,G305,G305.00,58612006.0,1231860015.0,I212,Lateral myocardial infarction NOS
+Cerebrovascular diseases,744901000006114.0,G61,G61..00,274100004.0,2819959010.0,S068,Intracerebral haemorrhage
+Cerebrovascular diseases,744901000006114.0,G61,G61..00,274100004.0,2819959010.0,P524,Intracerebral haemorrhage
+Cerebrovascular diseases,744901000006114.0,G61,G61..00,274100004.0,2819959010.0,I619,Intracerebral haemorrhage
+Cerebrovascular diseases,744901000006114.0,G61,G61..00,274100004.0,2819959010.0,I618,Intracerebral haemorrhage
+Cerebrovascular diseases,300277011.0,G617,G617.00,195168007.0,300277011.0,I615,"Intracerebral haemorrhage, intraventricular"
+Cerebrovascular diseases,744921000006116.0,G61X,G61X.00,274100004.0,409860011.0,S068,"Intracerebral haemorrhage in hemisphere, unspecified"
+Cerebrovascular diseases,744921000006116.0,G61X,G61X.00,274100004.0,409860011.0,P524,"Intracerebral haemorrhage in hemisphere, unspecified"
+Cerebrovascular diseases,744921000006116.0,G61X,G61X.00,274100004.0,409860011.0,I619,"Intracerebral haemorrhage in hemisphere, unspecified"
+Cerebrovascular diseases,744921000006116.0,G61X,G61X.00,274100004.0,409860011.0,I618,"Intracerebral haemorrhage in hemisphere, unspecified"
+Cerebrovascular diseases,1786198013.0,G30-6,G30..16,398274000.0,1786198013.0,I213,Thrombosis - coronary
+Cerebrovascular diseases,1786198013.0,G30-6,G30..16,398274000.0,1786198013.0,I214,Thrombosis - coronary
+Cerebrovascular diseases,1786198013.0,G30-6,G30..16,398274000.0,1786198013.0,I211,Thrombosis - coronary
+Cerebrovascular diseases,1786198013.0,G30-6,G30..16,398274000.0,1786198013.0,I210,Thrombosis - coronary
+Cerebrovascular diseases,1786198013.0,G30-6,G30..16,398274000.0,1786198013.0,I212,Thrombosis - coronary
+Cerebrovascular diseases,1786198013.0,G30-6,G30..16,398274000.0,1786198013.0,I240,Thrombosis - coronary
+Cerebrovascular diseases,1786198013.0,G30-6,G30..16,398274000.0,1786198013.0,I219,Thrombosis - coronary
+Cerebrovascular diseases,299710011.0,G304,G304.00,233838001.0,350371016.0,I212,Posterior myocardial infarction NOS
+Cerebrovascular diseases,256460011.0,323Z,323Z.00,164865005.0,256452010.0,I258,ECG: myocardial infarct NOS
+Cerebrovascular diseases,256460011.0,323Z,323Z.00,164865005.0,256452010.0,I211,ECG: myocardial infarct NOS
+Cerebrovascular diseases,256460011.0,323Z,323Z.00,164865005.0,256452010.0,I228,ECG: myocardial infarct NOS
+Cerebrovascular diseases,256460011.0,323Z,323Z.00,164865005.0,256452010.0,I212,ECG: myocardial infarct NOS
+Cerebrovascular diseases,256460011.0,323Z,323Z.00,164865005.0,256452010.0,I213,ECG: myocardial infarct NOS
+Cerebrovascular diseases,256460011.0,323Z,323Z.00,164865005.0,256452010.0,I220,ECG: myocardial infarct NOS
+Cerebrovascular diseases,256460011.0,323Z,323Z.00,164865005.0,256452010.0,I221,ECG: myocardial infarct NOS
+Cerebrovascular diseases,256460011.0,323Z,323Z.00,164865005.0,256452010.0,I214,ECG: myocardial infarct NOS
+Cerebrovascular diseases,256460011.0,323Z,323Z.00,164865005.0,256452010.0,I219,ECG: myocardial infarct NOS
+Cerebrovascular diseases,256460011.0,323Z,323Z.00,164865005.0,256452010.0,I229,ECG: myocardial infarct NOS
+Cerebrovascular diseases,256460011.0,323Z,323Z.00,164865005.0,256452010.0,I252,ECG: myocardial infarct NOS
+Cerebrovascular diseases,256460011.0,323Z,323Z.00,164865005.0,256452010.0,I210,ECG: myocardial infarct NOS
+Cerebrovascular diseases,299813018.0,G353,G353.00,194856005.0,299808017.0,I221,Subsequent myocardial infarction of other sites
+Cerebrovascular diseases,299813018.0,G353,G353.00,194856005.0,299808017.0,I229,Subsequent myocardial infarction of other sites
+Cerebrovascular diseases,299813018.0,G353,G353.00,194856005.0,299808017.0,I220,Subsequent myocardial infarction of other sites
+Cerebrovascular diseases,299813018.0,G353,G353.00,194856005.0,299808017.0,I228,Subsequent myocardial infarction of other sites
+Cerebrovascular diseases,123491000006115.0,G605,G605.00,276284000.0,412361011.0,I604,Subarachnoid haemorrhage from basilar artery
+Cerebrovascular diseases,299808017.0,G35,G35..00,194856005.0,299808017.0,I221,Subsequent myocardial infarction
+Cerebrovascular diseases,299808017.0,G35,G35..00,194856005.0,299808017.0,I229,Subsequent myocardial infarction
+Cerebrovascular diseases,299808017.0,G35,G35..00,194856005.0,299808017.0,I220,Subsequent myocardial infarction
+Cerebrovascular diseases,299808017.0,G35,G35..00,194856005.0,299808017.0,I228,Subsequent myocardial infarction
+Cerebrovascular diseases,299811016.0,G350,G350.00,194857001.0,299811016.0,I220,Subsequent myocardial infarction of anterior wall
+Cerebrovascular diseases,300242011.0,G600,G600.00,195154000.0,300242011.0,I607,Ruptured berry aneurysm
+Cerebrovascular diseases,256452010.0,323,323..00,164865005.0,256452010.0,I258,ECG: myocardial infarction
+Cerebrovascular diseases,256452010.0,323,323..00,164865005.0,256452010.0,I211,ECG: myocardial infarction
+Cerebrovascular diseases,256452010.0,323,323..00,164865005.0,256452010.0,I228,ECG: myocardial infarction
+Cerebrovascular diseases,256452010.0,323,323..00,164865005.0,256452010.0,I212,ECG: myocardial infarction
+Cerebrovascular diseases,256452010.0,323,323..00,164865005.0,256452010.0,I213,ECG: myocardial infarction
+Cerebrovascular diseases,256452010.0,323,323..00,164865005.0,256452010.0,I220,ECG: myocardial infarction
+Cerebrovascular diseases,256452010.0,323,323..00,164865005.0,256452010.0,I221,ECG: myocardial infarction
+Cerebrovascular diseases,256452010.0,323,323..00,164865005.0,256452010.0,I214,ECG: myocardial infarction
+Cerebrovascular diseases,256452010.0,323,323..00,164865005.0,256452010.0,I219,ECG: myocardial infarction
+Cerebrovascular diseases,256452010.0,323,323..00,164865005.0,256452010.0,I229,ECG: myocardial infarction
+Cerebrovascular diseases,256452010.0,323,323..00,164865005.0,256452010.0,I252,ECG: myocardial infarction
+Cerebrovascular diseases,256452010.0,323,323..00,164865005.0,256452010.0,I210,ECG: myocardial infarction
+Cerebrovascular diseases,300370010.0,G667,G667.00,195216008.0,300370010.0,I694,Left sided CVA
+Cerebrovascular diseases,300370010.0,G667,G667.00,195216008.0,300370010.0,I612,Left sided CVA
+Cerebrovascular diseases,300370010.0,G667,G667.00,195216008.0,300370010.0,I64X,Left sided CVA
+Cerebrovascular diseases,300370010.0,G667,G667.00,195216008.0,300370010.0,I693,Left sided CVA
+Cerebrovascular diseases,300370010.0,G667,G667.00,195216008.0,300370010.0,I692,Left sided CVA
+Cerebrovascular diseases,300370010.0,G667,G667.00,195216008.0,300370010.0,I611,Left sided CVA
+Cerebrovascular diseases,300370010.0,G667,G667.00,195216008.0,300370010.0,I610,Left sided CVA
+Cerebrovascular diseases,300370010.0,G667,G667.00,195216008.0,300370010.0,I691,Left sided CVA
+Cerebrovascular diseases,300370010.0,G667,G667.00,195216008.0,300370010.0,I690,Left sided CVA
+Cerebrovascular diseases,300321011.0,G6400,G640000,195189003.0,300321011.0,I633,Cerebral infarction due to thrombosis of cerebral arteries
+Cerebrovascular diseases,605491000006113.0,G66-3,G66..13,230690007.0,345635016.0,I64X,CVA - Cerebrovascular accident unspecified
+Cerebrovascular diseases,605491000006113.0,G66-3,G66..13,230690007.0,345635016.0,I694,CVA - Cerebrovascular accident unspecified
+Cerebrovascular diseases,300309012.0,G632,G632.00,195182007.0,300309012.0,I650,Vertebral artery occlusion
+Cerebrovascular diseases,218481000000111.0,G575-1,G575.11,410430005.0,2472091019.0,O742,Cardio-respiratory arrest
+Cerebrovascular diseases,218481000000111.0,G575-1,G575.11,410430005.0,2472091019.0,T818,Cardio-respiratory arrest
+Cerebrovascular diseases,218481000000111.0,G575-1,G575.11,410430005.0,2472091019.0,P291,Cardio-respiratory arrest
+Cerebrovascular diseases,218481000000111.0,G575-1,G575.11,410430005.0,2472091019.0,O291,Cardio-respiratory arrest
+Cerebrovascular diseases,218481000000111.0,G575-1,G575.11,410430005.0,2472091019.0,T413 ,Cardio-respiratory arrest
+Cerebrovascular diseases,218481000000111.0,G575-1,G575.11,410430005.0,2472091019.0,I469,Cardio-respiratory arrest
+Cerebrovascular diseases,218481000000111.0,G575-1,G575.11,410430005.0,2472091019.0,I978,Cardio-respiratory arrest
+Cerebrovascular diseases,218481000000111.0,G575-1,G575.11,410430005.0,2472091019.0,O891,Cardio-respiratory arrest
+Cerebrovascular diseases,218481000000111.0,G575-1,G575.11,410430005.0,2472091019.0,T410,Cardio-respiratory arrest
+Cerebrovascular diseases,218481000000111.0,G575-1,G575.11,410430005.0,2472091019.0,T415 ,Cardio-respiratory arrest
+Cerebrovascular diseases,218481000000111.0,G575-1,G575.11,410430005.0,2472091019.0,T414,Cardio-respiratory arrest
+Cerebrovascular diseases,218481000000111.0,G575-1,G575.11,410430005.0,2472091019.0,O754,Cardio-respiratory arrest
+Cerebrovascular diseases,218481000000111.0,G575-1,G575.11,410430005.0,2472091019.0,T410 ,Cardio-respiratory arrest
+Cerebrovascular diseases,218481000000111.0,G575-1,G575.11,410430005.0,2472091019.0,T412,Cardio-respiratory arrest
+Cerebrovascular diseases,218481000000111.0,G575-1,G575.11,410430005.0,2472091019.0,T413,Cardio-respiratory arrest
+Cerebrovascular diseases,218481000000111.0,G575-1,G575.11,410430005.0,2472091019.0,T411,Cardio-respiratory arrest
+Cerebrovascular diseases,218481000000111.0,G575-1,G575.11,410430005.0,2472091019.0,I461,Cardio-respiratory arrest
+Cerebrovascular diseases,218481000000111.0,G575-1,G575.11,410430005.0,2472091019.0,T415,Cardio-respiratory arrest
+Cerebrovascular diseases,218481000000111.0,G575-1,G575.11,410430005.0,2472091019.0,T412 ,Cardio-respiratory arrest
+Cerebrovascular diseases,218481000000111.0,G575-1,G575.11,410430005.0,2472091019.0,T414 ,Cardio-respiratory arrest
+Cerebrovascular diseases,218481000000111.0,G575-1,G575.11,410430005.0,2472091019.0,I460,Cardio-respiratory arrest
+Cerebrovascular diseases,218481000000111.0,G575-1,G575.11,410430005.0,2472091019.0,I971,Cardio-respiratory arrest
+Cerebrovascular diseases,218481000000111.0,G575-1,G575.11,410430005.0,2472091019.0,T411 ,Cardio-respiratory arrest
+Cerebrovascular diseases,455422014.0,G384,G384.00,311796008.0,455422014.0,I229 ,Postoperative subendocardial myocardial infarction
+Cerebrovascular diseases,455422014.0,G384,G384.00,311796008.0,455422014.0,I221,Postoperative subendocardial myocardial infarction
+Cerebrovascular diseases,455422014.0,G384,G384.00,311796008.0,455422014.0,I228,Postoperative subendocardial myocardial infarction
+Cerebrovascular diseases,455422014.0,G384,G384.00,311796008.0,455422014.0,I221 ,Postoperative subendocardial myocardial infarction
+Cerebrovascular diseases,455422014.0,G384,G384.00,311796008.0,455422014.0,I220 ,Postoperative subendocardial myocardial infarction
+Cerebrovascular diseases,455422014.0,G384,G384.00,311796008.0,455422014.0,I229,Postoperative subendocardial myocardial infarction
+Cerebrovascular diseases,455422014.0,G384,G384.00,311796008.0,455422014.0,I228 ,Postoperative subendocardial myocardial infarction
+Cerebrovascular diseases,455422014.0,G384,G384.00,311796008.0,455422014.0,I214,Postoperative subendocardial myocardial infarction
+Cerebrovascular diseases,455422014.0,G384,G384.00,311796008.0,455422014.0,I220,Postoperative subendocardial myocardial infarction
+Cerebrovascular diseases,67081000006119.0,G362,G362.00,233846000.0,350381017.0,I232,Ventric septal defect/curr comp fol acut myocardal infarctn
+Cerebrovascular diseases,813961000006116.0,G360,G360.00,194862000.0,299816014.0,I230,Haemopericardium/current comp folow acut myocard infarct
+Cerebrovascular diseases,503469016.0,G614,G614.00,7713009.0,503469016.0,I613,Pontine haemorrhage
+Cerebrovascular diseases,2472090018.0,G575,G575.00,410429000.0,2472090018.0,T411,Cardiac arrest
+Cerebrovascular diseases,2472090018.0,G575,G575.00,410429000.0,2472090018.0,T412 ,Cardiac arrest
+Cerebrovascular diseases,2472090018.0,G575,G575.00,410429000.0,2472090018.0,T414,Cardiac arrest
+Cerebrovascular diseases,2472090018.0,G575,G575.00,410429000.0,2472090018.0,O088,Cardiac arrest
+Cerebrovascular diseases,2472090018.0,G575,G575.00,410429000.0,2472090018.0,T410 ,Cardiac arrest
+Cerebrovascular diseases,2472090018.0,G575,G575.00,410429000.0,2472090018.0,I469,Cardiac arrest
+Cerebrovascular diseases,2472090018.0,G575,G575.00,410429000.0,2472090018.0,I971,Cardiac arrest
+Cerebrovascular diseases,2472090018.0,G575,G575.00,410429000.0,2472090018.0,T413,Cardiac arrest
+Cerebrovascular diseases,2472090018.0,G575,G575.00,410429000.0,2472090018.0,T410,Cardiac arrest
+Cerebrovascular diseases,2472090018.0,G575,G575.00,410429000.0,2472090018.0,I978,Cardiac arrest
+Cerebrovascular diseases,2472090018.0,G575,G575.00,410429000.0,2472090018.0,O891,Cardiac arrest
+Cerebrovascular diseases,2472090018.0,G575,G575.00,410429000.0,2472090018.0,I461,Cardiac arrest
+Cerebrovascular diseases,2472090018.0,G575,G575.00,410429000.0,2472090018.0,T415 ,Cardiac arrest
+Cerebrovascular diseases,2472090018.0,G575,G575.00,410429000.0,2472090018.0,T412,Cardiac arrest
+Cerebrovascular diseases,2472090018.0,G575,G575.00,410429000.0,2472090018.0,T818,Cardiac arrest
+Cerebrovascular diseases,2472090018.0,G575,G575.00,410429000.0,2472090018.0,P291,Cardiac arrest
+Cerebrovascular diseases,2472090018.0,G575,G575.00,410429000.0,2472090018.0,T413 ,Cardiac arrest
+Cerebrovascular diseases,2472090018.0,G575,G575.00,410429000.0,2472090018.0,O754,Cardiac arrest
+Cerebrovascular diseases,2472090018.0,G575,G575.00,410429000.0,2472090018.0,I460,Cardiac arrest
+Cerebrovascular diseases,2472090018.0,G575,G575.00,410429000.0,2472090018.0,T411 ,Cardiac arrest
+Cerebrovascular diseases,2472090018.0,G575,G575.00,410429000.0,2472090018.0,T414 ,Cardiac arrest
+Cerebrovascular diseases,2472090018.0,G575,G575.00,410429000.0,2472090018.0,T415,Cardiac arrest
+Cerebrovascular diseases,2472090018.0,G575,G575.00,410429000.0,2472090018.0,O742,Cardiac arrest
+Cerebrovascular diseases,2472090018.0,G575,G575.00,410429000.0,2472090018.0,O291,Cardiac arrest
+Cerebrovascular diseases,299714019.0,G308,G308.00,73795002.0,122557015.0,I211,Inferior myocardial infarction NOS
+Cerebrovascular diseases,350376014.0,G30-7,G30..17,233843008.0,350376014.0,I213,Silent myocardial infarction
+Cerebrovascular diseases,350376014.0,G30-7,G30..17,233843008.0,350376014.0,I211,Silent myocardial infarction
+Cerebrovascular diseases,350376014.0,G30-7,G30..17,233843008.0,350376014.0,I214,Silent myocardial infarction
+Cerebrovascular diseases,350376014.0,G30-7,G30..17,233843008.0,350376014.0,I210,Silent myocardial infarction
+Cerebrovascular diseases,350376014.0,G30-7,G30..17,233843008.0,350376014.0,I212,Silent myocardial infarction
+Cerebrovascular diseases,350376014.0,G30-7,G30..17,233843008.0,350376014.0,I219,Silent myocardial infarction
+Cerebrovascular diseases,483988011.0,G615,G615.00,732923001.0,3467313018.0,I613,Bulbar haemorrhage
+Cerebrovascular diseases,212071000006114.0,G381,G381.00,311793000.0,455419012.0,I220 ,Postoperative transmural myocardial infarction inferior wall
+Cerebrovascular diseases,212071000006114.0,G381,G381.00,311793000.0,455419012.0,I229 ,Postoperative transmural myocardial infarction inferior wall
+Cerebrovascular diseases,212071000006114.0,G381,G381.00,311793000.0,455419012.0,I229,Postoperative transmural myocardial infarction inferior wall
+Cerebrovascular diseases,212071000006114.0,G381,G381.00,311793000.0,455419012.0,I228,Postoperative transmural myocardial infarction inferior wall
+Cerebrovascular diseases,212071000006114.0,G381,G381.00,311793000.0,455419012.0,I221,Postoperative transmural myocardial infarction inferior wall
+Cerebrovascular diseases,212071000006114.0,G381,G381.00,311793000.0,455419012.0,I221 ,Postoperative transmural myocardial infarction inferior wall
+Cerebrovascular diseases,212071000006114.0,G381,G381.00,311793000.0,455419012.0,I220,Postoperative transmural myocardial infarction inferior wall
+Cerebrovascular diseases,212071000006114.0,G381,G381.00,311793000.0,455419012.0,I211,Postoperative transmural myocardial infarction inferior wall
+Cerebrovascular diseases,212071000006114.0,G381,G381.00,311793000.0,455419012.0,I228 ,Postoperative transmural myocardial infarction inferior wall
+Cerebrovascular diseases,1786197015.0,G30-2,G30..12,398274000.0,1786197015.0,I213,Coronary thrombosis
+Cerebrovascular diseases,1786197015.0,G30-2,G30..12,398274000.0,1786197015.0,I214,Coronary thrombosis
+Cerebrovascular diseases,1786197015.0,G30-2,G30..12,398274000.0,1786197015.0,I211,Coronary thrombosis
+Cerebrovascular diseases,1786197015.0,G30-2,G30..12,398274000.0,1786197015.0,I210,Coronary thrombosis
+Cerebrovascular diseases,1786197015.0,G30-2,G30..12,398274000.0,1786197015.0,I212,Coronary thrombosis
+Cerebrovascular diseases,1786197015.0,G30-2,G30..12,398274000.0,1786197015.0,I240,Coronary thrombosis
+Cerebrovascular diseases,1786197015.0,G30-2,G30..12,398274000.0,1786197015.0,I219,Coronary thrombosis
+Cerebrovascular diseases,605471000006112.0,G61-1,G61..11,274100004.0,409859018.0,S068,CVA - cerebrovascular accid due to intracerebral haemorrhage
+Cerebrovascular diseases,605471000006112.0,G61-1,G61..11,274100004.0,409859018.0,P524,CVA - cerebrovascular accid due to intracerebral haemorrhage
+Cerebrovascular diseases,605471000006112.0,G61-1,G61..11,274100004.0,409859018.0,I619,CVA - cerebrovascular accid due to intracerebral haemorrhage
+Cerebrovascular diseases,605471000006112.0,G61-1,G61..11,274100004.0,409859018.0,I618,CVA - cerebrovascular accid due to intracerebral haemorrhage
+Cerebrovascular diseases,300363010.0,G661,G661.00,195210002.0,300363010.0,I661,Anterior cerebral artery syndrome
+Cerebrovascular diseases,543141000006110.0,G6X,G6X..00,20059004.0,33759015.0,I634,Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+Cerebrovascular diseases,543141000006110.0,G6X,G6X..00,20059004.0,33759015.0,I639,Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+Cerebrovascular diseases,543141000006110.0,G6X,G6X..00,20059004.0,33759015.0,I633,Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+Cerebrovascular diseases,543141000006110.0,G6X,G6X..00,20059004.0,33759015.0,I632,Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+Cerebrovascular diseases,543141000006110.0,G6X,G6X..00,20059004.0,33759015.0,I636,Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+Cerebrovascular diseases,543141000006110.0,G6X,G6X..00,20059004.0,33759015.0,I635,Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+Cerebrovascular diseases,543141000006110.0,G6X,G6X..00,20059004.0,33759015.0,I631,Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+Cerebrovascular diseases,543141000006110.0,G6X,G6X..00,20059004.0,33759015.0,I630,Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+Cerebrovascular diseases,543141000006110.0,G6X,G6X..00,20059004.0,33759015.0,I638,Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+Cerebrovascular diseases,300253017.0,G606,G606.00,195160000.0,300253017.0,I605,Subarachnoid haemorrhage from vertebral artery
+Cerebrovascular diseases,350487017.0,G5750,G575000,233927002.0,350487017.0,I460,Cardiac arrest with successful resuscitation
+Cerebrovascular diseases,537191000006113.0,G5740-1,G574011,71908006.0,1233433010.0,I490,Cardiac arrest-ventricular fibrillation
+Cerebrovascular diseases,300244012.0,G601,G601.00,195155004.0,300244012.0,I600,Subarachnoid haemorrhage from carotid siphon and bifurcation
+Cerebrovascular diseases,118831000006118.0,G35X,G35X.00,194856005.0,299808017.0,I221,Subsequent myocardial infarction of unspecified site
+Cerebrovascular diseases,118831000006118.0,G35X,G35X.00,194856005.0,299808017.0,I229,Subsequent myocardial infarction of unspecified site
+Cerebrovascular diseases,118831000006118.0,G35X,G35X.00,194856005.0,299808017.0,I220,Subsequent myocardial infarction of unspecified site
+Cerebrovascular diseases,118831000006118.0,G35X,G35X.00,194856005.0,299808017.0,I228,Subsequent myocardial infarction of unspecified site
+Cerebrovascular diseases,123481000006118.0,G603,G603.00,21454007.0,36011016.0,P103,Subarachnoid haemorrhage from anterior communicating artery
+Cerebrovascular diseases,123481000006118.0,G603,G603.00,21454007.0,36011016.0,I602,Subarachnoid haemorrhage from anterior communicating artery
+Cerebrovascular diseases,123481000006118.0,G603,G603.00,21454007.0,36011016.0,O994,Subarachnoid haemorrhage from anterior communicating artery
+Cerebrovascular diseases,123481000006118.0,G603,G603.00,21454007.0,36011016.0,I609,Subarachnoid haemorrhage from anterior communicating artery
+Cerebrovascular diseases,123481000006118.0,G603,G603.00,21454007.0,36011016.0,I603,Subarachnoid haemorrhage from anterior communicating artery
+Cerebrovascular diseases,123481000006118.0,G603,G603.00,21454007.0,36011016.0,I608,Subarachnoid haemorrhage from anterior communicating artery
+Cerebrovascular diseases,123481000006118.0,G603,G603.00,21454007.0,36011016.0,I605,Subarachnoid haemorrhage from anterior communicating artery
+Cerebrovascular diseases,123481000006118.0,G603,G603.00,21454007.0,36011016.0,I604,Subarachnoid haemorrhage from anterior communicating artery
+Cerebrovascular diseases,123481000006118.0,G603,G603.00,21454007.0,36011016.0,P525,Subarachnoid haemorrhage from anterior communicating artery
+Cerebrovascular diseases,123481000006118.0,G603,G603.00,21454007.0,36011016.0,I601,Subarachnoid haemorrhage from anterior communicating artery
+Cerebrovascular diseases,123481000006118.0,G603,G603.00,21454007.0,36011016.0,I607,Subarachnoid haemorrhage from anterior communicating artery
+Cerebrovascular diseases,123481000006118.0,G603,G603.00,21454007.0,36011016.0,I606,Subarachnoid haemorrhage from anterior communicating artery
+Cerebrovascular diseases,123481000006118.0,G603,G603.00,21454007.0,36011016.0,I600,Subarachnoid haemorrhage from anterior communicating artery
+Cerebrovascular diseases,163261000006119.0,G61X1,G61X100,195168007.0,300277011.0,I615,"Right sided intracerebral haemorrhage, unspecified"
+Cerebrovascular diseases,123521000006118.0,G604,G604.00,21454007.0,36011016.0,P103,Subarachnoid haemorrhage from posterior communicating artery
+Cerebrovascular diseases,123521000006118.0,G604,G604.00,21454007.0,36011016.0,I602,Subarachnoid haemorrhage from posterior communicating artery
+Cerebrovascular diseases,123521000006118.0,G604,G604.00,21454007.0,36011016.0,O994,Subarachnoid haemorrhage from posterior communicating artery
+Cerebrovascular diseases,123521000006118.0,G604,G604.00,21454007.0,36011016.0,I609,Subarachnoid haemorrhage from posterior communicating artery
+Cerebrovascular diseases,123521000006118.0,G604,G604.00,21454007.0,36011016.0,I603,Subarachnoid haemorrhage from posterior communicating artery
+Cerebrovascular diseases,123521000006118.0,G604,G604.00,21454007.0,36011016.0,I608,Subarachnoid haemorrhage from posterior communicating artery
+Cerebrovascular diseases,123521000006118.0,G604,G604.00,21454007.0,36011016.0,I605,Subarachnoid haemorrhage from posterior communicating artery
+Cerebrovascular diseases,123521000006118.0,G604,G604.00,21454007.0,36011016.0,I604,Subarachnoid haemorrhage from posterior communicating artery
+Cerebrovascular diseases,123521000006118.0,G604,G604.00,21454007.0,36011016.0,P525,Subarachnoid haemorrhage from posterior communicating artery
+Cerebrovascular diseases,123521000006118.0,G604,G604.00,21454007.0,36011016.0,I601,Subarachnoid haemorrhage from posterior communicating artery
+Cerebrovascular diseases,123521000006118.0,G604,G604.00,21454007.0,36011016.0,I607,Subarachnoid haemorrhage from posterior communicating artery
+Cerebrovascular diseases,123521000006118.0,G604,G604.00,21454007.0,36011016.0,I606,Subarachnoid haemorrhage from posterior communicating artery
+Cerebrovascular diseases,123521000006118.0,G604,G604.00,21454007.0,36011016.0,I600,Subarachnoid haemorrhage from posterior communicating artery
+Cerebrovascular diseases,481028017.0,G60,G60..00,21454007.0,481028017.0,P103,Subarachnoid haemorrhage
+Cerebrovascular diseases,481028017.0,G60,G60..00,21454007.0,481028017.0,I602,Subarachnoid haemorrhage
+Cerebrovascular diseases,481028017.0,G60,G60..00,21454007.0,481028017.0,O994,Subarachnoid haemorrhage
+Cerebrovascular diseases,481028017.0,G60,G60..00,21454007.0,481028017.0,I609,Subarachnoid haemorrhage
+Cerebrovascular diseases,481028017.0,G60,G60..00,21454007.0,481028017.0,I603,Subarachnoid haemorrhage
+Cerebrovascular diseases,481028017.0,G60,G60..00,21454007.0,481028017.0,I608,Subarachnoid haemorrhage
+Cerebrovascular diseases,481028017.0,G60,G60..00,21454007.0,481028017.0,I605,Subarachnoid haemorrhage
+Cerebrovascular diseases,481028017.0,G60,G60..00,21454007.0,481028017.0,I604,Subarachnoid haemorrhage
+Cerebrovascular diseases,481028017.0,G60,G60..00,21454007.0,481028017.0,P525,Subarachnoid haemorrhage
+Cerebrovascular diseases,481028017.0,G60,G60..00,21454007.0,481028017.0,I601,Subarachnoid haemorrhage
+Cerebrovascular diseases,481028017.0,G60,G60..00,21454007.0,481028017.0,I607,Subarachnoid haemorrhage
+Cerebrovascular diseases,481028017.0,G60,G60..00,21454007.0,481028017.0,I606,Subarachnoid haemorrhage
+Cerebrovascular diseases,481028017.0,G60,G60..00,21454007.0,481028017.0,I600,Subarachnoid haemorrhage
+Cerebrovascular diseases,123511000006114.0,G602,G602.00,21454007.0,36011016.0,P103,Subarachnoid haemorrhage from middle cerebral artery
+Cerebrovascular diseases,123511000006114.0,G602,G602.00,21454007.0,36011016.0,I602,Subarachnoid haemorrhage from middle cerebral artery
+Cerebrovascular diseases,123511000006114.0,G602,G602.00,21454007.0,36011016.0,O994,Subarachnoid haemorrhage from middle cerebral artery
+Cerebrovascular diseases,123511000006114.0,G602,G602.00,21454007.0,36011016.0,I609,Subarachnoid haemorrhage from middle cerebral artery
+Cerebrovascular diseases,123511000006114.0,G602,G602.00,21454007.0,36011016.0,I603,Subarachnoid haemorrhage from middle cerebral artery
+Cerebrovascular diseases,123511000006114.0,G602,G602.00,21454007.0,36011016.0,I608,Subarachnoid haemorrhage from middle cerebral artery
+Cerebrovascular diseases,123511000006114.0,G602,G602.00,21454007.0,36011016.0,I605,Subarachnoid haemorrhage from middle cerebral artery
+Cerebrovascular diseases,123511000006114.0,G602,G602.00,21454007.0,36011016.0,I604,Subarachnoid haemorrhage from middle cerebral artery
+Cerebrovascular diseases,123511000006114.0,G602,G602.00,21454007.0,36011016.0,P525,Subarachnoid haemorrhage from middle cerebral artery
+Cerebrovascular diseases,123511000006114.0,G602,G602.00,21454007.0,36011016.0,I601,Subarachnoid haemorrhage from middle cerebral artery
+Cerebrovascular diseases,123511000006114.0,G602,G602.00,21454007.0,36011016.0,I607,Subarachnoid haemorrhage from middle cerebral artery
+Cerebrovascular diseases,123511000006114.0,G602,G602.00,21454007.0,36011016.0,I606,Subarachnoid haemorrhage from middle cerebral artery
+Cerebrovascular diseases,123511000006114.0,G602,G602.00,21454007.0,36011016.0,I600,Subarachnoid haemorrhage from middle cerebral artery
+Cerebrovascular diseases,1777430012.0,G575-2,G575.12,397829000.0,1777430012.0,T415,Asystole
+Cerebrovascular diseases,1777430012.0,G575-2,G575.12,397829000.0,1777430012.0,T412,Asystole
+Cerebrovascular diseases,1777430012.0,G575-2,G575.12,397829000.0,1777430012.0,T413,Asystole
+Cerebrovascular diseases,1777430012.0,G575-2,G575.12,397829000.0,1777430012.0,O291,Asystole
+Cerebrovascular diseases,1777430012.0,G575-2,G575.12,397829000.0,1777430012.0,T414 ,Asystole
+Cerebrovascular diseases,1777430012.0,G575-2,G575.12,397829000.0,1777430012.0,O742,Asystole
+Cerebrovascular diseases,1777430012.0,G575-2,G575.12,397829000.0,1777430012.0,T411 ,Asystole
+Cerebrovascular diseases,1777430012.0,G575-2,G575.12,397829000.0,1777430012.0,T411,Asystole
+Cerebrovascular diseases,1777430012.0,G575-2,G575.12,397829000.0,1777430012.0,T818,Asystole
+Cerebrovascular diseases,1777430012.0,G575-2,G575.12,397829000.0,1777430012.0,T414,Asystole
+Cerebrovascular diseases,1777430012.0,G575-2,G575.12,397829000.0,1777430012.0,T415 ,Asystole
+Cerebrovascular diseases,1777430012.0,G575-2,G575.12,397829000.0,1777430012.0,O891,Asystole
+Cerebrovascular diseases,1777430012.0,G575-2,G575.12,397829000.0,1777430012.0,I469,Asystole
+Cerebrovascular diseases,1777430012.0,G575-2,G575.12,397829000.0,1777430012.0,T410,Asystole
+Cerebrovascular diseases,1777430012.0,G575-2,G575.12,397829000.0,1777430012.0,T410 ,Asystole
+Cerebrovascular diseases,1777430012.0,G575-2,G575.12,397829000.0,1777430012.0,I460,Asystole
+Cerebrovascular diseases,1777430012.0,G575-2,G575.12,397829000.0,1777430012.0,O754,Asystole
+Cerebrovascular diseases,1777430012.0,G575-2,G575.12,397829000.0,1777430012.0,T412 ,Asystole
+Cerebrovascular diseases,1777430012.0,G575-2,G575.12,397829000.0,1777430012.0,T413 ,Asystole
+Cerebrovascular diseases,748941000006115.0,G61X0,G61X000,274100004.0,409859018.0,S068,"Left sided intracerebral haemorrhage, unspecified"
+Cerebrovascular diseases,748941000006115.0,G61X0,G61X000,274100004.0,409859018.0,P524,"Left sided intracerebral haemorrhage, unspecified"
+Cerebrovascular diseases,748941000006115.0,G61X0,G61X000,274100004.0,409859018.0,I619,"Left sided intracerebral haemorrhage, unspecified"
+Cerebrovascular diseases,748941000006115.0,G61X0,G61X000,274100004.0,409859018.0,I618,"Left sided intracerebral haemorrhage, unspecified"
+Cerebrovascular diseases,300371014.0,G668,G668.00,195217004.0,300371014.0,I693,Right sided CVA
+Cerebrovascular diseases,300371014.0,G668,G668.00,195217004.0,300371014.0,I694,Right sided CVA
+Cerebrovascular diseases,300371014.0,G668,G668.00,195217004.0,300371014.0,I611,Right sided CVA
+Cerebrovascular diseases,300371014.0,G668,G668.00,195217004.0,300371014.0,I64X,Right sided CVA
+Cerebrovascular diseases,300371014.0,G668,G668.00,195217004.0,300371014.0,I691,Right sided CVA
+Cerebrovascular diseases,300371014.0,G668,G668.00,195217004.0,300371014.0,I690,Right sided CVA
+Cerebrovascular diseases,300371014.0,G668,G668.00,195217004.0,300371014.0,I612,Right sided CVA
+Cerebrovascular diseases,300371014.0,G668,G668.00,195217004.0,300371014.0,I692,Right sided CVA
+Cerebrovascular diseases,300371014.0,G668,G668.00,195217004.0,300371014.0,I610,Right sided CVA
+Cerebrovascular diseases,682481000006118.0,G3110,G311000,194821006.0,2619484018.0,I240,Myocardial infarction aborted
+Cerebrovascular diseases,72571000006115.0,G311-3,G311.13,4557003.0,7845011.0,I200,Unstable angina
+Cerebrovascular diseases,212061000006119.0,G380,G380.00,311792005.0,455418016.0,I228,Postoperative transmural myocardial infarction anterior wall
+Cerebrovascular diseases,212061000006119.0,G380,G380.00,311792005.0,455418016.0,I221,Postoperative transmural myocardial infarction anterior wall
+Cerebrovascular diseases,212061000006119.0,G380,G380.00,311792005.0,455418016.0,I229 ,Postoperative transmural myocardial infarction anterior wall
+Cerebrovascular diseases,212061000006119.0,G380,G380.00,311792005.0,455418016.0,I210,Postoperative transmural myocardial infarction anterior wall
+Cerebrovascular diseases,212061000006119.0,G380,G380.00,311792005.0,455418016.0,I228 ,Postoperative transmural myocardial infarction anterior wall
+Cerebrovascular diseases,212061000006119.0,G380,G380.00,311792005.0,455418016.0,I220,Postoperative transmural myocardial infarction anterior wall
+Cerebrovascular diseases,212061000006119.0,G380,G380.00,311792005.0,455418016.0,I220 ,Postoperative transmural myocardial infarction anterior wall
+Cerebrovascular diseases,212061000006119.0,G380,G380.00,311792005.0,455418016.0,I221 ,Postoperative transmural myocardial infarction anterior wall
+Cerebrovascular diseases,212061000006119.0,G380,G380.00,311792005.0,455418016.0,I229,Postoperative transmural myocardial infarction anterior wall
+Cerebrovascular diseases,503791000006114.0,G612,G612.00,195165005.0,300272017.0,I610,Basal nucleus haemorrhage
+Cerebrovascular diseases,537751000006115.0,G30-3,G30..13,233847009.0,350383019.0,I233,Cardiac rupture following myocardial infarction (MI)
+Cerebrovascular diseases,537751000006115.0,G30-3,G30..13,233847009.0,350383019.0,I230,Cardiac rupture following myocardial infarction (MI)
+Cerebrovascular diseases,208365015.0,G38,G38..00,129574000.0,208365015.0,I219 ,Postoperative myocardial infarction
+Cerebrovascular diseases,208365015.0,G38,G38..00,129574000.0,208365015.0,I228,Postoperative myocardial infarction
+Cerebrovascular diseases,208365015.0,G38,G38..00,129574000.0,208365015.0,I212,Postoperative myocardial infarction
+Cerebrovascular diseases,208365015.0,G38,G38..00,129574000.0,208365015.0,I229 ,Postoperative myocardial infarction
+Cerebrovascular diseases,208365015.0,G38,G38..00,129574000.0,208365015.0,I213,Postoperative myocardial infarction
+Cerebrovascular diseases,208365015.0,G38,G38..00,129574000.0,208365015.0,I214,Postoperative myocardial infarction
+Cerebrovascular diseases,208365015.0,G38,G38..00,129574000.0,208365015.0,I219,Postoperative myocardial infarction
+Cerebrovascular diseases,208365015.0,G38,G38..00,129574000.0,208365015.0,I221,Postoperative myocardial infarction
+Cerebrovascular diseases,208365015.0,G38,G38..00,129574000.0,208365015.0,I220 ,Postoperative myocardial infarction
+Cerebrovascular diseases,208365015.0,G38,G38..00,129574000.0,208365015.0,I210 ,Postoperative myocardial infarction
+Cerebrovascular diseases,208365015.0,G38,G38..00,129574000.0,208365015.0,I210,Postoperative myocardial infarction
+Cerebrovascular diseases,208365015.0,G38,G38..00,129574000.0,208365015.0,I211,Postoperative myocardial infarction
+Cerebrovascular diseases,208365015.0,G38,G38..00,129574000.0,208365015.0,I229,Postoperative myocardial infarction
+Cerebrovascular diseases,208365015.0,G38,G38..00,129574000.0,208365015.0,I221 ,Postoperative myocardial infarction
+Cerebrovascular diseases,208365015.0,G38,G38..00,129574000.0,208365015.0,I214 ,Postoperative myocardial infarction
+Cerebrovascular diseases,208365015.0,G38,G38..00,129574000.0,208365015.0,I213 ,Postoperative myocardial infarction
+Cerebrovascular diseases,208365015.0,G38,G38..00,129574000.0,208365015.0,I220,Postoperative myocardial infarction
+Cerebrovascular diseases,208365015.0,G38,G38..00,129574000.0,208365015.0,I228 ,Postoperative myocardial infarction
+Cerebrovascular diseases,208365015.0,G38,G38..00,129574000.0,208365015.0,I212 ,Postoperative myocardial infarction
+Cerebrovascular diseases,208365015.0,G38,G38..00,129574000.0,208365015.0,I211 ,Postoperative myocardial infarction
+Cerebrovascular diseases,300276019.0,G616,G616.00,195167002.0,300276019.0,I610,External capsule haemorrhage
+Cerebrovascular diseases,299707016.0,G301,G301.00,54329005.0,1231324017.0,I210,Other specified anterior myocardial infarction
+Cerebrovascular diseases,660111000006117.0,G620,G620.00,397809001.0,1773153015.0,P528,Extradural haemorrhage - nontraumatic
+Cerebrovascular diseases,660111000006117.0,G620,G620.00,397809001.0,1773153015.0,I621,Extradural haemorrhage - nontraumatic
+Cerebrovascular diseases,300364016.0,G662,G662.00,195211003.0,300364016.0,I662,Posterior cerebral artery syndrome
+Cerebrovascular diseases,299712015.0,G306,G306.00,194802003.0,299712015.0,I212,True posterior myocardial infarction
+Cerebrovascular diseases,502878012.0,G613,G613.00,75038005.0,502878012.0,S068,Cerebellar haemorrhage
+Cerebrovascular diseases,502878012.0,G613,G613.00,75038005.0,502878012.0,I614,Cerebellar haemorrhage
+Cerebrovascular diseases,502878012.0,G613,G613.00,75038005.0,502878012.0,P526,Cerebellar haemorrhage
+Cerebrovascular diseases,122361000006113.0,G64-3,G64..13,230691006.0,345638019.0,I635,Stroke due to cerebral arterial occlusion
+Cerebrovascular diseases,122361000006113.0,G64-3,G64..13,230691006.0,345638019.0,I634,Stroke due to cerebral arterial occlusion
+Cerebrovascular diseases,122361000006113.0,G64-3,G64..13,230691006.0,345638019.0,I633,Stroke due to cerebral arterial occlusion
+Cerebrovascular diseases,123441000006112.0,G60X,G60X.00,21454007.0,481028017.0,P103,"Subarachnoid haemorrh from intracranial artery, unspecif"
+Cerebrovascular diseases,123441000006112.0,G60X,G60X.00,21454007.0,481028017.0,I602,"Subarachnoid haemorrh from intracranial artery, unspecif"
+Cerebrovascular diseases,123441000006112.0,G60X,G60X.00,21454007.0,481028017.0,O994,"Subarachnoid haemorrh from intracranial artery, unspecif"
+Cerebrovascular diseases,123441000006112.0,G60X,G60X.00,21454007.0,481028017.0,I609,"Subarachnoid haemorrh from intracranial artery, unspecif"
+Cerebrovascular diseases,123441000006112.0,G60X,G60X.00,21454007.0,481028017.0,I603,"Subarachnoid haemorrh from intracranial artery, unspecif"
+Cerebrovascular diseases,123441000006112.0,G60X,G60X.00,21454007.0,481028017.0,I608,"Subarachnoid haemorrh from intracranial artery, unspecif"
+Cerebrovascular diseases,123441000006112.0,G60X,G60X.00,21454007.0,481028017.0,I605,"Subarachnoid haemorrh from intracranial artery, unspecif"
+Cerebrovascular diseases,123441000006112.0,G60X,G60X.00,21454007.0,481028017.0,I604,"Subarachnoid haemorrh from intracranial artery, unspecif"
+Cerebrovascular diseases,123441000006112.0,G60X,G60X.00,21454007.0,481028017.0,P525,"Subarachnoid haemorrh from intracranial artery, unspecif"
+Cerebrovascular diseases,123441000006112.0,G60X,G60X.00,21454007.0,481028017.0,I601,"Subarachnoid haemorrh from intracranial artery, unspecif"
+Cerebrovascular diseases,123441000006112.0,G60X,G60X.00,21454007.0,481028017.0,I607,"Subarachnoid haemorrh from intracranial artery, unspecif"
+Cerebrovascular diseases,123441000006112.0,G60X,G60X.00,21454007.0,481028017.0,I606,"Subarachnoid haemorrh from intracranial artery, unspecif"
+Cerebrovascular diseases,123441000006112.0,G60X,G60X.00,21454007.0,481028017.0,I600,"Subarachnoid haemorrh from intracranial artery, unspecif"
+Cerebrovascular diseases,524511000006116.0,G663,G663.00,195212005.0,300365015.0,,Brain stem stroke syndrome
+Cerebrovascular diseases,746571000006116.0,G618,G618.00,195169004.0,300280012.0,I616,"Intracerebral haemorrhage, multiple localized"
+Cerebrovascular diseases,345639010.0,G63-1,G63..11,230692004.0,345639010.0,I631,Infarction - precerebral
+Cerebrovascular diseases,345639010.0,G63-1,G63..11,230692004.0,345639010.0,I630,Infarction - precerebral
+Cerebrovascular diseases,345639010.0,G63-1,G63..11,230692004.0,345639010.0,I632,Infarction - precerebral
+Cerebrovascular diseases,2619484018.0,G3110-1,G311011,194821006.0,2619484018.0,I240,MI - Myocardial infarction aborted
+Cerebrovascular diseases,345658018.0,G666,G666.00,230700009.0,345658018.0,I635,Pure sensory lacunar syndrome
+Cerebrovascular diseases,345658018.0,G666,G666.00,230700009.0,345658018.0,I639,Pure sensory lacunar syndrome
+Cerebrovascular diseases,542251000006112.0,G6760,G676000,195230003.0,300393016.0,I636,"Cereb infarct due cerebral venous thrombosis, nonpyogenic"
+Cerebrovascular diseases,125470015.0,G641,G641.00,75543006.0,125470015.0,I663,Cerebral embolism
+Cerebrovascular diseases,125470015.0,G641,G641.00,75543006.0,125470015.0,I634,Cerebral embolism
+Cerebrovascular diseases,125470015.0,G641,G641.00,75543006.0,125470015.0,I661,Cerebral embolism
+Cerebrovascular diseases,125470015.0,G641,G641.00,75543006.0,125470015.0,I660,Cerebral embolism
+Cerebrovascular diseases,125470015.0,G641,G641.00,75543006.0,125470015.0,I669,Cerebral embolism
+Cerebrovascular diseases,125470015.0,G641,G641.00,75543006.0,125470015.0,I633,Cerebral embolism
+Cerebrovascular diseases,125470015.0,G641,G641.00,75543006.0,125470015.0,I635,Cerebral embolism
+Cerebrovascular diseases,125470015.0,G641,G641.00,75543006.0,125470015.0,I664,Cerebral embolism
+Cerebrovascular diseases,125470015.0,G641,G641.00,75543006.0,125470015.0,I668,Cerebral embolism
+Cerebrovascular diseases,125470015.0,G641,G641.00,75543006.0,125470015.0,I662,Cerebral embolism
+Cerebrovascular diseases,605501000006117.0,G66-1,G66..11,230690007.0,345637012.0,I64X,CVA unspecified
+Cerebrovascular diseases,605501000006117.0,G66-1,G66..11,230690007.0,345637012.0,I694,CVA unspecified
+Cerebrovascular diseases,299812011.0,G351,G351.00,194858006.0,299812011.0,I221,Subsequent myocardial infarction of inferior wall
+Cerebrovascular diseases,542831000006116.0,G641-1,G641.11,75543006.0,125470015.0,I663,Cerebral embolus
+Cerebrovascular diseases,542831000006116.0,G641-1,G641.11,75543006.0,125470015.0,I634,Cerebral embolus
+Cerebrovascular diseases,542831000006116.0,G641-1,G641.11,75543006.0,125470015.0,I661,Cerebral embolus
+Cerebrovascular diseases,542831000006116.0,G641-1,G641.11,75543006.0,125470015.0,I660,Cerebral embolus
+Cerebrovascular diseases,542831000006116.0,G641-1,G641.11,75543006.0,125470015.0,I669,Cerebral embolus
+Cerebrovascular diseases,542831000006116.0,G641-1,G641.11,75543006.0,125470015.0,I633,Cerebral embolus
+Cerebrovascular diseases,542831000006116.0,G641-1,G641.11,75543006.0,125470015.0,I635,Cerebral embolus
+Cerebrovascular diseases,542831000006116.0,G641-1,G641.11,75543006.0,125470015.0,I664,Cerebral embolus
+Cerebrovascular diseases,542831000006116.0,G641-1,G641.11,75543006.0,125470015.0,I668,Cerebral embolus
+Cerebrovascular diseases,542831000006116.0,G641-1,G641.11,75543006.0,125470015.0,I662,Cerebral embolus
+Cerebrovascular diseases,496232015.0,G611,G611.00,52201006.0,496232015.0,I610,Internal capsule haemorrhage
+Cerebrovascular diseases,300366019.0,G664,G664.00,195213000.0,300366019.0,,Cerebellar stroke syndrome
+Cerebrovascular diseases,405339016.0,G66,G66..00,230690007.0,345637012.0,I64X,Stroke and cerebrovascular accident unspecified
+Cerebrovascular diseases,405339016.0,G66,G66..00,230690007.0,345637012.0,I694,Stroke and cerebrovascular accident unspecified
+Cerebrovascular diseases,300294013.0,G621,G621.00,195176009.0,300294013.0,P528,Subdural haemorrhage - nontraumatic
+Cerebrovascular diseases,300294013.0,G621,G621.00,195176009.0,300294013.0,I620,Subdural haemorrhage - nontraumatic
+Cerebrovascular diseases,118689010.0,G640,G640.00,71444005.0,118689010.0,I662,Cerebral thrombosis
+Cerebrovascular diseases,118689010.0,G640,G640.00,71444005.0,118689010.0,I634,Cerebral thrombosis
+Cerebrovascular diseases,118689010.0,G640,G640.00,71444005.0,118689010.0,I633,Cerebral thrombosis
+Cerebrovascular diseases,118689010.0,G640,G640.00,71444005.0,118689010.0,I663,Cerebral thrombosis
+Cerebrovascular diseases,118689010.0,G640,G640.00,71444005.0,118689010.0,I635,Cerebral thrombosis
+Cerebrovascular diseases,118689010.0,G640,G640.00,71444005.0,118689010.0,I664,Cerebral thrombosis
+Cerebrovascular diseases,118689010.0,G640,G640.00,71444005.0,118689010.0,I668,Cerebral thrombosis
+Cerebrovascular diseases,118689010.0,G640,G640.00,71444005.0,118689010.0,I660,Cerebral thrombosis
+Cerebrovascular diseases,118689010.0,G640,G640.00,71444005.0,118689010.0,I661,Cerebral thrombosis
+Cerebrovascular diseases,118689010.0,G640,G640.00,71444005.0,118689010.0,I669,Cerebral thrombosis
+Cerebrovascular diseases,800691000006113.0,G671,G671.00,302909007.0,444905019.0,O994,Generalised ischaemic cerebrovascular disease NOS
+Cerebrovascular diseases,800691000006113.0,G671,G671.00,302909007.0,444905019.0,I672,Generalised ischaemic cerebrovascular disease NOS
+Cerebrovascular diseases,800691000006113.0,G671,G671.00,302909007.0,444905019.0,I678,Generalised ischaemic cerebrovascular disease NOS
+Cerebrovascular diseases,542261000006114.0,G6W,G6W..00,125081000119106.0,3042974014.0,I632,Cereb infarct due unsp occlus/stenos precerebr arteries
+Cerebrovascular diseases,158601000006116.0,G363,G363.00,194865003.0,299821012.0,I233,Ruptur cardiac wall w'out haemopericard/cur comp fol ac MI
+Cerebrovascular diseases,218511000000117.0,G64-2,G64..12,432504007.0,2770034014.0,I638,Infarction - cerebral
+Cerebrovascular diseases,218511000000117.0,G64-2,G64..12,432504007.0,2770034014.0,I636,Infarction - cerebral
+Cerebrovascular diseases,218511000000117.0,G64-2,G64..12,432504007.0,2770034014.0,I639,Infarction - cerebral
+Cerebrovascular diseases,218511000000117.0,G64-2,G64..12,432504007.0,2770034014.0,I631,Infarction - cerebral
+Cerebrovascular diseases,218511000000117.0,G64-2,G64..12,432504007.0,2770034014.0,I632,Infarction - cerebral
+Cerebrovascular diseases,218511000000117.0,G64-2,G64..12,432504007.0,2770034014.0,I630,Infarction - cerebral
+Cerebrovascular diseases,218511000000117.0,G64-2,G64..12,432504007.0,2770034014.0,I633,Infarction - cerebral
+Cerebrovascular diseases,218511000000117.0,G64-2,G64..12,432504007.0,2770034014.0,I634,Infarction - cerebral
+Cerebrovascular diseases,218511000000117.0,G64-2,G64..12,432504007.0,2770034014.0,I635,Infarction - cerebral
+Cerebrovascular diseases,122401000006115.0,G66-2,G66..12,230690007.0,345637012.0,I64X,Stroke unspecified
+Cerebrovascular diseases,122401000006115.0,G66-2,G66..12,230690007.0,345637012.0,I694,Stroke unspecified
+Cerebrovascular diseases,2474651019.0,G64z4,G64z400,413102000.0,2474651019.0,I639,Infarction of basal ganglia
+Cerebrovascular diseases,451133011.0,G64z2,G64z200,307766002.0,451133011.0,I638,Left sided cerebral infarction
+Cerebrovascular diseases,451133011.0,G64z2,G64z200,307766002.0,451133011.0,I634,Left sided cerebral infarction
+Cerebrovascular diseases,451133011.0,G64z2,G64z200,307766002.0,451133011.0,I635,Left sided cerebral infarction
+Cerebrovascular diseases,451133011.0,G64z2,G64z200,307766002.0,451133011.0,I630,Left sided cerebral infarction
+Cerebrovascular diseases,451133011.0,G64z2,G64z200,307766002.0,451133011.0,I633,Left sided cerebral infarction
+Cerebrovascular diseases,451133011.0,G64z2,G64z200,307766002.0,451133011.0,I639,Left sided cerebral infarction
+Cerebrovascular diseases,451133011.0,G64z2,G64z200,307766002.0,451133011.0,I632,Left sided cerebral infarction
+Cerebrovascular diseases,451133011.0,G64z2,G64z200,307766002.0,451133011.0,I636,Left sided cerebral infarction
+Cerebrovascular diseases,451133011.0,G64z2,G64z200,307766002.0,451133011.0,I631,Left sided cerebral infarction
+Cerebrovascular diseases,300312010.0,G63y0,G63y000,195185009.0,300312010.0,I630,Cerebral infarct due to thrombosis of precerebral arteries
+Cerebrovascular diseases,300287010.0,G61z,G61z.00,274100004.0,2819959010.0,S068,Intracerebral haemorrhage NOS
+Cerebrovascular diseases,300287010.0,G61z,G61z.00,274100004.0,2819959010.0,P524,Intracerebral haemorrhage NOS
+Cerebrovascular diseases,300287010.0,G61z,G61z.00,274100004.0,2819959010.0,I619,Intracerebral haemorrhage NOS
+Cerebrovascular diseases,300287010.0,G61z,G61z.00,274100004.0,2819959010.0,I618,Intracerebral haemorrhage NOS
+Cerebrovascular diseases,455423016.0,G38z,G38z.00,129574000.0,208365015.0,I219 ,"Postoperative myocardial infarction, unspecified"
+Cerebrovascular diseases,455423016.0,G38z,G38z.00,129574000.0,208365015.0,I228,"Postoperative myocardial infarction, unspecified"
+Cerebrovascular diseases,455423016.0,G38z,G38z.00,129574000.0,208365015.0,I212,"Postoperative myocardial infarction, unspecified"
+Cerebrovascular diseases,455423016.0,G38z,G38z.00,129574000.0,208365015.0,I229 ,"Postoperative myocardial infarction, unspecified"
+Cerebrovascular diseases,455423016.0,G38z,G38z.00,129574000.0,208365015.0,I213,"Postoperative myocardial infarction, unspecified"
+Cerebrovascular diseases,455423016.0,G38z,G38z.00,129574000.0,208365015.0,I214,"Postoperative myocardial infarction, unspecified"
+Cerebrovascular diseases,455423016.0,G38z,G38z.00,129574000.0,208365015.0,I219,"Postoperative myocardial infarction, unspecified"
+Cerebrovascular diseases,455423016.0,G38z,G38z.00,129574000.0,208365015.0,I221,"Postoperative myocardial infarction, unspecified"
+Cerebrovascular diseases,455423016.0,G38z,G38z.00,129574000.0,208365015.0,I220 ,"Postoperative myocardial infarction, unspecified"
+Cerebrovascular diseases,455423016.0,G38z,G38z.00,129574000.0,208365015.0,I210 ,"Postoperative myocardial infarction, unspecified"
+Cerebrovascular diseases,455423016.0,G38z,G38z.00,129574000.0,208365015.0,I210,"Postoperative myocardial infarction, unspecified"
+Cerebrovascular diseases,455423016.0,G38z,G38z.00,129574000.0,208365015.0,I211,"Postoperative myocardial infarction, unspecified"
+Cerebrovascular diseases,455423016.0,G38z,G38z.00,129574000.0,208365015.0,I229,"Postoperative myocardial infarction, unspecified"
+Cerebrovascular diseases,455423016.0,G38z,G38z.00,129574000.0,208365015.0,I221 ,"Postoperative myocardial infarction, unspecified"
+Cerebrovascular diseases,455423016.0,G38z,G38z.00,129574000.0,208365015.0,I214 ,"Postoperative myocardial infarction, unspecified"
+Cerebrovascular diseases,455423016.0,G38z,G38z.00,129574000.0,208365015.0,I213 ,"Postoperative myocardial infarction, unspecified"
+Cerebrovascular diseases,455423016.0,G38z,G38z.00,129574000.0,208365015.0,I220,"Postoperative myocardial infarction, unspecified"
+Cerebrovascular diseases,455423016.0,G38z,G38z.00,129574000.0,208365015.0,I228 ,"Postoperative myocardial infarction, unspecified"
+Cerebrovascular diseases,455423016.0,G38z,G38z.00,129574000.0,208365015.0,I212 ,"Postoperative myocardial infarction, unspecified"
+Cerebrovascular diseases,455423016.0,G38z,G38z.00,129574000.0,208365015.0,I211 ,"Postoperative myocardial infarction, unspecified"
+Cerebrovascular diseases,300936018.0,Gyu61,Gyu6100,21454007.0,481028017.0,P103,[X]Other subarachnoid haemorrhage
+Cerebrovascular diseases,300936018.0,Gyu61,Gyu6100,21454007.0,481028017.0,I602,[X]Other subarachnoid haemorrhage
+Cerebrovascular diseases,300936018.0,Gyu61,Gyu6100,21454007.0,481028017.0,O994,[X]Other subarachnoid haemorrhage
+Cerebrovascular diseases,300936018.0,Gyu61,Gyu6100,21454007.0,481028017.0,I609,[X]Other subarachnoid haemorrhage
+Cerebrovascular diseases,300936018.0,Gyu61,Gyu6100,21454007.0,481028017.0,I603,[X]Other subarachnoid haemorrhage
+Cerebrovascular diseases,300936018.0,Gyu61,Gyu6100,21454007.0,481028017.0,I608,[X]Other subarachnoid haemorrhage
+Cerebrovascular diseases,300936018.0,Gyu61,Gyu6100,21454007.0,481028017.0,I605,[X]Other subarachnoid haemorrhage
+Cerebrovascular diseases,300936018.0,Gyu61,Gyu6100,21454007.0,481028017.0,I604,[X]Other subarachnoid haemorrhage
+Cerebrovascular diseases,300936018.0,Gyu61,Gyu6100,21454007.0,481028017.0,P525,[X]Other subarachnoid haemorrhage
+Cerebrovascular diseases,300936018.0,Gyu61,Gyu6100,21454007.0,481028017.0,I601,[X]Other subarachnoid haemorrhage
+Cerebrovascular diseases,300936018.0,Gyu61,Gyu6100,21454007.0,481028017.0,I607,[X]Other subarachnoid haemorrhage
+Cerebrovascular diseases,300936018.0,Gyu61,Gyu6100,21454007.0,481028017.0,I606,[X]Other subarachnoid haemorrhage
+Cerebrovascular diseases,300936018.0,Gyu61,Gyu6100,21454007.0,481028017.0,I600,[X]Other subarachnoid haemorrhage
+Cerebrovascular diseases,299709018.0,G301z,G301z00,54329005.0,1231324017.0,I210,Anterior myocardial infarction NOS
+Cerebrovascular diseases,370701000006118.0,Gyu63,Gyu6300,20059004.0,33759015.0,I634,[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+Cerebrovascular diseases,370701000006118.0,Gyu63,Gyu6300,20059004.0,33759015.0,I639,[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+Cerebrovascular diseases,370701000006118.0,Gyu63,Gyu6300,20059004.0,33759015.0,I633,[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+Cerebrovascular diseases,370701000006118.0,Gyu63,Gyu6300,20059004.0,33759015.0,I632,[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+Cerebrovascular diseases,370701000006118.0,Gyu63,Gyu6300,20059004.0,33759015.0,I636,[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+Cerebrovascular diseases,370701000006118.0,Gyu63,Gyu6300,20059004.0,33759015.0,I635,[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+Cerebrovascular diseases,370701000006118.0,Gyu63,Gyu6300,20059004.0,33759015.0,I631,[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+Cerebrovascular diseases,370701000006118.0,Gyu63,Gyu6300,20059004.0,33759015.0,I630,[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+Cerebrovascular diseases,370701000006118.0,Gyu63,Gyu6300,20059004.0,33759015.0,I638,[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+Cerebrovascular diseases,524541000006117.0,G64z0,G64z000,95457000.0,158113017.0,I638,Brainstem infarction
+Cerebrovascular diseases,524541000006117.0,G64z0,G64z000,95457000.0,158113017.0,I634,Brainstem infarction
+Cerebrovascular diseases,524541000006117.0,G64z0,G64z000,95457000.0,158113017.0,I639,Brainstem infarction
+Cerebrovascular diseases,524541000006117.0,G64z0,G64z000,95457000.0,158113017.0,I632,Brainstem infarction
+Cerebrovascular diseases,524541000006117.0,G64z0,G64z000,95457000.0,158113017.0,I630,Brainstem infarction
+Cerebrovascular diseases,524541000006117.0,G64z0,G64z000,95457000.0,158113017.0,I635,Brainstem infarction
+Cerebrovascular diseases,524541000006117.0,G64z0,G64z000,95457000.0,158113017.0,I633,Brainstem infarction
+Cerebrovascular diseases,524541000006117.0,G64z0,G64z000,95457000.0,158113017.0,I636,Brainstem infarction
+Cerebrovascular diseases,524541000006117.0,G64z0,G64z000,95457000.0,158113017.0,I631,Brainstem infarction
+Cerebrovascular diseases,453303015.0,G575z,G575z00,410429000.0,2472090018.0,T411,"Cardiac arrest, unspecified"
+Cerebrovascular diseases,453303015.0,G575z,G575z00,410429000.0,2472090018.0,T412 ,"Cardiac arrest, unspecified"
+Cerebrovascular diseases,453303015.0,G575z,G575z00,410429000.0,2472090018.0,T414,"Cardiac arrest, unspecified"
+Cerebrovascular diseases,453303015.0,G575z,G575z00,410429000.0,2472090018.0,O088,"Cardiac arrest, unspecified"
+Cerebrovascular diseases,453303015.0,G575z,G575z00,410429000.0,2472090018.0,T410 ,"Cardiac arrest, unspecified"
+Cerebrovascular diseases,453303015.0,G575z,G575z00,410429000.0,2472090018.0,I469,"Cardiac arrest, unspecified"
+Cerebrovascular diseases,453303015.0,G575z,G575z00,410429000.0,2472090018.0,I971,"Cardiac arrest, unspecified"
+Cerebrovascular diseases,453303015.0,G575z,G575z00,410429000.0,2472090018.0,T413,"Cardiac arrest, unspecified"
+Cerebrovascular diseases,453303015.0,G575z,G575z00,410429000.0,2472090018.0,T410,"Cardiac arrest, unspecified"
+Cerebrovascular diseases,453303015.0,G575z,G575z00,410429000.0,2472090018.0,I978,"Cardiac arrest, unspecified"
+Cerebrovascular diseases,453303015.0,G575z,G575z00,410429000.0,2472090018.0,O891,"Cardiac arrest, unspecified"
+Cerebrovascular diseases,453303015.0,G575z,G575z00,410429000.0,2472090018.0,I461,"Cardiac arrest, unspecified"
+Cerebrovascular diseases,453303015.0,G575z,G575z00,410429000.0,2472090018.0,T415 ,"Cardiac arrest, unspecified"
+Cerebrovascular diseases,453303015.0,G575z,G575z00,410429000.0,2472090018.0,T412,"Cardiac arrest, unspecified"
+Cerebrovascular diseases,453303015.0,G575z,G575z00,410429000.0,2472090018.0,T818,"Cardiac arrest, unspecified"
+Cerebrovascular diseases,453303015.0,G575z,G575z00,410429000.0,2472090018.0,P291,"Cardiac arrest, unspecified"
+Cerebrovascular diseases,453303015.0,G575z,G575z00,410429000.0,2472090018.0,T413 ,"Cardiac arrest, unspecified"
+Cerebrovascular diseases,453303015.0,G575z,G575z00,410429000.0,2472090018.0,O754,"Cardiac arrest, unspecified"
+Cerebrovascular diseases,453303015.0,G575z,G575z00,410429000.0,2472090018.0,I460,"Cardiac arrest, unspecified"
+Cerebrovascular diseases,453303015.0,G575z,G575z00,410429000.0,2472090018.0,T411 ,"Cardiac arrest, unspecified"
+Cerebrovascular diseases,453303015.0,G575z,G575z00,410429000.0,2472090018.0,T414 ,"Cardiac arrest, unspecified"
+Cerebrovascular diseases,453303015.0,G575z,G575z00,410429000.0,2472090018.0,T415,"Cardiac arrest, unspecified"
+Cerebrovascular diseases,453303015.0,G575z,G575z00,410429000.0,2472090018.0,O742,"Cardiac arrest, unspecified"
+Cerebrovascular diseases,453303015.0,G575z,G575z00,410429000.0,2472090018.0,O291,"Cardiac arrest, unspecified"
+Cerebrovascular diseases,395780010.0,G64z,G64z.00,432504007.0,2770034014.0,I638,Cerebral infarction NOS
+Cerebrovascular diseases,395780010.0,G64z,G64z.00,432504007.0,2770034014.0,I636,Cerebral infarction NOS
+Cerebrovascular diseases,395780010.0,G64z,G64z.00,432504007.0,2770034014.0,I639,Cerebral infarction NOS
+Cerebrovascular diseases,395780010.0,G64z,G64z.00,432504007.0,2770034014.0,I631,Cerebral infarction NOS
+Cerebrovascular diseases,395780010.0,G64z,G64z.00,432504007.0,2770034014.0,I632,Cerebral infarction NOS
+Cerebrovascular diseases,395780010.0,G64z,G64z.00,432504007.0,2770034014.0,I630,Cerebral infarction NOS
+Cerebrovascular diseases,395780010.0,G64z,G64z.00,432504007.0,2770034014.0,I633,Cerebral infarction NOS
+Cerebrovascular diseases,395780010.0,G64z,G64z.00,432504007.0,2770034014.0,I634,Cerebral infarction NOS
+Cerebrovascular diseases,395780010.0,G64z,G64z.00,432504007.0,2770034014.0,I635,Cerebral infarction NOS
+Cerebrovascular diseases,345650013.0,G64z-1,G64z.11,95457000.0,158113017.0,I638,Brainstem infarction NOS
+Cerebrovascular diseases,345650013.0,G64z-1,G64z.11,95457000.0,158113017.0,I634,Brainstem infarction NOS
+Cerebrovascular diseases,345650013.0,G64z-1,G64z.11,95457000.0,158113017.0,I639,Brainstem infarction NOS
+Cerebrovascular diseases,345650013.0,G64z-1,G64z.11,95457000.0,158113017.0,I632,Brainstem infarction NOS
+Cerebrovascular diseases,345650013.0,G64z-1,G64z.11,95457000.0,158113017.0,I630,Brainstem infarction NOS
+Cerebrovascular diseases,345650013.0,G64z-1,G64z.11,95457000.0,158113017.0,I635,Brainstem infarction NOS
+Cerebrovascular diseases,345650013.0,G64z-1,G64z.11,95457000.0,158113017.0,I633,Brainstem infarction NOS
+Cerebrovascular diseases,345650013.0,G64z-1,G64z.11,95457000.0,158113017.0,I636,Brainstem infarction NOS
+Cerebrovascular diseases,345650013.0,G64z-1,G64z.11,95457000.0,158113017.0,I631,Brainstem infarction NOS
+Cerebrovascular diseases,158118014.0,G64z-2,G64z.12,95460007.0,158118014.0,I639,Cerebellar infarction
+Cerebrovascular diseases,158118014.0,G64z-2,G64z.12,95460007.0,158118014.0,I631,Cerebellar infarction
+Cerebrovascular diseases,158118014.0,G64z-2,G64z.12,95460007.0,158118014.0,I632,Cerebellar infarction
+Cerebrovascular diseases,158118014.0,G64z-2,G64z.12,95460007.0,158118014.0,I633,Cerebellar infarction
+Cerebrovascular diseases,158118014.0,G64z-2,G64z.12,95460007.0,158118014.0,I635,Cerebellar infarction
+Cerebrovascular diseases,158118014.0,G64z-2,G64z.12,95460007.0,158118014.0,I638,Cerebellar infarction
+Cerebrovascular diseases,158118014.0,G64z-2,G64z.12,95460007.0,158118014.0,I636,Cerebellar infarction
+Cerebrovascular diseases,158118014.0,G64z-2,G64z.12,95460007.0,158118014.0,I630,Cerebellar infarction
+Cerebrovascular diseases,158118014.0,G64z-2,G64z.12,95460007.0,158118014.0,I634,Cerebellar infarction
+Cerebrovascular diseases,300313017.0,G63y1,G63y100,195186005.0,300313017.0,I631,Cerebral infarction due to embolism of precerebral arteries
+Cerebrovascular diseases,300379011.0,G671z,G671z00,302909007.0,444905019.0,O994,Generalised ischaemic cerebrovascular disease NOS
+Cerebrovascular diseases,300379011.0,G671z,G671z00,302909007.0,444905019.0,I672,Generalised ischaemic cerebrovascular disease NOS
+Cerebrovascular diseases,300379011.0,G671z,G671z00,302909007.0,444905019.0,I678,Generalised ischaemic cerebrovascular disease NOS
+Cerebrovascular diseases,300882013.0,Gyu36,Gyu3600,194856005.0,299808017.0,I221,[X]Subsequent myocardial infarction of unspecified site
+Cerebrovascular diseases,300882013.0,Gyu36,Gyu3600,194856005.0,299808017.0,I229,[X]Subsequent myocardial infarction of unspecified site
+Cerebrovascular diseases,300882013.0,Gyu36,Gyu3600,194856005.0,299808017.0,I220,[X]Subsequent myocardial infarction of unspecified site
+Cerebrovascular diseases,300882013.0,Gyu36,Gyu3600,194856005.0,299808017.0,I228,[X]Subsequent myocardial infarction of unspecified site
+Cerebrovascular diseases,300941014.0,Gyu64,Gyu6400,432504007.0,2770034014.0,I638,[X]Other cerebral infarction
+Cerebrovascular diseases,300941014.0,Gyu64,Gyu6400,432504007.0,2770034014.0,I636,[X]Other cerebral infarction
+Cerebrovascular diseases,300941014.0,Gyu64,Gyu6400,432504007.0,2770034014.0,I639,[X]Other cerebral infarction
+Cerebrovascular diseases,300941014.0,Gyu64,Gyu6400,432504007.0,2770034014.0,I631,[X]Other cerebral infarction
+Cerebrovascular diseases,300941014.0,Gyu64,Gyu6400,432504007.0,2770034014.0,I632,[X]Other cerebral infarction
+Cerebrovascular diseases,300941014.0,Gyu64,Gyu6400,432504007.0,2770034014.0,I630,[X]Other cerebral infarction
+Cerebrovascular diseases,300941014.0,Gyu64,Gyu6400,432504007.0,2770034014.0,I633,[X]Other cerebral infarction
+Cerebrovascular diseases,300941014.0,Gyu64,Gyu6400,432504007.0,2770034014.0,I634,[X]Other cerebral infarction
+Cerebrovascular diseases,300941014.0,Gyu64,Gyu6400,432504007.0,2770034014.0,I635,[X]Other cerebral infarction
+Cerebrovascular diseases,370661000006114.0,Gyu6G,Gyu6G00,125081000119106.0,3042974014.0,I632,[X]Cereb infarct due unsp occlus/stenos precerebr arteries
+Cerebrovascular diseases,300298011.0,G62z,G62z.00,1386000.0,475553012.0,I629,Intracranial haemorrhage NOS
+Cerebrovascular diseases,300298011.0,G62z,G62z.00,1386000.0,475553012.0,P529,Intracranial haemorrhage NOS
+Cerebrovascular diseases,300298011.0,G62z,G62z.00,1386000.0,475553012.0,S065,Intracranial haemorrhage NOS
+Cerebrovascular diseases,300298011.0,G62z,G62z.00,1386000.0,475553012.0,S068,Intracranial haemorrhage NOS
+Cerebrovascular diseases,300257016.0,G60z,G60z.00,21454007.0,481028017.0,P103,Subarachnoid haemorrhage NOS
+Cerebrovascular diseases,300257016.0,G60z,G60z.00,21454007.0,481028017.0,I602,Subarachnoid haemorrhage NOS
+Cerebrovascular diseases,300257016.0,G60z,G60z.00,21454007.0,481028017.0,O994,Subarachnoid haemorrhage NOS
+Cerebrovascular diseases,300257016.0,G60z,G60z.00,21454007.0,481028017.0,I609,Subarachnoid haemorrhage NOS
+Cerebrovascular diseases,300257016.0,G60z,G60z.00,21454007.0,481028017.0,I603,Subarachnoid haemorrhage NOS
+Cerebrovascular diseases,300257016.0,G60z,G60z.00,21454007.0,481028017.0,I608,Subarachnoid haemorrhage NOS
+Cerebrovascular diseases,300257016.0,G60z,G60z.00,21454007.0,481028017.0,I605,Subarachnoid haemorrhage NOS
+Cerebrovascular diseases,300257016.0,G60z,G60z.00,21454007.0,481028017.0,I604,Subarachnoid haemorrhage NOS
+Cerebrovascular diseases,300257016.0,G60z,G60z.00,21454007.0,481028017.0,P525,Subarachnoid haemorrhage NOS
+Cerebrovascular diseases,300257016.0,G60z,G60z.00,21454007.0,481028017.0,I601,Subarachnoid haemorrhage NOS
+Cerebrovascular diseases,300257016.0,G60z,G60z.00,21454007.0,481028017.0,I607,Subarachnoid haemorrhage NOS
+Cerebrovascular diseases,300257016.0,G60z,G60z.00,21454007.0,481028017.0,I606,Subarachnoid haemorrhage NOS
+Cerebrovascular diseases,300257016.0,G60z,G60z.00,21454007.0,481028017.0,I600,Subarachnoid haemorrhage NOS
+Cerebrovascular diseases,451134017.0,G64z3,G64z300,307767006.0,451134017.0,I632,Right sided cerebral infarction
+Cerebrovascular diseases,451134017.0,G64z3,G64z300,307767006.0,451134017.0,I636,Right sided cerebral infarction
+Cerebrovascular diseases,451134017.0,G64z3,G64z300,307767006.0,451134017.0,I630,Right sided cerebral infarction
+Cerebrovascular diseases,451134017.0,G64z3,G64z300,307767006.0,451134017.0,I635,Right sided cerebral infarction
+Cerebrovascular diseases,451134017.0,G64z3,G64z300,307767006.0,451134017.0,I631,Right sided cerebral infarction
+Cerebrovascular diseases,451134017.0,G64z3,G64z300,307767006.0,451134017.0,I634,Right sided cerebral infarction
+Cerebrovascular diseases,451134017.0,G64z3,G64z300,307767006.0,451134017.0,I638,Right sided cerebral infarction
+Cerebrovascular diseases,451134017.0,G64z3,G64z300,307767006.0,451134017.0,I633,Right sided cerebral infarction
+Cerebrovascular diseases,451134017.0,G64z3,G64z300,307767006.0,451134017.0,I639,Right sided cerebral infarction
+Cerebrovascular diseases,130375018.0,G64z1-1,G64z111,78569004.0,130375018.0,I663,Lateral medullary syndrome
+Cerebrovascular diseases,300956017.0,Gyu6F,Gyu6F00,274100004.0,409860011.0,S068,"[X]Intracerebral haemorrhage in hemisphere, unspecified"
+Cerebrovascular diseases,300956017.0,Gyu6F,Gyu6F00,274100004.0,409860011.0,P524,"[X]Intracerebral haemorrhage in hemisphere, unspecified"
+Cerebrovascular diseases,300956017.0,Gyu6F,Gyu6F00,274100004.0,409860011.0,I619,"[X]Intracerebral haemorrhage in hemisphere, unspecified"
+Cerebrovascular diseases,300956017.0,Gyu6F,Gyu6F00,274100004.0,409860011.0,I618,"[X]Intracerebral haemorrhage in hemisphere, unspecified"
+Cerebrovascular diseases,300939013.0,Gyu62,Gyu6200,274100004.0,409860011.0,S068,[X]Other intracerebral haemorrhage
+Cerebrovascular diseases,300939013.0,Gyu62,Gyu6200,274100004.0,409860011.0,P524,[X]Other intracerebral haemorrhage
+Cerebrovascular diseases,300939013.0,Gyu62,Gyu6200,274100004.0,409860011.0,I619,[X]Other intracerebral haemorrhage
+Cerebrovascular diseases,300939013.0,Gyu62,Gyu6200,274100004.0,409860011.0,I618,[X]Other intracerebral haemorrhage

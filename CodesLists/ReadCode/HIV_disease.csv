@@ -1,0 +1,44 @@
+Condition,OriginalReadCode,CleansedReadCode,Term
+HIV disease,^ESCT1198969,,HIV disease resulting in mycobacterial infection
+HIV disease,^ESCT1198970,,Human immunodeficiency virus with secondary cancers
+HIV disease,43C3-1,43C3.11,HIV positive
+HIV disease,65QA,65QA.00,AIDS carrier
+HIV disease,A788,A788.00,Acquired immune deficiency syndrome
+HIV disease,A788-1,A788.11,Human immunodeficiency virus infection
+HIV disease,A7881,A788100,Asymptomatic human immunodeficiency virus infection
+HIV disease,A7882,A788200,HIV infection with persistent generalised lymphadenopathy
+HIV disease,A7883,A788300,Human immunodeficiency virus with constitutional disease
+HIV disease,A7884,A788400,Human immunodeficiency virus with neurological disease
+HIV disease,A7885,A788500,Human immunodeficiency virus with secondary infection
+HIV disease,A7886,A788600,Human immunodeficiency virus with secondary cancers
+HIV disease,A788U,A788U00,"HIV disease result/haematological+immunologic abnorms,NEC"
+HIV disease,A788W,A788W00,HIV disease resulting in unspecified malignant neoplasm
+HIV disease,A788X,A788X00,HIV disease resulting/unspcf infectious+parasitic disease
+HIV disease,A788y,A788y00,Human immunodeficiency virus with other clinical findings
+HIV disease,A788z,A788z00,Acquired human immunodeficiency virus infection syndrome NOS
+HIV disease,A789,A789.00,Human immunodef virus resulting in other disease
+HIV disease,A7890,A789000,HIV disease resulting in mycobacterial infection
+HIV disease,A7891,A789100,HIV disease resulting in cytomegaloviral disease
+HIV disease,A7892,A789200,HIV disease resulting in candidiasis
+HIV disease,A7893,A789300,HIV disease resulting in Pneumocystis carinii pneumonia
+HIV disease,A7893-1,A789311,HIV disease resulting in Pneumocystis jirovecii pneumonia
+HIV disease,A7894,A789400,HIV disease resulting in multiple infections
+HIV disease,A7895,A789500,HIV disease resulting in Kaposi's sarcoma
+HIV disease,A7895-1,A789511,HIV disease resulting in Kaposi sarcoma
+HIV disease,A7896,A789600,HIV disease resulting in Burkitt's lymphoma
+HIV disease,A7897,A789700,HIV dis resulting oth types of non-Hodgkin's lymphoma
+HIV disease,A7898,A789800,HIV disease resulting in multiple malignant neoplasms
+HIV disease,A7899,A789900,HIV disease resulting in lymphoid interstitial pneumonitis
+HIV disease,A789A,A789A00,HIV disease resulting in wasting syndrome
+HIV disease,A789X,A789X00,"HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu"
+HIV disease,AyuC,AyuC.00,[X]Human immunodeficiency virus disease
+HIV disease,AyuC1,AyuC100,[X]HIV disease resulting in other viral infections
+HIV disease,AyuC3,AyuC300,[X]HIV disease resulting in multiple infections
+HIV disease,AyuC4,AyuC400,[X]HIV disease resulting/other infectious+parasitic diseases
+HIV disease,AyuC6,AyuC600,[X]HIV disease resulting in other non-Hodgkin's lymphoma
+HIV disease,AyuCB,AyuCB00,"[X]HIV disease result/haematological+immunologic abnorms,NEC"
+HIV disease,AyuCC,AyuCC00,[X]HIV disease resulting in other specified conditions
+HIV disease,AyuCD,AyuCD00,[X]Unspecified human immunodeficiency virus [HIV] disease
+HIV disease,Eu024,Eu02400,[X]Dementia in human immunodef virus [HIV] disease
+HIV disease,R109,R109.00,[D]Laboratory evidence of human immunodeficiency virus [HIV]
+HIV disease,ZV01A,ZV01A00,[V]Asymptomatic human immunodeficency virus infection status

@@ -1,0 +1,35 @@
+Condition,OriginalReadCode,CleansedReadCode,Term
+Osteopathies and chondropathies,^ESCTOS599247,,Osteoporosis localized to spine
+Osteopathies and chondropathies,N330,N330.00,Osteoporosis
+Osteopathies and chondropathies,N3300,N330000,"Osteoporosis, unspecified"
+Osteopathies and chondropathies,N3301,N330100,Senile osteoporosis
+Osteopathies and chondropathies,N3302,N330200,Postmenopausal osteoporosis
+Osteopathies and chondropathies,N3303,N330300,Idiopathic osteoporosis
+Osteopathies and chondropathies,N3304,N330400,Dissuse osteoporosis
+Osteopathies and chondropathies,N3305,N330500,Drug-induced osteoporosis
+Osteopathies and chondropathies,N3306,N330600,Postoophorectomy osteoporosis
+Osteopathies and chondropathies,N3307,N330700,Postsurgical malabsorption osteoporosis
+Osteopathies and chondropathies,N330B,N330B00,Vertebral osteoporosis
+Osteopathies and chondropathies,N330C,N330C00,Osteoporosis localized to spine
+Osteopathies and chondropathies,N330D,N330D00,Osteoporosis due to corticosteroids
+Osteopathies and chondropathies,N330z,N330z00,Osteoporosis NOS
+Osteopathies and chondropathies,N3312,N331200,Postoophorectomy osteoporosis with pathological fracture
+Osteopathies and chondropathies,N3313,N331300,Osteoporosis of disuse with pathological fracture
+Osteopathies and chondropathies,N3314,N331400,Postsurgical malabsorption osteoporosis with path fracture
+Osteopathies and chondropathies,N3315,N331500,Drug-induced osteoporosis with pathological fracture
+Osteopathies and chondropathies,N3316,N331600,Idiopathic osteoporosis with pathological fracture
+Osteopathies and chondropathies,N3318,N331800,Osteoporosis + pathological fracture lumbar vertebrae
+Osteopathies and chondropathies,N3319,N331900,Osteoporosis + pathological fracture thoracic vertebrae
+Osteopathies and chondropathies,N331A,N331A00,Osteoporosis + pathological fracture cervical vertebrae
+Osteopathies and chondropathies,N331B,N331B00,Postmenopausal osteoporosis with pathological fracture
+Osteopathies and chondropathies,N331H,N331H00,Collapse of cervical vertebra due to osteoporosis
+Osteopathies and chondropathies,N331J,N331J00,Collapse of lumbar vertebra due to osteoporosis
+Osteopathies and chondropathies,N331K,N331K00,Collapse of thoracic vertebra due to osteoporosis
+Osteopathies and chondropathies,N331L,N331L00,Collapse of vertebra due to osteoporosis NOS
+Osteopathies and chondropathies,N331M,N331M00,Fragility fracture due to unspecified osteoporosis
+Osteopathies and chondropathies,N331M-1,N331M11,Minimal trauma fracture due to unspecified osteoporosis
+Osteopathies and chondropathies,N3746,N374600,Osteoporotic kyphosis
+Osteopathies and chondropathies,NyuB0,NyuB000,[X]Other osteoporosis with pathological fracture
+Osteopathies and chondropathies,NyuB1,NyuB100,[X]Other osteoporosis
+Osteopathies and chondropathies,NyuB2,NyuB200,[X]Osteoporosis in other disorders classified elsewhere
+Osteopathies and chondropathies,NyuB8,NyuB800,[X]Unspecified osteoporosis with pathological fracture

@@ -1,0 +1,38 @@
+Condition,OriginalReadCode,CleansedReadCode,Term
+Spine arthritis/spondylitis,N111-99,N111.99,Cervical spond.with myelopathy
+Spine arthritis/spondylitis,N115-99,N115.99,Lumbosacral spond + myelopathy
+Spine arthritis/spondylitis,S1052,S105200,"Open fracture lumbar vertebra, spondylolysis"
+Spine arthritis/spondylitis,N11zz-99,N11zz99,Spondyloses
+Spine arthritis/spondylitis,^ESCT1275941,,Osteoarthritis of spine NOS
+Spine arthritis/spondylitis,^ESCT1272488,,Spondylosis NOS
+Spine arthritis/spondylitis,F1632,F163200,Myelopathy due to spondylosis
+Spine arthritis/spondylitis,N11-1,N11..11,Arthritis of spine
+Spine arthritis/spondylitis,N11-2,N11..12,Osteoarthritis of spine
+Spine arthritis/spondylitis,N111,N111.00,Cervical spondylosis with myelopathy
+Spine arthritis/spondylitis,N1110,N111000,Single-level cervical spondylosis with myelopathy
+Spine arthritis/spondylitis,N1111,N111100,Two-level cervical spondylosis with myelopathy
+Spine arthritis/spondylitis,N1112,N111200,Multiple-level cervical spondylosis with myelopathy
+Spine arthritis/spondylitis,N113,N113.00,Thoracic spondylosis with myelopathy
+Spine arthritis/spondylitis,N1130,N113000,Single-level thoracic spondylosis with myelopathy
+Spine arthritis/spondylitis,N1132,N113200,Multiple-level thoracic spondylosis with myelopathy
+Spine arthritis/spondylitis,N114,N114.00,Lumbosacral spondylosis without myelopathy
+Spine arthritis/spondylitis,N1140,N114000,Single-level lumbosacral spondylosis without myelopathy
+Spine arthritis/spondylitis,N1141,N114100,Two-level lumbosacral spondylosis without myelopathy
+Spine arthritis/spondylitis,N1142,N114200,Multiple-level lumbosacral spondylosis without myelopathy
+Spine arthritis/spondylitis,N115,N115.00,Lumbosacral spondylosis with myelopathy
+Spine arthritis/spondylitis,N1150,N115000,Single-level lumbosacral spondylosis with myelopathy
+Spine arthritis/spondylitis,N1151,N115100,Two-level lumbosacral spondylosis with myelopathy
+Spine arthritis/spondylitis,N1152,N115200,Multiple-level lumbosacral spondylosis with myelopathy
+Spine arthritis/spondylitis,N11C,N11C.00,Lumbosacral spondylosis with radiculopathy
+Spine arthritis/spondylitis,N11C0,N11C000,Single-level lumbosacral spondylosis with radiculopathy
+Spine arthritis/spondylitis,N11C1,N11C100,Two-level lumbosacral spondylosis with radiculopathy
+Spine arthritis/spondylitis,N11C2,N11C200,Multiple-level lumbosacral spondylosis with radiculopathy
+Spine arthritis/spondylitis,N11D,N11D.00,Osteoarthritis of spine
+Spine arthritis/spondylitis,N11D3,N11D300,Osteoarthritis of spine NOS
+Spine arthritis/spondylitis,N11z,N11z.00,Spondylosis NOS
+Spine arthritis/spondylitis,N11z-1,N11z.11,Osteoarthritis spine
+Spine arthritis/spondylitis,N11z0,N11z000,"Spondylosis without myelopathy, NOS"
+Spine arthritis/spondylitis,N11z1,N11z100,"Spondylosis with myelopathy, NOS"
+Spine arthritis/spondylitis,N11zz,N11zz00,Spondylosis NOS
+Spine arthritis/spondylitis,Nyu63,Nyu6300,[X]Other spondylosis with radiculopathy
+Spine arthritis/spondylitis,Nyu64,Nyu6400,[X]Other spondylosis

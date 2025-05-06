@@ -1,0 +1,32 @@
+Condition,OriginalReadCode,CleansedReadCode,Term
+Chronic rheumatic heart diseases,G11-1,G11..11,Rheumatic mitral valve disease
+Chronic rheumatic heart diseases,G110,G110.00,Mitral stenosis
+Chronic rheumatic heart diseases,G110-1,G110.11,Rheumatic mitral stenosis
+Chronic rheumatic heart diseases,G111,G111.00,Rheumatic mitral insufficiency
+Chronic rheumatic heart diseases,G111-1,G111.11,Mitral incompetence - rheumatic
+Chronic rheumatic heart diseases,G111-2,G111.12,Mitral regurgitation - rheumatic
+Chronic rheumatic heart diseases,G112,G112.00,Mitral stenosis with insufficiency
+Chronic rheumatic heart diseases,G112-2,G112.12,Mitral stenosis with incompetence
+Chronic rheumatic heart diseases,G112-3,G112.13,Mitral stenosis with regurgitation
+Chronic rheumatic heart diseases,G12,G12..00,Rheumatic aortic valve disease
+Chronic rheumatic heart diseases,G120,G120.00,Rheumatic aortic stenosis
+Chronic rheumatic heart diseases,G121,G121.00,Rheumatic aortic insufficiency
+Chronic rheumatic heart diseases,G121-1,G121.11,Aortic incompetence - rheumatic
+Chronic rheumatic heart diseases,G121-2,G121.12,Aortic regurgitation - rheumatic
+Chronic rheumatic heart diseases,G122,G122.00,Rheumatic aortic stenosis with insufficiency
+Chronic rheumatic heart diseases,G12z,G12z.00,Rheumatic aortic valve disease NOS
+Chronic rheumatic heart diseases,G1400,G140000,Rheumatic tricuspid stenosis
+Chronic rheumatic heart diseases,G1401,G140100,Rheumatic tricuspid insufficiency
+Chronic rheumatic heart diseases,G1401-1,G140111,Tricuspid regurgitation - rheumatic
+Chronic rheumatic heart diseases,G1401-2,G140112,Tricuspid incompetence - rheumatic
+Chronic rheumatic heart diseases,G1402,G140200,Rheumatic tricuspid stenosis and insufficiency
+Chronic rheumatic heart diseases,G1402-X,G14021X,Rheumatic tricuspid stenosis and regurgitation
+Chronic rheumatic heart diseases,G1402-Y,G14021Y,Rheumatic tricuspid stenosis and incompetence
+Chronic rheumatic heart diseases,G140z,G140z00,Rheumatic tricuspid valve disease NOS
+Chronic rheumatic heart diseases,G141,G141.00,Rheumatic pulmonary valve disease
+Chronic rheumatic heart diseases,G1410,G141000,Rheumatic pulmonary stenosis
+Chronic rheumatic heart diseases,G1411,G141100,Rheumatic pulmonary insufficiency
+Chronic rheumatic heart diseases,G1412,G141200,Rheumatic pulmonary stenosis and insufficiency
+Chronic rheumatic heart diseases,G141z,G141z00,Rheumatic pulmonary valve disease NOS
+Chronic rheumatic heart diseases,G14z-1,G14z.11,"Rheumatic valvulitis, chronic NOS"
+Chronic rheumatic heart diseases,Gyu11,Gyu1100,[X]Other rheumatic aortic valve diseases

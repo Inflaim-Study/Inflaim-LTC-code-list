@@ -1,0 +1,84 @@
+Condition,SnomedCTConceptId,SnomedCTDescriptionId,Term
+Cataract,54885007.0,91237012.0,Cataract extraction
+Cataract,538661000000100.0,859771000006116.0,Cataract extraction unspec.
+Cataract,13793006.0,1221016013.0,Extracapsular cataract extraction
+Cataract,193600001.0,883311000006115.0,Secondary cataract
+Cataract,172532006.0,859751000006114.0,YAG laser post capsulotomy
+Cataract,76309006.0,126733015.0,Cataract with neovascularization
+Cataract,47337003.0,78919019.0,Posterior capsule opacification
+Cataract,162811006.0,253774010.0,O/E - cataract present
+Cataract,308088006.0,451393017.0,O/E - Right cataract present
+Cataract,308089003.0,451394011.0,O/E - Left cataract present
+Cataract,13793006.0,23515018.0,Extracapsular extraction of cataract
+Cataract,5130002.0,495988011.0,Needling of lens for cataract
+Cataract,172523009.0,267088016.0,Intracapsular extraction of cataract
+Cataract,54885007.0,91232018.0,Other extraction of cataract
+Cataract,5130002.0,495989015.0,Discission of cataract
+Cataract,421920002.0,2618234016.0,Type 1 diabetes mellitus with diabetic cataract
+Cataract,43959009.0,73294018.0,Insulin dependent diabetes mellitus with diabetic cataract
+Cataract,193570009.0,298076010.0,Cataract
+Cataract,193571008.0,298078011.0,"Infantile, juvenile and presenile cataracts"
+Cataract,193570009.0,298076010.0,Unspecified infantile cataract
+Cataract,193570009.0,298076010.0,Unspecified juvenile cataract
+Cataract,399305009.0,1778757011.0,Unspecified presenile cataract
+Cataract,1412008.0,3463017.0,Anterior subcapsular polar cataract
+Cataract,34533008.0,57632013.0,Posterior subcapsular polar cataract
+Cataract,193576003.0,298083015.0,Cortical cataract
+Cataract,193577007.0,298084014.0,Lamellar zonular cataract
+Cataract,53889007.0,89579016.0,Nuclear cataract
+Cataract,193579005.0,298086011.0,Combined nonsenile cataract
+Cataract,193571008.0,298078011.0,Other nonsenile cataract
+Cataract,193571008.0,298078011.0,Nonsenile cataract NOS
+Cataract,39450006.0,66160017.0,Senile cataract
+Cataract,39450006.0,492086016.0,Unspecified senile cataract
+Cataract,44219007.0,73743014.0,Lens capsule pseudoexfoliation
+Cataract,12195004.0,21000016.0,Coronary cataract
+Cataract,40714009.0,67912012.0,Punctate cataract
+Cataract,52421005.0,87235014.0,Incipient cataract NOS
+Cataract,446474007.0,2884338017.0,Immature cataract NOS
+Cataract,111515007.0,178759010.0,Anterior subcapsular polar senile cataract
+Cataract,5318001.0,9918017.0,Posterior subcapsular polar senile cataract
+Cataract,78875003.0,130863017.0,Cortical senile cataract
+Cataract,193589009.0,298096019.0,Nuclear senile cataract
+Cataract,193590000.0,298097011.0,"Total, mature senile cataract"
+Cataract,267626000.0,399449014.0,Hypermature cataract
+Cataract,267626000.0,399449014.0,Morgagni cataract
+Cataract,11422002.0,19766015.0,Combined senile cataract
+Cataract,39450006.0,66160017.0,Other senile cataract
+Cataract,39450006.0,66160017.0,Senile cataract NOS
+Cataract,193600001.0,298113012.0,Cataract secondary to ocular disease
+Cataract,193600001.0,298113012.0,Unspecified cataracta complicata
+Cataract,193602009.0,298117013.0,Cataract in eye inflammatory disorder
+Cataract,76309006.0,503251011.0,Cataract with neovascularization
+Cataract,766837000.0,3662814015.0,Cataract in degenerative disorder
+Cataract,193600001.0,298113012.0,Cataract secondary to ocular disorder NOS
+Cataract,193570009.0,298076010.0,Cataract due to other disorder
+Cataract,68216000.0,113312017.0,Tetanic cataract
+Cataract,64741003.0,107602013.0,Myotonic cataract
+Cataract,193570009.0,298076010.0,Cataract associated with other syndromes
+Cataract,193570009.0,298076010.0,Cataract due to other disorder NOS
+Cataract,47337003.0,78919019.0,After cataract
+Cataract,193570009.0,298076010.0,Unspecified secondary cataract
+Cataract,47337003.0,78919019.0,Other after cataract with vision normal
+Cataract,193615000.0,298135016.0,After-cataract with vision obscured
+Cataract,47337003.0,78919019.0,After cataract NOS
+Cataract,95722004.0,158572010.0,Bilateral cataracts
+Cataract,193570009.0,298076010.0,Other cataract
+Cataract,193570009.0,298076010.0,Other cataract NOS
+Cataract,193570009.0,298076010.0,Cataract NOS
+Cataract,311789006.0,455415018.0,Immature cortical cataract
+Cataract,815071000000102.0,2124391000000116.0,Keratopathy following cataract surgery
+Cataract,723024009.0,3334178013.0,Bullous aphakic keratopathy following cataract surgery
+Cataract,194156008.0,298880018.0,Vitreous syndrome following cataract surgery
+Cataract,10810001.0,18772014.0,[X]Other senile cataract
+Cataract,10810001.0,18772014.0,[X]Other specified cataract
+Cataract,10810001.0,18772014.0,[X]Cataract in other diseases classified elsewhere
+Cataract,204124004.0,313009012.0,Capsular and subcapsular cataract
+Cataract,204125003.0,313010019.0,Capsular cataract
+Cataract,95723009.0,158573017.0,Subcapsular cataract
+Cataract,204124004.0,3009961018.0,Capsular or subcapsular cataract NOS
+Cataract,204127006.0,313012010.0,Cortical and zonular cataract
+Cataract,204128001.0,313014011.0,Zonular cataract
+Cataract,204128001.0,313013017.0,Cortical or zonular cataract NOS
+Cataract,204138006.0,313032011.0,Blue dot cataract
+Cataract,428535004.0,2693274017.0,[V]State following cataract extraction

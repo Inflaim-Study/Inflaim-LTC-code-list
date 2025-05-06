@@ -1,0 +1,12 @@
+Condition,OriginalReadCode,CleansedReadCode,Term
+Meniere disease,^ESCTLE298126,,Lermoyez's syndrome
+Meniere disease,^ESCT1192513,,Unspecified Meniere's disease
+Meniere disease,F560,F560.00,Meniere's disease
+Meniere disease,F560-1,F560.11,Endolymphatic hydrops
+Meniere disease,F560-2,F560.12,Lermoyez's syndrome
+Meniere disease,F5600,F560000,Unspecified Meniere's disease
+Meniere disease,F5601,F560100,Active cochleovestibular Meniere's disease
+Meniere disease,F5602,F560200,Active cochlear Meniere's disease
+Meniere disease,F5603,F560300,Active vestibular Meniere's disease
+Meniere disease,F5604,F560400,Inactive Meniere's disease
+Meniere disease,F560z,F560z00,Meniere's disease NOS

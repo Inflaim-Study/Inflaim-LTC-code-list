@@ -1,0 +1,8 @@
+Condition,MedCodeId,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,ICD10Code,Term
+Sjogre's syndrome/Sicca syndrome,297645018.0,F3967,F396700,193253000.0,297645018.0,M350,Myopathy due to Sjogren's disease
+Sjogre's syndrome/Sicca syndrome,301720019.0,H57y3,H57y300,196137000.0,301720019.0,M350,Lung disease with Sjogren's disease
+Sjogre's syndrome/Sicca syndrome,141091000006112.0,N002,N002.00,83901003.0,139128015.0,M350,Sicca (Sjogren's) syndrome
+Sjogre's syndrome/Sicca syndrome,141091000006112.0,N002,N002.00,83901003.0,139128015.0,N164,Sicca (Sjogren's) syndrome
+Sjogre's syndrome/Sicca syndrome,141091000006112.0,N002,N002.00,83901003.0,139128015.0,H193,Sicca (Sjogren's) syndrome
+Sjogre's syndrome/Sicca syndrome,141091000006112.0,N002,N002.00,83901003.0,139128015.0,G737,Sicca (Sjogren's) syndrome
+Sjogre's syndrome/Sicca syndrome,141091000006112.0,N002,N002.00,83901003.0,139128015.0,J991,Sicca (Sjogren's) syndrome

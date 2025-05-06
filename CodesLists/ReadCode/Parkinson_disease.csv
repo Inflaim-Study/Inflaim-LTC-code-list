@@ -1,0 +1,8 @@
+Condition,OriginalReadCode,CleansedReadCode,Term
+Parkinson disease,^ESCTID329363,,Idiopathic Parkinson's disease
+Parkinson disease,^ESCTPA329361,,Paralysis agitans
+Parkinson disease,Eu023,Eu02300,[X]Dementia in Parkinson's disease
+Parkinson disease,F11x9,F11x900,Cerebral degeneration in Parkinson's disease
+Parkinson disease,F12,F12..00,Parkinson's disease
+Parkinson disease,F120,F120.00,Paralysis agitans
+Parkinson disease,F12z,F12z.00,Parkinson's disease NOS

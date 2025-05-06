@@ -1,0 +1,33 @@
+Condition,OriginalReadCode,CleansedReadCode,Term
+Psoriasis,ESCTFL1,,Flexural psoriasis
+Psoriasis,M16,M16..00,Psoriasis and similar disorders
+Psoriasis,M160,M160.00,Psoriatic arthropathy
+Psoriasis,M160-1,M160.11,Psoriatic arthritis
+Psoriasis,M160z,M160z00,Psoriatic arthropathy NOS
+Psoriasis,M161,M161.00,Other psoriasis
+Psoriasis,M1610,M161000,Psoriasis unspecified
+Psoriasis,M1611,M161100,Psoriasis annularis
+Psoriasis,M1612,M161200,Psoriasis circinata
+Psoriasis,M1613,M161300,Psoriasis diffusa
+Psoriasis,M1614,M161400,Psoriasis discoidea
+Psoriasis,M1615,M161500,Psoriasis geographica
+Psoriasis,M1616,M161600,Guttate psoriasis
+Psoriasis,M1617,M161700,Psoriasis gyrata
+Psoriasis,M1618,M161800,Psoriasis inveterata
+Psoriasis,M1619,M161900,Psoriasis ostracea
+Psoriasis,M161A,M161A00,Psoriasis palmaris
+Psoriasis,M161B,M161B00,Psoriasis plantaris
+Psoriasis,M161C,M161C00,Psoriasis punctata
+Psoriasis,M161D,M161D00,Pustular psoriasis
+Psoriasis,M161E,M161E00,Psoriasis universalis
+Psoriasis,M161F,M161F00,Psoriasis vulgaris
+Psoriasis,M161F-1,M161F11,Chronic large plaque psoriasis
+Psoriasis,M161H,M161H00,Erythrodermic psoriasis
+Psoriasis,M161J,M161J00,Flexural psoriasis
+Psoriasis,M161z,M161z00,Psoriasis NOS
+Psoriasis,M166,M166.00,Palmoplantar pustular psoriasis
+Psoriasis,M16y,M16y.00,Other psoriasis and similar disorders
+Psoriasis,M16y0,M16y000,Scalp psoriasis
+Psoriasis,M16z,M16z.00,Psoriasis and similar disorders NOS
+Psoriasis,Myu30,Myu3000,[X]Other psoriasis
+Psoriasis,Nyu13,Nyu1300,[X]Other psoriatic arthropathies

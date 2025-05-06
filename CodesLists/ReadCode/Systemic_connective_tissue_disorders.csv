@@ -1,0 +1,439 @@
+Condition,OriginalReadCode,CleansedReadCode,Term
+Systemic connective tissue disorders,H583z,H583z00,Pulmonary eosinophilia NOS
+Systemic connective tissue disorders,G75,G75..00,Polyarteritis nodosa and allied conditions
+Systemic connective tissue disorders,^ESCTPA451490,,PAN - Polyarteritis nodosa
+Systemic connective tissue disorders,^ESCTPE451489,,Periarteritis nodosa
+Systemic connective tissue disorders,^ESCTAN629847,,Andrews syndrome
+Systemic connective tissue disorders,^ESCTPI629844,,PIE - Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,^ESCTPU629845,,Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,F3711,F371100,Polyneuropathy in polyarteritis nodosa
+Systemic connective tissue disorders,F371z,F371z00,Polyneuropathy in collagen vascular disease NOS
+Systemic connective tissue disorders,^ESCTEP629843,,EP - Eosinophilic pneumonia
+Systemic connective tissue disorders,^ESCTEO629846,,Eosinophilic pneumonia
+Systemic connective tissue disorders,^ESCTNE477043,,Neuropathy in vasculitis and connective tissue disease
+Systemic connective tissue disorders,G750,G750.00,Polyarteritis nodosa
+Systemic connective tissue disorders,F371,F371.00,Polyneuropathy in collagen vascular disease
+Systemic connective tissue disorders,K01x3,K01x300,Nephrotic syndrome in polyarteritis nodosa
+Systemic connective tissue disorders,H583,H583.00,Pulmonary eosinophilia
+Systemic connective tissue disorders,G750-99,G750.99,Polyarteritis nodosa NOS
+Systemic connective tissue disorders,Fyu77,Fyu7700,[X]Polyneuropathy/systemic connective tissue disorders CE
+Systemic connective tissue disorders,G75z,G75z.00,Polyarteritis nodosa and allied conditions NOS
+Systemic connective tissue disorders,Nyu40,Nyu4000,[X]Other conditions related to polyarteritis nodosa
+Systemic connective tissue disorders,^ESCTEO629842,,Eosinophilic asthma
+Systemic connective tissue disorders,F3963,F396300,Myopathy due to polyarteritis nodosa
+Systemic connective tissue disorders,7B1Bz,7B1Bz00,Diagnostic endoscopic examination of ureter NOS
+Systemic connective tissue disorders,7B1B-3,7B1B.13,Ureteroscopy
+Systemic connective tissue disorders,7B2AA,7B2AA00,Diagnost endos exam bladder biop lesion bladder rigid cysto
+Systemic connective tissue disorders,7B2AB,7B2AB00,Diagnostic endoscop exam bladder biop lesion pros rigid cys
+Systemic connective tissue disorders,7B2AC,7B2AC00,Diagnostic endoscopic examination bladder using cystoscope
+Systemic connective tissue disorders,^ESCTAL383832,,Allergic granulomatosis angiitis
+Systemic connective tissue disorders,^ESCTEN647654,,Endoscopy of ureter
+Systemic connective tissue disorders,^ESCTRE671140,,Retrograde urography
+Systemic connective tissue disorders,^ESCTCY647653,,Cystoureteroscopy
+Systemic connective tissue disorders,^ESCT1187891,,EGPA - eosinophilic granulomatosis with polyangiitis
+Systemic connective tissue disorders,^ESCTRI467100,,Rigid check cystoscopy
+Systemic connective tissue disorders,^ESCTCS383835,,CSS - Churg-Strauss syndrome
+Systemic connective tissue disorders,^ESCTRE671136,,Retrograde ureteropyelography
+Systemic connective tissue disorders,^ESCTCH383836,,Churg Strauss syndrome
+Systemic connective tissue disorders,^ESCTEN467036,,Endoscopic retrograde pyelogram
+Systemic connective tissue disorders,^ESCTEO383831,,Eosinophilic granulomatosis with polyangiitis
+Systemic connective tissue disorders,^ESCTRE671138,,Retrograde pyelography
+Systemic connective tissue disorders,^ESCTRP671137,,RPG - Retrograde pyelogram
+Systemic connective tissue disorders,^ESCTAL383834,,Allergic granulomatous angiitis
+Systemic connective tissue disorders,7B1B0-99,7B1B099,Retrograde pyelography
+Systemic connective tissue disorders,7B1B-1,7B1B.11,Cystoscopy of ureter
+Systemic connective tissue disorders,^ESCTRE671139,,Retrograde urogram
+Systemic connective tissue disorders,7B1B0,7B1B000,Endoscopic retrograde pyelography - unspecified
+Systemic connective tissue disorders,7B1B6,7B1B600,Retrograde bulb ureteropyelography
+Systemic connective tissue disorders,7B1B-2,7B1B.12,Diagnostic endoscopy of ureter
+Systemic connective tissue disorders,7B1B,7B1B.00,Diagnostic endoscopic examination of ureter
+Systemic connective tissue disorders,7B1B5,7B1B500,Retrograde catheter ureteropyelography
+Systemic connective tissue disorders,7B1By,7B1By00,Other specified diagnostic endoscopic examination of ureter
+Systemic connective tissue disorders,7B1B4,7B1B400,Simple diagnostic ureteroscopy
+Systemic connective tissue disorders,7B2A2,7B2A200,Diagnostic cystoscopy using rigid instrument
+Systemic connective tissue disorders,7B1Bz-1,7B1Bz11,Ureteroscopy NEC
+Systemic connective tissue disorders,G758,G758.00,Churg-Strauss vasculitis
+Systemic connective tissue disorders,^ESCT1187890,,Eosinophilic granulomatosis with polyangiitis
+Systemic connective tissue disorders,7B1B5-1,7B1B511,Retrograde pyelogram
+Systemic connective tissue disorders,7B2A4,7B2A400,Check cystoscopy using rigid instrument
+Systemic connective tissue disorders,G759,G759.00,Juvenile polyarteritis
+Systemic connective tissue disorders,^ESCTCY647425,,Cystoscopic catheterisation of ureter
+Systemic connective tissue disorders,7B1B1,7B1B100,Endoscopic catheterisation of ureter
+Systemic connective tissue disorders,^ESCTCY647426,,Cystoscopic catheterization of ureter
+Systemic connective tissue disorders,^ESCTEN647428,,Endoscopic catheterization of ureter
+Systemic connective tissue disorders,7B1B7,7B1B700,Endoscopic ureteric urine sampling
+Systemic connective tissue disorders,^ESCTKA372016,,Kawasaki's disease
+Systemic connective tissue disorders,7B1B2,7B1B200,Endoscopic ureteric sampling of urine
+Systemic connective tissue disorders,^ESCTMC372015,,MCLS
+Systemic connective tissue disorders,^ESCTKA372020,,Kawasaki syndrome
+Systemic connective tissue disorders,^ESCTKA372019,,Kawasaki's syndrome
+Systemic connective tissue disorders,^ESCTMU372017,,Mucocutaneous lymph node syndrome
+Systemic connective tissue disorders,^ESCTKA372021,,Kawasakis mucocutaneous lymph node syndrome
+Systemic connective tissue disorders,^ESCTML372018,,MLNS
+Systemic connective tissue disorders,G7510,G751000,Kawasaki disease
+Systemic connective tissue disorders,7B1B2-99,7B1B299,Endosc. ureteric urine collect
+Systemic connective tissue disorders,^ESCTCY467038,,Cystoscopic ureteric sampling of urine
+Systemic connective tissue disorders,Nyu46,Nyu4600,[X]Other overlap syndromes
+Systemic connective tissue disorders,G752z,G752z00,Hypersensitivity angiitis NOS
+Systemic connective tissue disorders,^ESCTPU331910,,Pulmonary haemorrhage with glomerulonephritis
+Systemic connective tissue disorders,^ESCTPU331908,,Pulmonary hemosiderosis with glomerulonephritis
+Systemic connective tissue disorders,^ESCTHE331904,,Hemorrhagic pneumonia AND glomerulonephritis
+Systemic connective tissue disorders,^ESCTAN509518,,Anti GBM - Antiglomerular basement membrane disease
+Systemic connective tissue disorders,^ESCTPU331907,,Pulmonary hemorrhage with glomerulonephritis
+Systemic connective tissue disorders,^ESCTLU331906,,Lung purpura with nephritis syndrome
+Systemic connective tissue disorders,^ESCTPU331905,,Pulmonary-renal syndrome
+Systemic connective tissue disorders,^ESCTMA348359,,Maladie trisymptome
+Systemic connective tissue disorders,^ESCTGO509519,,Goodpasture disease
+Systemic connective tissue disorders,^ESCTHA331912,,Haemorrhagic pneumonia AND glomerulonephritis
+Systemic connective tissue disorders,^ESCTHY348358,,Hypersensitivity vasculitis
+Systemic connective tissue disorders,^ESCTGO331914,,Goodpasture syndrome
+Systemic connective tissue disorders,^ESCTLE348363,,Leukocytoclastic angiitis
+Systemic connective tissue disorders,^ESCTLE348361,,Leucocytoclastic vasculitis
+Systemic connective tissue disorders,^ESCTAL348357,,Allergic vasculitis
+Systemic connective tissue disorders,^ESCTAN331913,,Anti-GBM nephritis with pulmonary haemorrhage
+Systemic connective tissue disorders,^ESCTLE348362,,Leucocytoclastic angiitis
+Systemic connective tissue disorders,^ESCTTR348360,,Trisymptome
+Systemic connective tissue disorders,^ESCTPU331911,,Pulmonary haemosiderosis with glomerulonephritis
+Systemic connective tissue disorders,^ESCTAN331909,,Anti-GBM nephritis with pulmonary hemorrhage
+Systemic connective tissue disorders,G7521-2,G752112,Anti GBM disease - Antiglomerular basement membrane disease
+Systemic connective tissue disorders,^ESCTLE348356,,Leukocytoclastic vasculitis
+Systemic connective tissue disorders,G7520,G752000,Goodpasture's syndrome
+Systemic connective tissue disorders,G7521-1,G752111,Antiglomerular basement membrane disease
+Systemic connective tissue disorders,G7521,G752100,Goodpasture's disease
+Systemic connective tissue disorders,G752,G752.00,Hypersensitivity angiitis
+Systemic connective tissue disorders,G752-1,G752.11,Hypersensitivity arteritis
+Systemic connective tissue disorders,G756z,G756z00,Thrombotic microangiopathy NOS
+Systemic connective tissue disorders,D313-4,D313.14,Megakaryocytic hypoplasia
+Systemic connective tissue disorders,7B1C3,7B1C300,Extracorporeal shockwave lithotripsy stone in lower ureter
+Systemic connective tissue disorders,7B1Cz,7B1Cz00,Extracorporeal shockwave lithotripsy ureteric calculus NOS
+Systemic connective tissue disorders,^ESCTES281854,,ESWL - Extracorporeal shockwave lithotripsy of ureteric calculus
+Systemic connective tissue disorders,^ESCTEX467041,,Extracorporeal shockwave lithotripsy for stone in upper ureter
+Systemic connective tissue disorders,^ESCTDI647780,,Disorder characterised by purpura
+Systemic connective tissue disorders,^ESCTTT377079,,TTP
+Systemic connective tissue disorders,7B1C1,7B1C100,Extracorporeal shockwave therapy for stone in upper ureter
+Systemic connective tissue disorders,D31,D31..00,Purpura and other haemorrhagic conditions
+Systemic connective tissue disorders,G7561,G756100,Thrombotic thrombocytopenic purpura
+Systemic connective tissue disorders,7B1C2,7B1C200,Extracorporeal shockwave lithotripsy for stone in mid-ureter
+Systemic connective tissue disorders,D313-5,D313.15,Thrombocytopenic purpura
+Systemic connective tissue disorders,7B1C,7B1C.00,Extracorporeal shockwave lithotripsy of ureteric calculus
+Systemic connective tissue disorders,G7560,G756000,Moschcowitz syndrome
+Systemic connective tissue disorders,7B1C-99,7B1C.99,Ureteric lithotripsy
+Systemic connective tissue disorders,D313y,D313y00,Other specified primary thrombocytopenia
+Systemic connective tissue disorders,D3121,D312100,Purpura
+Systemic connective tissue disorders,G756,G756.00,Thrombotic microangiopathy
+Systemic connective tissue disorders,D313-1,D313.11,Evan's syndrome
+Systemic connective tissue disorders,^ESCTTT377081,,TTP - Thrombotic thrombocytopenic purpura
+Systemic connective tissue disorders,^ESCTMO377078,,Moschowitz's syndrome
+Systemic connective tissue disorders,^ESCTDI647781,,Disorder characterized by purpura
+Systemic connective tissue disorders,7B1C0,7B1C000,Extracorp shockwave lithotripsy of unspec ureteric calculus
+Systemic connective tissue disorders,7B1Cy,7B1Cy00,Extracorporeal shockwave lithotripsy of ureteric calculus OS
+Systemic connective tissue disorders,^ESCTWE477904,,Wegener granulomatosis
+Systemic connective tissue disorders,^ESCTNE477903,,Necrotizing respiratory granulomatosis
+Systemic connective tissue disorders,^ESCTNE477901,,Necrotising respiratory granulomatosis
+Systemic connective tissue disorders,G754,G754.00,Wegener's granulomatosis
+Systemic connective tissue disorders,G754-1,G754.11,Granulomatosis with polyangiitis
+Systemic connective tissue disorders,G757-1,G757.11,Aortic arch arteritis
+Systemic connective tissue disorders,^ESCTAT620651,,Atypical coarctation
+Systemic connective tissue disorders,^ESCTAC620642,,Acquired aortoarteritis
+Systemic connective tissue disorders,^ESCTID620649,,Idiopathic medial aortopathy AND arteriopathy
+Systemic connective tissue disorders,^ESCTTA620659,,Takayasu disease
+Systemic connective tissue disorders,^ESCTSC620655,,Sclerosing aortitis AND arteritis
+Systemic connective tissue disorders,^ESCTRE620650,,Reverse coarctation
+Systemic connective tissue disorders,^ESCTTA620640,,Takayasu's arteritis
+Systemic connective tissue disorders,^ESCTRA620657,,Raeder-Harbitz syndrome
+Systemic connective tissue disorders,^ESCTNO620654,,Nonspecific arteritis
+Systemic connective tissue disorders,^ESCTNO620656,,Nonspecific aortoarteritis
+Systemic connective tissue disorders,^ESCTOC620644,,Occlusive thromboarteriopathy
+Systemic connective tissue disorders,^ESCTAO620646,,Aortitis syndrome
+Systemic connective tissue disorders,^ESCTAO620643,,Aortic arch arteritis
+Systemic connective tissue disorders,^ESCTYO620658,,Young female arteritis
+Systemic connective tissue disorders,^ESCTMA620653,,Martorell syndrome
+Systemic connective tissue disorders,^ESCTTA620652,,Takayasu's arteriopathy
+Systemic connective tissue disorders,G757-2,G757.12,Pulseless disease
+Systemic connective tissue disorders,^ESCTAO620647,,Aortic arch syndrome
+Systemic connective tissue disorders,G757,G757.00,Takayasu's disease
+Systemic connective tissue disorders,^ESCTPR620645,,Primary arteritis
+Systemic connective tissue disorders,^ESCTRH356200,,Rhizomelic pseudopolyarthritis
+Systemic connective tissue disorders,^ESCTTA663525,,TA - Temporal arteritis
+Systemic connective tissue disorders,^ESCTSE356201,,Senile arthritis
+Systemic connective tissue disorders,^ESCTPM356202,,PMR - Polymyalgia rheumatica
+Systemic connective tissue disorders,^ESCTTE663526,,Temporal giant cell arteritis
+Systemic connective tissue disorders,^ESCTFO356199,,Forestier-Certonciny syndrome
+Systemic connective tissue disorders,G7551,G755100,Temporal arteritis
+Systemic connective tissue disorders,N20,N20..00,Polymyalgia rheumatica
+Systemic connective tissue disorders,N200,N200.00,Giant cell arteritis with polymyalgia rheumatica
+Systemic connective tissue disorders,G755,G755.00,Giant cell arteritis
+Systemic connective tissue disorders,G7552,G755200,Horton's disease
+Systemic connective tissue disorders,N20-1,N20..11,Polymyalgia
+Systemic connective tissue disorders,G755z,G755z00,Giant cell arteritis NOS
+Systemic connective tissue disorders,G7550,G755000,Cranial arteritis
+Systemic connective tissue disorders,Nyu41,Nyu4100,[X]Other giant cell arteritis
+Systemic connective tissue disorders,^ESCTGI514166,,Giant cell arteritis without polymyalgia rheumatica
+Systemic connective tissue disorders,G75A,G75A.00,Microscopic polyangiitis
+Systemic connective tissue disorders,^ESCTPR514154,,Primary necrotising vasculitis with granulomata
+Systemic connective tissue disorders,^ESCTAN301529,,Angiitis
+Systemic connective tissue disorders,^ESCTPR514157,,Primary necrotising arteritis with granulomata
+Systemic connective tissue disorders,^ESCTPR514156,,Primary necrotizing arteritis with granulomata
+Systemic connective tissue disorders,G76B,G76B.00,Vasculitis
+Systemic connective tissue disorders,^ESCTPR514155,,Primary necrotizing vasculitis with granulomata
+Systemic connective tissue disorders,G750-1,G750.11,Necrotising angiitis
+Systemic connective tissue disorders,N000z,N000z00,Systemic lupus erythematosus NOS
+Systemic connective tissue disorders,Nyu43,Nyu4300,[X]Other forms of systemic lupus erythematosus
+Systemic connective tissue disorders,M154z,M154z00,Lupus erythematosus NOS
+Systemic connective tissue disorders,^ESCTLU480560,,Lupus
+Systemic connective tissue disorders,^ESCTSL340060,,SLE - Systemic lupus erythematosus
+Systemic connective tissue disorders,N0000,N000000,Disseminated lupus erythematosus
+Systemic connective tissue disorders,N0002,N000200,Drug-induced systemic lupus erythematosus
+Systemic connective tissue disorders,M154,M154.00,Lupus erythematosus
+Systemic connective tissue disorders,^ESCTLE480559,,LE - Lupus erythematosus
+Systemic connective tissue disorders,N000,N000.00,Systemic lupus erythematosus
+Systemic connective tissue disorders,H58,H58..00,Other diseases of lung
+Systemic connective tissue disorders,Hyu81,Hyu8100,[X]Other disorders of lung
+Systemic connective tissue disorders,N0003,N000300,Systemic lupus erythematosus with organ or sys involv
+Systemic connective tissue disorders,^ESCTLU281478,,Lung disorder
+Systemic connective tissue disorders,^ESCTPU281479,,Pulmonary disease
+Systemic connective tissue disorders,H58z,H58z.00,Lung disease NOS
+Systemic connective tissue disorders,P86,P86..00,Other lung anomalies
+Systemic connective tissue disorders,7B1D4,7B1D400,Endoscopic dilatation of ureteric orifice
+Systemic connective tissue disorders,^ESCTCY467054,,Cystoscopic dilatation of ureteric orifice
+Systemic connective tissue disorders,N0005,N000500,Neonatal lupus erythematosus
+Systemic connective tissue disorders,^ESCTNE405966,,Neonatal lupus
+Systemic connective tissue disorders,^ESCTCH251776,,Childhood type dermatomyositis
+Systemic connective tissue disorders,N0030,N003000,Juvenile dermatomyositis
+Systemic connective tissue disorders,Nyu44,Nyu4400,[X]Other dermatomyositis
+Systemic connective tissue disorders,N003X,N003X00,"Dermatopolymyositis, unspecified"
+Systemic connective tissue disorders,^ESCTNE571644,,Nephroscopic ureteric stent procedure
+Systemic connective tissue disorders,Nyu4E,Nyu4E00,"[X]Dermatopolymyositis, unspecified"
+Systemic connective tissue disorders,^ESCTPO656613,,Polymyositis with skin involvement
+Systemic connective tissue disorders,7B1Ez,7B1Ez00,Percutaneous ureteric stent procedures NOS
+Systemic connective tissue disorders,^ESCTWA656612,,Wagner-Unverricht syndrome
+Systemic connective tissue disorders,N003,N003.00,Dermatomyositis
+Systemic connective tissue disorders,7B1Ey,7B1Ey00,Other specified percutaneous ureteric stent procedures
+Systemic connective tissue disorders,7B1E,7B1E.00,Percutaneous ureteric stent procedures
+Systemic connective tissue disorders,N003-1,N003.11,Poikilodermatomyositis
+Systemic connective tissue disorders,^ESCTDM656614,,DM - Dermatomyositis
+Systemic connective tissue disorders,^ESCTNE300574,,Neuromyositis
+Systemic connective tissue disorders,^ESCTPO478245,,Polymyositis with pulmonary involvement
+Systemic connective tissue disorders,^ESCTLU478244,,Lung disease co-occurrent with polymyositis
+Systemic connective tissue disorders,H57y1,H57y100,Lung disease with polymyositis
+Systemic connective tissue disorders,^ESCTPM300575,,PM - Polymyositis
+Systemic connective tissue disorders,N004,N004.00,Polymyositis
+Systemic connective tissue disorders,Nyu45,Nyu4500,[X]Other forms of systemic sclerosis
+Systemic connective tissue disorders,^ESCTPS728857,,PSS - Progressive systemic sclerosis
+Systemic connective tissue disorders,^ESCTSC394912,,Scleroderma syndrome
+Systemic connective tissue disorders,^ESCTTH394911,,Thibierge-Weissenbach syndrome
+Systemic connective tissue disorders,^ESCTSY394910,,Systemic scleroderma
+Systemic connective tissue disorders,N001,N001.00,Scleroderma
+Systemic connective tissue disorders,N001-2,N001.12,Systemic sclerosis
+Systemic connective tissue disorders,^ESCTSS394913,,SS - Systemic sclerosis
+Systemic connective tissue disorders,N0010,N001000,Progressive systemic sclerosis
+Systemic connective tissue disorders,^ESCTCA301292,,"Calcinosis cutis, Raynaud's, oesophageal dysfunction, sclerodactyly AND telangiectasia"
+Systemic connective tissue disorders,7B2,7B2..00,Bladder operations
+Systemic connective tissue disorders,^ESCTCO352447,,Complete cystectomy
+Systemic connective tissue disorders,^ESCTCR301295,,"CREST - Calcinosis, Raynaud's phenomenon, esophageal dysfunction, sclerodactyly, telangiectasia"
+Systemic connective tissue disorders,^ESCTCY415174,,Cystectomy
+Systemic connective tissue disorders,^ESCTTO352451,,Total resection of urinary bladder
+Systemic connective tissue disorders,^ESCTCR301296,,"CREST - Calcinosis, Raynaud's phenomenon, sclerodactyly, esophageal involvement, telangiectasia syndrome"
+Systemic connective tissue disorders,^ESCTCA301299,,"Calcinosis, Raynaud phenomenon, esophageal dysmotility, sclerodactyly, and telangiectasia (CREST) syndrome"
+Systemic connective tissue disorders,7B20z-99,7B20z99,Total cystectomy NOS
+Systemic connective tissue disorders,7B35y-99,7B35y99,Urinary incontinence/sling opn
+Systemic connective tissue disorders,7B36z-1,7B36z11,Prostatectomy NEC
+Systemic connective tissue disorders,N0011,N001100,CREST syndrome
+Systemic connective tissue disorders,7B362-99,7B36299,Suprapubic prostatectomy
+Systemic connective tissue disorders,7B361,7B36100,Retropubic prostatectomy
+Systemic connective tissue disorders,7B36,7B36.00,Open prostatectomy
+Systemic connective tissue disorders,7B20-1,7B20.11,Total cystectomy
+Systemic connective tissue disorders,7B20-99,7B20.99,Radical cystectomy
+Systemic connective tissue disorders,7B36-99,7B36.99,Prostatectomy
+Systemic connective tissue disorders,7B20-98,7B20.98,Total cystectomy NOS
+Systemic connective tissue disorders,7B204,7B20400,Cystectomy NEC
+Systemic connective tissue disorders,7B2z,7B2z.00,Bladder operations NOS
+Systemic connective tissue disorders,^ESCTTO352448,,Total resection of bladder
+Systemic connective tissue disorders,^ESCTCA301291,,"Calcinosis cutis, Raynaud's, esophageal dysfunction, sclerodactyly AND telangiectasia"
+Systemic connective tissue disorders,7B202,7B20200,Radical cystoprostatectomy
+Systemic connective tissue disorders,7B362,7B36200,Transvesical prostatectomy
+Systemic connective tissue disorders,^ESCTCA301298,,"Calcinosis, Raynaud's phenomenon, esophageal dysmotility, sclerodactyly, and telangiectasia (CREST) syndrome"
+Systemic connective tissue disorders,^ESCTRP359937,,RPP - Retropubic prostatectomy
+Systemic connective tissue disorders,^ESCTCA301297,,"Calcinosis, Raynaud's phenomenon, oesophageal dysmotility, sclerodactyly, and telangiectasia (CREST) syndrome"
+Systemic connective tissue disorders,^ESCTCA301300,,"Calcinosis, Raynaud's phenomenon, esophageal dysmotility, sclerodactyly, and telangiectasia syndrome"
+Systemic connective tissue disorders,^ESCTCR301294,,"CREST - Calcinosis, Raynaud's phenomenon, sclerodactyly, oesophageal involvement, telangiectasia syndrome"
+Systemic connective tissue disorders,7B361-1,7B36111,Millin retropubic prostatectomy
+Systemic connective tissue disorders,^ESCTCR301293,,"CREST - Calcinosis, Raynaud's phenomenon, oesophageal dysfunction, sclerodactyly, telangiectasia"
+Systemic connective tissue disorders,7B205,7B20500,Cystourethrectomy
+Systemic connective tissue disorders,N0012,N001200,Systemic sclerosis induced by drugs and chemicals
+Systemic connective tissue disorders,7B201-99,7B20199,Total cystectomy +urethrectomy
+Systemic connective tissue disorders,7B205-99,7B20599,Total cystectomy +urethrectomy
+Systemic connective tissue disorders,7B201,7B20100,Radical cystourethrectomy - female
+Systemic connective tissue disorders,^ESCTSY585080,,Systemic sclerosis with limited cutaneous involvement
+Systemic connective tissue disorders,^ESCTMY477095,,Myopathy due to systemic sclerosis
+Systemic connective tissue disorders,^ESCTLI585081,,Limited cutaneous systemic sclerosis
+Systemic connective tissue disorders,^ESCTSC478240,,Scleroderma lung disease
+Systemic connective tissue disorders,7B200,7B20000,Radical cystoprostatourethrectomy
+Systemic connective tissue disorders,F3966,F396600,Myopathy due to scleroderma
+Systemic connective tissue disorders,H572,H572.00,Lung disease with systemic sclerosis
+Systemic connective tissue disorders,K0J0,K0J0.00,Renal involvement in scleroderma
+Systemic connective tissue disorders,7B200-99,7B20099,Cystoprostatectomy
+Systemic connective tissue disorders,N001-1,N001.11,Acrosclerosis
+Systemic connective tissue disorders,^ESCTSC478241,,Scleroderma of lung
+Systemic connective tissue disorders,^ESCTMY477099,,Myopathy due to Sj+â-Âgren disease
+Systemic connective tissue disorders,Nyu4C,Nyu4C00,[X]Systemic disorders/connective tissue in other diseases CE
+Systemic connective tissue disorders,N-1,N....11,Connective tissue diseases
+Systemic connective tissue disorders,^ESCTKC591275,,KCS - Keratoconjunctivitis sicca
+Systemic connective tissue disorders,^ESCTMY477097,,Myopathy due to Sj+â-Âgren's disease
+Systemic connective tissue disorders,N00-1,N00..11,Collagen diseases
+Systemic connective tissue disorders,N00,N00..00,Diffuse diseases of connective tissue
+Systemic connective tissue disorders,^ESCTTU708569,,Tubulo-interstitial nephritis
+Systemic connective tissue disorders,^ESCTSJ386508,,Sjogrens syndrome
+Systemic connective tissue disorders,^ESCTDI412567,,Disorder of connective tissue
+Systemic connective tissue disorders,^ESCTLU478248,,Lung disease with Sj+â-Âgren disease
+Systemic connective tissue disorders,^ESCTSJ386503,,Sj+â-Âgren's syndrome
+Systemic connective tissue disorders,^ESCTSJ386505,,Sj+â-Âgren's disease
+Systemic connective tissue disorders,^ESCTKE477318,,Keratoconjunctivitis sicca (excluding Sjogren syndrome)
+Systemic connective tissue disorders,^ESCTSJ386506,,Sjogren's syndrome
+Systemic connective tissue disorders,^ESCTKE477316,,Keratoconjunctivitis sicca (excluding Sj+â-Âgren syndrome)
+Systemic connective tissue disorders,^ESCTAU389509,,Autoimmune disorder
+Systemic connective tissue disorders,N00y,N00y.00,Other specified diffuse collagen diseases
+Systemic connective tissue disorders,Myu7F,Myu7F00,"[X]Localized connective tissue disorder, unspecified"
+Systemic connective tissue disorders,Nyu47,Nyu4700,[X]Other systemic diseases of connective tissue
+Systemic connective tissue disorders,M2V,M2V..00,"Localized connective tissue disorder, unspecified"
+Systemic connective tissue disorders,C394,C394.00,Autoimmune disease NOS
+Systemic connective tissue disorders,N002,N002.00,Sicca (Sjogren's) syndrome
+Systemic connective tissue disorders,^ESCTMY477100,,Myopathy due to Sjogrens disease
+Systemic connective tissue disorders,F3967,F396700,Myopathy due to Sjogren's disease
+Systemic connective tissue disorders,F4A32,F4A3200,Keratoconjunctivitis sicca (excluding Sjogren's syndrome)
+Systemic connective tissue disorders,N002-1,N002.11,Keratoconjunctivitis sicca
+Systemic connective tissue disorders,Myu79,Myu7900,[X]Other specified localized connective tissue disorders
+Systemic connective tissue disorders,^ESCTSJ386507,,Sj+â-Âgren syndrome
+Systemic connective tissue disorders,H57y3,H57y300,Lung disease with Sjogren's disease
+Systemic connective tissue disorders,Nyu4,Nyu4.00,[X]Systemic connective tissue disorders
+Systemic connective tissue disorders,^ESCTLU478246,,Lung disease with Sj+â-Âgren's disease
+Systemic connective tissue disorders,Nyu4F,Nyu4F00,[X]Mixed connective tissue disease
+Systemic connective tissue disorders,^ESCTMC659698,,MCTD - Mixed connective tissue disease
+Systemic connective tissue disorders,^ESCTSH659697,,Sharp's syndrome
+Systemic connective tissue disorders,^ESCTMI659696,,Mixed collagen vascular disease
+Systemic connective tissue disorders,7B210,7B21000,Diverticulectomy of bladder
+Systemic connective tissue disorders,7B210-99,7B21099,Open bladder diverticulectomy
+Systemic connective tissue disorders,K4250,K425000,Ulceration of vulva unspecified
+Systemic connective tissue disorders,K425z,K425z00,Ulceration of vulva NOS
+Systemic connective tissue disorders,N0122,N012200,Arthropathy in Behcet's syndrome of the upper arm
+Systemic connective tissue disorders,N0123,N012300,Arthropathy in Behcet's syndrome of the forearm
+Systemic connective tissue disorders,N0126,N012600,Arthropathy in Behcet's syndrome of the lower leg
+Systemic connective tissue disorders,N012z,N012z00,Arthropathy in Behcet's syndrome NOS
+Systemic connective tissue disorders,^ESCTVU361691,,Vulvar ulceration
+Systemic connective tissue disorders,^ESCTAD600281,,Adamantiades-Behcet disease
+Systemic connective tissue disorders,^ESCTAR352280,,Arthropathy in Behcet syndrome
+Systemic connective tissue disorders,N0125,N012500,Arthropathy in Behcet's syndrome of the pelvis/thigh
+Systemic connective tissue disorders,^ESCTSE352279,,Seronegative arthritis secondary to Behcet's syndrome
+Systemic connective tissue disorders,^ESCTAR480812,,Arthropathy in Behcet syndrome of the ankle and/or foot
+Systemic connective tissue disorders,^ESCTBE600279,,Behcet's disease
+Systemic connective tissue disorders,^ESCTAR480805,,Arthropathy in Behcet syndrome of the shoulder region
+Systemic connective tissue disorders,^ESCTAR480814,,Arthropathy in Behcet syndrome of multiple sites
+Systemic connective tissue disorders,^ESCTAR480807,,Arthropathy in Behcet syndrome of the hand
+Systemic connective tissue disorders,^ESCTBE600282,,Behcet syndrome
+Systemic connective tissue disorders,N0127,N012700,Arthropathy in Behcet's syndrome of the ankle and foot
+Systemic connective tissue disorders,N0120,N012000,Arthropathy in Behcet's syndrome of unspecified site
+Systemic connective tissue disorders,K4211-1,K421111,Vulval sores
+Systemic connective tissue disorders,^ESCTAR480809,,Arthropathy in Behcet syndrome of the pelvic region and thigh
+Systemic connective tissue disorders,^ESCTAR480810,,Arthropathy in Behcet's syndrome of the ankle and/or foot
+Systemic connective tissue disorders,N012,N012.00,Arthropathy in Behcet's syndrome
+Systemic connective tissue disorders,K425,K425.00,Ulceration of vulva
+Systemic connective tissue disorders,N0124,N012400,Arthropathy in Behcet's syndrome of the hand
+Systemic connective tissue disorders,N0120-1,N012011,Behcet's syndrome arthropathy
+Systemic connective tissue disorders,AD61,AD61.00,Behcet's syndrome
+Systemic connective tissue disorders,N012y,N012y00,Arthropathy in Behcet's syndrome of other specified sites
+Systemic connective tissue disorders,N0121,N012100,Arthropathy in Behcet's syndrome of the shoulder region
+Systemic connective tissue disorders,N012x,N012x00,Arthropathy in Behcet's syndrome of multiple sites
+Systemic connective tissue disorders,^ESCTFA288494,,Fasciitis with eosinophilia syndrome
+Systemic connective tissue disorders,N00y0,N00y000,Eosinophilic fasciitis
+Systemic connective tissue disorders,^ESCTSH288495,,Shulman's syndrome
+Systemic connective tissue disorders,N00y1,N00y100,Fibrosclerosis systemic
+Systemic connective tissue disorders,N00y-1,N00y.11,Fibrosclerosis - systemic
+Systemic connective tissue disorders,N243,N243.00,Panniculitis unspecified
+Systemic connective tissue disorders,N243z,N243z00,Panniculitis NOS
+Systemic connective tissue disorders,N2430,N243000,Panniculitis of unspecified site
+Systemic connective tissue disorders,N2432,N243200,Weber - Christian disease
+Systemic connective tissue disorders,^ESCTWE304327,,Weber-Kindler syndrome
+Systemic connective tissue disorders,^ESCTRE304325,,Relapsing febrile nodular nonsuppurative panniculitis
+Systemic connective tissue disorders,^ESCTWE304324,,Weber Christian panniculitis
+Systemic connective tissue disorders,^ESCTSY304329,,Systemic nodular panniculitis
+Systemic connective tissue disorders,^ESCTRE304328,,Relapsing panniculitis
+Systemic connective tissue disorders,N2430-1,N243011,Weber - Christian disease
+Systemic connective tissue disorders,^ESCTWE304326,,Weber-Christian disease
+Systemic connective tissue disorders,N235-1,N235.11,Double-jointed (hypermobility)
+Systemic connective tissue disorders,^ESCTGE514519,,Generalized benign joint hypermobility
+Systemic connective tissue disorders,^ESCTFA389051,,Familial ligamentous laxity
+Systemic connective tissue disorders,N235,N235.00,Hypermobility syndrome
+Systemic connective tissue disorders,N234-99,N234.99,Laxity of ligaments
+Systemic connective tissue disorders,^ESCTDI348261,,Disorder of ligament
+Systemic connective tissue disorders,N23-2,N23..12,Ligament disorders
+Systemic connective tissue disorders,N234,N234.00,Laxity of ligament
+Systemic connective tissue disorders,H58y6,H58y600,Interstitial lung disease due to collagen vascular disease
+Systemic connective tissue disorders,PGz4,PGz4.00,Unspecified anomaly of connective tissue
+Systemic connective tissue disorders,^ESCTDI382641,,Diffuse disease of connective tissue
+Systemic connective tissue disorders,7B21-1,7B21.11,Partial cystectomy
+Systemic connective tissue disorders,^ESCTCO382642,,Collagen disorder
+Systemic connective tissue disorders,7B211,7B21100,Partial cystectomy
+Systemic connective tissue disorders,7B211-97,7B21197,Cystectomy - trigonectomy
+Systemic connective tissue disorders,N00z,N00z.00,Collagen disease NOS
+Systemic connective tissue disorders,7B211-96,7B21196,Partial cystectomy NOS
+Systemic connective tissue disorders,7B211-98,7B21198,Cystectomy - wedge resection
+Systemic connective tissue disorders,7B211-99,7B21199,Cystectomy - dome of bladder
+Systemic connective tissue disorders,^ESCTPA421559,,Partial urinary cystectomy
+Systemic connective tissue disorders,7B220,7B22000,Unspecified caecocystoplasty
+Systemic connective tissue disorders,^ESCTCA467058,,Caecocystoplasty
+Systemic connective tissue disorders,^ESCTCE467061,,Cecal bladder augmentation
+Systemic connective tissue disorders,^ESCTAU327672,,Augmentation of bladder
+Systemic connective tissue disorders,^ESCTCE467059,,Cecocystoplasty
+Systemic connective tissue disorders,^ESCTAU327676,,Augmentation cystoplasty
+Systemic connective tissue disorders,7B225,7B22500,Caecal bladder augmentation
+Systemic connective tissue disorders,7B22z,7B22z00,Enlargement of bladder NOS
+Systemic connective tissue disorders,^ESCTBL327674,,Bladder augmentation
+Systemic connective tissue disorders,7B22y,7B22y00,Other specified enlargement of bladder
+Systemic connective tissue disorders,^ESCTAU327675,,Augmentation of urinary bladder
+Systemic connective tissue disorders,7B22-2,7B22.12,Enlargement of bladder
+Systemic connective tissue disorders,^ESCTBL359297,,Bladder to ileum anastomosis
+Systemic connective tissue disorders,^ESCTIL359294,,Ileocystoplasty
+Systemic connective tissue disorders,^ESCTIL359298,,Ileal loop bladder procedure
+Systemic connective tissue disorders,7B227,7B22700,Ileal augmentation of bladder
+Systemic connective tissue disorders,7B228,7B22800,Clam ileocystoplasty
+Systemic connective tissue disorders,7B221,7B22100,Unspecified ileocystoplasty
+Systemic connective tissue disorders,7B222,7B22200,Unspecified colocystoplasty
+Systemic connective tissue disorders,^ESCTCY645880,,Cystocolic anastomosis
+Systemic connective tissue disorders,^ESCTCO645879,,Colocystoplasty
+Systemic connective tissue disorders,7B22A,7B22A00,Colonic bladder augmentation
+Systemic connective tissue disorders,N0543,N054300,"Oligoarticular osteoarthritis, unspecified, of forearm"
+Systemic connective tissue disorders,N0546,N054600,"Oligoarticular osteoarthritis, unspecified, of lower leg"
+Systemic connective tissue disorders,N05z8,N05z800,"Osteoarthritis NOS, other specified site"
+Systemic connective tissue disorders,N05zR,N05zR00,"Osteoarthritis NOS, of other tarsal joint"
+Systemic connective tissue disorders,N05z3,N05z300,"Osteoarthritis NOS, of the forearm"
+Systemic connective tissue disorders,N05z6,N05z600,"Osteoarthritis NOS, of the lower leg"
+Systemic connective tissue disorders,N05zD,N05zD00,"Osteoarthritis NOS, of distal radio-ulnar joint"
+Systemic connective tissue disorders,N05,N05..00,Osteoarthritis and allied disorders
+Systemic connective tissue disorders,N05z,N05z.00,Osteoarthritis NOS
+Systemic connective tissue disorders,N0541,N054100,"Oligoarticular osteoarthritis, unspecified, of shoulder"
+Systemic connective tissue disorders,N0548,N054800,"Oligoarticular osteoarthritis, unspecified, other spec sites"
+Systemic connective tissue disorders,^ESCTOA656676,,OA - Osteoarthritis
+Systemic connective tissue disorders,^ESCTDE656680,,Degenerative joint disease
+Systemic connective tissue disorders,^ESCTDE656677,,Degenerative arthritis
+Systemic connective tissue disorders,N05z-1,N05z.11,Joint degeneration
+Systemic connective tissue disorders,^ESCTOA656678,,OA - Osteoarthrosis
+Systemic connective tissue disorders,^ESCTHY656681,,Hypertrophic polyarthritis
+Systemic connective tissue disorders,7B223,7B22300,Ileocaecocystoplasty
+Systemic connective tissue disorders,N0545,N054500,"Oligoarticular osteoarthritis, unspecified, of pelvis/thigh"
+Systemic connective tissue disorders,^ESCTHY656679,,Hypertrophic arthritis
+Systemic connective tissue disorders,^ESCTOS656682,,Osteoarthrosis
+Systemic connective tissue disorders,N05-1,N05..11,Osteoarthritis
+Systemic connective tissue disorders,7B223-99,7B22399,Cystoplasty
+Systemic connective tissue disorders,N05z2-99,N05z299,Osteoarthritis - elbow joint
+Systemic connective tissue disorders,N05z4-99,N05z499,Osteoarthritis - hand joint
+Systemic connective tissue disorders,N05z5-99,N05z599,Osteoarthritis - hip joint
+Systemic connective tissue disorders,N05z7-99,N05z799,Osteoarthritis - ankle/foot
+Systemic connective tissue disorders,N0542,N054200,"Oligoarticular osteoarthritis, unspecified, of upper arm"
+Systemic connective tissue disorders,N05z3-99,N05z399,Osteoarthritis - wrist joint
+Systemic connective tissue disorders,^ESCTIL467063,,Ileocecocystoplasty
+Systemic connective tissue disorders,N05z0,N05z000,"Osteoarthritis NOS, of unspecified site"
+Systemic connective tissue disorders,N05zz,N05zz00,Osteoarthritis NOS
+Systemic connective tissue disorders,N05z2,N05z200,"Osteoarthritis NOS, of the upper arm"
+Systemic connective tissue disorders,N05zM,N05zM00,"Osteoarthritis NOS, of tibio-fibular joint"
+Systemic connective tissue disorders,N0547,N054700,"Oligoarticular osteoarthritis, unspecified, of ankle/foot"
+Systemic connective tissue disorders,^ESCTDE656683,,Degenerative arthropathy

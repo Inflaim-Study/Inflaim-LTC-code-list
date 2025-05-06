@@ -1,0 +1,8 @@
+Condition,MedCodeId,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,ICD10Code,Term
+Ankylosing spondylitis,253940015.0,2377,2377.00,162930007.0,2668362011.0,,O/E - ankyl.spondyl.chest def.
+Ankylosing spondylitis,718001000006112.0,N100-1,N100.11,9631008.0,1235977013.0,M45X,Marie - Strumpell spondylitis
+Ankylosing spondylitis,718001000006112.0,N100-1,N100.11,9631008.0,1235977013.0,J998,Marie - Strumpell spondylitis
+Ankylosing spondylitis,16833013.0,N100,N100.00,9631008.0,16833013.0,M45X,Ankylosing spondylitis
+Ankylosing spondylitis,16833013.0,N100,N100.00,9631008.0,16833013.0,J998,Ankylosing spondylitis
+Ankylosing spondylitis,2692996011.0,388p,388p.00,441562009.0,2817026019.0,,BASDAI - Bath ankylosing spondylitis disease activity index
+Ankylosing spondylitis,1780507012.0,388P,388P.00,401320004.0,1780507012.0,,HAD scale: depression score

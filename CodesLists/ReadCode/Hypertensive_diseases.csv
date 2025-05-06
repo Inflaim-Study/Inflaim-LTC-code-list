@@ -1,0 +1,74 @@
+Condition,OriginalReadCode,CleansedReadCode,Term
+Hypertensive diseases,^ESCTMA364280,,Malignant hypertension
+Hypertensive diseases,G200-99,G200.99,Malignant hypertension
+Hypertensive diseases,L120-99,L120.99,Preg.+ pre-existing hypertensn
+Hypertensive diseases,61462,6146200,Hypertension induced by oral contraceptive pill
+Hypertensive diseases,7Q01,7Q01.00,High cost hypertension drugs
+Hypertensive diseases,F4213,F421300,Hypertensive retinopathy
+Hypertensive diseases,G2,G2...00,Hypertensive disease
+Hypertensive diseases,G2-1,G2...11,BP - hypertensive disease
+Hypertensive diseases,G20,G20..00,Essential hypertension
+Hypertensive diseases,G200,G200.00,Malignant essential hypertension
+Hypertensive diseases,G201,G201.00,Benign essential hypertension
+Hypertensive diseases,G202,G202.00,Systolic hypertension
+Hypertensive diseases,G203,G203.00,Diastolic hypertension
+Hypertensive diseases,G20z,G20z.00,Essential hypertension NOS
+Hypertensive diseases,G20z-1,G20z.11,Hypertension NOS
+Hypertensive diseases,G21,G21..00,Hypertensive heart disease
+Hypertensive diseases,G210,G210.00,Malignant hypertensive heart disease
+Hypertensive diseases,G2100,G210000,Malignant hypertensive heart disease without CCF
+Hypertensive diseases,G2101,G210100,Malignant hypertensive heart disease with CCF
+Hypertensive diseases,G211,G211.00,Benign hypertensive heart disease
+Hypertensive diseases,G2110,G211000,Benign hypertensive heart disease without CCF
+Hypertensive diseases,G2111,G211100,Benign hypertensive heart disease with CCF
+Hypertensive diseases,G21z,G21z.00,Hypertensive heart disease NOS
+Hypertensive diseases,G21z0,G21z000,Hypertensive heart disease NOS without CCF
+Hypertensive diseases,G21z0-1,G21z011,Cardiomegaly - hypertensive
+Hypertensive diseases,G21z1,G21z100,Hypertensive heart disease NOS with CCF
+Hypertensive diseases,G21zz,G21zz00,Hypertensive heart disease NOS
+Hypertensive diseases,G22,G22..00,Hypertensive renal disease
+Hypertensive diseases,G220,G220.00,Malignant hypertensive renal disease
+Hypertensive diseases,G221,G221.00,Benign hypertensive renal disease
+Hypertensive diseases,G222,G222.00,Hypertensive renal disease with renal failure
+Hypertensive diseases,G22z,G22z.00,Hypertensive renal disease NOS
+Hypertensive diseases,G22z-1,G22z.11,Renal hypertension
+Hypertensive diseases,G23,G23..00,Hypertensive heart AND renal disease
+Hypertensive diseases,G230,G230.00,Malignant hypertensive heart AND renal disease
+Hypertensive diseases,G231,G231.00,Benign hypertensive heart AND renal disease
+Hypertensive diseases,G232,G232.00,Hypertensive heart&renal dis wth (congestive) heart failure
+Hypertensive diseases,G233,G233.00,Hypertensive heart and renal disease with renal failure
+Hypertensive diseases,G234,G234.00,Hyperten heart&renal dis+both(congestv)heart and renal fail
+Hypertensive diseases,G23z,G23z.00,Hypertensive heart and renal disease NOS
+Hypertensive diseases,G24,G24..00,Secondary hypertension
+Hypertensive diseases,G240,G240.00,Secondary malignant hypertension
+Hypertensive diseases,G2400,G240000,Secondary malignant renovascular hypertension
+Hypertensive diseases,G240z,G240z00,Secondary malignant hypertension NOS
+Hypertensive diseases,G241,G241.00,Secondary benign hypertension
+Hypertensive diseases,G2410,G241000,Secondary benign renovascular hypertension
+Hypertensive diseases,G241z,G241z00,Secondary benign hypertension NOS
+Hypertensive diseases,G244,G244.00,Hypertension secondary to endocrine disorders
+Hypertensive diseases,G24z,G24z.00,Secondary hypertension NOS
+Hypertensive diseases,G24z0,G24z000,Secondary renovascular hypertension NOS
+Hypertensive diseases,G24z1,G24z100,Hypertension secondary to drug
+Hypertensive diseases,G24zz,G24zz00,Secondary hypertension NOS
+Hypertensive diseases,G2y,G2y..00,Other specified hypertensive disease
+Hypertensive diseases,G2z,G2z..00,Hypertensive disease NOS
+Hypertensive diseases,G672,G672.00,Hypertensive encephalopathy
+Hypertensive diseases,G672-1,G672.11,Hypertensive crisis
+Hypertensive diseases,Gyu2,Gyu2.00,[X]Hypertensive diseases
+Hypertensive diseases,Gyu21,Gyu2100,[X]Hypertension secondary to other renal disorders
+Hypertensive diseases,L122,L122.00,Other pre-existing hypertension in preg/childbirth/puerp
+Hypertensive diseases,L1220,L122000,Other pre-existing hypertension in preg/childb/puerp unspec
+Hypertensive diseases,L1221,L122100,Other pre-existing hypertension in preg/childb/puerp - deliv
+Hypertensive diseases,L1223,L122300,Other pre-exist hypertension in preg/childb/puerp-not deliv
+Hypertensive diseases,L122z,L122z00,Other pre-existing hypertension in preg/childb/puerp NOS
+Hypertensive diseases,L127,L127.00,Pre-eclampsia or eclampsia with pre-existing hypertension
+Hypertensive diseases,L127z,L127z00,Pre-eclampsia or eclampsia + pre-existing hypertension NOS
+Hypertensive diseases,L128,L128.00,Pre-exist hypertension compl preg childbirth and puerperium
+Hypertensive diseases,L1280,L128000,Pre-exist hyperten heart dis compl preg childbth+puerperium
+Hypertensive diseases,L1282,L128200,Pre-exist 2ndry hypertens comp preg childbth and puerperium
+Hypertensive diseases,TJC7,TJC7.00,Adverse reaction to other antihypertensives
+Hypertensive diseases,TJC7z,TJC7z00,Adverse reaction to antihypertensives NOS
+Hypertensive diseases,U60C5,U60C500,"[X]Oth antihyperten drug caus advers eff in therap use, NEC"
+Hypertensive diseases,U60C5-1,U60C511,[X] Adverse reaction to other antihypertensives
+Hypertensive diseases,U60C5-A,U60C51A,[X] Adverse reaction to antihypertensives NOS

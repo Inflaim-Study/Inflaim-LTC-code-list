@@ -1,0 +1,187 @@
+Condition,OriginalReadCode,CleansedReadCode,Term
+Dermatitis and eczema,M111-98,M111.98,Atopic eczema/dermatitis
+Dermatitis and eczema,M122-99,M122.99,Contact dermatitis : solvents
+Dermatitis and eczema,M126-99,M126.99,Contact dermatitis:food/plants
+Dermatitis and eczema,F4D30-99,F4D3099,Dermatitis of eyelid
+Dermatitis and eczema,M111-99,M111.99,Dermatitis/eczemas
+Dermatitis and eczema,M111-97,M111.97,Dermatitis/eczemas NOS
+Dermatitis and eczema,ESCTGE3,,Genital lichen sclerosus
+Dermatitis and eczema,^ESCTIN685923,,Infective eczematoid dermatitis
+Dermatitis and eczema,^ESCTIR666304,,Irritant contact dermatitis due to incontinence
+Dermatitis and eczema,^ESCTLI291083,,Lichen sclerosus
+Dermatitis and eczema,^ESCTLI479078,,Lichen sclerosus of penis
+Dermatitis and eczema,^ESCTLI337399,,Lichen simplex chronicus
+Dermatitis and eczema,M116-99,M116.99,Neurodermatitis
+Dermatitis and eczema,EMISNQOR11,,Oral lichen planus
+Dermatitis and eczema,^ESCTPO666722,,Pompholyx eczema
+Dermatitis and eczema,^ESCTSE331872,,Seborrheic dermatitis
+Dermatitis and eczema,M101-98,M101.98,Seborrhoeic dermat/eczema NOS
+Dermatitis and eczema,M101-99,M101.99,Seborrhoeic dermatitis/eczema
+Dermatitis and eczema,^ESCTCH666212,,Cheiropompholyx
+Dermatitis and eczema,^ESCTCO314803,,Contact eczema
+Dermatitis and eczema,^ESCTCU254731,,Cutaneous autosensitization
+Dermatitis and eczema,^ESCTIR480512,,Irritant contact dermatitis due to food in contact with skin
+Dermatitis and eczema,^ESCTNE337400,,Neurodermatitis circumscripta
+Dermatitis and eczema,26C4,26C4.00,Nipple eczema
+Dermatitis and eczema,C3912-1,C391211,Thrombocytopenic eczema with immunodeficiency
+Dermatitis and eczema,F4D30,F4D3000,Eczematous eyelid dermatitis
+Dermatitis and eczema,F4D31,F4D3100,Contact or allergic eyelid dermatitis
+Dermatitis and eczema,F4D31-1,F4D3111,Allergic dermatitis - eyelid
+Dermatitis and eczema,F4D31-2,F4D3112,Contact eczema - eyelids
+Dermatitis and eczema,F4D5,F4D5.00,Other eyelid infective dermatitis
+Dermatitis and eczema,F5024-1,F502411,Eczema of external ear
+Dermatitis and eczema,M07y-1,M07y.11,Pustular eczema
+Dermatitis and eczema,M07z-4,M07z.14,Infected dermatitis
+Dermatitis and eczema,M1-1,M1...11,Dermatitis/dermatoses
+Dermatitis and eczema,M102,M102.00,Infectious eczematoid dermatitis
+Dermatitis and eczema,M102-1,M102.11,Pustular eczema
+Dermatitis and eczema,M104,M104.00,Pityriasis simplex
+Dermatitis and eczema,M11,M11..00,Atopic dermatitis and related conditions
+Dermatitis and eczema,M111,M111.00,Atopic dermatitis/eczema
+Dermatitis and eczema,M112,M112.00,Infantile eczema
+Dermatitis and eczema,M113,M113.00,Flexural eczema
+Dermatitis and eczema,M114,M114.00,Allergic (intrinsic) eczema
+Dermatitis and eczema,M115,M115.00,Besnier's prurigo
+Dermatitis and eczema,M116,M116.00,Neurodermatitis - diffuse
+Dermatitis and eczema,M116-1,M116.11,Brocq's neurodermatitis
+Dermatitis and eczema,M117,M117.00,Neurodermatitis - atopic
+Dermatitis and eczema,M119,M119.00,Discoid eczema
+Dermatitis and eczema,M11A,M11A.00,Asteatotic eczema
+Dermatitis and eczema,M11z,M11z.00,Atopic dermatitis NOS
+Dermatitis and eczema,M12,M12..00,Contact dermatitis and other eczemas
+Dermatitis and eczema,M12-1,M12..11,Contact dermatitis
+Dermatitis and eczema,M12-2,M12..12,Contact eczema
+Dermatitis and eczema,M12-3,M12..13,Occupational dermatitis
+Dermatitis and eczema,M120,M120.00,Contact dermatitis due to detergents
+Dermatitis and eczema,M121,M121.00,Contact dermatitis due to oils and greases
+Dermatitis and eczema,M121-1,M121.11,Grease contact dermatitis
+Dermatitis and eczema,M121-2,M121.12,Oil contact dermatitis
+Dermatitis and eczema,M122,M122.00,Contact dermatitis due to solvents
+Dermatitis and eczema,M1220,M122000,Contact dermatitis due to chlorocompound
+Dermatitis and eczema,M1221,M122100,Contact dermatitis due to cyclohexane
+Dermatitis and eczema,M1223,M122300,Contact dermatitis due to glycol
+Dermatitis and eczema,M122z,M122z00,Contact dermatitis due to solvent NOS
+Dermatitis and eczema,M123,M123.00,Contact dermatitis due to drugs and medicaments
+Dermatitis and eczema,M1230,M123000,Contact dermatitis due to arnica
+Dermatitis and eczema,M1231,M123100,Contact dermatitis due to fungicides
+Dermatitis and eczema,M1232,M123200,Contact dermatitis due to iodine
+Dermatitis and eczema,M1233,M123300,Contact dermatitis due to keratolytics
+Dermatitis and eczema,M1234,M123400,Contact dermatitis due to mercurials
+Dermatitis and eczema,M1235,M123500,Contact dermatitis due to neomycin
+Dermatitis and eczema,M1236,M123600,Contact dermatitis due to pediculocides
+Dermatitis and eczema,M1237,M123700,Contact dermatitis due to phenols
+Dermatitis and eczema,M1238,M123800,Contact dermatitis due to scabicides
+Dermatitis and eczema,M123z,M123z00,Contact dermatitis due to medicament NOS
+Dermatitis and eczema,M124,M124.00,Contact dermatitis due to other chemical products
+Dermatitis and eczema,M1240,M124000,Contact dermatitis due to acids
+Dermatitis and eczema,M1241,M124100,Contact dermatitis due to adhesive plaster
+Dermatitis and eczema,M1241-1,M124111,Elastoplast contact dermatitis
+Dermatitis and eczema,M1242,M124200,Contact dermatitis due to alkalis
+Dermatitis and eczema,M1243,M124300,Contact dermatitis due to caustics
+Dermatitis and eczema,M1244,M124400,Contact dermatitis due to dichromate
+Dermatitis and eczema,M1245,M124500,Contact dermatitis due to insecticide
+Dermatitis and eczema,M1246,M124600,Contact dermatitis due to nylon
+Dermatitis and eczema,M1247,M124700,Contact dermatitis due to plastic
+Dermatitis and eczema,M1248,M124800,Contact dermatitis due to rubber
+Dermatitis and eczema,M124z,M124z00,Contact dermatitis: other chemicals NOS
+Dermatitis and eczema,M125,M125.00,Contact dermatitis due to food in contact with skin
+Dermatitis and eczema,M1250,M125000,Contact dermatitis due to cereals
+Dermatitis and eczema,M1251,M125100,Contact dermatitis due to fish
+Dermatitis and eczema,M1252,M125200,Contact dermatitis due to flour
+Dermatitis and eczema,M1253,M125300,Contact dermatitis due to fruit
+Dermatitis and eczema,M1254,M125400,Contact dermatitis due to meat
+Dermatitis and eczema,M1255,M125500,Contact dermatitis due to milk
+Dermatitis and eczema,M125z,M125z00,Contact dermatitis due to food NOS
+Dermatitis and eczema,M125z-1,M125z11,Egg contact dermatitis
+Dermatitis and eczema,M126,M126.00,Contact dermatitis due to plants
+Dermatitis and eczema,M1260,M126000,Contact dermatitis due to lacquer tree
+Dermatitis and eczema,M1261,M126100,Contact dermatitis due to poison-ivy
+Dermatitis and eczema,M1262,M126200,Contact dermatitis due to poison-oak
+Dermatitis and eczema,M1263,M126300,Contact dermatitis due to poison-sumac
+Dermatitis and eczema,M1265,M126500,Contact dermatitis due to primrose
+Dermatitis and eczema,M1266,M126600,Contact dermatitis due to ragweed
+Dermatitis and eczema,M126z,M126z00,Contact dermatitis due to plants NOS
+Dermatitis and eczema,M128,M128.00,Allergic contact dermatitis
+Dermatitis and eczema,M1280,M128000,Allergic contact dermatitis due to adhesives
+Dermatitis and eczema,M1281,M128100,Allergic contact dermatitis due to cosmetics
+Dermatitis and eczema,M1282,M128200,Allergic contact dermatitis due drugs in contact with skin
+Dermatitis and eczema,M1283,M128300,Allergic contact dermatitis due to dyes
+Dermatitis and eczema,M1284,M128400,Allergic contact dermatitis due to other chemical products
+Dermatitis and eczema,M1285,M128500,Allergic contact dermatitis due to food in contact with skin
+Dermatitis and eczema,M1286,M128600,"Allergic contact dermatitis due to plants, except food"
+Dermatitis and eczema,M129,M129.00,Irritant contact dermatitis
+Dermatitis and eczema,M1290,M129000,Irritant contact dermatitis due to cosmetics
+Dermatitis and eczema,M1291,M129100,Irritant contact dermatitis due drugs in contact with skin
+Dermatitis and eczema,M1292,M129200,Irritant contact dermatitis due to other chemical products
+Dermatitis and eczema,M1293,M129300,Irritant contact dermatitis due to food in contact with skin
+Dermatitis and eczema,M1294,M129400,"Irritant contact dermatitis due to plants, except food"
+Dermatitis and eczema,M12y,M12y.00,Contact dermatitis due to other specified agents
+Dermatitis and eczema,M12y0,M12y000,Contact dermatitis due to cosmetics
+Dermatitis and eczema,M12y0-1,M12y011,Lanolin contact dermatitis
+Dermatitis and eczema,M12y0-2,M12y012,Perfume contact dermatitis
+Dermatitis and eczema,M12y1,M12y100,Contact dermatitis due to cold weather
+Dermatitis and eczema,M12y2,M12y200,Contact dermatitis due to dyes
+Dermatitis and eczema,M12y3,M12y300,Contact dermatitis due to furs
+Dermatitis and eczema,M12y4,M12y400,Contact dermatitis due to hot weather
+Dermatitis and eczema,M12y5,M12y500,Contact dermatitis due to infra-red rays
+Dermatitis and eczema,M12y6,M12y600,Contact dermatitis due to jewellery
+Dermatitis and eczema,M12y7,M12y700,Contact dermatitis due to light (excluding sunlight)
+Dermatitis and eczema,M12y8,M12y800,Contact dermatitis due to metals
+Dermatitis and eczema,M12y8-1,M12y811,Nickel sensitivity
+Dermatitis and eczema,M12y9,M12y900,Contact dermatitis due to preservatives
+Dermatitis and eczema,M12yA,M12yA00,Contact dermatitis due to radiation NOS
+Dermatitis and eczema,M12yB,M12yB00,Contact dermatitis due to ultra-violet rays (excluding sun)
+Dermatitis and eczema,M12yC,M12yC00,Contact dermatitis due to X-rays
+Dermatitis and eczema,M12yD,M12yD00,Contact dermatitis due to casting materials
+Dermatitis and eczema,M12yz,M12yz00,Contact dermatitis: specified agent NOS
+Dermatitis and eczema,M12z,M12z.00,Contact dermatitis NOS
+Dermatitis and eczema,M12z0,M12z000,Dermatitis NOS
+Dermatitis and eczema,M12z1,M12z100,Eczema NOS
+Dermatitis and eczema,M12z1-1,M12z111,Discoid eczema
+Dermatitis and eczema,M12z2,M12z200,Infected eczema
+Dermatitis and eczema,M12z3,M12z300,Hand eczema
+Dermatitis and eczema,M12z4,M12z400,Erythrodermic eczema
+Dermatitis and eczema,M12zz,M12zz00,Contact dermatitis NOS
+Dermatitis and eczema,M13,M13..00,Ingestion dermatitis
+Dermatitis and eczema,M130,M130.00,Ingestion dermatitis due to drugs
+Dermatitis and eczema,M130-1,M130.11,Drug induced rash
+Dermatitis and eczema,M1300,M130000,Generalized skin eruption due to drugs and medicaments
+Dermatitis and eczema,M1301,M130100,Localized skin eruption due to drugs and medicaments
+Dermatitis and eczema,M1302,M130200,Drug-induced erythroderma
+Dermatitis and eczema,M131,M131.00,Ingestion dermatitis due to food
+Dermatitis and eczema,M13y,M13y.00,Ingestion dermatitis due to other specified substance
+Dermatitis and eczema,M13z,M13z.00,Ingestion dermatitis NOS
+Dermatitis and eczema,M15y2,M15y200,Pityriasis rubra (Hebra)
+Dermatitis and eczema,M1650,M165000,Pityriasis alba
+Dermatitis and eczema,M173,M173.00,Lichen simplex
+Dermatitis and eczema,M182,M182.00,Prurigo
+Dermatitis and eczema,M1820,M182000,Prurigo aestivalis
+Dermatitis and eczema,M1822,M182200,Prurigo mitis
+Dermatitis and eczema,M1823,M182300,Prurigo simplex
+Dermatitis and eczema,M182z,M182z00,Prurigo NOS
+Dermatitis and eczema,M183,M183.00,Lichenification and lichen simplex chronicus
+Dermatitis and eczema,M1830,M183000,Prurigo nodularis (Hyde's disease)
+Dermatitis and eczema,M1831,M183100,Neurodermatitis circumscripta
+Dermatitis and eczema,M1832,M183200,Lichen simplex
+Dermatitis and eczema,M183z,M183z00,Lichenification NOS
+Dermatitis and eczema,M1B-1,M1B..11,Juvenile plantar dermatitis
+Dermatitis and eczema,M1y0,M1y0.00,Nummular dermatitis
+Dermatitis and eczema,M1y1,M1y1.00,Cutaneous autosensitization
+Dermatitis and eczema,M252,M252.00,Dyshidrosis
+Dermatitis and eczema,M2520,M252000,Dyshidrosis unspecified
+Dermatitis and eczema,M2521,M252100,Pompholyx unspecified
+Dermatitis and eczema,M2522,M252200,Cheiropompholyx
+Dermatitis and eczema,M2523,M252300,Podopompholyx
+Dermatitis and eczema,M252z,M252z00,Dyshidrosis NOS
+Dermatitis and eczema,M2y41,M2y4100,Menstrual dermatosis
+Dermatitis and eczema,M2y48-1,M2y4811,Juvenile plantar dermatitis
+Dermatitis and eczema,Myu2,Myu2.00,[X]Dermatitis and eczema
+Dermatitis and eczema,Myu21,Myu2100,[X]Allergic contact dermatitis due to oth chemical products
+Dermatitis and eczema,Myu22,Myu2200,[X]Exacerbation of eczema
+Dermatitis and eczema,Myu23,Myu2300,[X]Allergic contact dermatitis due to other agents
+Dermatitis and eczema,Myu24,Myu2400,[X]Irritant contact dermatitis due to oth chemical products
+Dermatitis and eczema,Myu25,Myu2500,[X]Irritant contact dermatitis due to other agents
+Dermatitis and eczema,Myu26,Myu2600,[X]Unspcfd contact dermatitis due to other chemical products
+Dermatitis and eczema,Myu27,Myu2700,[X]Unspecified contact dermatitis due to other agents
+Dermatitis and eczema,Myu2A,Myu2A00,[X]Other prurigo
+Dermatitis and eczema,Myu2C,Myu2C00,[X]Other specified dermatitis

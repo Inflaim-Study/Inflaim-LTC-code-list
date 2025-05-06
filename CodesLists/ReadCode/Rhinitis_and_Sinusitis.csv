@@ -1,0 +1,55 @@
+Condition,OriginalReadCode,CleansedReadCode,Term
+Rhinitis and Sinusitis,H01-1,H01..11,Sinusitis
+Rhinitis and Sinusitis,H13,H13..00,Chronic sinusitis
+Rhinitis and Sinusitis,H13-1,H13..11,Chronic rhinosinusitis
+Rhinitis and Sinusitis,H130,H130.00,Chronic maxillary sinusitis
+Rhinitis and Sinusitis,H130-1,H130.11,Antritis - chronic
+Rhinitis and Sinusitis,H130-2,H130.12,Maxillary sinusitis
+Rhinitis and Sinusitis,H131,H131.00,Chronic frontal sinusitis
+Rhinitis and Sinusitis,H131-1,H131.11,Frontal sinusitis
+Rhinitis and Sinusitis,H132,H132.00,Chronic ethmoidal sinusitis
+Rhinitis and Sinusitis,H133,H133.00,Chronic sphenoidal sinusitis
+Rhinitis and Sinusitis,H135,H135.00,Recurrent sinusitis
+Rhinitis and Sinusitis,H13y,H13y.00,Other chronic sinusitis
+Rhinitis and Sinusitis,H13y0,H13y000,Chronic pansinusitis
+Rhinitis and Sinusitis,H13y1,H13y100,Pansinusitis
+Rhinitis and Sinusitis,H13yz,H13yz00,Other chronic sinusitis NOS
+Rhinitis and Sinusitis,H13z,H13z.00,Chronic sinusitis NOS
+Rhinitis and Sinusitis,H17-2,H17..12,Allergic rhinosinusitis
+Rhinitis and Sinusitis,Hyu22,Hyu2200,[X]Other chronic sinusitis
+Rhinitis and Sinusitis,H170-99,H170.99,Hay fever
+Rhinitis and Sinusitis,^ESCTHA629814,,Hay fever
+Rhinitis and Sinusitis,H17-99,H17..99,Hay fever
+Rhinitis and Sinusitis,ESCTSE4,,Seasonal allergic rhinitis
+Rhinitis and Sinusitis,H120,H120.00,Chronic rhinitis
+Rhinitis and Sinusitis,H1200,H120000,Chronic simple rhinitis
+Rhinitis and Sinusitis,H1201,H120100,Chronic catarrhal rhinitis
+Rhinitis and Sinusitis,H1202,H120200,Chronic hypertrophic rhinitis
+Rhinitis and Sinusitis,H1203,H120300,Chronic atrophic rhinitis
+Rhinitis and Sinusitis,H1204,H120400,Chronic infective rhinitis
+Rhinitis and Sinusitis,H1205,H120500,Chronic ulcerative rhinitis
+Rhinitis and Sinusitis,H1206,H120600,Chronic membranous rhinitis
+Rhinitis and Sinusitis,H1207,H120700,Chronic fibrinous rhinitis
+Rhinitis and Sinusitis,H120z,H120z00,Chronic rhinitis NOS
+Rhinitis and Sinusitis,H17,H17..00,Allergic rhinitis
+Rhinitis and Sinusitis,H17-1,H17..11,Perennial rhinitis
+Rhinitis and Sinusitis,H170,H170.00,Allergic rhinitis due to pollens
+Rhinitis and Sinusitis,H170-1,H170.11,Hay fever - pollens
+Rhinitis and Sinusitis,H170-2,H170.12,Pollinosis
+Rhinitis and Sinusitis,H171,H171.00,Allergic rhinitis due to other allergens
+Rhinitis and Sinusitis,H171-1,H171.11,Cat allergy
+Rhinitis and Sinusitis,H171-2,H171.12,Dander (animal) allergy
+Rhinitis and Sinusitis,H171-3,H171.13,Feather allergy
+Rhinitis and Sinusitis,H171-4,H171.14,Hay fever - other allergen
+Rhinitis and Sinusitis,H171-5,H171.15,House dust allergy
+Rhinitis and Sinusitis,H171-6,H171.16,House dust mite allergy
+Rhinitis and Sinusitis,H1710,H171000,Allergy to animal
+Rhinitis and Sinusitis,H1711,H171100,Dog allergy
+Rhinitis and Sinusitis,H172,H172.00,Allergic rhinitis due to unspecified allergen
+Rhinitis and Sinusitis,H172-1,H172.11,Hay fever - unspecified allergen
+Rhinitis and Sinusitis,H17z,H17z.00,Allergic rhinitis NOS
+Rhinitis and Sinusitis,H18,H18..00,Vasomotor rhinitis
+Rhinitis and Sinusitis,H330-3,H330.13,Hay fever with asthma
+Rhinitis and Sinusitis,H3300-1,H330011,Hay fever with asthma
+Rhinitis and Sinusitis,Hyu20,Hyu2000,[X]Other seasonal allergic rhinitis
+Rhinitis and Sinusitis,Hyu21,Hyu2100,[X]Other allergic rhinitis

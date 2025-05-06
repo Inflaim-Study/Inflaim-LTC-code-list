@@ -1,0 +1,12 @@
+Condition,MedCodeId,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,ICD10Code,Term
+Multiple sclerosis (and optic neuritis),41398015.0,F20,F20..00,24700007.0,41398015.0,G35X,Multiple sclerosis
+Multiple sclerosis (and optic neuritis),1223979019.0,F20-1,F20..11,24700007.0,1223979019.0,G35X,Disseminated sclerosis
+Multiple sclerosis (and optic neuritis),695191000006119.0,F200,F200.00,192926004.0,297176011.0,G35X,Multiple sclerosis of the brain stem
+Multiple sclerosis (and optic neuritis),297177019.0,F201,F201.00,192927008.0,297177019.0,G35X,Multiple sclerosis of the spinal cord
+Multiple sclerosis (and optic neuritis),297179016.0,F202,F202.00,192928003.0,297179016.0,G35X,Generalised multiple sclerosis
+Multiple sclerosis (and optic neuritis),297180018.0,F203,F203.00,192929006.0,297180018.0,G35X,Exacerbation of multiple sclerosis
+Multiple sclerosis (and optic neuritis),641211000000118.0,F204,F204.00,438511000.0,2791037019.0,G35X,Benign multiple sclerosis
+Multiple sclerosis (and optic neuritis),2692565012.0,F206,F206.00,428700003.0,2692565012.0,G35X,Primary progressive multiple sclerosis
+Multiple sclerosis (and optic neuritis),1682241000006111.0,F207,F207.00,426373005.0,2674690012.0,G35X,Relapsing and remitting multiple sclerosis
+Multiple sclerosis (and optic neuritis),2674605012.0,F208,F208.00,425500002.0,2674605012.0,G35X,Secondary progressive multiple sclerosis
+Multiple sclerosis (and optic neuritis),297181019.0,F20z,F20z.00,24700007.0,41398015.0,G35X,Multiple sclerosis NOS

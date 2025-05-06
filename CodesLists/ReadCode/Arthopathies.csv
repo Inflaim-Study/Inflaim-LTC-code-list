@@ -1,0 +1,237 @@
+Condition,OriginalReadCode,CleansedReadCode,Term
+Arthopathies,N040-92,N040.92,Rheum. arth. - ankle/foot
+Arthopathies,N040-97,N040.97,Rheum. arth. - elbow joint
+Arthopathies,N040-95,N040.95,Rheum. arth. - hand joint
+Arthopathies,N040-93,N040.93,Rheum. arth. - knee joint
+Arthopathies,N040-99,N040.99,Rheum. arth. - multiple joint
+Arthopathies,N040-91,N040.91,Rheum. arth. - other joint
+Arthopathies,N040-98,N040.98,Rheum. arth. - shoulder joint
+Arthopathies,N040-96,N040.96,Rheum. arth. - wrist joint
+Arthopathies,N040-90,N040.90,Rheumatoid arthritis NOS
+Arthopathies,^ESCTRH572143,,Rheumatoid arthritis of multiple joints
+Arthopathies,^ESCT1190391,,Seropositive errosive rheumatoid arthritis
+Arthopathies,2G25,2G25.00,O/E - hands - ulnar deviation
+Arthopathies,2G25-1,2G25.11,O/E - ulnar deviation
+Arthopathies,7P203,7P20300,Delivery of rehabilitation for rheumatoid arthritis
+Arthopathies,N005,N005.00,Adult Still's Disease
+Arthopathies,N04,N04..00,Rheumatoid arthritis and other inflammatory polyarthropathy
+Arthopathies,N040,N040.00,Rheumatoid arthritis
+Arthopathies,N0401,N040100,Other rheumatoid arthritis of spine
+Arthopathies,N0402,N040200,Rheumatoid arthritis of shoulder
+Arthopathies,N0403,N040300,Rheumatoid arthritis of sternoclavicular joint
+Arthopathies,N0404,N040400,Rheumatoid arthritis of acromioclavicular joint
+Arthopathies,N0405,N040500,Rheumatoid arthritis of elbow
+Arthopathies,N0406,N040600,Rheumatoid arthritis of distal radio-ulnar joint
+Arthopathies,N0407,N040700,Rheumatoid arthritis of wrist
+Arthopathies,N0408,N040800,Rheumatoid arthritis of MCP joint
+Arthopathies,N0409,N040900,Rheumatoid arthritis of PIP joint of finger
+Arthopathies,N040A,N040A00,Rheumatoid arthritis of DIP joint of finger
+Arthopathies,N040B,N040B00,Rheumatoid arthritis of hip
+Arthopathies,N040C,N040C00,Rheumatoid arthritis of sacro-iliac joint
+Arthopathies,N040D,N040D00,Rheumatoid arthritis of knee
+Arthopathies,N040E,N040E00,Rheumatoid arthritis of tibio-fibular joint
+Arthopathies,N040F,N040F00,Rheumatoid arthritis of ankle
+Arthopathies,N040G,N040G00,Rheumatoid arthritis of subtalar joint
+Arthopathies,N040H,N040H00,Rheumatoid arthritis of talonavicular joint
+Arthopathies,N040J,N040J00,Rheumatoid arthritis of other tarsal joint
+Arthopathies,N040K,N040K00,Rheumatoid arthritis of 1st MTP joint
+Arthopathies,N040L,N040L00,Rheumatoid arthritis of lesser MTP joint
+Arthopathies,N040M,N040M00,Rheumatoid arthritis of IP joint of toe
+Arthopathies,N040N,N040N00,Rheumatoid vasculitis
+Arthopathies,N040P,N040P00,Seronegative rheumatoid arthritis
+Arthopathies,N040Q,N040Q00,Rheumatoid bursitis
+Arthopathies,N040R,N040R00,Rheumatoid nodule
+Arthopathies,N040S,N040S00,Rheumatoid arthritis - multiple joint
+Arthopathies,N040T,N040T00,Flare of rheumatoid arthritis
+Arthopathies,N041,N041.00,Felty's syndrome
+Arthopathies,N042,N042.00,Other rheumatoid arthropathy + visceral/systemic involvement
+Arthopathies,N0422,N042200,Rheumatoid nodule
+Arthopathies,N042z,N042z00,Rheumatoid arthropathy + visceral/systemic involvement NOS
+Arthopathies,N047,N047.00,Seropositive errosive rheumatoid arthritis
+Arthopathies,N04X,N04X.00,"Seropositive rheumatoid arthritis, unspecified"
+Arthopathies,N04y2,N04y200,Adult-onset Still's disease
+Arthopathies,N3622,N362200,Swan-neck finger deformity
+Arthopathies,Nyu10,Nyu1000,[X]Rheumatoid arthritis+involvement/other organs or systems
+Arthopathies,Nyu11,Nyu1100,[X]Other seropositive rheumatoid arthritis
+Arthopathies,Nyu12,Nyu1200,[X]Other specified rheumatoid arthritis
+Arthopathies,Nyu1G,Nyu1G00,"[X]Seropositive rheumatoid arthritis, unspecified"
+Arthopathies,^ESCT1272928,,Gout NOS
+Arthopathies,C34,C34..00,Gout
+Arthopathies,C340,C340.00,Gouty arthropathy
+Arthopathies,C341,C341.00,Gouty nephropathy
+Arthopathies,C341z,C341z00,Gouty nephropathy NOS
+Arthopathies,C342,C342.00,Idiopathic gout
+Arthopathies,C344,C344.00,Drug-induced gout
+Arthopathies,C345,C345.00,Gout due to impairment of renal function
+Arthopathies,C34y,C34y.00,Other specified gouty manifestation
+Arthopathies,C34y0,C34y000,Gouty tophi of ear
+Arthopathies,C34y1,C34y100,Gouty tophi of heart
+Arthopathies,C34y2,C34y200,Gouty tophi of other sites
+Arthopathies,C34y3,C34y300,Gouty iritis
+Arthopathies,C34y5,C34y500,Gouty tophi of hand
+Arthopathies,C34yz,C34yz00,Other specified gouty manifestation NOS
+Arthopathies,C34z,C34z.00,Gout NOS
+Arthopathies,G5573,G557300,Gouty tophi of heart
+Arthopathies,N023,N023.00,Gouty arthritis
+Arthopathies,N0231,N023100,Gouty arthritis of the shoulder region
+Arthopathies,N0232,N023200,Gouty arthritis of the upper arm
+Arthopathies,N0233,N023300,Gouty arthritis of the forearm
+Arthopathies,N0234,N023400,Gouty arthritis of the hand
+Arthopathies,N0236,N023600,Gouty arthritis of the lower leg
+Arthopathies,N0237,N023700,Gouty arthritis of the ankle and foot
+Arthopathies,N023x,N023x00,Gouty arthritis of multiple sites
+Arthopathies,N023y,N023y00,Gouty arthritis of other specified site
+Arthopathies,N023z,N023z00,Gouty arthritis NOS
+Arthopathies,Nyu17,Nyu1700,[X]Other secondary gout
+Arthopathies,^ESCTOA514062,,OA - Osteoarthritis of ankle
+Arthopathies,N05z7-99,N05z799,Osteoarthritis - ankle/foot
+Arthopathies,N05z2-99,N05z299,Osteoarthritis - elbow joint
+Arthopathies,N05z4-99,N05z499,Osteoarthritis - hand joint
+Arthopathies,N05z5-99,N05z599,Osteoarthritis - hip joint
+Arthopathies,N05z6-99,N05z699,Osteoarthritis - knee joint
+Arthopathies,N05z8-99,N05z899,Osteoarthritis - other joint
+Arthopathies,N05z3-99,N05z399,Osteoarthritis - wrist joint
+Arthopathies,N0502-99,N050299,Osteoarthritis -multiple joint
+Arthopathies,N05z1-99,N05z199,Osteoarthritis -shoulder joint
+Arthopathies,^ESCTOS514043,,Osteoarthritis of finger joint
+Arthopathies,ESCTOS1,,Osteoarthritis of knee
+Arthopathies,N0516,N051600,"Localised, primary osteoarthritis of the lower leg"
+Arthopathies,^ESCT1273253,,"Osteoarthritis NOS, of elbow"
+Arthopathies,^ESCT1272485,,"Osteoarthritis NOS, of shoulder region"
+Arthopathies,^ESCT1272557,,"Osteoarthritis NOS, of the lower leg"
+Arthopathies,^ESCT1272486,,"Osteoarthritis NOS, other specified site"
+Arthopathies,EMISNQOS6,,Osteoarthritis of spinal facet joint
+Arthopathies,^ESCTPR514028,,Primary generalized osteoarthrosis
+Arthopathies,2G26,2G26.00,O/E - hands - Heberden's nodes
+Arthopathies,7P204,7P20400,Delivery of rehabilitation for osteoarthritis
+Arthopathies,N05,N05..00,Osteoarthritis and allied disorders
+Arthopathies,N05-1,N05..11,Osteoarthritis
+Arthopathies,N050,N050.00,Generalised osteoarthritis - OA
+Arthopathies,N0500,N050000,Generalised osteoarthritis of unspecified site
+Arthopathies,N0501,N050100,Generalised osteoarthritis of the hand
+Arthopathies,N0501-1,N050111,Heberdens' nodes
+Arthopathies,N0501-2,N050112,Bouchards' nodes
+Arthopathies,N0502,N050200,Generalised osteoarthritis of multiple sites
+Arthopathies,N0503,N050300,Bouchard's nodes with arthropathy
+Arthopathies,N0504,N050400,Primary generalized osteoarthrosis
+Arthopathies,N0505,N050500,Secondary multiple arthrosis
+Arthopathies,N0506,N050600,Erosive osteoarthrosis
+Arthopathies,N0507,N050700,Heberden's nodes with arthropathy
+Arthopathies,N050z,N050z00,Generalised osteoarthritis NOS
+Arthopathies,N051,N051.00,"Localised, primary osteoarthritis"
+Arthopathies,N0510,N051000,"Localised, primary osteoarthritis of unspecified site"
+Arthopathies,N0511,N051100,"Localised, primary osteoarthritis of the shoulder region"
+Arthopathies,N0512,N051200,"Localised, primary osteoarthritis of the upper arm"
+Arthopathies,N0513,N051300,"Localised, primary osteoarthritis of the forearm"
+Arthopathies,N0514,N051400,"Localised, primary osteoarthritis of the hand"
+Arthopathies,N0515,N051500,"Localised, primary osteoarthritis of the pelvic region/thigh"
+Arthopathies,N0517,N051700,"Localised, primary osteoarthritis of the ankle and foot"
+Arthopathies,N0518,N051800,"Localised, primary osteoarthritis of other specified site"
+Arthopathies,N0519,N051900,"Primary coxarthrosis, bilateral"
+Arthopathies,N051A,N051A00,"Coxarthrosis resulting from dysplasia, bilateral"
+Arthopathies,N051B,N051B00,"Primary gonarthrosis, bilateral"
+Arthopathies,N051C,N051C00,"Primary arthrosis of first carpometacarpal joints, bilateral"
+Arthopathies,N051D,N051D00,"Localised, primary osteoarthritis of the wrist"
+Arthopathies,N051F,N051F00,"Localised, primary osteoarthritis of elbow"
+Arthopathies,N051G,N051G00,Osteoarthritis of spinal facet joint
+Arthopathies,N051z,N051z00,"Localised, primary osteoarthritis NOS"
+Arthopathies,N052,N052.00,"Localised, secondary osteoarthritis"
+Arthopathies,N0520,N052000,"Localised, secondary osteoarthritis of unspecified site"
+Arthopathies,N0521,N052100,"Localised, secondary osteoarthritis of the shoulder region"
+Arthopathies,N0522,N052200,"Localised, secondary osteoarthritis of the upper arm"
+Arthopathies,N0523,N052300,"Localised, secondary osteoarthritis of the forearm"
+Arthopathies,N0524,N052400,"Localised, secondary osteoarthritis of the hand"
+Arthopathies,N0525,N052500,"Localised, secondary osteoarthritis of pelvic region/thigh"
+Arthopathies,N0525-1,N052511,Coxae malum senilis
+Arthopathies,N0526,N052600,"Localised, secondary osteoarthritis of the lower leg"
+Arthopathies,N0527,N052700,"Localised, secondary osteoarthritis of the ankle and foot"
+Arthopathies,N0528,N052800,"Localised, secondary osteoarthritis of other specified site"
+Arthopathies,N052z,N052z00,"Localised, secondary osteoarthritis NOS"
+Arthopathies,N053,N053.00,"Localised osteoarthritis, unspecified"
+Arthopathies,N0530,N053000,"Localised osteoarthritis, unspecified, of unspecified site"
+Arthopathies,N0532,N053200,"Localised osteoarthritis, unspecified, of the upper arm"
+Arthopathies,N0533,N053300,"Localised osteoarthritis, unspecified, of the forearm"
+Arthopathies,N0534,N053400,"Localised osteoarthritis, unspecified, of the hand"
+Arthopathies,N0535,N053500,"Localised osteoarthritis, unspecified, pelvic region/thigh"
+Arthopathies,N0535-2,N053512,Hip osteoarthitis NOS
+Arthopathies,N0536,N053600,"Localised osteoarthritis, unspecified, of the lower leg"
+Arthopathies,N0536-1,N053611,Patellofemoral osteoarthritis
+Arthopathies,N0537,N053700,"Localised osteoarthritis, unspecified, of the ankle and foot"
+Arthopathies,N0538,N053800,"Localised osteoarthritis, unspecified, of other spec site"
+Arthopathies,N0539,N053900,"Arthrosis of first carpometacarpal joint, unspecified"
+Arthopathies,N053z,N053z00,"Localised osteoarthritis, unspecified, NOS"
+Arthopathies,N054,N054.00,"Oligoarticular osteoarthritis, unspecified"
+Arthopathies,N0540,N054000,"Oligoarticular osteoarthritis, unspec, of unspecified sites"
+Arthopathies,N0541,N054100,"Oligoarticular osteoarthritis, unspecified, of shoulder"
+Arthopathies,N0542,N054200,"Oligoarticular osteoarthritis, unspecified, of upper arm"
+Arthopathies,N0544,N054400,"Oligoarticular osteoarthritis, unspecified, of hand"
+Arthopathies,N0545,N054500,"Oligoarticular osteoarthritis, unspecified, of pelvis/thigh"
+Arthopathies,N0546,N054600,"Oligoarticular osteoarthritis, unspecified, of lower leg"
+Arthopathies,N0547,N054700,"Oligoarticular osteoarthritis, unspecified, of ankle/foot"
+Arthopathies,N0548,N054800,"Oligoarticular osteoarthritis, unspecified, other spec sites"
+Arthopathies,N0549,N054900,"Oligoarticular osteoarthritis, unspecified, multiple sites"
+Arthopathies,N054z,N054z00,"Osteoarthritis of more than one site, unspecified, NOS"
+Arthopathies,N05z,N05z.00,Osteoarthritis NOS
+Arthopathies,N05z-1,N05z.11,Joint degeneration
+Arthopathies,N05z0,N05z000,"Osteoarthritis NOS, of unspecified site"
+Arthopathies,N05z4,N05z400,"Osteoarthritis NOS, of the hand"
+Arthopathies,N05z4-1,N05z411,Finger osteoarthritis NOS
+Arthopathies,N05z4-2,N05z412,Thumb osteoarthritis NOS
+Arthopathies,N05z5,N05z500,"Osteoarthritis NOS, pelvic region/thigh"
+Arthopathies,N05z5-1,N05z511,Hip osteoarthritis NOS
+Arthopathies,N05z6,N05z600,"Osteoarthritis NOS, of the lower leg"
+Arthopathies,N05z6-1,N05z611,Knee osteoarthritis NOS
+Arthopathies,N05z7,N05z700,"Osteoarthritis NOS, of ankle and foot"
+Arthopathies,N05z7-1,N05z711,Ankle osteoarthritis NOS
+Arthopathies,N05z7-2,N05z712,Foot osteoarthritis NOS
+Arthopathies,N05z7-3,N05z713,Toe osteoarthritis NOS
+Arthopathies,N05z8,N05z800,"Osteoarthritis NOS, other specified site"
+Arthopathies,N05zB,N05zB00,"Osteoarthritis NOS, of acromioclavicular joint"
+Arthopathies,N05zC,N05zC00,"Osteoarthritis NOS, of elbow"
+Arthopathies,N05zD,N05zD00,"Osteoarthritis NOS, of distal radio-ulnar joint"
+Arthopathies,N05zE,N05zE00,"Osteoarthritis NOS, of wrist"
+Arthopathies,N05zF,N05zF00,"Osteoarthritis NOS, of MCP joint"
+Arthopathies,N05zG,N05zG00,"Osteoarthritis NOS, of PIP joint of finger"
+Arthopathies,N05zH,N05zH00,"Osteoarthritis NOS, of DIP joint of finger"
+Arthopathies,N05zJ,N05zJ00,"Osteoarthritis NOS, of hip"
+Arthopathies,N05zK,N05zK00,"Osteoarthritis NOS, of sacro-iliac joint"
+Arthopathies,N05zL,N05zL00,"Osteoarthritis NOS, of knee"
+Arthopathies,N05zM,N05zM00,"Osteoarthritis NOS, of tibio-fibular joint"
+Arthopathies,N05zN,N05zN00,"Osteoarthritis NOS, of ankle"
+Arthopathies,N05zP,N05zP00,"Osteoarthritis NOS, of subtalar joint"
+Arthopathies,N05zQ,N05zQ00,"Osteoarthritis NOS, of talonavicular joint"
+Arthopathies,N05zR,N05zR00,"Osteoarthritis NOS, of other tarsal joint"
+Arthopathies,N05zS,N05zS00,"Osteoarthritis NOS, of 1st MTP joint"
+Arthopathies,N05zT,N05zT00,"Osteoarthritis NOS, of lesser MTP joint"
+Arthopathies,N05zU,N05zU00,"Osteoarthritis NOS, of IP joint of toe"
+Arthopathies,N05zz,N05zz00,Osteoarthritis NOS
+Arthopathies,Nyu2,Nyu2.00,[X]Arthrosis
+Arthopathies,Nyu20,Nyu2000,[X]Other polyarthrosis
+Arthopathies,Nyu21,Nyu2100,[X]Other primary coxarthrosis
+Arthopathies,Nyu22,Nyu2200,[X]Other dysplastic coxarthrosis
+Arthopathies,Nyu24,Nyu2400,"[X]Other secondary coxarthrosis, bilateral"
+Arthopathies,Nyu25,Nyu2500,[X]Other primary gonarthrosis
+Arthopathies,Nyu25-1,Nyu2511,[X] Unilateral primary gonarthrosis
+Arthopathies,Nyu27,Nyu2700,"[X]Other secondary gonarthrosis, bilateral"
+Arthopathies,Nyu28,Nyu2800,[X]Other secondary gonarthrosis
+Arthopathies,Nyu28-1,Nyu2811,[X] Unilateral secondary gonarthrosis
+Arthopathies,Nyu29,Nyu2900,[X]Other primary arthrosis of first carpometacarpal joint
+Arthopathies,Nyu2D,Nyu2D00,[X]Other specified arthrosis
+Arthopathies,Nyu2E,Nyu2E00,[X]Other secondary coxarthrosis
+Arthopathies,Nyu2E-1,Nyu2E11,[X] Unilateral secondary coxarthrosis
+Arthopathies,M08,M08..00,Cutaneous cellulitis
+Arthopathies,M09,M09..00,Cutaneous abscess
+Arthopathies,N043,N043.00,Juvenile rheumatoid arthritis - Still's disease
+Arthopathies,N0430,N043000,Juvenile rheumatoid arthropathy unspecified
+Arthopathies,N0432,N043200,Pauciarticular juvenile rheumatoid arthritis
+Arthopathies,N0433,N043300,Monarticular juvenile rheumatoid arthritis
+Arthopathies,N045,N045.00,Other juvenile arthritis
+Arthopathies,N0450,N045000,Juvenile ankylosing spondylitis
+Arthopathies,N0451,N045100,Juvenile seronegative polyarthritis
+Arthopathies,N0452,N045200,Juvenile arthritis in psoriasis
+Arthopathies,N0453,N045300,Juvenile arthritis in Crohn's disease
+Arthopathies,N0454,N045400,Juvenile arthritis in ulcerative colitis
+Arthopathies,N0455,N045500,Juvenile rheumatoid arthritis
+Arthopathies,N0456,N045600,Pauciarticular onset juvenile chronic arthritis
+Arthopathies,N043z,N043z00,Juvenile rheumatoid arthritis NOS
+Arthopathies,Nyu15,Nyu1500,[X]Other juvenile arthritis

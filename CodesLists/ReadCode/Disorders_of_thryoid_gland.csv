@@ -1,0 +1,77 @@
+Condition,OriginalReadCode,CleansedReadCode,Term
+Disorders of thryoid gland,^ESCTAU510835,,Autoimmune hypothyroidism
+Disorders of thryoid gland,C04-99,C04..99,Hypothyroidism-congen.+ acqui.
+Disorders of thryoid gland,^ESCTSE384367,,Secondary hypothyroidism
+Disorders of thryoid gland,C02-99,C02..99,Thyrotoxicosis +/- goitre
+Disorders of thryoid gland,C0241,C024100,Thyrotoxicosis from ectopic thyroid nodule with crisis
+Disorders of thryoid gland,^ESCTPO293334,,Postsurgical hypothyroidism
+Disorders of thryoid gland,C0200,C020000,Toxic diffuse goitre with no crisis
+Disorders of thryoid gland,66B4,66B4.00,Thyroid eye disease
+Disorders of thryoid gland,C02,C02..00,Thyrotoxicosis
+Disorders of thryoid gland,C02-1,C02..11,Hyperthyroidism
+Disorders of thryoid gland,C02-2,C02..12,Toxic goitre
+Disorders of thryoid gland,C020,C020.00,Toxic diffuse goitre
+Disorders of thryoid gland,C020-1,C020.11,Basedow's disease
+Disorders of thryoid gland,C020-2,C020.12,Graves' disease
+Disorders of thryoid gland,C0201,C020100,Toxic diffuse goitre with crisis
+Disorders of thryoid gland,C0202,C020200,Thyroid-associated dermopathy
+Disorders of thryoid gland,C020z,C020z00,Toxic diffuse goitre NOS
+Disorders of thryoid gland,C021,C021.00,Toxic uninodular goitre
+Disorders of thryoid gland,C0210,C021000,Toxic uninodular goitre with no crisis
+Disorders of thryoid gland,C021z,C021z00,Toxic uninodular goitre NOS
+Disorders of thryoid gland,C022,C022.00,Toxic multinodular goitre
+Disorders of thryoid gland,C0220,C022000,Toxic multinodular goitre with no crisis
+Disorders of thryoid gland,C022z,C022z00,Toxic multinodular goitre NOS
+Disorders of thryoid gland,C023,C023.00,Toxic nodular goitre unspecified
+Disorders of thryoid gland,C0230,C023000,Toxic nodular goitre unspecified with no crisis
+Disorders of thryoid gland,C0231,C023100,Toxic nodular goitre unspecified with crisis
+Disorders of thryoid gland,C023z,C023z00,Toxic nodular goitre NOS
+Disorders of thryoid gland,C02y,C02y.00,Thyrotoxicosis of other specified origin
+Disorders of thryoid gland,C02y0,C02y000,Thyrotoxicosis of other specified origin with no crisis
+Disorders of thryoid gland,C02y1,C02y100,Thyrotoxicosis of other specified origin with crisis
+Disorders of thryoid gland,C02y3,C02y300,Thyroid crisis
+Disorders of thryoid gland,C02yz,C02yz00,Thyrotoxicosis of other specified origin NOS
+Disorders of thryoid gland,C02z,C02z.00,Thyrotoxicosis without mention of goitre or other cause
+Disorders of thryoid gland,C02z0,C02z000,Thyrotoxicosis without mention of goitre or cause no crisis
+Disorders of thryoid gland,C02z1,C02z100,"Thyrotoxicosis without mention of goitre, cause with crisis"
+Disorders of thryoid gland,C02zz,C02zz00,Thyrotoxicosis NOS
+Disorders of thryoid gland,C04,C04..00,Acquired hypothyroidism
+Disorders of thryoid gland,C04-1,C04..11,Myxoedema
+Disorders of thryoid gland,C04-2,C04..12,Thyroid deficiency
+Disorders of thryoid gland,C04-3,C04..13,Hypothyroidism
+Disorders of thryoid gland,C040,C040.00,Postsurgical hypothyroidism
+Disorders of thryoid gland,C040-1,C040.11,Post ablative hypothyroidism
+Disorders of thryoid gland,C041,C041.00,Other postablative hypothyroidism
+Disorders of thryoid gland,C0410,C041000,Irradiation hypothyroidism
+Disorders of thryoid gland,C041z,C041z00,Postablative hypothyroidism NOS
+Disorders of thryoid gland,C043,C043.00,Other iatrogenic hypothyroidism
+Disorders of thryoid gland,C043z,C043z00,Iatrogenic hypothyroidism NOS
+Disorders of thryoid gland,C046,C046.00,Autoimmune myxoedema
+Disorders of thryoid gland,C04y,C04y.00,Other acquired hypothyroidism
+Disorders of thryoid gland,C04z,C04z.00,Hypothyroidism NOS
+Disorders of thryoid gland,C04z-1,C04z.11,Pretibial myxoedema - hypothyroid
+Disorders of thryoid gland,C04z-2,C04z.12,Thyroid insufficiency
+Disorders of thryoid gland,C04z-3,C04z.13,"Hypothyroid goitre, acquired"
+Disorders of thryoid gland,C04z0,C04z000,Premature puberty due to hypothyroidism
+Disorders of thryoid gland,C04z1,C04z100,Myxoedema coma
+Disorders of thryoid gland,C05,C05..00,Thyroiditis
+Disorders of thryoid gland,C052,C052.00,Chronic lymphocytic thyroiditis
+Disorders of thryoid gland,C052-1,C052.11,Autoimmune thyroiditis
+Disorders of thryoid gland,C052-2,C052.12,Hashimoto's disease
+Disorders of thryoid gland,C053,C053.00,Chronic fibrous thyroiditis
+Disorders of thryoid gland,C05y,C05y.00,Other and unspecified chronic thyroiditis
+Disorders of thryoid gland,C05y4,C05y400,Chronic thyroiditis with transient thyrotoxicosis
+Disorders of thryoid gland,C05z,C05z.00,Thyroiditis NOS
+Disorders of thryoid gland,C06y1,C06y100,Thyroid atrophy
+Disorders of thryoid gland,C1343,C134300,TSH - thyroid-stimulating hormone deficiency
+Disorders of thryoid gland,Cyu11,Cyu1100,[X]Other sp cified hypothyroidism
+Disorders of thryoid gland,Cyu13,Cyu1300,[X]Other thyrotoxicosis
+Disorders of thryoid gland,Cyu14,Cyu1400,[X]Other chronic thyroiditis
+Disorders of thryoid gland,F11x5,F11x500,Cerebral degeneration due to myxoedema
+Disorders of thryoid gland,F3814,F381400,Myasthenic syndrome due to hypothyroidism
+Disorders of thryoid gland,F3816,F381600,Myasthenic syndrome due to thyrotoxicosis
+Disorders of thryoid gland,F3953,F395300,Myopathy due to myxoedema
+Disorders of thryoid gland,F3954,F395400,Myopathy due to thyrotoxicosis
+Disorders of thryoid gland,F4G20,F4G2000,Thyrotoxic exophthalmos
+Disorders of thryoid gland,FyuBD,FyuBD00,[X]Dysthyroid exophthalmos
+Disorders of thryoid gland,G5575,G557500,Thyrotoxic heart disease

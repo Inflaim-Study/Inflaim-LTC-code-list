@@ -1,0 +1,40 @@
+Condition,OriginalReadCode,CleansedReadCode,Term
+Hypoparathyroidism,F395,F395.00,Myopathy due to endocrine disease EC
+Hypoparathyroidism,^ESCTMU344149,,Muscle disease related to endocrine disease
+Hypoparathyroidism,^ESCTDE309573,,Deficiency of parathyrin
+Hypoparathyroidism,^ESCTDE309574,,Deficiency of PTH
+Hypoparathyroidism,^ESCTMU344150,,Muscle disorders associated with endocrine disease
+Hypoparathyroidism,C1212,C121200,Idiopathic hypoparathyroidism
+Hypoparathyroidism,F395z,F395z00,Myopathy due to endocrine disease NOS
+Hypoparathyroidism,^ESCTEN344148,,Endocrine myopathy
+Hypoparathyroidism,C121,C121.00,Hypoparathyroidism
+Hypoparathyroidism,C121z,C121z00,Hypoparathyroidism NOS
+Hypoparathyroidism,Cyu40,Cyu4000,[X]Other hypoparathyroidism
+Hypoparathyroidism,^ESCTDE309572,,Deficiency of parathyroid hormone
+Hypoparathyroidism,74212,7421200,Curettage of adenoid
+Hypoparathyroidism,742,742..00,Pharynx operations
+Hypoparathyroidism,^ESCTPA345811,,Parathyroid hormone resistant hypoparathyroidism
+Hypoparathyroidism,^ESCTTS296496,,Ts and As - Tonsillectomy and adenoidectomy
+Hypoparathyroidism,^ESCTFA345810,,Familial pseudohypoparathyroidism
+Hypoparathyroidism,^ESCTAS432184,,As - Adenoidectomy
+Hypoparathyroidism,^ESCTAD432186,,Ads - Adenoidectomy
+Hypoparathyroidism,^ESCTTO296494,,Tonsillectomy with adenoidectomy
+Hypoparathyroidism,^ESCTCO345812,,Constitutional chronic hypocalcaemia
+Hypoparathyroidism,^ESCTAD296495,,Adenotonsillectomy
+Hypoparathyroidism,^ESCTPL705836,,Plasma mediated ablation tonsillectomy
+Hypoparathyroidism,^ESCTPH431211,,Pharynx procedure
+Hypoparathyroidism,^ESCTPR431209,,Procedure on pharynx
+Hypoparathyroidism,^ESCTPH431210,,Pharyngeal procedure
+Hypoparathyroidism,7530C,7530C00,Coblation tonsillectomy
+Hypoparathyroidism,75308,7530800,Dissection tonsillectomy and adenoidectomy
+Hypoparathyroidism,75309,7530900,Guillotine tonsillectomy and adenoidectomy
+Hypoparathyroidism,74210,7421000,Adenoidectomy
+Hypoparathyroidism,75306,7530600,Tonsillectomy and adenoidectomy
+Hypoparathyroidism,C3543,C354300,Pseudohypoparathyroidism
+Hypoparathyroidism,742z,742z.00,Pharynx operations NOS
+Hypoparathyroidism,C3543-1,C354311,Pseudopseudohypoparathyroidism
+Hypoparathyroidism,^ESCTCO345809,,Constitutional chronic hypocalcemia
+Hypoparathyroidism,75306-99,7530699,Tonsillectomy + adenoidectomy
+Hypoparathyroidism,R017,R017.00,[D]Tetany
+Hypoparathyroidism,R0170,R017000,[D]Carpopedal spasm
+Hypoparathyroidism,R017z,R017z00,[D]Tetany NOS

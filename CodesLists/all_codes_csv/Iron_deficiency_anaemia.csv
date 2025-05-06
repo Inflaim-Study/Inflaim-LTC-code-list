@@ -1,0 +1,51 @@
+Condition,MedCodeId,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,ICD10Code,Term
+Iron deficiency anaemia,2581000000117.0,9537,9537.00,6591000000100.0,2571000000119.0,,Complete post-natal care
+Iron deficiency anaemia,265147017.0,6816,6816.00,171106005.0,265147017.0,,Screening invite -not attended
+Iron deficiency anaemia,293864013.0,D001,D001.00,191128004.0,293864013.0,D508,Iron deficiency anaemia due to dietary causes
+Iron deficiency anaemia,745811000006118.0,D000,D000.00,413533008.0,2532901013.0,D500,Iron deficiency anaemia due to chronic blood loss
+Iron deficiency anaemia,507619019.0,D0-1,D0...11,87522002.0,507616014.0,D500,Asiderotic anaemia
+Iron deficiency anaemia,507619019.0,D0-1,D0...11,87522002.0,507616014.0,D509,Asiderotic anaemia
+Iron deficiency anaemia,507619019.0,D0-1,D0...11,87522002.0,507616014.0,D508,Asiderotic anaemia
+Iron deficiency anaemia,507619019.0,D0-1,D0...11,87522002.0,507616014.0,D501,Asiderotic anaemia
+Iron deficiency anaemia,745851000006117.0,D00,D00..00,87522002.0,507616014.0,D500,Iron deficiency anaemias
+Iron deficiency anaemia,745851000006117.0,D00,D00..00,87522002.0,507616014.0,D509,Iron deficiency anaemias
+Iron deficiency anaemia,745851000006117.0,D00,D00..00,87522002.0,507616014.0,D508,Iron deficiency anaemias
+Iron deficiency anaemia,745851000006117.0,D00,D00..00,87522002.0,507616014.0,D501,Iron deficiency anaemias
+Iron deficiency anaemia,745801000006116.0,D000-2,D000.12,413533008.0,2532901013.0,D500,Iron deficiency anaemia due to blood loss
+Iron deficiency anaemia,351092018.0,D000-1,D000.11,234352004.0,351092018.0,D500,Normocytic anaemia due to chronic blood loss
+Iron deficiency anaemia,351092018.0,D000-1,D000.11,234352004.0,351092018.0,P613,Normocytic anaemia due to chronic blood loss
+Iron deficiency anaemia,351092018.0,D000-1,D000.11,234352004.0,351092018.0,D62X,Normocytic anaemia due to chronic blood loss
+Iron deficiency anaemia,507621012.0,D0-2,D0...12,87522002.0,507616014.0,D500,Sideropenic anaemia
+Iron deficiency anaemia,507621012.0,D0-2,D0...12,87522002.0,507616014.0,D509,Sideropenic anaemia
+Iron deficiency anaemia,507621012.0,D0-2,D0...12,87522002.0,507616014.0,D508,Sideropenic anaemia
+Iron deficiency anaemia,507621012.0,D0-2,D0...12,87522002.0,507616014.0,D501,Sideropenic anaemia
+Iron deficiency anaemia,219431000006113.0,D00y-2,D00y.12,80126007.0,132937017.0,D501,Plummer - Vinson syndrome
+Iron deficiency anaemia,294567019.0,Dyu00,Dyu0000,87522002.0,507616014.0,D500,[X]Other iron deficiency anaemias
+Iron deficiency anaemia,294567019.0,Dyu00,Dyu0000,87522002.0,507616014.0,D509,[X]Other iron deficiency anaemias
+Iron deficiency anaemia,294567019.0,Dyu00,Dyu0000,87522002.0,507616014.0,D508,[X]Other iron deficiency anaemias
+Iron deficiency anaemia,294567019.0,Dyu00,Dyu0000,87522002.0,507616014.0,D501,[X]Other iron deficiency anaemias
+Iron deficiency anaemia,755101000006110.0,D00y0-1,D00y011,80126007.0,132937017.0,D501,Kelly-Paterson syndrome
+Iron deficiency anaemia,293877016.0,D00yz,D00yz00,87522002.0,507616014.0,D500,Other specified iron deficiency anaemia NOS
+Iron deficiency anaemia,293877016.0,D00yz,D00yz00,87522002.0,507616014.0,D509,Other specified iron deficiency anaemia NOS
+Iron deficiency anaemia,293877016.0,D00yz,D00yz00,87522002.0,507616014.0,D508,Other specified iron deficiency anaemia NOS
+Iron deficiency anaemia,293877016.0,D00yz,D00yz00,87522002.0,507616014.0,D501,Other specified iron deficiency anaemia NOS
+Iron deficiency anaemia,293888010.0,D00zz,D00zz00,87522002.0,507616014.0,D500,Iron deficiency anaemia NOS
+Iron deficiency anaemia,293888010.0,D00zz,D00zz00,87522002.0,507616014.0,D509,Iron deficiency anaemia NOS
+Iron deficiency anaemia,293888010.0,D00zz,D00zz00,87522002.0,507616014.0,D508,Iron deficiency anaemia NOS
+Iron deficiency anaemia,293888010.0,D00zz,D00zz00,87522002.0,507616014.0,D501,Iron deficiency anaemia NOS
+Iron deficiency anaemia,504528016.0,D00z0,D00z000,80875006.0,504528016.0,D508,Achlorhydric anaemia
+Iron deficiency anaemia,281961000006111.0,D00y-1,D00y.11,80126007.0,132937017.0,D501,Kelly - Paterson syndrome
+Iron deficiency anaemia,132937017.0,D00y0-2,D00y012,80126007.0,132937017.0,D501,Plummer-Vinson syndrome
+Iron deficiency anaemia,293880015.0,D00z,D00z.00,87522002.0,507616014.0,D500,Unspecified iron deficiency anaemia
+Iron deficiency anaemia,293880015.0,D00z,D00z.00,87522002.0,507616014.0,D509,Unspecified iron deficiency anaemia
+Iron deficiency anaemia,293880015.0,D00z,D00z.00,87522002.0,507616014.0,D508,Unspecified iron deficiency anaemia
+Iron deficiency anaemia,293880015.0,D00z,D00z.00,87522002.0,507616014.0,D501,Unspecified iron deficiency anaemia
+Iron deficiency anaemia,293884012.0,D00z1,D00z100,87522002.0,507623010.0,D500,Chlorotic anaemia
+Iron deficiency anaemia,293884012.0,D00z1,D00z100,87522002.0,507623010.0,D509,Chlorotic anaemia
+Iron deficiency anaemia,293884012.0,D00z1,D00z100,87522002.0,507623010.0,D508,Chlorotic anaemia
+Iron deficiency anaemia,293884012.0,D00z1,D00z100,87522002.0,507623010.0,D501,Chlorotic anaemia
+Iron deficiency anaemia,399195014.0,D00y,D00y.00,87522002.0,507616014.0,D500,Other specified iron deficiency anaemia
+Iron deficiency anaemia,399195014.0,D00y,D00y.00,87522002.0,507616014.0,D509,Other specified iron deficiency anaemia
+Iron deficiency anaemia,399195014.0,D00y,D00y.00,87522002.0,507616014.0,D508,Other specified iron deficiency anaemia
+Iron deficiency anaemia,399195014.0,D00y,D00y.00,87522002.0,507616014.0,D501,Other specified iron deficiency anaemia
+Iron deficiency anaemia,132939019.0,D00y0,D00y000,80126007.0,132939019.0,D501,Sideropenic dysphagia

@@ -1,0 +1,186 @@
+Condition,OriginalReadCode,CleansedReadCode,Term
+Schizophrenia,E102z,E102z00,Catatonic schizophrenia NOS
+Schizophrenia,Eu204,Eu20400,[X]Post-schizophrenic depression
+Schizophrenia,E12y0,E12y000,Paranoia querulans
+Schizophrenia,E1010,E101000,Unspecified hebephrenic schizophrenia
+Schizophrenia,E1020,E102000,Unspecified catatonic schizophrenia
+Schizophrenia,E1052,E105200,Chronic latent schizophrenia
+Schizophrenia,E1072,E107200,Chronic schizo-affective schizophrenia
+Schizophrenia,Eu25y,Eu25y00,[X]Other schizoaffective disorders
+Schizophrenia,E100z,E100z00,Simple schizophrenia NOS
+Schizophrenia,E1051,E105100,Subchronic latent schizophrenia
+Schizophrenia,E1011,E101100,Subchronic hebephrenic schizophrenia
+Schizophrenia,E10y0,E10y000,Atypical schizophrenia
+Schizophrenia,E1075,E107500,Schizo-affective schizophrenia in remission
+Schizophrenia,E1050,E105000,Unspecified latent schizophrenia
+Schizophrenia,E1070,E107000,Unspecified schizo-affective schizophrenia
+Schizophrenia,Eu200,Eu20000,[X]Paranoid schizophrenia
+Schizophrenia,Eu203,Eu20300,[X]Undifferentiated schizophrenia
+Schizophrenia,Eu205,Eu20500,[X]Residual schizophrenia
+Schizophrenia,E1030,E103000,Unspecified paranoid schizophrenia
+Schizophrenia,Eu206,Eu20600,[X]Simple schizophrenia
+Schizophrenia,E10y1,E10y100,Coenesthopathic schizophrenia
+Schizophrenia,E1071,E107100,Subchronic schizo-affective schizophrenia
+Schizophrenia,E107z,E107z00,Schizo-affective schizophrenia NOS
+Schizophrenia,E1021,E102100,Subchronic catatonic schizophrenia
+Schizophrenia,E2122,E212200,Schizotypal personality
+Schizophrenia,E1031,E103100,Subchronic paranoid schizophrenia
+Schizophrenia,ZV110,ZV11000,[V]Personal history of schizophrenia
+Schizophrenia,E101z,E101z00,Hebephrenic schizophrenia NOS
+Schizophrenia,E1000,E100000,Unspecified schizophrenia
+Schizophrenia,E1001,E100100,Subchronic schizophrenia
+Schizophrenia,Eu221,Eu22100,[X]Delusional misidentification syndrome
+Schizophrenia,Eu222,Eu22200,[X]Cotard syndrome
+Schizophrenia,E1012,E101200,Chronic hebephrenic schizophrenia
+Schizophrenia,Eu220,Eu22000,[X]Delusional disorder
+Schizophrenia,E103z,E103z00,Paranoid schizophrenia NOS
+Schizophrenia,Eu20z,Eu20z00,"[X]Schizophrenia, unspecified"
+Schizophrenia,E12yz,E12yz00,Other paranoid states NOS
+Schizophrenia,E1005,E100500,Schizophrenia in remission
+Schizophrenia,E1032,E103200,Chronic paranoid schizophrenia
+Schizophrenia,E1055,E105500,Latent schizophrenia in remission
+Schizophrenia,E1015,E101500,Hebephrenic schizophrenia in remission
+Schizophrenia,Eu22y,Eu22y00,[X]Other persistent delusional disorders
+Schizophrenia,E1025,E102500,Catatonic schizophrenia in remission
+Schizophrenia,Eu223,Eu22300,[X]Paranoid state in remission
+Schizophrenia,E105z,E105z00,Latent schizophrenia NOS
+Schizophrenia,Eu202,Eu20200,[X]Catatonic schizophrenia
+Schizophrenia,E1035,E103500,Paranoid schizophrenia in remission
+Schizophrenia,E10yz,E10yz00,Other schizophrenia NOS
+Schizophrenia,Eu20y,Eu20y00,[X]Other schizophrenia
+Schizophrenia,Eu250,Eu25000,"[X]Schizoaffective disorder, manic type"
+Schizophrenia,E1022,E102200,Chronic catatonic schizophrenia
+Schizophrenia,Eu251,Eu25100,"[X]Schizoaffective disorder, depressive type"
+Schizophrenia,Eu252,Eu25200,"[X]Schizoaffective disorder, mixed type"
+Schizophrenia,E1002,E100200,Chronic schizophrenic
+Schizophrenia,Eu201,Eu20100,[X]Hebephrenic schizophrenia
+Schizophrenia,Eu25z,Eu25z00,"[X]Schizoaffective disorder, unspecified"
+Schizophrenia,Eu22z,Eu22z00,"[X]Persistent delusional disorder, unspecified"
+Schizophrenia,F24,F24..00,Other paralytic syndromes
+Schizophrenia,F20,F20..00,Multiple sclerosis
+Schizophrenia,F25,F25..00,Epilepsy
+Schizophrenia,F21,F21..00,Other central nervous system demyelinating diseases
+Schizophrenia,F22,F22..00,Hemiplegia
+Schizophrenia,70250,7025000,Excision of lesion of optic nerve (II)
+Schizophrenia,E102,E102.00,Catatonic schizophrenia
+Schizophrenia,Eu2y,Eu2y.00,[X]Other nonorganic psychotic disorders
+Schizophrenia,Eu25,Eu25.00,[X]Schizoaffective disorders
+Schizophrenia,E100,E100.00,Simple schizophrenia
+Schizophrenia,E12,E12..00,Paranoid states
+Schizophrenia,E103,E103.00,Paranoid schizophrenia
+Schizophrenia,E107,E107.00,Schizo-affective schizophrenia
+Schizophrenia,E122,E122.00,Paraphrenia
+Schizophrenia,Eu22,Eu22.00,[X]Persistent delusional disorders
+Schizophrenia,Eu21,Eu21.00,[X]Schizotypal disorder
+Schizophrenia,E10,E10..00,Schizophrenic disorders
+Schizophrenia,Eu2z,Eu2z.00,[X]Unspecified nonorganic psychosis
+Schizophrenia,E101,E101.00,Hebephrenic schizophrenia
+Schizophrenia,E105,E105.00,Latent schizophrenia
+Schizophrenia,1464,1464.00,H/O: schizophrenia
+Schizophrenia,Eu20,Eu20.00,[X]Schizophrenia
+Schizophrenia,E10y,E10y.00,Other schizophrenia
+Schizophrenia,Eu24,Eu24.00,[X]Induced delusional disorder
+Schizophrenia,Eu26,Eu26.00,[X]Nonorganic psychosis in remission
+Schizophrenia,E12z,E12z.00,Paranoid psychosis NOS
+Schizophrenia,E121,E121.00,Chronic paranoid psychosis
+Schizophrenia,Eu2,Eu2..00,"[X]Schizophrenia, schizotypal and delusional disorders"
+Schizophrenia,E106,E106.00,Residual schizophrenia
+Schizophrenia,E123,E123.00,Shared paranoid disorder
+Schizophrenia,E120,E120.00,Simple paranoid state
+Schizophrenia,E10z,E10z.00,Schizophrenia NOS
+Schizophrenia,E12y,E12y.00,Other paranoid states
+Schizophrenia,Eu22y-1,Eu22y11,[X]Delusional dysmorphophobia
+Schizophrenia,Eu22y-3,Eu22y13,[X]Paranoia querulans
+Schizophrenia,Eu22y-2,Eu22y12,[X]Involutional paranoid state
+Schizophrenia,^ESCTPA355573,,Paraphrenic schizophrenia
+Schizophrenia,Eu200-1,Eu20011,[X]Paraphrenic schizophrenia
+Schizophrenia,Eu220-2,Eu22012,[X]Paranoid state
+Schizophrenia,Eu220-1,Eu22011,[X]Paranoid psychosis
+Schizophrenia,^ESCTPA476439,,Paranoia
+Schizophrenia,E12-99,E12..99,Paranoia
+Schizophrenia,^ESCTIN311671,,Involutional paraphrenia
+Schizophrenia,Eu220-3,Eu22013,[X]Paraphrenia - late
+Schizophrenia,Eu252-2,Eu25212,[X]Mixed schizophrenic and affective psychosis
+Schizophrenia,^ESCTMI551797,,Mixed schizophrenic and affective psychosis
+Schizophrenia,Eu252-1,Eu25211,[X]Cyclic schizophrenia
+Schizophrenia,Eu232-2,Eu23212,[X]Brief schizophrenifrm psych
+Schizophrenia,Eu232-4,Eu23214,[X]Schizophrenic reaction
+Schizophrenia,Eu232-1,Eu23211,[X]Brief schizophreniform disorder
+Schizophrenia,Eu232-3,Eu23213,[X]Oneirophrenia
+Schizophrenia,^ESCTSC419617,,"Schizophrenia, catatonic, in remission"
+Schizophrenia,^ESCTPA823252,,Paranoid state in remission
+Schizophrenia,^ESCTSU476389,,Subchronic schizoaffective schizophrenia
+Schizophrenia,^ESCTCH270557,,Chronic disorganized schizophrenia
+Schizophrenia,^ESCTCH270556,,Chronic disorganised schizophrenia
+Schizophrenia,Eu21-4,Eu21.14,[X]Prepsychotic schizophrenia
+Schizophrenia,^ESCTSC524896,,Schizophrenic prodrome
+Schizophrenia,Eu21-5,Eu21.15,[X]Prodromal schizophrenia
+Schizophrenia,^ESCTDI300561,,"Disorganized schizophrenia, in remission"
+Schizophrenia,^ESCTDI300560,,Disorganized schizophrenia in remission
+Schizophrenia,^ESCTDI300559,,Disorganised schizophrenia in remission
+Schizophrenia,E10y-1,E10y.11,Cenesthopathic schizophrenia
+Schizophrenia,^ESCTPA352741,,"Paranoid schizophrenia, in remission"
+Schizophrenia,^ESCTCH386266,,Chronic schizophrenia
+Schizophrenia,^ESCTSU293895,,Subchronic disorganised schizophrenia
+Schizophrenia,^ESCTSU293896,,Subchronic disorganized schizophrenia
+Schizophrenia,E10-99,E10..99,Schizophrenic psychoses
+Schizophrenia,E10-98,E10..98,Schizophrenic psychoses NOS
+Schizophrenia,E100-1,E100.11,Schizophrenia simplex
+Schizophrenia,212W,212W.00,Schizophrenia resolved
+Schizophrenia,^ESCTCO620157,,Cotard syndrome
+Schizophrenia,^ESCTCO620156,,Cotard's syndrome
+Schizophrenia,^ESCTLA476386,,"Latent schizophrenia, in remission"
+Schizophrenia,^ESCTSC476394,,"Schizoaffective schizophrenia, in remission"
+Schizophrenia,^ESCTSC476395,,"Schizophrenia, schizoaffective, in remission"
+Schizophrenia,Eu21-7,Eu21.17,[X]Pseudopsychopathic schizophrenia
+Schizophrenia,Eu21-8,Eu21.18,[X]Schizotypal personality disorder
+Schizophrenia,^ESCTSC300026,,Schizoptypal disorder
+Schizophrenia,Eu21-6,Eu21.16,[X]Pseudoneurotic schizophrenia
+Schizophrenia,Eu25z-1,Eu25z11,[X]Schizoaffective psychosis NOS
+Schizophrenia,E104-1,E104.11,Oneirophrenia
+Schizophrenia,^ESCTSC257794,,"Schizophrenia, in remission"
+Schizophrenia,Eu21-2,Eu21.12,[X]Borderline schizophrenia
+Schizophrenia,^ESCT1248045,,"[X]Schizophrenia, schizotypal and delusional disorders"
+Schizophrenia,Eu231-1,Eu23111,[X]Bouffee delirante with symptoms of schizophrenia
+Schizophrenia,Eu21-3,Eu21.13,[X]Latent schizophrenia
+Schizophrenia,Eu21-1,Eu21.11,[X]Latent schizophrenic reaction
+Schizophrenia,E121-1,E121.11,Sander's disease
+Schizophrenia,Eu600-1,Eu60011,[X]Expansive paranoid personality disorder
+Schizophrenia,Eu600,Eu60000,[X]Paranoid personality disorder
+Schizophrenia,E210,E210.00,Paranoid personality disorder
+Schizophrenia,Eu600-2,Eu60012,[X]Fanatic paranoid personality disorder
+Schizophrenia,Eu600-4,Eu60014,[X]Sensitive paranoid personality disorder
+Schizophrenia,Eu600-3,Eu60013,[X]Querulant personality disorder
+Schizophrenia,^ESCTPO502390,,Post-schizophrenic depression
+Schizophrenia,Eu24-1,Eu24.11,[X]Folie a deux
+Schizophrenia,E123-1,E123.11,Folie a deux
+Schizophrenia,Eu202-1,Eu20211,[X]Catatonic stupor
+Schizophrenia,Eu202-2,Eu20212,[X]Schizophrenic catalepsy
+Schizophrenia,Eu202-3,Eu20213,[X]Schizophrenic catatonia
+Schizophrenia,^ESCTSC476369,,"Schizophrenia, catatonic"
+Schizophrenia,Eu202-4,Eu20214,[X]Schizophrenic flexibilatis cerea
+Schizophrenia,^ESCTSC476370,,Schizophrenic flexibilatis cerea
+Schizophrenia,Eu601,Eu60100,[X]Schizoid personality disorder
+Schizophrenia,E2120,E212000,Unspecified schizoid personality disorder
+Schizophrenia,E212z,E212z00,Schizoid personality disorder NOS
+Schizophrenia,E212,E212.00,Schizoid personality disorder
+Schizophrenia,Eu205-1,Eu20511,[X]Chronic undifferentiated schizophrenia
+Schizophrenia,Eu203-1,Eu20311,[X]Atypical schizophrenia
+Schizophrenia,Eu20y-1,Eu20y11,[X]Cenesthopathic schizophrenia
+Schizophrenia,Eu20y-3,Eu20y13,[X]Schizophrenifrm psychos NOS
+Schizophrenia,Eu20y-2,Eu20y12,[X]Schizophreniform disord NOS
+Schizophrenia,212T,212T.00,"Psychosis, schizophrenia + bipolar affective disord resolved"
+Schizophrenia,Eu201-1,Eu20111,[X]Disorganised schizophrenia
+Schizophrenia,^ESCTDI306813,,Disorganized schizophrenia
+Schizophrenia,^ESCTDI306812,,Disorganised schizophrenia
+Schizophrenia,Eu250-1,Eu25011,"[X]Schizoaffective psychosis, manic type"
+Schizophrenia,Eu250-2,Eu25012,"[X]Schizophreniform psychosis, manic type"
+Schizophrenia,^ESCTSC552457,,"Schizophreniform psychosis, manic type"
+Schizophrenia,Eu251-1,Eu25111,"[X]Schizoaffective psychosis, depressive type"
+Schizophrenia,^ESCTSC387861,,"Schizophreniform psychosis, depressive type"
+Schizophrenia,Eu251-2,Eu25112,"[X]Schizophreniform psychosis, depressive type"
+Schizophrenia,E106-1,E106.11,Restzustand - schizophrenia
+Schizophrenia,^ESCTRE291636,,Restzustand
+Schizophrenia,Eu205-2,Eu20512,[X]Restzustand schizophrenic
+Schizophrenia,E107-1,E107.11,Cyclic schizophrenia
+Schizophrenia,^ESCTHI453993,,History of schizophrenia

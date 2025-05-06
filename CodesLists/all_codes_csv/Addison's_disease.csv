@@ -1,0 +1,10 @@
+Condition,MedCodeId,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,ICD10Code,Term
+Addison's disease,485624014.0,C1541,C154100,363732003.0,485624014.0,E271,Addison's disease
+Addison's disease,41677012.0,C1546,C154600,24867002.0,41675016.0,E272,Addisonian crisis
+Addison's disease,398809019.0,C154z,C154z00,386584007.0,1480726013.0,E271,Corticoadrenal insufficiency NOS
+Addison's disease,398809019.0,C154z,C154z00,386584007.0,1480726013.0,E273,Corticoadrenal insufficiency NOS
+Addison's disease,398809019.0,C154z,C154z00,386584007.0,1480726013.0,E274,Corticoadrenal insufficiency NOS
+Addison's disease,286325014.0,A176,A176.00,186270000.0,286325014.0,,Tuberculosis of adrenal glands - Addison's disease
+Addison's disease,1491626013.0,C154,C154.00,386584007.0,1491626013.0,E271,Corticoadrenal insufficiency
+Addison's disease,1491626013.0,C154,C154.00,386584007.0,1491626013.0,E273,Corticoadrenal insufficiency
+Addison's disease,1491626013.0,C154,C154.00,386584007.0,1491626013.0,E274,Corticoadrenal insufficiency

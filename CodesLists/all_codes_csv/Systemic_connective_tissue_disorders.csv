@@ -1,0 +1,1350 @@
+Condition,MedCodeId,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,ICD10Code,Term
+Systemic connective tissue disorders,301739012.0,H583z,H583z00,367542003.0,492714018.0,M300,Pulmonary eosinophilia NOS
+Systemic connective tissue disorders,300565019.0,G75,G75..00,155441006.0,242065019.0,M300,Polyarteritis nodosa and allied conditions
+Systemic connective tissue disorders,4514901000006114.0,^ESCTPA451490,,155441006.0,2579114016.0,M300,PAN - Polyarteritis nodosa
+Systemic connective tissue disorders,4514891000006110.0,^ESCTPE451489,,155441006.0,1784751012.0,M300,Periarteritis nodosa
+Systemic connective tissue disorders,6298471000006115.0,^ESCTAN629847,,367542003.0,1228709010.0,M300,Andrews syndrome
+Systemic connective tissue disorders,6298441000006111.0,^ESCTPI629844,,367542003.0,1228706015.0,M300,PIE - Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,6298451000006113.0,^ESCTPU629845,,367542003.0,1228707012.0,M300,Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,297543018.0,F3711,F371100,193179000.0,297543018.0,M300,Polyneuropathy in polyarteritis nodosa
+Systemic connective tissue disorders,297545013.0,F371z,F371z00,193177003.0,297540015.0,M300,Polyneuropathy in collagen vascular disease NOS
+Systemic connective tissue disorders,6298431000006118.0,^ESCTEP629843,,367542003.0,1228705016.0,M300,EP - Eosinophilic pneumonia
+Systemic connective tissue disorders,6298461000006110.0,^ESCTEO629846,,367542003.0,1228708019.0,M300,Eosinophilic pneumonia
+Systemic connective tissue disorders,4770431000006110.0,^ESCTNE477043,,193177003.0,297541016.0,M300,Neuropathy in vasculitis and connective tissue disease
+Systemic connective tissue disorders,242065019.0,G750,G750.00,155441006.0,242065019.0,M300,Polyarteritis nodosa
+Systemic connective tissue disorders,297540015.0,F371,F371.00,193177003.0,297540015.0,M300,Polyneuropathy in collagen vascular disease
+Systemic connective tissue disorders,303849011.0,K01x3,K01x300,197607004.0,303849011.0,M300,Nephrotic syndrome in polyarteritis nodosa
+Systemic connective tissue disorders,2670764010.0,H583,H583.00,367542003.0,2670764010.0,M300,Pulmonary eosinophilia
+Systemic connective tissue disorders,990621000006115.0,G750-99,G750.99,155441006.0,990621000006115.0,M300,Polyarteritis nodosa NOS
+Systemic connective tissue disorders,422991000006117.0,Fyu77,Fyu7700,193177003.0,297540015.0,M300,[X]Polyneuropathy/systemic connective tissue disorders CE
+Systemic connective tissue disorders,300596011.0,G75z,G75z.00,155441006.0,242065019.0,M300,Polyarteritis nodosa and allied conditions NOS
+Systemic connective tissue disorders,312575016.0,Nyu40,Nyu4000,155441006.0,242065019.0,M300,[X]Other conditions related to polyarteritis nodosa
+Systemic connective tissue disorders,6298421000006116.0,^ESCTEO629842,,367542003.0,492714018.0,M300,Eosinophilic asthma
+Systemic connective tissue disorders,297640011.0,F3963,F396300,193249002.0,297640011.0,M300,Myopathy due to polyarteritis nodosa
+Systemic connective tissue disorders,301739012.0,H583z,H583z00,367542003.0,492714018.0,M301,Pulmonary eosinophilia NOS
+Systemic connective tissue disorders,300565019.0,G75,G75..00,155441006.0,242065019.0,M301,Polyarteritis nodosa and allied conditions
+Systemic connective tissue disorders,394383017.0,7B1Bz,7B1Bz00,387718007.0,1481797017.0,M301,Diagnostic endoscopic examination of ureter NOS
+Systemic connective tissue disorders,1481796014.0,7B1B-3,7B1B.13,387717002.0,1481796014.0,M301,Ureteroscopy
+Systemic connective tissue disorders,1550301000006115.0,7B2AA,7B2AA00,176182008.0,2160757017.0,M301,Diagnost endos exam bladder biop lesion bladder rigid cysto
+Systemic connective tissue disorders,1550311000006117.0,7B2AB,7B2AB00,425786007.0,2674345011.0,M301,Diagnostic endoscop exam bladder biop lesion pros rigid cys
+Systemic connective tissue disorders,1550321000006113.0,7B2AC,7B2AC00,176181001.0,272739015.0,M301,Diagnostic endoscopic examination bladder using cystoscope
+Systemic connective tissue disorders,4514901000006114.0,^ESCTPA451490,,155441006.0,2579114016.0,M301,PAN - Polyarteritis nodosa
+Systemic connective tissue disorders,3838321000006118.5,^ESCTAL383832,,82275008.0,136475012.0,M301,Allergic granulomatosis angiitis
+Systemic connective tissue disorders,4514891000006110.0,^ESCTPE451489,,155441006.0,1784751012.0,M301,Periarteritis nodosa
+Systemic connective tissue disorders,6298471000006115.0,^ESCTAN629847,,367542003.0,1228709010.0,M301,Andrews syndrome
+Systemic connective tissue disorders,6476541000006115.0,^ESCTEN647654,,387717002.0,1492238012.0,M301,Endoscopy of ureter
+Systemic connective tissue disorders,6711401000006111.0,^ESCTRE671140,,405250000.0,2163038018.0,M301,Retrograde urography
+Systemic connective tissue disorders,6476531000006113.0,^ESCTCY647653,,387717002.0,1492237019.0,M301,Cystoureteroscopy
+Systemic connective tissue disorders,6298441000006111.0,^ESCTPI629844,,367542003.0,1228706015.0,M301,PIE - Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,1.1878911000006116e+16,^ESCT1187891,,82275008.0,3521932019.0,M301,EGPA - eosinophilic granulomatosis with polyangiitis
+Systemic connective tissue disorders,6298451000006113.0,^ESCTPU629845,,367542003.0,1228707012.0,M301,Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,4671001000006112.0,^ESCTRI467100,,176183003.0,272743016.0,M301,Rigid check cystoscopy
+Systemic connective tissue disorders,3838351000006110.5,^ESCTCS383835,,82275008.0,1234697012.0,M301,CSS - Churg-Strauss syndrome
+Systemic connective tissue disorders,6711361000006118.0,^ESCTRE671136,,405250000.0,2163034016.0,M301,Retrograde ureteropyelography
+Systemic connective tissue disorders,3838361000006112.0,^ESCTCH383836,,82275008.0,3285497013.0,M301,Churg Strauss syndrome
+Systemic connective tissue disorders,4670361000006119.0,^ESCTEN467036,,176082005.0,272590016.0,M301,Endoscopic retrograde pyelogram
+Systemic connective tissue disorders,3838311000006113.5,^ESCTEO383831,,82275008.0,2507011000000119.0,M301,Eosinophilic granulomatosis with polyangiitis
+Systemic connective tissue disorders,6711381000006111.0,^ESCTRE671138,,405250000.0,2163036019.0,M301,Retrograde pyelography
+Systemic connective tissue disorders,6711371000006113.0,^ESCTRP671137,,405250000.0,2163035015.0,M301,RPG - Retrograde pyelogram
+Systemic connective tissue disorders,3838341000006113.0,^ESCTAL383834,,82275008.0,1234696015.0,M301,Allergic granulomatous angiitis
+Systemic connective tissue disorders,867301000006112.0,7B1B0-99,7B1B099,176082005.0,867301000006112.0,M301,Retrograde pyelography
+Systemic connective tissue disorders,297545013.0,F371z,F371z00,193177003.0,297540015.0,M301,Polyneuropathy in collagen vascular disease NOS
+Systemic connective tissue disorders,1492235010.0,7B1B-1,7B1B.11,387717002.0,1492235010.0,M301,Cystoscopy of ureter
+Systemic connective tissue disorders,6298431000006118.0,^ESCTEP629843,,367542003.0,1228705016.0,M301,EP - Eosinophilic pneumonia
+Systemic connective tissue disorders,6298461000006110.0,^ESCTEO629846,,367542003.0,1228708019.0,M301,Eosinophilic pneumonia
+Systemic connective tissue disorders,4770431000006110.0,^ESCTNE477043,,193177003.0,297541016.0,M301,Neuropathy in vasculitis and connective tissue disease
+Systemic connective tissue disorders,6711391000006114.0,^ESCTRE671139,,405250000.0,2163037011.0,M301,Retrograde urogram
+Systemic connective tissue disorders,242065019.0,G750,G750.00,155441006.0,242065019.0,M301,Polyarteritis nodosa
+Systemic connective tissue disorders,272591017.0,7B1B0,7B1B000,176082005.0,272591017.0,M301,Endoscopic retrograde pyelography - unspecified
+Systemic connective tissue disorders,272597018.0,7B1B6,7B1B600,176087004.0,272597018.0,M301,Retrograde bulb ureteropyelography
+Systemic connective tissue disorders,297540015.0,F371,F371.00,193177003.0,297540015.0,M301,Polyneuropathy in collagen vascular disease
+Systemic connective tissue disorders,1481797017.0,7B1B-2,7B1B.12,387718007.0,1481797017.0,M301,Diagnostic endoscopy of ureter
+Systemic connective tissue disorders,1492240019.0,7B1B,7B1B.00,387718007.0,1492240019.0,M301,Diagnostic endoscopic examination of ureter
+Systemic connective tissue disorders,2670764010.0,H583,H583.00,367542003.0,2670764010.0,M301,Pulmonary eosinophilia
+Systemic connective tissue disorders,990621000006115.0,G750-99,G750.99,155441006.0,990621000006115.0,M301,Polyarteritis nodosa NOS
+Systemic connective tissue disorders,272596010.0,7B1B5,7B1B500,405250000.0,2157075010.0,M301,Retrograde catheter ureteropyelography
+Systemic connective tissue disorders,272598011.0,7B1By,7B1By00,387718007.0,1481797017.0,M301,Other specified diagnostic endoscopic examination of ureter
+Systemic connective tissue disorders,477964015.0,7B1B4,7B1B400,361253001.0,477964015.0,M301,Simple diagnostic ureteroscopy
+Systemic connective tissue disorders,272740018.0,7B2A2,7B2A200,176181001.0,272740018.0,M301,Diagnostic cystoscopy using rigid instrument
+Systemic connective tissue disorders,410994013.0,7B1Bz-1,7B1Bz11,387717002.0,1481796014.0,M301,Ureteroscopy NEC
+Systemic connective tissue disorders,422991000006117.0,Fyu77,Fyu7700,193177003.0,297540015.0,M301,[X]Polyneuropathy/systemic connective tissue disorders CE
+Systemic connective tissue disorders,557151000006115.0,G758,G758.00,82275008.0,136476013.0,M301,Churg-Strauss vasculitis
+Systemic connective tissue disorders,1.1878901000006118e+16,^ESCT1187890,,82275008.0,3521929017.0,M301,Eosinophilic granulomatosis with polyangiitis
+Systemic connective tissue disorders,300596011.0,G75z,G75z.00,155441006.0,242065019.0,M301,Polyarteritis nodosa and allied conditions NOS
+Systemic connective tissue disorders,312575016.0,Nyu40,Nyu4000,155441006.0,242065019.0,M301,[X]Other conditions related to polyarteritis nodosa
+Systemic connective tissue disorders,6298421000006116.0,^ESCTEO629842,,367542003.0,492714018.0,M301,Eosinophilic asthma
+Systemic connective tissue disorders,2157075010.0,7B1B5-1,7B1B511,405250000.0,2157075010.0,M301,Retrograde pyelogram
+Systemic connective tissue disorders,272744010.0,7B2A4,7B2A400,176183003.0,272744010.0,M301,Check cystoscopy using rigid instrument
+Systemic connective tissue disorders,301739012.0,H583z,H583z00,367542003.0,492714018.0,M302,Pulmonary eosinophilia NOS
+Systemic connective tissue disorders,300565019.0,G75,G75..00,155441006.0,242065019.0,M302,Polyarteritis nodosa and allied conditions
+Systemic connective tissue disorders,394383017.0,7B1Bz,7B1Bz00,387718007.0,1481797017.0,M302,Diagnostic endoscopic examination of ureter NOS
+Systemic connective tissue disorders,1481796014.0,7B1B-3,7B1B.13,387717002.0,1481796014.0,M302,Ureteroscopy
+Systemic connective tissue disorders,1550301000006115.0,7B2AA,7B2AA00,176182008.0,2160757017.0,M302,Diagnost endos exam bladder biop lesion bladder rigid cysto
+Systemic connective tissue disorders,1550311000006117.0,7B2AB,7B2AB00,425786007.0,2674345011.0,M302,Diagnostic endoscop exam bladder biop lesion pros rigid cys
+Systemic connective tissue disorders,1550321000006113.0,7B2AC,7B2AC00,176181001.0,272739015.0,M302,Diagnostic endoscopic examination bladder using cystoscope
+Systemic connective tissue disorders,4514901000006114.0,^ESCTPA451490,,155441006.0,2579114016.0,M302,PAN - Polyarteritis nodosa
+Systemic connective tissue disorders,4514891000006110.0,^ESCTPE451489,,155441006.0,1784751012.0,M302,Periarteritis nodosa
+Systemic connective tissue disorders,6298471000006115.0,^ESCTAN629847,,367542003.0,1228709010.0,M302,Andrews syndrome
+Systemic connective tissue disorders,6476541000006115.0,^ESCTEN647654,,387717002.0,1492238012.0,M302,Endoscopy of ureter
+Systemic connective tissue disorders,6476531000006113.0,^ESCTCY647653,,387717002.0,1492237019.0,M302,Cystoureteroscopy
+Systemic connective tissue disorders,6298441000006111.0,^ESCTPI629844,,367542003.0,1228706015.0,M302,PIE - Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,6298451000006113.0,^ESCTPU629845,,367542003.0,1228707012.0,M302,Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,4671001000006112.0,^ESCTRI467100,,176183003.0,272743016.0,M302,Rigid check cystoscopy
+Systemic connective tissue disorders,297545013.0,F371z,F371z00,193177003.0,297540015.0,M302,Polyneuropathy in collagen vascular disease NOS
+Systemic connective tissue disorders,1492235010.0,7B1B-1,7B1B.11,387717002.0,1492235010.0,M302,Cystoscopy of ureter
+Systemic connective tissue disorders,6298431000006118.0,^ESCTEP629843,,367542003.0,1228705016.0,M302,EP - Eosinophilic pneumonia
+Systemic connective tissue disorders,6298461000006110.0,^ESCTEO629846,,367542003.0,1228708019.0,M302,Eosinophilic pneumonia
+Systemic connective tissue disorders,4770431000006110.0,^ESCTNE477043,,193177003.0,297541016.0,M302,Neuropathy in vasculitis and connective tissue disease
+Systemic connective tissue disorders,242065019.0,G750,G750.00,155441006.0,242065019.0,M302,Polyarteritis nodosa
+Systemic connective tissue disorders,297540015.0,F371,F371.00,193177003.0,297540015.0,M302,Polyneuropathy in collagen vascular disease
+Systemic connective tissue disorders,300593015.0,G759,G759.00,195363007.0,300593015.0,M302,Juvenile polyarteritis
+Systemic connective tissue disorders,1481797017.0,7B1B-2,7B1B.12,387718007.0,1481797017.0,M302,Diagnostic endoscopy of ureter
+Systemic connective tissue disorders,1492240019.0,7B1B,7B1B.00,387718007.0,1492240019.0,M302,Diagnostic endoscopic examination of ureter
+Systemic connective tissue disorders,2670764010.0,H583,H583.00,367542003.0,2670764010.0,M302,Pulmonary eosinophilia
+Systemic connective tissue disorders,990621000006115.0,G750-99,G750.99,155441006.0,990621000006115.0,M302,Polyarteritis nodosa NOS
+Systemic connective tissue disorders,272598011.0,7B1By,7B1By00,387718007.0,1481797017.0,M302,Other specified diagnostic endoscopic examination of ureter
+Systemic connective tissue disorders,477964015.0,7B1B4,7B1B400,361253001.0,477964015.0,M302,Simple diagnostic ureteroscopy
+Systemic connective tissue disorders,272740018.0,7B2A2,7B2A200,176181001.0,272740018.0,M302,Diagnostic cystoscopy using rigid instrument
+Systemic connective tissue disorders,410994013.0,7B1Bz-1,7B1Bz11,387717002.0,1481796014.0,M302,Ureteroscopy NEC
+Systemic connective tissue disorders,422991000006117.0,Fyu77,Fyu7700,193177003.0,297540015.0,M302,[X]Polyneuropathy/systemic connective tissue disorders CE
+Systemic connective tissue disorders,6474251000006112.0,^ESCTCY647425,,387601003.0,1476194013.0,M302,Cystoscopic catheterisation of ureter
+Systemic connective tissue disorders,300596011.0,G75z,G75z.00,155441006.0,242065019.0,M302,Polyarteritis nodosa and allied conditions NOS
+Systemic connective tissue disorders,312575016.0,Nyu40,Nyu4000,155441006.0,242065019.0,M302,[X]Other conditions related to polyarteritis nodosa
+Systemic connective tissue disorders,6298421000006116.0,^ESCTEO629842,,367542003.0,492714018.0,M302,Eosinophilic asthma
+Systemic connective tissue disorders,1490192011.0,7B1B1,7B1B100,387601003.0,1490192011.0,M302,Endoscopic catheterisation of ureter
+Systemic connective tissue disorders,272744010.0,7B2A4,7B2A400,176183003.0,272744010.0,M302,Check cystoscopy using rigid instrument
+Systemic connective tissue disorders,6474261000006114.0,^ESCTCY647426,,387601003.0,1477155018.0,M302,Cystoscopic catheterization of ureter
+Systemic connective tissue disorders,6474281000006116.0,^ESCTEN647428,,387601003.0,1490421018.0,M302,Endoscopic catheterization of ureter
+Systemic connective tissue disorders,301739012.0,H583z,H583z00,367542003.0,492714018.0,M303,Pulmonary eosinophilia NOS
+Systemic connective tissue disorders,394383017.0,7B1Bz,7B1Bz00,387718007.0,1481797017.0,M303,Diagnostic endoscopic examination of ureter NOS
+Systemic connective tissue disorders,1481796014.0,7B1B-3,7B1B.13,387717002.0,1481796014.0,M303,Ureteroscopy
+Systemic connective tissue disorders,1550141000006116.0,7B1B7,7B1B700,176083000.0,272592012.0,M303,Endoscopic ureteric urine sampling
+Systemic connective tissue disorders,1550301000006115.0,7B2AA,7B2AA00,176182008.0,2160757017.0,M303,Diagnost endos exam bladder biop lesion bladder rigid cysto
+Systemic connective tissue disorders,1550311000006117.0,7B2AB,7B2AB00,425786007.0,2674345011.0,M303,Diagnostic endoscop exam bladder biop lesion pros rigid cys
+Systemic connective tissue disorders,1550321000006113.0,7B2AC,7B2AC00,176181001.0,272739015.0,M303,Diagnostic endoscopic examination bladder using cystoscope
+Systemic connective tissue disorders,3720161000006112.0,^ESCTKA372016,,75053002.0,124652019.0,M303,Kawasaki's disease
+Systemic connective tissue disorders,644841000006114.0,7B1B2,7B1B200,176083000.0,272592012.0,M303,Endoscopic ureteric sampling of urine
+Systemic connective tissue disorders,6298471000006115.0,^ESCTAN629847,,367542003.0,1228709010.0,M303,Andrews syndrome
+Systemic connective tissue disorders,6476541000006115.0,^ESCTEN647654,,387717002.0,1492238012.0,M303,Endoscopy of ureter
+Systemic connective tissue disorders,6476531000006113.0,^ESCTCY647653,,387717002.0,1492237019.0,M303,Cystoureteroscopy
+Systemic connective tissue disorders,6298441000006111.0,^ESCTPI629844,,367542003.0,1228706015.0,M303,PIE - Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,3720151000006110.5,^ESCTMC372015,,75053002.0,124651014.0,M303,MCLS
+Systemic connective tissue disorders,3720201000006118.5,^ESCTKA372020,,75053002.0,1233826016.0,M303,Kawasaki syndrome
+Systemic connective tissue disorders,6298451000006113.0,^ESCTPU629845,,367542003.0,1228707012.0,M303,Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,3720191000006116.0,^ESCTKA372019,,75053002.0,200501010.0,M303,Kawasaki's syndrome
+Systemic connective tissue disorders,4671001000006112.0,^ESCTRI467100,,176183003.0,272743016.0,M303,Rigid check cystoscopy
+Systemic connective tissue disorders,3720171000006117.0,^ESCTMU372017,,75053002.0,200499019.0,M303,Mucocutaneous lymph node syndrome
+Systemic connective tissue disorders,3720211000006115.0,^ESCTKA372021,,75053002.0,3036035017.0,M303,Kawasakis mucocutaneous lymph node syndrome
+Systemic connective tissue disorders,297545013.0,F371z,F371z00,193177003.0,297540015.0,M303,Polyneuropathy in collagen vascular disease NOS
+Systemic connective tissue disorders,1492235010.0,7B1B-1,7B1B.11,387717002.0,1492235010.0,M303,Cystoscopy of ureter
+Systemic connective tissue disorders,3720181000006119.0,^ESCTML372018,,75053002.0,200500011.0,M303,MLNS
+Systemic connective tissue disorders,6298431000006118.0,^ESCTEP629843,,367542003.0,1228705016.0,M303,EP - Eosinophilic pneumonia
+Systemic connective tissue disorders,6298461000006110.0,^ESCTEO629846,,367542003.0,1228708019.0,M303,Eosinophilic pneumonia
+Systemic connective tissue disorders,4770431000006110.0,^ESCTNE477043,,193177003.0,297541016.0,M303,Neuropathy in vasculitis and connective tissue disease
+Systemic connective tissue disorders,124653012.0,G7510,G751000,75053002.0,124653012.0,M303,Kawasaki disease
+Systemic connective tissue disorders,297540015.0,F371,F371.00,193177003.0,297540015.0,M303,Polyneuropathy in collagen vascular disease
+Systemic connective tissue disorders,1481797017.0,7B1B-2,7B1B.12,387718007.0,1481797017.0,M303,Diagnostic endoscopy of ureter
+Systemic connective tissue disorders,1492240019.0,7B1B,7B1B.00,387718007.0,1492240019.0,M303,Diagnostic endoscopic examination of ureter
+Systemic connective tissue disorders,2670764010.0,H583,H583.00,367542003.0,2670764010.0,M303,Pulmonary eosinophilia
+Systemic connective tissue disorders,272598011.0,7B1By,7B1By00,387718007.0,1481797017.0,M303,Other specified diagnostic endoscopic examination of ureter
+Systemic connective tissue disorders,477964015.0,7B1B4,7B1B400,361253001.0,477964015.0,M303,Simple diagnostic ureteroscopy
+Systemic connective tissue disorders,867311000006110.0,7B1B2-99,7B1B299,176083000.0,867311000006110.0,M303,Endosc. ureteric urine collect
+Systemic connective tissue disorders,272740018.0,7B2A2,7B2A200,176181001.0,272740018.0,M303,Diagnostic cystoscopy using rigid instrument
+Systemic connective tissue disorders,410994013.0,7B1Bz-1,7B1Bz11,387717002.0,1481796014.0,M303,Ureteroscopy NEC
+Systemic connective tissue disorders,422991000006117.0,Fyu77,Fyu7700,193177003.0,297540015.0,M303,[X]Polyneuropathy/systemic connective tissue disorders CE
+Systemic connective tissue disorders,4670381000006112.0,^ESCTCY467038,,176083000.0,272592012.0,M303,Cystoscopic ureteric sampling of urine
+Systemic connective tissue disorders,6298421000006116.0,^ESCTEO629842,,367542003.0,492714018.0,M303,Eosinophilic asthma
+Systemic connective tissue disorders,272744010.0,7B2A4,7B2A400,176183003.0,272744010.0,M303,Check cystoscopy using rigid instrument
+Systemic connective tissue disorders,301739012.0,H583z,H583z00,367542003.0,492714018.0,M308,Pulmonary eosinophilia NOS
+Systemic connective tissue disorders,300565019.0,G75,G75..00,155441006.0,242065019.0,M308,Polyarteritis nodosa and allied conditions
+Systemic connective tissue disorders,312582017.0,Nyu46,Nyu4600,276657008.0,412908010.0,M308,[X]Other overlap syndromes
+Systemic connective tissue disorders,394383017.0,7B1Bz,7B1Bz00,387718007.0,1481797017.0,M308,Diagnostic endoscopic examination of ureter NOS
+Systemic connective tissue disorders,1481796014.0,7B1B-3,7B1B.13,387717002.0,1481796014.0,M308,Ureteroscopy
+Systemic connective tissue disorders,1550301000006115.0,7B2AA,7B2AA00,176182008.0,2160757017.0,M308,Diagnost endos exam bladder biop lesion bladder rigid cysto
+Systemic connective tissue disorders,1550311000006117.0,7B2AB,7B2AB00,425786007.0,2674345011.0,M308,Diagnostic endoscop exam bladder biop lesion pros rigid cys
+Systemic connective tissue disorders,1550321000006113.0,7B2AC,7B2AC00,176181001.0,272739015.0,M308,Diagnostic endoscopic examination bladder using cystoscope
+Systemic connective tissue disorders,4514901000006114.0,^ESCTPA451490,,155441006.0,2579114016.0,M308,PAN - Polyarteritis nodosa
+Systemic connective tissue disorders,4514891000006110.0,^ESCTPE451489,,155441006.0,1784751012.0,M308,Periarteritis nodosa
+Systemic connective tissue disorders,6298471000006115.0,^ESCTAN629847,,367542003.0,1228709010.0,M308,Andrews syndrome
+Systemic connective tissue disorders,6476541000006115.0,^ESCTEN647654,,387717002.0,1492238012.0,M308,Endoscopy of ureter
+Systemic connective tissue disorders,6476531000006113.0,^ESCTCY647653,,387717002.0,1492237019.0,M308,Cystoureteroscopy
+Systemic connective tissue disorders,6298441000006111.0,^ESCTPI629844,,367542003.0,1228706015.0,M308,PIE - Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,6298451000006113.0,^ESCTPU629845,,367542003.0,1228707012.0,M308,Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,4671001000006112.0,^ESCTRI467100,,176183003.0,272743016.0,M308,Rigid check cystoscopy
+Systemic connective tissue disorders,297545013.0,F371z,F371z00,193177003.0,297540015.0,M308,Polyneuropathy in collagen vascular disease NOS
+Systemic connective tissue disorders,1492235010.0,7B1B-1,7B1B.11,387717002.0,1492235010.0,M308,Cystoscopy of ureter
+Systemic connective tissue disorders,6298431000006118.0,^ESCTEP629843,,367542003.0,1228705016.0,M308,EP - Eosinophilic pneumonia
+Systemic connective tissue disorders,6298461000006110.0,^ESCTEO629846,,367542003.0,1228708019.0,M308,Eosinophilic pneumonia
+Systemic connective tissue disorders,4770431000006110.0,^ESCTNE477043,,193177003.0,297541016.0,M308,Neuropathy in vasculitis and connective tissue disease
+Systemic connective tissue disorders,242065019.0,G750,G750.00,155441006.0,242065019.0,M308,Polyarteritis nodosa
+Systemic connective tissue disorders,297540015.0,F371,F371.00,193177003.0,297540015.0,M308,Polyneuropathy in collagen vascular disease
+Systemic connective tissue disorders,1481797017.0,7B1B-2,7B1B.12,387718007.0,1481797017.0,M308,Diagnostic endoscopy of ureter
+Systemic connective tissue disorders,1492240019.0,7B1B,7B1B.00,387718007.0,1492240019.0,M308,Diagnostic endoscopic examination of ureter
+Systemic connective tissue disorders,2670764010.0,H583,H583.00,367542003.0,2670764010.0,M308,Pulmonary eosinophilia
+Systemic connective tissue disorders,990621000006115.0,G750-99,G750.99,155441006.0,990621000006115.0,M308,Polyarteritis nodosa NOS
+Systemic connective tissue disorders,272598011.0,7B1By,7B1By00,387718007.0,1481797017.0,M308,Other specified diagnostic endoscopic examination of ureter
+Systemic connective tissue disorders,477964015.0,7B1B4,7B1B400,361253001.0,477964015.0,M308,Simple diagnostic ureteroscopy
+Systemic connective tissue disorders,272740018.0,7B2A2,7B2A200,176181001.0,272740018.0,M308,Diagnostic cystoscopy using rigid instrument
+Systemic connective tissue disorders,410994013.0,7B1Bz-1,7B1Bz11,387717002.0,1481796014.0,M308,Ureteroscopy NEC
+Systemic connective tissue disorders,422991000006117.0,Fyu77,Fyu7700,193177003.0,297540015.0,M308,[X]Polyneuropathy/systemic connective tissue disorders CE
+Systemic connective tissue disorders,300596011.0,G75z,G75z.00,155441006.0,242065019.0,M308,Polyarteritis nodosa and allied conditions NOS
+Systemic connective tissue disorders,312575016.0,Nyu40,Nyu4000,155441006.0,242065019.0,M308,[X]Other conditions related to polyarteritis nodosa
+Systemic connective tissue disorders,6298421000006116.0,^ESCTEO629842,,367542003.0,492714018.0,M308,Eosinophilic asthma
+Systemic connective tissue disorders,272744010.0,7B2A4,7B2A400,176183003.0,272744010.0,M308,Check cystoscopy using rigid instrument
+Systemic connective tissue disorders,301739012.0,H583z,H583z00,367542003.0,492714018.0,M310,Pulmonary eosinophilia NOS
+Systemic connective tissue disorders,300577012.0,G752z,G752z00,60555002.0,100606014.0,M310,Hypersensitivity angiitis NOS
+Systemic connective tissue disorders,3319101000006111.0,^ESCTPU331910,,50581000.0,495714011.0,M310,Pulmonary haemorrhage with glomerulonephritis
+Systemic connective tissue disorders,3319081000006115.0,^ESCTPU331908,,50581000.0,84269016.0,M310,Pulmonary hemosiderosis with glomerulonephritis
+Systemic connective tissue disorders,3319041000006114.0,^ESCTHE331904,,50581000.0,84263015.0,M310,Hemorrhagic pneumonia AND glomerulonephritis
+Systemic connective tissue disorders,5095181000006111.0,^ESCTAN509518,,236506009.0,354519015.0,M310,Anti GBM - Antiglomerular basement membrane disease
+Systemic connective tissue disorders,3319071000006118.0,^ESCTPU331907,,50581000.0,84267019.0,M310,Pulmonary hemorrhage with glomerulonephritis
+Systemic connective tissue disorders,6298471000006115.0,^ESCTAN629847,,367542003.0,1228709010.0,M310,Andrews syndrome
+Systemic connective tissue disorders,3319061000006113.0,^ESCTLU331906,,50581000.0,84266011.0,M310,Lung purpura with nephritis syndrome
+Systemic connective tissue disorders,3319051000006111.0,^ESCTPU331905,,50581000.0,84265010.0,M310,Pulmonary-renal syndrome
+Systemic connective tissue disorders,6298441000006111.0,^ESCTPI629844,,367542003.0,1228706015.0,M310,PIE - Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,3483591000006115.0,^ESCTMA348359,,60555002.0,498776017.0,M310,Maladie trisymptome
+Systemic connective tissue disorders,5095191000006114.0,^ESCTGO509519,,236506009.0,2840433018.0,M310,Goodpasture disease
+Systemic connective tissue disorders,3319121000006118.0,^ESCTHA331912,,50581000.0,495716013.0,M310,Haemorrhagic pneumonia AND glomerulonephritis
+Systemic connective tissue disorders,3483581000006118.0,^ESCTHY348358,,60555002.0,100609019.0,M310,Hypersensitivity vasculitis
+Systemic connective tissue disorders,6298451000006113.0,^ESCTPU629845,,367542003.0,1228707012.0,M310,Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,3319141000006113.0,^ESCTGO331914,,50581000.0,2838064014.0,M310,Goodpasture syndrome
+Systemic connective tissue disorders,3483631000006115.0,^ESCTLE348363,,60555002.0,498780010.0,M310,Leukocytoclastic angiitis
+Systemic connective tissue disorders,3483611000006114.0,^ESCTLE348361,,60555002.0,498778016.0,M310,Leucocytoclastic vasculitis
+Systemic connective tissue disorders,3483571000006116.0,^ESCTAL348357,,60555002.0,100608010.0,M310,Allergic vasculitis
+Systemic connective tissue disorders,3319131000006115.0,^ESCTAN331913,,50581000.0,495717016.0,M310,Anti-GBM nephritis with pulmonary haemorrhage
+Systemic connective tissue disorders,3483621000006118.0,^ESCTLE348362,,60555002.0,498779012.0,M310,Leucocytoclastic angiitis
+Systemic connective tissue disorders,3483601000006111.0,^ESCTTR348360,,60555002.0,498777014.0,M310,Trisymptome
+Systemic connective tissue disorders,3319111000006114.0,^ESCTPU331911,,50581000.0,495715012.0,M310,Pulmonary haemosiderosis with glomerulonephritis
+Systemic connective tissue disorders,3319091000006117.0,^ESCTAN331909,,50581000.0,84270015.0,M310,Anti-GBM nephritis with pulmonary hemorrhage
+Systemic connective tissue disorders,2214081000000112.0,G7521-2,G752112,236506009.0,2214081000000112.0,M310,Anti GBM disease - Antiglomerular basement membrane disease
+Systemic connective tissue disorders,297545013.0,F371z,F371z00,193177003.0,297540015.0,M310,Polyneuropathy in collagen vascular disease NOS
+Systemic connective tissue disorders,6298431000006118.0,^ESCTEP629843,,367542003.0,1228705016.0,M310,EP - Eosinophilic pneumonia
+Systemic connective tissue disorders,6298461000006110.0,^ESCTEO629846,,367542003.0,1228708019.0,M310,Eosinophilic pneumonia
+Systemic connective tissue disorders,4770431000006110.0,^ESCTNE477043,,193177003.0,297541016.0,M310,Neuropathy in vasculitis and connective tissue disease
+Systemic connective tissue disorders,3483561000006111.0,^ESCTLE348356,,60555002.0,100607017.0,M310,Leukocytoclastic vasculitis
+Systemic connective tissue disorders,84262013.0,G7520,G752000,50581000.0,84262013.0,M310,Goodpasture's syndrome
+Systemic connective tissue disorders,297540015.0,F371,F371.00,193177003.0,297540015.0,M310,Polyneuropathy in collagen vascular disease
+Systemic connective tissue disorders,354518011.0,G7521-1,G752111,236506009.0,354518011.0,M310,Antiglomerular basement membrane disease
+Systemic connective tissue disorders,354520014.0,G7521,G752100,236506009.0,354520014.0,M310,Goodpasture's disease
+Systemic connective tissue disorders,2670764010.0,H583,H583.00,367542003.0,2670764010.0,M310,Pulmonary eosinophilia
+Systemic connective tissue disorders,422991000006117.0,Fyu77,Fyu7700,193177003.0,297540015.0,M310,[X]Polyneuropathy/systemic connective tissue disorders CE
+Systemic connective tissue disorders,6298421000006116.0,^ESCTEO629842,,367542003.0,492714018.0,M310,Eosinophilic asthma
+Systemic connective tissue disorders,100606014.0,G752,G752.00,60555002.0,100606014.0,M310,Hypersensitivity angiitis
+Systemic connective tissue disorders,789831000006117.0,G752-1,G752.11,60555002.0,100606014.0,M310,Hypersensitivity arteritis
+Systemic connective tissue disorders,301739012.0,H583z,H583z00,367542003.0,492714018.0,M311,Pulmonary eosinophilia NOS
+Systemic connective tissue disorders,300587011.0,G756z,G756z00,126729006.0,135665013.0,M311,Thrombotic microangiopathy NOS
+Systemic connective tissue disorders,473369018.0,D313-4,D313.14,302873008.0,444860010.0,M311,Megakaryocytic hypoplasia
+Systemic connective tissue disorders,659741000006118.0,7B1C3,7B1C300,176093007.0,272606011.0,M311,Extracorporeal shockwave lithotripsy stone in lower ureter
+Systemic connective tissue disorders,659751000006116.0,7B1Cz,7B1Cz00,20042009.0,33733018.0,M311,Extracorporeal shockwave lithotripsy ureteric calculus NOS
+Systemic connective tissue disorders,6298471000006115.0,^ESCTAN629847,,367542003.0,1228709010.0,M311,Andrews syndrome
+Systemic connective tissue disorders,2818541000006118.0,^ESCTES281854,,20042009.0,480264016.0,M311,ESWL - Extracorporeal shockwave lithotripsy of ureteric calculus
+Systemic connective tissue disorders,6298441000006111.0,^ESCTPI629844,,367542003.0,1228706015.0,M311,PIE - Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,6298451000006113.0,^ESCTPU629845,,367542003.0,1228707012.0,M311,Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,4670411000006110.0,^ESCTEX467041,,176091009.0,272603015.0,M311,Extracorporeal shockwave lithotripsy for stone in upper ureter
+Systemic connective tissue disorders,6477801000006117.0,^ESCTDI647780,,387778001.0,1490211012.0,M311,Disorder characterised by purpura
+Systemic connective tissue disorders,3770791000006119.0,^ESCTTT377079,,78129009.0,129663018.0,M311,TTP
+Systemic connective tissue disorders,272604014.0,7B1C1,7B1C100,176091009.0,272604014.0,M311,Extracorporeal shockwave therapy for stone in upper ureter
+Systemic connective tissue disorders,297545013.0,F371z,F371z00,193177003.0,297540015.0,M311,Polyneuropathy in collagen vascular disease NOS
+Systemic connective tissue disorders,294334017.0,D31,D31..00,387778001.0,1481848019.0,M311,Purpura and other haemorrhagic conditions
+Systemic connective tissue disorders,6298431000006118.0,^ESCTEP629843,,367542003.0,1228705016.0,M311,EP - Eosinophilic pneumonia
+Systemic connective tissue disorders,6298461000006110.0,^ESCTEO629846,,367542003.0,1228708019.0,M311,Eosinophilic pneumonia
+Systemic connective tissue disorders,4770431000006110.0,^ESCTNE477043,,193177003.0,297541016.0,M311,Neuropathy in vasculitis and connective tissue disease
+Systemic connective tissue disorders,129661016.0,G7561,G756100,78129009.0,129661016.0,M311,Thrombotic thrombocytopenic purpura
+Systemic connective tissue disorders,272605010.0,7B1C2,7B1C200,176092002.0,272605010.0,M311,Extracorporeal shockwave lithotripsy for stone in mid-ureter
+Systemic connective tissue disorders,297540015.0,F371,F371.00,193177003.0,297540015.0,M311,Polyneuropathy in collagen vascular disease
+Systemic connective tissue disorders,444860010.0,D313-5,D313.15,302873008.0,444860010.0,M311,Thrombocytopenic purpura
+Systemic connective tissue disorders,480263010.0,7B1C,7B1C.00,20042009.0,480263010.0,M311,Extracorporeal shockwave lithotripsy of ureteric calculus
+Systemic connective tissue disorders,503763019.0,G7560,G756000,78129009.0,503763019.0,M311,Moschcowitz syndrome
+Systemic connective tissue disorders,2670764010.0,H583,H583.00,367542003.0,2670764010.0,M311,Pulmonary eosinophilia
+Systemic connective tissue disorders,867331000006116.0,7B1C-99,7B1C.99,20042009.0,867331000006116.0,M311,Ureteric lithotripsy
+Systemic connective tissue disorders,294376013.0,D313y,D313y00,302873008.0,444860010.0,M311,Other specified primary thrombocytopenia
+Systemic connective tissue disorders,1492272016.0,D3121,D312100,387778001.0,1492272016.0,M311,Purpura
+Systemic connective tissue disorders,135665013.0,G756,G756.00,126729006.0,135665013.0,M311,Thrombotic microangiopathy
+Systemic connective tissue disorders,422991000006117.0,Fyu77,Fyu7700,193177003.0,297540015.0,M311,[X]Polyneuropathy/systemic connective tissue disorders CE
+Systemic connective tissue disorders,649701000006117.0,D313-1,D313.11,302873008.0,444860010.0,M311,Evan's syndrome
+Systemic connective tissue disorders,3770811000006115.0,^ESCTTT377081,,78129009.0,503764013.0,M311,TTP - Thrombotic thrombocytopenic purpura
+Systemic connective tissue disorders,3770781000006117.0,^ESCTMO377078,,78129009.0,129662011.0,M311,Moschowitz's syndrome
+Systemic connective tissue disorders,6477811000006119.0,^ESCTDI647781,,387778001.0,1490440012.0,M311,Disorder characterized by purpura
+Systemic connective tissue disorders,6298421000006116.0,^ESCTEO629842,,367542003.0,492714018.0,M311,Eosinophilic asthma
+Systemic connective tissue disorders,659581000006117.0,7B1C0,7B1C000,20042009.0,33733018.0,M311,Extracorp shockwave lithotripsy of unspec ureteric calculus
+Systemic connective tissue disorders,659731000006111.0,7B1Cy,7B1Cy00,20042009.0,33733018.0,M311,Extracorporeal shockwave lithotripsy of ureteric calculus OS
+Systemic connective tissue disorders,301739012.0,H583z,H583z00,367542003.0,492714018.0,M313,Pulmonary eosinophilia NOS
+Systemic connective tissue disorders,6298471000006115.0,^ESCTAN629847,,367542003.0,1228709010.0,M313,Andrews syndrome
+Systemic connective tissue disorders,6298441000006111.0,^ESCTPI629844,,367542003.0,1228706015.0,M313,PIE - Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,4779041000006116.0,^ESCTWE477904,,195353004.0,2837750016.0,M313,Wegener granulomatosis
+Systemic connective tissue disorders,4779031000006114.0,^ESCTNE477903,,195353004.0,300580013.0,M313,Necrotizing respiratory granulomatosis
+Systemic connective tissue disorders,6298451000006113.0,^ESCTPU629845,,367542003.0,1228707012.0,M313,Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,297545013.0,F371z,F371z00,193177003.0,297540015.0,M313,Polyneuropathy in collagen vascular disease NOS
+Systemic connective tissue disorders,4779011000006115.0,^ESCTNE477901,,195353004.0,300578019.0,M313,Necrotising respiratory granulomatosis
+Systemic connective tissue disorders,6298431000006118.0,^ESCTEP629843,,367542003.0,1228705016.0,M313,EP - Eosinophilic pneumonia
+Systemic connective tissue disorders,6298461000006110.0,^ESCTEO629846,,367542003.0,1228708019.0,M313,Eosinophilic pneumonia
+Systemic connective tissue disorders,4770431000006110.0,^ESCTNE477043,,193177003.0,297541016.0,M313,Neuropathy in vasculitis and connective tissue disease
+Systemic connective tissue disorders,297540015.0,F371,F371.00,193177003.0,297540015.0,M313,Polyneuropathy in collagen vascular disease
+Systemic connective tissue disorders,300579010.0,G754,G754.00,195353004.0,300579010.0,M313,Wegener's granulomatosis
+Systemic connective tissue disorders,2670764010.0,H583,H583.00,367542003.0,2670764010.0,M313,Pulmonary eosinophilia
+Systemic connective tissue disorders,422991000006117.0,Fyu77,Fyu7700,193177003.0,297540015.0,M313,[X]Polyneuropathy/systemic connective tissue disorders CE
+Systemic connective tissue disorders,2955624019.0,G754-1,G754.11,195353004.0,2955624019.0,M313,Granulomatosis with polyangiitis
+Systemic connective tissue disorders,6298421000006116.0,^ESCTEO629842,,367542003.0,492714018.0,M313,Eosinophilic asthma
+Systemic connective tissue disorders,301739012.0,H583z,H583z00,367542003.0,492714018.0,M314,Pulmonary eosinophilia NOS
+Systemic connective tissue disorders,475140019.0,G757-1,G757.11,359789008.0,475138012.0,M314,Aortic arch arteritis
+Systemic connective tissue disorders,6206511000006112.0,^ESCTAT620651,,359789008.0,475149018.0,M314,Atypical coarctation
+Systemic connective tissue disorders,6206421000006115.0,^ESCTAC620642,,359789008.0,475139016.0,M314,Acquired aortoarteritis
+Systemic connective tissue disorders,6298471000006115.0,^ESCTAN629847,,367542003.0,1228709010.0,M314,Andrews syndrome
+Systemic connective tissue disorders,6206491000006118.0,^ESCTID620649,,359789008.0,475146013.0,M314,Idiopathic medial aortopathy AND arteriopathy
+Systemic connective tissue disorders,6206591000006119.0,^ESCTTA620659,,359789008.0,2838406018.0,M314,Takayasu disease
+Systemic connective tissue disorders,6206551000006113.0,^ESCTSC620655,,359789008.0,475154010.0,M314,Sclerosing aortitis AND arteritis
+Systemic connective tissue disorders,6298441000006111.0,^ESCTPI629844,,367542003.0,1228706015.0,M314,PIE - Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,6206501000006114.0,^ESCTRE620650,,359789008.0,475148014.0,M314,Reverse coarctation
+Systemic connective tissue disorders,6206401000006113.0,^ESCTTA620640,,359789008.0,475151019.0,M314,Takayasu's arteritis
+Systemic connective tissue disorders,6206571000006115.0,^ESCTRA620657,,359789008.0,475156012.0,M314,Raeder-Harbitz syndrome
+Systemic connective tissue disorders,6206541000006111.0,^ESCTNO620654,,359789008.0,475153016.0,M314,Nonspecific arteritis
+Systemic connective tissue disorders,6206561000006110.0,^ESCTNO620656,,359789008.0,475155011.0,M314,Nonspecific aortoarteritis
+Systemic connective tissue disorders,6298451000006113.0,^ESCTPU629845,,367542003.0,1228707012.0,M314,Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,6206441000006110.0,^ESCTOC620644,,359789008.0,475141015.0,M314,Occlusive thromboarteriopathy
+Systemic connective tissue disorders,6206461000006114.0,^ESCTAO620646,,359789008.0,475143017.0,M314,Aortitis syndrome
+Systemic connective tissue disorders,6206431000006117.0,^ESCTAO620643,,359789008.0,475140019.0,M314,Aortic arch arteritis
+Systemic connective tissue disorders,6206581000006117.0,^ESCTYO620658,,359789008.0,475157015.0,M314,Young female arteritis
+Systemic connective tissue disorders,6206531000006118.0,^ESCTMA620653,,359789008.0,475152014.0,M314,Martorell syndrome
+Systemic connective tissue disorders,297545013.0,F371z,F371z00,193177003.0,297540015.0,M314,Polyneuropathy in collagen vascular disease NOS
+Systemic connective tissue disorders,6206521000006116.0,^ESCTTA620652,,359789008.0,475150018.0,M314,Takayasu's arteriopathy
+Systemic connective tissue disorders,6298431000006118.0,^ESCTEP629843,,367542003.0,1228705016.0,M314,EP - Eosinophilic pneumonia
+Systemic connective tissue disorders,6298461000006110.0,^ESCTEO629846,,367542003.0,1228708019.0,M314,Eosinophilic pneumonia
+Systemic connective tissue disorders,4770431000006110.0,^ESCTNE477043,,193177003.0,297541016.0,M314,Neuropathy in vasculitis and connective tissue disease
+Systemic connective tissue disorders,297540015.0,F371,F371.00,193177003.0,297540015.0,M314,Polyneuropathy in collagen vascular disease
+Systemic connective tissue disorders,2670764010.0,H583,H583.00,367542003.0,2670764010.0,M314,Pulmonary eosinophilia
+Systemic connective tissue disorders,475145012.0,G757-2,G757.12,359789008.0,475145012.0,M314,Pulseless disease
+Systemic connective tissue disorders,422991000006117.0,Fyu77,Fyu7700,193177003.0,297540015.0,M314,[X]Polyneuropathy/systemic connective tissue disorders CE
+Systemic connective tissue disorders,6206471000006119.0,^ESCTAO620647,,359789008.0,475144011.0,M314,Aortic arch syndrome
+Systemic connective tissue disorders,6298421000006116.0,^ESCTEO629842,,367542003.0,492714018.0,M314,Eosinophilic asthma
+Systemic connective tissue disorders,475138012.0,G757,G757.00,359789008.0,475138012.0,M314,Takayasu's disease
+Systemic connective tissue disorders,6206451000006112.0,^ESCTPR620645,,359789008.0,475142010.0,M314,Primary arteritis
+Systemic connective tissue disorders,301739012.0,H583z,H583z00,367542003.0,492714018.0,M315,Pulmonary eosinophilia NOS
+Systemic connective tissue disorders,3562001000006118.0,^ESCTRH356200,,65323003.0,108531016.0,M315,Rhizomelic pseudopolyarthritis
+Systemic connective tissue disorders,6298471000006115.0,^ESCTAN629847,,367542003.0,1228709010.0,M315,Andrews syndrome
+Systemic connective tissue disorders,6298441000006111.0,^ESCTPI629844,,367542003.0,1228706015.0,M315,PIE - Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,6635251000006112.0,^ESCTTA663525,,400130008.0,1787111014.0,M315,TA - Temporal arteritis
+Systemic connective tissue disorders,3562011000006115.0,^ESCTSE356201,,65323003.0,108532011.0,M315,Senile arthritis
+Systemic connective tissue disorders,6298451000006113.0,^ESCTPU629845,,367542003.0,1228707012.0,M315,Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,3562021000006111.0,^ESCTPM356202,,65323003.0,500077010.0,M315,PMR - Polymyalgia rheumatica
+Systemic connective tissue disorders,6635261000006114.0,^ESCTTE663526,,400130008.0,1787112019.0,M315,Temporal giant cell arteritis
+Systemic connective tissue disorders,3561991000006115.0,^ESCTFO356199,,65323003.0,108530015.0,M315,Forestier-Certonciny syndrome
+Systemic connective tissue disorders,297545013.0,F371z,F371z00,193177003.0,297540015.0,M315,Polyneuropathy in collagen vascular disease NOS
+Systemic connective tissue disorders,1779388019.0,G7551,G755100,400130008.0,1779388019.0,M315,Temporal arteritis
+Systemic connective tissue disorders,6298431000006118.0,^ESCTEP629843,,367542003.0,1228705016.0,M315,EP - Eosinophilic pneumonia
+Systemic connective tissue disorders,6298461000006110.0,^ESCTEO629846,,367542003.0,1228708019.0,M315,Eosinophilic pneumonia
+Systemic connective tissue disorders,4770431000006110.0,^ESCTNE477043,,193177003.0,297541016.0,M315,Neuropathy in vasculitis and connective tissue disease
+Systemic connective tissue disorders,108529013.0,N20,N20..00,65323003.0,108529013.0,M315,Polymyalgia rheumatica
+Systemic connective tissue disorders,297540015.0,F371,F371.00,193177003.0,297540015.0,M315,Polyneuropathy in collagen vascular disease
+Systemic connective tissue disorders,359513016.0,N200,N200.00,239938009.0,359513016.0,M315,Giant cell arteritis with polymyalgia rheumatica
+Systemic connective tissue disorders,2534171012.0,G755,G755.00,414341000.0,2534171012.0,M315,Giant cell arteritis
+Systemic connective tissue disorders,2670764010.0,H583,H583.00,367542003.0,2670764010.0,M315,Pulmonary eosinophilia
+Systemic connective tissue disorders,1787110010.0,G7552,G755200,400130008.0,1787110010.0,M315,Horton's disease
+Systemic connective tissue disorders,158050019.0,N20-1,N20..11,65323003.0,108529013.0,M315,Polymyalgia
+Systemic connective tissue disorders,300584016.0,G755z,G755z00,414341000.0,2534171012.0,M315,Giant cell arteritis NOS
+Systemic connective tissue disorders,1787109017.0,G7550,G755000,400130008.0,1787109017.0,M315,Cranial arteritis
+Systemic connective tissue disorders,422991000006117.0,Fyu77,Fyu7700,193177003.0,297540015.0,M315,[X]Polyneuropathy/systemic connective tissue disorders CE
+Systemic connective tissue disorders,312576015.0,Nyu41,Nyu4100,414341000.0,2534171012.0,M315,[X]Other giant cell arteritis
+Systemic connective tissue disorders,6298421000006116.0,^ESCTEO629842,,367542003.0,492714018.0,M315,Eosinophilic asthma
+Systemic connective tissue disorders,301739012.0,H583z,H583z00,367542003.0,492714018.0,M316,Pulmonary eosinophilia NOS
+Systemic connective tissue disorders,5141661000006114.0,^ESCTGI514166,,239939001.0,359514010.0,M316,Giant cell arteritis without polymyalgia rheumatica
+Systemic connective tissue disorders,6298471000006115.0,^ESCTAN629847,,367542003.0,1228709010.0,M316,Andrews syndrome
+Systemic connective tissue disorders,6298441000006111.0,^ESCTPI629844,,367542003.0,1228706015.0,M316,PIE - Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,6635251000006112.0,^ESCTTA663525,,400130008.0,1787111014.0,M316,TA - Temporal arteritis
+Systemic connective tissue disorders,6298451000006113.0,^ESCTPU629845,,367542003.0,1228707012.0,M316,Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,6635261000006114.0,^ESCTTE663526,,400130008.0,1787112019.0,M316,Temporal giant cell arteritis
+Systemic connective tissue disorders,297545013.0,F371z,F371z00,193177003.0,297540015.0,M316,Polyneuropathy in collagen vascular disease NOS
+Systemic connective tissue disorders,1779388019.0,G7551,G755100,400130008.0,1779388019.0,M316,Temporal arteritis
+Systemic connective tissue disorders,6298431000006118.0,^ESCTEP629843,,367542003.0,1228705016.0,M316,EP - Eosinophilic pneumonia
+Systemic connective tissue disorders,6298461000006110.0,^ESCTEO629846,,367542003.0,1228708019.0,M316,Eosinophilic pneumonia
+Systemic connective tissue disorders,4770431000006110.0,^ESCTNE477043,,193177003.0,297541016.0,M316,Neuropathy in vasculitis and connective tissue disease
+Systemic connective tissue disorders,297540015.0,F371,F371.00,193177003.0,297540015.0,M316,Polyneuropathy in collagen vascular disease
+Systemic connective tissue disorders,2534171012.0,G755,G755.00,414341000.0,2534171012.0,M316,Giant cell arteritis
+Systemic connective tissue disorders,2670764010.0,H583,H583.00,367542003.0,2670764010.0,M316,Pulmonary eosinophilia
+Systemic connective tissue disorders,1787110010.0,G7552,G755200,400130008.0,1787110010.0,M316,Horton's disease
+Systemic connective tissue disorders,300584016.0,G755z,G755z00,414341000.0,2534171012.0,M316,Giant cell arteritis NOS
+Systemic connective tissue disorders,1787109017.0,G7550,G755000,400130008.0,1787109017.0,M316,Cranial arteritis
+Systemic connective tissue disorders,422991000006117.0,Fyu77,Fyu7700,193177003.0,297540015.0,M316,[X]Polyneuropathy/systemic connective tissue disorders CE
+Systemic connective tissue disorders,312576015.0,Nyu41,Nyu4100,414341000.0,2534171012.0,M316,[X]Other giant cell arteritis
+Systemic connective tissue disorders,6298421000006116.0,^ESCTEO629842,,367542003.0,492714018.0,M316,Eosinophilic asthma
+Systemic connective tissue disorders,301739012.0,H583z,H583z00,367542003.0,492714018.0,M317,Pulmonary eosinophilia NOS
+Systemic connective tissue disorders,6298471000006115.0,^ESCTAN629847,,367542003.0,1228709010.0,M317,Andrews syndrome
+Systemic connective tissue disorders,6298441000006111.0,^ESCTPI629844,,367542003.0,1228706015.0,M317,PIE - Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,6298451000006113.0,^ESCTPU629845,,367542003.0,1228707012.0,M317,Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,297545013.0,F371z,F371z00,193177003.0,297540015.0,M317,Polyneuropathy in collagen vascular disease NOS
+Systemic connective tissue disorders,6298431000006118.0,^ESCTEP629843,,367542003.0,1228705016.0,M317,EP - Eosinophilic pneumonia
+Systemic connective tissue disorders,6298461000006110.0,^ESCTEO629846,,367542003.0,1228708019.0,M317,Eosinophilic pneumonia
+Systemic connective tissue disorders,4770431000006110.0,^ESCTNE477043,,193177003.0,297541016.0,M317,Neuropathy in vasculitis and connective tissue disease
+Systemic connective tissue disorders,297540015.0,F371,F371.00,193177003.0,297540015.0,M317,Polyneuropathy in collagen vascular disease
+Systemic connective tissue disorders,2670764010.0,H583,H583.00,367542003.0,2670764010.0,M317,Pulmonary eosinophilia
+Systemic connective tissue disorders,2157271000000115.2,G75A,G75A.00,829821000000102.0,2157271000000115.2,M317,Microscopic polyangiitis
+Systemic connective tissue disorders,422991000006117.0,Fyu77,Fyu7700,193177003.0,297540015.0,M317,[X]Polyneuropathy/systemic connective tissue disorders CE
+Systemic connective tissue disorders,6298421000006116.0,^ESCTEO629842,,367542003.0,492714018.0,M317,Eosinophilic asthma
+Systemic connective tissue disorders,301739012.0,H583z,H583z00,367542003.0,492714018.0,M318,Pulmonary eosinophilia NOS
+Systemic connective tissue disorders,5141541000006114.0,^ESCTPR514154,,239933000.0,359505017.0,M318,Primary necrotising vasculitis with granulomata
+Systemic connective tissue disorders,6298471000006115.0,^ESCTAN629847,,367542003.0,1228709010.0,M318,Andrews syndrome
+Systemic connective tissue disorders,3015291000006114.0,^ESCTAN301529,,31996006.0,53460018.0,M318,Angiitis
+Systemic connective tissue disorders,5141571000006118.0,^ESCTPR514157,,239933000.0,359507013.0,M318,Primary necrotising arteritis with granulomata
+Systemic connective tissue disorders,6298441000006111.0,^ESCTPI629844,,367542003.0,1228706015.0,M318,PIE - Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,6298451000006113.0,^ESCTPU629845,,367542003.0,1228707012.0,M318,Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,5141561000006113.0,^ESCTPR514156,,239933000.0,359506016.0,M318,Primary necrotizing arteritis with granulomata
+Systemic connective tissue disorders,297545013.0,F371z,F371z00,193177003.0,297540015.0,M318,Polyneuropathy in collagen vascular disease NOS
+Systemic connective tissue disorders,6298431000006118.0,^ESCTEP629843,,367542003.0,1228705016.0,M318,EP - Eosinophilic pneumonia
+Systemic connective tissue disorders,6298461000006110.0,^ESCTEO629846,,367542003.0,1228708019.0,M318,Eosinophilic pneumonia
+Systemic connective tissue disorders,4770431000006110.0,^ESCTNE477043,,193177003.0,297541016.0,M318,Neuropathy in vasculitis and connective tissue disease
+Systemic connective tissue disorders,53457013.0,G76B,G76B.00,31996006.0,53457013.0,M318,Vasculitis
+Systemic connective tissue disorders,297540015.0,F371,F371.00,193177003.0,297540015.0,M318,Polyneuropathy in collagen vascular disease
+Systemic connective tissue disorders,2670764010.0,H583,H583.00,367542003.0,2670764010.0,M318,Pulmonary eosinophilia
+Systemic connective tissue disorders,422991000006117.0,Fyu77,Fyu7700,193177003.0,297540015.0,M318,[X]Polyneuropathy/systemic connective tissue disorders CE
+Systemic connective tissue disorders,5141551000006111.0,^ESCTPR514155,,239933000.0,359504018.0,M318,Primary necrotizing vasculitis with granulomata
+Systemic connective tissue disorders,6298421000006116.0,^ESCTEO629842,,367542003.0,492714018.0,M318,Eosinophilic asthma
+Systemic connective tissue disorders,1783725016.0,G750-1,G750.11,239933000.0,359505017.0,M318,Necrotising angiitis
+Systemic connective tissue disorders,301739012.0,H583z,H583z00,367542003.0,492714018.0,M319,Pulmonary eosinophilia NOS
+Systemic connective tissue disorders,6298471000006115.0,^ESCTAN629847,,367542003.0,1228709010.0,M319,Andrews syndrome
+Systemic connective tissue disorders,6298441000006111.0,^ESCTPI629844,,367542003.0,1228706015.0,M319,PIE - Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,6298451000006113.0,^ESCTPU629845,,367542003.0,1228707012.0,M319,Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,297545013.0,F371z,F371z00,193177003.0,297540015.0,M319,Polyneuropathy in collagen vascular disease NOS
+Systemic connective tissue disorders,6298431000006118.0,^ESCTEP629843,,367542003.0,1228705016.0,M319,EP - Eosinophilic pneumonia
+Systemic connective tissue disorders,6298461000006110.0,^ESCTEO629846,,367542003.0,1228708019.0,M319,Eosinophilic pneumonia
+Systemic connective tissue disorders,4770431000006110.0,^ESCTNE477043,,193177003.0,297541016.0,M319,Neuropathy in vasculitis and connective tissue disease
+Systemic connective tissue disorders,297540015.0,F371,F371.00,193177003.0,297540015.0,M319,Polyneuropathy in collagen vascular disease
+Systemic connective tissue disorders,2670764010.0,H583,H583.00,367542003.0,2670764010.0,M319,Pulmonary eosinophilia
+Systemic connective tissue disorders,422991000006117.0,Fyu77,Fyu7700,193177003.0,297540015.0,M319,[X]Polyneuropathy/systemic connective tissue disorders CE
+Systemic connective tissue disorders,6298421000006116.0,^ESCTEO629842,,367542003.0,492714018.0,M319,Eosinophilic asthma
+Systemic connective tissue disorders,301739012.0,H583z,H583z00,367542003.0,492714018.0,M320,Pulmonary eosinophilia NOS
+Systemic connective tissue disorders,309408013.0,N000z,N000z00,55464009.0,92208011.0,M320,Systemic lupus erythematosus NOS
+Systemic connective tissue disorders,312579010.0,Nyu43,Nyu4300,55464009.0,92208011.0,M320,[X]Other forms of systemic lupus erythematosus
+Systemic connective tissue disorders,308709013.0,M154z,M154z00,200936003.0,308697013.0,M320,Lupus erythematosus NOS
+Systemic connective tissue disorders,6298471000006115.0,^ESCTAN629847,,367542003.0,1228709010.0,M320,Andrews syndrome
+Systemic connective tissue disorders,4805601000006115.0,^ESCTLU480560,,200936003.0,308699011.0,M320,Lupus
+Systemic connective tissue disorders,6298441000006111.0,^ESCTPI629844,,367542003.0,1228706015.0,M320,PIE - Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,6298451000006113.0,^ESCTPU629845,,367542003.0,1228707012.0,M320,Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,297545013.0,F371z,F371z00,193177003.0,297540015.0,M320,Polyneuropathy in collagen vascular disease NOS
+Systemic connective tissue disorders,3400601000006117.0,^ESCTSL340060,,55464009.0,1231480012.0,M320,SLE - Systemic lupus erythematosus
+Systemic connective tissue disorders,6298431000006118.0,^ESCTEP629843,,367542003.0,1228705016.0,M320,EP - Eosinophilic pneumonia
+Systemic connective tissue disorders,6298461000006110.0,^ESCTEO629846,,367542003.0,1228708019.0,M320,Eosinophilic pneumonia
+Systemic connective tissue disorders,4770431000006110.0,^ESCTNE477043,,193177003.0,297541016.0,M320,Neuropathy in vasculitis and connective tissue disease
+Systemic connective tissue disorders,92209015.0,N0000,N000000,55464009.0,92209015.0,M320,Disseminated lupus erythematosus
+Systemic connective tissue disorders,297540015.0,F371,F371.00,193177003.0,297540015.0,M320,Polyneuropathy in collagen vascular disease
+Systemic connective tissue disorders,309405011.0,N0002,N000200,201436003.0,309405011.0,M320,Drug-induced systemic lupus erythematosus
+Systemic connective tissue disorders,2670764010.0,H583,H583.00,367542003.0,2670764010.0,M320,Pulmonary eosinophilia
+Systemic connective tissue disorders,308697013.0,M154,M154.00,200936003.0,308697013.0,M320,Lupus erythematosus
+Systemic connective tissue disorders,422991000006117.0,Fyu77,Fyu7700,193177003.0,297540015.0,M320,[X]Polyneuropathy/systemic connective tissue disorders CE
+Systemic connective tissue disorders,4805591000006111.0,^ESCTLE480559,,200936003.0,308698015.0,M320,LE - Lupus erythematosus
+Systemic connective tissue disorders,6298421000006116.0,^ESCTEO629842,,367542003.0,492714018.0,M320,Eosinophilic asthma
+Systemic connective tissue disorders,92208011.0,N000,N000.00,55464009.0,92208011.0,M320,Systemic lupus erythematosus
+Systemic connective tissue disorders,301724011.0,H58,H58..00,19829001.0,2470037012.0,M321,Other diseases of lung
+Systemic connective tissue disorders,301739012.0,H583z,H583z00,367542003.0,492714018.0,M321,Pulmonary eosinophilia NOS
+Systemic connective tissue disorders,301863012.0,Hyu81,Hyu8100,19829001.0,2470037012.0,M321,[X]Other disorders of lung
+Systemic connective tissue disorders,309408013.0,N000z,N000z00,55464009.0,92208011.0,M321,Systemic lupus erythematosus NOS
+Systemic connective tissue disorders,312579010.0,Nyu43,Nyu4300,55464009.0,92208011.0,M321,[X]Other forms of systemic lupus erythematosus
+Systemic connective tissue disorders,308709013.0,M154z,M154z00,200936003.0,308697013.0,M321,Lupus erythematosus NOS
+Systemic connective tissue disorders,114251000006118.0,N0003,N000300,239887007.0,359443016.0,M321,Systemic lupus erythematosus with organ or sys involv
+Systemic connective tissue disorders,6298471000006115.0,^ESCTAN629847,,367542003.0,1228709010.0,M321,Andrews syndrome
+Systemic connective tissue disorders,4805601000006115.0,^ESCTLU480560,,200936003.0,308699011.0,M321,Lupus
+Systemic connective tissue disorders,6298441000006111.0,^ESCTPI629844,,367542003.0,1228706015.0,M321,PIE - Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,2814781000006110.0,^ESCTLU281478,,19829001.0,33388017.0,M321,Lung disorder
+Systemic connective tissue disorders,6298451000006113.0,^ESCTPU629845,,367542003.0,1228707012.0,M321,Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,2814791000006113.0,^ESCTPU281479,,19829001.0,33389013.0,M321,Pulmonary disease
+Systemic connective tissue disorders,297545013.0,F371z,F371z00,193177003.0,297540015.0,M321,Polyneuropathy in collagen vascular disease NOS
+Systemic connective tissue disorders,301761019.0,H58z,H58z.00,19829001.0,2470037012.0,M321,Lung disease NOS
+Systemic connective tissue disorders,3400601000006117.0,^ESCTSL340060,,55464009.0,1231480012.0,M321,SLE - Systemic lupus erythematosus
+Systemic connective tissue disorders,6298431000006118.0,^ESCTEP629843,,367542003.0,1228705016.0,M321,EP - Eosinophilic pneumonia
+Systemic connective tissue disorders,6298461000006110.0,^ESCTEO629846,,367542003.0,1228708019.0,M321,Eosinophilic pneumonia
+Systemic connective tissue disorders,4770431000006110.0,^ESCTNE477043,,193177003.0,297541016.0,M321,Neuropathy in vasculitis and connective tissue disease
+Systemic connective tissue disorders,92209015.0,N0000,N000000,55464009.0,92209015.0,M321,Disseminated lupus erythematosus
+Systemic connective tissue disorders,297540015.0,F371,F371.00,193177003.0,297540015.0,M321,Polyneuropathy in collagen vascular disease
+Systemic connective tissue disorders,2670764010.0,H583,H583.00,367542003.0,2670764010.0,M321,Pulmonary eosinophilia
+Systemic connective tissue disorders,313676017.0,P86,P86..00,19829001.0,2470037012.0,M321,Other lung anomalies
+Systemic connective tissue disorders,308697013.0,M154,M154.00,200936003.0,308697013.0,M321,Lupus erythematosus
+Systemic connective tissue disorders,422991000006117.0,Fyu77,Fyu7700,193177003.0,297540015.0,M321,[X]Polyneuropathy/systemic connective tissue disorders CE
+Systemic connective tissue disorders,4805591000006111.0,^ESCTLE480559,,200936003.0,308698015.0,M321,LE - Lupus erythematosus
+Systemic connective tissue disorders,6298421000006116.0,^ESCTEO629842,,367542003.0,492714018.0,M321,Eosinophilic asthma
+Systemic connective tissue disorders,92208011.0,N000,N000.00,55464009.0,92208011.0,M321,Systemic lupus erythematosus
+Systemic connective tissue disorders,301739012.0,H583z,H583z00,367542003.0,492714018.0,M328,Pulmonary eosinophilia NOS
+Systemic connective tissue disorders,309408013.0,N000z,N000z00,55464009.0,92208011.0,M328,Systemic lupus erythematosus NOS
+Systemic connective tissue disorders,312579010.0,Nyu43,Nyu4300,55464009.0,92208011.0,M328,[X]Other forms of systemic lupus erythematosus
+Systemic connective tissue disorders,308709013.0,M154z,M154z00,200936003.0,308697013.0,M328,Lupus erythematosus NOS
+Systemic connective tissue disorders,643341000006118.0,7B1D4,7B1D400,176101004.0,272622012.0,M328,Endoscopic dilatation of ureteric orifice
+Systemic connective tissue disorders,6298471000006115.0,^ESCTAN629847,,367542003.0,1228709010.0,M328,Andrews syndrome
+Systemic connective tissue disorders,4805601000006115.0,^ESCTLU480560,,200936003.0,308699011.0,M328,Lupus
+Systemic connective tissue disorders,6298441000006111.0,^ESCTPI629844,,367542003.0,1228706015.0,M328,PIE - Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,6298451000006113.0,^ESCTPU629845,,367542003.0,1228707012.0,M328,Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,4670541000006110.0,^ESCTCY467054,,176101004.0,272622012.0,M328,Cystoscopic dilatation of ureteric orifice
+Systemic connective tissue disorders,297545013.0,F371z,F371z00,193177003.0,297540015.0,M328,Polyneuropathy in collagen vascular disease NOS
+Systemic connective tissue disorders,3400601000006117.0,^ESCTSL340060,,55464009.0,1231480012.0,M328,SLE - Systemic lupus erythematosus
+Systemic connective tissue disorders,6298431000006118.0,^ESCTEP629843,,367542003.0,1228705016.0,M328,EP - Eosinophilic pneumonia
+Systemic connective tissue disorders,6298461000006110.0,^ESCTEO629846,,367542003.0,1228708019.0,M328,Eosinophilic pneumonia
+Systemic connective tissue disorders,4770431000006110.0,^ESCTNE477043,,193177003.0,297541016.0,M328,Neuropathy in vasculitis and connective tissue disease
+Systemic connective tissue disorders,92209015.0,N0000,N000000,55464009.0,92209015.0,M328,Disseminated lupus erythematosus
+Systemic connective tissue disorders,297540015.0,F371,F371.00,193177003.0,297540015.0,M328,Polyneuropathy in collagen vascular disease
+Systemic connective tissue disorders,2670764010.0,H583,H583.00,367542003.0,2670764010.0,M328,Pulmonary eosinophilia
+Systemic connective tissue disorders,308697013.0,M154,M154.00,200936003.0,308697013.0,M328,Lupus erythematosus
+Systemic connective tissue disorders,158372014.0,N0005,N000500,95609003.0,158372014.0,M328,Neonatal lupus erythematosus
+Systemic connective tissue disorders,422991000006117.0,Fyu77,Fyu7700,193177003.0,297540015.0,M328,[X]Polyneuropathy/systemic connective tissue disorders CE
+Systemic connective tissue disorders,4059661000006111.0,^ESCTNE405966,,95609003.0,1235928017.0,M328,Neonatal lupus
+Systemic connective tissue disorders,4805591000006111.0,^ESCTLE480559,,200936003.0,308698015.0,M328,LE - Lupus erythematosus
+Systemic connective tissue disorders,6298421000006116.0,^ESCTEO629842,,367542003.0,492714018.0,M328,Eosinophilic asthma
+Systemic connective tissue disorders,92208011.0,N000,N000.00,55464009.0,92208011.0,M328,Systemic lupus erythematosus
+Systemic connective tissue disorders,301739012.0,H583z,H583z00,367542003.0,492714018.0,M329,Pulmonary eosinophilia NOS
+Systemic connective tissue disorders,309408013.0,N000z,N000z00,55464009.0,92208011.0,M329,Systemic lupus erythematosus NOS
+Systemic connective tissue disorders,312579010.0,Nyu43,Nyu4300,55464009.0,92208011.0,M329,[X]Other forms of systemic lupus erythematosus
+Systemic connective tissue disorders,308709013.0,M154z,M154z00,200936003.0,308697013.0,M329,Lupus erythematosus NOS
+Systemic connective tissue disorders,6298471000006115.0,^ESCTAN629847,,367542003.0,1228709010.0,M329,Andrews syndrome
+Systemic connective tissue disorders,4805601000006115.0,^ESCTLU480560,,200936003.0,308699011.0,M329,Lupus
+Systemic connective tissue disorders,6298441000006111.0,^ESCTPI629844,,367542003.0,1228706015.0,M329,PIE - Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,6298451000006113.0,^ESCTPU629845,,367542003.0,1228707012.0,M329,Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,297545013.0,F371z,F371z00,193177003.0,297540015.0,M329,Polyneuropathy in collagen vascular disease NOS
+Systemic connective tissue disorders,3400601000006117.0,^ESCTSL340060,,55464009.0,1231480012.0,M329,SLE - Systemic lupus erythematosus
+Systemic connective tissue disorders,6298431000006118.0,^ESCTEP629843,,367542003.0,1228705016.0,M329,EP - Eosinophilic pneumonia
+Systemic connective tissue disorders,6298461000006110.0,^ESCTEO629846,,367542003.0,1228708019.0,M329,Eosinophilic pneumonia
+Systemic connective tissue disorders,4770431000006110.0,^ESCTNE477043,,193177003.0,297541016.0,M329,Neuropathy in vasculitis and connective tissue disease
+Systemic connective tissue disorders,92209015.0,N0000,N000000,55464009.0,92209015.0,M329,Disseminated lupus erythematosus
+Systemic connective tissue disorders,297540015.0,F371,F371.00,193177003.0,297540015.0,M329,Polyneuropathy in collagen vascular disease
+Systemic connective tissue disorders,2670764010.0,H583,H583.00,367542003.0,2670764010.0,M329,Pulmonary eosinophilia
+Systemic connective tissue disorders,308697013.0,M154,M154.00,200936003.0,308697013.0,M329,Lupus erythematosus
+Systemic connective tissue disorders,422991000006117.0,Fyu77,Fyu7700,193177003.0,297540015.0,M329,[X]Polyneuropathy/systemic connective tissue disorders CE
+Systemic connective tissue disorders,4805591000006111.0,^ESCTLE480559,,200936003.0,308698015.0,M329,LE - Lupus erythematosus
+Systemic connective tissue disorders,6298421000006116.0,^ESCTEO629842,,367542003.0,492714018.0,M329,Eosinophilic asthma
+Systemic connective tissue disorders,92208011.0,N000,N000.00,55464009.0,92208011.0,M329,Systemic lupus erythematosus
+Systemic connective tissue disorders,301739012.0,H583z,H583z00,367542003.0,492714018.0,M330,Pulmonary eosinophilia NOS
+Systemic connective tissue disorders,6298471000006115.0,^ESCTAN629847,,367542003.0,1228709010.0,M330,Andrews syndrome
+Systemic connective tissue disorders,6298441000006111.0,^ESCTPI629844,,367542003.0,1228706015.0,M330,PIE - Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,6298451000006113.0,^ESCTPU629845,,367542003.0,1228707012.0,M330,Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,2517761000006112.0,^ESCTCH251776,,1212005.0,3151017.0,M330,Childhood type dermatomyositis
+Systemic connective tissue disorders,297545013.0,F371z,F371z00,193177003.0,297540015.0,M330,Polyneuropathy in collagen vascular disease NOS
+Systemic connective tissue disorders,6298431000006118.0,^ESCTEP629843,,367542003.0,1228705016.0,M330,EP - Eosinophilic pneumonia
+Systemic connective tissue disorders,6298461000006110.0,^ESCTEO629846,,367542003.0,1228708019.0,M330,Eosinophilic pneumonia
+Systemic connective tissue disorders,4770431000006110.0,^ESCTNE477043,,193177003.0,297541016.0,M330,Neuropathy in vasculitis and connective tissue disease
+Systemic connective tissue disorders,297540015.0,F371,F371.00,193177003.0,297540015.0,M330,Polyneuropathy in collagen vascular disease
+Systemic connective tissue disorders,2670764010.0,H583,H583.00,367542003.0,2670764010.0,M330,Pulmonary eosinophilia
+Systemic connective tissue disorders,1784692011.0,N0030,N003000,1212005.0,1784692011.0,M330,Juvenile dermatomyositis
+Systemic connective tissue disorders,422991000006117.0,Fyu77,Fyu7700,193177003.0,297540015.0,M330,[X]Polyneuropathy/systemic connective tissue disorders CE
+Systemic connective tissue disorders,6298421000006116.0,^ESCTEO629842,,367542003.0,492714018.0,M330,Eosinophilic asthma
+Systemic connective tissue disorders,301739012.0,H583z,H583z00,367542003.0,492714018.0,M331,Pulmonary eosinophilia NOS
+Systemic connective tissue disorders,312580013.0,Nyu44,Nyu4400,396230008.0,1776211019.0,M331,[X]Other dermatomyositis
+Systemic connective tissue disorders,614691000006113.0,N003X,N003X00,396230008.0,1776211019.0,M331,"Dermatopolymyositis, unspecified"
+Systemic connective tissue disorders,5716441000006118.0,^ESCTNE571644,,286559005.0,425934013.0,M331,Nephroscopic ureteric stent procedure
+Systemic connective tissue disorders,312591018.0,Nyu4E,Nyu4E00,396230008.0,1776211019.0,M331,"[X]Dermatopolymyositis, unspecified"
+Systemic connective tissue disorders,6298471000006115.0,^ESCTAN629847,,367542003.0,1228709010.0,M331,Andrews syndrome
+Systemic connective tissue disorders,6566131000006119.0,^ESCTPO656613,,396230008.0,1785513018.0,M331,Polymyositis with skin involvement
+Systemic connective tissue disorders,6298441000006111.0,^ESCTPI629844,,367542003.0,1228706015.0,M331,PIE - Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,6298451000006113.0,^ESCTPU629845,,367542003.0,1228707012.0,M331,Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,366771000000110.0,7B1Ez,7B1Ez00,286559005.0,425933019.0,M331,Percutaneous ureteric stent procedures NOS
+Systemic connective tissue disorders,297545013.0,F371z,F371z00,193177003.0,297540015.0,M331,Polyneuropathy in collagen vascular disease NOS
+Systemic connective tissue disorders,6298431000006118.0,^ESCTEP629843,,367542003.0,1228705016.0,M331,EP - Eosinophilic pneumonia
+Systemic connective tissue disorders,6298461000006110.0,^ESCTEO629846,,367542003.0,1228708019.0,M331,Eosinophilic pneumonia
+Systemic connective tissue disorders,4770431000006110.0,^ESCTNE477043,,193177003.0,297541016.0,M331,Neuropathy in vasculitis and connective tissue disease
+Systemic connective tissue disorders,6566121000006117.0,^ESCTWA656612,,396230008.0,1785512011.0,M331,Wagner-Unverricht syndrome
+Systemic connective tissue disorders,297540015.0,F371,F371.00,193177003.0,297540015.0,M331,Polyneuropathy in collagen vascular disease
+Systemic connective tissue disorders,1776211019.0,N003,N003.00,396230008.0,1776211019.0,M331,Dermatomyositis
+Systemic connective tissue disorders,2670764010.0,H583,H583.00,367542003.0,2670764010.0,M331,Pulmonary eosinophilia
+Systemic connective tissue disorders,366751000000118.0,7B1Ey,7B1Ey00,286559005.0,425933019.0,M331,Other specified percutaneous ureteric stent procedures
+Systemic connective tissue disorders,422991000006117.0,Fyu77,Fyu7700,193177003.0,297540015.0,M331,[X]Polyneuropathy/systemic connective tissue disorders CE
+Systemic connective tissue disorders,1550191000006113.0,7B1E,7B1E.00,286559005.0,425933019.0,M331,Percutaneous ureteric stent procedures
+Systemic connective tissue disorders,143230018.0,N003-1,N003.11,396230008.0,1776211019.0,M331,Poikilodermatomyositis
+Systemic connective tissue disorders,6298421000006116.0,^ESCTEO629842,,367542003.0,492714018.0,M331,Eosinophilic asthma
+Systemic connective tissue disorders,6566141000006112.0,^ESCTDM656614,,396230008.0,1785514012.0,M331,DM - Dermatomyositis
+Systemic connective tissue disorders,301739012.0,H583z,H583z00,367542003.0,492714018.0,M332,Pulmonary eosinophilia NOS
+Systemic connective tissue disorders,3005741000006110.0,^ESCTNE300574,,31384009.0,196850017.0,M332,Neuromyositis
+Systemic connective tissue disorders,5716441000006118.0,^ESCTNE571644,,286559005.0,425934013.0,M332,Nephroscopic ureteric stent procedure
+Systemic connective tissue disorders,4782451000006111.0,^ESCTPO478245,,196136009.0,3312135011.0,M332,Polymyositis with pulmonary involvement
+Systemic connective tissue disorders,6298471000006115.0,^ESCTAN629847,,367542003.0,1228709010.0,M332,Andrews syndrome
+Systemic connective tissue disorders,6298441000006111.0,^ESCTPI629844,,367542003.0,1228706015.0,M332,PIE - Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,6298451000006113.0,^ESCTPU629845,,367542003.0,1228707012.0,M332,Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,4782441000006114.0,^ESCTLU478244,,196136009.0,3312134010.0,M332,Lung disease co-occurrent with polymyositis
+Systemic connective tissue disorders,366771000000110.0,7B1Ez,7B1Ez00,286559005.0,425933019.0,M332,Percutaneous ureteric stent procedures NOS
+Systemic connective tissue disorders,297545013.0,F371z,F371z00,193177003.0,297540015.0,M332,Polyneuropathy in collagen vascular disease NOS
+Systemic connective tissue disorders,6298431000006118.0,^ESCTEP629843,,367542003.0,1228705016.0,M332,EP - Eosinophilic pneumonia
+Systemic connective tissue disorders,6298461000006110.0,^ESCTEO629846,,367542003.0,1228708019.0,M332,Eosinophilic pneumonia
+Systemic connective tissue disorders,4770431000006110.0,^ESCTNE477043,,193177003.0,297541016.0,M332,Neuropathy in vasculitis and connective tissue disease
+Systemic connective tissue disorders,297540015.0,F371,F371.00,193177003.0,297540015.0,M332,Polyneuropathy in collagen vascular disease
+Systemic connective tissue disorders,301719013.0,H57y1,H57y100,196136009.0,301719013.0,M332,Lung disease with polymyositis
+Systemic connective tissue disorders,2670764010.0,H583,H583.00,367542003.0,2670764010.0,M332,Pulmonary eosinophilia
+Systemic connective tissue disorders,366751000000118.0,7B1Ey,7B1Ey00,286559005.0,425933019.0,M332,Other specified percutaneous ureteric stent procedures
+Systemic connective tissue disorders,422991000006117.0,Fyu77,Fyu7700,193177003.0,297540015.0,M332,[X]Polyneuropathy/systemic connective tissue disorders CE
+Systemic connective tissue disorders,1550191000006113.0,7B1E,7B1E.00,286559005.0,425933019.0,M332,Percutaneous ureteric stent procedures
+Systemic connective tissue disorders,3005751000006112.0,^ESCTPM300575,,31384009.0,484857016.0,M332,PM - Polymyositis
+Systemic connective tissue disorders,6298421000006116.0,^ESCTEO629842,,367542003.0,492714018.0,M332,Eosinophilic asthma
+Systemic connective tissue disorders,52463013.0,N004,N004.00,31384009.0,52463013.0,M332,Polymyositis
+Systemic connective tissue disorders,301739012.0,H583z,H583z00,367542003.0,492714018.0,M339,Pulmonary eosinophilia NOS
+Systemic connective tissue disorders,312580013.0,Nyu44,Nyu4400,396230008.0,1776211019.0,M339,[X]Other dermatomyositis
+Systemic connective tissue disorders,614691000006113.0,N003X,N003X00,396230008.0,1776211019.0,M339,"Dermatopolymyositis, unspecified"
+Systemic connective tissue disorders,3005741000006110.0,^ESCTNE300574,,31384009.0,196850017.0,M339,Neuromyositis
+Systemic connective tissue disorders,5716441000006118.0,^ESCTNE571644,,286559005.0,425934013.0,M339,Nephroscopic ureteric stent procedure
+Systemic connective tissue disorders,312591018.0,Nyu4E,Nyu4E00,396230008.0,1776211019.0,M339,"[X]Dermatopolymyositis, unspecified"
+Systemic connective tissue disorders,6298471000006115.0,^ESCTAN629847,,367542003.0,1228709010.0,M339,Andrews syndrome
+Systemic connective tissue disorders,6566131000006119.0,^ESCTPO656613,,396230008.0,1785513018.0,M339,Polymyositis with skin involvement
+Systemic connective tissue disorders,6298441000006111.0,^ESCTPI629844,,367542003.0,1228706015.0,M339,PIE - Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,6298451000006113.0,^ESCTPU629845,,367542003.0,1228707012.0,M339,Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,366771000000110.0,7B1Ez,7B1Ez00,286559005.0,425933019.0,M339,Percutaneous ureteric stent procedures NOS
+Systemic connective tissue disorders,297545013.0,F371z,F371z00,193177003.0,297540015.0,M339,Polyneuropathy in collagen vascular disease NOS
+Systemic connective tissue disorders,6298431000006118.0,^ESCTEP629843,,367542003.0,1228705016.0,M339,EP - Eosinophilic pneumonia
+Systemic connective tissue disorders,6298461000006110.0,^ESCTEO629846,,367542003.0,1228708019.0,M339,Eosinophilic pneumonia
+Systemic connective tissue disorders,4770431000006110.0,^ESCTNE477043,,193177003.0,297541016.0,M339,Neuropathy in vasculitis and connective tissue disease
+Systemic connective tissue disorders,6566121000006117.0,^ESCTWA656612,,396230008.0,1785512011.0,M339,Wagner-Unverricht syndrome
+Systemic connective tissue disorders,297540015.0,F371,F371.00,193177003.0,297540015.0,M339,Polyneuropathy in collagen vascular disease
+Systemic connective tissue disorders,1776211019.0,N003,N003.00,396230008.0,1776211019.0,M339,Dermatomyositis
+Systemic connective tissue disorders,2670764010.0,H583,H583.00,367542003.0,2670764010.0,M339,Pulmonary eosinophilia
+Systemic connective tissue disorders,366751000000118.0,7B1Ey,7B1Ey00,286559005.0,425933019.0,M339,Other specified percutaneous ureteric stent procedures
+Systemic connective tissue disorders,422991000006117.0,Fyu77,Fyu7700,193177003.0,297540015.0,M339,[X]Polyneuropathy/systemic connective tissue disorders CE
+Systemic connective tissue disorders,1550191000006113.0,7B1E,7B1E.00,286559005.0,425933019.0,M339,Percutaneous ureteric stent procedures
+Systemic connective tissue disorders,3005751000006112.0,^ESCTPM300575,,31384009.0,484857016.0,M339,PM - Polymyositis
+Systemic connective tissue disorders,143230018.0,N003-1,N003.11,396230008.0,1776211019.0,M339,Poikilodermatomyositis
+Systemic connective tissue disorders,6298421000006116.0,^ESCTEO629842,,367542003.0,492714018.0,M339,Eosinophilic asthma
+Systemic connective tissue disorders,6566141000006112.0,^ESCTDM656614,,396230008.0,1785514012.0,M339,DM - Dermatomyositis
+Systemic connective tissue disorders,52463013.0,N004,N004.00,31384009.0,52463013.0,M339,Polymyositis
+Systemic connective tissue disorders,301739012.0,H583z,H583z00,367542003.0,492714018.0,M340,Pulmonary eosinophilia NOS
+Systemic connective tissue disorders,312581012.0,Nyu45,Nyu4500,89155008.0,147833014.0,M340,[X]Other forms of systemic sclerosis
+Systemic connective tissue disorders,7288571000006115.0,^ESCTPS728857,,444133002.0,2840902011.0,M340,PSS - Progressive systemic sclerosis
+Systemic connective tissue disorders,6298471000006115.0,^ESCTAN629847,,367542003.0,1228709010.0,M340,Andrews syndrome
+Systemic connective tissue disorders,3949121000006118.5,^ESCTSC394912,,89155008.0,508374010.0,M340,Scleroderma syndrome
+Systemic connective tissue disorders,6298441000006111.0,^ESCTPI629844,,367542003.0,1228706015.0,M340,PIE - Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,3949111000006113.5,^ESCTTH394911,,89155008.0,508372014.0,M340,Thibierge-Weissenbach syndrome
+Systemic connective tissue disorders,6298451000006113.0,^ESCTPU629845,,367542003.0,1228707012.0,M340,Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,3949101000006111.0,^ESCTSY394910,,89155008.0,201443013.0,M340,Systemic scleroderma
+Systemic connective tissue disorders,309413012.0,N001,N001.00,89155008.0,147835019.0,M340,Scleroderma
+Systemic connective tissue disorders,147833014.0,N001-2,N001.12,89155008.0,147833014.0,M340,Systemic sclerosis
+Systemic connective tissue disorders,297545013.0,F371z,F371z00,193177003.0,297540015.0,M340,Polyneuropathy in collagen vascular disease NOS
+Systemic connective tissue disorders,6298431000006118.0,^ESCTEP629843,,367542003.0,1228705016.0,M340,EP - Eosinophilic pneumonia
+Systemic connective tissue disorders,6298461000006110.0,^ESCTEO629846,,367542003.0,1228708019.0,M340,Eosinophilic pneumonia
+Systemic connective tissue disorders,4770431000006110.0,^ESCTNE477043,,193177003.0,297541016.0,M340,Neuropathy in vasculitis and connective tissue disease
+Systemic connective tissue disorders,3949131000006115.0,^ESCTSS394913,,89155008.0,508375011.0,M340,SS - Systemic sclerosis
+Systemic connective tissue disorders,147834015.0,N0010,N001000,444133002.0,2842339011.0,M340,Progressive systemic sclerosis
+Systemic connective tissue disorders,297540015.0,F371,F371.00,193177003.0,297540015.0,M340,Polyneuropathy in collagen vascular disease
+Systemic connective tissue disorders,2670764010.0,H583,H583.00,367542003.0,2670764010.0,M340,Pulmonary eosinophilia
+Systemic connective tissue disorders,422991000006117.0,Fyu77,Fyu7700,193177003.0,297540015.0,M340,[X]Polyneuropathy/systemic connective tissue disorders CE
+Systemic connective tissue disorders,6298421000006116.0,^ESCTEO629842,,367542003.0,492714018.0,M340,Eosinophilic asthma
+Systemic connective tissue disorders,301739012.0,H583z,H583z00,367542003.0,492714018.0,M341,Pulmonary eosinophilia NOS
+Systemic connective tissue disorders,312581012.0,Nyu45,Nyu4500,89155008.0,147833014.0,M341,[X]Other forms of systemic sclerosis
+Systemic connective tissue disorders,3012921000006111.0,^ESCTCA301292,,31848007.0,485057012.0,M341,"Calcinosis cutis, Raynaud's, oesophageal dysfunction, sclerodactyly AND telangiectasia"
+Systemic connective tissue disorders,515061000006119.0,7B2,7B2..00,14861000.0,1221138012.0,M341,Bladder operations
+Systemic connective tissue disorders,3524471000006117.0,^ESCTCO352447,,63016009.0,104743012.0,M341,Complete cystectomy
+Systemic connective tissue disorders,6298471000006115.0,^ESCTAN629847,,367542003.0,1228709010.0,M341,Andrews syndrome
+Systemic connective tissue disorders,3949121000006118.5,^ESCTSC394912,,89155008.0,508374010.0,M341,Scleroderma syndrome
+Systemic connective tissue disorders,6298441000006111.0,^ESCTPI629844,,367542003.0,1228706015.0,M341,PIE - Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,3949111000006113.5,^ESCTTH394911,,89155008.0,508372014.0,M341,Thibierge-Weissenbach syndrome
+Systemic connective tissue disorders,3012951000006119.0,^ESCTCR301295,,31848007.0,1217889016.0,M341,"CREST - Calcinosis, Raynaud's phenomenon, esophageal dysfunction, sclerodactyly, telangiectasia"
+Systemic connective tissue disorders,4151741000006113.5,^ESCTCY415174,,108034003.0,1219383017.0,M341,Cystectomy
+Systemic connective tissue disorders,3524511000006110.0,^ESCTTO352451,,63016009.0,2671749018.0,M341,Total resection of urinary bladder
+Systemic connective tissue disorders,6298451000006113.0,^ESCTPU629845,,367542003.0,1228707012.0,M341,Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,3012961000006117.0,^ESCTCR301296,,31848007.0,1217890013.0,M341,"CREST - Calcinosis, Raynaud's phenomenon, sclerodactyly, esophageal involvement, telangiectasia syndrome"
+Systemic connective tissue disorders,3949101000006111.0,^ESCTSY394910,,89155008.0,201443013.0,M341,Systemic scleroderma
+Systemic connective tissue disorders,3012991000006113.0,^ESCTCA301299,,31848007.0,2837942017.0,M341,"Calcinosis, Raynaud phenomenon, esophageal dysmotility, sclerodactyly, and telangiectasia (CREST) syndrome"
+Systemic connective tissue disorders,1221573019.0,7B20z-99,7B20z99,533151000000102.0,1190391000000116.0,M341,Total cystectomy NOS
+Systemic connective tissue disorders,932491000006110.0,7B35y-99,7B35y99,14861000.0,932491000006110.0,M341,Urinary incontinence/sling opn
+Systemic connective tissue disorders,309413012.0,N001,N001.00,89155008.0,147835019.0,M341,Scleroderma
+Systemic connective tissue disorders,147833014.0,N001-2,N001.12,89155008.0,147833014.0,M341,Systemic sclerosis
+Systemic connective tissue disorders,297545013.0,F371z,F371z00,193177003.0,297540015.0,M341,Polyneuropathy in collagen vascular disease NOS
+Systemic connective tissue disorders,445771010.0,7B36z-1,7B36z11,90470006.0,149934014.0,M341,Prostatectomy NEC
+Systemic connective tissue disorders,6298431000006118.0,^ESCTEP629843,,367542003.0,1228705016.0,M341,EP - Eosinophilic pneumonia
+Systemic connective tissue disorders,6298461000006110.0,^ESCTEO629846,,367542003.0,1228708019.0,M341,Eosinophilic pneumonia
+Systemic connective tissue disorders,4770431000006110.0,^ESCTNE477043,,193177003.0,297541016.0,M341,Neuropathy in vasculitis and connective tissue disease
+Systemic connective tissue disorders,3949131000006115.0,^ESCTSS394913,,89155008.0,508375011.0,M341,SS - Systemic sclerosis
+Systemic connective tissue disorders,53211014.0,N0011,N001100,31848007.0,53211014.0,M341,CREST syndrome
+Systemic connective tissue disorders,60504013.0,7B362-99,7B36299,36253005.0,60504013.0,M341,Suprapubic prostatectomy
+Systemic connective tissue disorders,112263010.0,7B361,7B36100,67598001.0,112263010.0,M341,Retropubic prostatectomy
+Systemic connective tissue disorders,272885014.0,7B36,7B36.00,176258007.0,272885014.0,M341,Open prostatectomy
+Systemic connective tissue disorders,297540015.0,F371,F371.00,193177003.0,297540015.0,M341,Polyneuropathy in collagen vascular disease
+Systemic connective tissue disorders,499449013.0,7B20-1,7B20.11,63016009.0,499449013.0,M341,Total cystectomy
+Systemic connective tissue disorders,2670764010.0,H583,H583.00,367542003.0,2670764010.0,M341,Pulmonary eosinophilia
+Systemic connective tissue disorders,867371000006118.0,7B20-99,7B20.99,63016009.0,867371000006118.0,M341,Radical cystectomy
+Systemic connective tissue disorders,868071000006115.0,7B36-99,7B36.99,176258007.0,868071000006115.0,M341,Prostatectomy
+Systemic connective tissue disorders,988151000006119.0,7B20-98,7B20.98,63016009.0,988151000006119.0,M341,Total cystectomy NOS
+Systemic connective tissue disorders,272631012.0,7B204,7B20400,108034003.0,172473013.0,M341,Cystectomy NEC
+Systemic connective tissue disorders,272793017.0,7B2z,7B2z.00,14861000.0,25243014.0,M341,Bladder operations NOS
+Systemic connective tissue disorders,3524481000006119.0,^ESCTTO352448,,63016009.0,104744018.0,M341,Total resection of bladder
+Systemic connective tissue disorders,3012911000006115.0,^ESCTCA301291,,31848007.0,53213012.0,M341,"Calcinosis cutis, Raynaud's, esophageal dysfunction, sclerodactyly AND telangiectasia"
+Systemic connective tissue disorders,134770016.0,7B202,7B20200,81232004.0,134770016.0,M341,Radical cystoprostatectomy
+Systemic connective tissue disorders,91741000006119.0,7B362,7B36200,36253005.0,1228454010.0,M341,Transvesical prostatectomy
+Systemic connective tissue disorders,422991000006117.0,Fyu77,Fyu7700,193177003.0,297540015.0,M341,[X]Polyneuropathy/systemic connective tissue disorders CE
+Systemic connective tissue disorders,3012981000006110.0,^ESCTCA301298,,31848007.0,2620580018.0,M341,"Calcinosis, Raynaud's phenomenon, esophageal dysmotility, sclerodactyly, and telangiectasia (CREST) syndrome"
+Systemic connective tissue disorders,3599371000006116.0,^ESCTRP359937,,67598001.0,1232949010.0,M341,RPP - Retropubic prostatectomy
+Systemic connective tissue disorders,3012971000006112.0,^ESCTCA301297,,31848007.0,2620579016.0,M341,"Calcinosis, Raynaud's phenomenon, oesophageal dysmotility, sclerodactyly, and telangiectasia (CREST) syndrome"
+Systemic connective tissue disorders,3013001000006114.0,^ESCTCA301300,,31848007.0,2914874013.0,M341,"Calcinosis, Raynaud's phenomenon, esophageal dysmotility, sclerodactyly, and telangiectasia syndrome"
+Systemic connective tissue disorders,3012941000006116.0,^ESCTCR301294,,31848007.0,1216391013.0,M341,"CREST - Calcinosis, Raynaud's phenomenon, sclerodactyly, oesophageal involvement, telangiectasia syndrome"
+Systemic connective tissue disorders,6298421000006116.0,^ESCTEO629842,,367542003.0,492714018.0,M341,Eosinophilic asthma
+Systemic connective tissue disorders,1232948019.0,7B361-1,7B36111,67598001.0,1232948019.0,M341,Millin retropubic prostatectomy
+Systemic connective tissue disorders,3012931000006114.0,^ESCTCR301293,,31848007.0,1216390014.0,M341,"CREST - Calcinosis, Raynaud's phenomenon, oesophageal dysfunction, sclerodactyly, telangiectasia"
+Systemic connective tissue disorders,301739012.0,H583z,H583z00,367542003.0,492714018.0,M342,Pulmonary eosinophilia NOS
+Systemic connective tissue disorders,312581012.0,Nyu45,Nyu4500,89155008.0,147833014.0,M342,[X]Other forms of systemic sclerosis
+Systemic connective tissue disorders,515061000006119.0,7B2,7B2..00,14861000.0,1221138012.0,M342,Bladder operations
+Systemic connective tissue disorders,3524471000006117.0,^ESCTCO352447,,63016009.0,104743012.0,M342,Complete cystectomy
+Systemic connective tissue disorders,6298471000006115.0,^ESCTAN629847,,367542003.0,1228709010.0,M342,Andrews syndrome
+Systemic connective tissue disorders,3949121000006118.5,^ESCTSC394912,,89155008.0,508374010.0,M342,Scleroderma syndrome
+Systemic connective tissue disorders,6298441000006111.0,^ESCTPI629844,,367542003.0,1228706015.0,M342,PIE - Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,3949111000006113.5,^ESCTTH394911,,89155008.0,508372014.0,M342,Thibierge-Weissenbach syndrome
+Systemic connective tissue disorders,4151741000006113.5,^ESCTCY415174,,108034003.0,1219383017.0,M342,Cystectomy
+Systemic connective tissue disorders,3524511000006110.0,^ESCTTO352451,,63016009.0,2671749018.0,M342,Total resection of urinary bladder
+Systemic connective tissue disorders,6298451000006113.0,^ESCTPU629845,,367542003.0,1228707012.0,M342,Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,3949101000006111.0,^ESCTSY394910,,89155008.0,201443013.0,M342,Systemic scleroderma
+Systemic connective tissue disorders,1221573019.0,7B20z-99,7B20z99,533151000000102.0,1190391000000116.0,M342,Total cystectomy NOS
+Systemic connective tissue disorders,932491000006110.0,7B35y-99,7B35y99,14861000.0,932491000006110.0,M342,Urinary incontinence/sling opn
+Systemic connective tissue disorders,309413012.0,N001,N001.00,89155008.0,147835019.0,M342,Scleroderma
+Systemic connective tissue disorders,147833014.0,N001-2,N001.12,89155008.0,147833014.0,M342,Systemic sclerosis
+Systemic connective tissue disorders,297545013.0,F371z,F371z00,193177003.0,297540015.0,M342,Polyneuropathy in collagen vascular disease NOS
+Systemic connective tissue disorders,607151000006118.0,7B205,7B20500,287718008.0,427268013.0,M342,Cystourethrectomy
+Systemic connective tissue disorders,6298431000006118.0,^ESCTEP629843,,367542003.0,1228705016.0,M342,EP - Eosinophilic pneumonia
+Systemic connective tissue disorders,6298461000006110.0,^ESCTEO629846,,367542003.0,1228708019.0,M342,Eosinophilic pneumonia
+Systemic connective tissue disorders,4770431000006110.0,^ESCTNE477043,,193177003.0,297541016.0,M342,Neuropathy in vasculitis and connective tissue disease
+Systemic connective tissue disorders,3949131000006115.0,^ESCTSS394913,,89155008.0,508375011.0,M342,SS - Systemic sclerosis
+Systemic connective tissue disorders,297540015.0,F371,F371.00,193177003.0,297540015.0,M342,Polyneuropathy in collagen vascular disease
+Systemic connective tissue disorders,309416016.0,N0012,N001200,201443009.0,309416016.0,M342,Systemic sclerosis induced by drugs and chemicals
+Systemic connective tissue disorders,499449013.0,7B20-1,7B20.11,63016009.0,499449013.0,M342,Total cystectomy
+Systemic connective tissue disorders,2670764010.0,H583,H583.00,367542003.0,2670764010.0,M342,Pulmonary eosinophilia
+Systemic connective tissue disorders,867371000006118.0,7B20-99,7B20.99,63016009.0,867371000006118.0,M342,Radical cystectomy
+Systemic connective tissue disorders,867391000006117.0,7B201-99,7B20199,176107000.0,867391000006117.0,M342,Total cystectomy +urethrectomy
+Systemic connective tissue disorders,988141000006116.0,7B205-99,7B20599,287718008.0,988141000006116.0,M342,Total cystectomy +urethrectomy
+Systemic connective tissue disorders,988151000006119.0,7B20-98,7B20.98,63016009.0,988151000006119.0,M342,Total cystectomy NOS
+Systemic connective tissue disorders,272631012.0,7B204,7B20400,108034003.0,172473013.0,M342,Cystectomy NEC
+Systemic connective tissue disorders,272793017.0,7B2z,7B2z.00,14861000.0,25243014.0,M342,Bladder operations NOS
+Systemic connective tissue disorders,3524481000006119.0,^ESCTTO352448,,63016009.0,104744018.0,M342,Total resection of bladder
+Systemic connective tissue disorders,272629015.0,7B201,7B20100,176107000.0,272629015.0,M342,Radical cystourethrectomy - female
+Systemic connective tissue disorders,422991000006117.0,Fyu77,Fyu7700,193177003.0,297540015.0,M342,[X]Polyneuropathy/systemic connective tissue disorders CE
+Systemic connective tissue disorders,6298421000006116.0,^ESCTEO629842,,367542003.0,492714018.0,M342,Eosinophilic asthma
+Systemic connective tissue disorders,301739012.0,H583z,H583z00,367542003.0,492714018.0,M348,Pulmonary eosinophilia NOS
+Systemic connective tissue disorders,312581012.0,Nyu45,Nyu4500,89155008.0,147833014.0,M348,[X]Other forms of systemic sclerosis
+Systemic connective tissue disorders,5850801000006113.0,^ESCTSY585080,,298285004.0,438952017.0,M348,Systemic sclerosis with limited cutaneous involvement
+Systemic connective tissue disorders,515061000006119.0,7B2,7B2..00,14861000.0,1221138012.0,M348,Bladder operations
+Systemic connective tissue disorders,3524471000006117.0,^ESCTCO352447,,63016009.0,104743012.0,M348,Complete cystectomy
+Systemic connective tissue disorders,6298471000006115.0,^ESCTAN629847,,367542003.0,1228709010.0,M348,Andrews syndrome
+Systemic connective tissue disorders,3949121000006118.5,^ESCTSC394912,,89155008.0,508374010.0,M348,Scleroderma syndrome
+Systemic connective tissue disorders,6298441000006111.0,^ESCTPI629844,,367542003.0,1228706015.0,M348,PIE - Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,3949111000006113.5,^ESCTTH394911,,89155008.0,508372014.0,M348,Thibierge-Weissenbach syndrome
+Systemic connective tissue disorders,4151741000006113.5,^ESCTCY415174,,108034003.0,1219383017.0,M348,Cystectomy
+Systemic connective tissue disorders,3524511000006110.0,^ESCTTO352451,,63016009.0,2671749018.0,M348,Total resection of urinary bladder
+Systemic connective tissue disorders,6298451000006113.0,^ESCTPU629845,,367542003.0,1228707012.0,M348,Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,3949101000006111.0,^ESCTSY394910,,89155008.0,201443013.0,M348,Systemic scleroderma
+Systemic connective tissue disorders,4770951000006114.0,^ESCTMY477095,,193252005.0,2837579013.0,M348,Myopathy due to systemic sclerosis
+Systemic connective tissue disorders,5850811000006111.0,^ESCTLI585081,,298285004.0,438951012.0,M348,Limited cutaneous systemic sclerosis
+Systemic connective tissue disorders,4782401000006112.0,^ESCTSC478240,,196133001.0,2693851010.0,M348,Scleroderma lung disease
+Systemic connective tissue disorders,1221573019.0,7B20z-99,7B20z99,533151000000102.0,1190391000000116.0,M348,Total cystectomy NOS
+Systemic connective tissue disorders,932491000006110.0,7B35y-99,7B35y99,14861000.0,932491000006110.0,M348,Urinary incontinence/sling opn
+Systemic connective tissue disorders,309413012.0,N001,N001.00,89155008.0,147835019.0,M348,Scleroderma
+Systemic connective tissue disorders,147833014.0,N001-2,N001.12,89155008.0,147833014.0,M348,Systemic sclerosis
+Systemic connective tissue disorders,297545013.0,F371z,F371z00,193177003.0,297540015.0,M348,Polyneuropathy in collagen vascular disease NOS
+Systemic connective tissue disorders,6298431000006118.0,^ESCTEP629843,,367542003.0,1228705016.0,M348,EP - Eosinophilic pneumonia
+Systemic connective tissue disorders,6298461000006110.0,^ESCTEO629846,,367542003.0,1228708019.0,M348,Eosinophilic pneumonia
+Systemic connective tissue disorders,4770431000006110.0,^ESCTNE477043,,193177003.0,297541016.0,M348,Neuropathy in vasculitis and connective tissue disease
+Systemic connective tissue disorders,3949131000006115.0,^ESCTSS394913,,89155008.0,508375011.0,M348,SS - Systemic sclerosis
+Systemic connective tissue disorders,272628011.0,7B200,7B20000,176106009.0,272628011.0,M348,Radical cystoprostatourethrectomy
+Systemic connective tissue disorders,297644019.0,F3966,F396600,193252005.0,297644019.0,M348,Myopathy due to scleroderma
+Systemic connective tissue disorders,297540015.0,F371,F371.00,193177003.0,297540015.0,M348,Polyneuropathy in collagen vascular disease
+Systemic connective tissue disorders,301716018.0,H572,H572.00,196133001.0,301716018.0,M348,Lung disease with systemic sclerosis
+Systemic connective tissue disorders,354512012.0,K0J0,K0J0.00,236502006.0,354512012.0,M348,Renal involvement in scleroderma
+Systemic connective tissue disorders,499449013.0,7B20-1,7B20.11,63016009.0,499449013.0,M348,Total cystectomy
+Systemic connective tissue disorders,2670764010.0,H583,H583.00,367542003.0,2670764010.0,M348,Pulmonary eosinophilia
+Systemic connective tissue disorders,867371000006118.0,7B20-99,7B20.99,63016009.0,867371000006118.0,M348,Radical cystectomy
+Systemic connective tissue disorders,867381000006115.0,7B200-99,7B20099,176106009.0,867381000006115.0,M348,Cystoprostatectomy
+Systemic connective tissue disorders,988151000006119.0,7B20-98,7B20.98,63016009.0,988151000006119.0,M348,Total cystectomy NOS
+Systemic connective tissue disorders,272631012.0,7B204,7B20400,108034003.0,172473013.0,M348,Cystectomy NEC
+Systemic connective tissue disorders,272793017.0,7B2z,7B2z.00,14861000.0,25243014.0,M348,Bladder operations NOS
+Systemic connective tissue disorders,3524481000006119.0,^ESCTTO352448,,63016009.0,104744018.0,M348,Total resection of bladder
+Systemic connective tissue disorders,422991000006117.0,Fyu77,Fyu7700,193177003.0,297540015.0,M348,[X]Polyneuropathy/systemic connective tissue disorders CE
+Systemic connective tissue disorders,6298421000006116.0,^ESCTEO629842,,367542003.0,492714018.0,M348,Eosinophilic asthma
+Systemic connective tissue disorders,1785104011.0,N001-1,N001.11,298285004.0,1785104011.0,M348,Acrosclerosis
+Systemic connective tissue disorders,4782411000006110.0,^ESCTSC478241,,196133001.0,3006078014.0,M348,Scleroderma of lung
+Systemic connective tissue disorders,301739012.0,H583z,H583z00,367542003.0,492714018.0,M349,Pulmonary eosinophilia NOS
+Systemic connective tissue disorders,312581012.0,Nyu45,Nyu4500,89155008.0,147833014.0,M349,[X]Other forms of systemic sclerosis
+Systemic connective tissue disorders,515061000006119.0,7B2,7B2..00,14861000.0,1221138012.0,M349,Bladder operations
+Systemic connective tissue disorders,3524471000006117.0,^ESCTCO352447,,63016009.0,104743012.0,M349,Complete cystectomy
+Systemic connective tissue disorders,6298471000006115.0,^ESCTAN629847,,367542003.0,1228709010.0,M349,Andrews syndrome
+Systemic connective tissue disorders,3949121000006118.5,^ESCTSC394912,,89155008.0,508374010.0,M349,Scleroderma syndrome
+Systemic connective tissue disorders,6298441000006111.0,^ESCTPI629844,,367542003.0,1228706015.0,M349,PIE - Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,3949111000006113.5,^ESCTTH394911,,89155008.0,508372014.0,M349,Thibierge-Weissenbach syndrome
+Systemic connective tissue disorders,4151741000006113.5,^ESCTCY415174,,108034003.0,1219383017.0,M349,Cystectomy
+Systemic connective tissue disorders,3524511000006110.0,^ESCTTO352451,,63016009.0,2671749018.0,M349,Total resection of urinary bladder
+Systemic connective tissue disorders,6298451000006113.0,^ESCTPU629845,,367542003.0,1228707012.0,M349,Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,3949101000006111.0,^ESCTSY394910,,89155008.0,201443013.0,M349,Systemic scleroderma
+Systemic connective tissue disorders,1221573019.0,7B20z-99,7B20z99,533151000000102.0,1190391000000116.0,M349,Total cystectomy NOS
+Systemic connective tissue disorders,932491000006110.0,7B35y-99,7B35y99,14861000.0,932491000006110.0,M349,Urinary incontinence/sling opn
+Systemic connective tissue disorders,309413012.0,N001,N001.00,89155008.0,147835019.0,M349,Scleroderma
+Systemic connective tissue disorders,147833014.0,N001-2,N001.12,89155008.0,147833014.0,M349,Systemic sclerosis
+Systemic connective tissue disorders,297545013.0,F371z,F371z00,193177003.0,297540015.0,M349,Polyneuropathy in collagen vascular disease NOS
+Systemic connective tissue disorders,6298431000006118.0,^ESCTEP629843,,367542003.0,1228705016.0,M349,EP - Eosinophilic pneumonia
+Systemic connective tissue disorders,6298461000006110.0,^ESCTEO629846,,367542003.0,1228708019.0,M349,Eosinophilic pneumonia
+Systemic connective tissue disorders,4770431000006110.0,^ESCTNE477043,,193177003.0,297541016.0,M349,Neuropathy in vasculitis and connective tissue disease
+Systemic connective tissue disorders,3949131000006115.0,^ESCTSS394913,,89155008.0,508375011.0,M349,SS - Systemic sclerosis
+Systemic connective tissue disorders,297540015.0,F371,F371.00,193177003.0,297540015.0,M349,Polyneuropathy in collagen vascular disease
+Systemic connective tissue disorders,499449013.0,7B20-1,7B20.11,63016009.0,499449013.0,M349,Total cystectomy
+Systemic connective tissue disorders,2670764010.0,H583,H583.00,367542003.0,2670764010.0,M349,Pulmonary eosinophilia
+Systemic connective tissue disorders,867371000006118.0,7B20-99,7B20.99,63016009.0,867371000006118.0,M349,Radical cystectomy
+Systemic connective tissue disorders,988151000006119.0,7B20-98,7B20.98,63016009.0,988151000006119.0,M349,Total cystectomy NOS
+Systemic connective tissue disorders,272631012.0,7B204,7B20400,108034003.0,172473013.0,M349,Cystectomy NEC
+Systemic connective tissue disorders,272793017.0,7B2z,7B2z.00,14861000.0,25243014.0,M349,Bladder operations NOS
+Systemic connective tissue disorders,3524481000006119.0,^ESCTTO352448,,63016009.0,104744018.0,M349,Total resection of bladder
+Systemic connective tissue disorders,422991000006117.0,Fyu77,Fyu7700,193177003.0,297540015.0,M349,[X]Polyneuropathy/systemic connective tissue disorders CE
+Systemic connective tissue disorders,6298421000006116.0,^ESCTEO629842,,367542003.0,492714018.0,M349,Eosinophilic asthma
+Systemic connective tissue disorders,301724011.0,H58,H58..00,19829001.0,2470037012.0,M350,Other diseases of lung
+Systemic connective tissue disorders,301739012.0,H583z,H583z00,367542003.0,492714018.0,M350,Pulmonary eosinophilia NOS
+Systemic connective tissue disorders,301863012.0,Hyu81,Hyu8100,19829001.0,2470037012.0,M350,[X]Other disorders of lung
+Systemic connective tissue disorders,4770991000006115.0,^ESCTMY477099,,193253000.0,2838121017.0,M350,Myopathy due to Sj+â-Âgren disease
+Systemic connective tissue disorders,428621000006114.0,Nyu4C,Nyu4C00,105969002.0,170388012.0,M350,[X]Systemic disorders/connective tissue in other diseases CE
+Systemic connective tissue disorders,221451000000115.0,N-1,N....11,105969002.0,1219184017.0,M350,Connective tissue diseases
+Systemic connective tissue disorders,5912751000006118.0,^ESCTKC591275,,302896008.0,444888016.0,M350,KCS - Keratoconjunctivitis sicca
+Systemic connective tissue disorders,4770971000006116.0,^ESCTMY477097,,193253000.0,2642291010.0,M350,Myopathy due to Sj+â-Âgren's disease
+Systemic connective tissue disorders,572101000006119.0,N00-1,N00..11,105969002.0,1219184017.0,M350,Collagen diseases
+Systemic connective tissue disorders,621001000006118.0,N00,N00..00,105969002.0,1219184017.0,M350,Diffuse diseases of connective tissue
+Systemic connective tissue disorders,7085691000006115.0,^ESCTTU708569,,428255004.0,2694182017.0,M350,Tubulo-interstitial nephritis
+Systemic connective tissue disorders,6298471000006115.0,^ESCTAN629847,,367542003.0,1228709010.0,M350,Andrews syndrome
+Systemic connective tissue disorders,3865081000006116.0,^ESCTSJ386508,,83901003.0,2920740014.0,M350,Sjogrens syndrome
+Systemic connective tissue disorders,4125671000006110.5,^ESCTDI412567,,105969002.0,4125671000006110.5,M350,Disorder of connective tissue
+Systemic connective tissue disorders,4782481000006115.0,^ESCTLU478248,,196137000.0,2839020013.0,M350,Lung disease with Sj+â-Âgren disease
+Systemic connective tissue disorders,6298441000006111.0,^ESCTPI629844,,367542003.0,1228706015.0,M350,PIE - Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,3865031000006117.0,^ESCTSJ386503,,83901003.0,139130018.0,M350,Sj+â-Âgren's syndrome
+Systemic connective tissue disorders,3865051000006112.0,^ESCTSJ386505,,83901003.0,139129011.0,M350,Sj+â-Âgren's disease
+Systemic connective tissue disorders,2814781000006110.0,^ESCTLU281478,,19829001.0,33388017.0,M350,Lung disorder
+Systemic connective tissue disorders,4773181000006113.0,^ESCTKE477318,,193776001.0,2818731011.0,M350,Keratoconjunctivitis sicca (excluding Sjogren syndrome)
+Systemic connective tissue disorders,3865061000006113.5,^ESCTSJ386506,,83901003.0,139131019.0,M350,Sjogren's syndrome
+Systemic connective tissue disorders,6298451000006113.0,^ESCTPU629845,,367542003.0,1228707012.0,M350,Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,2814791000006113.0,^ESCTPU281479,,19829001.0,33389013.0,M350,Pulmonary disease
+Systemic connective tissue disorders,4773161000006115.0,^ESCTKE477316,,193776001.0,2642302012.0,M350,Keratoconjunctivitis sicca (excluding Sj+â-Âgren syndrome)
+Systemic connective tissue disorders,3895091000006116.0,^ESCTAU389509,,85828009.0,142279016.0,M350,Autoimmune disorder
+Systemic connective tissue disorders,400155018.0,N00y,N00y.00,105969002.0,170388012.0,M350,Other specified diffuse collagen diseases
+Systemic connective tissue disorders,309391011.0,Myu7F,Myu7F00,105969002.0,170388012.0,M350,"[X]Localized connective tissue disorder, unspecified"
+Systemic connective tissue disorders,312583010.0,Nyu47,Nyu4700,105969002.0,170388012.0,M350,[X]Other systemic diseases of connective tissue
+Systemic connective tissue disorders,736251000006113.0,M2V,M2V..00,105969002.0,170388012.0,M350,"Localized connective tissue disorder, unspecified"
+Systemic connective tissue disorders,297545013.0,F371z,F371z00,193177003.0,297540015.0,M350,Polyneuropathy in collagen vascular disease NOS
+Systemic connective tissue disorders,301761019.0,H58z,H58z.00,19829001.0,2470037012.0,M350,Lung disease NOS
+Systemic connective tissue disorders,293715012.0,C394,C394.00,85828009.0,142276011.0,M350,Autoimmune disease NOS
+Systemic connective tissue disorders,141091000006112.0,N002,N002.00,83901003.0,139128015.0,M350,Sicca (Sjogren's) syndrome
+Systemic connective tissue disorders,6298431000006118.0,^ESCTEP629843,,367542003.0,1228705016.0,M350,EP - Eosinophilic pneumonia
+Systemic connective tissue disorders,6298461000006110.0,^ESCTEO629846,,367542003.0,1228708019.0,M350,Eosinophilic pneumonia
+Systemic connective tissue disorders,4770431000006110.0,^ESCTNE477043,,193177003.0,297541016.0,M350,Neuropathy in vasculitis and connective tissue disease
+Systemic connective tissue disorders,4771001000006119.0,^ESCTMY477100,,193253000.0,2966629016.0,M350,Myopathy due to Sjogrens disease
+Systemic connective tissue disorders,297645018.0,F3967,F396700,193253000.0,297645018.0,M350,Myopathy due to Sjogren's disease
+Systemic connective tissue disorders,298341019.0,F4A32,F4A3200,193776001.0,298341019.0,M350,Keratoconjunctivitis sicca (excluding Sjogren's syndrome)
+Systemic connective tissue disorders,297540015.0,F371,F371.00,193177003.0,297540015.0,M350,Polyneuropathy in collagen vascular disease
+Systemic connective tissue disorders,444889012.0,N002-1,N002.11,302896008.0,444889012.0,M350,Keratoconjunctivitis sicca
+Systemic connective tissue disorders,2670764010.0,H583,H583.00,367542003.0,2670764010.0,M350,Pulmonary eosinophilia
+Systemic connective tissue disorders,313676017.0,P86,P86..00,19829001.0,2470037012.0,M350,Other lung anomalies
+Systemic connective tissue disorders,309384013.0,Myu79,Myu7900,105969002.0,170388012.0,M350,[X]Other specified localized connective tissue disorders
+Systemic connective tissue disorders,422991000006117.0,Fyu77,Fyu7700,193177003.0,297540015.0,M350,[X]Polyneuropathy/systemic connective tissue disorders CE
+Systemic connective tissue disorders,3865071000006119.0,^ESCTSJ386507,,83901003.0,2839219010.0,M350,Sj+â-Âgren syndrome
+Systemic connective tissue disorders,6298421000006116.0,^ESCTEO629842,,367542003.0,492714018.0,M350,Eosinophilic asthma
+Systemic connective tissue disorders,301720019.0,H57y3,H57y300,196137000.0,301720019.0,M350,Lung disease with Sjogren's disease
+Systemic connective tissue disorders,312574017.0,Nyu4,Nyu4.00,105969002.0,2469864015.0,M350,[X]Systemic connective tissue disorders
+Systemic connective tissue disorders,4782461000006113.0,^ESCTLU478246,,196137000.0,2642306010.0,M350,Lung disease with Sj+â-Âgren's disease
+Systemic connective tissue disorders,301739012.0,H583z,H583z00,367542003.0,492714018.0,M351,Pulmonary eosinophilia NOS
+Systemic connective tissue disorders,312582017.0,Nyu46,Nyu4600,276657008.0,412908010.0,M351,[X]Other overlap syndromes
+Systemic connective tissue disorders,1591381000006114.0,Nyu4F,Nyu4F00,398049005.0,1786074016.0,M351,[X]Mixed connective tissue disease
+Systemic connective tissue disorders,428621000006114.0,Nyu4C,Nyu4C00,105969002.0,170388012.0,M351,[X]Systemic disorders/connective tissue in other diseases CE
+Systemic connective tissue disorders,221451000000115.0,N-1,N....11,105969002.0,1219184017.0,M351,Connective tissue diseases
+Systemic connective tissue disorders,6596981000006117.0,^ESCTMC659698,,398049005.0,1786075015.0,M351,MCTD - Mixed connective tissue disease
+Systemic connective tissue disorders,515061000006119.0,7B2,7B2..00,14861000.0,1221138012.0,M351,Bladder operations
+Systemic connective tissue disorders,572101000006119.0,N00-1,N00..11,105969002.0,1219184017.0,M351,Collagen diseases
+Systemic connective tissue disorders,621001000006118.0,N00,N00..00,105969002.0,1219184017.0,M351,Diffuse diseases of connective tissue
+Systemic connective tissue disorders,6596971000006115.0,^ESCTSH659697,,398049005.0,1786073010.0,M351,Sharp's syndrome
+Systemic connective tissue disorders,6298471000006115.0,^ESCTAN629847,,367542003.0,1228709010.0,M351,Andrews syndrome
+Systemic connective tissue disorders,6596961000006110.0,^ESCTMI659696,,398049005.0,1777619017.0,M351,Mixed collagen vascular disease
+Systemic connective tissue disorders,4125671000006110.5,^ESCTDI412567,,105969002.0,4125671000006110.5,M351,Disorder of connective tissue
+Systemic connective tissue disorders,6298441000006111.0,^ESCTPI629844,,367542003.0,1228706015.0,M351,PIE - Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,4151741000006113.5,^ESCTCY415174,,108034003.0,1219383017.0,M351,Cystectomy
+Systemic connective tissue disorders,6298451000006113.0,^ESCTPU629845,,367542003.0,1228707012.0,M351,Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,3895091000006116.0,^ESCTAU389509,,85828009.0,142279016.0,M351,Autoimmune disorder
+Systemic connective tissue disorders,400155018.0,N00y,N00y.00,105969002.0,170388012.0,M351,Other specified diffuse collagen diseases
+Systemic connective tissue disorders,309391011.0,Myu7F,Myu7F00,105969002.0,170388012.0,M351,"[X]Localized connective tissue disorder, unspecified"
+Systemic connective tissue disorders,312583010.0,Nyu47,Nyu4700,105969002.0,170388012.0,M351,[X]Other systemic diseases of connective tissue
+Systemic connective tissue disorders,736251000006113.0,M2V,M2V..00,105969002.0,170388012.0,M351,"Localized connective tissue disorder, unspecified"
+Systemic connective tissue disorders,932491000006110.0,7B35y-99,7B35y99,14861000.0,932491000006110.0,M351,Urinary incontinence/sling opn
+Systemic connective tissue disorders,297545013.0,F371z,F371z00,193177003.0,297540015.0,M351,Polyneuropathy in collagen vascular disease NOS
+Systemic connective tissue disorders,293715012.0,C394,C394.00,85828009.0,142276011.0,M351,Autoimmune disease NOS
+Systemic connective tissue disorders,6298431000006118.0,^ESCTEP629843,,367542003.0,1228705016.0,M351,EP - Eosinophilic pneumonia
+Systemic connective tissue disorders,6298461000006110.0,^ESCTEO629846,,367542003.0,1228708019.0,M351,Eosinophilic pneumonia
+Systemic connective tissue disorders,4770431000006110.0,^ESCTNE477043,,193177003.0,297541016.0,M351,Neuropathy in vasculitis and connective tissue disease
+Systemic connective tissue disorders,297540015.0,F371,F371.00,193177003.0,297540015.0,M351,Polyneuropathy in collagen vascular disease
+Systemic connective tissue disorders,1233935010.0,7B210,7B21000,75924001.0,1233935010.0,M351,Diverticulectomy of bladder
+Systemic connective tissue disorders,2670764010.0,H583,H583.00,367542003.0,2670764010.0,M351,Pulmonary eosinophilia
+Systemic connective tissue disorders,272631012.0,7B204,7B20400,108034003.0,172473013.0,M351,Cystectomy NEC
+Systemic connective tissue disorders,272793017.0,7B2z,7B2z.00,14861000.0,25243014.0,M351,Bladder operations NOS
+Systemic connective tissue disorders,867411000006117.0,7B210-99,7B21099,75924001.0,867411000006117.0,M351,Open bladder diverticulectomy
+Systemic connective tissue disorders,309384013.0,Myu79,Myu7900,105969002.0,170388012.0,M351,[X]Other specified localized connective tissue disorders
+Systemic connective tissue disorders,422991000006117.0,Fyu77,Fyu7700,193177003.0,297540015.0,M351,[X]Polyneuropathy/systemic connective tissue disorders CE
+Systemic connective tissue disorders,6298421000006116.0,^ESCTEO629842,,367542003.0,492714018.0,M351,Eosinophilic asthma
+Systemic connective tissue disorders,312574017.0,Nyu4,Nyu4.00,105969002.0,2469864015.0,M351,[X]Systemic connective tissue disorders
+Systemic connective tissue disorders,301739012.0,H583z,H583z00,367542003.0,492714018.0,M352,Pulmonary eosinophilia NOS
+Systemic connective tissue disorders,304767019.0,K4250,K425000,68640004.0,114009019.0,M352,Ulceration of vulva unspecified
+Systemic connective tissue disorders,304770015.0,K425z,K425z00,68640004.0,114009019.0,M352,Ulceration of vulva NOS
+Systemic connective tissue disorders,309484012.0,N0122,N012200,201485008.0,309483018.0,M352,Arthropathy in Behcet's syndrome of the upper arm
+Systemic connective tissue disorders,309485013.0,N0123,N012300,62918002.0,104572011.0,M352,Arthropathy in Behcet's syndrome of the forearm
+Systemic connective tissue disorders,309488010.0,N0126,N012600,62918002.0,104572011.0,M352,Arthropathy in Behcet's syndrome of the lower leg
+Systemic connective tissue disorders,309492015.0,N012z,N012z00,62918002.0,104572011.0,M352,Arthropathy in Behcet's syndrome NOS
+Systemic connective tissue disorders,3616911000006113.5,^ESCTVU361691,,68640004.0,114011011.0,M352,Vulvar ulceration
+Systemic connective tissue disorders,428621000006114.0,Nyu4C,Nyu4C00,105969002.0,170388012.0,M352,[X]Systemic disorders/connective tissue in other diseases CE
+Systemic connective tissue disorders,221451000000115.0,N-1,N....11,105969002.0,1219184017.0,M352,Connective tissue diseases
+Systemic connective tissue disorders,6002811000006116.0,^ESCTAD600281,,310701003.0,2476477019.0,M352,Adamantiades-Behcet disease
+Systemic connective tissue disorders,3522801000006116.0,^ESCTAR352280,,62918002.0,2842285011.0,M352,Arthropathy in Behcet syndrome
+Systemic connective tissue disorders,492911000006119.0,N0125,N012500,201489002.0,309487017.0,M352,Arthropathy in Behcet's syndrome of the pelvis/thigh
+Systemic connective tissue disorders,572101000006119.0,N00-1,N00..11,105969002.0,1219184017.0,M352,Collagen diseases
+Systemic connective tissue disorders,621001000006118.0,N00,N00..00,105969002.0,1219184017.0,M352,Diffuse diseases of connective tissue
+Systemic connective tissue disorders,6298471000006115.0,^ESCTAN629847,,367542003.0,1228709010.0,M352,Andrews syndrome
+Systemic connective tissue disorders,3522791000006117.0,^ESCTSE352279,,62918002.0,499416016.0,M352,Seronegative arthritis secondary to Behcet's syndrome
+Systemic connective tissue disorders,4125671000006110.5,^ESCTDI412567,,105969002.0,4125671000006110.5,M352,Disorder of connective tissue
+Systemic connective tissue disorders,4808121000006110.0,^ESCTAR480812,,201491005.0,2842295016.0,M352,Arthropathy in Behcet syndrome of the ankle and/or foot
+Systemic connective tissue disorders,6298441000006111.0,^ESCTPI629844,,367542003.0,1228706015.0,M352,PIE - Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,6002791000006115.0,^ESCTBE600279,,310701003.0,454288019.0,M352,Behcet's disease
+Systemic connective tissue disorders,4808051000006117.0,^ESCTAR480805,,201485008.0,2840459015.0,M352,Arthropathy in Behcet syndrome of the shoulder region
+Systemic connective tissue disorders,6298451000006113.0,^ESCTPU629845,,367542003.0,1228707012.0,M352,Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,4808141000006115.0,^ESCTAR480814,,201492003.0,2840144018.0,M352,Arthropathy in Behcet syndrome of multiple sites
+Systemic connective tissue disorders,4808071000006110.0,^ESCTAR480807,,201488005.0,2839279017.0,M352,Arthropathy in Behcet syndrome of the hand
+Systemic connective tissue disorders,6002821000006112.0,^ESCTBE600282,,310701003.0,2842083011.0,M352,Behcet syndrome
+Systemic connective tissue disorders,3895091000006116.0,^ESCTAU389509,,85828009.0,142279016.0,M352,Autoimmune disorder
+Systemic connective tissue disorders,400155018.0,N00y,N00y.00,105969002.0,170388012.0,M352,Other specified diffuse collagen diseases
+Systemic connective tissue disorders,309391011.0,Myu7F,Myu7F00,105969002.0,170388012.0,M352,"[X]Localized connective tissue disorder, unspecified"
+Systemic connective tissue disorders,312583010.0,Nyu47,Nyu4700,105969002.0,170388012.0,M352,[X]Other systemic diseases of connective tissue
+Systemic connective tissue disorders,736251000006113.0,M2V,M2V..00,105969002.0,170388012.0,M352,"Localized connective tissue disorder, unspecified"
+Systemic connective tissue disorders,309489019.0,N0127,N012700,201491005.0,309489019.0,M352,Arthropathy in Behcet's syndrome of the ankle and foot
+Systemic connective tissue disorders,297545013.0,F371z,F371z00,193177003.0,297540015.0,M352,Polyneuropathy in collagen vascular disease NOS
+Systemic connective tissue disorders,293715012.0,C394,C394.00,85828009.0,142276011.0,M352,Autoimmune disease NOS
+Systemic connective tissue disorders,400165012.0,N0120,N012000,62918002.0,104572011.0,M352,Arthropathy in Behcet's syndrome of unspecified site
+Systemic connective tissue disorders,64211000006112.0,K4211-1,K421111,68640004.0,114009019.0,M352,Vulval sores
+Systemic connective tissue disorders,6298431000006118.0,^ESCTEP629843,,367542003.0,1228705016.0,M352,EP - Eosinophilic pneumonia
+Systemic connective tissue disorders,6298461000006110.0,^ESCTEO629846,,367542003.0,1228708019.0,M352,Eosinophilic pneumonia
+Systemic connective tissue disorders,4770431000006110.0,^ESCTNE477043,,193177003.0,297541016.0,M352,Neuropathy in vasculitis and connective tissue disease
+Systemic connective tissue disorders,4808091000006111.0,^ESCTAR480809,,201489002.0,2838745012.0,M352,Arthropathy in Behcet syndrome of the pelvic region and thigh
+Systemic connective tissue disorders,4808101000006117.0,^ESCTAR480810,,201491005.0,1489781013.0,M352,Arthropathy in Behcet's syndrome of the ankle and/or foot
+Systemic connective tissue disorders,104572011.0,N012,N012.00,62918002.0,104572011.0,M352,Arthropathy in Behcet's syndrome
+Systemic connective tissue disorders,114009019.0,K425,K425.00,68640004.0,114009019.0,M352,Ulceration of vulva
+Systemic connective tissue disorders,297540015.0,F371,F371.00,193177003.0,297540015.0,M352,Polyneuropathy in collagen vascular disease
+Systemic connective tissue disorders,309486014.0,N0124,N012400,201488005.0,309486014.0,M352,Arthropathy in Behcet's syndrome of the hand
+Systemic connective tissue disorders,499415017.0,N0120-1,N012011,62918002.0,499415017.0,M352,Behcet's syndrome arthropathy
+Systemic connective tissue disorders,2670764010.0,H583,H583.00,367542003.0,2670764010.0,M352,Pulmonary eosinophilia
+Systemic connective tissue disorders,454287012.0,AD61,AD61.00,310701003.0,454287012.0,M352,Behcet's syndrome
+Systemic connective tissue disorders,309384013.0,Myu79,Myu7900,105969002.0,170388012.0,M352,[X]Other specified localized connective tissue disorders
+Systemic connective tissue disorders,422991000006117.0,Fyu77,Fyu7700,193177003.0,297540015.0,M352,[X]Polyneuropathy/systemic connective tissue disorders CE
+Systemic connective tissue disorders,309491010.0,N012y,N012y00,62918002.0,104572011.0,M352,Arthropathy in Behcet's syndrome of other specified sites
+Systemic connective tissue disorders,6298421000006116.0,^ESCTEO629842,,367542003.0,492714018.0,M352,Eosinophilic asthma
+Systemic connective tissue disorders,309483018.0,N0121,N012100,201485008.0,309483018.0,M352,Arthropathy in Behcet's syndrome of the shoulder region
+Systemic connective tissue disorders,309490011.0,N012x,N012x00,201492003.0,309490011.0,M352,Arthropathy in Behcet's syndrome of multiple sites
+Systemic connective tissue disorders,312574017.0,Nyu4,Nyu4.00,105969002.0,2469864015.0,M352,[X]Systemic connective tissue disorders
+Systemic connective tissue disorders,301739012.0,H583z,H583z00,367542003.0,492714018.0,M353,Pulmonary eosinophilia NOS
+Systemic connective tissue disorders,428621000006114.0,Nyu4C,Nyu4C00,105969002.0,170388012.0,M353,[X]Systemic disorders/connective tissue in other diseases CE
+Systemic connective tissue disorders,221451000000115.0,N-1,N....11,105969002.0,1219184017.0,M353,Connective tissue diseases
+Systemic connective tissue disorders,3562001000006118.0,^ESCTRH356200,,65323003.0,108531016.0,M353,Rhizomelic pseudopolyarthritis
+Systemic connective tissue disorders,572101000006119.0,N00-1,N00..11,105969002.0,1219184017.0,M353,Collagen diseases
+Systemic connective tissue disorders,621001000006118.0,N00,N00..00,105969002.0,1219184017.0,M353,Diffuse diseases of connective tissue
+Systemic connective tissue disorders,6298471000006115.0,^ESCTAN629847,,367542003.0,1228709010.0,M353,Andrews syndrome
+Systemic connective tissue disorders,4125671000006110.5,^ESCTDI412567,,105969002.0,4125671000006110.5,M353,Disorder of connective tissue
+Systemic connective tissue disorders,6298441000006111.0,^ESCTPI629844,,367542003.0,1228706015.0,M353,PIE - Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,3562011000006115.0,^ESCTSE356201,,65323003.0,108532011.0,M353,Senile arthritis
+Systemic connective tissue disorders,6298451000006113.0,^ESCTPU629845,,367542003.0,1228707012.0,M353,Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,3562021000006111.0,^ESCTPM356202,,65323003.0,500077010.0,M353,PMR - Polymyalgia rheumatica
+Systemic connective tissue disorders,3561991000006115.0,^ESCTFO356199,,65323003.0,108530015.0,M353,Forestier-Certonciny syndrome
+Systemic connective tissue disorders,3895091000006116.0,^ESCTAU389509,,85828009.0,142279016.0,M353,Autoimmune disorder
+Systemic connective tissue disorders,400155018.0,N00y,N00y.00,105969002.0,170388012.0,M353,Other specified diffuse collagen diseases
+Systemic connective tissue disorders,309391011.0,Myu7F,Myu7F00,105969002.0,170388012.0,M353,"[X]Localized connective tissue disorder, unspecified"
+Systemic connective tissue disorders,312583010.0,Nyu47,Nyu4700,105969002.0,170388012.0,M353,[X]Other systemic diseases of connective tissue
+Systemic connective tissue disorders,736251000006113.0,M2V,M2V..00,105969002.0,170388012.0,M353,"Localized connective tissue disorder, unspecified"
+Systemic connective tissue disorders,297545013.0,F371z,F371z00,193177003.0,297540015.0,M353,Polyneuropathy in collagen vascular disease NOS
+Systemic connective tissue disorders,293715012.0,C394,C394.00,85828009.0,142276011.0,M353,Autoimmune disease NOS
+Systemic connective tissue disorders,6298431000006118.0,^ESCTEP629843,,367542003.0,1228705016.0,M353,EP - Eosinophilic pneumonia
+Systemic connective tissue disorders,6298461000006110.0,^ESCTEO629846,,367542003.0,1228708019.0,M353,Eosinophilic pneumonia
+Systemic connective tissue disorders,4770431000006110.0,^ESCTNE477043,,193177003.0,297541016.0,M353,Neuropathy in vasculitis and connective tissue disease
+Systemic connective tissue disorders,108529013.0,N20,N20..00,65323003.0,108529013.0,M353,Polymyalgia rheumatica
+Systemic connective tissue disorders,297540015.0,F371,F371.00,193177003.0,297540015.0,M353,Polyneuropathy in collagen vascular disease
+Systemic connective tissue disorders,2670764010.0,H583,H583.00,367542003.0,2670764010.0,M353,Pulmonary eosinophilia
+Systemic connective tissue disorders,158050019.0,N20-1,N20..11,65323003.0,108529013.0,M353,Polymyalgia
+Systemic connective tissue disorders,309384013.0,Myu79,Myu7900,105969002.0,170388012.0,M353,[X]Other specified localized connective tissue disorders
+Systemic connective tissue disorders,422991000006117.0,Fyu77,Fyu7700,193177003.0,297540015.0,M353,[X]Polyneuropathy/systemic connective tissue disorders CE
+Systemic connective tissue disorders,6298421000006116.0,^ESCTEO629842,,367542003.0,492714018.0,M353,Eosinophilic asthma
+Systemic connective tissue disorders,312574017.0,Nyu4,Nyu4.00,105969002.0,2469864015.0,M353,[X]Systemic connective tissue disorders
+Systemic connective tissue disorders,301739012.0,H583z,H583z00,367542003.0,492714018.0,M354,Pulmonary eosinophilia NOS
+Systemic connective tissue disorders,428621000006114.0,Nyu4C,Nyu4C00,105969002.0,170388012.0,M354,[X]Systemic disorders/connective tissue in other diseases CE
+Systemic connective tissue disorders,221451000000115.0,N-1,N....11,105969002.0,1219184017.0,M354,Connective tissue diseases
+Systemic connective tissue disorders,572101000006119.0,N00-1,N00..11,105969002.0,1219184017.0,M354,Collagen diseases
+Systemic connective tissue disorders,621001000006118.0,N00,N00..00,105969002.0,1219184017.0,M354,Diffuse diseases of connective tissue
+Systemic connective tissue disorders,6298471000006115.0,^ESCTAN629847,,367542003.0,1228709010.0,M354,Andrews syndrome
+Systemic connective tissue disorders,4125671000006110.5,^ESCTDI412567,,105969002.0,4125671000006110.5,M354,Disorder of connective tissue
+Systemic connective tissue disorders,6298441000006111.0,^ESCTPI629844,,367542003.0,1228706015.0,M354,PIE - Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,6298451000006113.0,^ESCTPU629845,,367542003.0,1228707012.0,M354,Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,2884941000006115.0,^ESCTFA288494,,24129002.0,40509011.0,M354,Fasciitis with eosinophilia syndrome
+Systemic connective tissue disorders,3895091000006116.0,^ESCTAU389509,,85828009.0,142279016.0,M354,Autoimmune disorder
+Systemic connective tissue disorders,400155018.0,N00y,N00y.00,105969002.0,170388012.0,M354,Other specified diffuse collagen diseases
+Systemic connective tissue disorders,309391011.0,Myu7F,Myu7F00,105969002.0,170388012.0,M354,"[X]Localized connective tissue disorder, unspecified"
+Systemic connective tissue disorders,312583010.0,Nyu47,Nyu4700,105969002.0,170388012.0,M354,[X]Other systemic diseases of connective tissue
+Systemic connective tissue disorders,736251000006113.0,M2V,M2V..00,105969002.0,170388012.0,M354,"Localized connective tissue disorder, unspecified"
+Systemic connective tissue disorders,297545013.0,F371z,F371z00,193177003.0,297540015.0,M354,Polyneuropathy in collagen vascular disease NOS
+Systemic connective tissue disorders,293715012.0,C394,C394.00,85828009.0,142276011.0,M354,Autoimmune disease NOS
+Systemic connective tissue disorders,6298431000006118.0,^ESCTEP629843,,367542003.0,1228705016.0,M354,EP - Eosinophilic pneumonia
+Systemic connective tissue disorders,6298461000006110.0,^ESCTEO629846,,367542003.0,1228708019.0,M354,Eosinophilic pneumonia
+Systemic connective tissue disorders,4770431000006110.0,^ESCTNE477043,,193177003.0,297541016.0,M354,Neuropathy in vasculitis and connective tissue disease
+Systemic connective tissue disorders,40511019.0,N00y0,N00y000,24129002.0,40511019.0,M354,Eosinophilic fasciitis
+Systemic connective tissue disorders,297540015.0,F371,F371.00,193177003.0,297540015.0,M354,Polyneuropathy in collagen vascular disease
+Systemic connective tissue disorders,2670764010.0,H583,H583.00,367542003.0,2670764010.0,M354,Pulmonary eosinophilia
+Systemic connective tissue disorders,309384013.0,Myu79,Myu7900,105969002.0,170388012.0,M354,[X]Other specified localized connective tissue disorders
+Systemic connective tissue disorders,422991000006117.0,Fyu77,Fyu7700,193177003.0,297540015.0,M354,[X]Polyneuropathy/systemic connective tissue disorders CE
+Systemic connective tissue disorders,2884951000006118.0,^ESCTSH288495,,24129002.0,40510018.0,M354,Shulman's syndrome
+Systemic connective tissue disorders,6298421000006116.0,^ESCTEO629842,,367542003.0,492714018.0,M354,Eosinophilic asthma
+Systemic connective tissue disorders,312574017.0,Nyu4,Nyu4.00,105969002.0,2469864015.0,M354,[X]Systemic connective tissue disorders
+Systemic connective tissue disorders,301739012.0,H583z,H583z00,367542003.0,492714018.0,M355,Pulmonary eosinophilia NOS
+Systemic connective tissue disorders,428621000006114.0,Nyu4C,Nyu4C00,105969002.0,170388012.0,M355,[X]Systemic disorders/connective tissue in other diseases CE
+Systemic connective tissue disorders,221451000000115.0,N-1,N....11,105969002.0,1219184017.0,M355,Connective tissue diseases
+Systemic connective tissue disorders,572101000006119.0,N00-1,N00..11,105969002.0,1219184017.0,M355,Collagen diseases
+Systemic connective tissue disorders,621001000006118.0,N00,N00..00,105969002.0,1219184017.0,M355,Diffuse diseases of connective tissue
+Systemic connective tissue disorders,6298471000006115.0,^ESCTAN629847,,367542003.0,1228709010.0,M355,Andrews syndrome
+Systemic connective tissue disorders,709501000006112.0,N00y1,N00y100,239885004.0,359440018.0,M355,Fibrosclerosis systemic
+Systemic connective tissue disorders,4125671000006110.5,^ESCTDI412567,,105969002.0,4125671000006110.5,M355,Disorder of connective tissue
+Systemic connective tissue disorders,6298441000006111.0,^ESCTPI629844,,367542003.0,1228706015.0,M355,PIE - Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,6298451000006113.0,^ESCTPU629845,,367542003.0,1228707012.0,M355,Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,3895091000006116.0,^ESCTAU389509,,85828009.0,142279016.0,M355,Autoimmune disorder
+Systemic connective tissue disorders,400155018.0,N00y,N00y.00,105969002.0,170388012.0,M355,Other specified diffuse collagen diseases
+Systemic connective tissue disorders,309391011.0,Myu7F,Myu7F00,105969002.0,170388012.0,M355,"[X]Localized connective tissue disorder, unspecified"
+Systemic connective tissue disorders,312583010.0,Nyu47,Nyu4700,105969002.0,170388012.0,M355,[X]Other systemic diseases of connective tissue
+Systemic connective tissue disorders,736251000006113.0,M2V,M2V..00,105969002.0,170388012.0,M355,"Localized connective tissue disorder, unspecified"
+Systemic connective tissue disorders,297545013.0,F371z,F371z00,193177003.0,297540015.0,M355,Polyneuropathy in collagen vascular disease NOS
+Systemic connective tissue disorders,293715012.0,C394,C394.00,85828009.0,142276011.0,M355,Autoimmune disease NOS
+Systemic connective tissue disorders,6298431000006118.0,^ESCTEP629843,,367542003.0,1228705016.0,M355,EP - Eosinophilic pneumonia
+Systemic connective tissue disorders,6298461000006110.0,^ESCTEO629846,,367542003.0,1228708019.0,M355,Eosinophilic pneumonia
+Systemic connective tissue disorders,4770431000006110.0,^ESCTNE477043,,193177003.0,297541016.0,M355,Neuropathy in vasculitis and connective tissue disease
+Systemic connective tissue disorders,297540015.0,F371,F371.00,193177003.0,297540015.0,M355,Polyneuropathy in collagen vascular disease
+Systemic connective tissue disorders,2670764010.0,H583,H583.00,367542003.0,2670764010.0,M355,Pulmonary eosinophilia
+Systemic connective tissue disorders,309384013.0,Myu79,Myu7900,105969002.0,170388012.0,M355,[X]Other specified localized connective tissue disorders
+Systemic connective tissue disorders,422991000006117.0,Fyu77,Fyu7700,193177003.0,297540015.0,M355,[X]Polyneuropathy/systemic connective tissue disorders CE
+Systemic connective tissue disorders,6298421000006116.0,^ESCTEO629842,,367542003.0,492714018.0,M355,Eosinophilic asthma
+Systemic connective tissue disorders,359440018.0,N00y-1,N00y.11,239885004.0,359440018.0,M355,Fibrosclerosis - systemic
+Systemic connective tissue disorders,312574017.0,Nyu4,Nyu4.00,105969002.0,2469864015.0,M355,[X]Systemic connective tissue disorders
+Systemic connective tissue disorders,301739012.0,H583z,H583z00,367542003.0,492714018.0,M356,Pulmonary eosinophilia NOS
+Systemic connective tissue disorders,311712010.0,N243,N243.00,22125009.0,37140010.0,M356,Panniculitis unspecified
+Systemic connective tissue disorders,311718014.0,N243z,N243z00,22125009.0,37140010.0,M356,Panniculitis NOS
+Systemic connective tissue disorders,400316012.0,N2430,N243000,22125009.0,37140010.0,M356,Panniculitis of unspecified site
+Systemic connective tissue disorders,428621000006114.0,Nyu4C,Nyu4C00,105969002.0,170388012.0,M356,[X]Systemic disorders/connective tissue in other diseases CE
+Systemic connective tissue disorders,59041000006110.0,N2432,N243200,33760009.0,56364015.0,M356,Weber - Christian disease
+Systemic connective tissue disorders,221451000000115.0,N-1,N....11,105969002.0,1219184017.0,M356,Connective tissue diseases
+Systemic connective tissue disorders,3043271000006119.0,^ESCTWE304327,,33760009.0,1228102014.0,M356,Weber-Kindler syndrome
+Systemic connective tissue disorders,572101000006119.0,N00-1,N00..11,105969002.0,1219184017.0,M356,Collagen diseases
+Systemic connective tissue disorders,621001000006118.0,N00,N00..00,105969002.0,1219184017.0,M356,Diffuse diseases of connective tissue
+Systemic connective tissue disorders,6298471000006115.0,^ESCTAN629847,,367542003.0,1228709010.0,M356,Andrews syndrome
+Systemic connective tissue disorders,4125671000006110.5,^ESCTDI412567,,105969002.0,4125671000006110.5,M356,Disorder of connective tissue
+Systemic connective tissue disorders,6298441000006111.0,^ESCTPI629844,,367542003.0,1228706015.0,M356,PIE - Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,3043251000006112.0,^ESCTRE304325,,33760009.0,56363014.0,M356,Relapsing febrile nodular nonsuppurative panniculitis
+Systemic connective tissue disorders,3043241000006110.0,^ESCTWE304324,,33760009.0,1228103016.0,M356,Weber Christian panniculitis
+Systemic connective tissue disorders,6298451000006113.0,^ESCTPU629845,,367542003.0,1228707012.0,M356,Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,3043291000006118.0,^ESCTSY304329,,33760009.0,1228105011.0,M356,Systemic nodular panniculitis
+Systemic connective tissue disorders,3895091000006116.0,^ESCTAU389509,,85828009.0,142279016.0,M356,Autoimmune disorder
+Systemic connective tissue disorders,400155018.0,N00y,N00y.00,105969002.0,170388012.0,M356,Other specified diffuse collagen diseases
+Systemic connective tissue disorders,309391011.0,Myu7F,Myu7F00,105969002.0,170388012.0,M356,"[X]Localized connective tissue disorder, unspecified"
+Systemic connective tissue disorders,312583010.0,Nyu47,Nyu4700,105969002.0,170388012.0,M356,[X]Other systemic diseases of connective tissue
+Systemic connective tissue disorders,736251000006113.0,M2V,M2V..00,105969002.0,170388012.0,M356,"Localized connective tissue disorder, unspecified"
+Systemic connective tissue disorders,297545013.0,F371z,F371z00,193177003.0,297540015.0,M356,Polyneuropathy in collagen vascular disease NOS
+Systemic connective tissue disorders,293715012.0,C394,C394.00,85828009.0,142276011.0,M356,Autoimmune disease NOS
+Systemic connective tissue disorders,6298431000006118.0,^ESCTEP629843,,367542003.0,1228705016.0,M356,EP - Eosinophilic pneumonia
+Systemic connective tissue disorders,6298461000006110.0,^ESCTEO629846,,367542003.0,1228708019.0,M356,Eosinophilic pneumonia
+Systemic connective tissue disorders,4770431000006110.0,^ESCTNE477043,,193177003.0,297541016.0,M356,Neuropathy in vasculitis and connective tissue disease
+Systemic connective tissue disorders,297540015.0,F371,F371.00,193177003.0,297540015.0,M356,Polyneuropathy in collagen vascular disease
+Systemic connective tissue disorders,2670764010.0,H583,H583.00,367542003.0,2670764010.0,M356,Pulmonary eosinophilia
+Systemic connective tissue disorders,309384013.0,Myu79,Myu7900,105969002.0,170388012.0,M356,[X]Other specified localized connective tissue disorders
+Systemic connective tissue disorders,422991000006117.0,Fyu77,Fyu7700,193177003.0,297540015.0,M356,[X]Polyneuropathy/systemic connective tissue disorders CE
+Systemic connective tissue disorders,3043281000006116.0,^ESCTRE304328,,33760009.0,1228104010.0,M356,Relapsing panniculitis
+Systemic connective tissue disorders,6298421000006116.0,^ESCTEO629842,,367542003.0,492714018.0,M356,Eosinophilic asthma
+Systemic connective tissue disorders,59031000006117.0,N2430-1,N243011,33760009.0,56364015.0,M356,Weber - Christian disease
+Systemic connective tissue disorders,312574017.0,Nyu4,Nyu4.00,105969002.0,2469864015.0,M356,[X]Systemic connective tissue disorders
+Systemic connective tissue disorders,3043261000006114.0,^ESCTWE304326,,33760009.0,56364015.0,M356,Weber-Christian disease
+Systemic connective tissue disorders,301739012.0,H583z,H583z00,367542003.0,492714018.0,M357,Pulmonary eosinophilia NOS
+Systemic connective tissue disorders,428621000006114.0,Nyu4C,Nyu4C00,105969002.0,170388012.0,M357,[X]Systemic disorders/connective tissue in other diseases CE
+Systemic connective tissue disorders,221451000000115.0,N-1,N....11,105969002.0,1219184017.0,M357,Connective tissue diseases
+Systemic connective tissue disorders,572101000006119.0,N00-1,N00..11,105969002.0,1219184017.0,M357,Collagen diseases
+Systemic connective tissue disorders,621001000006118.0,N00,N00..00,105969002.0,1219184017.0,M357,Diffuse diseases of connective tissue
+Systemic connective tissue disorders,628221000006110.0,N235-1,N235.11,240261009.0,359916019.0,M357,Double-jointed (hypermobility)
+Systemic connective tissue disorders,6298471000006115.0,^ESCTAN629847,,367542003.0,1228709010.0,M357,Andrews syndrome
+Systemic connective tissue disorders,4125671000006110.5,^ESCTDI412567,,105969002.0,4125671000006110.5,M357,Disorder of connective tissue
+Systemic connective tissue disorders,6298441000006111.0,^ESCTPI629844,,367542003.0,1228706015.0,M357,PIE - Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,6298451000006113.0,^ESCTPU629845,,367542003.0,1228707012.0,M357,Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,5145191000006114.0,^ESCTGE514519,,240261009.0,359915015.0,M357,Generalized benign joint hypermobility
+Systemic connective tissue disorders,3895091000006116.0,^ESCTAU389509,,85828009.0,142279016.0,M357,Autoimmune disorder
+Systemic connective tissue disorders,400155018.0,N00y,N00y.00,105969002.0,170388012.0,M357,Other specified diffuse collagen diseases
+Systemic connective tissue disorders,309391011.0,Myu7F,Myu7F00,105969002.0,170388012.0,M357,"[X]Localized connective tissue disorder, unspecified"
+Systemic connective tissue disorders,312583010.0,Nyu47,Nyu4700,105969002.0,170388012.0,M357,[X]Other systemic diseases of connective tissue
+Systemic connective tissue disorders,736251000006113.0,M2V,M2V..00,105969002.0,170388012.0,M357,"Localized connective tissue disorder, unspecified"
+Systemic connective tissue disorders,297545013.0,F371z,F371z00,193177003.0,297540015.0,M357,Polyneuropathy in collagen vascular disease NOS
+Systemic connective tissue disorders,293715012.0,C394,C394.00,85828009.0,142276011.0,M357,Autoimmune disease NOS
+Systemic connective tissue disorders,6298431000006118.0,^ESCTEP629843,,367542003.0,1228705016.0,M357,EP - Eosinophilic pneumonia
+Systemic connective tissue disorders,6298461000006110.0,^ESCTEO629846,,367542003.0,1228708019.0,M357,Eosinophilic pneumonia
+Systemic connective tissue disorders,4770431000006110.0,^ESCTNE477043,,193177003.0,297541016.0,M357,Neuropathy in vasculitis and connective tissue disease
+Systemic connective tissue disorders,3890511000006112.0,^ESCTFA389051,,85551004.0,1235044011.0,M357,Familial ligamentous laxity
+Systemic connective tissue disorders,141799013.0,N235,N235.00,85551004.0,141799013.0,M357,Hypermobility syndrome
+Systemic connective tissue disorders,297540015.0,F371,F371.00,193177003.0,297540015.0,M357,Polyneuropathy in collagen vascular disease
+Systemic connective tissue disorders,2670764010.0,H583,H583.00,367542003.0,2670764010.0,M357,Pulmonary eosinophilia
+Systemic connective tissue disorders,891551000006113.0,N234-99,N234.99,27911000.0,891551000006113.0,M357,Laxity of ligaments
+Systemic connective tissue disorders,309384013.0,Myu79,Myu7900,105969002.0,170388012.0,M357,[X]Other specified localized connective tissue disorders
+Systemic connective tissue disorders,422991000006117.0,Fyu77,Fyu7700,193177003.0,297540015.0,M357,[X]Polyneuropathy/systemic connective tissue disorders CE
+Systemic connective tissue disorders,3482611000006119.0,^ESCTDI348261,,60492000.0,100508017.0,M357,Disorder of ligament
+Systemic connective tissue disorders,6298421000006116.0,^ESCTEO629842,,367542003.0,492714018.0,M357,Eosinophilic asthma
+Systemic connective tissue disorders,2164079010.0,N23-2,N23..12,60492000.0,2164079010.0,M357,Ligament disorders
+Systemic connective tissue disorders,46720015.0,N234,N234.00,27911000.0,46720015.0,M357,Laxity of ligament
+Systemic connective tissue disorders,312574017.0,Nyu4,Nyu4.00,105969002.0,2469864015.0,M357,[X]Systemic connective tissue disorders
+Systemic connective tissue disorders,301739012.0,H583z,H583z00,367542003.0,492714018.0,M358,Pulmonary eosinophilia NOS
+Systemic connective tissue disorders,428621000006114.0,Nyu4C,Nyu4C00,105969002.0,170388012.0,M358,[X]Systemic disorders/connective tissue in other diseases CE
+Systemic connective tissue disorders,221451000000115.0,N-1,N....11,105969002.0,1219184017.0,M358,Connective tissue diseases
+Systemic connective tissue disorders,515061000006119.0,7B2,7B2..00,14861000.0,1221138012.0,M358,Bladder operations
+Systemic connective tissue disorders,572101000006119.0,N00-1,N00..11,105969002.0,1219184017.0,M358,Collagen diseases
+Systemic connective tissue disorders,621001000006118.0,N00,N00..00,105969002.0,1219184017.0,M358,Diffuse diseases of connective tissue
+Systemic connective tissue disorders,6298471000006115.0,^ESCTAN629847,,367542003.0,1228709010.0,M358,Andrews syndrome
+Systemic connective tissue disorders,4125671000006110.5,^ESCTDI412567,,105969002.0,4125671000006110.5,M358,Disorder of connective tissue
+Systemic connective tissue disorders,6298441000006111.0,^ESCTPI629844,,367542003.0,1228706015.0,M358,PIE - Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,4151741000006113.5,^ESCTCY415174,,108034003.0,1219383017.0,M358,Cystectomy
+Systemic connective tissue disorders,6298451000006113.0,^ESCTPU629845,,367542003.0,1228707012.0,M358,Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,3895091000006116.0,^ESCTAU389509,,85828009.0,142279016.0,M358,Autoimmune disorder
+Systemic connective tissue disorders,400155018.0,N00y,N00y.00,105969002.0,170388012.0,M358,Other specified diffuse collagen diseases
+Systemic connective tissue disorders,309391011.0,Myu7F,Myu7F00,105969002.0,170388012.0,M358,"[X]Localized connective tissue disorder, unspecified"
+Systemic connective tissue disorders,312583010.0,Nyu47,Nyu4700,105969002.0,170388012.0,M358,[X]Other systemic diseases of connective tissue
+Systemic connective tissue disorders,736251000006113.0,M2V,M2V..00,105969002.0,170388012.0,M358,"Localized connective tissue disorder, unspecified"
+Systemic connective tissue disorders,932491000006110.0,7B35y-99,7B35y99,14861000.0,932491000006110.0,M358,Urinary incontinence/sling opn
+Systemic connective tissue disorders,297545013.0,F371z,F371z00,193177003.0,297540015.0,M358,Polyneuropathy in collagen vascular disease NOS
+Systemic connective tissue disorders,293715012.0,C394,C394.00,85828009.0,142276011.0,M358,Autoimmune disease NOS
+Systemic connective tissue disorders,6298431000006118.0,^ESCTEP629843,,367542003.0,1228705016.0,M358,EP - Eosinophilic pneumonia
+Systemic connective tissue disorders,6298461000006110.0,^ESCTEO629846,,367542003.0,1228708019.0,M358,Eosinophilic pneumonia
+Systemic connective tissue disorders,4770431000006110.0,^ESCTNE477043,,193177003.0,297541016.0,M358,Neuropathy in vasculitis and connective tissue disease
+Systemic connective tissue disorders,297540015.0,F371,F371.00,193177003.0,297540015.0,M358,Polyneuropathy in collagen vascular disease
+Systemic connective tissue disorders,2670764010.0,H583,H583.00,367542003.0,2670764010.0,M358,Pulmonary eosinophilia
+Systemic connective tissue disorders,2676188013.0,H58y6,H58y600,427123006.0,2676188013.0,M358,Interstitial lung disease due to collagen vascular disease
+Systemic connective tissue disorders,272631012.0,7B204,7B20400,108034003.0,172473013.0,M358,Cystectomy NEC
+Systemic connective tissue disorders,272793017.0,7B2z,7B2z.00,14861000.0,25243014.0,M358,Bladder operations NOS
+Systemic connective tissue disorders,309384013.0,Myu79,Myu7900,105969002.0,170388012.0,M358,[X]Other specified localized connective tissue disorders
+Systemic connective tissue disorders,422991000006117.0,Fyu77,Fyu7700,193177003.0,297540015.0,M358,[X]Polyneuropathy/systemic connective tissue disorders CE
+Systemic connective tissue disorders,315198013.0,PGz4,PGz4.00,363039000.0,482174018.0,M358,Unspecified anomaly of connective tissue
+Systemic connective tissue disorders,6298421000006116.0,^ESCTEO629842,,367542003.0,492714018.0,M358,Eosinophilic asthma
+Systemic connective tissue disorders,312574017.0,Nyu4,Nyu4.00,105969002.0,2469864015.0,M358,[X]Systemic connective tissue disorders
+Systemic connective tissue disorders,301739012.0,H583z,H583z00,367542003.0,492714018.0,M359,Pulmonary eosinophilia NOS
+Systemic connective tissue disorders,428621000006114.0,Nyu4C,Nyu4C00,105969002.0,170388012.0,M359,[X]Systemic disorders/connective tissue in other diseases CE
+Systemic connective tissue disorders,3826411000006118.5,^ESCTDI382641,,81573002.0,135320011.0,M359,Diffuse disease of connective tissue
+Systemic connective tissue disorders,221451000000115.0,N-1,N....11,105969002.0,1219184017.0,M359,Connective tissue diseases
+Systemic connective tissue disorders,245051000006117.0,7B21-1,7B21.11,112902005.0,184369018.0,M359,Partial cystectomy
+Systemic connective tissue disorders,515061000006119.0,7B2,7B2..00,14861000.0,1221138012.0,M359,Bladder operations
+Systemic connective tissue disorders,572101000006119.0,N00-1,N00..11,105969002.0,1219184017.0,M359,Collagen diseases
+Systemic connective tissue disorders,621001000006118.0,N00,N00..00,105969002.0,1219184017.0,M359,Diffuse diseases of connective tissue
+Systemic connective tissue disorders,3826421000006113.5,^ESCTCO382642,,81573002.0,135321010.0,M359,Collagen disorder
+Systemic connective tissue disorders,6298471000006115.0,^ESCTAN629847,,367542003.0,1228709010.0,M359,Andrews syndrome
+Systemic connective tissue disorders,4125671000006110.5,^ESCTDI412567,,105969002.0,4125671000006110.5,M359,Disorder of connective tissue
+Systemic connective tissue disorders,6298441000006111.0,^ESCTPI629844,,367542003.0,1228706015.0,M359,PIE - Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,4151741000006113.5,^ESCTCY415174,,108034003.0,1219383017.0,M359,Cystectomy
+Systemic connective tissue disorders,6298451000006113.0,^ESCTPU629845,,367542003.0,1228707012.0,M359,Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,3895091000006116.0,^ESCTAU389509,,85828009.0,142279016.0,M359,Autoimmune disorder
+Systemic connective tissue disorders,400155018.0,N00y,N00y.00,105969002.0,170388012.0,M359,Other specified diffuse collagen diseases
+Systemic connective tissue disorders,309391011.0,Myu7F,Myu7F00,105969002.0,170388012.0,M359,"[X]Localized connective tissue disorder, unspecified"
+Systemic connective tissue disorders,312583010.0,Nyu47,Nyu4700,105969002.0,170388012.0,M359,[X]Other systemic diseases of connective tissue
+Systemic connective tissue disorders,736251000006113.0,M2V,M2V..00,105969002.0,170388012.0,M359,"Localized connective tissue disorder, unspecified"
+Systemic connective tissue disorders,932491000006110.0,7B35y-99,7B35y99,14861000.0,932491000006110.0,M359,Urinary incontinence/sling opn
+Systemic connective tissue disorders,297545013.0,F371z,F371z00,193177003.0,297540015.0,M359,Polyneuropathy in collagen vascular disease NOS
+Systemic connective tissue disorders,293715012.0,C394,C394.00,85828009.0,142276011.0,M359,Autoimmune disease NOS
+Systemic connective tissue disorders,6298431000006118.0,^ESCTEP629843,,367542003.0,1228705016.0,M359,EP - Eosinophilic pneumonia
+Systemic connective tissue disorders,6298461000006110.0,^ESCTEO629846,,367542003.0,1228708019.0,M359,Eosinophilic pneumonia
+Systemic connective tissue disorders,4770431000006110.0,^ESCTNE477043,,193177003.0,297541016.0,M359,Neuropathy in vasculitis and connective tissue disease
+Systemic connective tissue disorders,184369018.0,7B211,7B21100,112902005.0,184369018.0,M359,Partial cystectomy
+Systemic connective tissue disorders,297540015.0,F371,F371.00,193177003.0,297540015.0,M359,Polyneuropathy in collagen vascular disease
+Systemic connective tissue disorders,2670764010.0,H583,H583.00,367542003.0,2670764010.0,M359,Pulmonary eosinophilia
+Systemic connective tissue disorders,867431000006111.0,7B211-97,7B21197,112902005.0,867431000006111.0,M359,Cystectomy - trigonectomy
+Systemic connective tissue disorders,272631012.0,7B204,7B20400,108034003.0,172473013.0,M359,Cystectomy NEC
+Systemic connective tissue disorders,272793017.0,7B2z,7B2z.00,14861000.0,25243014.0,M359,Bladder operations NOS
+Systemic connective tissue disorders,309384013.0,Myu79,Myu7900,105969002.0,170388012.0,M359,[X]Other specified localized connective tissue disorders
+Systemic connective tissue disorders,422991000006117.0,Fyu77,Fyu7700,193177003.0,297540015.0,M359,[X]Polyneuropathy/systemic connective tissue disorders CE
+Systemic connective tissue disorders,309433011.0,N00z,N00z.00,81573002.0,135316012.0,M359,Collagen disease NOS
+Systemic connective tissue disorders,867421000006113.0,7B211-96,7B21196,112902005.0,867421000006113.0,M359,Partial cystectomy NOS
+Systemic connective tissue disorders,867441000006118.0,7B211-98,7B21198,112902005.0,867441000006118.0,M359,Cystectomy - wedge resection
+Systemic connective tissue disorders,867451000006116.0,7B211-99,7B21199,112902005.0,867451000006116.0,M359,Cystectomy - dome of bladder
+Systemic connective tissue disorders,6298421000006116.0,^ESCTEO629842,,367542003.0,492714018.0,M359,Eosinophilic asthma
+Systemic connective tissue disorders,312574017.0,Nyu4,Nyu4.00,105969002.0,2469864015.0,M359,[X]Systemic connective tissue disorders
+Systemic connective tissue disorders,4215591000006116.0,^ESCTPA421559,,112902005.0,2765023012.0,M359,Partial urinary cystectomy
+Systemic connective tissue disorders,301739012.0,H583z,H583z00,367542003.0,492714018.0,M360,Pulmonary eosinophilia NOS
+Systemic connective tissue disorders,428621000006114.0,Nyu4C,Nyu4C00,105969002.0,170388012.0,M360,[X]Systemic disorders/connective tissue in other diseases CE
+Systemic connective tissue disorders,221451000000115.0,N-1,N....11,105969002.0,1219184017.0,M360,Connective tissue diseases
+Systemic connective tissue disorders,572101000006119.0,N00-1,N00..11,105969002.0,1219184017.0,M360,Collagen diseases
+Systemic connective tissue disorders,621001000006118.0,N00,N00..00,105969002.0,1219184017.0,M360,Diffuse diseases of connective tissue
+Systemic connective tissue disorders,6298471000006115.0,^ESCTAN629847,,367542003.0,1228709010.0,M360,Andrews syndrome
+Systemic connective tissue disorders,4125671000006110.5,^ESCTDI412567,,105969002.0,4125671000006110.5,M360,Disorder of connective tissue
+Systemic connective tissue disorders,6298441000006111.0,^ESCTPI629844,,367542003.0,1228706015.0,M360,PIE - Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,6298451000006113.0,^ESCTPU629845,,367542003.0,1228707012.0,M360,Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,400155018.0,N00y,N00y.00,105969002.0,170388012.0,M360,Other specified diffuse collagen diseases
+Systemic connective tissue disorders,309391011.0,Myu7F,Myu7F00,105969002.0,170388012.0,M360,"[X]Localized connective tissue disorder, unspecified"
+Systemic connective tissue disorders,312583010.0,Nyu47,Nyu4700,105969002.0,170388012.0,M360,[X]Other systemic diseases of connective tissue
+Systemic connective tissue disorders,736251000006113.0,M2V,M2V..00,105969002.0,170388012.0,M360,"Localized connective tissue disorder, unspecified"
+Systemic connective tissue disorders,6298431000006118.0,^ESCTEP629843,,367542003.0,1228705016.0,M360,EP - Eosinophilic pneumonia
+Systemic connective tissue disorders,6298461000006110.0,^ESCTEO629846,,367542003.0,1228708019.0,M360,Eosinophilic pneumonia
+Systemic connective tissue disorders,2670764010.0,H583,H583.00,367542003.0,2670764010.0,M360,Pulmonary eosinophilia
+Systemic connective tissue disorders,309384013.0,Myu79,Myu7900,105969002.0,170388012.0,M360,[X]Other specified localized connective tissue disorders
+Systemic connective tissue disorders,6298421000006116.0,^ESCTEO629842,,367542003.0,492714018.0,M360,Eosinophilic asthma
+Systemic connective tissue disorders,312574017.0,Nyu4,Nyu4.00,105969002.0,2469864015.0,M360,[X]Systemic connective tissue disorders
+Systemic connective tissue disorders,301739012.0,H583z,H583z00,367542003.0,492714018.0,M361,Pulmonary eosinophilia NOS
+Systemic connective tissue disorders,428621000006114.0,Nyu4C,Nyu4C00,105969002.0,170388012.0,M361,[X]Systemic disorders/connective tissue in other diseases CE
+Systemic connective tissue disorders,82211000006119.0,7B220,7B22000,176117005.0,272647014.0,M361,Unspecified caecocystoplasty
+Systemic connective tissue disorders,221451000000115.0,N-1,N....11,105969002.0,1219184017.0,M361,Connective tissue diseases
+Systemic connective tissue disorders,4670581000006116.0,^ESCTCA467058,,176117005.0,272647014.0,M361,Caecocystoplasty
+Systemic connective tissue disorders,515061000006119.0,7B2,7B2..00,14861000.0,1221138012.0,M361,Bladder operations
+Systemic connective tissue disorders,572101000006119.0,N00-1,N00..11,105969002.0,1219184017.0,M361,Collagen diseases
+Systemic connective tissue disorders,621001000006118.0,N00,N00..00,105969002.0,1219184017.0,M361,Diffuse diseases of connective tissue
+Systemic connective tissue disorders,6298471000006115.0,^ESCTAN629847,,367542003.0,1228709010.0,M361,Andrews syndrome
+Systemic connective tissue disorders,4125671000006110.5,^ESCTDI412567,,105969002.0,4125671000006110.5,M361,Disorder of connective tissue
+Systemic connective tissue disorders,6298441000006111.0,^ESCTPI629844,,367542003.0,1228706015.0,M361,PIE - Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,4670611000006112.0,^ESCTCE467061,,176117005.0,272646017.0,M361,Cecal bladder augmentation
+Systemic connective tissue disorders,3276721000006114.0,^ESCTAU327672,,48007004.0,79998016.0,M361,Augmentation of bladder
+Systemic connective tissue disorders,6298451000006113.0,^ESCTPU629845,,367542003.0,1228707012.0,M361,Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,4670591000006118.0,^ESCTCE467059,,176117005.0,272644019.0,M361,Cecocystoplasty
+Systemic connective tissue disorders,3276761000006115.0,^ESCTAU327676,,48007004.0,3037557010.0,M361,Augmentation cystoplasty
+Systemic connective tissue disorders,400155018.0,N00y,N00y.00,105969002.0,170388012.0,M361,Other specified diffuse collagen diseases
+Systemic connective tissue disorders,309391011.0,Myu7F,Myu7F00,105969002.0,170388012.0,M361,"[X]Localized connective tissue disorder, unspecified"
+Systemic connective tissue disorders,312583010.0,Nyu47,Nyu4700,105969002.0,170388012.0,M361,[X]Other systemic diseases of connective tissue
+Systemic connective tissue disorders,736251000006113.0,M2V,M2V..00,105969002.0,170388012.0,M361,"Localized connective tissue disorder, unspecified"
+Systemic connective tissue disorders,932491000006110.0,7B35y-99,7B35y99,14861000.0,932491000006110.0,M361,Urinary incontinence/sling opn
+Systemic connective tissue disorders,6298431000006118.0,^ESCTEP629843,,367542003.0,1228705016.0,M361,EP - Eosinophilic pneumonia
+Systemic connective tissue disorders,6298461000006110.0,^ESCTEO629846,,367542003.0,1228708019.0,M361,Eosinophilic pneumonia
+Systemic connective tissue disorders,272645018.0,7B225,7B22500,176117005.0,272645018.0,M361,Caecal bladder augmentation
+Systemic connective tissue disorders,2670764010.0,H583,H583.00,367542003.0,2670764010.0,M361,Pulmonary eosinophilia
+Systemic connective tissue disorders,272662011.0,7B22z,7B22z00,265566009.0,394385012.0,M361,Enlargement of bladder NOS
+Systemic connective tissue disorders,272793017.0,7B2z,7B2z.00,14861000.0,25243014.0,M361,Bladder operations NOS
+Systemic connective tissue disorders,3276741000006119.0,^ESCTBL327674,,48007004.0,494979011.0,M361,Bladder augmentation
+Systemic connective tissue disorders,309384013.0,Myu79,Myu7900,105969002.0,170388012.0,M361,[X]Other specified localized connective tissue disorders
+Systemic connective tissue disorders,272661016.0,7B22y,7B22y00,265566009.0,394385012.0,M361,Other specified enlargement of bladder
+Systemic connective tissue disorders,3276751000006117.0,^ESCTAU327675,,48007004.0,2670722010.0,M361,Augmentation of urinary bladder
+Systemic connective tissue disorders,6298421000006116.0,^ESCTEO629842,,367542003.0,492714018.0,M361,Eosinophilic asthma
+Systemic connective tissue disorders,494978015.0,7B22-2,7B22.12,48007004.0,494978015.0,M361,Enlargement of bladder
+Systemic connective tissue disorders,312574017.0,Nyu4,Nyu4.00,105969002.0,2469864015.0,M361,[X]Systemic connective tissue disorders
+Systemic connective tissue disorders,301739012.0,H583z,H583z00,367542003.0,492714018.0,M362,Pulmonary eosinophilia NOS
+Systemic connective tissue disorders,428621000006114.0,Nyu4C,Nyu4C00,105969002.0,170388012.0,M362,[X]Systemic disorders/connective tissue in other diseases CE
+Systemic connective tissue disorders,221451000000115.0,N-1,N....11,105969002.0,1219184017.0,M362,Connective tissue diseases
+Systemic connective tissue disorders,515061000006119.0,7B2,7B2..00,14861000.0,1221138012.0,M362,Bladder operations
+Systemic connective tissue disorders,572101000006119.0,N00-1,N00..11,105969002.0,1219184017.0,M362,Collagen diseases
+Systemic connective tissue disorders,621001000006118.0,N00,N00..00,105969002.0,1219184017.0,M362,Diffuse diseases of connective tissue
+Systemic connective tissue disorders,6298471000006115.0,^ESCTAN629847,,367542003.0,1228709010.0,M362,Andrews syndrome
+Systemic connective tissue disorders,4125671000006110.5,^ESCTDI412567,,105969002.0,4125671000006110.5,M362,Disorder of connective tissue
+Systemic connective tissue disorders,3592971000006114.0,^ESCTBL359297,,67212000.0,111664013.0,M362,Bladder to ileum anastomosis
+Systemic connective tissue disorders,6298441000006111.0,^ESCTPI629844,,367542003.0,1228706015.0,M362,PIE - Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,3592941000006118.0,^ESCTIL359294,,67212000.0,111661017.0,M362,Ileocystoplasty
+Systemic connective tissue disorders,3276721000006114.0,^ESCTAU327672,,48007004.0,79998016.0,M362,Augmentation of bladder
+Systemic connective tissue disorders,6298451000006113.0,^ESCTPU629845,,367542003.0,1228707012.0,M362,Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,3276761000006115.0,^ESCTAU327676,,48007004.0,3037557010.0,M362,Augmentation cystoplasty
+Systemic connective tissue disorders,400155018.0,N00y,N00y.00,105969002.0,170388012.0,M362,Other specified diffuse collagen diseases
+Systemic connective tissue disorders,309391011.0,Myu7F,Myu7F00,105969002.0,170388012.0,M362,"[X]Localized connective tissue disorder, unspecified"
+Systemic connective tissue disorders,312583010.0,Nyu47,Nyu4700,105969002.0,170388012.0,M362,[X]Other systemic diseases of connective tissue
+Systemic connective tissue disorders,736251000006113.0,M2V,M2V..00,105969002.0,170388012.0,M362,"Localized connective tissue disorder, unspecified"
+Systemic connective tissue disorders,932491000006110.0,7B35y-99,7B35y99,14861000.0,932491000006110.0,M362,Urinary incontinence/sling opn
+Systemic connective tissue disorders,3592981000006112.0,^ESCTIL359298,,67212000.0,111665014.0,M362,Ileal loop bladder procedure
+Systemic connective tissue disorders,6298431000006118.0,^ESCTEP629843,,367542003.0,1228705016.0,M362,EP - Eosinophilic pneumonia
+Systemic connective tissue disorders,6298461000006110.0,^ESCTEO629846,,367542003.0,1228708019.0,M362,Eosinophilic pneumonia
+Systemic connective tissue disorders,500660011.0,7B227,7B22700,67212000.0,500660011.0,M362,Ileal augmentation of bladder
+Systemic connective tissue disorders,2670764010.0,H583,H583.00,367542003.0,2670764010.0,M362,Pulmonary eosinophilia
+Systemic connective tissue disorders,272662011.0,7B22z,7B22z00,265566009.0,394385012.0,M362,Enlargement of bladder NOS
+Systemic connective tissue disorders,272793017.0,7B2z,7B2z.00,14861000.0,25243014.0,M362,Bladder operations NOS
+Systemic connective tissue disorders,3276741000006119.0,^ESCTBL327674,,48007004.0,494979011.0,M362,Bladder augmentation
+Systemic connective tissue disorders,272657010.0,7B228,7B22800,176123000.0,272657010.0,M362,Clam ileocystoplasty
+Systemic connective tissue disorders,309384013.0,Myu79,Myu7900,105969002.0,170388012.0,M362,[X]Other specified localized connective tissue disorders
+Systemic connective tissue disorders,76701000006119.0,7B221,7B22100,67212000.0,111661017.0,M362,Unspecified ileocystoplasty
+Systemic connective tissue disorders,272661016.0,7B22y,7B22y00,265566009.0,394385012.0,M362,Other specified enlargement of bladder
+Systemic connective tissue disorders,3276751000006117.0,^ESCTAU327675,,48007004.0,2670722010.0,M362,Augmentation of urinary bladder
+Systemic connective tissue disorders,6298421000006116.0,^ESCTEO629842,,367542003.0,492714018.0,M362,Eosinophilic asthma
+Systemic connective tissue disorders,494978015.0,7B22-2,7B22.12,48007004.0,494978015.0,M362,Enlargement of bladder
+Systemic connective tissue disorders,312574017.0,Nyu4,Nyu4.00,105969002.0,2469864015.0,M362,[X]Systemic connective tissue disorders
+Systemic connective tissue disorders,301739012.0,H583z,H583z00,367542003.0,492714018.0,M363,Pulmonary eosinophilia NOS
+Systemic connective tissue disorders,428621000006114.0,Nyu4C,Nyu4C00,105969002.0,170388012.0,M363,[X]Systemic disorders/connective tissue in other diseases CE
+Systemic connective tissue disorders,82331000006117.0,7B222,7B22200,386652006.0,1480794016.0,M363,Unspecified colocystoplasty
+Systemic connective tissue disorders,221451000000115.0,N-1,N....11,105969002.0,1219184017.0,M363,Connective tissue diseases
+Systemic connective tissue disorders,515061000006119.0,7B2,7B2..00,14861000.0,1221138012.0,M363,Bladder operations
+Systemic connective tissue disorders,572101000006119.0,N00-1,N00..11,105969002.0,1219184017.0,M363,Collagen diseases
+Systemic connective tissue disorders,621001000006118.0,N00,N00..00,105969002.0,1219184017.0,M363,Diffuse diseases of connective tissue
+Systemic connective tissue disorders,6298471000006115.0,^ESCTAN629847,,367542003.0,1228709010.0,M363,Andrews syndrome
+Systemic connective tissue disorders,4125671000006110.5,^ESCTDI412567,,105969002.0,4125671000006110.5,M363,Disorder of connective tissue
+Systemic connective tissue disorders,6298441000006111.0,^ESCTPI629844,,367542003.0,1228706015.0,M363,PIE - Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,3276721000006114.0,^ESCTAU327672,,48007004.0,79998016.0,M363,Augmentation of bladder
+Systemic connective tissue disorders,6298451000006113.0,^ESCTPU629845,,367542003.0,1228707012.0,M363,Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,3276761000006115.0,^ESCTAU327676,,48007004.0,3037557010.0,M363,Augmentation cystoplasty
+Systemic connective tissue disorders,6458801000006118.0,^ESCTCY645880,,386652006.0,1491670016.0,M363,Cystocolic anastomosis
+Systemic connective tissue disorders,6458791000006119.0,^ESCTCO645879,,386652006.0,1480794016.0,M363,Colocystoplasty
+Systemic connective tissue disorders,400155018.0,N00y,N00y.00,105969002.0,170388012.0,M363,Other specified diffuse collagen diseases
+Systemic connective tissue disorders,309391011.0,Myu7F,Myu7F00,105969002.0,170388012.0,M363,"[X]Localized connective tissue disorder, unspecified"
+Systemic connective tissue disorders,312583010.0,Nyu47,Nyu4700,105969002.0,170388012.0,M363,[X]Other systemic diseases of connective tissue
+Systemic connective tissue disorders,736251000006113.0,M2V,M2V..00,105969002.0,170388012.0,M363,"Localized connective tissue disorder, unspecified"
+Systemic connective tissue disorders,932491000006110.0,7B35y-99,7B35y99,14861000.0,932491000006110.0,M363,Urinary incontinence/sling opn
+Systemic connective tissue disorders,6298431000006118.0,^ESCTEP629843,,367542003.0,1228705016.0,M363,EP - Eosinophilic pneumonia
+Systemic connective tissue disorders,6298461000006110.0,^ESCTEO629846,,367542003.0,1228708019.0,M363,Eosinophilic pneumonia
+Systemic connective tissue disorders,2670764010.0,H583,H583.00,367542003.0,2670764010.0,M363,Pulmonary eosinophilia
+Systemic connective tissue disorders,272662011.0,7B22z,7B22z00,265566009.0,394385012.0,M363,Enlargement of bladder NOS
+Systemic connective tissue disorders,272793017.0,7B2z,7B2z.00,14861000.0,25243014.0,M363,Bladder operations NOS
+Systemic connective tissue disorders,3276741000006119.0,^ESCTBL327674,,48007004.0,494979011.0,M363,Bladder augmentation
+Systemic connective tissue disorders,309384013.0,Myu79,Myu7900,105969002.0,170388012.0,M363,[X]Other specified localized connective tissue disorders
+Systemic connective tissue disorders,272661016.0,7B22y,7B22y00,265566009.0,394385012.0,M363,Other specified enlargement of bladder
+Systemic connective tissue disorders,3276751000006117.0,^ESCTAU327675,,48007004.0,2670722010.0,M363,Augmentation of urinary bladder
+Systemic connective tissue disorders,6298421000006116.0,^ESCTEO629842,,367542003.0,492714018.0,M363,Eosinophilic asthma
+Systemic connective tissue disorders,494978015.0,7B22-2,7B22.12,48007004.0,494978015.0,M363,Enlargement of bladder
+Systemic connective tissue disorders,1491671017.0,7B22A,7B22A00,386652006.0,1491671017.0,M363,Colonic bladder augmentation
+Systemic connective tissue disorders,312574017.0,Nyu4,Nyu4.00,105969002.0,2469864015.0,M363,[X]Systemic connective tissue disorders
+Systemic connective tissue disorders,301739012.0,H583z,H583z00,367542003.0,492714018.0,M364,Pulmonary eosinophilia NOS
+Systemic connective tissue disorders,428621000006114.0,Nyu4C,Nyu4C00,105969002.0,170388012.0,M364,[X]Systemic disorders/connective tissue in other diseases CE
+Systemic connective tissue disorders,221451000000115.0,N-1,N....11,105969002.0,1219184017.0,M364,Connective tissue diseases
+Systemic connective tissue disorders,572101000006119.0,N00-1,N00..11,105969002.0,1219184017.0,M364,Collagen diseases
+Systemic connective tissue disorders,621001000006118.0,N00,N00..00,105969002.0,1219184017.0,M364,Diffuse diseases of connective tissue
+Systemic connective tissue disorders,6298471000006115.0,^ESCTAN629847,,367542003.0,1228709010.0,M364,Andrews syndrome
+Systemic connective tissue disorders,4125671000006110.5,^ESCTDI412567,,105969002.0,4125671000006110.5,M364,Disorder of connective tissue
+Systemic connective tissue disorders,6298441000006111.0,^ESCTPI629844,,367542003.0,1228706015.0,M364,PIE - Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,6298451000006113.0,^ESCTPU629845,,367542003.0,1228707012.0,M364,Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,400155018.0,N00y,N00y.00,105969002.0,170388012.0,M364,Other specified diffuse collagen diseases
+Systemic connective tissue disorders,309391011.0,Myu7F,Myu7F00,105969002.0,170388012.0,M364,"[X]Localized connective tissue disorder, unspecified"
+Systemic connective tissue disorders,312583010.0,Nyu47,Nyu4700,105969002.0,170388012.0,M364,[X]Other systemic diseases of connective tissue
+Systemic connective tissue disorders,736251000006113.0,M2V,M2V..00,105969002.0,170388012.0,M364,"Localized connective tissue disorder, unspecified"
+Systemic connective tissue disorders,6298431000006118.0,^ESCTEP629843,,367542003.0,1228705016.0,M364,EP - Eosinophilic pneumonia
+Systemic connective tissue disorders,6298461000006110.0,^ESCTEO629846,,367542003.0,1228708019.0,M364,Eosinophilic pneumonia
+Systemic connective tissue disorders,2670764010.0,H583,H583.00,367542003.0,2670764010.0,M364,Pulmonary eosinophilia
+Systemic connective tissue disorders,309384013.0,Myu79,Myu7900,105969002.0,170388012.0,M364,[X]Other specified localized connective tissue disorders
+Systemic connective tissue disorders,6298421000006116.0,^ESCTEO629842,,367542003.0,492714018.0,M364,Eosinophilic asthma
+Systemic connective tissue disorders,312574017.0,Nyu4,Nyu4.00,105969002.0,2469864015.0,M364,[X]Systemic connective tissue disorders
+Systemic connective tissue disorders,301739012.0,H583z,H583z00,367542003.0,492714018.0,M368,Pulmonary eosinophilia NOS
+Systemic connective tissue disorders,309976019.0,N0543,N054300,396275006.0,1776248011.0,M368,"Oligoarticular osteoarthritis, unspecified, of forearm"
+Systemic connective tissue disorders,309979014.0,N0546,N054600,396275006.0,1776248011.0,M368,"Oligoarticular osteoarthritis, unspecified, of lower leg"
+Systemic connective tissue disorders,310010015.0,N05z8,N05z800,396275006.0,1776248011.0,M368,"Osteoarthritis NOS, other specified site"
+Systemic connective tissue disorders,310029014.0,N05zR,N05zR00,396275006.0,1776248011.0,M368,"Osteoarthritis NOS, of other tarsal joint"
+Systemic connective tissue disorders,400184010.0,N05z3,N05z300,396275006.0,1776248011.0,M368,"Osteoarthritis NOS, of the forearm"
+Systemic connective tissue disorders,400187015.0,N05z6,N05z600,396275006.0,1776248011.0,M368,"Osteoarthritis NOS, of the lower leg"
+Systemic connective tissue disorders,31041000006113.0,N05zD,N05zD00,396275006.0,1776248011.0,M368,"Osteoarthritis NOS, of distal radio-ulnar joint"
+Systemic connective tissue disorders,428621000006114.0,Nyu4C,Nyu4C00,105969002.0,170388012.0,M368,[X]Systemic disorders/connective tissue in other diseases CE
+Systemic connective tissue disorders,41261000006115.0,N05,N05..00,396275006.0,1776248011.0,M368,Osteoarthritis and allied disorders
+Systemic connective tissue disorders,41281000006113.0,N05z,N05z.00,396275006.0,1776248011.0,M368,Osteoarthritis NOS
+Systemic connective tissue disorders,221451000000115.0,N-1,N....11,105969002.0,1219184017.0,M368,Connective tissue diseases
+Systemic connective tissue disorders,264481000006111.0,N0541,N054100,396275006.0,1776248011.0,M368,"Oligoarticular osteoarthritis, unspecified, of shoulder"
+Systemic connective tissue disorders,264501000006118.0,N0548,N054800,396275006.0,1776248011.0,M368,"Oligoarticular osteoarthritis, unspecified, other spec sites"
+Systemic connective tissue disorders,6566761000006110.0,^ESCTOA656676,,396275006.0,1785522017.0,M368,OA - Osteoarthritis
+Systemic connective tissue disorders,515061000006119.0,7B2,7B2..00,14861000.0,1221138012.0,M368,Bladder operations
+Systemic connective tissue disorders,572101000006119.0,N00-1,N00..11,105969002.0,1219184017.0,M368,Collagen diseases
+Systemic connective tissue disorders,621001000006118.0,N00,N00..00,105969002.0,1219184017.0,M368,Diffuse diseases of connective tissue
+Systemic connective tissue disorders,6566801000006118.0,^ESCTDE656680,,396275006.0,1785526019.0,M368,Degenerative joint disease
+Systemic connective tissue disorders,6298471000006115.0,^ESCTAN629847,,367542003.0,1228709010.0,M368,Andrews syndrome
+Systemic connective tissue disorders,6566771000006115.0,^ESCTDE656677,,396275006.0,1785523010.0,M368,Degenerative arthritis
+Systemic connective tissue disorders,757071000006113.0,N05z-1,N05z.11,396275006.0,1776248011.0,M368,Joint degeneration
+Systemic connective tissue disorders,6566781000006117.0,^ESCTOA656678,,396275006.0,1785524016.0,M368,OA - Osteoarthrosis
+Systemic connective tissue disorders,4125671000006110.5,^ESCTDI412567,,105969002.0,4125671000006110.5,M368,Disorder of connective tissue
+Systemic connective tissue disorders,6298441000006111.0,^ESCTPI629844,,367542003.0,1228706015.0,M368,PIE - Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,3276721000006114.0,^ESCTAU327672,,48007004.0,79998016.0,M368,Augmentation of bladder
+Systemic connective tissue disorders,6298451000006113.0,^ESCTPU629845,,367542003.0,1228707012.0,M368,Pulmonary infiltrates with eosinophilia
+Systemic connective tissue disorders,6566811000006115.0,^ESCTHY656681,,396275006.0,1785527011.0,M368,Hypertrophic polyarthritis
+Systemic connective tissue disorders,3276761000006115.0,^ESCTAU327676,,48007004.0,3037557010.0,M368,Augmentation cystoplasty
+Systemic connective tissue disorders,400155018.0,N00y,N00y.00,105969002.0,170388012.0,M368,Other specified diffuse collagen diseases
+Systemic connective tissue disorders,309391011.0,Myu7F,Myu7F00,105969002.0,170388012.0,M368,"[X]Localized connective tissue disorder, unspecified"
+Systemic connective tissue disorders,312583010.0,Nyu47,Nyu4700,105969002.0,170388012.0,M368,[X]Other systemic diseases of connective tissue
+Systemic connective tissue disorders,736251000006113.0,M2V,M2V..00,105969002.0,170388012.0,M368,"Localized connective tissue disorder, unspecified"
+Systemic connective tissue disorders,932491000006110.0,7B35y-99,7B35y99,14861000.0,932491000006110.0,M368,Urinary incontinence/sling opn
+Systemic connective tissue disorders,272649012.0,7B223,7B22300,176118000.0,272649012.0,M368,Ileocaecocystoplasty
+Systemic connective tissue disorders,264471000006113.0,N0545,N054500,396275006.0,1776248011.0,M368,"Oligoarticular osteoarthritis, unspecified, of pelvis/thigh"
+Systemic connective tissue disorders,6566791000006119.0,^ESCTHY656679,,396275006.0,1785525015.0,M368,Hypertrophic arthritis
+Systemic connective tissue disorders,6298431000006118.0,^ESCTEP629843,,367542003.0,1228705016.0,M368,EP - Eosinophilic pneumonia
+Systemic connective tissue disorders,6298461000006110.0,^ESCTEO629846,,367542003.0,1228708019.0,M368,Eosinophilic pneumonia
+Systemic connective tissue disorders,6566821000006111.0,^ESCTOS656682,,396275006.0,1785528018.0,M368,Osteoarthrosis
+Systemic connective tissue disorders,1776248011.0,N05-1,N05..11,396275006.0,1776248011.0,M368,Osteoarthritis
+Systemic connective tissue disorders,2670764010.0,H583,H583.00,367542003.0,2670764010.0,M368,Pulmonary eosinophilia
+Systemic connective tissue disorders,867461000006119.0,7B223-99,7B22399,176118000.0,867461000006119.0,M368,Cystoplasty
+Systemic connective tissue disorders,889881000006119.0,N05z2-99,N05z299,396275006.0,889881000006119.0,M368,Osteoarthritis - elbow joint
+Systemic connective tissue disorders,889901000006117.0,N05z4-99,N05z499,396275006.0,889901000006117.0,M368,Osteoarthritis - hand joint
+Systemic connective tissue disorders,889911000006119.0,N05z5-99,N05z599,396275006.0,889911000006119.0,M368,Osteoarthritis - hip joint
+Systemic connective tissue disorders,889931000006113.0,N05z7-99,N05z799,396275006.0,889931000006113.0,M368,Osteoarthritis - ankle/foot
+Systemic connective tissue disorders,272662011.0,7B22z,7B22z00,265566009.0,394385012.0,M368,Enlargement of bladder NOS
+Systemic connective tissue disorders,272793017.0,7B2z,7B2z.00,14861000.0,25243014.0,M368,Bladder operations NOS
+Systemic connective tissue disorders,3276741000006119.0,^ESCTBL327674,,48007004.0,494979011.0,M368,Bladder augmentation
+Systemic connective tissue disorders,309975015.0,N0542,N054200,396275006.0,1776248011.0,M368,"Oligoarticular osteoarthritis, unspecified, of upper arm"
+Systemic connective tissue disorders,889891000006116.0,N05z3-99,N05z399,396275006.0,889891000006116.0,M368,Osteoarthritis - wrist joint
+Systemic connective tissue disorders,309384013.0,Myu79,Myu7900,105969002.0,170388012.0,M368,[X]Other specified localized connective tissue disorders
+Systemic connective tissue disorders,4670631000006118.0,^ESCTIL467063,,176118000.0,272648016.0,M368,Ileocecocystoplasty
+Systemic connective tissue disorders,272661016.0,7B22y,7B22y00,265566009.0,394385012.0,M368,Other specified enlargement of bladder
+Systemic connective tissue disorders,309987010.0,N05z0,N05z000,396275006.0,1776248011.0,M368,"Osteoarthritis NOS, of unspecified site"
+Systemic connective tissue disorders,3276751000006117.0,^ESCTAU327675,,48007004.0,2670722010.0,M368,Augmentation of urinary bladder
+Systemic connective tissue disorders,6298421000006116.0,^ESCTEO629842,,367542003.0,492714018.0,M368,Eosinophilic asthma
+Systemic connective tissue disorders,494978015.0,7B22-2,7B22.12,48007004.0,494978015.0,M368,Enlargement of bladder
+Systemic connective tissue disorders,400182014.0,N05zz,N05zz00,396275006.0,1776248011.0,M368,Osteoarthritis NOS
+Systemic connective tissue disorders,400183016.0,N05z2,N05z200,396275006.0,1776248011.0,M368,"Osteoarthritis NOS, of the upper arm"
+Systemic connective tissue disorders,18121000006117.0,N05zM,N05zM00,396275006.0,1776248011.0,M368,"Osteoarthritis NOS, of tibio-fibular joint"
+Systemic connective tissue disorders,265871000006111.0,N0547,N054700,396275006.0,1776248011.0,M368,"Oligoarticular osteoarthritis, unspecified, of ankle/foot"
+Systemic connective tissue disorders,312574017.0,Nyu4,Nyu4.00,105969002.0,2469864015.0,M368,[X]Systemic connective tissue disorders
+Systemic connective tissue disorders,6566831000006114.0,^ESCTDE656683,,396275006.0,1785529014.0,M368,Degenerative arthropathy

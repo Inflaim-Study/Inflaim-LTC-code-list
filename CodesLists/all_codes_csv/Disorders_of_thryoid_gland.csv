@@ -1,0 +1,307 @@
+Condition,MedCodeId,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,ICD10Code,Term
+Disorders of thryoid gland,5108351000006116.0,^ESCTAU510835,,237519003.0,355966019.0,E038,Autoimmune hypothyroidism
+Disorders of thryoid gland,881381000006114.0,C04-99,C04..99,111566002.0,881381000006114.0,P722,Hypothyroidism-congen.+ acqui.
+Disorders of thryoid gland,881381000006114.0,C04-99,C04..99,111566002.0,881381000006114.0,E02X,Hypothyroidism-congen.+ acqui.
+Disorders of thryoid gland,881381000006114.0,C04-99,C04..99,111566002.0,881381000006114.0,E038,Hypothyroidism-congen.+ acqui.
+Disorders of thryoid gland,881381000006114.0,C04-99,C04..99,111566002.0,881381000006114.0,E032,Hypothyroidism-congen.+ acqui.
+Disorders of thryoid gland,881381000006114.0,C04-99,C04..99,111566002.0,881381000006114.0,E890,Hypothyroidism-congen.+ acqui.
+Disorders of thryoid gland,881381000006114.0,C04-99,C04..99,111566002.0,881381000006114.0,E035,Hypothyroidism-congen.+ acqui.
+Disorders of thryoid gland,881381000006114.0,C04-99,C04..99,111566002.0,881381000006114.0,E033,Hypothyroidism-congen.+ acqui.
+Disorders of thryoid gland,881381000006114.0,C04-99,C04..99,111566002.0,881381000006114.0,E034,Hypothyroidism-congen.+ acqui.
+Disorders of thryoid gland,881381000006114.0,C04-99,C04..99,111566002.0,881381000006114.0,E018,Hypothyroidism-congen.+ acqui.
+Disorders of thryoid gland,881381000006114.0,C04-99,C04..99,111566002.0,881381000006114.0,E039,Hypothyroidism-congen.+ acqui.
+Disorders of thryoid gland,3843671000006116.0,^ESCTSE384367,,82598004.0,137019010.0,E230,Secondary hypothyroidism
+Disorders of thryoid gland,881371000006111.0,C02-99,C02..99,286909009.0,881371000006111.0,E059,Thyrotoxicosis +/- goitre
+Disorders of thryoid gland,292356018.0,C0241,C024100,190256007.0,292356018.0,E053,Thyrotoxicosis from ectopic thyroid nodule with crisis
+Disorders of thryoid gland,2933341000006117.0,^ESCTPO293334,,27059002.0,2536050019.0,E890,Postsurgical hypothyroidism
+Disorders of thryoid gland,292327018.0,C0200,C020000,190241003.0,292327018.0,E050,Toxic diffuse goitre with no crisis
+Disorders of thryoid gland,412221013.0,66B4,66B4.00,276177000.0,412221013.0,E050,Thyroid eye disease
+Disorders of thryoid gland,150375010.0,C02,C02..00,90739004.0,150375010.0,E062,Thyrotoxicosis
+Disorders of thryoid gland,150375010.0,C02,C02..00,90739004.0,150375010.0,E059,Thyrotoxicosis
+Disorders of thryoid gland,150375010.0,C02,C02..00,90739004.0,150375010.0,E055,Thyrotoxicosis
+Disorders of thryoid gland,150375010.0,C02,C02..00,90739004.0,150375010.0,E050,Thyrotoxicosis
+Disorders of thryoid gland,150375010.0,C02,C02..00,90739004.0,150375010.0,E051,Thyrotoxicosis
+Disorders of thryoid gland,150375010.0,C02,C02..00,90739004.0,150375010.0,E058,Thyrotoxicosis
+Disorders of thryoid gland,150375010.0,C02,C02..00,90739004.0,150375010.0,P721,Thyrotoxicosis
+Disorders of thryoid gland,150375010.0,C02,C02..00,90739004.0,150375010.0,E053,Thyrotoxicosis
+Disorders of thryoid gland,150375010.0,C02,C02..00,90739004.0,150375010.0,E054,Thyrotoxicosis
+Disorders of thryoid gland,150375010.0,C02,C02..00,90739004.0,150375010.0,E052,Thyrotoxicosis
+Disorders of thryoid gland,57561015.0,C02-1,C02..11,34486009.0,57561015.0,P721,Hyperthyroidism
+Disorders of thryoid gland,57561015.0,C02-1,C02..11,34486009.0,57561015.0,E059,Hyperthyroidism
+Disorders of thryoid gland,57561015.0,C02-1,C02..11,34486009.0,57561015.0,E050,Hyperthyroidism
+Disorders of thryoid gland,57561015.0,C02-1,C02..11,34486009.0,57561015.0,E062,Hyperthyroidism
+Disorders of thryoid gland,57561015.0,C02-1,C02..11,34486009.0,57561015.0,E055,Hyperthyroidism
+Disorders of thryoid gland,57561015.0,C02-1,C02..11,34486009.0,57561015.0,E058,Hyperthyroidism
+Disorders of thryoid gland,57561015.0,C02-1,C02..11,34486009.0,57561015.0,E051,Hyperthyroidism
+Disorders of thryoid gland,57561015.0,C02-1,C02..11,34486009.0,57561015.0,E052,Hyperthyroidism
+Disorders of thryoid gland,57561015.0,C02-1,C02..11,34486009.0,57561015.0,E054,Hyperthyroidism
+Disorders of thryoid gland,57561015.0,C02-1,C02..11,34486009.0,57561015.0,E053,Hyperthyroidism
+Disorders of thryoid gland,355932011.0,C02-2,C02..12,237498007.0,355932011.0,E051,Toxic goitre
+Disorders of thryoid gland,355932011.0,C02-2,C02..12,237498007.0,355932011.0,E052,Toxic goitre
+Disorders of thryoid gland,355932011.0,C02-2,C02..12,237498007.0,355932011.0,E050,Toxic goitre
+Disorders of thryoid gland,398780011.0,C020,C020.00,267374005.0,398780011.0,E050,Toxic diffuse goitre
+Disorders of thryoid gland,490987015.0,C020-1,C020.11,353295004.0,2912991014.0,E050,Basedow's disease
+Disorders of thryoid gland,472452010.0,C020-2,C020.12,353295004.0,472452010.0,E050,Graves' disease
+Disorders of thryoid gland,292330013.0,C0201,C020100,190242005.0,292330013.0,E050,Toxic diffuse goitre with crisis
+Disorders of thryoid gland,356406019.0,C0202,C020200,237825005.0,356406019.0,E050,Thyroid-associated dermopathy
+Disorders of thryoid gland,292331012.0,C020z,C020z00,267374005.0,398780011.0,E050,Toxic diffuse goitre NOS
+Disorders of thryoid gland,200396013.0,C021,C021.00,73869005.0,200396013.0,E051,Toxic uninodular goitre
+Disorders of thryoid gland,292334016.0,C0210,C021000,190244006.0,292334016.0,E051,Toxic uninodular goitre with no crisis
+Disorders of thryoid gland,292338018.0,C021z,C021z00,73869005.0,200396013.0,E051,Toxic uninodular goitre NOS
+Disorders of thryoid gland,196525014.0,C022,C022.00,26389007.0,196525014.0,E052,Toxic multinodular goitre
+Disorders of thryoid gland,292339014.0,C0220,C022000,190247004.0,292339014.0,E052,Toxic multinodular goitre with no crisis
+Disorders of thryoid gland,292343013.0,C022z,C022z00,26389007.0,196525014.0,E052,Toxic multinodular goitre NOS
+Disorders of thryoid gland,292346017.0,C023,C023.00,57777000.0,497988010.0,E052,Toxic nodular goitre unspecified
+Disorders of thryoid gland,292347014.0,C0230,C023000,57777000.0,96075015.0,E052,Toxic nodular goitre unspecified with no crisis
+Disorders of thryoid gland,292350012.0,C0231,C023100,57777000.0,96075015.0,E052,Toxic nodular goitre unspecified with crisis
+Disorders of thryoid gland,292354015.0,C023z,C023z00,57777000.0,497988010.0,E052,Toxic nodular goitre NOS
+Disorders of thryoid gland,398782015.0,C02y,C02y.00,90739004.0,150375010.0,E062,Thyrotoxicosis of other specified origin
+Disorders of thryoid gland,398782015.0,C02y,C02y.00,90739004.0,150375010.0,E059,Thyrotoxicosis of other specified origin
+Disorders of thryoid gland,398782015.0,C02y,C02y.00,90739004.0,150375010.0,E055,Thyrotoxicosis of other specified origin
+Disorders of thryoid gland,398782015.0,C02y,C02y.00,90739004.0,150375010.0,E050,Thyrotoxicosis of other specified origin
+Disorders of thryoid gland,398782015.0,C02y,C02y.00,90739004.0,150375010.0,E051,Thyrotoxicosis of other specified origin
+Disorders of thryoid gland,398782015.0,C02y,C02y.00,90739004.0,150375010.0,E058,Thyrotoxicosis of other specified origin
+Disorders of thryoid gland,398782015.0,C02y,C02y.00,90739004.0,150375010.0,P721,Thyrotoxicosis of other specified origin
+Disorders of thryoid gland,398782015.0,C02y,C02y.00,90739004.0,150375010.0,E053,Thyrotoxicosis of other specified origin
+Disorders of thryoid gland,398782015.0,C02y,C02y.00,90739004.0,150375010.0,E054,Thyrotoxicosis of other specified origin
+Disorders of thryoid gland,398782015.0,C02y,C02y.00,90739004.0,150375010.0,E052,Thyrotoxicosis of other specified origin
+Disorders of thryoid gland,292361016.0,C02y0,C02y000,90739004.0,150375010.0,E062,Thyrotoxicosis of other specified origin with no crisis
+Disorders of thryoid gland,292361016.0,C02y0,C02y000,90739004.0,150375010.0,E059,Thyrotoxicosis of other specified origin with no crisis
+Disorders of thryoid gland,292361016.0,C02y0,C02y000,90739004.0,150375010.0,E055,Thyrotoxicosis of other specified origin with no crisis
+Disorders of thryoid gland,292361016.0,C02y0,C02y000,90739004.0,150375010.0,E050,Thyrotoxicosis of other specified origin with no crisis
+Disorders of thryoid gland,292361016.0,C02y0,C02y000,90739004.0,150375010.0,E051,Thyrotoxicosis of other specified origin with no crisis
+Disorders of thryoid gland,292361016.0,C02y0,C02y000,90739004.0,150375010.0,E058,Thyrotoxicosis of other specified origin with no crisis
+Disorders of thryoid gland,292361016.0,C02y0,C02y000,90739004.0,150375010.0,P721,Thyrotoxicosis of other specified origin with no crisis
+Disorders of thryoid gland,292361016.0,C02y0,C02y000,90739004.0,150375010.0,E053,Thyrotoxicosis of other specified origin with no crisis
+Disorders of thryoid gland,292361016.0,C02y0,C02y000,90739004.0,150375010.0,E054,Thyrotoxicosis of other specified origin with no crisis
+Disorders of thryoid gland,292361016.0,C02y0,C02y000,90739004.0,150375010.0,E052,Thyrotoxicosis of other specified origin with no crisis
+Disorders of thryoid gland,292362011.0,C02y1,C02y100,90739004.0,150375010.0,E062,Thyrotoxicosis of other specified origin with crisis
+Disorders of thryoid gland,292362011.0,C02y1,C02y100,90739004.0,150375010.0,E059,Thyrotoxicosis of other specified origin with crisis
+Disorders of thryoid gland,292362011.0,C02y1,C02y100,90739004.0,150375010.0,E055,Thyrotoxicosis of other specified origin with crisis
+Disorders of thryoid gland,292362011.0,C02y1,C02y100,90739004.0,150375010.0,E050,Thyrotoxicosis of other specified origin with crisis
+Disorders of thryoid gland,292362011.0,C02y1,C02y100,90739004.0,150375010.0,E051,Thyrotoxicosis of other specified origin with crisis
+Disorders of thryoid gland,292362011.0,C02y1,C02y100,90739004.0,150375010.0,E058,Thyrotoxicosis of other specified origin with crisis
+Disorders of thryoid gland,292362011.0,C02y1,C02y100,90739004.0,150375010.0,P721,Thyrotoxicosis of other specified origin with crisis
+Disorders of thryoid gland,292362011.0,C02y1,C02y100,90739004.0,150375010.0,E053,Thyrotoxicosis of other specified origin with crisis
+Disorders of thryoid gland,292362011.0,C02y1,C02y100,90739004.0,150375010.0,E054,Thyrotoxicosis of other specified origin with crisis
+Disorders of thryoid gland,292362011.0,C02y1,C02y100,90739004.0,150375010.0,E052,Thyrotoxicosis of other specified origin with crisis
+Disorders of thryoid gland,48600017.0,C02y3,C02y300,29028009.0,48600017.0,E055,Thyroid crisis
+Disorders of thryoid gland,292365013.0,C02yz,C02yz00,90739004.0,150375010.0,E062,Thyrotoxicosis of other specified origin NOS
+Disorders of thryoid gland,292365013.0,C02yz,C02yz00,90739004.0,150375010.0,E059,Thyrotoxicosis of other specified origin NOS
+Disorders of thryoid gland,292365013.0,C02yz,C02yz00,90739004.0,150375010.0,E055,Thyrotoxicosis of other specified origin NOS
+Disorders of thryoid gland,292365013.0,C02yz,C02yz00,90739004.0,150375010.0,E050,Thyrotoxicosis of other specified origin NOS
+Disorders of thryoid gland,292365013.0,C02yz,C02yz00,90739004.0,150375010.0,E051,Thyrotoxicosis of other specified origin NOS
+Disorders of thryoid gland,292365013.0,C02yz,C02yz00,90739004.0,150375010.0,E058,Thyrotoxicosis of other specified origin NOS
+Disorders of thryoid gland,292365013.0,C02yz,C02yz00,90739004.0,150375010.0,P721,Thyrotoxicosis of other specified origin NOS
+Disorders of thryoid gland,292365013.0,C02yz,C02yz00,90739004.0,150375010.0,E053,Thyrotoxicosis of other specified origin NOS
+Disorders of thryoid gland,292365013.0,C02yz,C02yz00,90739004.0,150375010.0,E054,Thyrotoxicosis of other specified origin NOS
+Disorders of thryoid gland,292365013.0,C02yz,C02yz00,90739004.0,150375010.0,E052,Thyrotoxicosis of other specified origin NOS
+Disorders of thryoid gland,292366014.0,C02z,C02z.00,90739004.0,150375010.0,E062,Thyrotoxicosis without mention of goitre or other cause
+Disorders of thryoid gland,292366014.0,C02z,C02z.00,90739004.0,150375010.0,E059,Thyrotoxicosis without mention of goitre or other cause
+Disorders of thryoid gland,292366014.0,C02z,C02z.00,90739004.0,150375010.0,E055,Thyrotoxicosis without mention of goitre or other cause
+Disorders of thryoid gland,292366014.0,C02z,C02z.00,90739004.0,150375010.0,E050,Thyrotoxicosis without mention of goitre or other cause
+Disorders of thryoid gland,292366014.0,C02z,C02z.00,90739004.0,150375010.0,E051,Thyrotoxicosis without mention of goitre or other cause
+Disorders of thryoid gland,292366014.0,C02z,C02z.00,90739004.0,150375010.0,E058,Thyrotoxicosis without mention of goitre or other cause
+Disorders of thryoid gland,292366014.0,C02z,C02z.00,90739004.0,150375010.0,P721,Thyrotoxicosis without mention of goitre or other cause
+Disorders of thryoid gland,292366014.0,C02z,C02z.00,90739004.0,150375010.0,E053,Thyrotoxicosis without mention of goitre or other cause
+Disorders of thryoid gland,292366014.0,C02z,C02z.00,90739004.0,150375010.0,E054,Thyrotoxicosis without mention of goitre or other cause
+Disorders of thryoid gland,292366014.0,C02z,C02z.00,90739004.0,150375010.0,E052,Thyrotoxicosis without mention of goitre or other cause
+Disorders of thryoid gland,101891000006113.0,C02z0,C02z000,90739004.0,150375010.0,E062,Thyrotoxicosis without mention of goitre or cause no crisis
+Disorders of thryoid gland,101891000006113.0,C02z0,C02z000,90739004.0,150375010.0,E059,Thyrotoxicosis without mention of goitre or cause no crisis
+Disorders of thryoid gland,101891000006113.0,C02z0,C02z000,90739004.0,150375010.0,E055,Thyrotoxicosis without mention of goitre or cause no crisis
+Disorders of thryoid gland,101891000006113.0,C02z0,C02z000,90739004.0,150375010.0,E050,Thyrotoxicosis without mention of goitre or cause no crisis
+Disorders of thryoid gland,101891000006113.0,C02z0,C02z000,90739004.0,150375010.0,E051,Thyrotoxicosis without mention of goitre or cause no crisis
+Disorders of thryoid gland,101891000006113.0,C02z0,C02z000,90739004.0,150375010.0,E058,Thyrotoxicosis without mention of goitre or cause no crisis
+Disorders of thryoid gland,101891000006113.0,C02z0,C02z000,90739004.0,150375010.0,P721,Thyrotoxicosis without mention of goitre or cause no crisis
+Disorders of thryoid gland,101891000006113.0,C02z0,C02z000,90739004.0,150375010.0,E053,Thyrotoxicosis without mention of goitre or cause no crisis
+Disorders of thryoid gland,101891000006113.0,C02z0,C02z000,90739004.0,150375010.0,E054,Thyrotoxicosis without mention of goitre or cause no crisis
+Disorders of thryoid gland,101891000006113.0,C02z0,C02z000,90739004.0,150375010.0,E052,Thyrotoxicosis without mention of goitre or cause no crisis
+Disorders of thryoid gland,101911000006110.0,C02z1,C02z100,90739004.0,150375010.0,E062,"Thyrotoxicosis without mention of goitre, cause with crisis"
+Disorders of thryoid gland,101911000006110.0,C02z1,C02z100,90739004.0,150375010.0,E059,"Thyrotoxicosis without mention of goitre, cause with crisis"
+Disorders of thryoid gland,101911000006110.0,C02z1,C02z100,90739004.0,150375010.0,E055,"Thyrotoxicosis without mention of goitre, cause with crisis"
+Disorders of thryoid gland,101911000006110.0,C02z1,C02z100,90739004.0,150375010.0,E050,"Thyrotoxicosis without mention of goitre, cause with crisis"
+Disorders of thryoid gland,101911000006110.0,C02z1,C02z100,90739004.0,150375010.0,E051,"Thyrotoxicosis without mention of goitre, cause with crisis"
+Disorders of thryoid gland,101911000006110.0,C02z1,C02z100,90739004.0,150375010.0,E058,"Thyrotoxicosis without mention of goitre, cause with crisis"
+Disorders of thryoid gland,101911000006110.0,C02z1,C02z100,90739004.0,150375010.0,P721,"Thyrotoxicosis without mention of goitre, cause with crisis"
+Disorders of thryoid gland,101911000006110.0,C02z1,C02z100,90739004.0,150375010.0,E053,"Thyrotoxicosis without mention of goitre, cause with crisis"
+Disorders of thryoid gland,101911000006110.0,C02z1,C02z100,90739004.0,150375010.0,E054,"Thyrotoxicosis without mention of goitre, cause with crisis"
+Disorders of thryoid gland,101911000006110.0,C02z1,C02z100,90739004.0,150375010.0,E052,"Thyrotoxicosis without mention of goitre, cause with crisis"
+Disorders of thryoid gland,292372014.0,C02zz,C02zz00,90739004.0,150375010.0,E062,Thyrotoxicosis NOS
+Disorders of thryoid gland,292372014.0,C02zz,C02zz00,90739004.0,150375010.0,E059,Thyrotoxicosis NOS
+Disorders of thryoid gland,292372014.0,C02zz,C02zz00,90739004.0,150375010.0,E055,Thyrotoxicosis NOS
+Disorders of thryoid gland,292372014.0,C02zz,C02zz00,90739004.0,150375010.0,E050,Thyrotoxicosis NOS
+Disorders of thryoid gland,292372014.0,C02zz,C02zz00,90739004.0,150375010.0,E051,Thyrotoxicosis NOS
+Disorders of thryoid gland,292372014.0,C02zz,C02zz00,90739004.0,150375010.0,E058,Thyrotoxicosis NOS
+Disorders of thryoid gland,292372014.0,C02zz,C02zz00,90739004.0,150375010.0,P721,Thyrotoxicosis NOS
+Disorders of thryoid gland,292372014.0,C02zz,C02zz00,90739004.0,150375010.0,E053,Thyrotoxicosis NOS
+Disorders of thryoid gland,292372014.0,C02zz,C02zz00,90739004.0,150375010.0,E054,Thyrotoxicosis NOS
+Disorders of thryoid gland,292372014.0,C02zz,C02zz00,90739004.0,150375010.0,E052,Thyrotoxicosis NOS
+Disorders of thryoid gland,178809013.0,C04,C04..00,111566002.0,178809013.0,P722,Acquired hypothyroidism
+Disorders of thryoid gland,178809013.0,C04,C04..00,111566002.0,178809013.0,E02X,Acquired hypothyroidism
+Disorders of thryoid gland,178809013.0,C04,C04..00,111566002.0,178809013.0,E038,Acquired hypothyroidism
+Disorders of thryoid gland,178809013.0,C04,C04..00,111566002.0,178809013.0,E032,Acquired hypothyroidism
+Disorders of thryoid gland,178809013.0,C04,C04..00,111566002.0,178809013.0,E890,Acquired hypothyroidism
+Disorders of thryoid gland,178809013.0,C04,C04..00,111566002.0,178809013.0,E035,Acquired hypothyroidism
+Disorders of thryoid gland,178809013.0,C04,C04..00,111566002.0,178809013.0,E033,Acquired hypothyroidism
+Disorders of thryoid gland,178809013.0,C04,C04..00,111566002.0,178809013.0,E034,Acquired hypothyroidism
+Disorders of thryoid gland,178809013.0,C04,C04..00,111566002.0,178809013.0,E018,Acquired hypothyroidism
+Disorders of thryoid gland,178809013.0,C04,C04..00,111566002.0,178809013.0,E039,Acquired hypothyroidism
+Disorders of thryoid gland,493538010.0,C04-1,C04..11,43153006.0,493538010.0,E032,Myxoedema
+Disorders of thryoid gland,493538010.0,C04-1,C04..11,43153006.0,493538010.0,P722,Myxoedema
+Disorders of thryoid gland,493538010.0,C04-1,C04..11,43153006.0,493538010.0,E038,Myxoedema
+Disorders of thryoid gland,493538010.0,C04-1,C04..11,43153006.0,493538010.0,E030,Myxoedema
+Disorders of thryoid gland,493538010.0,C04-1,C04..11,43153006.0,493538010.0,E033,Myxoedema
+Disorders of thryoid gland,493538010.0,C04-1,C04..11,43153006.0,493538010.0,E039,Myxoedema
+Disorders of thryoid gland,493538010.0,C04-1,C04..11,43153006.0,493538010.0,E031,Myxoedema
+Disorders of thryoid gland,493538010.0,C04-1,C04..11,43153006.0,493538010.0,E018,Myxoedema
+Disorders of thryoid gland,493538010.0,C04-1,C04..11,43153006.0,493538010.0,E890,Myxoedema
+Disorders of thryoid gland,493538010.0,C04-1,C04..11,43153006.0,493538010.0,E035,Myxoedema
+Disorders of thryoid gland,493538010.0,C04-1,C04..11,43153006.0,493538010.0,E034,Myxoedema
+Disorders of thryoid gland,101171000006116.0,C04-2,C04..12,40930008.0,68268011.0,E032,Thyroid deficiency
+Disorders of thryoid gland,101171000006116.0,C04-2,C04..12,40930008.0,68268011.0,E034,Thyroid deficiency
+Disorders of thryoid gland,101171000006116.0,C04-2,C04..12,40930008.0,68268011.0,E030,Thyroid deficiency
+Disorders of thryoid gland,101171000006116.0,C04-2,C04..12,40930008.0,68268011.0,E890,Thyroid deficiency
+Disorders of thryoid gland,101171000006116.0,C04-2,C04..12,40930008.0,68268011.0,E033,Thyroid deficiency
+Disorders of thryoid gland,101171000006116.0,C04-2,C04..12,40930008.0,68268011.0,P722,Thyroid deficiency
+Disorders of thryoid gland,101171000006116.0,C04-2,C04..12,40930008.0,68268011.0,E035,Thyroid deficiency
+Disorders of thryoid gland,101171000006116.0,C04-2,C04..12,40930008.0,68268011.0,E038,Thyroid deficiency
+Disorders of thryoid gland,101171000006116.0,C04-2,C04..12,40930008.0,68268011.0,E031,Thyroid deficiency
+Disorders of thryoid gland,101171000006116.0,C04-2,C04..12,40930008.0,68268011.0,E039,Thyroid deficiency
+Disorders of thryoid gland,101171000006116.0,C04-2,C04..12,40930008.0,68268011.0,E018,Thyroid deficiency
+Disorders of thryoid gland,68268011.0,C04-3,C04..13,40930008.0,68268011.0,E032,Hypothyroidism
+Disorders of thryoid gland,68268011.0,C04-3,C04..13,40930008.0,68268011.0,E034,Hypothyroidism
+Disorders of thryoid gland,68268011.0,C04-3,C04..13,40930008.0,68268011.0,E030,Hypothyroidism
+Disorders of thryoid gland,68268011.0,C04-3,C04..13,40930008.0,68268011.0,E890,Hypothyroidism
+Disorders of thryoid gland,68268011.0,C04-3,C04..13,40930008.0,68268011.0,E033,Hypothyroidism
+Disorders of thryoid gland,68268011.0,C04-3,C04..13,40930008.0,68268011.0,P722,Hypothyroidism
+Disorders of thryoid gland,68268011.0,C04-3,C04..13,40930008.0,68268011.0,E035,Hypothyroidism
+Disorders of thryoid gland,68268011.0,C04-3,C04..13,40930008.0,68268011.0,E038,Hypothyroidism
+Disorders of thryoid gland,68268011.0,C04-3,C04..13,40930008.0,68268011.0,E031,Hypothyroidism
+Disorders of thryoid gland,68268011.0,C04-3,C04..13,40930008.0,68268011.0,E039,Hypothyroidism
+Disorders of thryoid gland,68268011.0,C04-3,C04..13,40930008.0,68268011.0,E018,Hypothyroidism
+Disorders of thryoid gland,2536050019.0,C040,C040.00,27059002.0,45271010.0,E890,Postsurgical hypothyroidism
+Disorders of thryoid gland,216181000006112.0,C040-1,C040.11,237527007.0,355975017.0,E890,Post ablative hypothyroidism
+Disorders of thryoid gland,292394018.0,C041,C041.00,237527007.0,355975017.0,E890,Other postablative hypothyroidism
+Disorders of thryoid gland,292395017.0,C0410,C041000,190277005.0,292395017.0,E890,Irradiation hypothyroidism
+Disorders of thryoid gland,292396016.0,C041z,C041z00,237527007.0,355975017.0,E890,Postablative hypothyroidism NOS
+Disorders of thryoid gland,292400016.0,C043,C043.00,88273006.0,146340011.0,E032,Other iatrogenic hypothyroidism
+Disorders of thryoid gland,292404013.0,C043z,C043z00,88273006.0,146340011.0,E032,Iatrogenic hypothyroidism NOS
+Disorders of thryoid gland,355964016.0,C046,C046.00,237519003.0,355964016.0,E038,Autoimmune myxoedema
+Disorders of thryoid gland,292408011.0,C04y,C04y.00,111566002.0,178809013.0,P722,Other acquired hypothyroidism
+Disorders of thryoid gland,292408011.0,C04y,C04y.00,111566002.0,178809013.0,E02X,Other acquired hypothyroidism
+Disorders of thryoid gland,292408011.0,C04y,C04y.00,111566002.0,178809013.0,E038,Other acquired hypothyroidism
+Disorders of thryoid gland,292408011.0,C04y,C04y.00,111566002.0,178809013.0,E032,Other acquired hypothyroidism
+Disorders of thryoid gland,292408011.0,C04y,C04y.00,111566002.0,178809013.0,E890,Other acquired hypothyroidism
+Disorders of thryoid gland,292408011.0,C04y,C04y.00,111566002.0,178809013.0,E035,Other acquired hypothyroidism
+Disorders of thryoid gland,292408011.0,C04y,C04y.00,111566002.0,178809013.0,E033,Other acquired hypothyroidism
+Disorders of thryoid gland,292408011.0,C04y,C04y.00,111566002.0,178809013.0,E034,Other acquired hypothyroidism
+Disorders of thryoid gland,292408011.0,C04y,C04y.00,111566002.0,178809013.0,E018,Other acquired hypothyroidism
+Disorders of thryoid gland,292408011.0,C04y,C04y.00,111566002.0,178809013.0,E039,Other acquired hypothyroidism
+Disorders of thryoid gland,398784019.0,C04z,C04z.00,40930008.0,68268011.0,E032,Hypothyroidism NOS
+Disorders of thryoid gland,398784019.0,C04z,C04z.00,40930008.0,68268011.0,E034,Hypothyroidism NOS
+Disorders of thryoid gland,398784019.0,C04z,C04z.00,40930008.0,68268011.0,E030,Hypothyroidism NOS
+Disorders of thryoid gland,398784019.0,C04z,C04z.00,40930008.0,68268011.0,E890,Hypothyroidism NOS
+Disorders of thryoid gland,398784019.0,C04z,C04z.00,40930008.0,68268011.0,E033,Hypothyroidism NOS
+Disorders of thryoid gland,398784019.0,C04z,C04z.00,40930008.0,68268011.0,P722,Hypothyroidism NOS
+Disorders of thryoid gland,398784019.0,C04z,C04z.00,40930008.0,68268011.0,E035,Hypothyroidism NOS
+Disorders of thryoid gland,398784019.0,C04z,C04z.00,40930008.0,68268011.0,E038,Hypothyroidism NOS
+Disorders of thryoid gland,398784019.0,C04z,C04z.00,40930008.0,68268011.0,E031,Hypothyroidism NOS
+Disorders of thryoid gland,398784019.0,C04z,C04z.00,40930008.0,68268011.0,E039,Hypothyroidism NOS
+Disorders of thryoid gland,398784019.0,C04z,C04z.00,40930008.0,68268011.0,E018,Hypothyroidism NOS
+Disorders of thryoid gland,208391000006113.0,C04z-1,C04z.11,40930008.0,68268011.0,E032,Pretibial myxoedema - hypothyroid
+Disorders of thryoid gland,208391000006113.0,C04z-1,C04z.11,40930008.0,68268011.0,E034,Pretibial myxoedema - hypothyroid
+Disorders of thryoid gland,208391000006113.0,C04z-1,C04z.11,40930008.0,68268011.0,E030,Pretibial myxoedema - hypothyroid
+Disorders of thryoid gland,208391000006113.0,C04z-1,C04z.11,40930008.0,68268011.0,E890,Pretibial myxoedema - hypothyroid
+Disorders of thryoid gland,208391000006113.0,C04z-1,C04z.11,40930008.0,68268011.0,E033,Pretibial myxoedema - hypothyroid
+Disorders of thryoid gland,208391000006113.0,C04z-1,C04z.11,40930008.0,68268011.0,P722,Pretibial myxoedema - hypothyroid
+Disorders of thryoid gland,208391000006113.0,C04z-1,C04z.11,40930008.0,68268011.0,E035,Pretibial myxoedema - hypothyroid
+Disorders of thryoid gland,208391000006113.0,C04z-1,C04z.11,40930008.0,68268011.0,E038,Pretibial myxoedema - hypothyroid
+Disorders of thryoid gland,208391000006113.0,C04z-1,C04z.11,40930008.0,68268011.0,E031,Pretibial myxoedema - hypothyroid
+Disorders of thryoid gland,208391000006113.0,C04z-1,C04z.11,40930008.0,68268011.0,E039,Pretibial myxoedema - hypothyroid
+Disorders of thryoid gland,208391000006113.0,C04z-1,C04z.11,40930008.0,68268011.0,E018,Pretibial myxoedema - hypothyroid
+Disorders of thryoid gland,101581000006112.0,C04z-2,C04z.12,40930008.0,68268011.0,E032,Thyroid insufficiency
+Disorders of thryoid gland,101581000006112.0,C04z-2,C04z.12,40930008.0,68268011.0,E034,Thyroid insufficiency
+Disorders of thryoid gland,101581000006112.0,C04z-2,C04z.12,40930008.0,68268011.0,E030,Thyroid insufficiency
+Disorders of thryoid gland,101581000006112.0,C04z-2,C04z.12,40930008.0,68268011.0,E890,Thyroid insufficiency
+Disorders of thryoid gland,101581000006112.0,C04z-2,C04z.12,40930008.0,68268011.0,E033,Thyroid insufficiency
+Disorders of thryoid gland,101581000006112.0,C04z-2,C04z.12,40930008.0,68268011.0,P722,Thyroid insufficiency
+Disorders of thryoid gland,101581000006112.0,C04z-2,C04z.12,40930008.0,68268011.0,E035,Thyroid insufficiency
+Disorders of thryoid gland,101581000006112.0,C04z-2,C04z.12,40930008.0,68268011.0,E038,Thyroid insufficiency
+Disorders of thryoid gland,101581000006112.0,C04z-2,C04z.12,40930008.0,68268011.0,E031,Thyroid insufficiency
+Disorders of thryoid gland,101581000006112.0,C04z-2,C04z.12,40930008.0,68268011.0,E039,Thyroid insufficiency
+Disorders of thryoid gland,101581000006112.0,C04z-2,C04z.12,40930008.0,68268011.0,E018,Thyroid insufficiency
+Disorders of thryoid gland,355961012.0,C04z-3,C04z.13,237518006.0,355961012.0,E011,"Hypothyroid goitre, acquired"
+Disorders of thryoid gland,355961012.0,C04z-3,C04z.13,237518006.0,355961012.0,E010,"Hypothyroid goitre, acquired"
+Disorders of thryoid gland,355961012.0,C04z-3,C04z.13,237518006.0,355961012.0,E012,"Hypothyroid goitre, acquired"
+Disorders of thryoid gland,292417011.0,C04z0,C04z000,190291004.0,292417011.0,E038,Premature puberty due to hypothyroidism
+Disorders of thryoid gland,35727012.0,C04z1,C04z100,21263006.0,35727012.0,E035,Myxoedema coma
+Disorders of thryoid gland,136211012.0,C05,C05..00,82119001.0,136211012.0,E063,Thyroiditis
+Disorders of thryoid gland,136211012.0,C05,C05..00,82119001.0,136211012.0,E065,Thyroiditis
+Disorders of thryoid gland,136211012.0,C05,C05..00,82119001.0,136211012.0,E062,Thyroiditis
+Disorders of thryoid gland,136211012.0,C05,C05..00,82119001.0,136211012.0,E064,Thyroiditis
+Disorders of thryoid gland,136211012.0,C05,C05..00,82119001.0,136211012.0,A188,Thyroiditis
+Disorders of thryoid gland,136211012.0,C05,C05..00,82119001.0,136211012.0,O905,Thyroiditis
+Disorders of thryoid gland,136211012.0,C05,C05..00,82119001.0,136211012.0,E061,Thyroiditis
+Disorders of thryoid gland,136211012.0,C05,C05..00,82119001.0,136211012.0,E060,Thyroiditis
+Disorders of thryoid gland,136211012.0,C05,C05..00,82119001.0,136211012.0,E069,Thyroiditis
+Disorders of thryoid gland,481187014.0,C052,C052.00,21983002.0,481187014.0,E063,Chronic lymphocytic thyroiditis
+Disorders of thryoid gland,481188016.0,C052-1,C052.11,21983002.0,481188016.0,E063,Autoimmune thyroiditis
+Disorders of thryoid gland,36888019.0,C052-2,C052.12,21983002.0,36888019.0,E063,Hashimoto's disease
+Disorders of thryoid gland,554221000006113.0,C053,C053.00,84362007.0,139911019.0,E065,Chronic fibrous thyroiditis
+Disorders of thryoid gland,292435019.0,C05y,C05y.00,45053005.0,75139015.0,E065,Other and unspecified chronic thyroiditis
+Disorders of thryoid gland,292435019.0,C05y,C05y.00,45053005.0,75139015.0,E063,Other and unspecified chronic thyroiditis
+Disorders of thryoid gland,292435019.0,C05y,C05y.00,45053005.0,75139015.0,E062,Other and unspecified chronic thyroiditis
+Disorders of thryoid gland,355987012.0,C05y4,C05y400,237538007.0,355987012.0,E063,Chronic thyroiditis with transient thyrotoxicosis
+Disorders of thryoid gland,355987012.0,C05y4,C05y400,237538007.0,355987012.0,E062,Chronic thyroiditis with transient thyrotoxicosis
+Disorders of thryoid gland,292437010.0,C05z,C05z.00,82119001.0,136211012.0,E063,Thyroiditis NOS
+Disorders of thryoid gland,292437010.0,C05z,C05z.00,82119001.0,136211012.0,E065,Thyroiditis NOS
+Disorders of thryoid gland,292437010.0,C05z,C05z.00,82119001.0,136211012.0,E062,Thyroiditis NOS
+Disorders of thryoid gland,292437010.0,C05z,C05z.00,82119001.0,136211012.0,E064,Thyroiditis NOS
+Disorders of thryoid gland,292437010.0,C05z,C05z.00,82119001.0,136211012.0,A188,Thyroiditis NOS
+Disorders of thryoid gland,292437010.0,C05z,C05z.00,82119001.0,136211012.0,O905,Thyroiditis NOS
+Disorders of thryoid gland,292437010.0,C05z,C05z.00,82119001.0,136211012.0,E061,Thyroiditis NOS
+Disorders of thryoid gland,292437010.0,C05z,C05z.00,82119001.0,136211012.0,E060,Thyroiditis NOS
+Disorders of thryoid gland,292437010.0,C05z,C05z.00,82119001.0,136211012.0,E069,Thyroiditis NOS
+Disorders of thryoid gland,292448015.0,C06y1,C06y100,190309006.0,292448015.0,E034,Thyroid atrophy
+Disorders of thryoid gland,292448015.0,C06y1,C06y100,190309006.0,292448015.0,E031,Thyroid atrophy
+Disorders of thryoid gland,88781000006119.0,C1343,C134300,82598004.0,505169010.0,E230,TSH - thyroid-stimulating hormone deficiency
+Disorders of thryoid gland,413721000006119.0,Cyu11,Cyu1100,40930008.0,68268011.0,E032,[X]Other sp cified hypothyroidism
+Disorders of thryoid gland,413721000006119.0,Cyu11,Cyu1100,40930008.0,68268011.0,E034,[X]Other sp cified hypothyroidism
+Disorders of thryoid gland,413721000006119.0,Cyu11,Cyu1100,40930008.0,68268011.0,E030,[X]Other sp cified hypothyroidism
+Disorders of thryoid gland,413721000006119.0,Cyu11,Cyu1100,40930008.0,68268011.0,E890,[X]Other sp cified hypothyroidism
+Disorders of thryoid gland,413721000006119.0,Cyu11,Cyu1100,40930008.0,68268011.0,E033,[X]Other sp cified hypothyroidism
+Disorders of thryoid gland,413721000006119.0,Cyu11,Cyu1100,40930008.0,68268011.0,P722,[X]Other sp cified hypothyroidism
+Disorders of thryoid gland,413721000006119.0,Cyu11,Cyu1100,40930008.0,68268011.0,E035,[X]Other sp cified hypothyroidism
+Disorders of thryoid gland,413721000006119.0,Cyu11,Cyu1100,40930008.0,68268011.0,E038,[X]Other sp cified hypothyroidism
+Disorders of thryoid gland,413721000006119.0,Cyu11,Cyu1100,40930008.0,68268011.0,E031,[X]Other sp cified hypothyroidism
+Disorders of thryoid gland,413721000006119.0,Cyu11,Cyu1100,40930008.0,68268011.0,E039,[X]Other sp cified hypothyroidism
+Disorders of thryoid gland,413721000006119.0,Cyu11,Cyu1100,40930008.0,68268011.0,E018,[X]Other sp cified hypothyroidism
+Disorders of thryoid gland,293750016.0,Cyu13,Cyu1300,90739004.0,150375010.0,E062,[X]Other thyrotoxicosis
+Disorders of thryoid gland,293750016.0,Cyu13,Cyu1300,90739004.0,150375010.0,E059,[X]Other thyrotoxicosis
+Disorders of thryoid gland,293750016.0,Cyu13,Cyu1300,90739004.0,150375010.0,E055,[X]Other thyrotoxicosis
+Disorders of thryoid gland,293750016.0,Cyu13,Cyu1300,90739004.0,150375010.0,E050,[X]Other thyrotoxicosis
+Disorders of thryoid gland,293750016.0,Cyu13,Cyu1300,90739004.0,150375010.0,E051,[X]Other thyrotoxicosis
+Disorders of thryoid gland,293750016.0,Cyu13,Cyu1300,90739004.0,150375010.0,E058,[X]Other thyrotoxicosis
+Disorders of thryoid gland,293750016.0,Cyu13,Cyu1300,90739004.0,150375010.0,P721,[X]Other thyrotoxicosis
+Disorders of thryoid gland,293750016.0,Cyu13,Cyu1300,90739004.0,150375010.0,E053,[X]Other thyrotoxicosis
+Disorders of thryoid gland,293750016.0,Cyu13,Cyu1300,90739004.0,150375010.0,E054,[X]Other thyrotoxicosis
+Disorders of thryoid gland,293750016.0,Cyu13,Cyu1300,90739004.0,150375010.0,E052,[X]Other thyrotoxicosis
+Disorders of thryoid gland,293751017.0,Cyu14,Cyu1400,45053005.0,75139015.0,E065,[X]Other chronic thyroiditis
+Disorders of thryoid gland,293751017.0,Cyu14,Cyu1400,45053005.0,75139015.0,E063,[X]Other chronic thyroiditis
+Disorders of thryoid gland,293751017.0,Cyu14,Cyu1400,45053005.0,75139015.0,E062,[X]Other chronic thyroiditis
+Disorders of thryoid gland,542671000006117.0,F11x5,F11x500,192816007.0,297016016.0,E039,Cerebral degeneration due to myxoedema
+Disorders of thryoid gland,297588017.0,F3814,F381400,193212008.0,297588017.0,E038,Myasthenic syndrome due to hypothyroidism
+Disorders of thryoid gland,297591017.0,F3816,F381600,193214009.0,297591017.0,E059,Myasthenic syndrome due to thyrotoxicosis
+Disorders of thryoid gland,682701000006117.0,F3953,F395300,87844004.0,507778013.0,E039,Myopathy due to myxoedema
+Disorders of thryoid gland,1233040016.0,F3954,F395400,68437005.0,1233040016.0,E059,Myopathy due to thyrotoxicosis
+Disorders of thryoid gland,33469013.0,F4G20,F4G2000,19885005.0,33469013.0,E055,Thyrotoxic exophthalmos
+Disorders of thryoid gland,33469013.0,F4G20,F4G2000,19885005.0,33469013.0,E051,Thyrotoxic exophthalmos
+Disorders of thryoid gland,33469013.0,F4G20,F4G2000,19885005.0,33469013.0,E058,Thyrotoxic exophthalmos
+Disorders of thryoid gland,33469013.0,F4G20,F4G2000,19885005.0,33469013.0,E052,Thyrotoxic exophthalmos
+Disorders of thryoid gland,33469013.0,F4G20,F4G2000,19885005.0,33469013.0,E053,Thyrotoxic exophthalmos
+Disorders of thryoid gland,33469013.0,F4G20,F4G2000,19885005.0,33469013.0,E059,Thyrotoxic exophthalmos
+Disorders of thryoid gland,33469013.0,F4G20,F4G2000,19885005.0,33469013.0,E054,Thyrotoxic exophthalmos
+Disorders of thryoid gland,33469013.0,F4G20,F4G2000,19885005.0,33469013.0,E050,Thyrotoxic exophthalmos
+Disorders of thryoid gland,33469013.0,F4G20,F4G2000,19885005.0,33469013.0,H063,Thyrotoxic exophthalmos
+Disorders of thryoid gland,379441000006115.0,FyuBD,FyuBD00,509381000000104.0,1132591000000116.0,E050,[X]Dysthyroid exophthalmos
+Disorders of thryoid gland,100438013.0,G5575,G557500,60446003.0,100438013.0,E059,Thyrotoxic heart disease

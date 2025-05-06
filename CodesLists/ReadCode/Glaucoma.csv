@@ -1,0 +1,42 @@
+Condition,OriginalReadCode,CleansedReadCode,Term
+Glaucoma,^ESCTCO375326,,COAG - Chronic open-angle glaucoma
+Glaucoma,^ESCTCS375325,,CSG - Chronic simple glaucoma
+Glaucoma,^ESCTCH304131,,Chronic angle-closure glaucoma
+Glaucoma,^ESCTIN356445,,Intermittent angle-closure glaucoma
+Glaucoma,^ESCTNO331763,,Normal tension glaucoma
+Glaucoma,^ESCTPO375324,,POAG - Primary open-angle glaucoma
+Glaucoma,^ESCTPH653292,,Phacomorphic glaucoma
+Glaucoma,F452-99,F452.99,Primary closed-angle glaucoma
+Glaucoma,^ESCTPR375321,,Primary open angle glaucoma
+Glaucoma,^ESCTSE477238,,Secondary angle-closure glaucoma with pupil block
+Glaucoma,F4530,F453000,Steroid-induced glaucoma glaucomatous stage
+Glaucoma,^ESCTNE708941,,Needling of bleb following glaucoma surgery
+Glaucoma,72590,7259000,Needling of bleb following glaucoma surgery
+Glaucoma,7259y,7259y00,Other specified operations following glaucoma surgery
+Glaucoma,7275,7275.00,Pan retinal photocoagulation for glaucoma
+Glaucoma,F4042-1,F404211,Glaucoma - absolute
+Glaucoma,F45,F45..00,Glaucoma
+Glaucoma,F4501,F450100,Open angle glaucoma with borderline intraocular pressure
+Glaucoma,F451,F451.00,Open-angle glaucoma
+Glaucoma,F4510,F451000,Unspecified open-angle glaucoma
+Glaucoma,F4511,F451100,Primary open-angle glaucoma
+Glaucoma,F4511-1,F451111,Simple chronic glaucoma
+Glaucoma,F4512,F451200,Low tension glaucoma
+Glaucoma,F4512-1,F451211,Normal pressure glaucoma
+Glaucoma,F4515,F451500,Open-angle glaucoma residual stage
+Glaucoma,F451z,F451z00,Open-angle glaucoma NOS
+Glaucoma,F452,F452.00,Primary angle-closure glaucoma
+Glaucoma,F452-1,F452.11,Closed angle glaucoma
+Glaucoma,F4520,F452000,Unspecified primary angle-closure glaucoma
+Glaucoma,F4521,F452100,Intermittent primary angle-closure glaucoma
+Glaucoma,F4523,F452300,Chronic primary angle-closure glaucoma
+Glaucoma,F4524,F452400,Primary angle-closure glaucoma residual stage
+Glaucoma,F4525,F452500,Plateau iris
+Glaucoma,F452z,F452z00,Primary angle-closure glaucoma NOS
+Glaucoma,F45y,F45y.00,Other specified forms of glaucoma
+Glaucoma,F45y2,F45y200,Low tension glaucoma
+Glaucoma,F45yz,F45yz00,Other specified glaucoma NOS
+Glaucoma,F45z,F45z.00,Glaucoma NOS
+Glaucoma,F4631,F463100,Glaucomatous subcapsular flecks
+Glaucoma,F4H14,F4H1400,Optic disc glaucomatous atrophy
+Glaucoma,FyuG,FyuG.00,[X]Glaucoma

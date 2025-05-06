@@ -1,0 +1,17 @@
+Condition,OriginalReadCode,CleansedReadCode,Term
+Fibrosing alveolitis/unspecified alveolitis,^ESCTCI333641,,Cirrhosis of lung
+Fibrosing alveolitis/unspecified alveolitis,^ESCTPO549248,,Postinflammatory pulmonary fibrosis
+Fibrosing alveolitis/unspecified alveolitis,H5631-99,H563199,Pulmonary fibrosis
+Fibrosing alveolitis/unspecified alveolitis,23E5,23E5.00,O/E - fibrosis of lung present
+Fibrosing alveolitis/unspecified alveolitis,23E5-1,23E5.11,O/E - fibrosis of lung
+Fibrosing alveolitis/unspecified alveolitis,H55,H55..00,Postinflammatory pulmonary fibrosis
+Fibrosing alveolitis/unspecified alveolitis,H55-1,H55..11,Cirrhosis of lung
+Fibrosing alveolitis/unspecified alveolitis,H563,H563.00,Idiopathic fibrosing alveolitis
+Fibrosing alveolitis/unspecified alveolitis,H563-1,H563.11,Hamman - Rich syndrome
+Fibrosing alveolitis/unspecified alveolitis,H563-2,H563.12,Cryptogenic fibrosing alveolitis
+Fibrosing alveolitis/unspecified alveolitis,H563-3,H563.13,Idiopathic pulmonary fibrosis
+Fibrosing alveolitis/unspecified alveolitis,H5631,H563100,Diffuse pulmonary fibrosis
+Fibrosing alveolitis/unspecified alveolitis,H5632,H563200,Pulmonary fibrosis
+Fibrosing alveolitis/unspecified alveolitis,H5633,H563300,Usual interstitial pneumonitis
+Fibrosing alveolitis/unspecified alveolitis,H563z,H563z00,Idiopathic fibrosing alveolitis NOS
+Fibrosing alveolitis/unspecified alveolitis,Hyu50,Hyu5000,[X]Other interstitial pulmonary diseases with fibrosis

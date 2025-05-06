@@ -1,0 +1,163 @@
+Condition,MedCodeId,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,ICD10Code,Term
+"Neurotic, stress-related and somatoform disorders",882381000006115.0,E2021-99,E202199,191722009.0,882381000006115.0,F400,Agoraphobia
+"Neurotic, stress-related and somatoform disorders",1808521000006110.0,EMISNQPA155,,56576003.0,94086016.0,F410,Panic disorder without agoraphobia
+"Neurotic, stress-related and somatoform disorders",1.1920891000006112e+16,^ESCT1192089,,386810004.0,420631000006114.0,F401,[X]Phobia NOS
+"Neurotic, stress-related and somatoform disorders",1.1920891000006112e+16,^ESCT1192089,,386810004.0,420631000006114.0,F400,[X]Phobia NOS
+"Neurotic, stress-related and somatoform disorders",1.1920891000006112e+16,^ESCT1192089,,386810004.0,420631000006114.0,F409,[X]Phobia NOS
+"Neurotic, stress-related and somatoform disorders",1.1920891000006112e+16,^ESCT1192089,,386810004.0,420631000006114.0,F408,[X]Phobia NOS
+"Neurotic, stress-related and somatoform disorders",1.1920891000006112e+16,^ESCT1192089,,386810004.0,420631000006114.0,F402,[X]Phobia NOS
+"Neurotic, stress-related and somatoform disorders",2665410014.0,1B1H-1,1B1H.11,1402001.0,2665410014.0,R458,Fear
+"Neurotic, stress-related and somatoform disorders",1488717011.0,1B1V,1B1V.00,395017009.0,1488717011.0,F410,C/O - panic attack
+"Neurotic, stress-related and somatoform disorders",1488717011.0,1B1V,1B1V.00,395017009.0,1488717011.0,F430,C/O - panic attack
+"Neurotic, stress-related and somatoform disorders",370038014.0,1Bb,1Bb..00,247845000.0,370038014.0,F402,Specific fear
+"Neurotic, stress-related and somatoform disorders",2549895012.0,225J,225J.00,417676004.0,2549895012.0,F430,O/E - panic attack
+"Neurotic, stress-related and somatoform disorders",2549895012.0,225J,225J.00,417676004.0,2549895012.0,F410,O/E - panic attack
+"Neurotic, stress-related and somatoform disorders",402503018.0,285,285..00,268957000.0,402503018.0,F489,"Neurotic condition, insight present"
+"Neurotic, stress-related and somatoform disorders",402505013.0,286,286..00,268958005.0,402505013.0,F489,Poor insight into neurotic condition
+"Neurotic, stress-related and somatoform disorders",675881000006115.0,E20,E20..00,111475002.0,1219652011.0,F488,Neurotic disorders
+"Neurotic, stress-related and somatoform disorders",675881000006115.0,E20,E20..00,111475002.0,1219652011.0,F489,Neurotic disorders
+"Neurotic, stress-related and somatoform disorders",488201000006114.0,E200,E200.00,197480006.0,303689015.0,F413,Anxiety states
+"Neurotic, stress-related and somatoform disorders",488201000006114.0,E200,E200.00,197480006.0,303689015.0,F418,Anxiety states
+"Neurotic, stress-related and somatoform disorders",488201000006114.0,E200,E200.00,197480006.0,303689015.0,F419,Anxiety states
+"Neurotic, stress-related and somatoform disorders",488201000006114.0,E200,E200.00,197480006.0,303689015.0,F410,Anxiety states
+"Neurotic, stress-related and somatoform disorders",488201000006114.0,E200,E200.00,197480006.0,303689015.0,F412,Anxiety states
+"Neurotic, stress-related and somatoform disorders",488201000006114.0,E200,E200.00,197480006.0,303689015.0,F411,Anxiety states
+"Neurotic, stress-related and somatoform disorders",294953016.0,E2000,E200000,198288003.0,304838011.0,F411,Anxiety state unspecified
+"Neurotic, stress-related and somatoform disorders",1210253015.0,E2001,E200100,371631005.0,1210253015.0,F410,Panic disorder
+"Neurotic, stress-related and somatoform disorders",1210253015.0,E2001,E200100,371631005.0,1210253015.0,F400,Panic disorder
+"Neurotic, stress-related and somatoform disorders",339044013.0,E2001-1,E200111,225624000.0,339044013.0,F410,Panic attack
+"Neurotic, stress-related and somatoform disorders",481154010.0,E2002,E200200,21897009.0,481154010.0,F411,Generalised anxiety disorder
+"Neurotic, stress-related and somatoform disorders",294960010.0,E2004,E200400,191708009.0,294960010.0,F419,Chronic anxiety
+"Neurotic, stress-related and somatoform disorders",294963012.0,E200z,E200z00,198288003.0,304838011.0,F411,Anxiety state NOS
+"Neurotic, stress-related and somatoform disorders",56251019.0,E201B,E201B00,33693007.0,56251019.0,F680,Compensation neurosis
+"Neurotic, stress-related and somatoform disorders",223631000000113.0,E202,E202.00,386810004.0,1491809016.0,F401,Phobic disorders
+"Neurotic, stress-related and somatoform disorders",223631000000113.0,E202,E202.00,386810004.0,1491809016.0,F400,Phobic disorders
+"Neurotic, stress-related and somatoform disorders",223631000000113.0,E202,E202.00,386810004.0,1491809016.0,F409,Phobic disorders
+"Neurotic, stress-related and somatoform disorders",223631000000113.0,E202,E202.00,386810004.0,1491809016.0,F408,Phobic disorders
+"Neurotic, stress-related and somatoform disorders",223631000000113.0,E202,E202.00,386810004.0,1491809016.0,F402,Phobic disorders
+"Neurotic, stress-related and somatoform disorders",138401000006119.0,E202-1,E202.11,25501002.0,42759014.0,F401,Social phobic disorders
+"Neurotic, stress-related and somatoform disorders",223641000000116.0,E202-2,E202.12,386810004.0,1491809016.0,F401,Phobic anxiety
+"Neurotic, stress-related and somatoform disorders",223641000000116.0,E202-2,E202.12,386810004.0,1491809016.0,F400,Phobic anxiety
+"Neurotic, stress-related and somatoform disorders",223641000000116.0,E202-2,E202.12,386810004.0,1491809016.0,F409,Phobic anxiety
+"Neurotic, stress-related and somatoform disorders",223641000000116.0,E202-2,E202.12,386810004.0,1491809016.0,F408,Phobic anxiety
+"Neurotic, stress-related and somatoform disorders",223641000000116.0,E202-2,E202.12,386810004.0,1491809016.0,F402,Phobic anxiety
+"Neurotic, stress-related and somatoform disorders",294991016.0,E2020,E202000,386808001.0,1480928018.0,F409,Phobia unspecified
+"Neurotic, stress-related and somatoform disorders",294991016.0,E2020,E202000,386808001.0,1480928018.0,F408,Phobia unspecified
+"Neurotic, stress-related and somatoform disorders",294991016.0,E2020,E202000,386808001.0,1480928018.0,F401,Phobia unspecified
+"Neurotic, stress-related and somatoform disorders",294991016.0,E2020,E202000,386808001.0,1480928018.0,F402,Phobia unspecified
+"Neurotic, stress-related and somatoform disorders",294991016.0,E2020,E202000,386808001.0,1480928018.0,F400,Phobia unspecified
+"Neurotic, stress-related and somatoform disorders",294992011.0,E2021,E202100,191722009.0,294992011.0,F400,Agoraphobia with panic attacks
+"Neurotic, stress-related and somatoform disorders",294993018.0,E2022,E202200,61569007.0,102288011.0,F400,Agoraphobia without mention of panic attacks
+"Neurotic, stress-related and somatoform disorders",294994012.0,E2023,E202300,191724005.0,294994012.0,F401,"Social phobia, fear of eating in public"
+"Neurotic, stress-related and somatoform disorders",294995013.0,E2024,E202400,191725006.0,294995013.0,F401,"Social phobia, fear of public speaking"
+"Neurotic, stress-related and somatoform disorders",294996014.0,E2025,E202500,191726007.0,294996014.0,F401,"Social phobia, fear of public washing"
+"Neurotic, stress-related and somatoform disorders",1231321013.0,E2027,E202700,54307006.0,1231321013.0,F402,Animal phobia
+"Neurotic, stress-related and somatoform disorders",33475016.0,E2028,E202800,19887002.0,33475016.0,F402,Claustrophobia
+"Neurotic, stress-related and somatoform disorders",294998010.0,E2029,E202900,191728008.0,294998010.0,F400,Fear of crowds
+"Neurotic, stress-related and somatoform disorders",370048011.0,E202A,E202A00,247853008.0,370048011.0,F402,Fear of flying
+"Neurotic, stress-related and somatoform disorders",485870016.0,E202B,E202B00,34563004.0,485870016.0,F402,Cancer phobia
+"Neurotic, stress-related and somatoform disorders",166341019.0,E202D,E202D00,102912007.0,166341019.0,F402,Fear of death
+"Neurotic, stress-related and somatoform disorders",295004011.0,E202E,E202E00,191733007.0,295004011.0,F402,Fear of pregnancy
+"Neurotic, stress-related and somatoform disorders",401780016.0,E202z,E202z00,386810004.0,1480929014.0,F401,Phobic disorder NOS
+"Neurotic, stress-related and somatoform disorders",401780016.0,E202z,E202z00,386810004.0,1480929014.0,F400,Phobic disorder NOS
+"Neurotic, stress-related and somatoform disorders",401780016.0,E202z,E202z00,386810004.0,1480929014.0,F409,Phobic disorder NOS
+"Neurotic, stress-related and somatoform disorders",401780016.0,E202z,E202z00,386810004.0,1480929014.0,F408,Phobic disorder NOS
+"Neurotic, stress-related and somatoform disorders",401780016.0,E202z,E202z00,386810004.0,1480929014.0,F402,Phobic disorder NOS
+"Neurotic, stress-related and somatoform disorders",295026012.0,E20y,E20y.00,111475002.0,178715018.0,F488,Other neurotic disorders
+"Neurotic, stress-related and somatoform disorders",295026012.0,E20y,E20y.00,111475002.0,178715018.0,F489,Other neurotic disorders
+"Neurotic, stress-related and somatoform disorders",295029017.0,E20y1,E20y100,191744004.0,295029017.0,F488,Writer's cramp neurosis
+"Neurotic, stress-related and somatoform disorders",295031014.0,E20y2,E20y200,111475002.0,178715018.0,F488,Other occupational neurosis
+"Neurotic, stress-related and somatoform disorders",295031014.0,E20y2,E20y200,111475002.0,178715018.0,F489,Other occupational neurosis
+"Neurotic, stress-related and somatoform disorders",295032019.0,E20y3,E20y300,191746002.0,295032019.0,F488,Psychasthenic neurosis
+"Neurotic, stress-related and somatoform disorders",295033012.0,E20yz,E20yz00,111475002.0,178715018.0,F488,Other neurotic disorder NOS
+"Neurotic, stress-related and somatoform disorders",295033012.0,E20yz,E20yz00,111475002.0,178715018.0,F489,Other neurotic disorder NOS
+"Neurotic, stress-related and somatoform disorders",401783019.0,E20z,E20z.00,111475002.0,1219652011.0,F488,Neurotic disorder NOS
+"Neurotic, stress-related and somatoform disorders",401783019.0,E20z,E20z.00,111475002.0,1219652011.0,F489,Neurotic disorder NOS
+"Neurotic, stress-related and somatoform disorders",296224013.0,Eu40,Eu40.00,386810004.0,1491809016.0,F401,[X]Phobic anxiety disorders
+"Neurotic, stress-related and somatoform disorders",296224013.0,Eu40,Eu40.00,386810004.0,1491809016.0,F400,[X]Phobic anxiety disorders
+"Neurotic, stress-related and somatoform disorders",296224013.0,Eu40,Eu40.00,386810004.0,1491809016.0,F409,[X]Phobic anxiety disorders
+"Neurotic, stress-related and somatoform disorders",296224013.0,Eu40,Eu40.00,386810004.0,1491809016.0,F408,[X]Phobic anxiety disorders
+"Neurotic, stress-related and somatoform disorders",296224013.0,Eu40,Eu40.00,386810004.0,1491809016.0,F402,[X]Phobic anxiety disorders
+"Neurotic, stress-related and somatoform disorders",362871000006111.0,Eu400,Eu40000,70691001.0,117416017.0,F400,[X]Agoraphobia
+"Neurotic, stress-related and somatoform disorders",418051000006118.0,Eu400-2,Eu40012,191722009.0,294992011.0,F400,[X]Panic disorder with agoraphobia
+"Neurotic, stress-related and somatoform disorders",427071000006115.0,Eu401,Eu40100,25501002.0,42759014.0,F401,[X]Social phobias
+"Neurotic, stress-related and somatoform disorders",427061000006110.0,Eu401-2,Eu40112,25501002.0,42759014.0,F401,[X]Social neurosis
+"Neurotic, stress-related and somatoform disorders",427231000006111.0,Eu402,Eu40200,54587008.0,90725015.0,F452,[X]Specific (isolated) phobias
+"Neurotic, stress-related and somatoform disorders",427231000006111.0,Eu402,Eu40200,54587008.0,90725015.0,F402,[X]Specific (isolated) phobias
+"Neurotic, stress-related and somatoform disorders",362181000006117.0,Eu402-1,Eu40211,54587008.0,90725015.0,F452,[X]Acrophobia
+"Neurotic, stress-related and somatoform disorders",362181000006117.0,Eu402-1,Eu40211,54587008.0,90725015.0,F402,[X]Acrophobia
+"Neurotic, stress-related and somatoform disorders",363281000006117.0,Eu402-2,Eu40212,54307006.0,1231321013.0,F402,[X]Animal phobias
+"Neurotic, stress-related and somatoform disorders",371071000006117.0,Eu402-3,Eu40213,54587008.0,90725015.0,F452,[X]Claustrophobia
+"Neurotic, stress-related and somatoform disorders",371071000006117.0,Eu402-3,Eu40213,54587008.0,90725015.0,F402,[X]Claustrophobia
+"Neurotic, stress-related and somatoform disorders",426871000006113.0,Eu402-4,Eu40214,386810004.0,1491809016.0,F401,[X]Simple phobia
+"Neurotic, stress-related and somatoform disorders",426871000006113.0,Eu402-4,Eu40214,386810004.0,1491809016.0,F400,[X]Simple phobia
+"Neurotic, stress-related and somatoform disorders",426871000006113.0,Eu402-4,Eu40214,386810004.0,1491809016.0,F409,[X]Simple phobia
+"Neurotic, stress-related and somatoform disorders",426871000006113.0,Eu402-4,Eu40214,386810004.0,1491809016.0,F408,[X]Simple phobia
+"Neurotic, stress-related and somatoform disorders",426871000006113.0,Eu402-4,Eu40214,386810004.0,1491809016.0,F402,[X]Simple phobia
+"Neurotic, stress-related and somatoform disorders",980191000006111.0,Eu403,Eu40300,231501003.0,346974017.0,F402,[X]Needle phobia
+"Neurotic, stress-related and somatoform disorders",296236019.0,Eu40y,Eu40y00,386810004.0,1491809016.0,F401,[X]Other phobic anxiety disorders
+"Neurotic, stress-related and somatoform disorders",296236019.0,Eu40y,Eu40y00,386810004.0,1491809016.0,F400,[X]Other phobic anxiety disorders
+"Neurotic, stress-related and somatoform disorders",296236019.0,Eu40y,Eu40y00,386810004.0,1491809016.0,F409,[X]Other phobic anxiety disorders
+"Neurotic, stress-related and somatoform disorders",296236019.0,Eu40y,Eu40y00,386810004.0,1491809016.0,F408,[X]Other phobic anxiety disorders
+"Neurotic, stress-related and somatoform disorders",296236019.0,Eu40y,Eu40y00,386810004.0,1491809016.0,F402,[X]Other phobic anxiety disorders
+"Neurotic, stress-related and somatoform disorders",296237011.0,Eu40z,Eu40z00,386810004.0,1480929014.0,F401,"[X]Phobic anxiety disorder, unspecified"
+"Neurotic, stress-related and somatoform disorders",296237011.0,Eu40z,Eu40z00,386810004.0,1480929014.0,F400,"[X]Phobic anxiety disorder, unspecified"
+"Neurotic, stress-related and somatoform disorders",296237011.0,Eu40z,Eu40z00,386810004.0,1480929014.0,F409,"[X]Phobic anxiety disorder, unspecified"
+"Neurotic, stress-related and somatoform disorders",296237011.0,Eu40z,Eu40z00,386810004.0,1480929014.0,F408,"[X]Phobic anxiety disorder, unspecified"
+"Neurotic, stress-related and somatoform disorders",296237011.0,Eu40z,Eu40z00,386810004.0,1480929014.0,F402,"[X]Phobic anxiety disorder, unspecified"
+"Neurotic, stress-related and somatoform disorders",420631000006114.0,Eu40z-1,Eu40z11,386810004.0,1480929014.0,F401,[X]Phobia NOS
+"Neurotic, stress-related and somatoform disorders",420631000006114.0,Eu40z-1,Eu40z11,386810004.0,1480929014.0,F400,[X]Phobia NOS
+"Neurotic, stress-related and somatoform disorders",420631000006114.0,Eu40z-1,Eu40z11,386810004.0,1480929014.0,F409,[X]Phobia NOS
+"Neurotic, stress-related and somatoform disorders",420631000006114.0,Eu40z-1,Eu40z11,386810004.0,1480929014.0,F408,[X]Phobia NOS
+"Neurotic, stress-related and somatoform disorders",420631000006114.0,Eu40z-1,Eu40z11,386810004.0,1480929014.0,F402,[X]Phobia NOS
+"Neurotic, stress-related and somatoform disorders",420671000006112.0,Eu40z-2,Eu40z12,386810004.0,1480929014.0,F401,[X]Phobic state NOS
+"Neurotic, stress-related and somatoform disorders",420671000006112.0,Eu40z-2,Eu40z12,386810004.0,1480929014.0,F400,[X]Phobic state NOS
+"Neurotic, stress-related and somatoform disorders",420671000006112.0,Eu40z-2,Eu40z12,386810004.0,1480929014.0,F409,[X]Phobic state NOS
+"Neurotic, stress-related and somatoform disorders",420671000006112.0,Eu40z-2,Eu40z12,386810004.0,1480929014.0,F408,[X]Phobic state NOS
+"Neurotic, stress-related and somatoform disorders",420671000006112.0,Eu40z-2,Eu40z12,386810004.0,1480929014.0,F402,[X]Phobic state NOS
+"Neurotic, stress-related and somatoform disorders",296238018.0,Eu41,Eu41.00,197480006.0,303689015.0,F413,[X]Other anxiety disorders
+"Neurotic, stress-related and somatoform disorders",296238018.0,Eu41,Eu41.00,197480006.0,303689015.0,F418,[X]Other anxiety disorders
+"Neurotic, stress-related and somatoform disorders",296238018.0,Eu41,Eu41.00,197480006.0,303689015.0,F419,[X]Other anxiety disorders
+"Neurotic, stress-related and somatoform disorders",296238018.0,Eu41,Eu41.00,197480006.0,303689015.0,F410,[X]Other anxiety disorders
+"Neurotic, stress-related and somatoform disorders",296238018.0,Eu41,Eu41.00,197480006.0,303689015.0,F412,[X]Other anxiety disorders
+"Neurotic, stress-related and somatoform disorders",296238018.0,Eu41,Eu41.00,197480006.0,303689015.0,F411,[X]Other anxiety disorders
+"Neurotic, stress-related and somatoform disorders",296239014.0,Eu410,Eu41000,371631005.0,1210253015.0,F410,[X]Panic disorder [episodic paroxysmal anxiety]
+"Neurotic, stress-related and somatoform disorders",296239014.0,Eu410,Eu41000,371631005.0,1210253015.0,F400,[X]Panic disorder [episodic paroxysmal anxiety]
+"Neurotic, stress-related and somatoform disorders",418031000006113.0,Eu410-1,Eu41011,371631005.0,1210253015.0,F410,[X]Panic attack
+"Neurotic, stress-related and somatoform disorders",418031000006113.0,Eu410-1,Eu41011,371631005.0,1210253015.0,F400,[X]Panic attack
+"Neurotic, stress-related and somatoform disorders",418061000006116.0,Eu410-2,Eu41012,371631005.0,1210253015.0,F410,[X]Panic state
+"Neurotic, stress-related and somatoform disorders",418061000006116.0,Eu410-2,Eu41012,371631005.0,1210253015.0,F400,[X]Panic state
+"Neurotic, stress-related and somatoform disorders",388071000006116.0,Eu411,Eu41100,21897009.0,481154010.0,F411,[X]Generalized anxiety disorder
+"Neurotic, stress-related and somatoform disorders",363651000006111.0,Eu411-1,Eu41111,207363009.0,317740010.0,F411,[X]Anxiety neurosis
+"Neurotic, stress-related and somatoform disorders",363671000006118.0,Eu411-2,Eu41112,197480006.0,303689015.0,F413,[X]Anxiety reaction
+"Neurotic, stress-related and somatoform disorders",363671000006118.0,Eu411-2,Eu41112,197480006.0,303689015.0,F418,[X]Anxiety reaction
+"Neurotic, stress-related and somatoform disorders",363671000006118.0,Eu411-2,Eu41112,197480006.0,303689015.0,F419,[X]Anxiety reaction
+"Neurotic, stress-related and somatoform disorders",363671000006118.0,Eu411-2,Eu41112,197480006.0,303689015.0,F410,[X]Anxiety reaction
+"Neurotic, stress-related and somatoform disorders",363671000006118.0,Eu411-2,Eu41112,197480006.0,303689015.0,F412,[X]Anxiety reaction
+"Neurotic, stress-related and somatoform disorders",363671000006118.0,Eu411-2,Eu41112,197480006.0,303689015.0,F411,[X]Anxiety reaction
+"Neurotic, stress-related and somatoform disorders",363681000006115.0,Eu411-3,Eu41113,198288003.0,304838011.0,F411,[X]Anxiety state
+"Neurotic, stress-related and somatoform disorders",296245018.0,Eu413,Eu41300,231504006.0,346979010.0,F412,[X]Other mixed anxiety disorders
+"Neurotic, stress-related and somatoform disorders",401881014.0,Eu41y,Eu41y00,197480006.0,303689015.0,F413,[X]Other specified anxiety disorders
+"Neurotic, stress-related and somatoform disorders",401881014.0,Eu41y,Eu41y00,197480006.0,303689015.0,F418,[X]Other specified anxiety disorders
+"Neurotic, stress-related and somatoform disorders",401881014.0,Eu41y,Eu41y00,197480006.0,303689015.0,F419,[X]Other specified anxiety disorders
+"Neurotic, stress-related and somatoform disorders",401881014.0,Eu41y,Eu41y00,197480006.0,303689015.0,F410,[X]Other specified anxiety disorders
+"Neurotic, stress-related and somatoform disorders",401881014.0,Eu41y,Eu41y00,197480006.0,303689015.0,F412,[X]Other specified anxiety disorders
+"Neurotic, stress-related and somatoform disorders",401881014.0,Eu41y,Eu41y00,197480006.0,303689015.0,F411,[X]Other specified anxiety disorders
+"Neurotic, stress-related and somatoform disorders",363641000006114.0,Eu41y-1,Eu41y11,197480006.0,303689015.0,F413,[X]Anxiety hysteria
+"Neurotic, stress-related and somatoform disorders",363641000006114.0,Eu41y-1,Eu41y11,197480006.0,303689015.0,F418,[X]Anxiety hysteria
+"Neurotic, stress-related and somatoform disorders",363641000006114.0,Eu41y-1,Eu41y11,197480006.0,303689015.0,F419,[X]Anxiety hysteria
+"Neurotic, stress-related and somatoform disorders",363641000006114.0,Eu41y-1,Eu41y11,197480006.0,303689015.0,F410,[X]Anxiety hysteria
+"Neurotic, stress-related and somatoform disorders",363641000006114.0,Eu41y-1,Eu41y11,197480006.0,303689015.0,F412,[X]Anxiety hysteria
+"Neurotic, stress-related and somatoform disorders",363641000006114.0,Eu41y-1,Eu41y11,197480006.0,303689015.0,F411,[X]Anxiety hysteria
+"Neurotic, stress-related and somatoform disorders",296249012.0,Eu41z,Eu41z00,197480006.0,303689015.0,F413,"[X]Anxiety disorder, unspecified"
+"Neurotic, stress-related and somatoform disorders",296249012.0,Eu41z,Eu41z00,197480006.0,303689015.0,F418,"[X]Anxiety disorder, unspecified"
+"Neurotic, stress-related and somatoform disorders",296249012.0,Eu41z,Eu41z00,197480006.0,303689015.0,F419,"[X]Anxiety disorder, unspecified"
+"Neurotic, stress-related and somatoform disorders",296249012.0,Eu41z,Eu41z00,197480006.0,303689015.0,F410,"[X]Anxiety disorder, unspecified"
+"Neurotic, stress-related and somatoform disorders",296249012.0,Eu41z,Eu41z00,197480006.0,303689015.0,F412,"[X]Anxiety disorder, unspecified"
+"Neurotic, stress-related and somatoform disorders",296249012.0,Eu41z,Eu41z00,197480006.0,303689015.0,F411,"[X]Anxiety disorder, unspecified"
+"Neurotic, stress-related and somatoform disorders",363661000006113.0,Eu41z-1,Eu41z11,197480006.0,303689015.0,F413,[X]Anxiety NOS
+"Neurotic, stress-related and somatoform disorders",363661000006113.0,Eu41z-1,Eu41z11,197480006.0,303689015.0,F418,[X]Anxiety NOS
+"Neurotic, stress-related and somatoform disorders",363661000006113.0,Eu41z-1,Eu41z11,197480006.0,303689015.0,F419,[X]Anxiety NOS
+"Neurotic, stress-related and somatoform disorders",363661000006113.0,Eu41z-1,Eu41z11,197480006.0,303689015.0,F410,[X]Anxiety NOS
+"Neurotic, stress-related and somatoform disorders",363661000006113.0,Eu41z-1,Eu41z11,197480006.0,303689015.0,F412,[X]Anxiety NOS
+"Neurotic, stress-related and somatoform disorders",363661000006113.0,Eu41z-1,Eu41z11,197480006.0,303689015.0,F411,[X]Anxiety NOS

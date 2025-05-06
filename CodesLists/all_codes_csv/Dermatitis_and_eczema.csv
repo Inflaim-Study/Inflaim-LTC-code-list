@@ -1,0 +1,630 @@
+Condition,MedCodeId,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,ICD10Code,Term
+Dermatitis and eczema,889161000006118.0,M111-98,M111.98,24079001.0,889161000006118.0,L200,Atopic eczema/dermatitis
+Dermatitis and eczema,889161000006118.0,M111-98,M111.98,24079001.0,889161000006118.0,L209,Atopic eczema/dermatitis
+Dermatitis and eczema,889161000006118.0,M111-98,M111.98,24079001.0,889161000006118.0,L208,Atopic eczema/dermatitis
+Dermatitis and eczema,889211000006110.0,M122-99,M122.99,23012005.0,889211000006110.0,L242,Contact dermatitis : solvents
+Dermatitis and eczema,889231000006116.0,M126-99,M126.99,200821000.0,889231000006116.0,L255,Contact dermatitis:food/plants
+Dermatitis and eczema,154630014.0,F4D30-99,F4D3099,93423006.0,883471000006116.0,B023,Dermatitis of eyelid
+Dermatitis and eczema,154630014.0,F4D30-99,F4D3099,93423006.0,883471000006116.0,B880,Dermatitis of eyelid
+Dermatitis and eczema,154630014.0,F4D30-99,F4D3099,93423006.0,883471000006116.0,B005,Dermatitis of eyelid
+Dermatitis and eczema,154630014.0,F4D30-99,F4D3099,93423006.0,883471000006116.0,H011,Dermatitis of eyelid
+Dermatitis and eczema,154630014.0,F4D30-99,F4D3099,93423006.0,883471000006116.0,H031,Dermatitis of eyelid
+Dermatitis and eczema,154630014.0,F4D30-99,F4D3099,93423006.0,883471000006116.0,H030,Dermatitis of eyelid
+Dermatitis and eczema,889171000006113.0,M111-99,M111.99,24079001.0,889171000006113.0,L200,Dermatitis/eczemas
+Dermatitis and eczema,889171000006113.0,M111-99,M111.99,24079001.0,889171000006113.0,L209,Dermatitis/eczemas
+Dermatitis and eczema,889171000006113.0,M111-99,M111.99,24079001.0,889171000006113.0,L208,Dermatitis/eczemas
+Dermatitis and eczema,889151000006115.0,M111-97,M111.97,24079001.0,889151000006115.0,L200,Dermatitis/eczemas NOS
+Dermatitis and eczema,889151000006115.0,M111-97,M111.97,24079001.0,889151000006115.0,L209,Dermatitis/eczemas NOS
+Dermatitis and eczema,889151000006115.0,M111-97,M111.97,24079001.0,889151000006115.0,L208,Dermatitis/eczemas NOS
+Dermatitis and eczema,358088015.0,ESCTGE3,,238932004.0,358088015.0,N904,Genital lichen sclerosus
+Dermatitis and eczema,358088015.0,ESCTGE3,,238932004.0,358088015.0,N480,Genital lichen sclerosus
+Dermatitis and eczema,6859231000006111.0,^ESCTIN685923,,414492009.0,2534172017.0,L303,Infective eczematoid dermatitis
+Dermatitis and eczema,6663041000006112.0,^ESCTIR666304,,402276007.0,1781440014.0,L248,Irritant contact dermatitis due to incontinence
+Dermatitis and eczema,2910831000006115.0,^ESCTLI291083,,25674000.0,196453012.0,N480,Lichen sclerosus
+Dermatitis and eczema,2910831000006115.0,^ESCTLI291083,,25674000.0,196453012.0,N904,Lichen sclerosus
+Dermatitis and eczema,2910831000006115.0,^ESCTLI291083,,25674000.0,196453012.0,L900,Lichen sclerosus
+Dermatitis and eczema,4790781000006113.0,^ESCTLI479078,,198033005.0,304496019.0,N480,Lichen sclerosus of penis
+Dermatitis and eczema,3373991000006110.0,^ESCTLI337399,,53891004.0,89585011.0,L280,Lichen simplex chronicus
+Dermatitis and eczema,889181000006111.0,M116-99,M116.99,238585003.0,889181000006111.0,L208,Neurodermatitis
+Dermatitis and eczema,1675561000006111.0,EMISNQOR11,,235049008.0,352261014.0,L439,Oral lichen planus
+Dermatitis and eczema,6667221000006118.0,^ESCTPO666722,,402567004.0,2536678019.0,L301,Pompholyx eczema
+Dermatitis and eczema,6667221000006118.0,^ESCTPO666722,,402567004.0,2536678019.0,B001,Pompholyx eczema
+Dermatitis and eczema,3318721000006113.0,^ESCTSE331872,,50563003.0,84228013.0,L218,Seborrheic dermatitis
+Dermatitis and eczema,3318721000006113.0,^ESCTSE331872,,50563003.0,84228013.0,L219,Seborrheic dermatitis
+Dermatitis and eczema,3318721000006113.0,^ESCTSE331872,,50563003.0,84228013.0,L211,Seborrheic dermatitis
+Dermatitis and eczema,3318721000006113.0,^ESCTSE331872,,50563003.0,84228013.0,L210,Seborrheic dermatitis
+Dermatitis and eczema,889121000006112.0,M101-98,M101.98,50563003.0,889121000006112.0,L218,Seborrhoeic dermat/eczema NOS
+Dermatitis and eczema,889121000006112.0,M101-98,M101.98,50563003.0,889121000006112.0,L219,Seborrhoeic dermat/eczema NOS
+Dermatitis and eczema,889121000006112.0,M101-98,M101.98,50563003.0,889121000006112.0,L211,Seborrhoeic dermat/eczema NOS
+Dermatitis and eczema,889121000006112.0,M101-98,M101.98,50563003.0,889121000006112.0,L210,Seborrhoeic dermat/eczema NOS
+Dermatitis and eczema,889131000006110.0,M101-99,M101.99,50563003.0,889131000006110.0,L218,Seborrhoeic dermatitis/eczema
+Dermatitis and eczema,889131000006110.0,M101-99,M101.99,50563003.0,889131000006110.0,L219,Seborrhoeic dermatitis/eczema
+Dermatitis and eczema,889131000006110.0,M101-99,M101.99,50563003.0,889131000006110.0,L211,Seborrhoeic dermatitis/eczema
+Dermatitis and eczema,889131000006110.0,M101-99,M101.99,50563003.0,889131000006110.0,L210,Seborrhoeic dermatitis/eczema
+Dermatitis and eczema,6662121000006114.0,^ESCTCH666212,,402222007.0,1787525019.0,L301,Cheiropompholyx
+Dermatitis and eczema,3148031000006112.0,^ESCTCO314803,,40275004.0,1494721011.0,L239,Contact eczema
+Dermatitis and eczema,3148031000006112.0,^ESCTCO314803,,40275004.0,1494721011.0,L249,Contact eczema
+Dermatitis and eczema,3148031000006112.0,^ESCTCO314803,,40275004.0,1494721011.0,L238,Contact eczema
+Dermatitis and eczema,3148031000006112.0,^ESCTCO314803,,40275004.0,1494721011.0,L259,Contact eczema
+Dermatitis and eczema,3148031000006112.0,^ESCTCO314803,,40275004.0,1494721011.0,L231,Contact eczema
+Dermatitis and eczema,3148031000006112.0,^ESCTCO314803,,40275004.0,1494721011.0,L250,Contact eczema
+Dermatitis and eczema,3148031000006112.0,^ESCTCO314803,,40275004.0,1494721011.0,L245,Contact eczema
+Dermatitis and eczema,3148031000006112.0,^ESCTCO314803,,40275004.0,1494721011.0,L254,Contact eczema
+Dermatitis and eczema,3148031000006112.0,^ESCTCO314803,,40275004.0,1494721011.0,L241,Contact eczema
+Dermatitis and eczema,3148031000006112.0,^ESCTCO314803,,40275004.0,1494721011.0,L246,Contact eczema
+Dermatitis and eczema,3148031000006112.0,^ESCTCO314803,,40275004.0,1494721011.0,L244,Contact eczema
+Dermatitis and eczema,3148031000006112.0,^ESCTCO314803,,40275004.0,1494721011.0,L253,Contact eczema
+Dermatitis and eczema,3148031000006112.0,^ESCTCO314803,,40275004.0,1494721011.0,L232,Contact eczema
+Dermatitis and eczema,3148031000006112.0,^ESCTCO314803,,40275004.0,1494721011.0,L236,Contact eczema
+Dermatitis and eczema,3148031000006112.0,^ESCTCO314803,,40275004.0,1494721011.0,L255,Contact eczema
+Dermatitis and eczema,3148031000006112.0,^ESCTCO314803,,40275004.0,1494721011.0,L258,Contact eczema
+Dermatitis and eczema,3148031000006112.0,^ESCTCO314803,,40275004.0,1494721011.0,L235,Contact eczema
+Dermatitis and eczema,3148031000006112.0,^ESCTCO314803,,40275004.0,1494721011.0,L230,Contact eczema
+Dermatitis and eczema,3148031000006112.0,^ESCTCO314803,,40275004.0,1494721011.0,L237,Contact eczema
+Dermatitis and eczema,3148031000006112.0,^ESCTCO314803,,40275004.0,1494721011.0,L240,Contact eczema
+Dermatitis and eczema,3148031000006112.0,^ESCTCO314803,,40275004.0,1494721011.0,L233,Contact eczema
+Dermatitis and eczema,3148031000006112.0,^ESCTCO314803,,40275004.0,1494721011.0,L252,Contact eczema
+Dermatitis and eczema,3148031000006112.0,^ESCTCO314803,,40275004.0,1494721011.0,L247,Contact eczema
+Dermatitis and eczema,3148031000006112.0,^ESCTCO314803,,40275004.0,1494721011.0,L251,Contact eczema
+Dermatitis and eczema,3148031000006112.0,^ESCTCO314803,,40275004.0,1494721011.0,L248,Contact eczema
+Dermatitis and eczema,3148031000006112.0,^ESCTCO314803,,40275004.0,1494721011.0,L242,Contact eczema
+Dermatitis and eczema,3148031000006112.0,^ESCTCO314803,,40275004.0,1494721011.0,L234,Contact eczema
+Dermatitis and eczema,3148031000006112.0,^ESCTCO314803,,40275004.0,1494721011.0,L243,Contact eczema
+Dermatitis and eczema,2547311000006117.0,^ESCTCU254731,,3014005.0,484504011.0,L302,Cutaneous autosensitization
+Dermatitis and eczema,4805121000006118.0,^ESCTIR480512,,200854003.0,3300317010.0,L246,Irritant contact dermatitis due to food in contact with skin
+Dermatitis and eczema,3374001000006118.0,^ESCTNE337400,,53891004.0,89586012.0,L280,Neurodermatitis circumscripta
+Dermatitis and eczema,674301000006118.0,26C4,26C4.00,237463009.0,355885017.0,L309,Nipple eczema
+Dermatitis and eczema,100341000006117.0,C3912-1,C391211,36070007.0,60191017.0,D820,Thrombocytopenic eczema with immunodeficiency
+Dermatitis and eczema,636491000006112.0,F4D30,F4D3000,93423006.0,154630014.0,B023,Eczematous eyelid dermatitis
+Dermatitis and eczema,636491000006112.0,F4D30,F4D3000,93423006.0,154630014.0,B880,Eczematous eyelid dermatitis
+Dermatitis and eczema,636491000006112.0,F4D30,F4D3000,93423006.0,154630014.0,B005,Eczematous eyelid dermatitis
+Dermatitis and eczema,636491000006112.0,F4D30,F4D3000,93423006.0,154630014.0,H011,Eczematous eyelid dermatitis
+Dermatitis and eczema,636491000006112.0,F4D30,F4D3000,93423006.0,154630014.0,H031,Eczematous eyelid dermatitis
+Dermatitis and eczema,636491000006112.0,F4D30,F4D3000,93423006.0,154630014.0,H030,Eczematous eyelid dermatitis
+Dermatitis and eczema,399476014.0,F4D31,F4D3100,93423006.0,154630014.0,B023,Contact or allergic eyelid dermatitis
+Dermatitis and eczema,399476014.0,F4D31,F4D3100,93423006.0,154630014.0,B880,Contact or allergic eyelid dermatitis
+Dermatitis and eczema,399476014.0,F4D31,F4D3100,93423006.0,154630014.0,B005,Contact or allergic eyelid dermatitis
+Dermatitis and eczema,399476014.0,F4D31,F4D3100,93423006.0,154630014.0,H011,Contact or allergic eyelid dermatitis
+Dermatitis and eczema,399476014.0,F4D31,F4D3100,93423006.0,154630014.0,H031,Contact or allergic eyelid dermatitis
+Dermatitis and eczema,399476014.0,F4D31,F4D3100,93423006.0,154630014.0,H030,Contact or allergic eyelid dermatitis
+Dermatitis and eczema,223901000000111.0,F4D31-1,F4D3111,68670009.0,114057013.0,H011,Allergic dermatitis - eyelid
+Dermatitis and eczema,219361000000115.0,F4D31-2,F4D3112,93423006.0,154630014.0,B023,Contact eczema - eyelids
+Dermatitis and eczema,219361000000115.0,F4D31-2,F4D3112,93423006.0,154630014.0,B880,Contact eczema - eyelids
+Dermatitis and eczema,219361000000115.0,F4D31-2,F4D3112,93423006.0,154630014.0,B005,Contact eczema - eyelids
+Dermatitis and eczema,219361000000115.0,F4D31-2,F4D3112,93423006.0,154630014.0,H011,Contact eczema - eyelids
+Dermatitis and eczema,219361000000115.0,F4D31-2,F4D3112,93423006.0,154630014.0,H031,Contact eczema - eyelids
+Dermatitis and eczema,219361000000115.0,F4D31-2,F4D3112,93423006.0,154630014.0,H030,Contact eczema - eyelids
+Dermatitis and eczema,298564016.0,F4D5,F4D5.00,27023008.0,45197011.0,H018,Other eyelid infective dermatitis
+Dermatitis and eczema,512310013.0,F5024-1,F502411,95812002.0,512310013.0,H605,Eczema of external ear
+Dermatitis and eczema,195021000006118.0,M07y-1,M07y.11,123700004.0,192189011.0,L303,Pustular eczema
+Dermatitis and eczema,740221000006117.0,M07z-4,M07z.14,703938007.0,3039229010.0,L985,Infected dermatitis
+Dermatitis and eczema,740221000006117.0,M07z-4,M07z.14,703938007.0,3039229010.0,L987,Infected dermatitis
+Dermatitis and eczema,740221000006117.0,M07z-4,M07z.14,703938007.0,3039229010.0,L986,Infected dermatitis
+Dermatitis and eczema,740221000006117.0,M07z-4,M07z.14,703938007.0,3039229010.0,L980,Infected dermatitis
+Dermatitis and eczema,740221000006117.0,M07z-4,M07z.14,703938007.0,3039229010.0,L988,Infected dermatitis
+Dermatitis and eczema,740221000006117.0,M07z-4,M07z.14,703938007.0,3039229010.0,L982,Infected dermatitis
+Dermatitis and eczema,740221000006117.0,M07z-4,M07z.14,703938007.0,3039229010.0,L989,Infected dermatitis
+Dermatitis and eczema,740221000006117.0,M07z-4,M07z.14,703938007.0,3039229010.0,L983,Infected dermatitis
+Dermatitis and eczema,740221000006117.0,M07z-4,M07z.14,703938007.0,3039229010.0,L981,Infected dermatitis
+Dermatitis and eczema,740221000006117.0,M07z-4,M07z.14,703938007.0,3039229010.0,L984,Infected dermatitis
+Dermatitis and eczema,614361000006113.0,M1-1,M1...11,703938007.0,3012078018.0,L985,Dermatitis/dermatoses
+Dermatitis and eczema,614361000006113.0,M1-1,M1...11,703938007.0,3012078018.0,L987,Dermatitis/dermatoses
+Dermatitis and eczema,614361000006113.0,M1-1,M1...11,703938007.0,3012078018.0,L986,Dermatitis/dermatoses
+Dermatitis and eczema,614361000006113.0,M1-1,M1...11,703938007.0,3012078018.0,L980,Dermatitis/dermatoses
+Dermatitis and eczema,614361000006113.0,M1-1,M1...11,703938007.0,3012078018.0,L988,Dermatitis/dermatoses
+Dermatitis and eczema,614361000006113.0,M1-1,M1...11,703938007.0,3012078018.0,L982,Dermatitis/dermatoses
+Dermatitis and eczema,614361000006113.0,M1-1,M1...11,703938007.0,3012078018.0,L989,Dermatitis/dermatoses
+Dermatitis and eczema,614361000006113.0,M1-1,M1...11,703938007.0,3012078018.0,L983,Dermatitis/dermatoses
+Dermatitis and eczema,614361000006113.0,M1-1,M1...11,703938007.0,3012078018.0,L981,Dermatitis/dermatoses
+Dermatitis and eczema,614361000006113.0,M1-1,M1...11,703938007.0,3012078018.0,L984,Dermatitis/dermatoses
+Dermatitis and eczema,492621013.0,M102,M102.00,414492009.0,3317202015.0,L303,Infectious eczematoid dermatitis
+Dermatitis and eczema,192189011.0,M102-1,M102.11,123700004.0,192189011.0,L303,Pustular eczema
+Dermatitis and eczema,308483011.0,M104,M104.00,200767005.0,308483011.0,L305,Pityriasis simplex
+Dermatitis and eczema,308485016.0,M11,M11..00,24079001.0,40423010.0,L200,Atopic dermatitis and related conditions
+Dermatitis and eczema,308485016.0,M11,M11..00,24079001.0,40423010.0,L209,Atopic dermatitis and related conditions
+Dermatitis and eczema,308485016.0,M11,M11..00,24079001.0,40423010.0,L208,Atopic dermatitis and related conditions
+Dermatitis and eczema,497341000006116.0,M111,M111.00,24079001.0,40423010.0,L200,Atopic dermatitis/eczema
+Dermatitis and eczema,497341000006116.0,M111,M111.00,24079001.0,40423010.0,L209,Atopic dermatitis/eczema
+Dermatitis and eczema,497341000006116.0,M111,M111.00,24079001.0,40423010.0,L208,Atopic dermatitis/eczema
+Dermatitis and eczema,150503015.0,M112,M112.00,90823000.0,150503015.0,L208,Infantile eczema
+Dermatitis and eczema,94953018.0,M113,M113.00,57092006.0,94953018.0,L208,Flexural eczema
+Dermatitis and eczema,477121000006119.0,M114,M114.00,24079001.0,40423010.0,L200,Allergic (intrinsic) eczema
+Dermatitis and eczema,477121000006119.0,M114,M114.00,24079001.0,40423010.0,L209,Allergic (intrinsic) eczema
+Dermatitis and eczema,477121000006119.0,M114,M114.00,24079001.0,40423010.0,L208,Allergic (intrinsic) eczema
+Dermatitis and eczema,308489010.0,M115,M115.00,200773006.0,308489010.0,L200,Besnier's prurigo
+Dermatitis and eczema,357583018.0,M116,M116.00,238585003.0,357583018.0,L208,Neurodermatitis - diffuse
+Dermatitis and eczema,357584012.0,M116-1,M116.11,238585003.0,357584012.0,L208,Brocq's neurodermatitis
+Dermatitis and eczema,676461000006118.0,M117,M117.00,200775004.0,308491019.0,L208,Neurodermatitis - atopic
+Dermatitis and eczema,622951000006114.0,M119,M119.00,81418003.0,3302693013.0,L300,Discoid eczema
+Dermatitis and eczema,585903012.0,M11A,M11A.00,201077008.0,308910012.0,L853,Asteatotic eczema
+Dermatitis and eczema,308497015.0,M11z,M11z.00,24079001.0,40423010.0,L200,Atopic dermatitis NOS
+Dermatitis and eczema,308497015.0,M11z,M11z.00,24079001.0,40423010.0,L209,Atopic dermatitis NOS
+Dermatitis and eczema,308497015.0,M11z,M11z.00,24079001.0,40423010.0,L208,Atopic dermatitis NOS
+Dermatitis and eczema,399912014.0,M12,M12..00,40275004.0,63652013.0,L239,Contact dermatitis and other eczemas
+Dermatitis and eczema,399912014.0,M12,M12..00,40275004.0,63652013.0,L249,Contact dermatitis and other eczemas
+Dermatitis and eczema,399912014.0,M12,M12..00,40275004.0,63652013.0,L238,Contact dermatitis and other eczemas
+Dermatitis and eczema,399912014.0,M12,M12..00,40275004.0,63652013.0,L259,Contact dermatitis and other eczemas
+Dermatitis and eczema,399912014.0,M12,M12..00,40275004.0,63652013.0,L231,Contact dermatitis and other eczemas
+Dermatitis and eczema,399912014.0,M12,M12..00,40275004.0,63652013.0,L250,Contact dermatitis and other eczemas
+Dermatitis and eczema,399912014.0,M12,M12..00,40275004.0,63652013.0,L245,Contact dermatitis and other eczemas
+Dermatitis and eczema,399912014.0,M12,M12..00,40275004.0,63652013.0,L254,Contact dermatitis and other eczemas
+Dermatitis and eczema,399912014.0,M12,M12..00,40275004.0,63652013.0,L241,Contact dermatitis and other eczemas
+Dermatitis and eczema,399912014.0,M12,M12..00,40275004.0,63652013.0,L246,Contact dermatitis and other eczemas
+Dermatitis and eczema,399912014.0,M12,M12..00,40275004.0,63652013.0,L244,Contact dermatitis and other eczemas
+Dermatitis and eczema,399912014.0,M12,M12..00,40275004.0,63652013.0,L253,Contact dermatitis and other eczemas
+Dermatitis and eczema,399912014.0,M12,M12..00,40275004.0,63652013.0,L232,Contact dermatitis and other eczemas
+Dermatitis and eczema,399912014.0,M12,M12..00,40275004.0,63652013.0,L236,Contact dermatitis and other eczemas
+Dermatitis and eczema,399912014.0,M12,M12..00,40275004.0,63652013.0,L255,Contact dermatitis and other eczemas
+Dermatitis and eczema,399912014.0,M12,M12..00,40275004.0,63652013.0,L258,Contact dermatitis and other eczemas
+Dermatitis and eczema,399912014.0,M12,M12..00,40275004.0,63652013.0,L235,Contact dermatitis and other eczemas
+Dermatitis and eczema,399912014.0,M12,M12..00,40275004.0,63652013.0,L230,Contact dermatitis and other eczemas
+Dermatitis and eczema,399912014.0,M12,M12..00,40275004.0,63652013.0,L237,Contact dermatitis and other eczemas
+Dermatitis and eczema,399912014.0,M12,M12..00,40275004.0,63652013.0,L240,Contact dermatitis and other eczemas
+Dermatitis and eczema,399912014.0,M12,M12..00,40275004.0,63652013.0,L233,Contact dermatitis and other eczemas
+Dermatitis and eczema,399912014.0,M12,M12..00,40275004.0,63652013.0,L252,Contact dermatitis and other eczemas
+Dermatitis and eczema,399912014.0,M12,M12..00,40275004.0,63652013.0,L247,Contact dermatitis and other eczemas
+Dermatitis and eczema,399912014.0,M12,M12..00,40275004.0,63652013.0,L251,Contact dermatitis and other eczemas
+Dermatitis and eczema,399912014.0,M12,M12..00,40275004.0,63652013.0,L248,Contact dermatitis and other eczemas
+Dermatitis and eczema,399912014.0,M12,M12..00,40275004.0,63652013.0,L242,Contact dermatitis and other eczemas
+Dermatitis and eczema,399912014.0,M12,M12..00,40275004.0,63652013.0,L234,Contact dermatitis and other eczemas
+Dermatitis and eczema,399912014.0,M12,M12..00,40275004.0,63652013.0,L243,Contact dermatitis and other eczemas
+Dermatitis and eczema,63652013.0,M12-1,M12..11,40275004.0,63652013.0,L239,Contact dermatitis
+Dermatitis and eczema,63652013.0,M12-1,M12..11,40275004.0,63652013.0,L249,Contact dermatitis
+Dermatitis and eczema,63652013.0,M12-1,M12..11,40275004.0,63652013.0,L238,Contact dermatitis
+Dermatitis and eczema,63652013.0,M12-1,M12..11,40275004.0,63652013.0,L259,Contact dermatitis
+Dermatitis and eczema,63652013.0,M12-1,M12..11,40275004.0,63652013.0,L231,Contact dermatitis
+Dermatitis and eczema,63652013.0,M12-1,M12..11,40275004.0,63652013.0,L250,Contact dermatitis
+Dermatitis and eczema,63652013.0,M12-1,M12..11,40275004.0,63652013.0,L245,Contact dermatitis
+Dermatitis and eczema,63652013.0,M12-1,M12..11,40275004.0,63652013.0,L254,Contact dermatitis
+Dermatitis and eczema,63652013.0,M12-1,M12..11,40275004.0,63652013.0,L241,Contact dermatitis
+Dermatitis and eczema,63652013.0,M12-1,M12..11,40275004.0,63652013.0,L246,Contact dermatitis
+Dermatitis and eczema,63652013.0,M12-1,M12..11,40275004.0,63652013.0,L244,Contact dermatitis
+Dermatitis and eczema,63652013.0,M12-1,M12..11,40275004.0,63652013.0,L253,Contact dermatitis
+Dermatitis and eczema,63652013.0,M12-1,M12..11,40275004.0,63652013.0,L232,Contact dermatitis
+Dermatitis and eczema,63652013.0,M12-1,M12..11,40275004.0,63652013.0,L236,Contact dermatitis
+Dermatitis and eczema,63652013.0,M12-1,M12..11,40275004.0,63652013.0,L255,Contact dermatitis
+Dermatitis and eczema,63652013.0,M12-1,M12..11,40275004.0,63652013.0,L258,Contact dermatitis
+Dermatitis and eczema,63652013.0,M12-1,M12..11,40275004.0,63652013.0,L235,Contact dermatitis
+Dermatitis and eczema,63652013.0,M12-1,M12..11,40275004.0,63652013.0,L230,Contact dermatitis
+Dermatitis and eczema,63652013.0,M12-1,M12..11,40275004.0,63652013.0,L237,Contact dermatitis
+Dermatitis and eczema,63652013.0,M12-1,M12..11,40275004.0,63652013.0,L240,Contact dermatitis
+Dermatitis and eczema,63652013.0,M12-1,M12..11,40275004.0,63652013.0,L233,Contact dermatitis
+Dermatitis and eczema,63652013.0,M12-1,M12..11,40275004.0,63652013.0,L252,Contact dermatitis
+Dermatitis and eczema,63652013.0,M12-1,M12..11,40275004.0,63652013.0,L247,Contact dermatitis
+Dermatitis and eczema,63652013.0,M12-1,M12..11,40275004.0,63652013.0,L251,Contact dermatitis
+Dermatitis and eczema,63652013.0,M12-1,M12..11,40275004.0,63652013.0,L248,Contact dermatitis
+Dermatitis and eczema,63652013.0,M12-1,M12..11,40275004.0,63652013.0,L242,Contact dermatitis
+Dermatitis and eczema,63652013.0,M12-1,M12..11,40275004.0,63652013.0,L234,Contact dermatitis
+Dermatitis and eczema,63652013.0,M12-1,M12..11,40275004.0,63652013.0,L243,Contact dermatitis
+Dermatitis and eczema,1494721011.0,M12-2,M12..12,40275004.0,63652013.0,L239,Contact eczema
+Dermatitis and eczema,1494721011.0,M12-2,M12..12,40275004.0,63652013.0,L249,Contact eczema
+Dermatitis and eczema,1494721011.0,M12-2,M12..12,40275004.0,63652013.0,L238,Contact eczema
+Dermatitis and eczema,1494721011.0,M12-2,M12..12,40275004.0,63652013.0,L259,Contact eczema
+Dermatitis and eczema,1494721011.0,M12-2,M12..12,40275004.0,63652013.0,L231,Contact eczema
+Dermatitis and eczema,1494721011.0,M12-2,M12..12,40275004.0,63652013.0,L250,Contact eczema
+Dermatitis and eczema,1494721011.0,M12-2,M12..12,40275004.0,63652013.0,L245,Contact eczema
+Dermatitis and eczema,1494721011.0,M12-2,M12..12,40275004.0,63652013.0,L254,Contact eczema
+Dermatitis and eczema,1494721011.0,M12-2,M12..12,40275004.0,63652013.0,L241,Contact eczema
+Dermatitis and eczema,1494721011.0,M12-2,M12..12,40275004.0,63652013.0,L246,Contact eczema
+Dermatitis and eczema,1494721011.0,M12-2,M12..12,40275004.0,63652013.0,L244,Contact eczema
+Dermatitis and eczema,1494721011.0,M12-2,M12..12,40275004.0,63652013.0,L253,Contact eczema
+Dermatitis and eczema,1494721011.0,M12-2,M12..12,40275004.0,63652013.0,L232,Contact eczema
+Dermatitis and eczema,1494721011.0,M12-2,M12..12,40275004.0,63652013.0,L236,Contact eczema
+Dermatitis and eczema,1494721011.0,M12-2,M12..12,40275004.0,63652013.0,L255,Contact eczema
+Dermatitis and eczema,1494721011.0,M12-2,M12..12,40275004.0,63652013.0,L258,Contact eczema
+Dermatitis and eczema,1494721011.0,M12-2,M12..12,40275004.0,63652013.0,L235,Contact eczema
+Dermatitis and eczema,1494721011.0,M12-2,M12..12,40275004.0,63652013.0,L230,Contact eczema
+Dermatitis and eczema,1494721011.0,M12-2,M12..12,40275004.0,63652013.0,L237,Contact eczema
+Dermatitis and eczema,1494721011.0,M12-2,M12..12,40275004.0,63652013.0,L240,Contact eczema
+Dermatitis and eczema,1494721011.0,M12-2,M12..12,40275004.0,63652013.0,L233,Contact eczema
+Dermatitis and eczema,1494721011.0,M12-2,M12..12,40275004.0,63652013.0,L252,Contact eczema
+Dermatitis and eczema,1494721011.0,M12-2,M12..12,40275004.0,63652013.0,L247,Contact eczema
+Dermatitis and eczema,1494721011.0,M12-2,M12..12,40275004.0,63652013.0,L251,Contact eczema
+Dermatitis and eczema,1494721011.0,M12-2,M12..12,40275004.0,63652013.0,L248,Contact eczema
+Dermatitis and eczema,1494721011.0,M12-2,M12..12,40275004.0,63652013.0,L242,Contact eczema
+Dermatitis and eczema,1494721011.0,M12-2,M12..12,40275004.0,63652013.0,L234,Contact eczema
+Dermatitis and eczema,1494721011.0,M12-2,M12..12,40275004.0,63652013.0,L243,Contact eczema
+Dermatitis and eczema,1781705012.0,M12-3,M12..13,238578002.0,357570019.0,L259,Occupational dermatitis
+Dermatitis and eczema,50967012.0,M120,M120.00,30451004.0,50967012.0,L240,Contact dermatitis due to detergents
+Dermatitis and eczema,399913016.0,M121,M121.00,267793005.0,399913016.0,L241,Contact dermatitis due to oils and greases
+Dermatitis and eczema,357558018.0,M121-1,M121.11,238568000.0,357558018.0,L241,Grease contact dermatitis
+Dermatitis and eczema,357559014.0,M121-2,M121.12,238569008.0,357559014.0,L241,Oil contact dermatitis
+Dermatitis and eczema,38664014.0,M122,M122.00,23012005.0,38664014.0,L242,Contact dermatitis due to solvents
+Dermatitis and eczema,308509010.0,M1220,M122000,200784004.0,308509010.0,L242,Contact dermatitis due to chlorocompound
+Dermatitis and eczema,308510017.0,M1221,M122100,200785003.0,308510017.0,L242,Contact dermatitis due to cyclohexane
+Dermatitis and eczema,308512013.0,M1223,M122300,200787006.0,308512013.0,L242,Contact dermatitis due to glycol
+Dermatitis and eczema,308515010.0,M122z,M122z00,23012005.0,38664014.0,L242,Contact dermatitis due to solvent NOS
+Dermatitis and eczema,590701000006112.0,M123,M123.00,86062001.0,142690019.0,L251,Contact dermatitis due to drugs and medicaments
+Dermatitis and eczema,67908018.0,M1230,M123000,40712008.0,67908018.0,L251,Contact dermatitis due to arnica
+Dermatitis and eczema,590781000006115.0,M1231,M123100,17946007.0,30306019.0,L251,Contact dermatitis due to fungicides
+Dermatitis and eczema,137914019.0,M1232,M123200,83150005.0,137914019.0,L251,Contact dermatitis due to iodine
+Dermatitis and eczema,308519016.0,M1233,M123300,200794009.0,308519016.0,L251,Contact dermatitis due to keratolytics
+Dermatitis and eczema,590931000006119.0,M1234,M123400,81581001.0,135333017.0,L251,Contact dermatitis due to mercurials
+Dermatitis and eczema,54060018.0,M1235,M123500,32371003.0,54060018.0,L251,Contact dermatitis due to neomycin
+Dermatitis and eczema,591011000006116.0,M1236,M123600,72057009.0,119732011.0,L251,Contact dermatitis due to pediculocides
+Dermatitis and eczema,591021000006112.0,M1237,M123700,111190006.0,178426013.0,L251,Contact dermatitis due to phenols
+Dermatitis and eczema,591151000006116.0,M1238,M123800,26532007.0,44428014.0,L251,Contact dermatitis due to scabicides
+Dermatitis and eczema,308526016.0,M123z,M123z00,86062001.0,142690019.0,L251,Contact dermatitis due to medicament NOS
+Dermatitis and eczema,308527013.0,M124,M124.00,291000119100.0,3043712018.0,L253,Contact dermatitis due to other chemical products
+Dermatitis and eczema,308528015.0,M1240,M124000,200802008.0,308528015.0,L245,Contact dermatitis due to acids
+Dermatitis and eczema,128743013.0,M1241,M124100,77560002.0,128743013.0,L231,Contact dermatitis due to adhesive plaster
+Dermatitis and eczema,128743013.0,M1241,M124100,77560002.0,128743013.0,L245,Contact dermatitis due to adhesive plaster
+Dermatitis and eczema,357560016.0,M1241-1,M124111,238570009.0,357560016.0,L231,Elastoplast contact dermatitis
+Dermatitis and eczema,357560016.0,M1241-1,M124111,238570009.0,357560016.0,L245,Elastoplast contact dermatitis
+Dermatitis and eczema,308532014.0,M1242,M124200,200804009.0,308532014.0,L245,Contact dermatitis due to alkalis
+Dermatitis and eczema,308533016.0,M1243,M124300,200805005.0,308533016.0,L245,Contact dermatitis due to caustics
+Dermatitis and eczema,71306016.0,M1244,M124400,42733007.0,71306016.0,L230,Contact dermatitis due to dichromate
+Dermatitis and eczema,178428014.0,M1245,M124500,111192003.0,178428014.0,L253,Contact dermatitis due to insecticide
+Dermatitis and eczema,138508015.0,M1246,M124600,83508001.0,138508015.0,L235,Contact dermatitis due to nylon
+Dermatitis and eczema,53389017.0,M1247,M124700,31948006.0,53389017.0,L235,Contact dermatitis due to plastic
+Dermatitis and eczema,77108018.0,M1248,M124800,46240005.0,77108018.0,L235,Contact dermatitis due to rubber
+Dermatitis and eczema,308539017.0,M124z,M124z00,291000119100.0,3043712018.0,L253,Contact dermatitis: other chemicals NOS
+Dermatitis and eczema,112091013.0,M125,M125.00,67445002.0,112091013.0,L254,Contact dermatitis due to food in contact with skin
+Dermatitis and eczema,590631000006113.0,M1250,M125000,49186001.0,81932013.0,L254,Contact dermatitis due to cereals
+Dermatitis and eczema,60975016.0,M1251,M125100,36530008.0,60975016.0,L254,Contact dermatitis due to fish
+Dermatitis and eczema,93035017.0,M1252,M125200,55934006.0,93035017.0,L254,Contact dermatitis due to flour
+Dermatitis and eczema,31691015.0,M1253,M125300,18793008.0,31691015.0,L254,Contact dermatitis due to fruit
+Dermatitis and eczema,121124014.0,M1254,M125400,72921001.0,121124014.0,L254,Contact dermatitis due to meat
+Dermatitis and eczema,108236013.0,M1255,M125500,65129009.0,108236013.0,L254,Contact dermatitis due to milk
+Dermatitis and eczema,399914010.0,M125z,M125z00,67445002.0,112091013.0,L254,Contact dermatitis due to food NOS
+Dermatitis and eczema,357561017.0,M125z-1,M125z11,238571008.0,357561017.0,L236,Egg contact dermatitis
+Dermatitis and eczema,357561017.0,M125z-1,M125z11,238571008.0,357561017.0,L254,Egg contact dermatitis
+Dermatitis and eczema,357561017.0,M125z-1,M125z11,238571008.0,357561017.0,L246,Egg contact dermatitis
+Dermatitis and eczema,357561017.0,M125z-1,M125z11,238571008.0,357561017.0,L272,Egg contact dermatitis
+Dermatitis and eczema,308552010.0,M126,M126.00,200821000.0,308552010.0,L255,Contact dermatitis due to plants
+Dermatitis and eczema,108646019.0,M1260,M126000,65394002.0,108646019.0,L237,Contact dermatitis due to lacquer tree
+Dermatitis and eczema,308554011.0,M1261,M126100,200823002.0,308554011.0,L237,Contact dermatitis due to poison-ivy
+Dermatitis and eczema,308555012.0,M1262,M126200,200824008.0,308555012.0,L237,Contact dermatitis due to poison-oak
+Dermatitis and eczema,591081000006111.0,M1263,M126300,10901008.0,18920010.0,L237,Contact dermatitis due to poison-sumac
+Dermatitis and eczema,591081000006111.0,M1263,M126300,10901008.0,18920010.0,L255,Contact dermatitis due to poison-sumac
+Dermatitis and eczema,591081000006111.0,M1263,M126300,10901008.0,18920010.0,L247,Contact dermatitis due to poison-sumac
+Dermatitis and eczema,2050012.0,M1265,M126500,586008.0,2050012.0,L237,Contact dermatitis due to primrose
+Dermatitis and eczema,89646013.0,M1266,M126600,53930004.0,89646013.0,L237,Contact dermatitis due to ragweed
+Dermatitis and eczema,308560011.0,M126z,M126z00,200821000.0,308552010.0,L255,Contact dermatitis due to plants NOS
+Dermatitis and eczema,357566010.0,M128,M128.00,238575004.0,357566010.0,L239,Allergic contact dermatitis
+Dermatitis and eczema,357566010.0,M128,M128.00,238575004.0,357566010.0,L238,Allergic contact dermatitis
+Dermatitis and eczema,308575015.0,M1280,M128000,200842003.0,308575015.0,L231,Allergic contact dermatitis due to adhesives
+Dermatitis and eczema,308576019.0,M1281,M128100,200843008.0,308576019.0,L232,Allergic contact dermatitis due to cosmetics
+Dermatitis and eczema,477331000006119.0,M1282,M128200,200844002.0,308577011.0,L233,Allergic contact dermatitis due drugs in contact with skin
+Dermatitis and eczema,308578018.0,M1283,M128300,200845001.0,308578018.0,L234,Allergic contact dermatitis due to dyes
+Dermatitis and eczema,308579014.0,M1284,M128400,1.0676871000119104e+16,3043986018.0,L235,Allergic contact dermatitis due to other chemical products
+Dermatitis and eczema,477371000006116.0,M1285,M128500,200847009.0,308580012.0,L236,Allergic contact dermatitis due to food in contact with skin
+Dermatitis and eczema,308581011.0,M1286,M128600,1.06287110001191e+16,3028353019.0,L237,"Allergic contact dermatitis due to plants, except food"
+Dermatitis and eczema,308581011.0,M1286,M128600,1.06287110001191e+16,3028353019.0,L236,"Allergic contact dermatitis due to plants, except food"
+Dermatitis and eczema,1775284012.0,M129,M129.00,110979008.0,1775284012.0,L247,Irritant contact dermatitis
+Dermatitis and eczema,1775284012.0,M129,M129.00,110979008.0,1775284012.0,L241,Irritant contact dermatitis
+Dermatitis and eczema,1775284012.0,M129,M129.00,110979008.0,1775284012.0,L242,Irritant contact dermatitis
+Dermatitis and eczema,1775284012.0,M129,M129.00,110979008.0,1775284012.0,L246,Irritant contact dermatitis
+Dermatitis and eczema,1775284012.0,M129,M129.00,110979008.0,1775284012.0,L249,Irritant contact dermatitis
+Dermatitis and eczema,1775284012.0,M129,M129.00,110979008.0,1775284012.0,L244,Irritant contact dermatitis
+Dermatitis and eczema,1775284012.0,M129,M129.00,110979008.0,1775284012.0,L248,Irritant contact dermatitis
+Dermatitis and eczema,1775284012.0,M129,M129.00,110979008.0,1775284012.0,L245,Irritant contact dermatitis
+Dermatitis and eczema,1775284012.0,M129,M129.00,110979008.0,1775284012.0,L243,Irritant contact dermatitis
+Dermatitis and eczema,1775284012.0,M129,M129.00,110979008.0,1775284012.0,L240,Irritant contact dermatitis
+Dermatitis and eczema,308585019.0,M1290,M129000,200851006.0,308585019.0,L243,Irritant contact dermatitis due to cosmetics
+Dermatitis and eczema,745631000006113.0,M1291,M129100,200852004.0,308586018.0,L244,Irritant contact dermatitis due drugs in contact with skin
+Dermatitis and eczema,308587010.0,M1292,M129200,1.0628591000119104e+16,3043226014.0,L245,Irritant contact dermatitis due to other chemical products
+Dermatitis and eczema,745641000006115.0,M1293,M129300,200854003.0,308588017.0,L246,Irritant contact dermatitis due to food in contact with skin
+Dermatitis and eczema,308589013.0,M1294,M129400,200855002.0,308589013.0,L247,"Irritant contact dermatitis due to plants, except food"
+Dermatitis and eczema,308602013.0,M12y,M12y.00,40275004.0,63652013.0,L239,Contact dermatitis due to other specified agents
+Dermatitis and eczema,308602013.0,M12y,M12y.00,40275004.0,63652013.0,L249,Contact dermatitis due to other specified agents
+Dermatitis and eczema,308602013.0,M12y,M12y.00,40275004.0,63652013.0,L238,Contact dermatitis due to other specified agents
+Dermatitis and eczema,308602013.0,M12y,M12y.00,40275004.0,63652013.0,L259,Contact dermatitis due to other specified agents
+Dermatitis and eczema,308602013.0,M12y,M12y.00,40275004.0,63652013.0,L231,Contact dermatitis due to other specified agents
+Dermatitis and eczema,308602013.0,M12y,M12y.00,40275004.0,63652013.0,L250,Contact dermatitis due to other specified agents
+Dermatitis and eczema,308602013.0,M12y,M12y.00,40275004.0,63652013.0,L245,Contact dermatitis due to other specified agents
+Dermatitis and eczema,308602013.0,M12y,M12y.00,40275004.0,63652013.0,L254,Contact dermatitis due to other specified agents
+Dermatitis and eczema,308602013.0,M12y,M12y.00,40275004.0,63652013.0,L241,Contact dermatitis due to other specified agents
+Dermatitis and eczema,308602013.0,M12y,M12y.00,40275004.0,63652013.0,L246,Contact dermatitis due to other specified agents
+Dermatitis and eczema,308602013.0,M12y,M12y.00,40275004.0,63652013.0,L244,Contact dermatitis due to other specified agents
+Dermatitis and eczema,308602013.0,M12y,M12y.00,40275004.0,63652013.0,L253,Contact dermatitis due to other specified agents
+Dermatitis and eczema,308602013.0,M12y,M12y.00,40275004.0,63652013.0,L232,Contact dermatitis due to other specified agents
+Dermatitis and eczema,308602013.0,M12y,M12y.00,40275004.0,63652013.0,L236,Contact dermatitis due to other specified agents
+Dermatitis and eczema,308602013.0,M12y,M12y.00,40275004.0,63652013.0,L255,Contact dermatitis due to other specified agents
+Dermatitis and eczema,308602013.0,M12y,M12y.00,40275004.0,63652013.0,L258,Contact dermatitis due to other specified agents
+Dermatitis and eczema,308602013.0,M12y,M12y.00,40275004.0,63652013.0,L235,Contact dermatitis due to other specified agents
+Dermatitis and eczema,308602013.0,M12y,M12y.00,40275004.0,63652013.0,L230,Contact dermatitis due to other specified agents
+Dermatitis and eczema,308602013.0,M12y,M12y.00,40275004.0,63652013.0,L237,Contact dermatitis due to other specified agents
+Dermatitis and eczema,308602013.0,M12y,M12y.00,40275004.0,63652013.0,L240,Contact dermatitis due to other specified agents
+Dermatitis and eczema,308602013.0,M12y,M12y.00,40275004.0,63652013.0,L233,Contact dermatitis due to other specified agents
+Dermatitis and eczema,308602013.0,M12y,M12y.00,40275004.0,63652013.0,L252,Contact dermatitis due to other specified agents
+Dermatitis and eczema,308602013.0,M12y,M12y.00,40275004.0,63652013.0,L247,Contact dermatitis due to other specified agents
+Dermatitis and eczema,308602013.0,M12y,M12y.00,40275004.0,63652013.0,L251,Contact dermatitis due to other specified agents
+Dermatitis and eczema,308602013.0,M12y,M12y.00,40275004.0,63652013.0,L248,Contact dermatitis due to other specified agents
+Dermatitis and eczema,308602013.0,M12y,M12y.00,40275004.0,63652013.0,L242,Contact dermatitis due to other specified agents
+Dermatitis and eczema,308602013.0,M12y,M12y.00,40275004.0,63652013.0,L234,Contact dermatitis due to other specified agents
+Dermatitis and eczema,308602013.0,M12y,M12y.00,40275004.0,63652013.0,L243,Contact dermatitis due to other specified agents
+Dermatitis and eczema,130689015.0,M12y0,M12y000,78755001.0,130689015.0,L250,Contact dermatitis due to cosmetics
+Dermatitis and eczema,357562012.0,M12y0-1,M12y011,238572001.0,357562012.0,L241,Lanolin contact dermatitis
+Dermatitis and eczema,357563019.0,M12y0-2,M12y012,238573006.0,357563019.0,L250,Perfume contact dermatitis
+Dermatitis and eczema,357563019.0,M12y0-2,M12y012,238573006.0,357563019.0,L243,Perfume contact dermatitis
+Dermatitis and eczema,357563019.0,M12y0-2,M12y012,238573006.0,357563019.0,L232,Perfume contact dermatitis
+Dermatitis and eczema,98560010.0,M12y1,M12y100,238506004.0,357457014.0,T698,Contact dermatitis due to cold weather
+Dermatitis and eczema,590711000006110.0,M12y2,M12y200,6888008.0,12391017.0,L252,Contact dermatitis due to dyes
+Dermatitis and eczema,308609016.0,M12y3,M12y300,200871002.0,308609016.0,L238,Contact dermatitis due to furs
+Dermatitis and eczema,81109013.0,M12y4,M12y400,279334008.0,416565015.0,L590,Contact dermatitis due to hot weather
+Dermatitis and eczema,590831000006112.0,M12y5,M12y500,279334008.0,416565015.0,L590,Contact dermatitis due to infra-red rays
+Dermatitis and eczema,506552014.0,M12y6,M12y600,85512009.0,506552014.0,L258,Contact dermatitis due to jewellery
+Dermatitis and eczema,590901000006110.0,M12y7,M12y700,46787004.0,77991017.0,L578,Contact dermatitis due to light (excluding sunlight)
+Dermatitis and eczema,399916012.0,M12y8,M12y800,1.6228891000119104e+16,3079164017.0,L230,Contact dermatitis due to metals
+Dermatitis and eczema,674911000006116.0,M12y8-1,M12y811,93419003.0,154625010.0,L248,Nickel sensitivity
+Dermatitis and eczema,674911000006116.0,M12y8-1,M12y811,93419003.0,154625010.0,L230,Nickel sensitivity
+Dermatitis and eczema,308618019.0,M12y9,M12y900,200877003.0,308618019.0,L253,Contact dermatitis due to preservatives
+Dermatitis and eczema,308619010.0,M12yA,M12yA00,81351008.0,134948013.0,L598,Contact dermatitis due to radiation NOS
+Dermatitis and eczema,591201000006113.0,M12yB,M12yB00,200879000.0,308620016.0,L578,Contact dermatitis due to ultra-violet rays (excluding sun)
+Dermatitis and eczema,115978018.0,M12yC,M12yC00,69827001.0,115978018.0,L589,Contact dermatitis due to X-rays
+Dermatitis and eczema,308622012.0,M12yD,M12yD00,200881003.0,308622012.0,L258,Contact dermatitis due to casting materials
+Dermatitis and eczema,308623019.0,M12yz,M12yz00,40275004.0,63652013.0,L239,Contact dermatitis: specified agent NOS
+Dermatitis and eczema,308623019.0,M12yz,M12yz00,40275004.0,63652013.0,L249,Contact dermatitis: specified agent NOS
+Dermatitis and eczema,308623019.0,M12yz,M12yz00,40275004.0,63652013.0,L238,Contact dermatitis: specified agent NOS
+Dermatitis and eczema,308623019.0,M12yz,M12yz00,40275004.0,63652013.0,L259,Contact dermatitis: specified agent NOS
+Dermatitis and eczema,308623019.0,M12yz,M12yz00,40275004.0,63652013.0,L231,Contact dermatitis: specified agent NOS
+Dermatitis and eczema,308623019.0,M12yz,M12yz00,40275004.0,63652013.0,L250,Contact dermatitis: specified agent NOS
+Dermatitis and eczema,308623019.0,M12yz,M12yz00,40275004.0,63652013.0,L245,Contact dermatitis: specified agent NOS
+Dermatitis and eczema,308623019.0,M12yz,M12yz00,40275004.0,63652013.0,L254,Contact dermatitis: specified agent NOS
+Dermatitis and eczema,308623019.0,M12yz,M12yz00,40275004.0,63652013.0,L241,Contact dermatitis: specified agent NOS
+Dermatitis and eczema,308623019.0,M12yz,M12yz00,40275004.0,63652013.0,L246,Contact dermatitis: specified agent NOS
+Dermatitis and eczema,308623019.0,M12yz,M12yz00,40275004.0,63652013.0,L244,Contact dermatitis: specified agent NOS
+Dermatitis and eczema,308623019.0,M12yz,M12yz00,40275004.0,63652013.0,L253,Contact dermatitis: specified agent NOS
+Dermatitis and eczema,308623019.0,M12yz,M12yz00,40275004.0,63652013.0,L232,Contact dermatitis: specified agent NOS
+Dermatitis and eczema,308623019.0,M12yz,M12yz00,40275004.0,63652013.0,L236,Contact dermatitis: specified agent NOS
+Dermatitis and eczema,308623019.0,M12yz,M12yz00,40275004.0,63652013.0,L255,Contact dermatitis: specified agent NOS
+Dermatitis and eczema,308623019.0,M12yz,M12yz00,40275004.0,63652013.0,L258,Contact dermatitis: specified agent NOS
+Dermatitis and eczema,308623019.0,M12yz,M12yz00,40275004.0,63652013.0,L235,Contact dermatitis: specified agent NOS
+Dermatitis and eczema,308623019.0,M12yz,M12yz00,40275004.0,63652013.0,L230,Contact dermatitis: specified agent NOS
+Dermatitis and eczema,308623019.0,M12yz,M12yz00,40275004.0,63652013.0,L237,Contact dermatitis: specified agent NOS
+Dermatitis and eczema,308623019.0,M12yz,M12yz00,40275004.0,63652013.0,L240,Contact dermatitis: specified agent NOS
+Dermatitis and eczema,308623019.0,M12yz,M12yz00,40275004.0,63652013.0,L233,Contact dermatitis: specified agent NOS
+Dermatitis and eczema,308623019.0,M12yz,M12yz00,40275004.0,63652013.0,L252,Contact dermatitis: specified agent NOS
+Dermatitis and eczema,308623019.0,M12yz,M12yz00,40275004.0,63652013.0,L247,Contact dermatitis: specified agent NOS
+Dermatitis and eczema,308623019.0,M12yz,M12yz00,40275004.0,63652013.0,L251,Contact dermatitis: specified agent NOS
+Dermatitis and eczema,308623019.0,M12yz,M12yz00,40275004.0,63652013.0,L248,Contact dermatitis: specified agent NOS
+Dermatitis and eczema,308623019.0,M12yz,M12yz00,40275004.0,63652013.0,L242,Contact dermatitis: specified agent NOS
+Dermatitis and eczema,308623019.0,M12yz,M12yz00,40275004.0,63652013.0,L234,Contact dermatitis: specified agent NOS
+Dermatitis and eczema,308623019.0,M12yz,M12yz00,40275004.0,63652013.0,L243,Contact dermatitis: specified agent NOS
+Dermatitis and eczema,591221000006115.0,M12z,M12z.00,40275004.0,63652013.0,L239,Contact dermatitis NOS
+Dermatitis and eczema,591221000006115.0,M12z,M12z.00,40275004.0,63652013.0,L249,Contact dermatitis NOS
+Dermatitis and eczema,591221000006115.0,M12z,M12z.00,40275004.0,63652013.0,L238,Contact dermatitis NOS
+Dermatitis and eczema,591221000006115.0,M12z,M12z.00,40275004.0,63652013.0,L259,Contact dermatitis NOS
+Dermatitis and eczema,591221000006115.0,M12z,M12z.00,40275004.0,63652013.0,L231,Contact dermatitis NOS
+Dermatitis and eczema,591221000006115.0,M12z,M12z.00,40275004.0,63652013.0,L250,Contact dermatitis NOS
+Dermatitis and eczema,591221000006115.0,M12z,M12z.00,40275004.0,63652013.0,L245,Contact dermatitis NOS
+Dermatitis and eczema,591221000006115.0,M12z,M12z.00,40275004.0,63652013.0,L254,Contact dermatitis NOS
+Dermatitis and eczema,591221000006115.0,M12z,M12z.00,40275004.0,63652013.0,L241,Contact dermatitis NOS
+Dermatitis and eczema,591221000006115.0,M12z,M12z.00,40275004.0,63652013.0,L246,Contact dermatitis NOS
+Dermatitis and eczema,591221000006115.0,M12z,M12z.00,40275004.0,63652013.0,L244,Contact dermatitis NOS
+Dermatitis and eczema,591221000006115.0,M12z,M12z.00,40275004.0,63652013.0,L253,Contact dermatitis NOS
+Dermatitis and eczema,591221000006115.0,M12z,M12z.00,40275004.0,63652013.0,L232,Contact dermatitis NOS
+Dermatitis and eczema,591221000006115.0,M12z,M12z.00,40275004.0,63652013.0,L236,Contact dermatitis NOS
+Dermatitis and eczema,591221000006115.0,M12z,M12z.00,40275004.0,63652013.0,L255,Contact dermatitis NOS
+Dermatitis and eczema,591221000006115.0,M12z,M12z.00,40275004.0,63652013.0,L258,Contact dermatitis NOS
+Dermatitis and eczema,591221000006115.0,M12z,M12z.00,40275004.0,63652013.0,L235,Contact dermatitis NOS
+Dermatitis and eczema,591221000006115.0,M12z,M12z.00,40275004.0,63652013.0,L230,Contact dermatitis NOS
+Dermatitis and eczema,591221000006115.0,M12z,M12z.00,40275004.0,63652013.0,L237,Contact dermatitis NOS
+Dermatitis and eczema,591221000006115.0,M12z,M12z.00,40275004.0,63652013.0,L240,Contact dermatitis NOS
+Dermatitis and eczema,591221000006115.0,M12z,M12z.00,40275004.0,63652013.0,L233,Contact dermatitis NOS
+Dermatitis and eczema,591221000006115.0,M12z,M12z.00,40275004.0,63652013.0,L252,Contact dermatitis NOS
+Dermatitis and eczema,591221000006115.0,M12z,M12z.00,40275004.0,63652013.0,L247,Contact dermatitis NOS
+Dermatitis and eczema,591221000006115.0,M12z,M12z.00,40275004.0,63652013.0,L251,Contact dermatitis NOS
+Dermatitis and eczema,591221000006115.0,M12z,M12z.00,40275004.0,63652013.0,L248,Contact dermatitis NOS
+Dermatitis and eczema,591221000006115.0,M12z,M12z.00,40275004.0,63652013.0,L242,Contact dermatitis NOS
+Dermatitis and eczema,591221000006115.0,M12z,M12z.00,40275004.0,63652013.0,L234,Contact dermatitis NOS
+Dermatitis and eczema,591221000006115.0,M12z,M12z.00,40275004.0,63652013.0,L243,Contact dermatitis NOS
+Dermatitis and eczema,308625014.0,M12z0,M12z000,703938007.0,3012078018.0,L985,Dermatitis NOS
+Dermatitis and eczema,308625014.0,M12z0,M12z000,703938007.0,3012078018.0,L987,Dermatitis NOS
+Dermatitis and eczema,308625014.0,M12z0,M12z000,703938007.0,3012078018.0,L986,Dermatitis NOS
+Dermatitis and eczema,308625014.0,M12z0,M12z000,703938007.0,3012078018.0,L980,Dermatitis NOS
+Dermatitis and eczema,308625014.0,M12z0,M12z000,703938007.0,3012078018.0,L988,Dermatitis NOS
+Dermatitis and eczema,308625014.0,M12z0,M12z000,703938007.0,3012078018.0,L982,Dermatitis NOS
+Dermatitis and eczema,308625014.0,M12z0,M12z000,703938007.0,3012078018.0,L989,Dermatitis NOS
+Dermatitis and eczema,308625014.0,M12z0,M12z000,703938007.0,3012078018.0,L983,Dermatitis NOS
+Dermatitis and eczema,308625014.0,M12z0,M12z000,703938007.0,3012078018.0,L981,Dermatitis NOS
+Dermatitis and eczema,308625014.0,M12z0,M12z000,703938007.0,3012078018.0,L984,Dermatitis NOS
+Dermatitis and eczema,399917015.0,M12z1,M12z100,43116000.0,71923017.0,L309,Eczema NOS
+Dermatitis and eczema,622961000006111.0,M12z1-1,M12z111,81418003.0,3302693013.0,L300,Discoid eczema
+Dermatitis and eczema,1779345010.0,M12z2,M12z200,400079002.0,1779345010.0,L303,Infected eczema
+Dermatitis and eczema,357504010.0,M12z3,M12z300,238539001.0,357504010.0,L309,Hand eczema
+Dermatitis and eczema,1779279014.0,M12z4,M12z400,400005007.0,1779279014.0,L539,Erythrodermic eczema
+Dermatitis and eczema,1779279014.0,M12z4,M12z400,400005007.0,1779279014.0,L408,Erythrodermic eczema
+Dermatitis and eczema,1779279014.0,M12z4,M12z400,400005007.0,1779279014.0,Q803,Erythrodermic eczema
+Dermatitis and eczema,1779279014.0,M12z4,M12z400,400005007.0,1779279014.0,P838,Erythrodermic eczema
+Dermatitis and eczema,1779279014.0,M12z4,M12z400,400005007.0,1779279014.0,L211,Erythrodermic eczema
+Dermatitis and eczema,308624013.0,M12zz,M12zz00,40275004.0,63652013.0,L239,Contact dermatitis NOS
+Dermatitis and eczema,308624013.0,M12zz,M12zz00,40275004.0,63652013.0,L249,Contact dermatitis NOS
+Dermatitis and eczema,308624013.0,M12zz,M12zz00,40275004.0,63652013.0,L238,Contact dermatitis NOS
+Dermatitis and eczema,308624013.0,M12zz,M12zz00,40275004.0,63652013.0,L259,Contact dermatitis NOS
+Dermatitis and eczema,308624013.0,M12zz,M12zz00,40275004.0,63652013.0,L231,Contact dermatitis NOS
+Dermatitis and eczema,308624013.0,M12zz,M12zz00,40275004.0,63652013.0,L250,Contact dermatitis NOS
+Dermatitis and eczema,308624013.0,M12zz,M12zz00,40275004.0,63652013.0,L245,Contact dermatitis NOS
+Dermatitis and eczema,308624013.0,M12zz,M12zz00,40275004.0,63652013.0,L254,Contact dermatitis NOS
+Dermatitis and eczema,308624013.0,M12zz,M12zz00,40275004.0,63652013.0,L241,Contact dermatitis NOS
+Dermatitis and eczema,308624013.0,M12zz,M12zz00,40275004.0,63652013.0,L246,Contact dermatitis NOS
+Dermatitis and eczema,308624013.0,M12zz,M12zz00,40275004.0,63652013.0,L244,Contact dermatitis NOS
+Dermatitis and eczema,308624013.0,M12zz,M12zz00,40275004.0,63652013.0,L253,Contact dermatitis NOS
+Dermatitis and eczema,308624013.0,M12zz,M12zz00,40275004.0,63652013.0,L232,Contact dermatitis NOS
+Dermatitis and eczema,308624013.0,M12zz,M12zz00,40275004.0,63652013.0,L236,Contact dermatitis NOS
+Dermatitis and eczema,308624013.0,M12zz,M12zz00,40275004.0,63652013.0,L255,Contact dermatitis NOS
+Dermatitis and eczema,308624013.0,M12zz,M12zz00,40275004.0,63652013.0,L258,Contact dermatitis NOS
+Dermatitis and eczema,308624013.0,M12zz,M12zz00,40275004.0,63652013.0,L235,Contact dermatitis NOS
+Dermatitis and eczema,308624013.0,M12zz,M12zz00,40275004.0,63652013.0,L230,Contact dermatitis NOS
+Dermatitis and eczema,308624013.0,M12zz,M12zz00,40275004.0,63652013.0,L237,Contact dermatitis NOS
+Dermatitis and eczema,308624013.0,M12zz,M12zz00,40275004.0,63652013.0,L240,Contact dermatitis NOS
+Dermatitis and eczema,308624013.0,M12zz,M12zz00,40275004.0,63652013.0,L233,Contact dermatitis NOS
+Dermatitis and eczema,308624013.0,M12zz,M12zz00,40275004.0,63652013.0,L252,Contact dermatitis NOS
+Dermatitis and eczema,308624013.0,M12zz,M12zz00,40275004.0,63652013.0,L247,Contact dermatitis NOS
+Dermatitis and eczema,308624013.0,M12zz,M12zz00,40275004.0,63652013.0,L251,Contact dermatitis NOS
+Dermatitis and eczema,308624013.0,M12zz,M12zz00,40275004.0,63652013.0,L248,Contact dermatitis NOS
+Dermatitis and eczema,308624013.0,M12zz,M12zz00,40275004.0,63652013.0,L242,Contact dermatitis NOS
+Dermatitis and eczema,308624013.0,M12zz,M12zz00,40275004.0,63652013.0,L234,Contact dermatitis NOS
+Dermatitis and eczema,308624013.0,M12zz,M12zz00,40275004.0,63652013.0,L243,Contact dermatitis NOS
+Dermatitis and eczema,308633010.0,M13,M13..00,200890005.0,308633010.0,L279,Ingestion dermatitis
+Dermatitis and eczema,308633010.0,M13,M13..00,200890005.0,308633010.0,L278,Ingestion dermatitis
+Dermatitis and eczema,308633010.0,M13,M13..00,200890005.0,308633010.0,L271,Ingestion dermatitis
+Dermatitis and eczema,308633010.0,M13,M13..00,200890005.0,308633010.0,L272,Ingestion dermatitis
+Dermatitis and eczema,308633010.0,M13,M13..00,200890005.0,308633010.0,L270,Ingestion dermatitis
+Dermatitis and eczema,399918013.0,M130,M130.00,267798001.0,399918013.0,L278,Ingestion dermatitis due to drugs
+Dermatitis and eczema,220921000000114.0,M130-1,M130.11,28926001.0,1226128015.0,L270,Drug induced rash
+Dermatitis and eczema,220921000000114.0,M130-1,M130.11,28926001.0,1226128015.0,L271,Drug induced rash
+Dermatitis and eczema,308637011.0,M1300,M130000,200892002.0,308638018.0,L270,Generalized skin eruption due to drugs and medicaments
+Dermatitis and eczema,308640011.0,M1301,M130100,200893007.0,308639014.0,L271,Localized skin eruption due to drugs and medicaments
+Dermatitis and eczema,358163013.0,M1302,M130200,238992001.0,358163013.0,L270,Drug-induced erythroderma
+Dermatitis and eczema,358163013.0,M1302,M130200,238992001.0,358163013.0,L271,Drug-induced erythroderma
+Dermatitis and eczema,308642015.0,M131,M131.00,200895000.0,308642015.0,L272,Ingestion dermatitis due to food
+Dermatitis and eczema,308643013.0,M13y,M13y.00,200890005.0,308633010.0,L279,Ingestion dermatitis due to other specified substance
+Dermatitis and eczema,308643013.0,M13y,M13y.00,200890005.0,308633010.0,L278,Ingestion dermatitis due to other specified substance
+Dermatitis and eczema,308643013.0,M13y,M13y.00,200890005.0,308633010.0,L271,Ingestion dermatitis due to other specified substance
+Dermatitis and eczema,308643013.0,M13y,M13y.00,200890005.0,308633010.0,L272,Ingestion dermatitis due to other specified substance
+Dermatitis and eczema,308643013.0,M13y,M13y.00,200890005.0,308633010.0,L270,Ingestion dermatitis due to other specified substance
+Dermatitis and eczema,308644019.0,M13z,M13z.00,200890005.0,308633010.0,L279,Ingestion dermatitis NOS
+Dermatitis and eczema,308644019.0,M13z,M13z.00,200890005.0,308633010.0,L278,Ingestion dermatitis NOS
+Dermatitis and eczema,308644019.0,M13z,M13z.00,200890005.0,308633010.0,L271,Ingestion dermatitis NOS
+Dermatitis and eczema,308644019.0,M13z,M13z.00,200890005.0,308633010.0,L272,Ingestion dermatitis NOS
+Dermatitis and eczema,308644019.0,M13z,M13z.00,200890005.0,308633010.0,L270,Ingestion dermatitis NOS
+Dermatitis and eczema,308716014.0,M15y2,M15y200,200948000.0,308716014.0,L26X,Pityriasis rubra (Hebra)
+Dermatitis and eczema,1781460018.0,M1650,M165000,402296004.0,1781460018.0,L305,Pityriasis alba
+Dermatitis and eczema,744321000006117.0,M173,M173.00,53891004.0,496798019.0,L280,Lichen simplex
+Dermatitis and eczema,106630017.0,M182,M182.00,64144002.0,106630017.0,L564,Prurigo
+Dermatitis and eczema,106630017.0,M182,M182.00,64144002.0,106630017.0,L281,Prurigo
+Dermatitis and eczema,106630017.0,M182,M182.00,64144002.0,106630017.0,F458,Prurigo
+Dermatitis and eczema,106630017.0,M182,M182.00,64144002.0,106630017.0,L282,Prurigo
+Dermatitis and eczema,106630017.0,M182,M182.00,64144002.0,106630017.0,L200,Prurigo
+Dermatitis and eczema,198001000006115.0,M1820,M182000,201015007.0,308805012.0,L564,Prurigo aestivalis
+Dermatitis and eczema,308807016.0,M1822,M182200,201017004.0,308807016.0,L282,Prurigo mitis
+Dermatitis and eczema,92436015.0,M1823,M182300,55608001.0,92436015.0,L282,Prurigo simplex
+Dermatitis and eczema,308809018.0,M182z,M182z00,64144002.0,106630017.0,L564,Prurigo NOS
+Dermatitis and eczema,308809018.0,M182z,M182z00,64144002.0,106630017.0,L281,Prurigo NOS
+Dermatitis and eczema,308809018.0,M182z,M182z00,64144002.0,106630017.0,F458,Prurigo NOS
+Dermatitis and eczema,308809018.0,M182z,M182z00,64144002.0,106630017.0,L282,Prurigo NOS
+Dermatitis and eczema,308809018.0,M182z,M182z00,64144002.0,106630017.0,L200,Prurigo NOS
+Dermatitis and eczema,308810011.0,M183,M183.00,201020007.0,308810011.0,L280,Lichenification and lichen simplex chronicus
+Dermatitis and eczema,198021000006113.0,M1830,M183000,63501000.0,105551016.0,L281,Prurigo nodularis (Hyde's disease)
+Dermatitis and eczema,89586012.0,M1831,M183100,267854005.0,400074011.0,L280,Neurodermatitis circumscripta
+Dermatitis and eczema,89586012.0,M1831,M183100,267854005.0,400074011.0,L208,Neurodermatitis circumscripta
+Dermatitis and eczema,496798019.0,M1832,M183200,53891004.0,496798019.0,L280,Lichen simplex
+Dermatitis and eczema,308812015.0,M183z,M183z00,402237006.0,1781404012.0,L280,Lichenification NOS
+Dermatitis and eczema,755361000006114.0,M1B-1,M1B..11,238590000.0,357589019.0,L988,Juvenile plantar dermatitis
+Dermatitis and eczema,135069015.0,M1y0,M1y0.00,81418003.0,135069015.0,L300,Nummular dermatitis
+Dermatitis and eczema,484504011.0,M1y1,M1y1.00,3014005.0,484501015.0,L302,Cutaneous autosensitization
+Dermatitis and eczema,633041000006119.0,M252,M252.00,402567004.0,1781685019.0,L301,Dyshidrosis
+Dermatitis and eczema,633041000006119.0,M252,M252.00,402567004.0,1781685019.0,B001,Dyshidrosis
+Dermatitis and eczema,309090018.0,M2520,M252000,402567004.0,1781685019.0,L301,Dyshidrosis unspecified
+Dermatitis and eczema,309090018.0,M2520,M252000,402567004.0,1781685019.0,B001,Dyshidrosis unspecified
+Dermatitis and eczema,309091019.0,M2521,M252100,402567004.0,2536677012.0,L301,Pompholyx unspecified
+Dermatitis and eczema,309091019.0,M2521,M252100,402567004.0,2536677012.0,B001,Pompholyx unspecified
+Dermatitis and eczema,545831000006111.0,M2522,M252200,402222007.0,1781389017.0,L301,Cheiropompholyx
+Dermatitis and eczema,309092014.0,M2523,M252300,201201000.0,309092014.0,L301,Podopompholyx
+Dermatitis and eczema,309094010.0,M252z,M252z00,402567004.0,1781685019.0,L301,Dyshidrosis NOS
+Dermatitis and eczema,309094010.0,M252z,M252z00,402567004.0,1781685019.0,B001,Dyshidrosis NOS
+Dermatitis and eczema,1787071017.0,M2y41,M2y4100,400028008.0,1787071017.0,L988,Menstrual dermatosis
+Dermatitis and eczema,755371000006119.0,M2y48-1,M2y4811,238590000.0,357589019.0,L988,Juvenile plantar dermatitis
+Dermatitis and eczema,309315018.0,Myu2,Myu2.00,43116000.0,71923017.0,L309,[X]Dermatitis and eczema
+Dermatitis and eczema,362991000006116.0,Myu21,Myu2100,1.0676871000119104e+16,3043986018.0,L235,[X]Allergic contact dermatitis due to oth chemical products
+Dermatitis and eczema,980491000006115.0,Myu22,Myu2200,135843006.0,216603019.0,L309,[X]Exacerbation of eczema
+Dermatitis and eczema,980491000006115.0,Myu22,Myu2200,135843006.0,216603019.0,L302,[X]Exacerbation of eczema
+Dermatitis and eczema,980491000006115.0,Myu22,Myu2200,135843006.0,216603019.0,L300,[X]Exacerbation of eczema
+Dermatitis and eczema,980491000006115.0,Myu22,Myu2200,135843006.0,216603019.0,H605,[X]Exacerbation of eczema
+Dermatitis and eczema,980491000006115.0,Myu22,Myu2200,135843006.0,216603019.0,L304,[X]Exacerbation of eczema
+Dermatitis and eczema,980491000006115.0,Myu22,Myu2200,135843006.0,216603019.0,L208,[X]Exacerbation of eczema
+Dermatitis and eczema,980491000006115.0,Myu22,Myu2200,135843006.0,216603019.0,L011,[X]Exacerbation of eczema
+Dermatitis and eczema,980491000006115.0,Myu22,Myu2200,135843006.0,216603019.0,L280,[X]Exacerbation of eczema
+Dermatitis and eczema,980491000006115.0,Myu22,Myu2200,135843006.0,216603019.0,L305,[X]Exacerbation of eczema
+Dermatitis and eczema,980491000006115.0,Myu22,Myu2200,135843006.0,216603019.0,L303,[X]Exacerbation of eczema
+Dermatitis and eczema,980491000006115.0,Myu22,Myu2200,135843006.0,216603019.0,B000,[X]Exacerbation of eczema
+Dermatitis and eczema,980491000006115.0,Myu22,Myu2200,135843006.0,216603019.0,L211,[X]Exacerbation of eczema
+Dermatitis and eczema,980491000006115.0,Myu22,Myu2200,135843006.0,216603019.0,L301,[X]Exacerbation of eczema
+Dermatitis and eczema,980491000006115.0,Myu22,Myu2200,135843006.0,216603019.0,L308,[X]Exacerbation of eczema
+Dermatitis and eczema,980491000006115.0,Myu22,Myu2200,135843006.0,216603019.0,B356,[X]Exacerbation of eczema
+Dermatitis and eczema,980491000006115.0,Myu22,Myu2200,135843006.0,216603019.0,I831,[X]Exacerbation of eczema
+Dermatitis and eczema,309319012.0,Myu23,Myu2300,238575004.0,357566010.0,L239,[X]Allergic contact dermatitis due to other agents
+Dermatitis and eczema,309319012.0,Myu23,Myu2300,238575004.0,357566010.0,L238,[X]Allergic contact dermatitis due to other agents
+Dermatitis and eczema,394521000006117.0,Myu24,Myu2400,110979008.0,1775284012.0,L247,[X]Irritant contact dermatitis due to oth chemical products
+Dermatitis and eczema,394521000006117.0,Myu24,Myu2400,110979008.0,1775284012.0,L241,[X]Irritant contact dermatitis due to oth chemical products
+Dermatitis and eczema,394521000006117.0,Myu24,Myu2400,110979008.0,1775284012.0,L242,[X]Irritant contact dermatitis due to oth chemical products
+Dermatitis and eczema,394521000006117.0,Myu24,Myu2400,110979008.0,1775284012.0,L246,[X]Irritant contact dermatitis due to oth chemical products
+Dermatitis and eczema,394521000006117.0,Myu24,Myu2400,110979008.0,1775284012.0,L249,[X]Irritant contact dermatitis due to oth chemical products
+Dermatitis and eczema,394521000006117.0,Myu24,Myu2400,110979008.0,1775284012.0,L244,[X]Irritant contact dermatitis due to oth chemical products
+Dermatitis and eczema,394521000006117.0,Myu24,Myu2400,110979008.0,1775284012.0,L248,[X]Irritant contact dermatitis due to oth chemical products
+Dermatitis and eczema,394521000006117.0,Myu24,Myu2400,110979008.0,1775284012.0,L245,[X]Irritant contact dermatitis due to oth chemical products
+Dermatitis and eczema,394521000006117.0,Myu24,Myu2400,110979008.0,1775284012.0,L243,[X]Irritant contact dermatitis due to oth chemical products
+Dermatitis and eczema,394521000006117.0,Myu24,Myu2400,110979008.0,1775284012.0,L240,[X]Irritant contact dermatitis due to oth chemical products
+Dermatitis and eczema,309321019.0,Myu25,Myu2500,110979008.0,1775284012.0,L247,[X]Irritant contact dermatitis due to other agents
+Dermatitis and eczema,309321019.0,Myu25,Myu2500,110979008.0,1775284012.0,L241,[X]Irritant contact dermatitis due to other agents
+Dermatitis and eczema,309321019.0,Myu25,Myu2500,110979008.0,1775284012.0,L242,[X]Irritant contact dermatitis due to other agents
+Dermatitis and eczema,309321019.0,Myu25,Myu2500,110979008.0,1775284012.0,L246,[X]Irritant contact dermatitis due to other agents
+Dermatitis and eczema,309321019.0,Myu25,Myu2500,110979008.0,1775284012.0,L249,[X]Irritant contact dermatitis due to other agents
+Dermatitis and eczema,309321019.0,Myu25,Myu2500,110979008.0,1775284012.0,L244,[X]Irritant contact dermatitis due to other agents
+Dermatitis and eczema,309321019.0,Myu25,Myu2500,110979008.0,1775284012.0,L248,[X]Irritant contact dermatitis due to other agents
+Dermatitis and eczema,309321019.0,Myu25,Myu2500,110979008.0,1775284012.0,L245,[X]Irritant contact dermatitis due to other agents
+Dermatitis and eczema,309321019.0,Myu25,Myu2500,110979008.0,1775284012.0,L243,[X]Irritant contact dermatitis due to other agents
+Dermatitis and eczema,309321019.0,Myu25,Myu2500,110979008.0,1775284012.0,L240,[X]Irritant contact dermatitis due to other agents
+Dermatitis and eczema,430281000006110.0,Myu26,Myu2600,40275004.0,63652013.0,L239,[X]Unspcfd contact dermatitis due to other chemical products
+Dermatitis and eczema,430281000006110.0,Myu26,Myu2600,40275004.0,63652013.0,L249,[X]Unspcfd contact dermatitis due to other chemical products
+Dermatitis and eczema,430281000006110.0,Myu26,Myu2600,40275004.0,63652013.0,L238,[X]Unspcfd contact dermatitis due to other chemical products
+Dermatitis and eczema,430281000006110.0,Myu26,Myu2600,40275004.0,63652013.0,L259,[X]Unspcfd contact dermatitis due to other chemical products
+Dermatitis and eczema,430281000006110.0,Myu26,Myu2600,40275004.0,63652013.0,L231,[X]Unspcfd contact dermatitis due to other chemical products
+Dermatitis and eczema,430281000006110.0,Myu26,Myu2600,40275004.0,63652013.0,L250,[X]Unspcfd contact dermatitis due to other chemical products
+Dermatitis and eczema,430281000006110.0,Myu26,Myu2600,40275004.0,63652013.0,L245,[X]Unspcfd contact dermatitis due to other chemical products
+Dermatitis and eczema,430281000006110.0,Myu26,Myu2600,40275004.0,63652013.0,L254,[X]Unspcfd contact dermatitis due to other chemical products
+Dermatitis and eczema,430281000006110.0,Myu26,Myu2600,40275004.0,63652013.0,L241,[X]Unspcfd contact dermatitis due to other chemical products
+Dermatitis and eczema,430281000006110.0,Myu26,Myu2600,40275004.0,63652013.0,L246,[X]Unspcfd contact dermatitis due to other chemical products
+Dermatitis and eczema,430281000006110.0,Myu26,Myu2600,40275004.0,63652013.0,L244,[X]Unspcfd contact dermatitis due to other chemical products
+Dermatitis and eczema,430281000006110.0,Myu26,Myu2600,40275004.0,63652013.0,L253,[X]Unspcfd contact dermatitis due to other chemical products
+Dermatitis and eczema,430281000006110.0,Myu26,Myu2600,40275004.0,63652013.0,L232,[X]Unspcfd contact dermatitis due to other chemical products
+Dermatitis and eczema,430281000006110.0,Myu26,Myu2600,40275004.0,63652013.0,L236,[X]Unspcfd contact dermatitis due to other chemical products
+Dermatitis and eczema,430281000006110.0,Myu26,Myu2600,40275004.0,63652013.0,L255,[X]Unspcfd contact dermatitis due to other chemical products
+Dermatitis and eczema,430281000006110.0,Myu26,Myu2600,40275004.0,63652013.0,L258,[X]Unspcfd contact dermatitis due to other chemical products
+Dermatitis and eczema,430281000006110.0,Myu26,Myu2600,40275004.0,63652013.0,L235,[X]Unspcfd contact dermatitis due to other chemical products
+Dermatitis and eczema,430281000006110.0,Myu26,Myu2600,40275004.0,63652013.0,L230,[X]Unspcfd contact dermatitis due to other chemical products
+Dermatitis and eczema,430281000006110.0,Myu26,Myu2600,40275004.0,63652013.0,L237,[X]Unspcfd contact dermatitis due to other chemical products
+Dermatitis and eczema,430281000006110.0,Myu26,Myu2600,40275004.0,63652013.0,L240,[X]Unspcfd contact dermatitis due to other chemical products
+Dermatitis and eczema,430281000006110.0,Myu26,Myu2600,40275004.0,63652013.0,L233,[X]Unspcfd contact dermatitis due to other chemical products
+Dermatitis and eczema,430281000006110.0,Myu26,Myu2600,40275004.0,63652013.0,L252,[X]Unspcfd contact dermatitis due to other chemical products
+Dermatitis and eczema,430281000006110.0,Myu26,Myu2600,40275004.0,63652013.0,L247,[X]Unspcfd contact dermatitis due to other chemical products
+Dermatitis and eczema,430281000006110.0,Myu26,Myu2600,40275004.0,63652013.0,L251,[X]Unspcfd contact dermatitis due to other chemical products
+Dermatitis and eczema,430281000006110.0,Myu26,Myu2600,40275004.0,63652013.0,L248,[X]Unspcfd contact dermatitis due to other chemical products
+Dermatitis and eczema,430281000006110.0,Myu26,Myu2600,40275004.0,63652013.0,L242,[X]Unspcfd contact dermatitis due to other chemical products
+Dermatitis and eczema,430281000006110.0,Myu26,Myu2600,40275004.0,63652013.0,L234,[X]Unspcfd contact dermatitis due to other chemical products
+Dermatitis and eczema,430281000006110.0,Myu26,Myu2600,40275004.0,63652013.0,L243,[X]Unspcfd contact dermatitis due to other chemical products
+Dermatitis and eczema,309323016.0,Myu27,Myu2700,40275004.0,63652013.0,L239,[X]Unspecified contact dermatitis due to other agents
+Dermatitis and eczema,309323016.0,Myu27,Myu2700,40275004.0,63652013.0,L249,[X]Unspecified contact dermatitis due to other agents
+Dermatitis and eczema,309323016.0,Myu27,Myu2700,40275004.0,63652013.0,L238,[X]Unspecified contact dermatitis due to other agents
+Dermatitis and eczema,309323016.0,Myu27,Myu2700,40275004.0,63652013.0,L259,[X]Unspecified contact dermatitis due to other agents
+Dermatitis and eczema,309323016.0,Myu27,Myu2700,40275004.0,63652013.0,L231,[X]Unspecified contact dermatitis due to other agents
+Dermatitis and eczema,309323016.0,Myu27,Myu2700,40275004.0,63652013.0,L250,[X]Unspecified contact dermatitis due to other agents
+Dermatitis and eczema,309323016.0,Myu27,Myu2700,40275004.0,63652013.0,L245,[X]Unspecified contact dermatitis due to other agents
+Dermatitis and eczema,309323016.0,Myu27,Myu2700,40275004.0,63652013.0,L254,[X]Unspecified contact dermatitis due to other agents
+Dermatitis and eczema,309323016.0,Myu27,Myu2700,40275004.0,63652013.0,L241,[X]Unspecified contact dermatitis due to other agents
+Dermatitis and eczema,309323016.0,Myu27,Myu2700,40275004.0,63652013.0,L246,[X]Unspecified contact dermatitis due to other agents
+Dermatitis and eczema,309323016.0,Myu27,Myu2700,40275004.0,63652013.0,L244,[X]Unspecified contact dermatitis due to other agents
+Dermatitis and eczema,309323016.0,Myu27,Myu2700,40275004.0,63652013.0,L253,[X]Unspecified contact dermatitis due to other agents
+Dermatitis and eczema,309323016.0,Myu27,Myu2700,40275004.0,63652013.0,L232,[X]Unspecified contact dermatitis due to other agents
+Dermatitis and eczema,309323016.0,Myu27,Myu2700,40275004.0,63652013.0,L236,[X]Unspecified contact dermatitis due to other agents
+Dermatitis and eczema,309323016.0,Myu27,Myu2700,40275004.0,63652013.0,L255,[X]Unspecified contact dermatitis due to other agents
+Dermatitis and eczema,309323016.0,Myu27,Myu2700,40275004.0,63652013.0,L258,[X]Unspecified contact dermatitis due to other agents
+Dermatitis and eczema,309323016.0,Myu27,Myu2700,40275004.0,63652013.0,L235,[X]Unspecified contact dermatitis due to other agents
+Dermatitis and eczema,309323016.0,Myu27,Myu2700,40275004.0,63652013.0,L230,[X]Unspecified contact dermatitis due to other agents
+Dermatitis and eczema,309323016.0,Myu27,Myu2700,40275004.0,63652013.0,L237,[X]Unspecified contact dermatitis due to other agents
+Dermatitis and eczema,309323016.0,Myu27,Myu2700,40275004.0,63652013.0,L240,[X]Unspecified contact dermatitis due to other agents
+Dermatitis and eczema,309323016.0,Myu27,Myu2700,40275004.0,63652013.0,L233,[X]Unspecified contact dermatitis due to other agents
+Dermatitis and eczema,309323016.0,Myu27,Myu2700,40275004.0,63652013.0,L252,[X]Unspecified contact dermatitis due to other agents
+Dermatitis and eczema,309323016.0,Myu27,Myu2700,40275004.0,63652013.0,L247,[X]Unspecified contact dermatitis due to other agents
+Dermatitis and eczema,309323016.0,Myu27,Myu2700,40275004.0,63652013.0,L251,[X]Unspecified contact dermatitis due to other agents
+Dermatitis and eczema,309323016.0,Myu27,Myu2700,40275004.0,63652013.0,L248,[X]Unspecified contact dermatitis due to other agents
+Dermatitis and eczema,309323016.0,Myu27,Myu2700,40275004.0,63652013.0,L242,[X]Unspecified contact dermatitis due to other agents
+Dermatitis and eczema,309323016.0,Myu27,Myu2700,40275004.0,63652013.0,L234,[X]Unspecified contact dermatitis due to other agents
+Dermatitis and eczema,309323016.0,Myu27,Myu2700,40275004.0,63652013.0,L243,[X]Unspecified contact dermatitis due to other agents
+Dermatitis and eczema,309326012.0,Myu2A,Myu2A00,64144002.0,106630017.0,L564,[X]Other prurigo
+Dermatitis and eczema,309326012.0,Myu2A,Myu2A00,64144002.0,106630017.0,L281,[X]Other prurigo
+Dermatitis and eczema,309326012.0,Myu2A,Myu2A00,64144002.0,106630017.0,F458,[X]Other prurigo
+Dermatitis and eczema,309326012.0,Myu2A,Myu2A00,64144002.0,106630017.0,L282,[X]Other prurigo
+Dermatitis and eczema,309326012.0,Myu2A,Myu2A00,64144002.0,106630017.0,L200,[X]Other prurigo
+Dermatitis and eczema,309328013.0,Myu2C,Myu2C00,703938007.0,3039229010.0,L985,[X]Other specified dermatitis
+Dermatitis and eczema,309328013.0,Myu2C,Myu2C00,703938007.0,3039229010.0,L987,[X]Other specified dermatitis
+Dermatitis and eczema,309328013.0,Myu2C,Myu2C00,703938007.0,3039229010.0,L986,[X]Other specified dermatitis
+Dermatitis and eczema,309328013.0,Myu2C,Myu2C00,703938007.0,3039229010.0,L980,[X]Other specified dermatitis
+Dermatitis and eczema,309328013.0,Myu2C,Myu2C00,703938007.0,3039229010.0,L988,[X]Other specified dermatitis
+Dermatitis and eczema,309328013.0,Myu2C,Myu2C00,703938007.0,3039229010.0,L982,[X]Other specified dermatitis
+Dermatitis and eczema,309328013.0,Myu2C,Myu2C00,703938007.0,3039229010.0,L989,[X]Other specified dermatitis
+Dermatitis and eczema,309328013.0,Myu2C,Myu2C00,703938007.0,3039229010.0,L983,[X]Other specified dermatitis
+Dermatitis and eczema,309328013.0,Myu2C,Myu2C00,703938007.0,3039229010.0,L981,[X]Other specified dermatitis
+Dermatitis and eczema,309328013.0,Myu2C,Myu2C00,703938007.0,3039229010.0,L984,[X]Other specified dermatitis

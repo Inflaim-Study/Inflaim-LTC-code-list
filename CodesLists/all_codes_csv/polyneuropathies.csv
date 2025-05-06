@@ -1,0 +1,522 @@
+Condition,MedCodeId,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,ICD10Code,Term
+polyneuropathies,891861000006112.0,N242z-99,N242z99,16269008.0,891861000006112.0,M792,Neuralgia/neuritis - NOS
+polyneuropathies,5008921000006119.0,^ESCTRE500892,,230507009.0,345410015.0,H46X,Retrobulbar neuritis
+polyneuropathies,883541000006113.0,F4H3-99,F4H3.99,66760008.0,883541000006113.0,G360,Retrobulbar neuritis
+polyneuropathies,883541000006113.0,F4H3-99,F4H3.99,66760008.0,883541000006113.0,H46X,Retrobulbar neuritis
+polyneuropathies,883541000006113.0,F4H3-99,F4H3.99,66760008.0,883541000006113.0,H470,Retrobulbar neuritis
+polyneuropathies,2626141000006112.0,^ESCTAL262614,,7916009.0,14103017.0,G621,Alcoholic polyneuropathy
+polyneuropathies,1.1925181000006112e+16,^ESCT1192518,,397751001.0,712521000006112.0,G561,Median nerve lesions NOS
+polyneuropathies,1.1925181000006112e+16,^ESCT1192518,,397751001.0,712521000006112.0,G560,Median nerve lesions NOS
+polyneuropathies,2984161000006113.0,^ESCTMO298416,,30085007.0,2984161000006113.0,G576,Morton's metatarsalgia
+polyneuropathies,913791000006119.0,C10EB-1,C10EB11,420918009.0,3697664014.0,O240,Type I diabetes mellitus with mononeuropathy
+polyneuropathies,52697011.0,A72x1,A72x100,31524007.0,52697011.0,B268,Mumps polyneuropathy
+polyneuropathies,84721000006113.0,C108B-1,C108B11,420918009.0,3697664014.0,O240,Type I diabetes mellitus with mononeuropathy
+polyneuropathies,913801000006118.0,C10EC-2,C10EC12,49455004.0,82373015.0,O244,Insulin dependent diabetes mellitus with polyneuropathy
+polyneuropathies,913801000006118.0,C10EC-2,C10EC12,49455004.0,82373015.0,O249,Insulin dependent diabetes mellitus with polyneuropathy
+polyneuropathies,913801000006118.0,C10EC-2,C10EC12,49455004.0,82373015.0,O243,Insulin dependent diabetes mellitus with polyneuropathy
+polyneuropathies,913801000006118.0,C10EC-2,C10EC12,49455004.0,82373015.0,E104,Insulin dependent diabetes mellitus with polyneuropathy
+polyneuropathies,913801000006118.0,C10EC-2,C10EC12,49455004.0,82373015.0,E114,Insulin dependent diabetes mellitus with polyneuropathy
+polyneuropathies,913801000006118.0,C10EC-2,C10EC12,49455004.0,82373015.0,E124,Insulin dependent diabetes mellitus with polyneuropathy
+polyneuropathies,913801000006118.0,C10EC-2,C10EC12,49455004.0,82373015.0,E134,Insulin dependent diabetes mellitus with polyneuropathy
+polyneuropathies,459312014.0,C10FH-1,C10FH11,314904008.0,459312014.0,E116,Type II diabetes mellitus with neuropathic arthropathy
+polyneuropathies,459312014.0,C10FH-1,C10FH11,314904008.0,459312014.0,O241,Type II diabetes mellitus with neuropathic arthropathy
+polyneuropathies,16455010.0,C34y4,C34y400,9386003.0,16455010.0,M100,Gouty neuritis
+polyneuropathies,666351000006116.0,C3732,C373200,42295001.0,493270014.0,E851,Familial neuropathic amyloid
+polyneuropathies,1235651015.0,C373K-3,C373K13,9133005.0,1235651015.0,E851,Familial amyloid polyneuropathy type III
+polyneuropathies,294662017.0,E0111,E011100,191471000.0,294662017.0,G622,Korsakov's alcoholic psychosis with peripheral neuritis
+polyneuropathies,294662017.0,E0111,E011100,191471000.0,294662017.0,G621,Korsakov's alcoholic psychosis with peripheral neuritis
+polyneuropathies,294662017.0,E0111,E011100,191471000.0,294662017.0,G629,Korsakov's alcoholic psychosis with peripheral neuritis
+polyneuropathies,294662017.0,E0111,E011100,191471000.0,294662017.0,G620,Korsakov's alcoholic psychosis with peripheral neuritis
+polyneuropathies,294662017.0,E0111,E011100,191471000.0,294662017.0,G628,Korsakov's alcoholic psychosis with peripheral neuritis
+polyneuropathies,294662017.0,E0111,E011100,191471000.0,294662017.0,F106,Korsakov's alcoholic psychosis with peripheral neuritis
+polyneuropathies,297475017.0,F341,F341.00,397751001.0,1777362011.0,G561,Other median nerve lesions
+polyneuropathies,297475017.0,F341,F341.00,397751001.0,1777362011.0,G560,Other median nerve lesions
+polyneuropathies,29902012.0,F3410,F341000,17689009.0,29902012.0,G561,Median nerve neuritis
+polyneuropathies,297477013.0,F3411,F341100,193129003.0,297477013.0,G560,Median nerve compression in forearm
+polyneuropathies,297479011.0,F341z,F341z00,397751001.0,1777362011.0,G561,Median nerve lesions NOS
+polyneuropathies,297479011.0,F341z,F341z00,397751001.0,1777362011.0,G560,Median nerve lesions NOS
+polyneuropathies,399414019.0,F342,F342.00,367475009.0,492283017.0,G562,Ulnar nerve lesions
+polyneuropathies,345456011.0,F342-1,F342.11,95675005.0,158497012.0,G562,Neuritis ulnar nerve
+polyneuropathies,93418010.0,F3420,F342000,56177003.0,93418010.0,G562,Cubital tunnel syndrome
+polyneuropathies,97213016.0,F3421,F342100,58497009.0,97213016.0,G562,Tardy ulnar nerve palsy
+polyneuropathies,297485016.0,F3422,F342200,193134004.0,297485016.0,G562,Canal of Guyon compression
+polyneuropathies,413630015.0,F3423,F342300,277188003.0,413630015.0,G562,Ulnar nerve entrapment
+polyneuropathies,475273015.0,F3424,F342400,359837005.0,475273015.0,G562,Ulnar neuropathy
+polyneuropathies,297487012.0,F342z,F342z00,367475009.0,492283017.0,G562,Ulnar nerve lesion NOS
+polyneuropathies,297488019.0,F343,F343.00,193137006.0,297488019.0,G563,Radial nerve lesions
+polyneuropathies,297489010.0,F3431,F343100,193138001.0,297489010.0,G563,Sensory branch of radial nerve lesion
+polyneuropathies,297490018.0,F3432,F343200,193139009.0,297490018.0,G563,Posterior interosseous nerve lesion
+polyneuropathies,297491019.0,F343z,F343z00,193137006.0,297488019.0,G563,Radial nerve lesion NOS
+polyneuropathies,2536776010.0,F344,F344.00,408751001.0,2536776010.0,G564,Causalgia
+polyneuropathies,50702011.0,F345,F345.00,30292005.0,50702011.0,G587,Mononeuritis multiplex
+polyneuropathies,368388010.0,F346,F346.00,246611002.0,368388010.0,G560,Median nerve entrapment
+polyneuropathies,297493016.0,F34y,F34y.00,297945000.0,438534013.0,G568,Other upper limb mononeuritis
+polyneuropathies,297493016.0,F34y,F34y.00,297945000.0,438534013.0,G569,Other upper limb mononeuritis
+polyneuropathies,297494010.0,F34z,F34z.00,609591000.0,2967951017.0,G561,Mononeuritis upper limb NOS
+polyneuropathies,297494010.0,F34z,F34z.00,609591000.0,2967951017.0,G562,Mononeuritis upper limb NOS
+polyneuropathies,297494010.0,F34z,F34z.00,609591000.0,2967951017.0,G560,Mononeuritis upper limb NOS
+polyneuropathies,297494010.0,F34z,F34z.00,609591000.0,2967951017.0,G563,Mononeuritis upper limb NOS
+polyneuropathies,297494010.0,F34z,F34z.00,609591000.0,2967951017.0,G569,Mononeuritis upper limb NOS
+polyneuropathies,297494010.0,F34z,F34z.00,609591000.0,2967951017.0,G568,Mononeuritis upper limb NOS
+polyneuropathies,297494010.0,F34z,F34z.00,609591000.0,2967951017.0,G564,Mononeuritis upper limb NOS
+polyneuropathies,698001000006119.0,F35,F35..00,609592007.0,2967939019.0,G575,Mononeuritis lower limb
+polyneuropathies,698001000006119.0,F35,F35..00,609592007.0,2967939019.0,G573,Mononeuritis lower limb
+polyneuropathies,698001000006119.0,F35,F35..00,609592007.0,2967939019.0,G579,Mononeuritis lower limb
+polyneuropathies,698001000006119.0,F35,F35..00,609592007.0,2967939019.0,G571,Mononeuritis lower limb
+polyneuropathies,698001000006119.0,F35,F35..00,609592007.0,2967939019.0,G572,Mononeuritis lower limb
+polyneuropathies,698001000006119.0,F35,F35..00,609592007.0,2967939019.0,G570,Mononeuritis lower limb
+polyneuropathies,698001000006119.0,F35,F35..00,609592007.0,2967939019.0,G576,Mononeuritis lower limb
+polyneuropathies,698001000006119.0,F35,F35..00,609592007.0,2967939019.0,G578,Mononeuritis lower limb
+polyneuropathies,698001000006119.0,F35,F35..00,609592007.0,2967939019.0,G574,Mononeuritis lower limb
+polyneuropathies,490703010.0,F350,F350.00,367137004.0,490703010.0,M543,Sciatic nerve lesion
+polyneuropathies,490703010.0,F350,F350.00,367137004.0,490703010.0,G570,Sciatic nerve lesion
+polyneuropathies,140945016.0,F351,F351.00,85007004.0,140945016.0,G571,Meralgia paraesthetica
+polyneuropathies,483022012.0,F352,F352.00,25690000.0,483022012.0,G572,Femoral nerve lesions
+polyneuropathies,1778567016.0,F353,F353.00,399107008.0,1778567016.0,G573,Common peroneal nerve lesion
+polyneuropathies,1786691018.0,F353-1,F353.11,399107008.0,1786691018.0,G573,Lateral popliteal nerve lesion
+polyneuropathies,1778686017.0,F354,F354.00,399233006.0,1778686017.0,G574,Tibial nerve lesion
+polyneuropathies,712431000006111.0,F354-1,F354.11,399233006.0,1778686017.0,G574,Medial popliteal nerve lesion
+polyneuropathies,78977014.0,F355,F355.00,47374004.0,78977014.0,G575,Tarsal tunnel syndrome
+polyneuropathies,297500014.0,F356,F356.00,193148004.0,297500014.0,G576,Plantar nerve lesion
+polyneuropathies,50335015.0,F3560,F356000,30085007.0,484476012.0,G576,Morton's metatarsalgia
+polyneuropathies,50336019.0,F3561,F356100,30085007.0,50336019.0,G576,Morton's neuralgia
+polyneuropathies,297503011.0,F356z,F356z00,193148004.0,297500014.0,G576,Plantar nerve lesion NOS
+polyneuropathies,474333019.0,F357,F357.00,128194008.0,474333019.0,G573,Superficial peroneal nerve lesion
+polyneuropathies,297504017.0,F358,F358.00,193152004.0,297504017.0,G573,Deep peroneal nerve lesion
+polyneuropathies,297505016.0,F35x,F35x.00,609592007.0,2967939019.0,G575,Other mononeuritis lower limb
+polyneuropathies,297505016.0,F35x,F35x.00,609592007.0,2967939019.0,G573,Other mononeuritis lower limb
+polyneuropathies,297505016.0,F35x,F35x.00,609592007.0,2967939019.0,G579,Other mononeuritis lower limb
+polyneuropathies,297505016.0,F35x,F35x.00,609592007.0,2967939019.0,G571,Other mononeuritis lower limb
+polyneuropathies,297505016.0,F35x,F35x.00,609592007.0,2967939019.0,G572,Other mononeuritis lower limb
+polyneuropathies,297505016.0,F35x,F35x.00,609592007.0,2967939019.0,G570,Other mononeuritis lower limb
+polyneuropathies,297505016.0,F35x,F35x.00,609592007.0,2967939019.0,G576,Other mononeuritis lower limb
+polyneuropathies,297505016.0,F35x,F35x.00,609592007.0,2967939019.0,G578,Other mononeuritis lower limb
+polyneuropathies,297505016.0,F35x,F35x.00,609592007.0,2967939019.0,G574,Other mononeuritis lower limb
+polyneuropathies,297506015.0,F35y,F35y.00,609592007.0,2967939019.0,G575,Unspecified mononeuritis lower limb
+polyneuropathies,297506015.0,F35y,F35y.00,609592007.0,2967939019.0,G573,Unspecified mononeuritis lower limb
+polyneuropathies,297506015.0,F35y,F35y.00,609592007.0,2967939019.0,G579,Unspecified mononeuritis lower limb
+polyneuropathies,297506015.0,F35y,F35y.00,609592007.0,2967939019.0,G571,Unspecified mononeuritis lower limb
+polyneuropathies,297506015.0,F35y,F35y.00,609592007.0,2967939019.0,G572,Unspecified mononeuritis lower limb
+polyneuropathies,297506015.0,F35y,F35y.00,609592007.0,2967939019.0,G570,Unspecified mononeuritis lower limb
+polyneuropathies,297506015.0,F35y,F35y.00,609592007.0,2967939019.0,G576,Unspecified mononeuritis lower limb
+polyneuropathies,297506015.0,F35y,F35y.00,609592007.0,2967939019.0,G578,Unspecified mononeuritis lower limb
+polyneuropathies,297506015.0,F35y,F35y.00,609592007.0,2967939019.0,G574,Unspecified mononeuritis lower limb
+polyneuropathies,399415018.0,F35z,F35z.00,128189008.0,206412019.0,G598,Mononeuritis of unspecified site NOS
+polyneuropathies,399415018.0,F35z,F35z.00,128189008.0,206412019.0,G571,Mononeuritis of unspecified site NOS
+polyneuropathies,399415018.0,F35z,F35z.00,128189008.0,206412019.0,G572,Mononeuritis of unspecified site NOS
+polyneuropathies,399415018.0,F35z,F35z.00,128189008.0,206412019.0,G590,Mononeuritis of unspecified site NOS
+polyneuropathies,399415018.0,F35z,F35z.00,128189008.0,206412019.0,G573,Mononeuritis of unspecified site NOS
+polyneuropathies,399415018.0,F35z,F35z.00,128189008.0,206412019.0,G578,Mononeuritis of unspecified site NOS
+polyneuropathies,399415018.0,F35z,F35z.00,128189008.0,206412019.0,G569,Mononeuritis of unspecified site NOS
+polyneuropathies,399415018.0,F35z,F35z.00,128189008.0,206412019.0,G560,Mononeuritis of unspecified site NOS
+polyneuropathies,399415018.0,F35z,F35z.00,128189008.0,206412019.0,G563,Mononeuritis of unspecified site NOS
+polyneuropathies,399415018.0,F35z,F35z.00,128189008.0,206412019.0,G589,Mononeuritis of unspecified site NOS
+polyneuropathies,399415018.0,F35z,F35z.00,128189008.0,206412019.0,G576,Mononeuritis of unspecified site NOS
+polyneuropathies,399415018.0,F35z,F35z.00,128189008.0,206412019.0,G562,Mononeuritis of unspecified site NOS
+polyneuropathies,399415018.0,F35z,F35z.00,128189008.0,206412019.0,G568,Mononeuritis of unspecified site NOS
+polyneuropathies,399415018.0,F35z,F35z.00,128189008.0,206412019.0,G588,Mononeuritis of unspecified site NOS
+polyneuropathies,399415018.0,F35z,F35z.00,128189008.0,206412019.0,G587,Mononeuritis of unspecified site NOS
+polyneuropathies,399415018.0,F35z,F35z.00,128189008.0,206412019.0,G580,Mononeuritis of unspecified site NOS
+polyneuropathies,399415018.0,F35z,F35z.00,128189008.0,206412019.0,G575,Mononeuritis of unspecified site NOS
+polyneuropathies,399415018.0,F35z,F35z.00,128189008.0,206412019.0,G564,Mononeuritis of unspecified site NOS
+polyneuropathies,399415018.0,F35z,F35z.00,128189008.0,206412019.0,G574,Mononeuritis of unspecified site NOS
+polyneuropathies,399415018.0,F35z,F35z.00,128189008.0,206412019.0,G561,Mononeuritis of unspecified site NOS
+polyneuropathies,399415018.0,F35z,F35z.00,128189008.0,206412019.0,G579,Mononeuritis of unspecified site NOS
+polyneuropathies,399415018.0,F35z,F35z.00,128189008.0,206412019.0,G570,Mononeuritis of unspecified site NOS
+polyneuropathies,345457019.0,F35z-1,F35z.11,302226006.0,443808012.0,G629,Peripheral neuropathy - hereditary or idiopathic
+polyneuropathies,297511018.0,F36,F36..00,302226006.0,443808012.0,G629,Hereditary and idiopathic peripheral neuropathy
+polyneuropathies,108062014.0,F360,F360.00,65017003.0,108062014.0,G600,Hereditary peripheral neuropathy
+polyneuropathies,187824013.0,F3600,F360000,111499002.0,187824013.0,G600,Dejerine-Sottas disease
+polyneuropathies,297519016.0,F360z,F360z00,65017003.0,108062014.0,G600,Hereditary peripheral neuropathy NOS
+polyneuropathies,84200019.0,F361,F361.00,398100001.0,1777664015.0,G600,Peroneal muscular atrophy
+polyneuropathies,84201015.0,F3610,F361000,398100001.0,3007425011.0,G600,Charcot-Marie-Tooth disease
+polyneuropathies,545421000006111.0,F3610-1,F361011,398100001.0,1777664015.0,G600,Charcot's atrophy
+polyneuropathies,1846861000006111.2,F3610-2,F361012,398100001.0,1777664015.0,G600,Charcot-Marie-Tooth syndrome
+polyneuropathies,297522019.0,F361z,F361z00,398100001.0,1777664015.0,G600,Peroneal muscular atrophy NOS
+polyneuropathies,19796013.0,F362,F362.00,11442006.0,19796013.0,G600,Hereditary sensory neuropathy
+polyneuropathies,42524012.0,F363,F363.00,25362006.0,42524012.0,G601,Refsum's disease
+polyneuropathies,55426011.0,F364,F364.00,33209009.0,55426011.0,G603,Idiopathic progressive polyneuropathy
+polyneuropathies,297525017.0,F365,F365.00,193165008.0,297525017.0,G602,Neuropathy in association with hereditary ataxia
+polyneuropathies,70659018.0,F366,F366.00,42345000.0,70659018.0,G632,Polyneuropathy
+polyneuropathies,70659018.0,F366,F366.00,42345000.0,70659018.0,G618,Polyneuropathy
+polyneuropathies,70659018.0,F366,F366.00,42345000.0,70659018.0,G611,Polyneuropathy
+polyneuropathies,70659018.0,F366,F366.00,42345000.0,70659018.0,G628,Polyneuropathy
+polyneuropathies,70659018.0,F366,F366.00,42345000.0,70659018.0,G622,Polyneuropathy
+polyneuropathies,70659018.0,F366,F366.00,42345000.0,70659018.0,G610,Polyneuropathy
+polyneuropathies,70659018.0,F366,F366.00,42345000.0,70659018.0,G635,Polyneuropathy
+polyneuropathies,70659018.0,F366,F366.00,42345000.0,70659018.0,G638,Polyneuropathy
+polyneuropathies,70659018.0,F366,F366.00,42345000.0,70659018.0,G629,Polyneuropathy
+polyneuropathies,70659018.0,F366,F366.00,42345000.0,70659018.0,G636,Polyneuropathy
+polyneuropathies,70659018.0,F366,F366.00,42345000.0,70659018.0,G620,Polyneuropathy
+polyneuropathies,70659018.0,F366,F366.00,42345000.0,70659018.0,G634,Polyneuropathy
+polyneuropathies,70659018.0,F366,F366.00,42345000.0,70659018.0,G630,Polyneuropathy
+polyneuropathies,70659018.0,F366,F366.00,42345000.0,70659018.0,G621,Polyneuropathy
+polyneuropathies,70659018.0,F366,F366.00,42345000.0,70659018.0,G619,Polyneuropathy
+polyneuropathies,70659018.0,F366,F366.00,42345000.0,70659018.0,G633,Polyneuropathy
+polyneuropathies,70659018.0,F366,F366.00,42345000.0,70659018.0,G631,Polyneuropathy
+polyneuropathies,71168014.0,F367,F367.00,302226006.0,2870944013.0,G629,Peripheral neuropathy
+polyneuropathies,1777664015.0,F368,F368.00,398100001.0,1777664015.0,G600,Hereditary motor and sensory neuropathy
+polyneuropathies,1786065018.0,F3680,F368000,398040009.0,1786065018.0,G600,Hereditary motor and sensory neuropathy type I
+polyneuropathies,1786163010.0,F3681,F368100,398187000.0,1786163010.0,G600,Hereditary motor and sensory neuropathy type II
+polyneuropathies,1219655013.0,F3682,F368200,111499002.0,1219655013.0,G600,Hereditary motor and sensory neuropathy type III
+polyneuropathies,297528015.0,F36y,F36y.00,22722001.0,38139010.0,G608,Other idiopathic peripheral neuropathy
+polyneuropathies,297528015.0,F36y,F36y.00,22722001.0,38139010.0,G609,Other idiopathic peripheral neuropathy
+polyneuropathies,297528015.0,F36y,F36y.00,22722001.0,38139010.0,G603,Other idiopathic peripheral neuropathy
+polyneuropathies,297530018.0,F36yz,F36yz00,22722001.0,38139010.0,G608,Other idiopathic peripheral neuropathy NOS
+polyneuropathies,297530018.0,F36yz,F36yz00,22722001.0,38139010.0,G609,Other idiopathic peripheral neuropathy NOS
+polyneuropathies,297530018.0,F36yz,F36yz00,22722001.0,38139010.0,G603,Other idiopathic peripheral neuropathy NOS
+polyneuropathies,297531019.0,F36z,F36z.00,128123007.0,194717012.0,G908,Hereditary or idiopathic peripheral neuropathy NOS
+polyneuropathies,297531019.0,F36z,F36z.00,128123007.0,194717012.0,G900,Hereditary or idiopathic peripheral neuropathy NOS
+polyneuropathies,297531019.0,F36z,F36z.00,128123007.0,194717012.0,G902,Hereditary or idiopathic peripheral neuropathy NOS
+polyneuropathies,297531019.0,F36z,F36z.00,128123007.0,194717012.0,G909,Hereditary or idiopathic peripheral neuropathy NOS
+polyneuropathies,297531019.0,F36z,F36z.00,128123007.0,194717012.0,G904,Hereditary or idiopathic peripheral neuropathy NOS
+polyneuropathies,297531019.0,F36z,F36z.00,128123007.0,194717012.0,G901,Hereditary or idiopathic peripheral neuropathy NOS
+polyneuropathies,399416017.0,F37,F37..00,267601009.0,399416017.0,G622,Inflammatory and toxic neuropathy
+polyneuropathies,99281000006115.0,F37-1,F37..11,45600000.0,76028011.0,G622,Toxic neuropathy
+polyneuropathies,68321016.0,F3700,F370000,40956001.0,68321016.0,G610,Guillain-Barre syndrome
+polyneuropathies,211331000006117.0,F3701,F370100,193174005.0,297537015.0,G610,Postinfectious polyneuritis
+polyneuropathies,478396017.0,F3702,F370200,1767005.0,478396017.0,G610,Miller-Fisher syndrome
+polyneuropathies,297540015.0,F371,F371.00,193177003.0,297540015.0,M349,Polyneuropathy in collagen vascular disease
+polyneuropathies,297540015.0,F371,F371.00,193177003.0,297540015.0,M319,Polyneuropathy in collagen vascular disease
+polyneuropathies,297540015.0,F371,F371.00,193177003.0,297540015.0,M318,Polyneuropathy in collagen vascular disease
+polyneuropathies,297540015.0,F371,F371.00,193177003.0,297540015.0,M312,Polyneuropathy in collagen vascular disease
+polyneuropathies,297540015.0,F371,F371.00,193177003.0,297540015.0,M350,Polyneuropathy in collagen vascular disease
+polyneuropathies,297540015.0,F371,F371.00,193177003.0,297540015.0,M355,Polyneuropathy in collagen vascular disease
+polyneuropathies,297540015.0,F371,F371.00,193177003.0,297540015.0,M353,Polyneuropathy in collagen vascular disease
+polyneuropathies,297540015.0,F371,F371.00,193177003.0,297540015.0,M348,Polyneuropathy in collagen vascular disease
+polyneuropathies,297540015.0,F371,F371.00,193177003.0,297540015.0,M357,Polyneuropathy in collagen vascular disease
+polyneuropathies,297540015.0,F371,F371.00,193177003.0,297540015.0,M340,Polyneuropathy in collagen vascular disease
+polyneuropathies,297540015.0,F371,F371.00,193177003.0,297540015.0,M315,Polyneuropathy in collagen vascular disease
+polyneuropathies,297540015.0,F371,F371.00,193177003.0,297540015.0,M320,Polyneuropathy in collagen vascular disease
+polyneuropathies,297540015.0,F371,F371.00,193177003.0,297540015.0,M314,Polyneuropathy in collagen vascular disease
+polyneuropathies,297540015.0,F371,F371.00,193177003.0,297540015.0,M316,Polyneuropathy in collagen vascular disease
+polyneuropathies,297540015.0,F371,F371.00,193177003.0,297540015.0,M302,Polyneuropathy in collagen vascular disease
+polyneuropathies,297540015.0,F371,F371.00,193177003.0,297540015.0,M342,Polyneuropathy in collagen vascular disease
+polyneuropathies,297540015.0,F371,F371.00,193177003.0,297540015.0,M354,Polyneuropathy in collagen vascular disease
+polyneuropathies,297540015.0,F371,F371.00,193177003.0,297540015.0,M352,Polyneuropathy in collagen vascular disease
+polyneuropathies,297540015.0,F371,F371.00,193177003.0,297540015.0,M331,Polyneuropathy in collagen vascular disease
+polyneuropathies,297540015.0,F371,F371.00,193177003.0,297540015.0,M329,Polyneuropathy in collagen vascular disease
+polyneuropathies,297540015.0,F371,F371.00,193177003.0,297540015.0,M356,Polyneuropathy in collagen vascular disease
+polyneuropathies,297540015.0,F371,F371.00,193177003.0,297540015.0,M308,Polyneuropathy in collagen vascular disease
+polyneuropathies,297540015.0,F371,F371.00,193177003.0,297540015.0,M341,Polyneuropathy in collagen vascular disease
+polyneuropathies,297540015.0,F371,F371.00,193177003.0,297540015.0,M310,Polyneuropathy in collagen vascular disease
+polyneuropathies,297540015.0,F371,F371.00,193177003.0,297540015.0,M317,Polyneuropathy in collagen vascular disease
+polyneuropathies,297540015.0,F371,F371.00,193177003.0,297540015.0,M311,Polyneuropathy in collagen vascular disease
+polyneuropathies,297540015.0,F371,F371.00,193177003.0,297540015.0,M328,Polyneuropathy in collagen vascular disease
+polyneuropathies,297540015.0,F371,F371.00,193177003.0,297540015.0,M313,Polyneuropathy in collagen vascular disease
+polyneuropathies,297540015.0,F371,F371.00,193177003.0,297540015.0,M301,Polyneuropathy in collagen vascular disease
+polyneuropathies,297540015.0,F371,F371.00,193177003.0,297540015.0,M339,Polyneuropathy in collagen vascular disease
+polyneuropathies,297540015.0,F371,F371.00,193177003.0,297540015.0,M332,Polyneuropathy in collagen vascular disease
+polyneuropathies,297540015.0,F371,F371.00,193177003.0,297540015.0,M351,Polyneuropathy in collagen vascular disease
+polyneuropathies,297540015.0,F371,F371.00,193177003.0,297540015.0,M330,Polyneuropathy in collagen vascular disease
+polyneuropathies,297540015.0,F371,F371.00,193177003.0,297540015.0,M300,Polyneuropathy in collagen vascular disease
+polyneuropathies,297540015.0,F371,F371.00,193177003.0,297540015.0,M359,Polyneuropathy in collagen vascular disease
+polyneuropathies,297540015.0,F371,F371.00,193177003.0,297540015.0,M358,Polyneuropathy in collagen vascular disease
+polyneuropathies,297540015.0,F371,F371.00,193177003.0,297540015.0,M303,Polyneuropathy in collagen vascular disease
+polyneuropathies,297540015.0,F371,F371.00,193177003.0,297540015.0,M321,Polyneuropathy in collagen vascular disease
+polyneuropathies,297543018.0,F3711,F371100,193179000.0,297543018.0,M300,Polyneuropathy in polyarteritis nodosa
+polyneuropathies,297545013.0,F371z,F371z00,193177003.0,297540015.0,M349,Polyneuropathy in collagen vascular disease NOS
+polyneuropathies,297545013.0,F371z,F371z00,193177003.0,297540015.0,M319,Polyneuropathy in collagen vascular disease NOS
+polyneuropathies,297545013.0,F371z,F371z00,193177003.0,297540015.0,M318,Polyneuropathy in collagen vascular disease NOS
+polyneuropathies,297545013.0,F371z,F371z00,193177003.0,297540015.0,M312,Polyneuropathy in collagen vascular disease NOS
+polyneuropathies,297545013.0,F371z,F371z00,193177003.0,297540015.0,M350,Polyneuropathy in collagen vascular disease NOS
+polyneuropathies,297545013.0,F371z,F371z00,193177003.0,297540015.0,M355,Polyneuropathy in collagen vascular disease NOS
+polyneuropathies,297545013.0,F371z,F371z00,193177003.0,297540015.0,M353,Polyneuropathy in collagen vascular disease NOS
+polyneuropathies,297545013.0,F371z,F371z00,193177003.0,297540015.0,M348,Polyneuropathy in collagen vascular disease NOS
+polyneuropathies,297545013.0,F371z,F371z00,193177003.0,297540015.0,M357,Polyneuropathy in collagen vascular disease NOS
+polyneuropathies,297545013.0,F371z,F371z00,193177003.0,297540015.0,M340,Polyneuropathy in collagen vascular disease NOS
+polyneuropathies,297545013.0,F371z,F371z00,193177003.0,297540015.0,M315,Polyneuropathy in collagen vascular disease NOS
+polyneuropathies,297545013.0,F371z,F371z00,193177003.0,297540015.0,M320,Polyneuropathy in collagen vascular disease NOS
+polyneuropathies,297545013.0,F371z,F371z00,193177003.0,297540015.0,M314,Polyneuropathy in collagen vascular disease NOS
+polyneuropathies,297545013.0,F371z,F371z00,193177003.0,297540015.0,M316,Polyneuropathy in collagen vascular disease NOS
+polyneuropathies,297545013.0,F371z,F371z00,193177003.0,297540015.0,M302,Polyneuropathy in collagen vascular disease NOS
+polyneuropathies,297545013.0,F371z,F371z00,193177003.0,297540015.0,M342,Polyneuropathy in collagen vascular disease NOS
+polyneuropathies,297545013.0,F371z,F371z00,193177003.0,297540015.0,M354,Polyneuropathy in collagen vascular disease NOS
+polyneuropathies,297545013.0,F371z,F371z00,193177003.0,297540015.0,M352,Polyneuropathy in collagen vascular disease NOS
+polyneuropathies,297545013.0,F371z,F371z00,193177003.0,297540015.0,M331,Polyneuropathy in collagen vascular disease NOS
+polyneuropathies,297545013.0,F371z,F371z00,193177003.0,297540015.0,M329,Polyneuropathy in collagen vascular disease NOS
+polyneuropathies,297545013.0,F371z,F371z00,193177003.0,297540015.0,M356,Polyneuropathy in collagen vascular disease NOS
+polyneuropathies,297545013.0,F371z,F371z00,193177003.0,297540015.0,M308,Polyneuropathy in collagen vascular disease NOS
+polyneuropathies,297545013.0,F371z,F371z00,193177003.0,297540015.0,M341,Polyneuropathy in collagen vascular disease NOS
+polyneuropathies,297545013.0,F371z,F371z00,193177003.0,297540015.0,M310,Polyneuropathy in collagen vascular disease NOS
+polyneuropathies,297545013.0,F371z,F371z00,193177003.0,297540015.0,M317,Polyneuropathy in collagen vascular disease NOS
+polyneuropathies,297545013.0,F371z,F371z00,193177003.0,297540015.0,M311,Polyneuropathy in collagen vascular disease NOS
+polyneuropathies,297545013.0,F371z,F371z00,193177003.0,297540015.0,M328,Polyneuropathy in collagen vascular disease NOS
+polyneuropathies,297545013.0,F371z,F371z00,193177003.0,297540015.0,M313,Polyneuropathy in collagen vascular disease NOS
+polyneuropathies,297545013.0,F371z,F371z00,193177003.0,297540015.0,M301,Polyneuropathy in collagen vascular disease NOS
+polyneuropathies,297545013.0,F371z,F371z00,193177003.0,297540015.0,M339,Polyneuropathy in collagen vascular disease NOS
+polyneuropathies,297545013.0,F371z,F371z00,193177003.0,297540015.0,M332,Polyneuropathy in collagen vascular disease NOS
+polyneuropathies,297545013.0,F371z,F371z00,193177003.0,297540015.0,M351,Polyneuropathy in collagen vascular disease NOS
+polyneuropathies,297545013.0,F371z,F371z00,193177003.0,297540015.0,M330,Polyneuropathy in collagen vascular disease NOS
+polyneuropathies,297545013.0,F371z,F371z00,193177003.0,297540015.0,M300,Polyneuropathy in collagen vascular disease NOS
+polyneuropathies,297545013.0,F371z,F371z00,193177003.0,297540015.0,M359,Polyneuropathy in collagen vascular disease NOS
+polyneuropathies,297545013.0,F371z,F371z00,193177003.0,297540015.0,M358,Polyneuropathy in collagen vascular disease NOS
+polyneuropathies,297545013.0,F371z,F371z00,193177003.0,297540015.0,M303,Polyneuropathy in collagen vascular disease NOS
+polyneuropathies,297545013.0,F371z,F371z00,193177003.0,297540015.0,M321,Polyneuropathy in collagen vascular disease NOS
+polyneuropathies,297553017.0,F374,F374.00,193186008.0,297553017.0,G633,Polyneuropathy in disease EC
+polyneuropathies,297553017.0,F374,F374.00,193186008.0,297553017.0,G630,Polyneuropathy in disease EC
+polyneuropathies,297553017.0,F374,F374.00,193186008.0,297553017.0,G634,Polyneuropathy in disease EC
+polyneuropathies,297553017.0,F374,F374.00,193186008.0,297553017.0,G635,Polyneuropathy in disease EC
+polyneuropathies,297553017.0,F374,F374.00,193186008.0,297553017.0,G636,Polyneuropathy in disease EC
+polyneuropathies,297553017.0,F374,F374.00,193186008.0,297553017.0,G631,Polyneuropathy in disease EC
+polyneuropathies,297553017.0,F374,F374.00,193186008.0,297553017.0,G632,Polyneuropathy in disease EC
+polyneuropathies,297554011.0,F3740,F374000,193187004.0,297554011.0,E851,Polyneuropathy in amyloidosis
+polyneuropathies,504101018.0,F3741,F374100,79389008.0,504101018.0,E511,Polyneuropathy in beriberi
+polyneuropathies,297555012.0,F3742,F374200,193188009.0,297555012.0,E538,Polyneuropathy in vitamin B deficiency
+polyneuropathies,345519017.0,F3743,F374300,230596007.0,345519017.0,A368,Polyneuropathy in diphtheria
+polyneuropathies,297558014.0,F3745,F374500,193191009.0,297558014.0,E162,Polyneuropathy in hypoglycaemia
+polyneuropathies,215001000006114.0,F3746,F374600,31524007.0,52697011.0,B268,Polyneuropathy in mumps
+polyneuropathies,297564019.0,F3748,F374800,129616004.0,3289854015.0,E802,Polyneuropathy in porphyria
+polyneuropathies,297566017.0,F3749,F374900,193195000.0,297566017.0,D868,Polyneuropathy in sarcoidosis
+polyneuropathies,215061000006110.0,F374A,F374A00,193196004.0,297568016.0,N185,Polyneuropathy in uraemia
+polyneuropathies,297569012.0,F374z,F374z00,193186008.0,297553017.0,G633,Polyneuropathy in disease NOS
+polyneuropathies,297569012.0,F374z,F374z00,193186008.0,297553017.0,G630,Polyneuropathy in disease NOS
+polyneuropathies,297569012.0,F374z,F374z00,193186008.0,297553017.0,G634,Polyneuropathy in disease NOS
+polyneuropathies,297569012.0,F374z,F374z00,193186008.0,297553017.0,G635,Polyneuropathy in disease NOS
+polyneuropathies,297569012.0,F374z,F374z00,193186008.0,297553017.0,G636,Polyneuropathy in disease NOS
+polyneuropathies,297569012.0,F374z,F374z00,193186008.0,297553017.0,G631,Polyneuropathy in disease NOS
+polyneuropathies,297569012.0,F374z,F374z00,193186008.0,297553017.0,G632,Polyneuropathy in disease NOS
+polyneuropathies,14103017.0,F375,F375.00,7916009.0,14104011.0,G621,Alcoholic polyneuropathy
+polyneuropathies,214871000006114.0,F376,F376.00,7339009.0,1233619018.0,G620,Polyneuropathy due to drugs
+polyneuropathies,297571012.0,F377,F377.00,45600000.0,76028011.0,G622,Other toxic agent polyneuropathy
+polyneuropathies,345580013.0,F378,F378.00,230646002.0,345580013.0,G580,Intercostal neuropathy
+polyneuropathies,778621000006116.0,F37X,F37X.00,76886005.0,2966568017.0,O268,"Inflammatory polyneuropathy, unspecified"
+polyneuropathies,778621000006116.0,F37X,F37X.00,76886005.0,2966568017.0,G631,"Inflammatory polyneuropathy, unspecified"
+polyneuropathies,778621000006116.0,F37X,F37X.00,76886005.0,2966568017.0,G620,"Inflammatory polyneuropathy, unspecified"
+polyneuropathies,778621000006116.0,F37X,F37X.00,76886005.0,2966568017.0,G628,"Inflammatory polyneuropathy, unspecified"
+polyneuropathies,778621000006116.0,F37X,F37X.00,76886005.0,2966568017.0,G630,"Inflammatory polyneuropathy, unspecified"
+polyneuropathies,778621000006116.0,F37X,F37X.00,76886005.0,2966568017.0,G638,"Inflammatory polyneuropathy, unspecified"
+polyneuropathies,778621000006116.0,F37X,F37X.00,76886005.0,2966568017.0,G629,"Inflammatory polyneuropathy, unspecified"
+polyneuropathies,778621000006116.0,F37X,F37X.00,76886005.0,2966568017.0,G634,"Inflammatory polyneuropathy, unspecified"
+polyneuropathies,778621000006116.0,F37X,F37X.00,76886005.0,2966568017.0,G611,"Inflammatory polyneuropathy, unspecified"
+polyneuropathies,778621000006116.0,F37X,F37X.00,76886005.0,2966568017.0,G633,"Inflammatory polyneuropathy, unspecified"
+polyneuropathies,778621000006116.0,F37X,F37X.00,76886005.0,2966568017.0,G636,"Inflammatory polyneuropathy, unspecified"
+polyneuropathies,778621000006116.0,F37X,F37X.00,76886005.0,2966568017.0,G619,"Inflammatory polyneuropathy, unspecified"
+polyneuropathies,778621000006116.0,F37X,F37X.00,76886005.0,2966568017.0,G610,"Inflammatory polyneuropathy, unspecified"
+polyneuropathies,778621000006116.0,F37X,F37X.00,76886005.0,2966568017.0,G635,"Inflammatory polyneuropathy, unspecified"
+polyneuropathies,778621000006116.0,F37X,F37X.00,76886005.0,2966568017.0,G618,"Inflammatory polyneuropathy, unspecified"
+polyneuropathies,778621000006116.0,F37X,F37X.00,76886005.0,2966568017.0,G622,"Inflammatory polyneuropathy, unspecified"
+polyneuropathies,778621000006116.0,F37X,F37X.00,76886005.0,2966568017.0,G621,"Inflammatory polyneuropathy, unspecified"
+polyneuropathies,778621000006116.0,F37X,F37X.00,76886005.0,2966568017.0,G632,"Inflammatory polyneuropathy, unspecified"
+polyneuropathies,297574016.0,F37y,F37y.00,267601009.0,399416017.0,G622,Other toxic or inflammatory neuropathy
+polyneuropathies,297575015.0,F37y0,F37y000,193203006.0,297575015.0,G611,Serum neuropathy
+polyneuropathies,345594014.0,F37y1,F37y100,230657007.0,345594014.0,G628,Axonal sensorimotor neuropathy
+polyneuropathies,399418016.0,F37z,F37z.00,267601009.0,399416017.0,G622,Toxic or inflammatory neuropathy NOS
+polyneuropathies,450558019.0,F37z-1,F37z.11,42345000.0,70659018.0,G632,Polyneuropathy unspecified
+polyneuropathies,450558019.0,F37z-1,F37z.11,42345000.0,70659018.0,G618,Polyneuropathy unspecified
+polyneuropathies,450558019.0,F37z-1,F37z.11,42345000.0,70659018.0,G611,Polyneuropathy unspecified
+polyneuropathies,450558019.0,F37z-1,F37z.11,42345000.0,70659018.0,G628,Polyneuropathy unspecified
+polyneuropathies,450558019.0,F37z-1,F37z.11,42345000.0,70659018.0,G622,Polyneuropathy unspecified
+polyneuropathies,450558019.0,F37z-1,F37z.11,42345000.0,70659018.0,G610,Polyneuropathy unspecified
+polyneuropathies,450558019.0,F37z-1,F37z.11,42345000.0,70659018.0,G635,Polyneuropathy unspecified
+polyneuropathies,450558019.0,F37z-1,F37z.11,42345000.0,70659018.0,G638,Polyneuropathy unspecified
+polyneuropathies,450558019.0,F37z-1,F37z.11,42345000.0,70659018.0,G629,Polyneuropathy unspecified
+polyneuropathies,450558019.0,F37z-1,F37z.11,42345000.0,70659018.0,G636,Polyneuropathy unspecified
+polyneuropathies,450558019.0,F37z-1,F37z.11,42345000.0,70659018.0,G620,Polyneuropathy unspecified
+polyneuropathies,450558019.0,F37z-1,F37z.11,42345000.0,70659018.0,G634,Polyneuropathy unspecified
+polyneuropathies,450558019.0,F37z-1,F37z.11,42345000.0,70659018.0,G630,Polyneuropathy unspecified
+polyneuropathies,450558019.0,F37z-1,F37z.11,42345000.0,70659018.0,G621,Polyneuropathy unspecified
+polyneuropathies,450558019.0,F37z-1,F37z.11,42345000.0,70659018.0,G619,Polyneuropathy unspecified
+polyneuropathies,450558019.0,F37z-1,F37z.11,42345000.0,70659018.0,G633,Polyneuropathy unspecified
+polyneuropathies,450558019.0,F37z-1,F37z.11,42345000.0,70659018.0,G631,Polyneuropathy unspecified
+polyneuropathies,297656018.0,F3y,F3y..00,42658009.0,71161015.0,G64X,Other specified disorders of peripheral nervous system
+polyneuropathies,297658017.0,F3z,F3z..00,42658009.0,71161015.0,G64X,Peripheral nervous system disorder NOS
+polyneuropathies,299358016.0,Fyu69,Fyu6900,397751001.0,1777362011.0,G561,[X]Other lesions of median nerve
+polyneuropathies,299358016.0,Fyu69,Fyu6900,397751001.0,1777362011.0,G560,[X]Other lesions of median nerve
+polyneuropathies,299359012.0,Fyu6A,Fyu6A00,609591000.0,2967951017.0,G561,[X]Other mononeuropathies of upper limb
+polyneuropathies,299359012.0,Fyu6A,Fyu6A00,609591000.0,2967951017.0,G562,[X]Other mononeuropathies of upper limb
+polyneuropathies,299359012.0,Fyu6A,Fyu6A00,609591000.0,2967951017.0,G560,[X]Other mononeuropathies of upper limb
+polyneuropathies,299359012.0,Fyu6A,Fyu6A00,609591000.0,2967951017.0,G563,[X]Other mononeuropathies of upper limb
+polyneuropathies,299359012.0,Fyu6A,Fyu6A00,609591000.0,2967951017.0,G569,[X]Other mononeuropathies of upper limb
+polyneuropathies,299359012.0,Fyu6A,Fyu6A00,609591000.0,2967951017.0,G568,[X]Other mononeuropathies of upper limb
+polyneuropathies,299359012.0,Fyu6A,Fyu6A00,609591000.0,2967951017.0,G564,[X]Other mononeuropathies of upper limb
+polyneuropathies,299360019.0,Fyu6B,Fyu6B00,609592007.0,2967939019.0,G575,[X]Other mononeuropathies of lower limb
+polyneuropathies,299360019.0,Fyu6B,Fyu6B00,609592007.0,2967939019.0,G573,[X]Other mononeuropathies of lower limb
+polyneuropathies,299360019.0,Fyu6B,Fyu6B00,609592007.0,2967939019.0,G579,[X]Other mononeuropathies of lower limb
+polyneuropathies,299360019.0,Fyu6B,Fyu6B00,609592007.0,2967939019.0,G571,[X]Other mononeuropathies of lower limb
+polyneuropathies,299360019.0,Fyu6B,Fyu6B00,609592007.0,2967939019.0,G572,[X]Other mononeuropathies of lower limb
+polyneuropathies,299360019.0,Fyu6B,Fyu6B00,609592007.0,2967939019.0,G570,[X]Other mononeuropathies of lower limb
+polyneuropathies,299360019.0,Fyu6B,Fyu6B00,609592007.0,2967939019.0,G576,[X]Other mononeuropathies of lower limb
+polyneuropathies,299360019.0,Fyu6B,Fyu6B00,609592007.0,2967939019.0,G578,[X]Other mononeuropathies of lower limb
+polyneuropathies,299360019.0,Fyu6B,Fyu6B00,609592007.0,2967939019.0,G574,[X]Other mononeuropathies of lower limb
+polyneuropathies,299361015.0,Fyu6C,Fyu6C00,128189008.0,206412019.0,G598,[X]Other specified mononeuropathies
+polyneuropathies,299361015.0,Fyu6C,Fyu6C00,128189008.0,206412019.0,G571,[X]Other specified mononeuropathies
+polyneuropathies,299361015.0,Fyu6C,Fyu6C00,128189008.0,206412019.0,G572,[X]Other specified mononeuropathies
+polyneuropathies,299361015.0,Fyu6C,Fyu6C00,128189008.0,206412019.0,G590,[X]Other specified mononeuropathies
+polyneuropathies,299361015.0,Fyu6C,Fyu6C00,128189008.0,206412019.0,G573,[X]Other specified mononeuropathies
+polyneuropathies,299361015.0,Fyu6C,Fyu6C00,128189008.0,206412019.0,G578,[X]Other specified mononeuropathies
+polyneuropathies,299361015.0,Fyu6C,Fyu6C00,128189008.0,206412019.0,G569,[X]Other specified mononeuropathies
+polyneuropathies,299361015.0,Fyu6C,Fyu6C00,128189008.0,206412019.0,G560,[X]Other specified mononeuropathies
+polyneuropathies,299361015.0,Fyu6C,Fyu6C00,128189008.0,206412019.0,G563,[X]Other specified mononeuropathies
+polyneuropathies,299361015.0,Fyu6C,Fyu6C00,128189008.0,206412019.0,G589,[X]Other specified mononeuropathies
+polyneuropathies,299361015.0,Fyu6C,Fyu6C00,128189008.0,206412019.0,G576,[X]Other specified mononeuropathies
+polyneuropathies,299361015.0,Fyu6C,Fyu6C00,128189008.0,206412019.0,G562,[X]Other specified mononeuropathies
+polyneuropathies,299361015.0,Fyu6C,Fyu6C00,128189008.0,206412019.0,G568,[X]Other specified mononeuropathies
+polyneuropathies,299361015.0,Fyu6C,Fyu6C00,128189008.0,206412019.0,G588,[X]Other specified mononeuropathies
+polyneuropathies,299361015.0,Fyu6C,Fyu6C00,128189008.0,206412019.0,G587,[X]Other specified mononeuropathies
+polyneuropathies,299361015.0,Fyu6C,Fyu6C00,128189008.0,206412019.0,G580,[X]Other specified mononeuropathies
+polyneuropathies,299361015.0,Fyu6C,Fyu6C00,128189008.0,206412019.0,G575,[X]Other specified mononeuropathies
+polyneuropathies,299361015.0,Fyu6C,Fyu6C00,128189008.0,206412019.0,G564,[X]Other specified mononeuropathies
+polyneuropathies,299361015.0,Fyu6C,Fyu6C00,128189008.0,206412019.0,G574,[X]Other specified mononeuropathies
+polyneuropathies,299361015.0,Fyu6C,Fyu6C00,128189008.0,206412019.0,G561,[X]Other specified mononeuropathies
+polyneuropathies,299361015.0,Fyu6C,Fyu6C00,128189008.0,206412019.0,G579,[X]Other specified mononeuropathies
+polyneuropathies,299361015.0,Fyu6C,Fyu6C00,128189008.0,206412019.0,G570,[X]Other specified mononeuropathies
+polyneuropathies,299362010.0,Fyu6D,Fyu6D00,128189008.0,206412019.0,G598,[X]Other mononeuropathies in diseases classified elsewhere
+polyneuropathies,299362010.0,Fyu6D,Fyu6D00,128189008.0,206412019.0,G571,[X]Other mononeuropathies in diseases classified elsewhere
+polyneuropathies,299362010.0,Fyu6D,Fyu6D00,128189008.0,206412019.0,G572,[X]Other mononeuropathies in diseases classified elsewhere
+polyneuropathies,299362010.0,Fyu6D,Fyu6D00,128189008.0,206412019.0,G590,[X]Other mononeuropathies in diseases classified elsewhere
+polyneuropathies,299362010.0,Fyu6D,Fyu6D00,128189008.0,206412019.0,G573,[X]Other mononeuropathies in diseases classified elsewhere
+polyneuropathies,299362010.0,Fyu6D,Fyu6D00,128189008.0,206412019.0,G578,[X]Other mononeuropathies in diseases classified elsewhere
+polyneuropathies,299362010.0,Fyu6D,Fyu6D00,128189008.0,206412019.0,G569,[X]Other mononeuropathies in diseases classified elsewhere
+polyneuropathies,299362010.0,Fyu6D,Fyu6D00,128189008.0,206412019.0,G560,[X]Other mononeuropathies in diseases classified elsewhere
+polyneuropathies,299362010.0,Fyu6D,Fyu6D00,128189008.0,206412019.0,G563,[X]Other mononeuropathies in diseases classified elsewhere
+polyneuropathies,299362010.0,Fyu6D,Fyu6D00,128189008.0,206412019.0,G589,[X]Other mononeuropathies in diseases classified elsewhere
+polyneuropathies,299362010.0,Fyu6D,Fyu6D00,128189008.0,206412019.0,G576,[X]Other mononeuropathies in diseases classified elsewhere
+polyneuropathies,299362010.0,Fyu6D,Fyu6D00,128189008.0,206412019.0,G562,[X]Other mononeuropathies in diseases classified elsewhere
+polyneuropathies,299362010.0,Fyu6D,Fyu6D00,128189008.0,206412019.0,G568,[X]Other mononeuropathies in diseases classified elsewhere
+polyneuropathies,299362010.0,Fyu6D,Fyu6D00,128189008.0,206412019.0,G588,[X]Other mononeuropathies in diseases classified elsewhere
+polyneuropathies,299362010.0,Fyu6D,Fyu6D00,128189008.0,206412019.0,G587,[X]Other mononeuropathies in diseases classified elsewhere
+polyneuropathies,299362010.0,Fyu6D,Fyu6D00,128189008.0,206412019.0,G580,[X]Other mononeuropathies in diseases classified elsewhere
+polyneuropathies,299362010.0,Fyu6D,Fyu6D00,128189008.0,206412019.0,G575,[X]Other mononeuropathies in diseases classified elsewhere
+polyneuropathies,299362010.0,Fyu6D,Fyu6D00,128189008.0,206412019.0,G564,[X]Other mononeuropathies in diseases classified elsewhere
+polyneuropathies,299362010.0,Fyu6D,Fyu6D00,128189008.0,206412019.0,G574,[X]Other mononeuropathies in diseases classified elsewhere
+polyneuropathies,299362010.0,Fyu6D,Fyu6D00,128189008.0,206412019.0,G561,[X]Other mononeuropathies in diseases classified elsewhere
+polyneuropathies,299362010.0,Fyu6D,Fyu6D00,128189008.0,206412019.0,G579,[X]Other mononeuropathies in diseases classified elsewhere
+polyneuropathies,299362010.0,Fyu6D,Fyu6D00,128189008.0,206412019.0,G570,[X]Other mononeuropathies in diseases classified elsewhere
+polyneuropathies,422921000006119.0,Fyu7,Fyu7.00,42658009.0,71161015.0,G64X,[X]Polyneuropathies & other disord of peripheral nerv syst
+polyneuropathies,299364011.0,Fyu70,Fyu7000,386033004.0,1480220018.0,G563,[X]Other hereditary and idiopathic neuropathies
+polyneuropathies,299364011.0,Fyu70,Fyu7000,386033004.0,1480220018.0,G571,[X]Other hereditary and idiopathic neuropathies
+polyneuropathies,299364011.0,Fyu70,Fyu7000,386033004.0,1480220018.0,G602,[X]Other hereditary and idiopathic neuropathies
+polyneuropathies,299364011.0,Fyu70,Fyu7000,386033004.0,1480220018.0,G579,[X]Other hereditary and idiopathic neuropathies
+polyneuropathies,299364011.0,Fyu70,Fyu7000,386033004.0,1480220018.0,G601,[X]Other hereditary and idiopathic neuropathies
+polyneuropathies,299364011.0,Fyu70,Fyu7000,386033004.0,1480220018.0,G909,[X]Other hereditary and idiopathic neuropathies
+polyneuropathies,299364011.0,Fyu70,Fyu7000,386033004.0,1480220018.0,G576,[X]Other hereditary and idiopathic neuropathies
+polyneuropathies,299364011.0,Fyu70,Fyu7000,386033004.0,1480220018.0,G564,[X]Other hereditary and idiopathic neuropathies
+polyneuropathies,299364011.0,Fyu70,Fyu7000,386033004.0,1480220018.0,G622,[X]Other hereditary and idiopathic neuropathies
+polyneuropathies,299364011.0,Fyu70,Fyu7000,386033004.0,1480220018.0,G570,[X]Other hereditary and idiopathic neuropathies
+polyneuropathies,299364011.0,Fyu70,Fyu7000,386033004.0,1480220018.0,G575,[X]Other hereditary and idiopathic neuropathies
+polyneuropathies,299364011.0,Fyu70,Fyu7000,386033004.0,1480220018.0,G560,[X]Other hereditary and idiopathic neuropathies
+polyneuropathies,299364011.0,Fyu70,Fyu7000,386033004.0,1480220018.0,G589,[X]Other hereditary and idiopathic neuropathies
+polyneuropathies,299364011.0,Fyu70,Fyu7000,386033004.0,1480220018.0,G573,[X]Other hereditary and idiopathic neuropathies
+polyneuropathies,299364011.0,Fyu70,Fyu7000,386033004.0,1480220018.0,G562,[X]Other hereditary and idiopathic neuropathies
+polyneuropathies,299364011.0,Fyu70,Fyu7000,386033004.0,1480220018.0,G574,[X]Other hereditary and idiopathic neuropathies
+polyneuropathies,299364011.0,Fyu70,Fyu7000,386033004.0,1480220018.0,G609,[X]Other hereditary and idiopathic neuropathies
+polyneuropathies,299364011.0,Fyu70,Fyu7000,386033004.0,1480220018.0,G608,[X]Other hereditary and idiopathic neuropathies
+polyneuropathies,299364011.0,Fyu70,Fyu7000,386033004.0,1480220018.0,G610,[X]Other hereditary and idiopathic neuropathies
+polyneuropathies,299364011.0,Fyu70,Fyu7000,386033004.0,1480220018.0,G629,[X]Other hereditary and idiopathic neuropathies
+polyneuropathies,299364011.0,Fyu70,Fyu7000,386033004.0,1480220018.0,G587,[X]Other hereditary and idiopathic neuropathies
+polyneuropathies,299364011.0,Fyu70,Fyu7000,386033004.0,1480220018.0,G580,[X]Other hereditary and idiopathic neuropathies
+polyneuropathies,299364011.0,Fyu70,Fyu7000,386033004.0,1480220018.0,G588,[X]Other hereditary and idiopathic neuropathies
+polyneuropathies,299364011.0,Fyu70,Fyu7000,386033004.0,1480220018.0,G618,[X]Other hereditary and idiopathic neuropathies
+polyneuropathies,299364011.0,Fyu70,Fyu7000,386033004.0,1480220018.0,G619,[X]Other hereditary and idiopathic neuropathies
+polyneuropathies,299364011.0,Fyu70,Fyu7000,386033004.0,1480220018.0,G572,[X]Other hereditary and idiopathic neuropathies
+polyneuropathies,299364011.0,Fyu70,Fyu7000,386033004.0,1480220018.0,G628,[X]Other hereditary and idiopathic neuropathies
+polyneuropathies,299364011.0,Fyu70,Fyu7000,386033004.0,1480220018.0,G569,[X]Other hereditary and idiopathic neuropathies
+polyneuropathies,299364011.0,Fyu70,Fyu7000,386033004.0,1480220018.0,G621,[X]Other hereditary and idiopathic neuropathies
+polyneuropathies,299364011.0,Fyu70,Fyu7000,386033004.0,1480220018.0,G620,[X]Other hereditary and idiopathic neuropathies
+polyneuropathies,299364011.0,Fyu70,Fyu7000,386033004.0,1480220018.0,G600,[X]Other hereditary and idiopathic neuropathies
+polyneuropathies,299364011.0,Fyu70,Fyu7000,386033004.0,1480220018.0,G603,[X]Other hereditary and idiopathic neuropathies
+polyneuropathies,299364011.0,Fyu70,Fyu7000,386033004.0,1480220018.0,G611,[X]Other hereditary and idiopathic neuropathies
+polyneuropathies,299364011.0,Fyu70,Fyu7000,386033004.0,1480220018.0,G900,[X]Other hereditary and idiopathic neuropathies
+polyneuropathies,299364011.0,Fyu70,Fyu7000,386033004.0,1480220018.0,G568,[X]Other hereditary and idiopathic neuropathies
+polyneuropathies,299364011.0,Fyu70,Fyu7000,386033004.0,1480220018.0,G561,[X]Other hereditary and idiopathic neuropathies
+polyneuropathies,299364011.0,Fyu70,Fyu7000,386033004.0,1480220018.0,G578,[X]Other hereditary and idiopathic neuropathies
+polyneuropathies,299365012.0,Fyu71,Fyu7100,21018002.0,35332011.0,G619,[X]Other inflammatory polyneuropathies
+polyneuropathies,299366013.0,Fyu72,Fyu7200,42345000.0,70659018.0,G632,[X]Other specified polyneuropathies
+polyneuropathies,299366013.0,Fyu72,Fyu7200,42345000.0,70659018.0,G618,[X]Other specified polyneuropathies
+polyneuropathies,299366013.0,Fyu72,Fyu7200,42345000.0,70659018.0,G611,[X]Other specified polyneuropathies
+polyneuropathies,299366013.0,Fyu72,Fyu7200,42345000.0,70659018.0,G628,[X]Other specified polyneuropathies
+polyneuropathies,299366013.0,Fyu72,Fyu7200,42345000.0,70659018.0,G622,[X]Other specified polyneuropathies
+polyneuropathies,299366013.0,Fyu72,Fyu7200,42345000.0,70659018.0,G610,[X]Other specified polyneuropathies
+polyneuropathies,299366013.0,Fyu72,Fyu7200,42345000.0,70659018.0,G635,[X]Other specified polyneuropathies
+polyneuropathies,299366013.0,Fyu72,Fyu7200,42345000.0,70659018.0,G638,[X]Other specified polyneuropathies
+polyneuropathies,299366013.0,Fyu72,Fyu7200,42345000.0,70659018.0,G629,[X]Other specified polyneuropathies
+polyneuropathies,299366013.0,Fyu72,Fyu7200,42345000.0,70659018.0,G636,[X]Other specified polyneuropathies
+polyneuropathies,299366013.0,Fyu72,Fyu7200,42345000.0,70659018.0,G620,[X]Other specified polyneuropathies
+polyneuropathies,299366013.0,Fyu72,Fyu7200,42345000.0,70659018.0,G634,[X]Other specified polyneuropathies
+polyneuropathies,299366013.0,Fyu72,Fyu7200,42345000.0,70659018.0,G630,[X]Other specified polyneuropathies
+polyneuropathies,299366013.0,Fyu72,Fyu7200,42345000.0,70659018.0,G621,[X]Other specified polyneuropathies
+polyneuropathies,299366013.0,Fyu72,Fyu7200,42345000.0,70659018.0,G619,[X]Other specified polyneuropathies
+polyneuropathies,299366013.0,Fyu72,Fyu7200,42345000.0,70659018.0,G633,[X]Other specified polyneuropathies
+polyneuropathies,299366013.0,Fyu72,Fyu7200,42345000.0,70659018.0,G631,[X]Other specified polyneuropathies
+polyneuropathies,422971000006118.0,Fyu75,Fyu7500,230571009.0,345485017.0,E349,[X]Polyneuropathy/other endocrine+metabolic diseases CE
+polyneuropathies,422981000006115.0,Fyu78,Fyu7800,386033004.0,1480220018.0,G563,[X]Polyneuropathy/other musculoskeletal disorders CE
+polyneuropathies,422981000006115.0,Fyu78,Fyu7800,386033004.0,1480220018.0,G571,[X]Polyneuropathy/other musculoskeletal disorders CE
+polyneuropathies,422981000006115.0,Fyu78,Fyu7800,386033004.0,1480220018.0,G602,[X]Polyneuropathy/other musculoskeletal disorders CE
+polyneuropathies,422981000006115.0,Fyu78,Fyu7800,386033004.0,1480220018.0,G579,[X]Polyneuropathy/other musculoskeletal disorders CE
+polyneuropathies,422981000006115.0,Fyu78,Fyu7800,386033004.0,1480220018.0,G601,[X]Polyneuropathy/other musculoskeletal disorders CE
+polyneuropathies,422981000006115.0,Fyu78,Fyu7800,386033004.0,1480220018.0,G909,[X]Polyneuropathy/other musculoskeletal disorders CE
+polyneuropathies,422981000006115.0,Fyu78,Fyu7800,386033004.0,1480220018.0,G576,[X]Polyneuropathy/other musculoskeletal disorders CE
+polyneuropathies,422981000006115.0,Fyu78,Fyu7800,386033004.0,1480220018.0,G564,[X]Polyneuropathy/other musculoskeletal disorders CE
+polyneuropathies,422981000006115.0,Fyu78,Fyu7800,386033004.0,1480220018.0,G622,[X]Polyneuropathy/other musculoskeletal disorders CE
+polyneuropathies,422981000006115.0,Fyu78,Fyu7800,386033004.0,1480220018.0,G570,[X]Polyneuropathy/other musculoskeletal disorders CE
+polyneuropathies,422981000006115.0,Fyu78,Fyu7800,386033004.0,1480220018.0,G575,[X]Polyneuropathy/other musculoskeletal disorders CE
+polyneuropathies,422981000006115.0,Fyu78,Fyu7800,386033004.0,1480220018.0,G560,[X]Polyneuropathy/other musculoskeletal disorders CE
+polyneuropathies,422981000006115.0,Fyu78,Fyu7800,386033004.0,1480220018.0,G589,[X]Polyneuropathy/other musculoskeletal disorders CE
+polyneuropathies,422981000006115.0,Fyu78,Fyu7800,386033004.0,1480220018.0,G573,[X]Polyneuropathy/other musculoskeletal disorders CE
+polyneuropathies,422981000006115.0,Fyu78,Fyu7800,386033004.0,1480220018.0,G562,[X]Polyneuropathy/other musculoskeletal disorders CE
+polyneuropathies,422981000006115.0,Fyu78,Fyu7800,386033004.0,1480220018.0,G574,[X]Polyneuropathy/other musculoskeletal disorders CE
+polyneuropathies,422981000006115.0,Fyu78,Fyu7800,386033004.0,1480220018.0,G609,[X]Polyneuropathy/other musculoskeletal disorders CE
+polyneuropathies,422981000006115.0,Fyu78,Fyu7800,386033004.0,1480220018.0,G608,[X]Polyneuropathy/other musculoskeletal disorders CE
+polyneuropathies,422981000006115.0,Fyu78,Fyu7800,386033004.0,1480220018.0,G610,[X]Polyneuropathy/other musculoskeletal disorders CE
+polyneuropathies,422981000006115.0,Fyu78,Fyu7800,386033004.0,1480220018.0,G629,[X]Polyneuropathy/other musculoskeletal disorders CE
+polyneuropathies,422981000006115.0,Fyu78,Fyu7800,386033004.0,1480220018.0,G587,[X]Polyneuropathy/other musculoskeletal disorders CE
+polyneuropathies,422981000006115.0,Fyu78,Fyu7800,386033004.0,1480220018.0,G580,[X]Polyneuropathy/other musculoskeletal disorders CE
+polyneuropathies,422981000006115.0,Fyu78,Fyu7800,386033004.0,1480220018.0,G588,[X]Polyneuropathy/other musculoskeletal disorders CE
+polyneuropathies,422981000006115.0,Fyu78,Fyu7800,386033004.0,1480220018.0,G618,[X]Polyneuropathy/other musculoskeletal disorders CE
+polyneuropathies,422981000006115.0,Fyu78,Fyu7800,386033004.0,1480220018.0,G619,[X]Polyneuropathy/other musculoskeletal disorders CE
+polyneuropathies,422981000006115.0,Fyu78,Fyu7800,386033004.0,1480220018.0,G572,[X]Polyneuropathy/other musculoskeletal disorders CE
+polyneuropathies,422981000006115.0,Fyu78,Fyu7800,386033004.0,1480220018.0,G628,[X]Polyneuropathy/other musculoskeletal disorders CE
+polyneuropathies,422981000006115.0,Fyu78,Fyu7800,386033004.0,1480220018.0,G569,[X]Polyneuropathy/other musculoskeletal disorders CE
+polyneuropathies,422981000006115.0,Fyu78,Fyu7800,386033004.0,1480220018.0,G621,[X]Polyneuropathy/other musculoskeletal disorders CE
+polyneuropathies,422981000006115.0,Fyu78,Fyu7800,386033004.0,1480220018.0,G620,[X]Polyneuropathy/other musculoskeletal disorders CE
+polyneuropathies,422981000006115.0,Fyu78,Fyu7800,386033004.0,1480220018.0,G600,[X]Polyneuropathy/other musculoskeletal disorders CE
+polyneuropathies,422981000006115.0,Fyu78,Fyu7800,386033004.0,1480220018.0,G603,[X]Polyneuropathy/other musculoskeletal disorders CE
+polyneuropathies,422981000006115.0,Fyu78,Fyu7800,386033004.0,1480220018.0,G611,[X]Polyneuropathy/other musculoskeletal disorders CE
+polyneuropathies,422981000006115.0,Fyu78,Fyu7800,386033004.0,1480220018.0,G900,[X]Polyneuropathy/other musculoskeletal disorders CE
+polyneuropathies,422981000006115.0,Fyu78,Fyu7800,386033004.0,1480220018.0,G568,[X]Polyneuropathy/other musculoskeletal disorders CE
+polyneuropathies,422981000006115.0,Fyu78,Fyu7800,386033004.0,1480220018.0,G561,[X]Polyneuropathy/other musculoskeletal disorders CE
+polyneuropathies,422981000006115.0,Fyu78,Fyu7800,386033004.0,1480220018.0,G578,[X]Polyneuropathy/other musculoskeletal disorders CE
+polyneuropathies,299375010.0,Fyu7B,Fyu7B00,76886005.0,2966568017.0,O268,"[X]Inflammatory polyneuropathy, unspecified"
+polyneuropathies,299375010.0,Fyu7B,Fyu7B00,76886005.0,2966568017.0,G631,"[X]Inflammatory polyneuropathy, unspecified"
+polyneuropathies,299375010.0,Fyu7B,Fyu7B00,76886005.0,2966568017.0,G620,"[X]Inflammatory polyneuropathy, unspecified"
+polyneuropathies,299375010.0,Fyu7B,Fyu7B00,76886005.0,2966568017.0,G628,"[X]Inflammatory polyneuropathy, unspecified"
+polyneuropathies,299375010.0,Fyu7B,Fyu7B00,76886005.0,2966568017.0,G630,"[X]Inflammatory polyneuropathy, unspecified"
+polyneuropathies,299375010.0,Fyu7B,Fyu7B00,76886005.0,2966568017.0,G638,"[X]Inflammatory polyneuropathy, unspecified"
+polyneuropathies,299375010.0,Fyu7B,Fyu7B00,76886005.0,2966568017.0,G629,"[X]Inflammatory polyneuropathy, unspecified"
+polyneuropathies,299375010.0,Fyu7B,Fyu7B00,76886005.0,2966568017.0,G634,"[X]Inflammatory polyneuropathy, unspecified"
+polyneuropathies,299375010.0,Fyu7B,Fyu7B00,76886005.0,2966568017.0,G611,"[X]Inflammatory polyneuropathy, unspecified"
+polyneuropathies,299375010.0,Fyu7B,Fyu7B00,76886005.0,2966568017.0,G633,"[X]Inflammatory polyneuropathy, unspecified"
+polyneuropathies,299375010.0,Fyu7B,Fyu7B00,76886005.0,2966568017.0,G636,"[X]Inflammatory polyneuropathy, unspecified"
+polyneuropathies,299375010.0,Fyu7B,Fyu7B00,76886005.0,2966568017.0,G619,"[X]Inflammatory polyneuropathy, unspecified"
+polyneuropathies,299375010.0,Fyu7B,Fyu7B00,76886005.0,2966568017.0,G610,"[X]Inflammatory polyneuropathy, unspecified"
+polyneuropathies,299375010.0,Fyu7B,Fyu7B00,76886005.0,2966568017.0,G635,"[X]Inflammatory polyneuropathy, unspecified"
+polyneuropathies,299375010.0,Fyu7B,Fyu7B00,76886005.0,2966568017.0,G618,"[X]Inflammatory polyneuropathy, unspecified"
+polyneuropathies,299375010.0,Fyu7B,Fyu7B00,76886005.0,2966568017.0,G622,"[X]Inflammatory polyneuropathy, unspecified"
+polyneuropathies,299375010.0,Fyu7B,Fyu7B00,76886005.0,2966568017.0,G621,"[X]Inflammatory polyneuropathy, unspecified"
+polyneuropathies,299375010.0,Fyu7B,Fyu7B00,76886005.0,2966568017.0,G632,"[X]Inflammatory polyneuropathy, unspecified"
+polyneuropathies,359071000006116.0,Fyu7C,Fyu7C00,42345000.0,70659018.0,G632,"[X] Polyneuropathy, unspecified"
+polyneuropathies,359071000006116.0,Fyu7C,Fyu7C00,42345000.0,70659018.0,G618,"[X] Polyneuropathy, unspecified"
+polyneuropathies,359071000006116.0,Fyu7C,Fyu7C00,42345000.0,70659018.0,G611,"[X] Polyneuropathy, unspecified"
+polyneuropathies,359071000006116.0,Fyu7C,Fyu7C00,42345000.0,70659018.0,G628,"[X] Polyneuropathy, unspecified"
+polyneuropathies,359071000006116.0,Fyu7C,Fyu7C00,42345000.0,70659018.0,G622,"[X] Polyneuropathy, unspecified"
+polyneuropathies,359071000006116.0,Fyu7C,Fyu7C00,42345000.0,70659018.0,G610,"[X] Polyneuropathy, unspecified"
+polyneuropathies,359071000006116.0,Fyu7C,Fyu7C00,42345000.0,70659018.0,G635,"[X] Polyneuropathy, unspecified"
+polyneuropathies,359071000006116.0,Fyu7C,Fyu7C00,42345000.0,70659018.0,G638,"[X] Polyneuropathy, unspecified"
+polyneuropathies,359071000006116.0,Fyu7C,Fyu7C00,42345000.0,70659018.0,G629,"[X] Polyneuropathy, unspecified"
+polyneuropathies,359071000006116.0,Fyu7C,Fyu7C00,42345000.0,70659018.0,G636,"[X] Polyneuropathy, unspecified"
+polyneuropathies,359071000006116.0,Fyu7C,Fyu7C00,42345000.0,70659018.0,G620,"[X] Polyneuropathy, unspecified"
+polyneuropathies,359071000006116.0,Fyu7C,Fyu7C00,42345000.0,70659018.0,G634,"[X] Polyneuropathy, unspecified"
+polyneuropathies,359071000006116.0,Fyu7C,Fyu7C00,42345000.0,70659018.0,G630,"[X] Polyneuropathy, unspecified"
+polyneuropathies,359071000006116.0,Fyu7C,Fyu7C00,42345000.0,70659018.0,G621,"[X] Polyneuropathy, unspecified"
+polyneuropathies,359071000006116.0,Fyu7C,Fyu7C00,42345000.0,70659018.0,G619,"[X] Polyneuropathy, unspecified"
+polyneuropathies,359071000006116.0,Fyu7C,Fyu7C00,42345000.0,70659018.0,G633,"[X] Polyneuropathy, unspecified"
+polyneuropathies,359071000006116.0,Fyu7C,Fyu7C00,42345000.0,70659018.0,G631,"[X] Polyneuropathy, unspecified"
+polyneuropathies,498448012.0,M2717,M271700,59483006.0,498448012.0,L97X,Neuropathic foot ulcer
+polyneuropathies,500766011.0,N035,N035.00,67536000.0,500766011.0,G98X,Neuropathic arthropathy
+polyneuropathies,675631000006115.0,N035-2,N035.12,67536000.0,500766011.0,G98X,Neuropathic arthritis
+polyneuropathies,311114015.0,N11y2,N11y200,202700003.0,311114015.0,G950,Neuropathic spondylopathy
+polyneuropathies,311114015.0,N11y2,N11y200,202700003.0,311114015.0,A521,Neuropathic spondylopathy
+polyneuropathies,311114015.0,N11y2,N11y200,202700003.0,311114015.0,M494,Neuropathic spondylopathy
+polyneuropathies,158497012.0,N134-4,N134.14,95675005.0,158497012.0,G562,Ulnar neuritis
+polyneuropathies,322645015.0,SD722,SD72200,211412006.0,322645015.0,S909,Neuropathic foot blister

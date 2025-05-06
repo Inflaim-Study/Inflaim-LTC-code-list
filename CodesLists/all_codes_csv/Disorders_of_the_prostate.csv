@@ -1,0 +1,17 @@
+Condition,MedCodeId,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,ICD10Code,Term
+Disorders of the prostate,5493351000006113.0,^ESCTBP549335,,266569009.0,396742015.0,D291,BPH - Benign prostatic hypertrophy
+Disorders of the prostate,5493351000006113.0,^ESCTBP549335,,266569009.0,396742015.0,N40X,BPH - Benign prostatic hypertrophy
+Disorders of the prostate,203421000006110.0,1AA,1AA..00,11441004.0,19794011.0,N40X,Prostatism
+Disorders of the prostate,396738018.0,K20,K20..00,266569009.0,396738018.0,D291,Benign prostatic hypertrophy
+Disorders of the prostate,396738018.0,K20,K20..00,266569009.0,396738018.0,N40X,Benign prostatic hypertrophy
+Disorders of the prostate,645331000006112.0,K20-4,K20..14,266569009.0,396731012.0,D291,Enlarged prostate - benign
+Disorders of the prostate,645331000006112.0,K20-4,K20..14,266569009.0,396731012.0,N40X,Enlarged prostate - benign
+Disorders of the prostate,396742015.0,K20-5,K20..15,266569009.0,396738018.0,D291,BPH - Benign prostatic hypertrophy
+Disorders of the prostate,396742015.0,K20-5,K20..15,266569009.0,396738018.0,N40X,BPH - Benign prostatic hypertrophy
+Disorders of the prostate,19794011.0,K20-6,K20..16,11441004.0,19794011.0,N40X,Prostatism
+Disorders of the prostate,304382014.0,K200,K200.00,433234005.0,2769992019.0,N40X,Prostatic hyperplasia unspecified
+Disorders of the prostate,304383016.0,K201,K201.00,197959008.0,304383016.0,D291,Prostatic hyperplasia of the lateral lobe
+Disorders of the prostate,304383016.0,K201,K201.00,197959008.0,304383016.0,N40X,Prostatic hyperplasia of the lateral lobe
+Disorders of the prostate,304384010.0,K202,K202.00,197960003.0,304384010.0,D291,Prostatic hyperplasia of the medial lobe
+Disorders of the prostate,304384010.0,K202,K202.00,197960003.0,304384010.0,N40X,Prostatic hyperplasia of the medial lobe
+Disorders of the prostate,304385011.0,K20z,K20z.00,433234005.0,2769992019.0,N40X,Prostatic hyperplasia NOS
