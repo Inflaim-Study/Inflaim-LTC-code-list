@@ -50,6 +50,6 @@ A detailed manuscript describing the methodology used to generate and clinically
 │   └── SnomedCT/                               # Contains [ConditionName]_SnomedCT.csv for each condition
 │       ├── [ConditionName1]_SnomedCT.csv       # E.g., Diabetes_SnomedCT.csv
 │       └── ...
-├── Inflaim_Conditions_CodeList_YYYYMMDD.csv # Master curated codelist (all conditions, all systems) - at root
+├── Inflaim_Conditions_CodeList.csv # Master curated codelist (all conditions, all systems) - at root
 ├── Inflaim_LTCs__mapping_reference.csv       # Codelist source/methodology reference (all conditions) - at root
 ├── README.md                                 # This README file - at root
