@@ -1,97 +1,130 @@
-Condition,MedCodeId,OriginalReadCode,CleansedReadCode,SnomedCTConceptId,SnomedCTDescriptionId,ICD10Code,Term
-Retinal detachments and breaks ,297731017.0,F4109,F410900,193327005.0,297731017.0,H332,Old subtotal retinal detachment
-Retinal detachments and breaks ,297725015.0,F4103,F410300,232004004.0,347636019.0,H330,New partial retinal detachment with giant tear defect
-Retinal detachments and breaks ,297725015.0,F4103,F410300,232004004.0,347636019.0,H598,New partial retinal detachment with giant tear defect
-Retinal detachments and breaks ,297725015.0,F4103,F410300,232004004.0,347636019.0,H354,New partial retinal detachment with giant tear defect
-Retinal detachments and breaks ,297725015.0,F4103,F410300,232004004.0,347636019.0,H333,New partial retinal detachment with giant tear defect
-Retinal detachments and breaks ,297726019.0,F4104,F410400,193322004.0,297726019.0,H330,New partial retinal detachment with retinal dialysis
-Retinal detachments and breaks ,297744010.0,F4131,F413100,51226000.0,85346010.0,H333,Retinal round hole without detachment
-Retinal detachments and breaks ,297745011.0,F4132,F413200,193341001.0,297745011.0,H333,Horseshoe retinal tear without detachment
-Retinal detachments and breaks ,297730016.0,F4108,F410800,193326001.0,297730016.0,H332,Old total retinal detachment
-Retinal detachments and breaks ,297724016.0,F4102,F410200,193320007.0,297724016.0,H330,New partial retinal detachment with multiple defects
-Retinal detachments and breaks ,170051000006112.0,F41-1,F41..11,95690009.0,158516016.0,H598,Retinal tears
-Retinal detachments and breaks ,170051000006112.0,F41-1,F41..11,95690009.0,158516016.0,H354,Retinal tears
-Retinal detachments and breaks ,170051000006112.0,F41-1,F41..11,95690009.0,158516016.0,H330,Retinal tears
-Retinal detachments and breaks ,170051000006112.0,F41-1,F41..11,95690009.0,158516016.0,H333,Retinal tears
-Retinal detachments and breaks ,169841000006116.0,F410,F410.00,19620000.0,479741018.0,H330,Retinal detachment with retinal defect
-Retinal detachments and breaks ,399429017.0,F41,F41..00,29555009.0,49448017.0,H354,Retinal detachments and defects
-Retinal detachments and breaks ,399429017.0,F41,F41..00,29555009.0,49448017.0,H342,Retinal detachments and defects
-Retinal detachments and breaks ,399429017.0,F41,F41..00,29555009.0,49448017.0,H355,Retinal detachments and defects
-Retinal detachments and breaks ,399429017.0,F41,F41..00,29555009.0,49448017.0,H351,Retinal detachments and defects
-Retinal detachments and breaks ,399429017.0,F41,F41..00,29555009.0,49448017.0,H348,Retinal detachments and defects
-Retinal detachments and breaks ,399429017.0,F41,F41..00,29555009.0,49448017.0,H359,Retinal detachments and defects
-Retinal detachments and breaks ,399429017.0,F41,F41..00,29555009.0,49448017.0,H358,Retinal detachments and defects
-Retinal detachments and breaks ,399429017.0,F41,F41..00,29555009.0,49448017.0,H357,Retinal detachments and defects
-Retinal detachments and breaks ,399429017.0,F41,F41..00,29555009.0,49448017.0,H332,Retinal detachments and defects
-Retinal detachments and breaks ,399429017.0,F41,F41..00,29555009.0,49448017.0,H334,Retinal detachments and defects
-Retinal detachments and breaks ,399429017.0,F41,F41..00,29555009.0,49448017.0,H330,Retinal detachments and defects
-Retinal detachments and breaks ,399429017.0,F41,F41..00,29555009.0,49448017.0,H331,Retinal detachments and defects
-Retinal detachments and breaks ,399429017.0,F41,F41..00,29555009.0,49448017.0,H333,Retinal detachments and defects
-Retinal detachments and breaks ,399429017.0,F41,F41..00,29555009.0,49448017.0,H353,Retinal detachments and defects
-Retinal detachments and breaks ,399429017.0,F41,F41..00,29555009.0,49448017.0,H340,Retinal detachments and defects
-Retinal detachments and breaks ,399429017.0,F41,F41..00,29555009.0,49448017.0,H352,Retinal detachments and defects
-Retinal detachments and breaks ,399429017.0,F41,F41..00,29555009.0,49448017.0,H356,Retinal detachments and defects
-Retinal detachments and breaks ,399429017.0,F41,F41..00,29555009.0,49448017.0,H360,Retinal detachments and defects
-Retinal detachments and breaks ,399429017.0,F41,F41..00,29555009.0,49448017.0,H335,Retinal detachments and defects
-Retinal detachments and breaks ,399429017.0,F41,F41..00,29555009.0,49448017.0,H350,Retinal detachments and defects
-Retinal detachments and breaks ,399429017.0,F41,F41..00,29555009.0,49448017.0,Q141,Retinal detachments and defects
-Retinal detachments and breaks ,399429017.0,F41,F41..00,29555009.0,49448017.0,H349,Retinal detachments and defects
-Retinal detachments and breaks ,399429017.0,F41,F41..00,29555009.0,49448017.0,H368,Retinal detachments and defects
-Retinal detachments and breaks ,399429017.0,F41,F41..00,29555009.0,49448017.0,H341,Retinal detachments and defects
-Retinal detachments and breaks ,251652015.0,1481,1481.00,161487006.0,251652015.0,Z866,H/O: retinal detachment
-Retinal detachments and breaks ,297729014.0,F4107,F410700,193325002.0,297729014.0,H332,Old partial retinal detachment
-Retinal detachments and breaks ,297723010.0,F4101,F410100,193319001.0,297723010.0,H330,New partial retinal detachment with single defect
-Retinal detachments and breaks ,503951016.0,7271,7271.00,78917001.0,503951016.0,C818,Photocoagulation of retina for detachment
-Retinal detachments and breaks ,503951016.0,7271,7271.00,78917001.0,503951016.0,C819,Photocoagulation of retina for detachment
-Retinal detachments and breaks ,503951016.0,7271,7271.00,78917001.0,503951016.0,C812,Photocoagulation of retina for detachment
-Retinal detachments and breaks ,503951016.0,7271,7271.00,78917001.0,503951016.0,C811,Photocoagulation of retina for detachment
-Retinal detachments and breaks ,297728018.0,F4106,F410600,193324003.0,297728018.0,H332,Recent subtotal retinal detachment
-Retinal detachments and breaks ,297727011.0,F4105,F410500,193323009.0,297727011.0,H332,Recent total retinal detachment
-Retinal detachments and breaks ,297746012.0,F4133,F413300,193342008.0,297746012.0,H333,Multiple retinal defects without detachment
-Retinal detachments and breaks ,297742014.0,F413,F413.00,193338005.0,297742014.0,H333,Retinal defects without detachment
-Retinal detachments and breaks ,297722017.0,F4100,F410000,19620000.0,33037011.0,H330,Unspecified retinal detachment with retinal defect
-Retinal detachments and breaks ,66667015.0,F4134,F413400,40024006.0,66667015.0,H598,Retinal break
-Retinal detachments and breaks ,66667015.0,F4134,F413400,40024006.0,66667015.0,H330,Retinal break
-Retinal detachments and breaks ,66667015.0,F4134,F413400,40024006.0,66667015.0,H333,Retinal break
-Retinal detachments and breaks ,66667015.0,F4134,F413400,40024006.0,66667015.0,H354,Retinal break
-Retinal detachments and breaks ,1235016010.0,72711,7271100,85231002.0,1235016010.0,C812,Laser photocoagulation of retina for detachment
-Retinal detachments and breaks ,297749017.0,F413z,F413z00,193338005.0,297742014.0,H333,Retinal defects without detachment NOS
-Retinal detachments and breaks ,1228202019.0,F41y0,F41y000,34711008.0,1228202019.0,H334,Traction retinal detachment
-Retinal detachments and breaks ,297751018.0,F41yz,F41yz00,42059000.0,70200018.0,H330,Other retinal detachments NOS
-Retinal detachments and breaks ,297751018.0,F41yz,F41yz00,42059000.0,70200018.0,H334,Other retinal detachments NOS
-Retinal detachments and breaks ,297751018.0,F41yz,F41yz00,42059000.0,70200018.0,H332,Other retinal detachments NOS
-Retinal detachments and breaks ,297751018.0,F41yz,F41yz00,42059000.0,70200018.0,H333,Other retinal detachments NOS
-Retinal detachments and breaks ,297751018.0,F41yz,F41yz00,42059000.0,70200018.0,H331,Other retinal detachments NOS
-Retinal detachments and breaks ,297751018.0,F41yz,F41yz00,42059000.0,70200018.0,H357,Other retinal detachments NOS
-Retinal detachments and breaks ,297751018.0,F41yz,F41yz00,42059000.0,70200018.0,H335,Other retinal detachments NOS
-Retinal detachments and breaks ,297750017.0,F41y,F41y.00,42059000.0,70200018.0,H330,Other forms of retinal detachment
-Retinal detachments and breaks ,297750017.0,F41y,F41y.00,42059000.0,70200018.0,H334,Other forms of retinal detachment
-Retinal detachments and breaks ,297750017.0,F41y,F41y.00,42059000.0,70200018.0,H332,Other forms of retinal detachment
-Retinal detachments and breaks ,297750017.0,F41y,F41y.00,42059000.0,70200018.0,H333,Other forms of retinal detachment
-Retinal detachments and breaks ,297750017.0,F41y,F41y.00,42059000.0,70200018.0,H331,Other forms of retinal detachment
-Retinal detachments and breaks ,297750017.0,F41y,F41y.00,42059000.0,70200018.0,H357,Other forms of retinal detachment
-Retinal detachments and breaks ,297750017.0,F41y,F41y.00,42059000.0,70200018.0,H335,Other forms of retinal detachment
-Retinal detachments and breaks ,297752013.0,F41z,F41z.00,42059000.0,70200018.0,H330,Retinal detachment NOS
-Retinal detachments and breaks ,297752013.0,F41z,F41z.00,42059000.0,70200018.0,H334,Retinal detachment NOS
-Retinal detachments and breaks ,297752013.0,F41z,F41z.00,42059000.0,70200018.0,H332,Retinal detachment NOS
-Retinal detachments and breaks ,297752013.0,F41z,F41z.00,42059000.0,70200018.0,H333,Retinal detachment NOS
-Retinal detachments and breaks ,297752013.0,F41z,F41z.00,42059000.0,70200018.0,H331,Retinal detachment NOS
-Retinal detachments and breaks ,297752013.0,F41z,F41z.00,42059000.0,70200018.0,H357,Retinal detachment NOS
-Retinal detachments and breaks ,297752013.0,F41z,F41z.00,42059000.0,70200018.0,H335,Retinal detachment NOS
-Retinal detachments and breaks ,297732012.0,F410z,F410z00,19620000.0,33037011.0,H330,Retinal detachment with defect NOS
-Retinal detachments and breaks ,267138014.0,7271z,7271z00,78917001.0,130949012.0,C818,Photocoagulation of retina for detachment NOS
-Retinal detachments and breaks ,267138014.0,7271z,7271z00,78917001.0,130949012.0,C819,Photocoagulation of retina for detachment NOS
-Retinal detachments and breaks ,267138014.0,7271z,7271z00,78917001.0,130949012.0,C812,Photocoagulation of retina for detachment NOS
-Retinal detachments and breaks ,267138014.0,7271z,7271z00,78917001.0,130949012.0,C811,Photocoagulation of retina for detachment NOS
-Retinal detachments and breaks ,267137016.0,7271y,7271y00,78917001.0,130949012.0,C818,Other specified photocoagulation of retina for detachment
-Retinal detachments and breaks ,267137016.0,7271y,7271y00,78917001.0,130949012.0,C819,Other specified photocoagulation of retina for detachment
-Retinal detachments and breaks ,267137016.0,7271y,7271y00,78917001.0,130949012.0,C812,Other specified photocoagulation of retina for detachment
-Retinal detachments and breaks ,267137016.0,7271y,7271y00,78917001.0,130949012.0,C811,Other specified photocoagulation of retina for detachment
-Retinal detachments and breaks ,299475014.0,FyuF4,FyuF400,42059000.0,70200018.0,H330,[X]Other retinal detachments
-Retinal detachments and breaks ,299475014.0,FyuF4,FyuF400,42059000.0,70200018.0,H334,[X]Other retinal detachments
-Retinal detachments and breaks ,299475014.0,FyuF4,FyuF400,42059000.0,70200018.0,H332,[X]Other retinal detachments
-Retinal detachments and breaks ,299475014.0,FyuF4,FyuF400,42059000.0,70200018.0,H333,[X]Other retinal detachments
-Retinal detachments and breaks ,299475014.0,FyuF4,FyuF400,42059000.0,70200018.0,H331,[X]Other retinal detachments
-Retinal detachments and breaks ,299475014.0,FyuF4,FyuF400,42059000.0,70200018.0,H357,[X]Other retinal detachments
-Retinal detachments and breaks ,299475014.0,FyuF4,FyuF400,42059000.0,70200018.0,H335,[X]Other retinal detachments
-Retinal detachments and breaks ,1221344016.0,72710,7271000,10006000.0,1221344016.0,C811,Xenon photocoagulation of retina for detachment
+Condition,MedCode,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
+Retinal detachments and breaks,251652015,161487006,251652015,^ESCTHI454026,,H/O: retinal detachment
+Retinal detachments and breaks,251652015,161487006,251652015,1481,1481.00,H/O: retinal detachment
+Retinal detachments and breaks,503951016,78917001,503951016,^ESCTRE378357,,Photocoagulation of retina for detachment
+Retinal detachments and breaks,503951016,78917001,503951016,^ESCTRE378356,,Photocoagulation of retina for detachment
+Retinal detachments and breaks,503951016,78917001,503951016,7271-98,7271.98,Photocoagulation of retina for detachment
+Retinal detachments and breaks,503951016,78917001,503951016,7271,7271.00,Photocoagulation of retina for detachment
+Retinal detachments and breaks,503951016,78917001,503951016,7271-99,7271.99,Photocoagulation of retina for detachment
+Retinal detachments and breaks,503951016,78917001,503951016,7271y,7271y00,Photocoagulation of retina for detachment
+Retinal detachments and breaks,503951016,78917001,503951016,7271z,7271z00,Photocoagulation of retina for detachment
+Retinal detachments and breaks,1221344016,10006000,1221344016,^ESCTRE265941,,Xenon photocoagulation of retina for detachment
+Retinal detachments and breaks,1221344016,10006000,1221344016,^ESCTRE265940,,Xenon photocoagulation of retina for detachment
+Retinal detachments and breaks,1221344016,10006000,1221344016,72710,7271000,Xenon photocoagulation of retina for detachment
+Retinal detachments and breaks,1235016010,85231002,1235016010,^ESCTRE388601,,Laser photocoagulation of retina for detachment
+Retinal detachments and breaks,1235016010,85231002,1235016010,^ESCTRE388602,,Laser photocoagulation of retina for detachment
+Retinal detachments and breaks,1235016010,85231002,1235016010,72711-99,7271199,Laser photocoagulation of retina for detachment
+Retinal detachments and breaks,1235016010,85231002,1235016010,72711,7271100,Laser photocoagulation of retina for detachment
+Retinal detachments and breaks,267137016,78917001,130949012,^ESCTRE378357,,Other specified photocoagulation of retina for detachment
+Retinal detachments and breaks,267137016,78917001,130949012,^ESCTRE378356,,Other specified photocoagulation of retina for detachment
+Retinal detachments and breaks,267137016,78917001,130949012,7271-98,7271.98,Other specified photocoagulation of retina for detachment
+Retinal detachments and breaks,267137016,78917001,130949012,7271,7271.00,Other specified photocoagulation of retina for detachment
+Retinal detachments and breaks,267137016,78917001,130949012,7271-99,7271.99,Other specified photocoagulation of retina for detachment
+Retinal detachments and breaks,267137016,78917001,130949012,7271y,7271y00,Other specified photocoagulation of retina for detachment
+Retinal detachments and breaks,267137016,78917001,130949012,7271z,7271z00,Other specified photocoagulation of retina for detachment
+Retinal detachments and breaks,267138014,78917001,130949012,^ESCTRE378357,,Photocoagulation of retina for detachment NOS
+Retinal detachments and breaks,267138014,78917001,130949012,^ESCTRE378356,,Photocoagulation of retina for detachment NOS
+Retinal detachments and breaks,267138014,78917001,130949012,7271-98,7271.98,Photocoagulation of retina for detachment NOS
+Retinal detachments and breaks,267138014,78917001,130949012,7271,7271.00,Photocoagulation of retina for detachment NOS
+Retinal detachments and breaks,267138014,78917001,130949012,7271-99,7271.99,Photocoagulation of retina for detachment NOS
+Retinal detachments and breaks,267138014,78917001,130949012,7271y,7271y00,Photocoagulation of retina for detachment NOS
+Retinal detachments and breaks,267138014,78917001,130949012,7271z,7271z00,Photocoagulation of retina for detachment NOS
+Retinal detachments and breaks,399429017,29555009,49448017,F421z,F421z00,Retinal detachments and defects
+Retinal detachments and breaks,399429017,29555009,49448017,F42yz,F42yz00,Retinal detachments and defects
+Retinal detachments and breaks,399429017,29555009,49448017,F42z,F42z.00,Retinal detachments and defects
+Retinal detachments and breaks,399429017,29555009,49448017,F4210,F421000,Retinal detachments and defects
+Retinal detachments and breaks,399429017,29555009,49448017,F4217,F421700,Retinal detachments and defects
+Retinal detachments and breaks,399429017,29555009,49448017,F421,F421.00,Retinal detachments and defects
+Retinal detachments and breaks,399429017,29555009,49448017,F42,F42..00,Retinal detachments and defects
+Retinal detachments and breaks,399429017,29555009,49448017,F41,F41..00,Retinal detachments and defects
+Retinal detachments and breaks,399429017,29555009,49448017,FyuF8,FyuF800,Retinal detachments and defects
+Retinal detachments and breaks,399429017,29555009,49448017,F422y,F422y00,Retinal detachments and defects
+Retinal detachments and breaks,399429017,29555009,49448017,FyuF9,FyuF900,Retinal detachments and defects
+Retinal detachments and breaks,399429017,29555009,49448017,^ESCTRE297524,,Retinal detachments and defects
+Retinal detachments and breaks,399429017,29555009,49448017,F42y,F42y.00,Retinal detachments and defects
+Retinal detachments and breaks,399429017,29555009,49448017,F421-1,F421.11,Retinal detachments and defects
+Retinal detachments and breaks,399429017,29555009,49448017,^ESCTRE297523,,Retinal detachments and defects
+Retinal detachments and breaks,170051000006112,95690009,158516016,F41-1,F41..11,Retinal tear
+Retinal detachments and breaks,169841000006116,19620000,479741018,F4100,F410000,Retinal detachment with break
+Retinal detachments and breaks,169841000006116,19620000,479741018,F410z,F410z00,Retinal detachment with break
+Retinal detachments and breaks,169841000006116,19620000,479741018,F410,F410.00,Retinal detachment with break
+Retinal detachments and breaks,169841000006116,19620000,479741018,^ESCT1187869,,Retinal detachment with break
+Retinal detachments and breaks,169841000006116,19620000,479741018,^ESCTRH281148,,Retinal detachment with break
+Retinal detachments and breaks,297722017,19620000,33037011,F4100,F410000,Unspecified retinal detachment with retinal defect
+Retinal detachments and breaks,297722017,19620000,33037011,F410z,F410z00,Unspecified retinal detachment with retinal defect
+Retinal detachments and breaks,297722017,19620000,33037011,F410,F410.00,Unspecified retinal detachment with retinal defect
+Retinal detachments and breaks,297722017,19620000,33037011,^ESCT1187869,,Unspecified retinal detachment with retinal defect
+Retinal detachments and breaks,297722017,19620000,33037011,^ESCTRH281148,,Unspecified retinal detachment with retinal defect
+Retinal detachments and breaks,297723010,193319001,297723010,F4101,F410100,New partial retinal detachment with single defect
+Retinal detachments and breaks,297724016,193320007,297724016,F4102,F410200,New partial retinal detachment with multiple defects
+Retinal detachments and breaks,297725015,232004004,347636019,F4103,F410300,New partial retinal detachment with giant tear defect
+Retinal detachments and breaks,297725015,232004004,347636019,^ESCTGR503048,,New partial retinal detachment with giant tear defect
+Retinal detachments and breaks,297725015,232004004,347636019,^ESCTGI503047,,New partial retinal detachment with giant tear defect
+Retinal detachments and breaks,297726019,193322004,297726019,F4104,F410400,New partial retinal detachment with retinal dialysis
+Retinal detachments and breaks,297727011,193323009,297727011,F4105,F410500,Recent total retinal detachment
+Retinal detachments and breaks,297728018,193324003,297728018,F4106,F410600,Recent subtotal retinal detachment
+Retinal detachments and breaks,297729014,193325002,297729014,^ESCTDE477133,,Old partial retinal detachment
+Retinal detachments and breaks,297729014,193325002,297729014,F4107,F410700,Old partial retinal detachment
+Retinal detachments and breaks,297730016,193326001,297730016,F4108,F410800,Old total retinal detachment
+Retinal detachments and breaks,297731017,193327005,297731017,F4109,F410900,Old subtotal retinal detachment
+Retinal detachments and breaks,297732012,19620000,33037011,F4100,F410000,Retinal detachment with defect NOS
+Retinal detachments and breaks,297732012,19620000,33037011,F410z,F410z00,Retinal detachment with defect NOS
+Retinal detachments and breaks,297732012,19620000,33037011,F410,F410.00,Retinal detachment with defect NOS
+Retinal detachments and breaks,297732012,19620000,33037011,^ESCT1187869,,Retinal detachment with defect NOS
+Retinal detachments and breaks,297732012,19620000,33037011,^ESCTRH281148,,Retinal detachment with defect NOS
+Retinal detachments and breaks,297742014,193338005,297742014,F4130,F413000,Retinal defects without detachment
+Retinal detachments and breaks,297742014,193338005,297742014,F413z,F413z00,Retinal defects without detachment
+Retinal detachments and breaks,297742014,193338005,297742014,F413,F413.00,Retinal defects without detachment
+Retinal detachments and breaks,297742014,193338005,297742014,F413-99,F413.99,Retinal defects without detachment
+Retinal detachments and breaks,297744010,51226000,85346010,F4131,F413100,Round hole of retina without detachment
+Retinal detachments and breaks,297745011,193341001,297745011,F4132,F413200,Horseshoe retinal tear without detachment
+Retinal detachments and breaks,297746012,193342008,297746012,F4133,F413300,Multiple retinal defects without detachment
+Retinal detachments and breaks,66667015,40024006,66667015,^ESCTRE314412,,Retinal break
+Retinal detachments and breaks,66667015,40024006,66667015,F4134,F413400,Retinal break
+Retinal detachments and breaks,297749017,193338005,297742014,F4130,F413000,Retinal defects without detachment NOS
+Retinal detachments and breaks,297749017,193338005,297742014,F413z,F413z00,Retinal defects without detachment NOS
+Retinal detachments and breaks,297749017,193338005,297742014,F413,F413.00,Retinal defects without detachment NOS
+Retinal detachments and breaks,297749017,193338005,297742014,F413-99,F413.99,Retinal defects without detachment NOS
+Retinal detachments and breaks,297750017,42059000,70200018,F424z,F424z00,Other forms of retinal detachment
+Retinal detachments and breaks,297750017,42059000,70200018,F41y,F41y.00,Other forms of retinal detachment
+Retinal detachments and breaks,297750017,42059000,70200018,FyuF4,FyuF400,Other forms of retinal detachment
+Retinal detachments and breaks,297750017,42059000,70200018,^ESCTDE317793,,Other forms of retinal detachment
+Retinal detachments and breaks,297750017,42059000,70200018,^ESCTRD317792,,Other forms of retinal detachment
+Retinal detachments and breaks,297750017,42059000,70200018,F41yz,F41yz00,Other forms of retinal detachment
+Retinal detachments and breaks,297750017,42059000,70200018,^ESCTSE317795,,Other forms of retinal detachment
+Retinal detachments and breaks,297750017,42059000,70200018,F424,F424.00,Other forms of retinal detachment
+Retinal detachments and breaks,297750017,42059000,70200018,F41z,F41z.00,Other forms of retinal detachment
+Retinal detachments and breaks,297750017,42059000,70200018,F4240,F424000,Other forms of retinal detachment
+Retinal detachments and breaks,1228202019,34711008,1228202019,^ESCTTR305883,,Traction retinal detachment
+Retinal detachments and breaks,1228202019,34711008,1228202019,^ESCTTR305885,,Traction retinal detachment
+Retinal detachments and breaks,1228202019,34711008,1228202019,F41y0,F41y000,Traction retinal detachment
+Retinal detachments and breaks,297751018,42059000,70200018,F424z,F424z00,Other retinal detachments NOS
+Retinal detachments and breaks,297751018,42059000,70200018,F41y,F41y.00,Other retinal detachments NOS
+Retinal detachments and breaks,297751018,42059000,70200018,FyuF4,FyuF400,Other retinal detachments NOS
+Retinal detachments and breaks,297751018,42059000,70200018,^ESCTDE317793,,Other retinal detachments NOS
+Retinal detachments and breaks,297751018,42059000,70200018,^ESCTRD317792,,Other retinal detachments NOS
+Retinal detachments and breaks,297751018,42059000,70200018,F41yz,F41yz00,Other retinal detachments NOS
+Retinal detachments and breaks,297751018,42059000,70200018,^ESCTSE317795,,Other retinal detachments NOS
+Retinal detachments and breaks,297751018,42059000,70200018,F424,F424.00,Other retinal detachments NOS
+Retinal detachments and breaks,297751018,42059000,70200018,F41z,F41z.00,Other retinal detachments NOS
+Retinal detachments and breaks,297751018,42059000,70200018,F4240,F424000,Other retinal detachments NOS
+Retinal detachments and breaks,297752013,42059000,70200018,F424z,F424z00,Retinal detachment
+Retinal detachments and breaks,297752013,42059000,70200018,F41y,F41y.00,Retinal detachment
+Retinal detachments and breaks,297752013,42059000,70200018,FyuF4,FyuF400,Retinal detachment
+Retinal detachments and breaks,297752013,42059000,70200018,^ESCTDE317793,,Retinal detachment
+Retinal detachments and breaks,297752013,42059000,70200018,^ESCTRD317792,,Retinal detachment
+Retinal detachments and breaks,297752013,42059000,70200018,F41yz,F41yz00,Retinal detachment
+Retinal detachments and breaks,297752013,42059000,70200018,^ESCTSE317795,,Retinal detachment
+Retinal detachments and breaks,297752013,42059000,70200018,F424,F424.00,Retinal detachment
+Retinal detachments and breaks,297752013,42059000,70200018,F41z,F41z.00,Retinal detachment
+Retinal detachments and breaks,297752013,42059000,70200018,F4240,F424000,Retinal detachment
+Retinal detachments and breaks,299475014,42059000,70200018,F424z,F424z00,[X]Other retinal detachments
+Retinal detachments and breaks,299475014,42059000,70200018,F41y,F41y.00,[X]Other retinal detachments
+Retinal detachments and breaks,299475014,42059000,70200018,FyuF4,FyuF400,[X]Other retinal detachments
+Retinal detachments and breaks,299475014,42059000,70200018,^ESCTDE317793,,[X]Other retinal detachments
+Retinal detachments and breaks,299475014,42059000,70200018,^ESCTRD317792,,[X]Other retinal detachments
+Retinal detachments and breaks,299475014,42059000,70200018,F41yz,F41yz00,[X]Other retinal detachments
+Retinal detachments and breaks,299475014,42059000,70200018,^ESCTSE317795,,[X]Other retinal detachments
+Retinal detachments and breaks,299475014,42059000,70200018,F424,F424.00,[X]Other retinal detachments
+Retinal detachments and breaks,299475014,42059000,70200018,F41z,F41z.00,[X]Other retinal detachments
+Retinal detachments and breaks,299475014,42059000,70200018,F4240,F424000,[X]Other retinal detachments

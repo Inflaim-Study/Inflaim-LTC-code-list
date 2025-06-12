@@ -1,0 +1,110 @@
+Condition,SNOMED_Code,SnomedCTDescriptionId,Term
+Chronic lower respiratory diseases,285381006,424365019,Acute infective exacerbation of chronic obstructive airways disease
+Chronic lower respiratory diseases,847091000000104,2196431000000111,Acute non-infective exacerbation of COPD (chronic obstructive pulmonary disease)
+Chronic lower respiratory diseases,847091000000104,2196421000000114,Acute non-infective exacerbation of chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,13645005,475427019,COPD - Chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,13645005,990641000006110,Chronic obst. pulm. dis. NOS
+Chronic lower respiratory diseases,13645005,23287019,Chronic obstructive lung disease
+Chronic lower respiratory diseases,84409004,139979010,Fetid chronic bronchitis
+Chronic lower respiratory diseases,185086009,285104011,Obstructive chronic bronchitis
+Chronic lower respiratory diseases,13645005,475431013,Chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,13645005,475423015,Chronic obstructive airways disease
+Chronic lower respiratory diseases,63480004,105519017,Chronic bronchitis
+Chronic lower respiratory diseases,61937009,102938011,Simple chronic bronchitis
+Chronic lower respiratory diseases,89549007,508562012,Chronic catarrhal bronchitis
+Chronic lower respiratory diseases,61937009,102938011,Simple chronic bronchitis NOS
+Chronic lower respiratory diseases,74417001,123588010,Mucopurulent chronic bronchitis
+Chronic lower respiratory diseases,84409004,506053014,Purulent chronic bronchitis
+Chronic lower respiratory diseases,84409004,506053014,Fetid chronic bronchitis
+Chronic lower respiratory diseases,74417001,123588010,Mucopurulent chronic bronchitis NOS
+Chronic lower respiratory diseases,185086009,285100019,Obstructive chronic bronchitis
+Chronic lower respiratory diseases,195949008,301450011,Chronic asthmatic bronchitis
+Chronic lower respiratory diseases,195949008,301451010,Chronic wheezy bronchitis
+Chronic lower respiratory diseases,185086009,285100019,Emphysematous bronchitis
+Chronic lower respiratory diseases,195951007,301453013,Acute exacerbation of chronic obstructive airways disease
+Chronic lower respiratory diseases,40100001,492443010,Bronchiolitis obliterans
+Chronic lower respiratory diseases,185086009,285100019,Obstructive chronic bronchitis NOS
+Chronic lower respiratory diseases,195953005,301456017,Mixed simple and mucopurulent chronic bronchitis
+Chronic lower respiratory diseases,63480004,105519017,Other chronic bronchitis
+Chronic lower respiratory diseases,52571006,87480013,Chronic tracheobronchitis
+Chronic lower respiratory diseases,63480004,105519017,Other chronic bronchitis NOS
+Chronic lower respiratory diseases,63480004,105519017,Chronic bronchitis NOS
+Chronic lower respiratory diseases,87433001,144964015,Emphysema
+Chronic lower respiratory diseases,195957006,301460019,Chronic bullous emphysema
+Chronic lower respiratory diseases,195958001,301463017,Segmental bullous emphysema
+Chronic lower respiratory diseases,195959009,301464011,Zonal bullous emphysema
+Chronic lower respiratory diseases,16003001,27096010,Giant bullous emphysema
+Chronic lower respiratory diseases,266355005,396108018,Bullous emphysema with collapse
+Chronic lower respiratory diseases,195957006,301460019,Chronic bullous emphysema NOS
+Chronic lower respiratory diseases,4981000,9337016,Panlobular emphysema
+Chronic lower respiratory diseases,68328006,113497011,Centrilobular emphysema
+Chronic lower respiratory diseases,87433001,144964015,Other emphysema
+Chronic lower respiratory diseases,195963002,301470017,Acute vesicular emphysema
+Chronic lower respiratory diseases,266356006,396109014,Atrophic (senile) emphysema
+Chronic lower respiratory diseases,77690003,503646013,Acute interstitial emphysema
+Chronic lower respiratory diseases,45145000,1230190015,MacLeod's unilateral emphysema
+Chronic lower respiratory diseases,87433001,144964015,Other emphysema NOS
+Chronic lower respiratory diseases,87433001,144964015,Emphysema NOS
+Chronic lower respiratory diseases,313296004,457168017,Mild chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,313297008,457169013,Moderate chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,313299006,457171013,Severe chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,293991000000106,516801000000112,Very severe chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,135836000,216596014,End stage chronic obstructive airways disease
+Chronic lower respiratory diseases,13645005,475428012,Other specified chronic obstructive airways disease
+Chronic lower respiratory diseases,13645005,475431013,Other specified chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,196001008,301542016,Chronic obstruct pulmonary dis with acute lower resp infectn
+Chronic lower respiratory diseases,195951007,301453013,"Chron obstruct pulmonary dis wth acute exacerbation, unspec"
+Chronic lower respiratory diseases,13645005,475428012,Chronic obstructive airways disease NOS
+Chronic lower respiratory diseases,13645005,475431013,Chronic obstructive pulmonary disease NOS
+Chronic lower respiratory diseases,196026004,301572010,Chronic emphysema due to chemical fumes
+Chronic lower respiratory diseases,196027008,301573017,Obliterative bronchiolitis due to chemical fumes
+Chronic lower respiratory diseases,866901000000103,2240631000000119,Eosinophilic bronchitis
+Chronic lower respiratory diseases,87433001,144964015,[X]Other emphysema
+Chronic lower respiratory diseases,13645005,475431013,[X]Other specified chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,405944004,2157699014,Asthmatic bronchitis
+Chronic lower respiratory diseases,389145006,885291000006115,Extrinsic asthma - atopy
+Chronic lower respiratory diseases,708038006,7627241000006118,Acute exacerbation of asthma
+Chronic lower respiratory diseases,31387002,3035282010,Exercise induced asthma
+Chronic lower respiratory diseases,233679003,350149018,Late-onset asthma
+Chronic lower respiratory diseases,708038006,145961000006117,Severe asthma attack
+Chronic lower respiratory diseases,31387002,52467014,Exercise induced asthma
+Chronic lower respiratory diseases,57607007,95786019,Occupational asthma
+Chronic lower respiratory diseases,57607007,95786019,Work aggravated asthma
+Chronic lower respiratory diseases,407674008,2159273015,Aspirin induced asthma
+Chronic lower respiratory diseases,401193004,1780388018,Asthma confirmed
+Chronic lower respiratory diseases,195967001,301485011,Asthma
+Chronic lower respiratory diseases,195967001,301480018,Bronchial asthma
+Chronic lower respiratory diseases,389145006,1493645010,Extrinsic (atopic) asthma
+Chronic lower respiratory diseases,389145006,1483199016,Allergic asthma
+Chronic lower respiratory diseases,233678006,350147016,Childhood asthma
+Chronic lower respiratory diseases,233683003,350154010,Pollen asthma
+Chronic lower respiratory diseases,63088003,104872017,Extrinsic asthma without status asthmaticus
+Chronic lower respiratory diseases,1086701000000102,2722231000000112,Extrinsic asthma with status asthmaticus
+Chronic lower respiratory diseases,708093000,3083642013,Extrinsic asthma with asthma attack
+Chronic lower respiratory diseases,424643009,2648327010,Extrinsic asthma NOS
+Chronic lower respiratory diseases,266361008,396114013,Intrinsic asthma
+Chronic lower respiratory diseases,233679003,350148014,Late onset asthma
+Chronic lower respiratory diseases,12428000,21390015,Intrinsic asthma without status asthmaticus
+Chronic lower respiratory diseases,1086711000000100,2722261000000119,Intrinsic asthma with status asthmaticus
+Chronic lower respiratory diseases,708094006,3032866010,Intrinsic asthma with asthma attack
+Chronic lower respiratory diseases,266361008,396114013,Intrinsic asthma NOS
+Chronic lower respiratory diseases,195977004,301509017,Mixed asthma
+Chronic lower respiratory diseases,708038006,3032747019,Acute exacerbation of asthma
+Chronic lower respiratory diseases,225057002,338238011,Brittle asthma
+Chronic lower respiratory diseases,866881000000101,2240591000000119,Chronic asthma with fixed airflow obstruction
+Chronic lower respiratory diseases,195967001,301485011,Asthma unspecified
+Chronic lower respiratory diseases,195967001,2475605013,Hyperreactive airways disease
+Chronic lower respiratory diseases,734904007,3511368015,Status asthmaticus NOS
+Chronic lower respiratory diseases,708090002,3033029011,Severe asthma attack
+Chronic lower respiratory diseases,708038006,3032734012,Asthma attack
+Chronic lower respiratory diseases,708038006,3032734012,Asthma attack NOS
+Chronic lower respiratory diseases,233679003,350148014,Late-onset asthma
+Chronic lower respiratory diseases,195967001,301485011,Asthma NOS
+Chronic lower respiratory diseases,389145006,1483199016,Allergic asthma NEC
+Chronic lower respiratory diseases,405720007,2157501011,Allergic bronchitis NEC
+Chronic lower respiratory diseases,23022004,38677017,Tuberculous bronchiectasis
+Chronic lower respiratory diseases,12295008,21163015,Bronchiectasis
+Chronic lower respiratory diseases,195984007,301524014,Recurrent bronchiectasis
+Chronic lower respiratory diseases,195985008,301525010,Post-infective bronchiectasis
+Chronic lower respiratory diseases,12295008,21163015,Bronchiectasis NOS
+Chronic lower respiratory diseases,77593006,128792019,Congenital bronchiectasis

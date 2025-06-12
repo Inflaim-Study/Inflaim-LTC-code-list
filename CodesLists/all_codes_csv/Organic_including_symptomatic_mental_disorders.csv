@@ -1,0 +1,261 @@
+Condition,MedCode,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
+"Organic, including symptomatic, mental disorders",401838011,111479008,178719012,Eu0z,Eu0z.00,[X]Unspecified organic or symptomatic mental disorder
+"Organic, including symptomatic, mental disorders",1495056012,111479008,178719012,Eu06z-1,Eu06z11,[X]Organic psychosyndrome
+"Organic, including symptomatic, mental disorders",16251000006117,111479008,178719012,E2Ay,E2Ay.00,Other specific mental disorder post-organic brain damage
+"Organic, including symptomatic, mental disorders",362211000006118,111479008,178719012,Eu04-2,Eu04.12,"[X]Acute / subacute confusional state, nonalcoholic"
+"Organic, including symptomatic, mental disorders",376461000006110,111479008,178719012,Eu04,Eu04.00,"[X]Delirium, not induced by alcohol+other psychoactive subs"
+"Organic, including symptomatic, mental disorders",379901000006113,111479008,178719012,Eu05y-1,Eu05y11,[X]Epileptic psychosis NOS
+"Organic, including symptomatic, mental disorders",404001000006114,111479008,178719012,Eu05z-2,Eu05z12,[X]Organic mental disorder NOS
+"Organic, including symptomatic, mental disorders",404041000006111,111479008,178719012,Eu0z-1,Eu0z.11,[X]Organic psychosis NOS
+"Organic, including symptomatic, mental disorders",404911000006113,111479008,178719012,Eu06y,Eu06y00,[X]Oth organ personality behav disorders brain dis dam dysf
+"Organic, including symptomatic, mental disorders",405051000006114,111479008,178719012,Eu05y,Eu05y00,[X]Oth sp mental disord brain damag/dysfunction/physcal disd
+"Organic, including symptomatic, mental disorders",420411000006117,111479008,178719012,Eu06,Eu06.00,[X]Personality and behav disorder brain dis dam and dysfunct
+"Organic, including symptomatic, mental disorders",430371000006115,111479008,178719012,Eu06z,Eu06z00,[X]Unspec organ personality behav disorder brain dam dysfunc
+"Organic, including symptomatic, mental disorders",295667018,111479008,178719012,Eu0,Eu0..00,"[X]Organic, including symptomatic, mental disorders"
+"Organic, including symptomatic, mental disorders",430341000006111,111479008,178719012,Eu05z,Eu05z00,[X]Unspec mental disorder brain damag/dysfunction/physcal dr
+"Organic, including symptomatic, mental disorders",362241000006119,111479008,178719012,Eu04-5,Eu04.15,[X]Acute / subacute psycho-organic reaction
+"Organic, including symptomatic, mental disorders",403941000006114,111479008,178719012,Eu05z-1,Eu05z11,[X]Organic brain syndrome NOS
+"Organic, including symptomatic, mental disorders",404841000006119,111479008,178719012,Eu05,Eu05.00,[X]Oth mental disorder brain damag/dysfunction/physical disr
+"Organic, including symptomatic, mental disorders",294656010,56267009,497559016,E004z,E004z00,Arteriosclerotic dementia NOS
+"Organic, including symptomatic, mental disorders",363791000006112,56267009,497559016,Eu01-1,Eu01.11,[X]Arteriosclerotic dementia
+"Organic, including symptomatic, mental disorders",399031000006111,56267009,93568017,Eu011,Eu01100,[X]Multi-infarct dementia
+"Organic, including symptomatic, mental disorders",431681000006117,429998004,2770951017,Eu01,Eu01.00,[X]Vascular dementia
+"Organic, including symptomatic, mental disorders",431691000006119,230285003,345110014,Eu010,Eu01000,[X]Vascular dementia of acute onset
+"Organic, including symptomatic, mental disorders",423221000006117,56267009,93568017,Eu011-1,Eu01111,[X]Predominantly cortical dementia
+"Organic, including symptomatic, mental disorders",3414251000006112,56267009,497560014,^ESCTVA341425,,VAD - Vascular dementia
+"Organic, including symptomatic, mental disorders",294652012,191463004,294652012,E0040,E004000,Uncomplicated arteriosclerotic dementia
+"Organic, including symptomatic, mental disorders",294653019,191464005,294653019,E0041,E004100,Arteriosclerotic dementia with delirium
+"Organic, including symptomatic, mental disorders",294654013,191465006,294654013,E0042,E004200,Arteriosclerotic dementia with paranoia
+"Organic, including symptomatic, mental disorders",294655014,191466007,294655014,E0043,E004300,Arteriosclerotic dementia with depression
+"Organic, including symptomatic, mental disorders",497559016,56267009,497559016,E004,E004.00,Arteriosclerotic dementia
+"Organic, including symptomatic, mental disorders",295680015,429998004,2770951017,Eu01y,Eu01y00,[X]Other vascular dementia
+"Organic, including symptomatic, mental disorders",3414261000006114,56267009,2921000019,^ESCTMU341426,,Multi infarct dementia
+"Organic, including symptomatic, mental disorders",295681016,429998004,2770951017,Eu01z,Eu01z00,"[X]Vascular dementia, unspecified"
+"Organic, including symptomatic, mental disorders",3414231000006117,56267009,497558012,^ESCTMI341423,,MID - Multi-infarct dementia
+"Organic, including symptomatic, mental disorders",696161000006115,56267009,93568017,E004-1,E004.11,Multi infarct dementia
+"Organic, including symptomatic, mental disorders",742671000006118,84339005,506022012,750,750..00,Lip operations
+"Organic, including symptomatic, mental disorders",268264011,84339005,139875017,750z,750z.00,Lip operations NOS
+"Organic, including symptomatic, mental disorders",6516541000006119,390936003,1476249012,^ESCTCE651654,,Cerebral autosomal dominant arteriopathy with subcortical infarcts and leucoencephalopathy
+"Organic, including symptomatic, mental disorders",841051000006113,390936003,1477210016,G678,G678.00,Cereb autosom dominant arteriop subcort infarcts leukoenceph
+"Organic, including symptomatic, mental disorders",428201000006119,230286002,345111013,Eu012,Eu01200,[X]Subcortical vascular dementia
+"Organic, including symptomatic, mental disorders",398571000006112,230287006,345112018,Eu013,Eu01300,[X]Mixed cortical and subcortical vascular dementia
+"Organic, including symptomatic, mental disorders",4654101000006111,173225009,268171011,^ESCTWE465410,,Wedge resection of lip
+"Organic, including symptomatic, mental disorders",359241000006119,52448006,87274019,Eu02z,Eu02z00,[X] Unspecified dementia
+"Organic, including symptomatic, mental disorders",3350441000006115,52448006,2970981011,^ESCTOR335044,,Organic dementia
+"Organic, including symptomatic, mental disorders",415873013,278849000,415873013,F11z-1,F11z.11,Cerebral atrophy
+"Organic, including symptomatic, mental disorders",148381000006115,52448006,87274019,E00-2,E00..12,Senile/presenile dementia
+"Organic, including symptomatic, mental disorders",4060291000006119,95644001,512235016,^ESCTCE406029,,Cerebral systemic lupus erythematosus
+"Organic, including symptomatic, mental disorders",158442019,95644001,158442019,N0006-1,N000611,Systemic lupus erythematosus encephalitis
+"Organic, including symptomatic, mental disorders",512234017,95644001,512234017,N0006,N000600,Cerebral lupus
+"Organic, including symptomatic, mental disorders",4060271000006119,95644001,512233011,^ESCTLU406027,,Lupus encephalopathy
+"Organic, including symptomatic, mental disorders",295713019,2776000,5694012,Eu040,Eu04000,"[X]Delirium not superimposed on dementia, so described"
+"Organic, including symptomatic, mental disorders",362201000006116,2776000,483659012,Eu04-1,Eu04.11,[X]Acute / subacute brain syndrome
+"Organic, including symptomatic, mental disorders",2543161000006110,2776000,483653013,^ESCTAC254316,,Acute psycho-organic syndrome
+"Organic, including symptomatic, mental disorders",612521000006115,2776000,5694012,E030-1,E030.11,Delirium - acute organic
+"Organic, including symptomatic, mental disorders",2543181000006117,2776000,483658016,^ESCTAB254318,,ABS - Acute brain syndrome
+"Organic, including symptomatic, mental disorders",2543191000006119,2776000,483659012,^ESCTAC254319,,Acute brain syndrome
+"Organic, including symptomatic, mental disorders",294706010,191507002,294706010,E031,E031.00,Subacute confusional state
+"Organic, including symptomatic, mental disorders",376431000006118,2776000,5694012,Eu04y-1,Eu04y11,[X]Delirium of mixed origin
+"Organic, including symptomatic, mental disorders",612531000006117,191507002,294705014,E031-1,E031.11,Delirium - subacute organic
+"Organic, including symptomatic, mental disorders",483651010,2776000,483651010,E030,E030.00,Acute confusional state
+"Organic, including symptomatic, mental disorders",294704013,2776000,483651010,E030z,E030z00,Acute confusional state NOS
+"Organic, including symptomatic, mental disorders",294712017,191507002,294706010,E031z,E031z00,Subacute confusional state NOS
+"Organic, including symptomatic, mental disorders",295718011,2776000,5694012,Eu04z,Eu04z00,"[X]Delirium, unspecified"
+"Organic, including symptomatic, mental disorders",2543131000006118,2776000,483649011,^ESCTOR254313,,Organic brain syndrome
+"Organic, including symptomatic, mental disorders",401831017,2776000,5694012,Eu04y,Eu04y00,[X]Other delirium
+"Organic, including symptomatic, mental disorders",2543151000006113,2776000,483652015,^ESCTOB254315,,OBS - Organic brain syndrome
+"Organic, including symptomatic, mental disorders",295714013,2776000,5694012,Eu041,Eu04100,[X]Delirium superimposed on dementia
+"Organic, including symptomatic, mental disorders",4763441000006118,191507002,294705014,^ESCTSU476344,,Subacute delirium
+"Organic, including symptomatic, mental disorders",362231000006112,2776000,483655018,Eu04-4,Eu04.14,[X]Acute / subacute organic reaction
+"Organic, including symptomatic, mental disorders",317932013,271873000,406866016,R20z,R20z.00,"[D]Senility, without psychosis NOS"
+"Organic, including symptomatic, mental disorders",402397010,271873000,406866016,R20,R20..00,"[D]Senility, without mention of psychosis"
+"Organic, including symptomatic, mental disorders",359141000006111,15662003,26545010,Eu02z-4,Eu02z14,[X] Senile dementia NOS
+"Organic, including symptomatic, mental disorders",3229071000006117,45205003,75376013,^ESCTFR322907,,Frenectomy of lip
+"Organic, including symptomatic, mental disorders",735781000006116,45205003,2270021000000113,75002-1,7500211,Labial frenectomy
+"Organic, including symptomatic, mental disorders",4763081000006118,191461002,1222240013,^ESCTSE476308,,Senile delirium
+"Organic, including symptomatic, mental disorders",2748441000006111,15662003,1221222011,^ESCTSD274844,,SD - Senile dementia
+"Organic, including symptomatic, mental disorders",26545010,15662003,26545010,E00-1,E00..11,Senile dementia
+"Organic, including symptomatic, mental disorders",294648012,191461002,294648012,E003,E003.00,Senile dementia with delirium
+"Organic, including symptomatic, mental disorders",420275011,282078004,420275011,75053,7505300,Upper labial fraenectomy
+"Organic, including symptomatic, mental disorders",882211000006118,191461002,882211000006118,E003-99,E003.99,Senile dementia-acute confused
+"Organic, including symptomatic, mental disorders",294638010,191452002,294638010,E0011,E001100,Presenile dementia with delirium
+"Organic, including symptomatic, mental disorders",3669801000006113,71917006,119496011,^ESCTCH366980,,Cheiloplasty
+"Organic, including symptomatic, mental disorders",1222549013,271873000,406866016,R200-1,R200.11,[D]Senility
+"Organic, including symptomatic, mental disorders",5659651000006113,282078004,420274010,^ESCTUP565965,,Upper labial frenectomy
+"Organic, including symptomatic, mental disorders",299334015,84757009,178739011,Fyu50,Fyu5000,[X]Other generalized epilepsy and epileptic syndromes
+"Organic, including symptomatic, mental disorders",3878501000006115,84757009,506216014,^ESCTEP387850,,EP - Epilepsy
+"Organic, including symptomatic, mental disorders",299336018,84757009,178739011,Fyu51,Fyu5100,[X]Other epilepsy
+"Organic, including symptomatic, mental disorders",178739011,84757009,178739011,F25,F25..00,Epilepsy
+"Organic, including symptomatic, mental disorders",297324019,84757009,178739011,F25y,F25y.00,Other forms of epilepsy
+"Organic, including symptomatic, mental disorders",399408014,84757009,178739011,F25z,F25z.00,Epilepsy NOS
+"Organic, including symptomatic, mental disorders",3878491000006111,84757009,506215013,^ESCTEP387849,,Epileptic
+"Organic, including symptomatic, mental disorders",3878481000006113,84757009,189601011,^ESCTEP387848,,Epileptic disorder
+"Organic, including symptomatic, mental disorders",297330019,84757009,178739011,F25yz,F25yz00,Other forms of epilepsy NOS
+"Organic, including symptomatic, mental disorders",317081012,231439009,346898013,R0090,R009000,[D]Toxic confusional state
+"Organic, including symptomatic, mental disorders",122851000006118,191508007,294707018,E0310,E031000,"Subacute confusional state, post traumatic"
+"Organic, including symptomatic, mental disorders",4763461000006119,191508007,294707018,^ESCTSU476346,,"Subacute confusional state, post-traumatic"
+"Organic, including symptomatic, mental disorders",4763391000006117,191501001,294699017,^ESCTAC476339,,"Acute confusional state, post-traumatic"
+"Organic, including symptomatic, mental disorders",4550631000006111,162703005,2668089013,^ESCTON455063,,On examination - delirious
+"Organic, including symptomatic, mental disorders",294700016,191502008,294700016,E0301,E030100,"Acute confusional state, of infective origin"
+"Organic, including symptomatic, mental disorders",294708011,191509004,294708011,E0311,E031100,"Subacute confusional state, of infective origin"
+"Organic, including symptomatic, mental disorders",253593010,162703005,253593010,2233,2233.00,O/E - delirious
+"Organic, including symptomatic, mental disorders",294702012,191504009,294702012,E0303,E030300,"Acute confusional state, of metabolic origin"
+"Organic, including symptomatic, mental disorders",294709015,191510009,294709015,E0312,E031200,"Subacute confusional state, of endocrine origin"
+"Organic, including symptomatic, mental disorders",294710013,191511008,294710013,E0313,E031300,"Subacute confusional state, of metabolic origin"
+"Organic, including symptomatic, mental disorders",294711012,191512001,294711012,E0314,E031400,"Subacute confusional state, of cerebrovascular origin"
+"Organic, including symptomatic, mental disorders",346898013,231439009,346898013,E030-2,E030.12,Toxic confusional state
+"Organic, including symptomatic, mental disorders",294703019,191505005,294703019,E0304,E030400,"Acute confusional state, of cerebrovascular origin"
+"Organic, including symptomatic, mental disorders",456251000006115,191501001,294699017,E0300,E030000,"Acute confusional state, post traumatic"
+"Organic, including symptomatic, mental disorders",362221000006114,191502008,294700016,Eu04-3,Eu04.13,[X]Acute / subacute infective psychosis
+"Organic, including symptomatic, mental disorders",294701017,191503003,294701017,E0302,E030200,"Acute confusional state, of endocrine origin"
+"Organic, including symptomatic, mental disorders",42201000006113,45912004,76558013,E03y1,E03y100,Organic hallucinosis syndrome
+"Organic, including symptomatic, mental disorders",403991000006117,45912004,76558013,Eu050,Eu05000,[X]Organic hallucinosis
+"Organic, including symptomatic, mental disorders",294722011,191447007,294630015,E0y,E0y..00,Other specified organic psychoses
+"Organic, including symptomatic, mental disorders",294717011,191447007,294630015,E04,E04..00,Other chronic organic psychoses
+"Organic, including symptomatic, mental disorders",294721016,191447007,294630015,E04z,E04z.00,Chronic organic psychosis NOS
+"Organic, including symptomatic, mental disorders",294723018,191447007,294630015,E0z,E0z..00,Organic psychoses NOS
+"Organic, including symptomatic, mental disorders",42731000006112,191447007,294630015,E0,E0...00,Organic psychotic conditions
+"Organic, including symptomatic, mental disorders",294720015,191447007,294630015,E04y,E04y.00,Other specified chronic organic psychoses
+"Organic, including symptomatic, mental disorders",403951000006111,231442003,346901014,Eu051,Eu05100,[X]Organic catatonic disorder
+"Organic, including symptomatic, mental disorders",268257014,173269002,268257014,75050,7505000,Division of adhesions of lip
+"Organic, including symptomatic, mental disorders",5023431000006110,231442003,346901014,^ESCTOR502343,,Organic catatonic disorder
+"Organic, including symptomatic, mental disorders",425631000006118,5510009,10196013,Eu052-2,Eu05212,[X]Schizophrenia-like psychosis in epilepsy
+"Organic, including symptomatic, mental disorders",2587491000006110,5510009,1231416011,^ESCTPA258749,,Paranoid organic state
+"Organic, including symptomatic, mental disorders",1667581000000114,755301000000102,1667581000000114,Eu223,Eu22300,[X]Paranoid state in remission
+"Organic, including symptomatic, mental disorders",418191000006113,5510009,1231416011,Eu052-1,Eu05211,[X]Paranoid organic state
+"Organic, including symptomatic, mental disorders",8232521000006118,755301000000102,1662001000000113,^ESCTPA823252,,Paranoid state in remission
+"Organic, including symptomatic, mental disorders",42191000006110,5510009,10196013,E03y0,E03y000,Organic delusional syndrome
+"Organic, including symptomatic, mental disorders",403961000006113,5510009,10196013,Eu052,Eu05200,[X]Organic delusional [schizophrenia-like] disorder
+"Organic, including symptomatic, mental disorders",401865016,13746004,23447014,Eu31y,Eu31y00,[X]Other bipolar affective disorders
+"Organic, including symptomatic, mental disorders",401871010,35489007,59212011,Eu32y,Eu32y00,[X]Other depressive episodes
+"Organic, including symptomatic, mental disorders",401872015,35489007,486185019,Eu32z,Eu32z00,"[X]Depressive episode, unspecified"
+"Organic, including symptomatic, mental disorders",401877014,46206005,77054013,Eu3y0,Eu3y000,[X]Other single mood affective disorders
+"Organic, including symptomatic, mental disorders",401879012,46206005,77054013,Eu3z,Eu3z.00,[X]Unspecified mood affective disorder
+"Organic, including symptomatic, mental disorders",882311000006110,13746004,882311000006110,E11-99,E11..99,Manic-depressive psychoses
+"Organic, including symptomatic, mental disorders",146991000006115,90197008,149511010,75052,7505200,Shave of lip
+"Organic, including symptomatic, mental disorders",362781000006116,46206005,77054013,Eu3z-1,Eu3z.11,[X]Affective psychosis NOS
+"Organic, including symptomatic, mental disorders",3246481000006118,46206005,1494744014,^ESCTDI324648,,Disorder of affect
+"Organic, including symptomatic, mental disorders",367101000006112,13746004,2839307017,Eu31,Eu31.00,[X]Bipolar affective disorder
+"Organic, including symptomatic, mental disorders",376721000006114,35489007,486185019,Eu32,Eu32.00,[X]Depressive episode
+"Organic, including symptomatic, mental disorders",404011000006112,23645006,39698011,Eu053,Eu05300,[X]Organic mood [affective] disorders
+"Organic, including symptomatic, mental disorders",396071000006119,13746004,23447014,Eu31-3,Eu31.13,[X]Manic-depressive reaction
+"Organic, including symptomatic, mental disorders",398841000006119,35489007,59212011,Eu33z-1,Eu33z11,[X]Monopolar depression NOS
+"Organic, including symptomatic, mental disorders",398851000006117,46206005,1494743015,Eu3,Eu3..00,[X]Mood - affective disorders
+"Organic, including symptomatic, mental disorders",396791000006116,13746004,1221012010,Eu31-1,Eu31.11,[X]Manic-depressive illness
+"Organic, including symptomatic, mental disorders",396801000006115,13746004,1221011015,Eu31-2,Eu31.12,[X]Manic-depressive psychosis
+"Organic, including symptomatic, mental disorders",473201000006114,46206005,77054013,E11,E11..00,Affective psychoses
+"Organic, including symptomatic, mental disorders",513871000006118,13746004,23447014,E11-1,E11..11,Bipolar psychoses
+"Organic, including symptomatic, mental disorders",613791000006115,35489007,59212011,E11-2,E11..12,Depressive psychoses
+"Organic, including symptomatic, mental disorders",3071811000006110,35489007,2955505011,^ESCTMO307181,,Mood disorder of depressed type
+"Organic, including symptomatic, mental disorders",3071791000006111,35489007,486186018,^ESCTDE307179,,Depressive illness
+"Organic, including symptomatic, mental disorders",3447781000006113,58329000,96935014,^ESCTOR344778,,Organic mood disorder of manic type
+"Organic, including symptomatic, mental disorders",2877341000006116,23645006,481669010,^ESCTOR287734,,Organic affective disorder
+"Organic, including symptomatic, mental disorders",294892012,13746004,1221011015,E11y0,E11y000,Unspecified manic-depressive psychoses
+"Organic, including symptomatic, mental disorders",376691000006116,35489007,486184015,Eu32z-1,Eu32z11,[X]Depression NOS
+"Organic, including symptomatic, mental disorders",376711000006118,35489007,486185019,Eu32z-2,Eu32z12,[X]Depressive disorder NOS
+"Organic, including symptomatic, mental disorders",3966151000006113,90197008,149511010,^ESCTLI396615,,Lip shave
+"Organic, including symptomatic, mental disorders",2717981000006118,13746004,1221013017,^ESCTMD271798,,MDI - Manic-depressive illness
+"Organic, including symptomatic, mental disorders",3071801000006112,35489007,486187010,^ESCTDE307180,,Depressed
+"Organic, including symptomatic, mental disorders",1972091000006116,58329000,498143012,EMISICD10|F0630,,Organic manic disorder
+"Organic, including symptomatic, mental disorders",294888017,13746004,2839307017,E117z,E117z00,"Unspecified bipolar affective disorder, NOS"
+"Organic, including symptomatic, mental disorders",294891017,13746004,1221011015,E11y,E11y.00,Other and unspecified manic-depressive psychoses
+"Organic, including symptomatic, mental disorders",294897018,441704009,2817266014,E11z,E11z.00,Other and unspecified affective psychoses
+"Organic, including symptomatic, mental disorders",294898011,441704009,2817266014,E11z0,E11z000,Unspecified affective psychoses NOS
+"Organic, including symptomatic, mental disorders",294902017,441704009,2817266014,E11zz,E11zz00,Other affective psychosis NOS
+"Organic, including symptomatic, mental disorders",294880012,13746004,2839307017,E117,E117.00,Unspecified bipolar affective disorder
+"Organic, including symptomatic, mental disorders",294881011,13746004,2839307017,E1170,E117000,"Unspecified bipolar affective disorder, unspecified"
+"Organic, including symptomatic, mental disorders",295535012,35489007,59212011,E2B,E2B..00,Depressive disorder NEC
+"Organic, including symptomatic, mental disorders",296209016,46206005,77054013,Eu3y,Eu3y.00,[X]Other mood affective disorders
+"Organic, including symptomatic, mental disorders",296218019,46206005,77054013,Eu3yy,Eu3yy00,[X]Other specified mood affective disorders
+"Organic, including symptomatic, mental disorders",42181000006112,23645006,39698011,E03y2,E03y200,Organic affective syndrome
+"Organic, including symptomatic, mental disorders",294896010,13746004,1221011015,E11yz,E11yz00,Other and unspecified manic-depressive psychoses NOS
+"Organic, including symptomatic, mental disorders",296135011,13746004,2839307017,Eu31z,Eu31z00,"[X]Bipolar affective disorder, unspecified"
+"Organic, including symptomatic, mental disorders",12703831000006116,17496003,403931000006116,^ESCT1270383,,[X]Organic anxiety disorder
+"Organic, including symptomatic, mental disorders",403931000006116,17496003,29572018,Eu054,Eu05400,[X]Organic anxiety disorder
+"Organic, including symptomatic, mental disorders",2777721000006112,17496003,2777721000006112,^ESCTOR277772,,Organic anxiety disorder
+"Organic, including symptomatic, mental disorders",5023461000006118,231445001,346904018,^ESCTOR502346,,Organic dissociative disorder
+"Organic, including symptomatic, mental disorders",403971000006118,231445001,346904018,Eu055,Eu05500,[X]Organic dissociative disorder
+"Organic, including symptomatic, mental disorders",403981000006115,231446000,346905017,Eu056,Eu05600,[X]Organic emotionally labile [asthenic] disorder
+"Organic, including symptomatic, mental disorders",5023481000006111,231446000,346906016,^ESCTOR502348,,Organic asthenic disorder
+"Organic, including symptomatic, mental disorders",1222481019,386807006,1491799016,R00z0-1,R00z011,[D]Memory deficit
+"Organic, including symptomatic, mental disorders",215831000000117,386805003,1480925015,Eu057,Eu05700,[X]Mild cognitive disorder
+"Organic, including symptomatic, mental disorders",6462191000006113,386807006,1491805010,^ESCTBA646219,,Bad memory
+"Organic, including symptomatic, mental disorders",6462181000006110,386807006,1491804014,^ESCTPO646218,,Poor memory
+"Organic, including symptomatic, mental disorders",4547151000006111,162200009,252927017,^ESCTTE454715,,Temporary memory loss
+"Organic, including symptomatic, mental disorders",6462171000006112,386807006,1491803015,^ESCTME646217,,Memory problem
+"Organic, including symptomatic, mental disorders",6462161000006117,386807006,1491802013,^ESCTDY646216,,Dysmnesia
+"Organic, including symptomatic, mental disorders",6462201000006111,386807006,1491806011,^ESCTDI646220,,Disturbance of memory
+"Organic, including symptomatic, mental disorders",6462151000006119,386807006,1491801018,^ESCTIM646215,,Impaired memory
+"Organic, including symptomatic, mental disorders",6462141000006116,386807006,1491800017,^ESCTME646214,,Memory dysfunction
+"Organic, including symptomatic, mental disorders",1480927011,386807006,1480927011,1S23,1S23.00,Memory impairment
+"Organic, including symptomatic, mental disorders",2288201000000116,386805003,2956731015,28E0,28E0.00,Mild cognitive impairment
+"Organic, including symptomatic, mental disorders",252928010,162200009,252928010,1B1A0,1B1A000,Temporary loss of memory
+"Organic, including symptomatic, mental disorders",711371000006111,386807006,1480927011,1B1A-3,1B1A.13,Memory disturbance
+"Organic, including symptomatic, mental disorders",585791000006114,192069009,295520011,E2Az,E2Az.00,Nonpsychotic mental disorder post-organic brain damage NOS
+"Organic, including symptomatic, mental disorders",585801000006110,192069009,295520011,E2A,E2A..00,Nonpsychotic mental disorders following organic brain damage
+"Organic, including symptomatic, mental disorders",4766931000006114,192069009,2956721010,^ESCTNO476693,,Non-psychotic mental disorder after brain damage
+"Organic, including symptomatic, mental disorders",4766921000006111,192069009,2951825010,^ESCTNO476692,,Non-psychotic psychological disorder after brain damage
+"Organic, including symptomatic, mental disorders",1222267019,74732009,200482015,Euz-1,Euz..11,[X]Mental illness NOS
+"Organic, including symptomatic, mental disorders",9331000006113,74732009,124108014,E2y,E2y..00,Other specified neuroses or other mental disorders
+"Organic, including symptomatic, mental disorders",3714661000006116,74732009,502798011,^ESCTPS371466,,Psychiatric disorder
+"Organic, including symptomatic, mental disorders",675731000006112,74732009,124108014,E2z,E2z..00,Neuroses or other mental disorder NOS
+"Organic, including symptomatic, mental disorders",675921000006111,74732009,124108014,E2,E2...00,"Neurotic, personality and other nonpsychotic disorders"
+"Organic, including symptomatic, mental disorders",3714641000006115,74732009,200483013,^ESCTME371464,,Mental disease
+"Organic, including symptomatic, mental disorders",399981000006111,74732009,124108014,Eu4,Eu4..00,"[X]Neurotic, stress - related and somoform disorders"
+"Organic, including symptomatic, mental disorders",882341000006114,74732009,882341000006114,E2-99,E2...99,Other mental disorders
+"Organic, including symptomatic, mental disorders",295653010,74732009,124108014,E2G,E2G..00,Psychic factor with disease EC
+"Organic, including symptomatic, mental disorders",296765014,74732009,124108014,Euz,Euz..00,"[X]Mental disorder, not otherwise specified"
+"Organic, including symptomatic, mental disorders",296767018,74732009,124108014,Ez,Ez...00,Mental disorders NOS
+"Organic, including symptomatic, mental disorders",882751000006112,74732009,882751000006112,E2z-99,E2z..99,Other mental disorders NOS
+"Organic, including symptomatic, mental disorders",3714651000006119,74732009,502797018,^ESCTPS371465,,Psychiatric illness
+"Organic, including symptomatic, mental disorders",296766010,74732009,124108014,Ey,Ey...00,Other specified mental disorders
+"Organic, including symptomatic, mental disorders",698801000006112,74732009,502799015,E,E....00,Mental disorders
+"Organic, including symptomatic, mental disorders",296341013,74732009,124108014,Eu46,Eu46.00,[X]Other neurotic disorders
+"Organic, including symptomatic, mental disorders",401786010,33449004,55821010,E21yz,E21yz00,Other personality disorder NOS
+"Organic, including symptomatic, mental disorders",1222259010,33449004,55821010,Eu60z-1,Eu60z11,[X]Character neurosis NOS
+"Organic, including symptomatic, mental disorders",230091000006118,33449004,55821010,E21,E21..00,Personality disorders
+"Organic, including symptomatic, mental disorders",379511000006118,33449004,55821010,Eu60y-1,Eu60y11,[X]Eccentric personality disorder
+"Organic, including symptomatic, mental disorders",388391000006117,33449004,55821010,Eu60y-2,Eu60y12,[X]Haltlose type personality disorder
+"Organic, including symptomatic, mental disorders",389491000006116,33449004,55821010,Eu60y-3,Eu60y13,[X]Immature personality disorder
+"Organic, including symptomatic, mental disorders",404021000006116,36217008,60439011,Eu060,Eu06000,[X]Organic personality disorder
+"Organic, including symptomatic, mental disorders",395221000006119,36217008,60439011,Eu060-3,Eu06013,[X]Limbic epilepsy personality
+"Organic, including symptomatic, mental disorders",395281000006115,36217008,60439011,Eu060-4,Eu06014,[X]Lobotomy syndrome
+"Organic, including symptomatic, mental disorders",387771000006115,129606007,208416014,Eu060-2,Eu06012,[X]Frontal lobe syndrome
+"Organic, including symptomatic, mental disorders",418541000006110,33449004,55821010,Eu60y-5,Eu60y15,[X]Passive-aggressive personality disorder
+"Organic, including symptomatic, mental disorders",418571000006119,33449004,55821010,Eu60z-2,Eu60z12,[X]Pathological personality NOS
+"Organic, including symptomatic, mental disorders",423121000006110,36217008,60439011,Eu060-5,Eu06015,[X]Postleucotomy syndrome
+"Organic, including symptomatic, mental disorders",675911000006115,33449004,55821010,E21-1,E21..11,Neurotic personality disorder
+"Organic, including symptomatic, mental disorders",2669441000006119,10651001,18506014,^ESCTKL266944,,Kl+â-+ver-Bucy syndrome
+"Organic, including symptomatic, mental disorders",3083751000006114,36217008,2951804010,^ESCTOR308375,,Organic personality syndrome
+"Organic, including symptomatic, mental disorders",2669431000006112,10651001,18505013,^ESCTTE266943,,Temporal lobectomy behavior syndrome
+"Organic, including symptomatic, mental disorders",401787018,33449004,55821010,E21z,E21z.00,Personality disorder NOS
+"Organic, including symptomatic, mental disorders",18506014,10651001,1990021000006114,ESCTTE5-1,,Kluver-Bucy syndrome
+"Organic, including symptomatic, mental disorders",303482015,10651001,303482015,ESCTTE5,,Temporal lobectomy behaviour syndrome
+"Organic, including symptomatic, mental disorders",346917015,231453009,346917015,E2A0-1,E2A0.11,Lobotomy syndrome
+"Organic, including symptomatic, mental disorders",296460017,33449004,55821010,Eu60,Eu60.00,[X]Specific personality disorders
+"Organic, including symptomatic, mental disorders",296488011,33449004,55821010,Eu60z,Eu60z00,"[X]Personality disorder, unspecified"
+"Organic, including symptomatic, mental disorders",296489015,33449004,55821010,Eu61,Eu61.00,[X]Mixed and other personality disorders
+"Organic, including symptomatic, mental disorders",295528016,36217008,60439011,E2A1z,E2A1z00,Organic personality syndrome NOS
+"Organic, including symptomatic, mental disorders",346920011,231456001,346920011,E2A0-2,E2A0.12,Postleucotomy syndrome
+"Organic, including symptomatic, mental disorders",42241000006110,36217008,60439011,E2A1,E2A1.00,Organic personality syndrome
+"Organic, including symptomatic, mental disorders",404031000006118,36217008,60439011,Eu060-1,Eu06011,[X]Organic pseudopsychopathic personality
+"Organic, including symptomatic, mental disorders",675901000006118,33449004,55821010,E21y7-1,E21y711,Neurotic personality
+"Organic, including symptomatic, mental disorders",295077017,33449004,55821010,E21y,E21y.00,Other personality disorders
+"Organic, including symptomatic, mental disorders",208416014,129606007,208416014,E2A0,E2A0.00,Frontal lobe syndrome
+"Organic, including symptomatic, mental disorders",401898014,33449004,55821010,Eu60y,Eu60y00,[X]Other specific personality disorders
+"Organic, including symptomatic, mental disorders",423111000006119,40673001,67837015,Eu061,Eu06100,[X]Postencephalitic syndrome
+"Organic, including symptomatic, mental disorders",67837015,40673001,67837015,E2A3,E2A3.00,Post-encephalitic syndrome
+"Organic, including symptomatic, mental disorders",1229666017,40673001,1229666017,E2A3-1,E2A3.11,Post-encephalitis syndrome
+"Organic, including symptomatic, mental disorders",423101000006117,40425004,492619015,Eu062-1,Eu06211,[X]Postcontusional syndrome
+"Organic, including symptomatic, mental disorders",3150811000006112,40425004,492618011,^ESCTPO315081,,Post-contusional encephalopathy
+"Organic, including symptomatic, mental disorders",3150801000006114,40425004,492617018,^ESCTNO315080,,Nonpsychotic post-traumatic brain syndrome
+"Organic, including symptomatic, mental disorders",3150821000006116,40425004,492619015,^ESCTPO315082,,Post-contusional syndrome
+"Organic, including symptomatic, mental disorders",216991000006113,40425004,492616010,E2A2-2,E2A2.12,Post-head injury syndrome
+"Organic, including symptomatic, mental disorders",3150771000006112,40425004,67405010,^ESCTPO315077,,Postconcussion syndrome
+"Organic, including symptomatic, mental disorders",492615014,40425004,492615014,E2A2,E2A2.00,Post-concussion syndrome
+"Organic, including symptomatic, mental disorders",882661000006117,40425004,882661000006117,E2A2-99,E2A2.99,Post concussional syndrome
+"Organic, including symptomatic, mental disorders",345102013,40425004,492616010,E2A2-1,E2A2.11,Post-traumatic brain syndrome
+"Organic, including symptomatic, mental disorders",423061000006115,40425004,492616010,Eu062-2,Eu06212,[X]Post-traumatic brain syndrome
+"Organic, including symptomatic, mental disorders",423091000006111,40425004,492616010,Eu062,Eu06200,[X]Postconcussional syndrome
+"Organic, including symptomatic, mental disorders",5023441000006117,231443008,346902019,^ESCTRI502344,,Right hemispheric organic affective disorder
+"Organic, including symptomatic, mental disorders",1495055011,231443008,346902019,Eu06y-1,Eu06y11,[X]Right hemispheric organic affective disorder

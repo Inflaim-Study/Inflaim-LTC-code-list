@@ -1,0 +1,292 @@
+Condition,MedCode,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
+Cerebrovascular disease,809421000006116,275526006,2986886017,ZV125-1,ZV12511,History of cerebrovascular accident
+Cerebrovascular disease,809421000006116,275526006,2986886017,14A7,14A7.00,History of cerebrovascular accident
+Cerebrovascular disease,809421000006116,275526006,2986886017,14A7-1,14A7.11,History of cerebrovascular accident
+Cerebrovascular disease,809421000006116,275526006,2986886017,14A7-2,14A7.12,History of cerebrovascular accident
+Cerebrovascular disease,411518010,275526006,411518010,ZV125-1,ZV12511,H/O: CVA
+Cerebrovascular disease,411518010,275526006,411518010,14A7,14A7.00,H/O: CVA
+Cerebrovascular disease,411518010,275526006,411518010,14A7-1,14A7.11,H/O: CVA
+Cerebrovascular disease,411518010,275526006,411518010,14A7-2,14A7.12,H/O: CVA
+Cerebrovascular disease,2476091017,275526006,2476091017,ZV125-1,ZV12511,H/O: stroke
+Cerebrovascular disease,2476091017,275526006,2476091017,14A7,14A7.00,H/O: stroke
+Cerebrovascular disease,2476091017,275526006,2476091017,14A7-1,14A7.11,H/O: stroke
+Cerebrovascular disease,2476091017,275526006,2476091017,14A7-2,14A7.12,H/O: stroke
+Cerebrovascular disease,251692018,161511000,251692018,14AB,14AB.00,H/O: TIA
+Cerebrovascular disease,251692018,161511000,251692018,^ESCTHI454059,,H/O: TIA
+Cerebrovascular disease,2171081000000116,13016361000119100,2713751000000114,^ESCTHI957729,,H/O amaurosis fugax
+Cerebrovascular disease,2171081000000116,13016361000119100,2713751000000114,14AB0,14AB000,H/O amaurosis fugax
+Cerebrovascular disease,451371010,308067002,451371010,^ESCTHI597452,,H/O: Stroke in last year
+Cerebrovascular disease,451371010,308067002,451371010,14AK,14AK.00,H/O: Stroke in last year
+Cerebrovascular disease,345718011,230736007,345718011,G655,G655.00,Transient global amnesia
+Cerebrovascular disease,345718011,230736007,345718011,^ESCTTG501184,,Transient global amnesia
+Cerebrovascular disease,345718011,230736007,345718011,1B1S,1B1S.00,Transient global amnesia
+Cerebrovascular disease,413750011,277286006,413750011,^ESCTCP559704,,Central post-stroke pain
+Cerebrovascular disease,413750011,277286006,413750011,1M4,1M4..00,Central post-stroke pain
+Cerebrovascular disease,2118011000000114,812041000000104,2118011000000114,661M7,661M700,Stroke self-management plan agreed
+Cerebrovascular disease,2115821000000118,810991000000109,2115821000000118,661N7,661N700,Stroke self-management plan review
+Cerebrovascular disease,1780304018,699270006,2983515011,^ESCTCE751944,,CVA annual review
+Cerebrovascular disease,1780304018,699270006,2983515011,662e,662e.00,CVA annual review
+Cerebrovascular disease,1780304018,699270006,2983515011,662e-1,662e.11,CVA annual review
+Cerebrovascular disease,2126181000000114,699270006,2983500010,^ESCTCE751944,,Stroke annual review
+Cerebrovascular disease,2126181000000114,699270006,2983500010,662e,662e.00,Stroke annual review
+Cerebrovascular disease,2126181000000114,699270006,2983500010,662e-1,662e.11,Stroke annual review
+Cerebrovascular disease,264499015,170600009,264499015,662M,662M.00,Stroke monitoring
+Cerebrovascular disease,1160471000000111,519751000000106,1160471000000111,^ESCTCE819542,,Stroke 6 month review
+Cerebrovascular disease,1160471000000111,519751000000106,1160471000000111,^ESCTST819543,,Stroke 6 month review
+Cerebrovascular disease,1160471000000111,519751000000106,1160471000000111,662M1,662M100,Stroke 6 month review
+Cerebrovascular disease,2127781000000110,816561000000108,2127781000000110,662M2,662M200,Stroke initial post discharge review
+Cerebrovascular disease,371641000000112,231231000000107,371641000000112,7P242,7P24200,Delivery of rehabilitation for stroke
+Cerebrovascular disease,1148331000000111,736288002,3517033016,8CRB,8CRB.00,Transient ischaemic attack clinical management plan
+Cerebrovascular disease,1148331000000111,736288002,3517033016,^ESCT1166521,,Transient ischaemic attack clinical management plan
+Cerebrovascular disease,966981000006112,112901000000108,199461000000113,8HHM,8HHM.00,Referral to multidisciplinary stroke function improvement service
+Cerebrovascular disease,1784651000006110,781731000000103,1747751000000110,8IEC,8IEC.00,Referral for multidisciplinary stroke function improvement declined
+Cerebrovascular disease,138981000000113,716331000000108,1568881000000119,9h2,9h2..00,Exception reporting - stroke quality indicators
+Cerebrovascular disease,139081000000117,716581000000101,1569131000000118,9h21,9h21.00,Excepted from stroke quality indicators - patient unsuitable
+Cerebrovascular disease,139091000000115,716021000000109,1568581000000116,9h22,9h22.00,Excepted from stroke quality indicators - informed dissent
+Cerebrovascular disease,145925010,88032003,145925010,^ESCTAM393050,,Amaurosis fugax
+Cerebrovascular disease,145925010,88032003,145925010,^ESCTTR393049,,Amaurosis fugax
+Cerebrovascular disease,145925010,88032003,145925010,^ESCTAF393047,,Amaurosis fugax
+Cerebrovascular disease,145925010,88032003,145925010,^ESCTMO393046,,Amaurosis fugax
+Cerebrovascular disease,145925010,88032003,145925010,F4236,F423600,Amaurosis fugax
+Cerebrovascular disease,145925010,88032003,145925010,^ESCTAF393048,,Amaurosis fugax
+Cerebrovascular disease,416991000006112,266257000,395788015,G65y,G65y.00,Transient cerebral ischemia
+Cerebrovascular disease,416991000006112,266257000,395788015,Fyu55,Fyu5500,Transient cerebral ischemia
+Cerebrovascular disease,416991000006112,266257000,395788015,G65z,G65z.00,Transient cerebral ischemia
+Cerebrovascular disease,416991000006112,266257000,395788015,^ESCTTI549220,,Transient cerebral ischemia
+Cerebrovascular disease,416991000006112,266257000,395788015,^ESCTTE549218,,Transient cerebral ischemia
+Cerebrovascular disease,416991000006112,266257000,395788015,^ESCTTR549222,,Transient cerebral ischemia
+Cerebrovascular disease,416991000006112,266257000,395788015,G65-2,G65..12,Transient cerebral ischemia
+Cerebrovascular disease,416991000006112,266257000,395788015,G65,G65..00,Transient cerebral ischemia
+Cerebrovascular disease,416991000006112,266257000,395788015,^ESCT1192012,,Transient cerebral ischemia
+Cerebrovascular disease,416991000006112,266257000,395788015,G65zz,G65zz00,Transient cerebral ischemia
+Cerebrovascular disease,416991000006112,266257000,395788015,^ESCTTI549217,,Transient cerebral ischemia
+Cerebrovascular disease,416991000006112,266257000,395788015,G65-99,G65..99,Transient cerebral ischemia
+Cerebrovascular disease,299342019,230698000,345651012,Fyu56,Fyu5600,Lacunar infarction
+Cerebrovascular disease,299342019,230698000,345651012,^ESCTLA501116,,Lacunar infarction
+Cerebrovascular disease,299342019,230698000,345651012,^ESCTLA501117,,Lacunar infarction
+Cerebrovascular disease,299342019,230698000,345651012,^ESCTLI501118,,Lacunar infarction
+Cerebrovascular disease,345639010,230692004,345639010,G63-1,G63..11,Infarction - precerebral
+Cerebrovascular disease,300312010,195185009,300312010,G63y0,G63y000,Cerebral infarct due to thrombosis of precerebral arteries
+Cerebrovascular disease,300313017,195186005,300313017,G63y1,G63y100,Cerebral infarction due to embolism of precerebral arteries
+Cerebrovascular disease,1222398015,20059004,1222398015,^ESCTOC281882,,Cerebral arterial occlusion
+Cerebrovascular disease,1222398015,20059004,1222398015,Gyu63,Gyu6300,Cerebral arterial occlusion
+Cerebrovascular disease,1222398015,20059004,1222398015,G6X,G6X..00,Cerebral arterial occlusion
+Cerebrovascular disease,1222398015,20059004,1222398015,G64,G64..00,Cerebral arterial occlusion
+Cerebrovascular disease,1222398015,20059004,1222398015,Gyu66,Gyu6600,Cerebral arterial occlusion
+Cerebrovascular disease,605461000006117,230691006,345638019,^ESCT1187851,,CVA - cerebrovascular accident due to cerebral artery occlusion
+Cerebrovascular disease,605461000006117,230691006,345638019,^ESCTCE501102,,CVA - cerebrovascular accident due to cerebral artery occlusion
+Cerebrovascular disease,605461000006117,230691006,345638019,G64-3,G64..13,CVA - cerebrovascular accident due to cerebral artery occlusion
+Cerebrovascular disease,605461000006117,230691006,345638019,G64-1,G64..11,CVA - cerebrovascular accident due to cerebral artery occlusion
+Cerebrovascular disease,218511000000117,432504007,2770034014,G64z,G64z.00,Infarction - cerebral
+Cerebrovascular disease,218511000000117,432504007,2770034014,G64-2,G64..12,Infarction - cerebral
+Cerebrovascular disease,218511000000117,432504007,2770034014,Gyu64,Gyu6400,Infarction - cerebral
+Cerebrovascular disease,122361000006113,230691006,345638019,^ESCT1187851,,Stroke due to cerebral arterial occlusion
+Cerebrovascular disease,122361000006113,230691006,345638019,^ESCTCE501102,,Stroke due to cerebral arterial occlusion
+Cerebrovascular disease,122361000006113,230691006,345638019,G64-3,G64..13,Stroke due to cerebral arterial occlusion
+Cerebrovascular disease,122361000006113,230691006,345638019,G64-1,G64..11,Stroke due to cerebral arterial occlusion
+Cerebrovascular disease,118689010,71444005,118689010,^ESCTCE366232,,Cerebral thrombosis
+Cerebrovascular disease,118689010,71444005,118689010,^ESCTTH366231,,Cerebral thrombosis
+Cerebrovascular disease,118689010,71444005,118689010,^ESCTCT366233,,Cerebral thrombosis
+Cerebrovascular disease,118689010,71444005,118689010,G640,G640.00,Cerebral thrombosis
+Cerebrovascular disease,300321011,195189003,300321011,G6400,G640000,Cerebral infarction due to thrombosis of cerebral arteries
+Cerebrovascular disease,125470015,75543006,125470015,G641-1,G641.11,Cerebral embolism
+Cerebrovascular disease,125470015,75543006,125470015,^ESCTCE372845,,Cerebral embolism
+Cerebrovascular disease,125470015,75543006,125470015,G641,G641.00,Cerebral embolism
+Cerebrovascular disease,542831000006116,75543006,125470015,G641-1,G641.11,Cerebral embolus
+Cerebrovascular disease,542831000006116,75543006,125470015,^ESCTCE372845,,Cerebral embolus
+Cerebrovascular disease,542831000006116,75543006,125470015,G641,G641.00,Cerebral embolus
+Cerebrovascular disease,300322016,195190007,300322016,G6410,G641000,Cerebral infarction due to embolism of cerebral arteries
+Cerebrovascular disease,395780010,432504007,2770034014,G64z,G64z.00,Cerebral infarction
+Cerebrovascular disease,395780010,432504007,2770034014,G64-2,G64..12,Cerebral infarction
+Cerebrovascular disease,395780010,432504007,2770034014,Gyu64,Gyu6400,Cerebral infarction
+Cerebrovascular disease,345650013,95457000,158113017,G64z-1,G64z.11,Brainstem infarction NOS
+Cerebrovascular disease,345650013,95457000,158113017,^ESCTIN405705,,Brainstem infarction NOS
+Cerebrovascular disease,345650013,95457000,158113017,^ESCTBR405704,,Brainstem infarction NOS
+Cerebrovascular disease,345650013,95457000,158113017,G64z0,G64z000,Brainstem infarction NOS
+Cerebrovascular disease,345650013,95457000,158113017,^ESCTBR405703,,Brainstem infarction NOS
+Cerebrovascular disease,158118014,95460007,158118014,G64z-2,G64z.12,Cerebellar infarction
+Cerebrovascular disease,524541000006117,95457000,158113017,G64z-1,G64z.11,Brain stem infarction
+Cerebrovascular disease,524541000006117,95457000,158113017,^ESCTIN405705,,Brain stem infarction
+Cerebrovascular disease,524541000006117,95457000,158113017,^ESCTBR405704,,Brain stem infarction
+Cerebrovascular disease,524541000006117,95457000,158113017,G64z0,G64z000,Brain stem infarction
+Cerebrovascular disease,524541000006117,95457000,158113017,^ESCTBR405703,,Brain stem infarction
+Cerebrovascular disease,57341000006119,78569004,130374019,G64z1,G64z100,Wallenberg's syndrome
+Cerebrovascular disease,57341000006119,78569004,130374019,^ESCTLM377802,,Wallenberg's syndrome
+Cerebrovascular disease,57341000006119,78569004,130374019,^ESCTPO377798,,Wallenberg's syndrome
+Cerebrovascular disease,57341000006119,78569004,130374019,G64z1-1,G64z111,Wallenberg's syndrome
+Cerebrovascular disease,57341000006119,78569004,130374019,^ESCTIN377801,,Wallenberg's syndrome
+Cerebrovascular disease,130375018,78569004,130375018,G64z1,G64z100,Lateral medullary syndrome
+Cerebrovascular disease,130375018,78569004,130375018,^ESCTLM377802,,Lateral medullary syndrome
+Cerebrovascular disease,130375018,78569004,130375018,^ESCTPO377798,,Lateral medullary syndrome
+Cerebrovascular disease,130375018,78569004,130375018,G64z1-1,G64z111,Lateral medullary syndrome
+Cerebrovascular disease,130375018,78569004,130375018,^ESCTIN377801,,Lateral medullary syndrome
+Cerebrovascular disease,451133011,307766002,451133011,G64z2,G64z200,Left sided cerebral infarction
+Cerebrovascular disease,451134017,307767006,451134017,G64z3,G64z300,Right sided cerebral infarction
+Cerebrovascular disease,2474651019,413102000,2474651019,^ESCTBA683706,,Infarction of basal ganglia
+Cerebrovascular disease,2474651019,413102000,2474651019,^ESCTBA683705,,Infarction of basal ganglia
+Cerebrovascular disease,2474651019,413102000,2474651019,G64z4,G64z400,Infarction of basal ganglia
+Cerebrovascular disease,395788015,266257000,395788015,G65y,G65y.00,Transient cerebral ischaemia
+Cerebrovascular disease,395788015,266257000,395788015,Fyu55,Fyu5500,Transient cerebral ischaemia
+Cerebrovascular disease,395788015,266257000,395788015,G65z,G65z.00,Transient cerebral ischaemia
+Cerebrovascular disease,395788015,266257000,395788015,^ESCTTI549220,,Transient cerebral ischaemia
+Cerebrovascular disease,395788015,266257000,395788015,^ESCTTE549218,,Transient cerebral ischaemia
+Cerebrovascular disease,395788015,266257000,395788015,^ESCTTR549222,,Transient cerebral ischaemia
+Cerebrovascular disease,395788015,266257000,395788015,G65-2,G65..12,Transient cerebral ischaemia
+Cerebrovascular disease,395788015,266257000,395788015,G65,G65..00,Transient cerebral ischaemia
+Cerebrovascular disease,395788015,266257000,395788015,^ESCT1192012,,Transient cerebral ischaemia
+Cerebrovascular disease,395788015,266257000,395788015,G65zz,G65zz00,Transient cerebral ischaemia
+Cerebrovascular disease,395788015,266257000,395788015,^ESCTTI549217,,Transient cerebral ischaemia
+Cerebrovascular disease,395788015,266257000,395788015,G65-99,G65..99,Transient cerebral ischaemia
+Cerebrovascular disease,395783012,266257000,395783012,G65y,G65y.00,Transient ischaemic attack
+Cerebrovascular disease,395783012,266257000,395783012,Fyu55,Fyu5500,Transient ischaemic attack
+Cerebrovascular disease,395783012,266257000,395783012,G65z,G65z.00,Transient ischaemic attack
+Cerebrovascular disease,395783012,266257000,395783012,^ESCTTI549220,,Transient ischaemic attack
+Cerebrovascular disease,395783012,266257000,395783012,^ESCTTE549218,,Transient ischaemic attack
+Cerebrovascular disease,395783012,266257000,395783012,^ESCTTR549222,,Transient ischaemic attack
+Cerebrovascular disease,395783012,266257000,395783012,G65-2,G65..12,Transient ischaemic attack
+Cerebrovascular disease,395783012,266257000,395783012,G65,G65..00,Transient ischaemic attack
+Cerebrovascular disease,395783012,266257000,395783012,^ESCT1192012,,Transient ischaemic attack
+Cerebrovascular disease,395783012,266257000,395783012,G65zz,G65zz00,Transient ischaemic attack
+Cerebrovascular disease,395783012,266257000,395783012,^ESCTTI549217,,Transient ischaemic attack
+Cerebrovascular disease,395783012,266257000,395783012,G65-99,G65..99,Transient ischaemic attack
+Cerebrovascular disease,67511000006117,64009001,106394016,G65-3,G65..13,Vertebro-basilar insufficiency
+Cerebrovascular disease,67511000006117,64009001,106394016,^ESCTVE354078,,Vertebro-basilar insufficiency
+Cerebrovascular disease,67511000006117,64009001,106394016,G650,G650.00,Vertebro-basilar insufficiency
+Cerebrovascular disease,67511000006117,64009001,106394016,G656,G656.00,Vertebro-basilar insufficiency
+Cerebrovascular disease,67511000006117,64009001,106394016,G650-1,G650.11,Vertebro-basilar insufficiency
+Cerebrovascular disease,499739014,64009001,499739014,G65-3,G65..13,Insufficiency - basilar artery
+Cerebrovascular disease,499739014,64009001,499739014,^ESCTVE354078,,Insufficiency - basilar artery
+Cerebrovascular disease,499739014,64009001,499739014,G650,G650.00,Insufficiency - basilar artery
+Cerebrovascular disease,499739014,64009001,499739014,G656,G656.00,Insufficiency - basilar artery
+Cerebrovascular disease,499739014,64009001,499739014,G650-1,G650.11,Insufficiency - basilar artery
+Cerebrovascular disease,95961000006119,230736007,345718011,G655,G655.00,Transient global amnesia
+Cerebrovascular disease,95961000006119,230736007,345718011,^ESCTTG501184,,Transient global amnesia
+Cerebrovascular disease,95961000006119,230736007,345718011,1B1S,1B1S.00,Transient global amnesia
+Cerebrovascular disease,106394016,64009001,106394016,G65-3,G65..13,Vertebrobasilar insufficiency
+Cerebrovascular disease,106394016,64009001,106394016,^ESCTVE354078,,Vertebrobasilar insufficiency
+Cerebrovascular disease,106394016,64009001,106394016,G650,G650.00,Vertebrobasilar insufficiency
+Cerebrovascular disease,106394016,64009001,106394016,G656,G656.00,Vertebrobasilar insufficiency
+Cerebrovascular disease,106394016,64009001,106394016,G650-1,G650.11,Vertebrobasilar insufficiency
+Cerebrovascular disease,345684012,230716006,345684012,^ESCTAN501150,,Carotid territory transient ischaemic attack
+Cerebrovascular disease,345684012,230716006,345684012,^ESCTCA501151,,Carotid territory transient ischaemic attack
+Cerebrovascular disease,345684012,230716006,345684012,^ESCTAN501149,,Carotid territory transient ischaemic attack
+Cerebrovascular disease,345684012,230716006,345684012,G657,G657.00,Carotid territory transient ischaemic attack
+Cerebrovascular disease,300348012,266257000,395788015,G65y,G65y.00,Other transient cerebral ischaemia
+Cerebrovascular disease,300348012,266257000,395788015,Fyu55,Fyu5500,Other transient cerebral ischaemia
+Cerebrovascular disease,300348012,266257000,395788015,G65z,G65z.00,Other transient cerebral ischaemia
+Cerebrovascular disease,300348012,266257000,395788015,^ESCTTI549220,,Other transient cerebral ischaemia
+Cerebrovascular disease,300348012,266257000,395788015,^ESCTTE549218,,Other transient cerebral ischaemia
+Cerebrovascular disease,300348012,266257000,395788015,^ESCTTR549222,,Other transient cerebral ischaemia
+Cerebrovascular disease,300348012,266257000,395788015,G65-2,G65..12,Other transient cerebral ischaemia
+Cerebrovascular disease,300348012,266257000,395788015,G65,G65..00,Other transient cerebral ischaemia
+Cerebrovascular disease,300348012,266257000,395788015,^ESCT1192012,,Other transient cerebral ischaemia
+Cerebrovascular disease,300348012,266257000,395788015,G65zz,G65zz00,Other transient cerebral ischaemia
+Cerebrovascular disease,300348012,266257000,395788015,^ESCTTI549217,,Other transient cerebral ischaemia
+Cerebrovascular disease,300348012,266257000,395788015,G65-99,G65..99,Other transient cerebral ischaemia
+Cerebrovascular disease,95931000006111,266257000,395788015,G65y,G65y.00,Transient cerebral ischaemia NOS
+Cerebrovascular disease,95931000006111,266257000,395788015,Fyu55,Fyu5500,Transient cerebral ischaemia NOS
+Cerebrovascular disease,95931000006111,266257000,395788015,G65z,G65z.00,Transient cerebral ischaemia NOS
+Cerebrovascular disease,95931000006111,266257000,395788015,^ESCTTI549220,,Transient cerebral ischaemia NOS
+Cerebrovascular disease,95931000006111,266257000,395788015,^ESCTTE549218,,Transient cerebral ischaemia NOS
+Cerebrovascular disease,95931000006111,266257000,395788015,^ESCTTR549222,,Transient cerebral ischaemia NOS
+Cerebrovascular disease,95931000006111,266257000,395788015,G65-2,G65..12,Transient cerebral ischaemia NOS
+Cerebrovascular disease,95931000006111,266257000,395788015,G65,G65..00,Transient cerebral ischaemia NOS
+Cerebrovascular disease,95931000006111,266257000,395788015,^ESCT1192012,,Transient cerebral ischaemia NOS
+Cerebrovascular disease,95931000006111,266257000,395788015,G65zz,G65zz00,Transient cerebral ischaemia NOS
+Cerebrovascular disease,95931000006111,266257000,395788015,^ESCTTI549217,,Transient cerebral ischaemia NOS
+Cerebrovascular disease,95931000006111,266257000,395788015,G65-99,G65..99,Transient cerebral ischaemia NOS
+Cerebrovascular disease,300353019,195206000,300353019,G65z1,G65z100,Intermittent cerebral ischaemia
+Cerebrovascular disease,300353019,195206000,300353019,^ESCTIN477812,,Intermittent cerebral ischaemia
+Cerebrovascular disease,300349016,266257000,395788015,G65y,G65y.00,Transient cerebral ischaemia NOS
+Cerebrovascular disease,300349016,266257000,395788015,Fyu55,Fyu5500,Transient cerebral ischaemia NOS
+Cerebrovascular disease,300349016,266257000,395788015,G65z,G65z.00,Transient cerebral ischaemia NOS
+Cerebrovascular disease,300349016,266257000,395788015,^ESCTTI549220,,Transient cerebral ischaemia NOS
+Cerebrovascular disease,300349016,266257000,395788015,^ESCTTE549218,,Transient cerebral ischaemia NOS
+Cerebrovascular disease,300349016,266257000,395788015,^ESCTTR549222,,Transient cerebral ischaemia NOS
+Cerebrovascular disease,300349016,266257000,395788015,G65-2,G65..12,Transient cerebral ischaemia NOS
+Cerebrovascular disease,300349016,266257000,395788015,G65,G65..00,Transient cerebral ischaemia NOS
+Cerebrovascular disease,300349016,266257000,395788015,^ESCT1192012,,Transient cerebral ischaemia NOS
+Cerebrovascular disease,300349016,266257000,395788015,G65zz,G65zz00,Transient cerebral ischaemia NOS
+Cerebrovascular disease,300349016,266257000,395788015,^ESCTTI549217,,Transient cerebral ischaemia NOS
+Cerebrovascular disease,300349016,266257000,395788015,G65-99,G65..99,Transient cerebral ischaemia NOS
+Cerebrovascular disease,405339016,230690007,345637012,G66,G66..00,Cerebrovascular accident
+Cerebrovascular disease,405339016,230690007,345637012,G66-3,G66..13,Cerebrovascular accident
+Cerebrovascular disease,405339016,230690007,345637012,G66-2,G66..12,Cerebrovascular accident
+Cerebrovascular disease,405339016,230690007,345637012,^ESCTST501098,,Cerebrovascular accident
+Cerebrovascular disease,405339016,230690007,345637012,G66-1,G66..11,Cerebrovascular accident
+Cerebrovascular disease,605501000006117,230690007,345637012,G66,G66..00,CVA unspecified
+Cerebrovascular disease,605501000006117,230690007,345637012,G66-3,G66..13,CVA unspecified
+Cerebrovascular disease,605501000006117,230690007,345637012,G66-2,G66..12,CVA unspecified
+Cerebrovascular disease,605501000006117,230690007,345637012,^ESCTST501098,,CVA unspecified
+Cerebrovascular disease,605501000006117,230690007,345637012,G66-1,G66..11,CVA unspecified
+Cerebrovascular disease,122401000006115,230690007,345637012,G66,G66..00,Stroke unspecified
+Cerebrovascular disease,122401000006115,230690007,345637012,G66-3,G66..13,Stroke unspecified
+Cerebrovascular disease,122401000006115,230690007,345637012,G66-2,G66..12,Stroke unspecified
+Cerebrovascular disease,122401000006115,230690007,345637012,^ESCTST501098,,Stroke unspecified
+Cerebrovascular disease,122401000006115,230690007,345637012,G66-1,G66..11,Stroke unspecified
+Cerebrovascular disease,605491000006113,230690007,345635016,G66,G66..00,CVA - Cerebrovascular accident
+Cerebrovascular disease,605491000006113,230690007,345635016,G66-3,G66..13,CVA - Cerebrovascular accident
+Cerebrovascular disease,605491000006113,230690007,345635016,G66-2,G66..12,CVA - Cerebrovascular accident
+Cerebrovascular disease,605491000006113,230690007,345635016,^ESCTST501098,,CVA - Cerebrovascular accident
+Cerebrovascular disease,605491000006113,230690007,345635016,G66-1,G66..11,CVA - Cerebrovascular accident
+Cerebrovascular disease,524511000006116,195212005,300365015,G663,G663.00,Brainstem stroke syndrome
+Cerebrovascular disease,300366019,195213000,300366019,G664,G664.00,Cerebellar stroke syndrome
+Cerebrovascular disease,345655015,230699008,345655015,G665,G665.00,Pure motor lacunar syndrome
+Cerebrovascular disease,345655015,230699008,345655015,^ESCTPU501119,,Pure motor lacunar syndrome
+Cerebrovascular disease,345658018,230700009,345658018,G666,G666.00,Pure sensory lacunar syndrome
+Cerebrovascular disease,345658018,230700009,345658018,^ESCTPU501121,,Pure sensory lacunar syndrome
+Cerebrovascular disease,300370010,195216008,300370010,^ESCTLE477818,,Left sided CVA
+Cerebrovascular disease,300370010,195216008,300370010,G667,G667.00,Left sided CVA
+Cerebrovascular disease,300371014,195217004,300371014,^ESCTRI477820,,Right sided CVA
+Cerebrovascular disease,300371014,195217004,300371014,G668,G668.00,Right sided CVA
+Cerebrovascular disease,300411016,195243003,300411016,G683,G683.00,Sequelae of cerebral infarction
+Cerebrovascular disease,149571000006118,195239002,300403014,G68W,G68W.00,"Sequelae of stroke,not specfd as h'morrhage or infarction"
+Cerebrovascular disease,149571000006118,195239002,300403014,G68X,G68X.00,"Sequelae of stroke,not specfd as h'morrhage or infarction"
+Cerebrovascular disease,149571000006118,195239002,300403014,Gyu6C,Gyu6C00,"Sequelae of stroke,not specfd as h'morrhage or infarction"
+Cerebrovascular disease,149571000006118,195239002,300403014,G68,G68..00,"Sequelae of stroke,not specfd as h'morrhage or infarction"
+Cerebrovascular disease,149571000006118,195239002,300403014,G68-99,G68..99,"Sequelae of stroke,not specfd as h'morrhage or infarction"
+Cerebrovascular disease,149571000006118,195239002,300403014,Gyu6D,Gyu6D00,"Sequelae of stroke,not specfd as h'morrhage or infarction"
+Cerebrovascular disease,149571000006118,195239002,300403014,^ESCTSE477831,,"Sequelae of stroke,not specfd as h'morrhage or infarction"
+Cerebrovascular disease,542261000006114,125081000119106,3042974014,Gyu6G,Gyu6G00,Cerebral infarction due to occlusion of precerebral artery
+Cerebrovascular disease,542261000006114,125081000119106,3042974014,G6W,G6W..00,Cerebral infarction due to occlusion of precerebral artery
+Cerebrovascular disease,543141000006110,20059004,33759015,^ESCTOC281882,,Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+Cerebrovascular disease,543141000006110,20059004,33759015,Gyu63,Gyu6300,Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+Cerebrovascular disease,543141000006110,20059004,33759015,G6X,G6X..00,Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+Cerebrovascular disease,543141000006110,20059004,33759015,G64,G64..00,Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+Cerebrovascular disease,543141000006110,20059004,33759015,Gyu66,Gyu6600,Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+Cerebrovascular disease,370701000006118,20059004,33759015,^ESCTOC281882,,[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+Cerebrovascular disease,370701000006118,20059004,33759015,Gyu63,Gyu6300,[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+Cerebrovascular disease,370701000006118,20059004,33759015,G6X,G6X..00,[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+Cerebrovascular disease,370701000006118,20059004,33759015,G64,G64..00,[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+Cerebrovascular disease,370701000006118,20059004,33759015,Gyu66,Gyu6600,[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+Cerebrovascular disease,300941014,432504007,2770034014,G64z,G64z.00,[X]Other cerebral infarction
+Cerebrovascular disease,300941014,432504007,2770034014,G64-2,G64..12,[X]Other cerebral infarction
+Cerebrovascular disease,300941014,432504007,2770034014,Gyu64,Gyu6400,[X]Other cerebral infarction
+Cerebrovascular disease,426321000006116,195239002,300403014,G68W,G68W.00,"[X]Sequelae of stroke,not specfd as h'morrhage or infarction"
+Cerebrovascular disease,426321000006116,195239002,300403014,G68X,G68X.00,"[X]Sequelae of stroke,not specfd as h'morrhage or infarction"
+Cerebrovascular disease,426321000006116,195239002,300403014,Gyu6C,Gyu6C00,"[X]Sequelae of stroke,not specfd as h'morrhage or infarction"
+Cerebrovascular disease,426321000006116,195239002,300403014,G68,G68..00,"[X]Sequelae of stroke,not specfd as h'morrhage or infarction"
+Cerebrovascular disease,426321000006116,195239002,300403014,G68-99,G68..99,"[X]Sequelae of stroke,not specfd as h'morrhage or infarction"
+Cerebrovascular disease,426321000006116,195239002,300403014,Gyu6D,Gyu6D00,"[X]Sequelae of stroke,not specfd as h'morrhage or infarction"
+Cerebrovascular disease,426321000006116,195239002,300403014,^ESCTSE477831,,"[X]Sequelae of stroke,not specfd as h'morrhage or infarction"
+Cerebrovascular disease,370661000006114,125081000119106,3042974014,Gyu6G,Gyu6G00,[X]Cereb infarct due unsp occlus/stenos precerebr arteries
+Cerebrovascular disease,370661000006114,125081000119106,3042974014,G6W,G6W..00,[X]Cereb infarct due unsp occlus/stenos precerebr arteries
+Cerebrovascular disease,605481000006110,275434003,411416011,L440-1,L440.11,CVA - cerebrovascular accident in the puerperium
+Cerebrovascular disease,605481000006110,275434003,411416011,L440-2,L440.12,CVA - cerebrovascular accident in the puerperium
+Cerebrovascular disease,411416011,275434003,411416011,L440-1,L440.11,Stroke in the puerperium
+Cerebrovascular disease,411416011,275434003,411416011,L440-2,L440.12,Stroke in the puerperium
+Cerebrovascular disease,5011841000006110,230736007,345719015,G655,G655.00,TGA - Transient global amnesia
+Cerebrovascular disease,5011841000006110,230736007,345719015,^ESCTTG501184,,TGA - Transient global amnesia
+Cerebrovascular disease,5011841000006110,230736007,345719015,1B1S,1B1S.00,TGA - Transient global amnesia
+Cerebrovascular disease,1227591017,275526006,2476091017,ZV125-1,ZV12511,[V]Personal history of stroke
+Cerebrovascular disease,1227591017,275526006,2476091017,14A7,14A7.00,[V]Personal history of stroke
+Cerebrovascular disease,1227591017,275526006,2476091017,14A7-1,14A7.11,[V]Personal history of stroke
+Cerebrovascular disease,1227591017,275526006,2476091017,14A7-2,14A7.12,[V]Personal history of stroke
+Cerebrovascular disease,1227592012,266995000,397829016,ZV125,ZV12500,[V]Personal history of cerebrovascular accident (CVA)
+Cerebrovascular disease,1227592012,266995000,397829016,ZV125-2,ZV12512,[V]Personal history of cerebrovascular accident (CVA)
+Cerebrovascular disease,1227592012,266995000,397829016,14AZ,14AZ.00,[V]Personal history of cerebrovascular accident (CVA)
+Cerebrovascular disease,1227592012,266995000,397829016,^ESCTHI549699,,[V]Personal history of cerebrovascular accident (CVA)
+Cerebrovascular disease,1227592012,266995000,397829016,14A,14A..00,[V]Personal history of cerebrovascular accident (CVA)
+Cerebrovascular disease,1227592012,266995000,397829016,^ESCTHI549698,,[V]Personal history of cerebrovascular accident (CVA)
+Cerebrovascular disease,1667741000000110,751371000000107,1667741000000110,^ESCTPE823115,,[V]Personal history of transient ischaemic attack
+Cerebrovascular disease,1667741000000110,751371000000107,1667741000000110,ZV12D,ZV12D00,[V]Personal history of transient ischaemic attack

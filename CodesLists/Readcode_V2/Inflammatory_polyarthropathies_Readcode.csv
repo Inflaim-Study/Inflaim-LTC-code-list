@@ -1,0 +1,86 @@
+Condition,ReadCode,CleansedReadCode,Term
+Inflammatory polyarthropathies,N040-92,N040.92,Rheum. arth. - ankle/foot
+Inflammatory polyarthropathies,N040-97,N040.97,Rheum. arth. - elbow joint
+Inflammatory polyarthropathies,N040-95,N040.95,Rheum. arth. - hand joint
+Inflammatory polyarthropathies,N040-93,N040.93,Rheum. arth. - knee joint
+Inflammatory polyarthropathies,N040-99,N040.99,Rheum. arth. - multiple joint
+Inflammatory polyarthropathies,N040-91,N040.91,Rheum. arth. - other joint
+Inflammatory polyarthropathies,N040-98,N040.98,Rheum. arth. - shoulder joint
+Inflammatory polyarthropathies,N040-96,N040.96,Rheum. arth. - wrist joint
+Inflammatory polyarthropathies,N040-90,N040.90,Rheumatoid arthritis NOS
+Inflammatory polyarthropathies,^ESCTRH572143,,Rheumatoid arthritis of multiple joints
+Inflammatory polyarthropathies,^ESCT1190391,,Seropositive errosive rheumatoid arthritis
+Inflammatory polyarthropathies,2G25,2G25.00,O/E - hands - ulnar deviation
+Inflammatory polyarthropathies,2G25-1,2G25.11,O/E - ulnar deviation
+Inflammatory polyarthropathies,7P203,7P20300,Delivery of rehabilitation for rheumatoid arthritis
+Inflammatory polyarthropathies,N005,N005.00,Adult Still's Disease
+Inflammatory polyarthropathies,N04,N04..00,Rheumatoid arthritis and other inflammatory polyarthropathy
+Inflammatory polyarthropathies,N040,N040.00,Rheumatoid arthritis
+Inflammatory polyarthropathies,N0401,N040100,Other rheumatoid arthritis of spine
+Inflammatory polyarthropathies,N0402,N040200,Rheumatoid arthritis of shoulder
+Inflammatory polyarthropathies,N0403,N040300,Rheumatoid arthritis of sternoclavicular joint
+Inflammatory polyarthropathies,N0404,N040400,Rheumatoid arthritis of acromioclavicular joint
+Inflammatory polyarthropathies,N0405,N040500,Rheumatoid arthritis of elbow
+Inflammatory polyarthropathies,N0406,N040600,Rheumatoid arthritis of distal radio-ulnar joint
+Inflammatory polyarthropathies,N0407,N040700,Rheumatoid arthritis of wrist
+Inflammatory polyarthropathies,N0408,N040800,Rheumatoid arthritis of MCP joint
+Inflammatory polyarthropathies,N0409,N040900,Rheumatoid arthritis of PIP joint of finger
+Inflammatory polyarthropathies,N040A,N040A00,Rheumatoid arthritis of DIP joint of finger
+Inflammatory polyarthropathies,N040B,N040B00,Rheumatoid arthritis of hip
+Inflammatory polyarthropathies,N040C,N040C00,Rheumatoid arthritis of sacro-iliac joint
+Inflammatory polyarthropathies,N040D,N040D00,Rheumatoid arthritis of knee
+Inflammatory polyarthropathies,N040E,N040E00,Rheumatoid arthritis of tibio-fibular joint
+Inflammatory polyarthropathies,N040F,N040F00,Rheumatoid arthritis of ankle
+Inflammatory polyarthropathies,N040G,N040G00,Rheumatoid arthritis of subtalar joint
+Inflammatory polyarthropathies,N040H,N040H00,Rheumatoid arthritis of talonavicular joint
+Inflammatory polyarthropathies,N040J,N040J00,Rheumatoid arthritis of other tarsal joint
+Inflammatory polyarthropathies,N040K,N040K00,Rheumatoid arthritis of 1st MTP joint
+Inflammatory polyarthropathies,N040L,N040L00,Rheumatoid arthritis of lesser MTP joint
+Inflammatory polyarthropathies,N040M,N040M00,Rheumatoid arthritis of IP joint of toe
+Inflammatory polyarthropathies,N040N,N040N00,Rheumatoid vasculitis
+Inflammatory polyarthropathies,N040P,N040P00,Seronegative rheumatoid arthritis
+Inflammatory polyarthropathies,N040Q,N040Q00,Rheumatoid bursitis
+Inflammatory polyarthropathies,N040R,N040R00,Rheumatoid nodule
+Inflammatory polyarthropathies,N040S,N040S00,Rheumatoid arthritis - multiple joint
+Inflammatory polyarthropathies,N040T,N040T00,Flare of rheumatoid arthritis
+Inflammatory polyarthropathies,N041,N041.00,Felty's syndrome
+Inflammatory polyarthropathies,N042,N042.00,Other rheumatoid arthropathy + visceral/systemic involvement
+Inflammatory polyarthropathies,N0422,N042200,Rheumatoid nodule
+Inflammatory polyarthropathies,N042z,N042z00,Rheumatoid arthropathy + visceral/systemic involvement NOS
+Inflammatory polyarthropathies,N047,N047.00,Seropositive errosive rheumatoid arthritis
+Inflammatory polyarthropathies,N04X,N04X.00,"Seropositive rheumatoid arthritis, unspecified"
+Inflammatory polyarthropathies,N04y2,N04y200,Adult-onset Still's disease
+Inflammatory polyarthropathies,N3622,N362200,Swan-neck finger deformity
+Inflammatory polyarthropathies,Nyu10,Nyu1000,[X]Rheumatoid arthritis+involvement/other organs or systems
+Inflammatory polyarthropathies,Nyu11,Nyu1100,[X]Other seropositive rheumatoid arthritis
+Inflammatory polyarthropathies,Nyu12,Nyu1200,[X]Other specified rheumatoid arthritis
+Inflammatory polyarthropathies,Nyu1G,Nyu1G00,"[X]Seropositive rheumatoid arthritis, unspecified"
+Inflammatory polyarthropathies,Nyu14,Nyu1400,[X]Other enteropathic arthropathies
+Inflammatory polyarthropathies,^ESCT1272928,,Gout NOS
+Inflammatory polyarthropathies,C34,C34..00,Gout
+Inflammatory polyarthropathies,C340,C340.00,Gouty arthropathy
+Inflammatory polyarthropathies,C341,C341.00,Gouty nephropathy
+Inflammatory polyarthropathies,C341z,C341z00,Gouty nephropathy NOS
+Inflammatory polyarthropathies,C342,C342.00,Idiopathic gout
+Inflammatory polyarthropathies,C344,C344.00,Drug-induced gout
+Inflammatory polyarthropathies,C345,C345.00,Gout due to impairment of renal function
+Inflammatory polyarthropathies,C34y,C34y.00,Other specified gouty manifestation
+Inflammatory polyarthropathies,C34y0,C34y000,Gouty tophi of ear
+Inflammatory polyarthropathies,C34y1,C34y100,Gouty tophi of heart
+Inflammatory polyarthropathies,C34y2,C34y200,Gouty tophi of other sites
+Inflammatory polyarthropathies,C34y3,C34y300,Gouty iritis
+Inflammatory polyarthropathies,C34y5,C34y500,Gouty tophi of hand
+Inflammatory polyarthropathies,C34yz,C34yz00,Other specified gouty manifestation NOS
+Inflammatory polyarthropathies,C34z,C34z.00,Gout NOS
+Inflammatory polyarthropathies,G5573,G557300,Gouty tophi of heart
+Inflammatory polyarthropathies,N023,N023.00,Gouty arthritis
+Inflammatory polyarthropathies,N0231,N023100,Gouty arthritis of the shoulder region
+Inflammatory polyarthropathies,N0232,N023200,Gouty arthritis of the upper arm
+Inflammatory polyarthropathies,N0233,N023300,Gouty arthritis of the forearm
+Inflammatory polyarthropathies,N0234,N023400,Gouty arthritis of the hand
+Inflammatory polyarthropathies,N0236,N023600,Gouty arthritis of the lower leg
+Inflammatory polyarthropathies,N0237,N023700,Gouty arthritis of the ankle and foot
+Inflammatory polyarthropathies,N023x,N023x00,Gouty arthritis of multiple sites
+Inflammatory polyarthropathies,N023y,N023y00,Gouty arthritis of other specified site
+Inflammatory polyarthropathies,N023z,N023z00,Gouty arthritis NOS
+Inflammatory polyarthropathies,Nyu17,Nyu1700,[X]Other secondary gout

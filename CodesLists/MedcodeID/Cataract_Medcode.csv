@@ -1,0 +1,95 @@
+Condition,MedCode,Term
+Cataract,3390661000006113,Cataract extraction
+Cataract,859771000006116,Cataract extraction unspec.
+Cataract,2718741000006113,Extracapsular cataract extraction
+Cataract,883311000006115,Secondary cataract
+Cataract,859751000006114,YAG laser post capsulotomy
+Cataract,3741271000006115,Cataract with neovascularization
+Cataract,2472224012,Posterior capsule opacification
+Cataract,253774010,O/E - cataract present
+Cataract,451393017,O/E - Right cataract present
+Cataract,451394011,O/E - Left cataract present
+Cataract,659551000006113,Extracapsular extraction of cataract
+Cataract,495988011,Needling of lens for cataract
+Cataract,267088016,Intracapsular extraction of cataract
+Cataract,410918012,Other extraction of cataract
+Cataract,495989015,Discission of cataract
+Cataract,84321000006114,Type 1 diabetes mellitus with diabetic cataract
+Cataract,913891000006113,Insulin dependent diabetes mellitus with diabetic cataract
+Cataract,298076010,Cataract
+Cataract,298078011,"Infantile, juvenile and presenile cataracts"
+Cataract,298079015,Unspecified infantile cataract
+Cataract,298080017,Unspecified juvenile cataract
+Cataract,298081018,Unspecified presenile cataract
+Cataract,3463017,Anterior subcapsular polar cataract
+Cataract,57632013,Posterior subcapsular polar cataract
+Cataract,298083015,Cortical cataract
+Cataract,298084014,Lamellar zonular cataract
+Cataract,89579016,Nuclear cataract
+Cataract,298086011,Combined nonsenile cataract
+Cataract,298087019,Other nonsenile cataract
+Cataract,298088012,Nonsenile cataract NOS
+Cataract,66160017,Senile cataract
+Cataract,298090013,Unspecified senile cataract
+Cataract,747871000006116,Lens capsule pseudoexfoliation
+Cataract,21000016,Coronary cataract
+Cataract,67912012,Punctate cataract
+Cataract,298091012,Incipient cataract NOS
+Cataract,298092017,Immature cataract NOS
+Cataract,178759010,Anterior subcapsular polar senile cataract
+Cataract,9918017,Posterior subcapsular polar senile cataract
+Cataract,130863017,Cortical senile cataract
+Cataract,298096019,Nuclear senile cataract
+Cataract,298097011,"Total, mature senile cataract"
+Cataract,399449014,Hypermature cataract
+Cataract,699721000006118,Morgagni cataract
+Cataract,574651000006115,Combined senile cataract
+Cataract,298102014,Other senile cataract
+Cataract,298103016,Senile cataract NOS
+Cataract,298113012,Cataract secondary to ocular disease
+Cataract,298116016,Unspecified cataracta complicata
+Cataract,298117013,Cataract in eye inflammatory disorder
+Cataract,126733015,Cataract with neovascularization
+Cataract,36608018,Cataract in degenerative disorder
+Cataract,298125010,Cataract secondary to ocular disorder NOS
+Cataract,298126011,Cataract due to other disorder
+Cataract,113312017,Tetanic cataract
+Cataract,107602013,Myotonic cataract
+Cataract,298128012,Cataract associated with other syndromes
+Cataract,298132018,Cataract due to other disorder NOS
+Cataract,473371000006112,After cataract
+Cataract,298133011,Unspecified secondary cataract
+Cataract,298134017,Other after cataract with vision normal
+Cataract,298135016,After-cataract with vision obscured
+Cataract,217851000006114,Posterior capsule opacification
+Cataract,298137012,After cataract NOS
+Cataract,158572010,Bilateral cataracts
+Cataract,298142016,Other cataract
+Cataract,298144015,Other cataract NOS
+Cataract,298145019,Cataract NOS
+Cataract,455415018,Immature cortical cataract
+Cataract,2124391000000116,Keratopathy following cataract surgery
+Cataract,2124371000000115,Bullous aphakic keratopathy following cataract surgery
+Cataract,298880018,Vitreous syndrome following cataract surgery
+Cataract,299464010,[X]Other senile cataract
+Cataract,299465011,[X]Other specified cataract
+Cataract,299468013,[X]Cataract in other diseases classified elsewhere
+Cataract,400779012,Congenital cataract and lens anomalies
+Cataract,313008016,"Congenital cataract, unspecified"
+Cataract,313009012,Capsular and subcapsular cataract
+Cataract,313010019,Capsular cataract
+Cataract,158573017,Subcapsular cataract
+Cataract,313011015,Capsular or subcapsular cataract NOS
+Cataract,313012010,Cortical and zonular cataract
+Cataract,1232801015,Cortical cataract - congenital
+Cataract,313014011,Zonular cataract
+Cataract,313017016,Cortical or zonular cataract NOS
+Cataract,296821000006118,Nuclear cataract - congenital
+Cataract,97131000006116,Total congenital cataract
+Cataract,313019018,Total or subtotal congenital cataract NOS
+Cataract,313031016,Other specified congenital cataract or lens anomaly
+Cataract,518941000006114,Blue dot cataract
+Cataract,313033018,Congenital membranous cataract
+Cataract,313034012,Other congenital cataract or lens anomaly NOS
+Cataract,313035013,Congenital cataract or lens anomaly NOS
+Cataract,1227680019,[V]State following cataract extraction

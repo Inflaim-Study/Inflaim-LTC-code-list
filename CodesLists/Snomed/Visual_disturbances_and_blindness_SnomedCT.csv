@@ -1,0 +1,70 @@
+Condition,SNOMED_Code,SnomedCTDescriptionId,Term
+Visual disturbances and blindness,7973008,2164155010,Sight impaired
+Visual disturbances and blindness,240311000000103,390341000000115,Loss of vision
+Visual disturbances and blindness,163946009,255275013,O/E - blind R-eye
+Visual disturbances and blindness,163946009,255276014,O/E - R-eye completely blind
+Visual disturbances and blindness,163960006,255292016,O/E - blind L-eye
+Visual disturbances and blindness,163960006,255293014,O/E - L-eye completely blind
+Visual disturbances and blindness,373041000000101,733161000000116,Impaired vision due to diabetic retinopathy
+Visual disturbances and blindness,4229009,493267010,Blind hypotensive eye
+Visual disturbances and blindness,264008,1529013,Blind hypertensive eye
+Visual disturbances and blindness,397540003,3011990016,Blindness and low vision
+Visual disturbances and blindness,397540003,3011990016,Impaired vision
+Visual disturbances and blindness,7973008,2164158012,Partial sight
+Visual disturbances and blindness,397540003,3011990016,Sight impaired
+Visual disturbances and blindness,193699007,298251016,"Blindness, both eyes"
+Visual disturbances and blindness,193699007,298251016,Unspecified blindness both eyes
+Visual disturbances and blindness,193699007,2619503012,Both eyes total visual impairment
+Visual disturbances and blindness,193699007,298251016,"Better eye: near total VI, Lesser eye: unspecified"
+Visual disturbances and blindness,193704004,298256014,"Better eye: near total VI, Lesser eye: near total VI"
+Visual disturbances and blindness,13734003,23430013,"Better eye: profound VI, Lesser eye: total VI"
+Visual disturbances and blindness,193709009,3670145014,"Acquired blindness, both eyes"
+Visual disturbances and blindness,193699007,298251016,Blindness both eyes NOS
+Visual disturbances and blindness,193711000,298263014,"Better eye: low vision, Lesser eye: profound VI"
+Visual disturbances and blindness,193712007,298264015,"One eye blind, one eye low vision"
+Visual disturbances and blindness,193711000,298263014,"Better eye: severe VI, Lesser eye: blind, unspecified"
+Visual disturbances and blindness,1909000,4295011,"Better eye: severe VI, Lesser eye: near total VI"
+Visual disturbances and blindness,193716005,298271013,"Better eye: severe VI, Lesser eye: profound VI"
+Visual disturbances and blindness,193711000,298263014,"Better eye: moderate VI, Lesser eye: blind, unspecified"
+Visual disturbances and blindness,193719003,298274017,"Better eye: moderate VI, Lesser eye: near total VI"
+Visual disturbances and blindness,193711000,298263014,"One eye blind, one eye low vision NOS"
+Visual disturbances and blindness,193722001,298277012,"Low vision, both eyes"
+Visual disturbances and blindness,193722001,298277012,"Low vision, both eyes unspecified"
+Visual disturbances and blindness,193725004,298280013,"Better eye: severe VI, Lesser eye: severe VI"
+Visual disturbances and blindness,193722001,298277012,"Better eye: moderate VI, Lesser eye: low vision unspecified"
+Visual disturbances and blindness,193727007,298282017,"Better eye: moderate VI, Lesser eye: severe VI"
+Visual disturbances and blindness,193728002,298283010,"Better eye: moderate VI, Lesser eye: moderate VI"
+Visual disturbances and blindness,193722001,298277012,"Low vision, both eyes NOS"
+Visual disturbances and blindness,193731001,298286019,Legal blindness USA
+Visual disturbances and blindness,193732008,298287011,"Profound impairment, one eye"
+Visual disturbances and blindness,22950006,38553019,"Blindness, one eye, unspecified"
+Visual disturbances and blindness,193732008,298287011,"Lesser eye: total visual impairment, Better eye: unspecified"
+Visual disturbances and blindness,193735005,298290017,"Lesser eye: total VI, Better eye: near normal vision"
+Visual disturbances and blindness,193736006,298291018,"Lesser eye: total VI, Better eye: normal vision"
+Visual disturbances and blindness,193732008,298287011,"Lesser eye: near total VI, Better eye: unspecified"
+Visual disturbances and blindness,193738007,298293015,"Lesser eye: near total VI, Better eye: near normal vision"
+Visual disturbances and blindness,111519001,2618966018,"Lesser eye: near total VI, Better eye: normal vision"
+Visual disturbances and blindness,193741003,298296011,"Lesser eye: profound VI, Better eye: near normal vision"
+Visual disturbances and blindness,22950006,38553019,"Acquired blindness, one eye"
+Visual disturbances and blindness,193732008,298287011,Profound impairment one eye NOS
+Visual disturbances and blindness,193745007,298300012,"Low vision, one eye"
+Visual disturbances and blindness,193745007,298300012,"Low vision, one eye, unspecified"
+Visual disturbances and blindness,193745007,298300012,"Lesser eye: severe VI, Better eye: unspecified"
+Visual disturbances and blindness,193748009,298303014,"Lesser eye: severe VI, Better eye: near normal vision"
+Visual disturbances and blindness,193749001,298304015,"Lesser eye: severe VI, Better eye: normal vision"
+Visual disturbances and blindness,193745007,298300012,"Lesser eye: moderate VI, Better eye: unspecified"
+Visual disturbances and blindness,193751002,298306018,"Lesser eye: moderate VI, Better eye: near normal vision"
+Visual disturbances and blindness,16169003,27365013,"Lesser eye: moderate VI, Better eye: normal vision"
+Visual disturbances and blindness,193745007,298300012,"Low vision, one eye NOS"
+Visual disturbances and blindness,813871000000108,2168181000000116,"Severe visual impairment, binocular"
+Visual disturbances and blindness,813891000000107,2168201000000116,"Moderate visual impairment, binocular"
+Visual disturbances and blindness,815051000000106,2124351000000112,"Mild or no visual impairment, binocular"
+Visual disturbances and blindness,22950006,38553019,"Blindness, monocular"
+Visual disturbances and blindness,813881000000105,2168191000000119,"Severe visual impairment, monocular"
+Visual disturbances and blindness,813901000000108,2168211000000115,"Moderate visual impairment, monocular"
+Visual disturbances and blindness,240311000000103,390341000000115,Visual loss NOS
+Visual disturbances and blindness,193756007,298313018,Charles Bonnet syndrome
+Visual disturbances and blindness,68574006,113901010,Cortical blindness
+Visual disturbances and blindness,433147009,2773231012,Combined visual and hearing impairment
+Visual disturbances and blindness,212141007,323622018,Blindness - traumatic - NOS
+Visual disturbances and blindness,397540003,1777162017,[V]Problems with sight

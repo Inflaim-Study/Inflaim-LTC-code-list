@@ -1,0 +1,1087 @@
+Condition,ReadCode,CleansedReadCode,Term
+Coronary heart disease,14A3,14A3.00,H/O: myocardial infarct at less than 60
+Coronary heart disease,^ESCTHI454046,,H/O: myocardial infarct at less than 60
+Coronary heart disease,14A4,14A4.00,H/O: myocardial infarct at greater than 60
+Coronary heart disease,^ESCTHI454048,,H/O: myocardial infarct at greater than 60
+Coronary heart disease,^ESCTHI454050,,H/O: angina pectoris
+Coronary heart disease,14A5,14A5.00,H/O: angina pectoris
+Coronary heart disease,^ESCTHI597448,,H/O: Myocardial infarction in last year
+Coronary heart disease,14AH,14AH.00,H/O: Myocardial infarction in last year
+Coronary heart disease,^ESCTHI597450,,H/O: Angina in last year
+Coronary heart disease,14AJ,14AJ.00,H/O: Angina in last year
+Coronary heart disease,^ESCTHI597455,,H/O: Treatment for ischaemic heart disease
+Coronary heart disease,^ESCTHO597454,,H/O: Treatment for ischaemic heart disease
+Coronary heart disease,14AL,14AL.00,H/O: Treatment for ischaemic heart disease
+Coronary heart disease,^ESCTHI597456,,H/O: Treatment for ischaemic heart disease
+Coronary heart disease,^ESCTEX458910,,Exercise ECG abnormal
+Coronary heart disease,32131-1,3213111,Exercise ECG abnormal
+Coronary heart disease,33B95,33B9500,Exercise ECG abnormal
+Coronary heart disease,32131,3213100,Exercise ECG abnormal
+Coronary heart disease,^ESCTEX458910,,Positive exercise ECG test
+Coronary heart disease,32131-1,3213111,Positive exercise ECG test
+Coronary heart disease,33B95,33B9500,Positive exercise ECG test
+Coronary heart disease,32131,3213100,Positive exercise ECG test
+Coronary heart disease,^ESCTEL458596,,ECG myocardial ischaemia
+Coronary heart disease,^ESCTEL458597,,ECG myocardial ischaemia
+Coronary heart disease,322,322..00,ECG myocardial ischaemia
+Coronary heart disease,3222,3222.00,ECG myocardial ischaemia
+Coronary heart disease,^ESCTEK458595,,ECG myocardial ischaemia
+Coronary heart disease,322Z,322Z.00,ECG myocardial ischaemia
+Coronary heart disease,^ESCTEL458596,,ECG:shows myocardial ischaemia
+Coronary heart disease,^ESCTEL458597,,ECG:shows myocardial ischaemia
+Coronary heart disease,322,322..00,ECG:shows myocardial ischaemia
+Coronary heart disease,3222,3222.00,ECG:shows myocardial ischaemia
+Coronary heart disease,^ESCTEK458595,,ECG:shows myocardial ischaemia
+Coronary heart disease,322Z,322Z.00,ECG:shows myocardial ischaemia
+Coronary heart disease,^ESCTEL458596,,ECG: myocardial ischaemia NOS
+Coronary heart disease,^ESCTEL458597,,ECG: myocardial ischaemia NOS
+Coronary heart disease,322,322..00,ECG: myocardial ischaemia NOS
+Coronary heart disease,3222,3222.00,ECG: myocardial ischaemia NOS
+Coronary heart disease,^ESCTEK458595,,ECG: myocardial ischaemia NOS
+Coronary heart disease,322Z,322Z.00,ECG: myocardial ischaemia NOS
+Coronary heart disease,^ESCTEL458603,,ECG: myocardial infarction
+Coronary heart disease,^ESCTEL458604,,ECG: myocardial infarction
+Coronary heart disease,323,323..00,ECG: myocardial infarction
+Coronary heart disease,323Z,323Z.00,ECG: myocardial infarction
+Coronary heart disease,^ESCTEK458605,,ECG: myocardial infarction
+Coronary heart disease,^ESCTEC458615,,ECG: antero-septal infarct.
+Coronary heart disease,^ESCTAN458611,,ECG: antero-septal infarct.
+Coronary heart disease,^ESCTEC458613,,ECG: antero-septal infarct.
+Coronary heart disease,3233,3233.00,ECG: antero-septal infarct.
+Coronary heart disease,^ESCTEL458614,,ECG: antero-septal infarct.
+Coronary heart disease,3234,3234.00,ECG:posterior/inferior infarct
+Coronary heart disease,^ESCTEK458617,,ECG:posterior/inferior infarct
+Coronary heart disease,^ESCTEL458618,,ECG:posterior/inferior infarct
+Coronary heart disease,^ESCTEL458621,,ECG: subendocardial infarct
+Coronary heart disease,^ESCTEK458620,,ECG: subendocardial infarct
+Coronary heart disease,3235,3235.00,ECG: subendocardial infarct
+Coronary heart disease,^ESCTEL458624,,ECG: lateral infarction
+Coronary heart disease,^ESCTLA458622,,ECG: lateral infarction
+Coronary heart disease,3236,3236.00,ECG: lateral infarction
+Coronary heart disease,^ESCTEL458603,,ECG: myocardial infarct NOS
+Coronary heart disease,^ESCTEL458604,,ECG: myocardial infarct NOS
+Coronary heart disease,323,323..00,ECG: myocardial infarct NOS
+Coronary heart disease,323Z,323Z.00,ECG: myocardial infarct NOS
+Coronary heart disease,^ESCTEK458605,,ECG: myocardial infarct NOS
+Coronary heart disease,32E4,32E4.00,ST depression
+Coronary heart disease,^ESCTST291834,,ST depression
+Coronary heart disease,^ESCTEL458757,,ECG: T wave abnormal
+Coronary heart disease,32F2,32F2.00,ECG: T wave abnormal
+Coronary heart disease,^ESCTEK458756,,ECG: T wave abnormal
+Coronary heart disease,^ESCTFL358634,,ECG: T wave flattened
+Coronary heart disease,32F3,32F3.00,ECG: T wave flattened
+Coronary heart disease,32F4,32F4.00,Inverted T wave
+Coronary heart disease,^ESCTTW347328,,Inverted T wave
+Coronary heart disease,^ESCTEX458910,,Exercise tolerance test abnormal
+Coronary heart disease,32131-1,3213111,Exercise tolerance test abnormal
+Coronary heart disease,33B95,33B9500,Exercise tolerance test abnormal
+Coronary heart disease,32131,3213100,Exercise tolerance test abnormal
+Coronary heart disease,^ESCT1248451,,Coronary arteriography abnormal
+Coronary heart disease,5543,5543.00,Coronary arteriography abnormal
+Coronary heart disease,^ESCTCO461834,,Coronary arteriography abnormal
+Coronary heart disease,5C11,5C11.00,Radionuclide heart study abnormal
+Coronary heart disease,662K,662K.00,Angina control
+Coronary heart disease,662Kz,662Kz00,Angina control
+Coronary heart disease,662K0,662K000,Angina control - good
+Coronary heart disease,662K1,662K100,Angina control - poor
+Coronary heart disease,662K2,662K200,Angina control - improving
+Coronary heart disease,662K3,662K300,Angina control - worsening
+Coronary heart disease,662K,662K.00,Angina control NOS
+Coronary heart disease,662Kz,662Kz00,Angina control NOS
+Coronary heart disease,6A2,6A2..00,Coronary heart disease annual review
+Coronary heart disease,6A4,6A4..00,Coronary heart disease review
+Coronary heart disease,7921-1,7921.11,Coronary artery bypass graft operations
+Coronary heart disease,^ESCTCB504010,,Coronary artery bypass graft operations
+Coronary heart disease,^ESCTCO504011,,Coronary artery bypass graft operations
+Coronary heart disease,792Dz,792Dz00,Coronary artery bypass graft operations
+Coronary heart disease,7921,7921.00,Coronary artery bypass graft operations
+Coronary heart disease,7921z,7921z00,Coronary artery bypass graft operations
+Coronary heart disease,792C,792C.00,Coronary artery bypass graft operations
+Coronary heart disease,792Cz,792Cz00,Coronary artery bypass graft operations
+Coronary heart disease,792D,792D.00,Coronary artery bypass graft operations
+Coronary heart disease,792Dy,792Dy00,Coronary artery bypass graft operations
+Coronary heart disease,7921y,7921y00,Coronary artery bypass graft operations
+Coronary heart disease,7926y,7926y00,Coronary artery bypass graft operations
+Coronary heart disease,^ESCTCA504013,,Coronary artery bypass graft operations
+Coronary heart disease,^ESCTCA504009,,Coronary artery bypass graft operations
+Coronary heart disease,7926,7926.00,Coronary artery bypass graft operations
+Coronary heart disease,7926z,7926z00,Coronary artery bypass graft operations
+Coronary heart disease,792Cy,792Cy00,Coronary artery bypass graft operations
+Coronary heart disease,792-1,792..11,Coronary artery bypass graft operations
+Coronary heart disease,7920-1,7920.11,Saphenous vein graft replacement of coronary artery
+Coronary heart disease,^ESCTAC255546,,Saphenous vein graft replacement of coronary artery
+Coronary heart disease,^ESCTCA255547,,Saphenous vein graft replacement of coronary artery
+Coronary heart disease,7920y,7920y00,Saphenous vein graft replacement of coronary artery
+Coronary heart disease,^ESCTAO255541,,Saphenous vein graft replacement of coronary artery
+Coronary heart disease,^ESCTCV255542,,Saphenous vein graft replacement of coronary artery
+Coronary heart disease,^ESCT1190438,,Saphenous vein graft replacement of coronary artery
+Coronary heart disease,7920-99,7920.99,Saphenous vein graft replacement of coronary artery
+Coronary heart disease,^ESCT1245171,,Saphenous vein graft replacement of coronary artery
+Coronary heart disease,7920,7920.00,Saphenous vein graft replacement of coronary artery
+Coronary heart disease,7920z,7920z00,Saphenous vein graft replacement of coronary artery
+Coronary heart disease,^ESCTAC255543,,Saphenous vein graft replacement of coronary artery
+Coronary heart disease,^ESCTAC255544,,Saphenous vein graft replacement of coronary artery
+Coronary heart disease,^ESCT1167247,,Saphenous vein graft replacement of one coronary artery
+Coronary heart disease,^ESCT1167248,,Saphenous vein graft replacement of one coronary artery
+Coronary heart disease,79200,7920000,Saphenous vein graft replacement of one coronary artery
+Coronary heart disease,79201,7920100,Aortocoronary artery bypass of two coronary arteries with saphenous vein graft
+Coronary heart disease,^ESCT1167251,,Aortocoronary artery bypass of two coronary arteries with saphenous vein graft
+Coronary heart disease,^ESCT1245174,,Aortocoronary artery bypass of two coronary arteries with saphenous vein graft
+Coronary heart disease,^ESCT1167252,,Aortocoronary artery bypass of two coronary arteries with saphenous vein graft
+Coronary heart disease,^ESCT1245173,,Aortocoronary artery bypass of three coronary arteries with saphenous vein graft
+Coronary heart disease,79202,7920200,Aortocoronary artery bypass of three coronary arteries with saphenous vein graft
+Coronary heart disease,^ESCT1167249,,Aortocoronary artery bypass of three coronary arteries with saphenous vein graft
+Coronary heart disease,^ESCT1167250,,Aortocoronary artery bypass of three coronary arteries with saphenous vein graft
+Coronary heart disease,79203,7920300,Aortocoronary artery bypass of four or more coronary arteries with saphenous vein graft
+Coronary heart disease,^ESCT1167246,,Aortocoronary artery bypass of four or more coronary arteries with saphenous vein graft
+Coronary heart disease,^ESCT1245172,,Aortocoronary artery bypass of four or more coronary arteries with saphenous vein graft
+Coronary heart disease,^ESCT1167245,,Aortocoronary artery bypass of four or more coronary arteries with saphenous vein graft
+Coronary heart disease,7920-1,7920.11,Aortocoronary artery bypass graft with saphenous vein graft
+Coronary heart disease,^ESCTAC255546,,Aortocoronary artery bypass graft with saphenous vein graft
+Coronary heart disease,^ESCTCA255547,,Aortocoronary artery bypass graft with saphenous vein graft
+Coronary heart disease,7920y,7920y00,Aortocoronary artery bypass graft with saphenous vein graft
+Coronary heart disease,^ESCTAO255541,,Aortocoronary artery bypass graft with saphenous vein graft
+Coronary heart disease,^ESCTCV255542,,Aortocoronary artery bypass graft with saphenous vein graft
+Coronary heart disease,^ESCT1190438,,Aortocoronary artery bypass graft with saphenous vein graft
+Coronary heart disease,7920-99,7920.99,Aortocoronary artery bypass graft with saphenous vein graft
+Coronary heart disease,^ESCT1245171,,Aortocoronary artery bypass graft with saphenous vein graft
+Coronary heart disease,7920,7920.00,Aortocoronary artery bypass graft with saphenous vein graft
+Coronary heart disease,7920z,7920z00,Aortocoronary artery bypass graft with saphenous vein graft
+Coronary heart disease,^ESCTAC255543,,Aortocoronary artery bypass graft with saphenous vein graft
+Coronary heart disease,^ESCTAC255544,,Aortocoronary artery bypass graft with saphenous vein graft
+Coronary heart disease,7920-1,7920.11,Saphenous vein graft replacement coronary artery NOS
+Coronary heart disease,^ESCTAC255546,,Saphenous vein graft replacement coronary artery NOS
+Coronary heart disease,^ESCTCA255547,,Saphenous vein graft replacement coronary artery NOS
+Coronary heart disease,7920y,7920y00,Saphenous vein graft replacement coronary artery NOS
+Coronary heart disease,^ESCTAO255541,,Saphenous vein graft replacement coronary artery NOS
+Coronary heart disease,^ESCTCV255542,,Saphenous vein graft replacement coronary artery NOS
+Coronary heart disease,^ESCT1190438,,Saphenous vein graft replacement coronary artery NOS
+Coronary heart disease,7920-99,7920.99,Saphenous vein graft replacement coronary artery NOS
+Coronary heart disease,^ESCT1245171,,Saphenous vein graft replacement coronary artery NOS
+Coronary heart disease,7920,7920.00,Saphenous vein graft replacement coronary artery NOS
+Coronary heart disease,7920z,7920z00,Saphenous vein graft replacement coronary artery NOS
+Coronary heart disease,^ESCTAC255543,,Saphenous vein graft replacement coronary artery NOS
+Coronary heart disease,^ESCTAC255544,,Saphenous vein graft replacement coronary artery NOS
+Coronary heart disease,7921-1,7921.11,Other autograft bypass of coronary artery
+Coronary heart disease,^ESCTCB504010,,Other autograft bypass of coronary artery
+Coronary heart disease,^ESCTCO504011,,Other autograft bypass of coronary artery
+Coronary heart disease,792Dz,792Dz00,Other autograft bypass of coronary artery
+Coronary heart disease,7921,7921.00,Other autograft bypass of coronary artery
+Coronary heart disease,7921z,7921z00,Other autograft bypass of coronary artery
+Coronary heart disease,792C,792C.00,Other autograft bypass of coronary artery
+Coronary heart disease,792Cz,792Cz00,Other autograft bypass of coronary artery
+Coronary heart disease,792D,792D.00,Other autograft bypass of coronary artery
+Coronary heart disease,792Dy,792Dy00,Other autograft bypass of coronary artery
+Coronary heart disease,7921y,7921y00,Other autograft bypass of coronary artery
+Coronary heart disease,7926y,7926y00,Other autograft bypass of coronary artery
+Coronary heart disease,^ESCTCA504013,,Other autograft bypass of coronary artery
+Coronary heart disease,^ESCTCA504009,,Other autograft bypass of coronary artery
+Coronary heart disease,7926,7926.00,Other autograft bypass of coronary artery
+Coronary heart disease,7926z,7926z00,Other autograft bypass of coronary artery
+Coronary heart disease,792Cy,792Cy00,Other autograft bypass of coronary artery
+Coronary heart disease,792-1,792..11,Other autograft bypass of coronary artery
+Coronary heart disease,79253,7925300,Autograft replacement of one coronary artery NEC
+Coronary heart disease,^ESCTCA504015,,Autograft replacement of one coronary artery NEC
+Coronary heart disease,79263,7926300,Autograft replacement of one coronary artery NEC
+Coronary heart disease,^ESCTCO504014,,Autograft replacement of one coronary artery NEC
+Coronary heart disease,79210,7921000,Autograft replacement of one coronary artery NEC
+Coronary heart disease,79262,7926200,Autograft replacement of one coronary artery NEC
+Coronary heart disease,^ESCTCA504017,,Autograft replacement of two coronary arteries NEC
+Coronary heart disease,79260,7926000,Autograft replacement of two coronary arteries NEC
+Coronary heart disease,79261,7926100,Autograft replacement of two coronary arteries NEC
+Coronary heart disease,79211,7921100,Autograft replacement of two coronary arteries NEC
+Coronary heart disease,^ESCTCO504016,,Autograft replacement of two coronary arteries NEC
+Coronary heart disease,^ESCTTR504019,,Autograft replacement of three coronary arteries NEC
+Coronary heart disease,^ESCTCO504018,,Autograft replacement of three coronary arteries NEC
+Coronary heart disease,79212,7921200,Autograft replacement of three coronary arteries NEC
+Coronary heart disease,^ESCTCA504020,,Autograft replacement of three coronary arteries NEC
+Coronary heart disease,^ESCTCO504021,,Autograft replacement of four of more coronary arteries NEC
+Coronary heart disease,^ESCTCA504022,,Autograft replacement of four of more coronary arteries NEC
+Coronary heart disease,79213,7921300,Autograft replacement of four of more coronary arteries NEC
+Coronary heart disease,7921-1,7921.11,Other autograft replacement of coronary artery OS
+Coronary heart disease,^ESCTCB504010,,Other autograft replacement of coronary artery OS
+Coronary heart disease,^ESCTCO504011,,Other autograft replacement of coronary artery OS
+Coronary heart disease,792Dz,792Dz00,Other autograft replacement of coronary artery OS
+Coronary heart disease,7921,7921.00,Other autograft replacement of coronary artery OS
+Coronary heart disease,7921z,7921z00,Other autograft replacement of coronary artery OS
+Coronary heart disease,792C,792C.00,Other autograft replacement of coronary artery OS
+Coronary heart disease,792Cz,792Cz00,Other autograft replacement of coronary artery OS
+Coronary heart disease,792D,792D.00,Other autograft replacement of coronary artery OS
+Coronary heart disease,792Dy,792Dy00,Other autograft replacement of coronary artery OS
+Coronary heart disease,7921y,7921y00,Other autograft replacement of coronary artery OS
+Coronary heart disease,7926y,7926y00,Other autograft replacement of coronary artery OS
+Coronary heart disease,^ESCTCA504013,,Other autograft replacement of coronary artery OS
+Coronary heart disease,^ESCTCA504009,,Other autograft replacement of coronary artery OS
+Coronary heart disease,7926,7926.00,Other autograft replacement of coronary artery OS
+Coronary heart disease,7926z,7926z00,Other autograft replacement of coronary artery OS
+Coronary heart disease,792Cy,792Cy00,Other autograft replacement of coronary artery OS
+Coronary heart disease,792-1,792..11,Other autograft replacement of coronary artery OS
+Coronary heart disease,7921-1,7921.11,Other autograft replacement of coronary artery NOS
+Coronary heart disease,^ESCTCB504010,,Other autograft replacement of coronary artery NOS
+Coronary heart disease,^ESCTCO504011,,Other autograft replacement of coronary artery NOS
+Coronary heart disease,792Dz,792Dz00,Other autograft replacement of coronary artery NOS
+Coronary heart disease,7921,7921.00,Other autograft replacement of coronary artery NOS
+Coronary heart disease,7921z,7921z00,Other autograft replacement of coronary artery NOS
+Coronary heart disease,792C,792C.00,Other autograft replacement of coronary artery NOS
+Coronary heart disease,792Cz,792Cz00,Other autograft replacement of coronary artery NOS
+Coronary heart disease,792D,792D.00,Other autograft replacement of coronary artery NOS
+Coronary heart disease,792Dy,792Dy00,Other autograft replacement of coronary artery NOS
+Coronary heart disease,7921y,7921y00,Other autograft replacement of coronary artery NOS
+Coronary heart disease,7926y,7926y00,Other autograft replacement of coronary artery NOS
+Coronary heart disease,^ESCTCA504013,,Other autograft replacement of coronary artery NOS
+Coronary heart disease,^ESCTCA504009,,Other autograft replacement of coronary artery NOS
+Coronary heart disease,7926,7926.00,Other autograft replacement of coronary artery NOS
+Coronary heart disease,7926z,7926z00,Other autograft replacement of coronary artery NOS
+Coronary heart disease,792Cy,792Cy00,Other autograft replacement of coronary artery NOS
+Coronary heart disease,792-1,792..11,Other autograft replacement of coronary artery NOS
+Coronary heart disease,7922,7922.00,Allograft replacement of coronary artery
+Coronary heart disease,^ESCT1192303,,Allograft replacement of coronary artery
+Coronary heart disease,7922y,7922y00,Allograft replacement of coronary artery
+Coronary heart disease,7922z,7922z00,Allograft replacement of coronary artery
+Coronary heart disease,7922-1,7922.11,Allograft replacement of coronary artery
+Coronary heart disease,7922,7922.00,Allograft bypass of coronary artery
+Coronary heart disease,^ESCT1192303,,Allograft bypass of coronary artery
+Coronary heart disease,7922y,7922y00,Allograft bypass of coronary artery
+Coronary heart disease,7922z,7922z00,Allograft bypass of coronary artery
+Coronary heart disease,7922-1,7922.11,Allograft bypass of coronary artery
+Coronary heart disease,79220,7922000,Allograft replacement of one coronary artery
+Coronary heart disease,^ESCT1167254,,Allograft replacement of one coronary artery
+Coronary heart disease,79221,7922100,Allograft replacement of two coronary arteries
+Coronary heart disease,^ESCT1167256,,Allograft replacement of two coronary arteries
+Coronary heart disease,79222,7922200,Allograft replacement of three coronary arteries
+Coronary heart disease,^ESCT1167255,,Allograft replacement of three coronary arteries
+Coronary heart disease,79223,7922300,Allograft replacement of four or more coronary arteries
+Coronary heart disease,^ESCT1167253,,Allograft replacement of four or more coronary arteries
+Coronary heart disease,7922,7922.00,Other specified allograft replacement of coronary artery
+Coronary heart disease,^ESCT1192303,,Other specified allograft replacement of coronary artery
+Coronary heart disease,7922y,7922y00,Other specified allograft replacement of coronary artery
+Coronary heart disease,7922z,7922z00,Other specified allograft replacement of coronary artery
+Coronary heart disease,7922-1,7922.11,Other specified allograft replacement of coronary artery
+Coronary heart disease,7922,7922.00,Allograft replacement of coronary artery NOS
+Coronary heart disease,^ESCT1192303,,Allograft replacement of coronary artery NOS
+Coronary heart disease,7922y,7922y00,Allograft replacement of coronary artery NOS
+Coronary heart disease,7922z,7922z00,Allograft replacement of coronary artery NOS
+Coronary heart disease,7922-1,7922.11,Allograft replacement of coronary artery NOS
+Coronary heart disease,7923,7923.00,Prosthetic replacement of coronary artery
+Coronary heart disease,7923y,7923y00,Prosthetic replacement of coronary artery
+Coronary heart disease,7923z,7923z00,Prosthetic replacement of coronary artery
+Coronary heart disease,7923-99,7923.99,Prosthetic replacement of coronary artery
+Coronary heart disease,^ESCT1190462,,Prosthetic replacement of coronary artery
+Coronary heart disease,7923-1,7923.11,Prosthetic replacement of coronary artery
+Coronary heart disease,7923,7923.00,Prosthetic bypass of coronary artery
+Coronary heart disease,7923y,7923y00,Prosthetic bypass of coronary artery
+Coronary heart disease,7923z,7923z00,Prosthetic bypass of coronary artery
+Coronary heart disease,7923-99,7923.99,Prosthetic bypass of coronary artery
+Coronary heart disease,^ESCT1190462,,Prosthetic bypass of coronary artery
+Coronary heart disease,7923-1,7923.11,Prosthetic bypass of coronary artery
+Coronary heart disease,79230,7923000,Prosthetic replacement of one coronary artery
+Coronary heart disease,^ESCT1167240,,Prosthetic replacement of one coronary artery
+Coronary heart disease,^ESCT1167239,,Prosthetic replacement of one coronary artery
+Coronary heart disease,^ESCT1167243,,Prosthetic replacement of two coronary arteries
+Coronary heart disease,^ESCT1167244,,Prosthetic replacement of two coronary arteries
+Coronary heart disease,79231,7923100,Prosthetic replacement of two coronary arteries
+Coronary heart disease,^ESCT1167242,,Prosthetic replacement of three coronary arteries
+Coronary heart disease,79232,7923200,Prosthetic replacement of three coronary arteries
+Coronary heart disease,^ESCT1167241,,Prosthetic replacement of three coronary arteries
+Coronary heart disease,^ESCT1167238,,Prosthetic replacement of four or more coronary arteries
+Coronary heart disease,79233,7923300,Prosthetic replacement of four or more coronary arteries
+Coronary heart disease,^ESCT1167237,,Prosthetic replacement of four or more coronary arteries
+Coronary heart disease,7923,7923.00,Prosthetic replacement of coronary artery NOS
+Coronary heart disease,7923y,7923y00,Prosthetic replacement of coronary artery NOS
+Coronary heart disease,7923z,7923z00,Prosthetic replacement of coronary artery NOS
+Coronary heart disease,7923-99,7923.99,Prosthetic replacement of coronary artery NOS
+Coronary heart disease,^ESCT1190462,,Prosthetic replacement of coronary artery NOS
+Coronary heart disease,7923-1,7923.11,Prosthetic replacement of coronary artery NOS
+Coronary heart disease,7925,7925.00,Connection of mammary artery to coronary artery
+Coronary heart disease,7925-1,7925.11,Connection of mammary artery to coronary artery
+Coronary heart disease,7925z,7925z00,Connection of mammary artery to coronary artery
+Coronary heart disease,7925-98,7925.98,Connection of mammary artery to coronary artery
+Coronary heart disease,7925-99,7925.99,Connection of mammary artery to coronary artery
+Coronary heart disease,7925y,7925y00,Connection of mammary artery to coronary artery
+Coronary heart disease,7925,7925.00,Creation of bypass from mammary artery to coronary artery
+Coronary heart disease,7925-1,7925.11,Creation of bypass from mammary artery to coronary artery
+Coronary heart disease,7925z,7925z00,Creation of bypass from mammary artery to coronary artery
+Coronary heart disease,7925-98,7925.98,Creation of bypass from mammary artery to coronary artery
+Coronary heart disease,7925-99,7925.99,Creation of bypass from mammary artery to coronary artery
+Coronary heart disease,7925y,7925y00,Creation of bypass from mammary artery to coronary artery
+Coronary heart disease,79250,7925000,Double anastomosis of mammary arteries to coronary arteries
+Coronary heart disease,79251,7925100,Double implantation of mammary arteries into coronary arteries
+Coronary heart disease,79253,7925300,Single anastomosis of mammary artery to coronary artery NEC
+Coronary heart disease,^ESCTCA504015,,Single anastomosis of mammary artery to coronary artery NEC
+Coronary heart disease,79263,7926300,Single anastomosis of mammary artery to coronary artery NEC
+Coronary heart disease,^ESCTCO504014,,Single anastomosis of mammary artery to coronary artery NEC
+Coronary heart disease,79210,7921000,Single anastomosis of mammary artery to coronary artery NEC
+Coronary heart disease,79262,7926200,Single anastomosis of mammary artery to coronary artery NEC
+Coronary heart disease,^ESCTLE557061,,LIMA single anastomosis
+Coronary heart disease,^ESCTLE557062,,LIMA single anastomosis
+Coronary heart disease,79253-1,7925311,LIMA single anastomosis
+Coronary heart disease,79253-2,7925312,RIMA single anastomosis
+Coronary heart disease,^ESCTRI557065,,RIMA single anastomosis
+Coronary heart disease,^ESCTRI557064,,RIMA single anastomosis
+Coronary heart disease,79254,7925400,Single implantation of mammary artery into coronary artery
+Coronary heart disease,7925,7925.00,Connection of mammary artery to coronary artery OS
+Coronary heart disease,7925-1,7925.11,Connection of mammary artery to coronary artery OS
+Coronary heart disease,7925z,7925z00,Connection of mammary artery to coronary artery OS
+Coronary heart disease,7925-98,7925.98,Connection of mammary artery to coronary artery OS
+Coronary heart disease,7925-99,7925.99,Connection of mammary artery to coronary artery OS
+Coronary heart disease,7925y,7925y00,Connection of mammary artery to coronary artery OS
+Coronary heart disease,7925,7925.00,Connection of mammary artery to coronary artery NOS
+Coronary heart disease,7925-1,7925.11,Connection of mammary artery to coronary artery NOS
+Coronary heart disease,7925z,7925z00,Connection of mammary artery to coronary artery NOS
+Coronary heart disease,7925-98,7925.98,Connection of mammary artery to coronary artery NOS
+Coronary heart disease,7925-99,7925.99,Connection of mammary artery to coronary artery NOS
+Coronary heart disease,7925y,7925y00,Connection of mammary artery to coronary artery NOS
+Coronary heart disease,7921-1,7921.11,Connection of other thoracic artery to coronary artery
+Coronary heart disease,^ESCTCB504010,,Connection of other thoracic artery to coronary artery
+Coronary heart disease,^ESCTCO504011,,Connection of other thoracic artery to coronary artery
+Coronary heart disease,792Dz,792Dz00,Connection of other thoracic artery to coronary artery
+Coronary heart disease,7921,7921.00,Connection of other thoracic artery to coronary artery
+Coronary heart disease,7921z,7921z00,Connection of other thoracic artery to coronary artery
+Coronary heart disease,792C,792C.00,Connection of other thoracic artery to coronary artery
+Coronary heart disease,792Cz,792Cz00,Connection of other thoracic artery to coronary artery
+Coronary heart disease,792D,792D.00,Connection of other thoracic artery to coronary artery
+Coronary heart disease,792Dy,792Dy00,Connection of other thoracic artery to coronary artery
+Coronary heart disease,7921y,7921y00,Connection of other thoracic artery to coronary artery
+Coronary heart disease,7926y,7926y00,Connection of other thoracic artery to coronary artery
+Coronary heart disease,^ESCTCA504013,,Connection of other thoracic artery to coronary artery
+Coronary heart disease,^ESCTCA504009,,Connection of other thoracic artery to coronary artery
+Coronary heart disease,7926,7926.00,Connection of other thoracic artery to coronary artery
+Coronary heart disease,7926z,7926z00,Connection of other thoracic artery to coronary artery
+Coronary heart disease,792Cy,792Cy00,Connection of other thoracic artery to coronary artery
+Coronary heart disease,792-1,792..11,Connection of other thoracic artery to coronary artery
+Coronary heart disease,^ESCTCA504017,,Double anastom thoracic arteries to coronary arteries NEC
+Coronary heart disease,79260,7926000,Double anastom thoracic arteries to coronary arteries NEC
+Coronary heart disease,79261,7926100,Double anastom thoracic arteries to coronary arteries NEC
+Coronary heart disease,79211,7921100,Double anastom thoracic arteries to coronary arteries NEC
+Coronary heart disease,^ESCTCO504016,,Double anastom thoracic arteries to coronary arteries NEC
+Coronary heart disease,79253,7925300,Single anastomosis of thoracic artery to coronary artery NEC
+Coronary heart disease,^ESCTCA504015,,Single anastomosis of thoracic artery to coronary artery NEC
+Coronary heart disease,79263,7926300,Single anastomosis of thoracic artery to coronary artery NEC
+Coronary heart disease,^ESCTCO504014,,Single anastomosis of thoracic artery to coronary artery NEC
+Coronary heart disease,79210,7921000,Single anastomosis of thoracic artery to coronary artery NEC
+Coronary heart disease,79262,7926200,Single anastomosis of thoracic artery to coronary artery NEC
+Coronary heart disease,79253,7925300,Single implantation thoracic artery into coronary artery NEC
+Coronary heart disease,^ESCTCA504015,,Single implantation thoracic artery into coronary artery NEC
+Coronary heart disease,79263,7926300,Single implantation thoracic artery into coronary artery NEC
+Coronary heart disease,^ESCTCO504014,,Single implantation thoracic artery into coronary artery NEC
+Coronary heart disease,79210,7921000,Single implantation thoracic artery into coronary artery NEC
+Coronary heart disease,79262,7926200,Single implantation thoracic artery into coronary artery NEC
+Coronary heart disease,7921-1,7921.11,Connection of other thoracic artery to coronary artery NOS
+Coronary heart disease,^ESCTCB504010,,Connection of other thoracic artery to coronary artery NOS
+Coronary heart disease,^ESCTCO504011,,Connection of other thoracic artery to coronary artery NOS
+Coronary heart disease,792Dz,792Dz00,Connection of other thoracic artery to coronary artery NOS
+Coronary heart disease,7921,7921.00,Connection of other thoracic artery to coronary artery NOS
+Coronary heart disease,7921z,7921z00,Connection of other thoracic artery to coronary artery NOS
+Coronary heart disease,792C,792C.00,Connection of other thoracic artery to coronary artery NOS
+Coronary heart disease,792Cz,792Cz00,Connection of other thoracic artery to coronary artery NOS
+Coronary heart disease,792D,792D.00,Connection of other thoracic artery to coronary artery NOS
+Coronary heart disease,792Dy,792Dy00,Connection of other thoracic artery to coronary artery NOS
+Coronary heart disease,7921y,7921y00,Connection of other thoracic artery to coronary artery NOS
+Coronary heart disease,7926y,7926y00,Connection of other thoracic artery to coronary artery NOS
+Coronary heart disease,^ESCTCA504013,,Connection of other thoracic artery to coronary artery NOS
+Coronary heart disease,^ESCTCA504009,,Connection of other thoracic artery to coronary artery NOS
+Coronary heart disease,7926,7926.00,Connection of other thoracic artery to coronary artery NOS
+Coronary heart disease,7926z,7926z00,Connection of other thoracic artery to coronary artery NOS
+Coronary heart disease,792Cy,792Cy00,Connection of other thoracic artery to coronary artery NOS
+Coronary heart disease,792-1,792..11,Connection of other thoracic artery to coronary artery NOS
+Coronary heart disease,79275,7927500,Open angioplasty of coronary artery
+Coronary heart disease,79275-99,7927599,Open angioplasty of coronary artery
+Coronary heart disease,^ESCTCO272498,,Open angioplasty of coronary artery
+Coronary heart disease,^ESCTBA267661,,Percutaneous balloon coronary angioplasty
+Coronary heart disease,7928,7928.00,Percutaneous balloon coronary angioplasty
+Coronary heart disease,7928-1,7928.11,Percutaneous balloon coronary angioplasty
+Coronary heart disease,^ESCTPT267663,,Percutaneous balloon coronary angioplasty
+Coronary heart disease,^ESCTPE267664,,Percutaneous balloon coronary angioplasty
+Coronary heart disease,^ESCTPE267662,,Percutaneous balloon coronary angioplasty
+Coronary heart disease,7928y,7928y00,Percutaneous balloon coronary angioplasty
+Coronary heart disease,7928-99,7928.99,Percutaneous balloon coronary angioplasty
+Coronary heart disease,7928z,7928z00,Percutaneous balloon coronary angioplasty
+Coronary heart disease,79280-99,7928099,Percutaneous transluminal balloon angioplasty of one coronary artery
+Coronary heart disease,79280,7928000,Percutaneous transluminal balloon angioplasty of one coronary artery
+Coronary heart disease,^ESCTRE361414,,Percutaneous transluminal balloon angioplasty of one coronary artery
+Coronary heart disease,^ESCTBA388343,,Percutaneous transluminal balloon angioplasty of multiple coronary arteries
+Coronary heart disease,^ESCTPE388342,,Percutaneous transluminal balloon angioplasty of multiple coronary arteries
+Coronary heart disease,79281,7928100,Percutaneous transluminal balloon angioplasty of multiple coronary arteries
+Coronary heart disease,79282,7928200,Percutaneous transluminal balloon angioplasty of bypass graft of coronary artery
+Coronary heart disease,79283,7928300,Percutaneous transluminal cutting balloon angioplasty of coronary artery
+Coronary heart disease,^ESCTBA267661,,Transluminal balloon angioplasty of coronary artery OS
+Coronary heart disease,7928,7928.00,Transluminal balloon angioplasty of coronary artery OS
+Coronary heart disease,7928-1,7928.11,Transluminal balloon angioplasty of coronary artery OS
+Coronary heart disease,^ESCTPT267663,,Transluminal balloon angioplasty of coronary artery OS
+Coronary heart disease,^ESCTPE267664,,Transluminal balloon angioplasty of coronary artery OS
+Coronary heart disease,^ESCTPE267662,,Transluminal balloon angioplasty of coronary artery OS
+Coronary heart disease,7928y,7928y00,Transluminal balloon angioplasty of coronary artery OS
+Coronary heart disease,7928-99,7928.99,Transluminal balloon angioplasty of coronary artery OS
+Coronary heart disease,7928z,7928z00,Transluminal balloon angioplasty of coronary artery OS
+Coronary heart disease,^ESCTBA267661,,Transluminal balloon angioplasty of coronary artery NOS
+Coronary heart disease,7928,7928.00,Transluminal balloon angioplasty of coronary artery NOS
+Coronary heart disease,7928-1,7928.11,Transluminal balloon angioplasty of coronary artery NOS
+Coronary heart disease,^ESCTPT267663,,Transluminal balloon angioplasty of coronary artery NOS
+Coronary heart disease,^ESCTPE267664,,Transluminal balloon angioplasty of coronary artery NOS
+Coronary heart disease,^ESCTPE267662,,Transluminal balloon angioplasty of coronary artery NOS
+Coronary heart disease,7928y,7928y00,Transluminal balloon angioplasty of coronary artery NOS
+Coronary heart disease,7928-99,7928.99,Transluminal balloon angioplasty of coronary artery NOS
+Coronary heart disease,7928z,7928z00,Transluminal balloon angioplasty of coronary artery NOS
+Coronary heart disease,^ESCTLA298034,,Percutaneous transluminal laser coronary angioplasty
+Coronary heart disease,^ESCTPE298035,,Percutaneous transluminal laser coronary angioplasty
+Coronary heart disease,^ESCTCO298033,,Percutaneous transluminal laser coronary angioplasty
+Coronary heart disease,79290,7929000,Percutaneous transluminal laser coronary angioplasty
+Coronary heart disease,^ESCTPE658311,,Rotary blade coronary angioplasty
+Coronary heart disease,79293,7929300,Rotary blade coronary angioplasty
+Coronary heart disease,^ESCTPL309562,,Insertion of coronary artery stent
+Coronary heart disease,79294,7929400,Insertion of coronary artery stent
+Coronary heart disease,79295,7929500,Insertion of drug-eluting coronary artery stent
+Coronary heart disease,^ESCTPE504028,,Percutaneous transluminal atherectomy of coronary artery
+Coronary heart disease,79296,7929600,Percutaneous transluminal atherectomy of coronary artery
+Coronary heart disease,^ESCTCO282972,,Endarterectomy of coronary artery
+Coronary heart disease,^ESCTTH282971,,Endarterectomy of coronary artery
+Coronary heart disease,792B0,792B000,Endarterectomy of coronary artery
+Coronary heart disease,7921-1,7921.11,Other replacement of coronary artery
+Coronary heart disease,^ESCTCB504010,,Other replacement of coronary artery
+Coronary heart disease,^ESCTCO504011,,Other replacement of coronary artery
+Coronary heart disease,792Dz,792Dz00,Other replacement of coronary artery
+Coronary heart disease,7921,7921.00,Other replacement of coronary artery
+Coronary heart disease,7921z,7921z00,Other replacement of coronary artery
+Coronary heart disease,792C,792C.00,Other replacement of coronary artery
+Coronary heart disease,792Cz,792Cz00,Other replacement of coronary artery
+Coronary heart disease,792D,792D.00,Other replacement of coronary artery
+Coronary heart disease,792Dy,792Dy00,Other replacement of coronary artery
+Coronary heart disease,7921y,7921y00,Other replacement of coronary artery
+Coronary heart disease,7926y,7926y00,Other replacement of coronary artery
+Coronary heart disease,^ESCTCA504013,,Other replacement of coronary artery
+Coronary heart disease,^ESCTCA504009,,Other replacement of coronary artery
+Coronary heart disease,7926,7926.00,Other replacement of coronary artery
+Coronary heart disease,7926z,7926z00,Other replacement of coronary artery
+Coronary heart disease,792Cy,792Cy00,Other replacement of coronary artery
+Coronary heart disease,792-1,792..11,Other replacement of coronary artery
+Coronary heart disease,792C0,792C000,Replacement of coronary arteries using multiple methods
+Coronary heart disease,7921-1,7921.11,Other specified replacement of coronary artery
+Coronary heart disease,^ESCTCB504010,,Other specified replacement of coronary artery
+Coronary heart disease,^ESCTCO504011,,Other specified replacement of coronary artery
+Coronary heart disease,792Dz,792Dz00,Other specified replacement of coronary artery
+Coronary heart disease,7921,7921.00,Other specified replacement of coronary artery
+Coronary heart disease,7921z,7921z00,Other specified replacement of coronary artery
+Coronary heart disease,792C,792C.00,Other specified replacement of coronary artery
+Coronary heart disease,792Cz,792Cz00,Other specified replacement of coronary artery
+Coronary heart disease,792D,792D.00,Other specified replacement of coronary artery
+Coronary heart disease,792Dy,792Dy00,Other specified replacement of coronary artery
+Coronary heart disease,7921y,7921y00,Other specified replacement of coronary artery
+Coronary heart disease,7926y,7926y00,Other specified replacement of coronary artery
+Coronary heart disease,^ESCTCA504013,,Other specified replacement of coronary artery
+Coronary heart disease,^ESCTCA504009,,Other specified replacement of coronary artery
+Coronary heart disease,7926,7926.00,Other specified replacement of coronary artery
+Coronary heart disease,7926z,7926z00,Other specified replacement of coronary artery
+Coronary heart disease,792Cy,792Cy00,Other specified replacement of coronary artery
+Coronary heart disease,792-1,792..11,Other specified replacement of coronary artery
+Coronary heart disease,7921-1,7921.11,Replacement of coronary artery NOS
+Coronary heart disease,^ESCTCB504010,,Replacement of coronary artery NOS
+Coronary heart disease,^ESCTCO504011,,Replacement of coronary artery NOS
+Coronary heart disease,792Dz,792Dz00,Replacement of coronary artery NOS
+Coronary heart disease,7921,7921.00,Replacement of coronary artery NOS
+Coronary heart disease,7921z,7921z00,Replacement of coronary artery NOS
+Coronary heart disease,792C,792C.00,Replacement of coronary artery NOS
+Coronary heart disease,792Cz,792Cz00,Replacement of coronary artery NOS
+Coronary heart disease,792D,792D.00,Replacement of coronary artery NOS
+Coronary heart disease,792Dy,792Dy00,Replacement of coronary artery NOS
+Coronary heart disease,7921y,7921y00,Replacement of coronary artery NOS
+Coronary heart disease,7926y,7926y00,Replacement of coronary artery NOS
+Coronary heart disease,^ESCTCA504013,,Replacement of coronary artery NOS
+Coronary heart disease,^ESCTCA504009,,Replacement of coronary artery NOS
+Coronary heart disease,7926,7926.00,Replacement of coronary artery NOS
+Coronary heart disease,7926z,7926z00,Replacement of coronary artery NOS
+Coronary heart disease,792Cy,792Cy00,Replacement of coronary artery NOS
+Coronary heart disease,792-1,792..11,Replacement of coronary artery NOS
+Coronary heart disease,7921-1,7921.11,Coronary artery bypass graft
+Coronary heart disease,^ESCTCB504010,,Coronary artery bypass graft
+Coronary heart disease,^ESCTCO504011,,Coronary artery bypass graft
+Coronary heart disease,792Dz,792Dz00,Coronary artery bypass graft
+Coronary heart disease,7921,7921.00,Coronary artery bypass graft
+Coronary heart disease,7921z,7921z00,Coronary artery bypass graft
+Coronary heart disease,792C,792C.00,Coronary artery bypass graft
+Coronary heart disease,792Cz,792Cz00,Coronary artery bypass graft
+Coronary heart disease,792D,792D.00,Coronary artery bypass graft
+Coronary heart disease,792Dy,792Dy00,Coronary artery bypass graft
+Coronary heart disease,7921y,7921y00,Coronary artery bypass graft
+Coronary heart disease,7926y,7926y00,Coronary artery bypass graft
+Coronary heart disease,^ESCTCA504013,,Coronary artery bypass graft
+Coronary heart disease,^ESCTCA504009,,Coronary artery bypass graft
+Coronary heart disease,7926,7926.00,Coronary artery bypass graft
+Coronary heart disease,7926z,7926z00,Coronary artery bypass graft
+Coronary heart disease,792Cy,792Cy00,Coronary artery bypass graft
+Coronary heart disease,792-1,792..11,Coronary artery bypass graft
+Coronary heart disease,7921-1,7921.11,Other specified other bypass of coronary artery
+Coronary heart disease,^ESCTCB504010,,Other specified other bypass of coronary artery
+Coronary heart disease,^ESCTCO504011,,Other specified other bypass of coronary artery
+Coronary heart disease,792Dz,792Dz00,Other specified other bypass of coronary artery
+Coronary heart disease,7921,7921.00,Other specified other bypass of coronary artery
+Coronary heart disease,7921z,7921z00,Other specified other bypass of coronary artery
+Coronary heart disease,792C,792C.00,Other specified other bypass of coronary artery
+Coronary heart disease,792Cz,792Cz00,Other specified other bypass of coronary artery
+Coronary heart disease,792D,792D.00,Other specified other bypass of coronary artery
+Coronary heart disease,792Dy,792Dy00,Other specified other bypass of coronary artery
+Coronary heart disease,7921y,7921y00,Other specified other bypass of coronary artery
+Coronary heart disease,7926y,7926y00,Other specified other bypass of coronary artery
+Coronary heart disease,^ESCTCA504013,,Other specified other bypass of coronary artery
+Coronary heart disease,^ESCTCA504009,,Other specified other bypass of coronary artery
+Coronary heart disease,7926,7926.00,Other specified other bypass of coronary artery
+Coronary heart disease,7926z,7926z00,Other specified other bypass of coronary artery
+Coronary heart disease,792Cy,792Cy00,Other specified other bypass of coronary artery
+Coronary heart disease,792-1,792..11,Other specified other bypass of coronary artery
+Coronary heart disease,7921-1,7921.11,Other bypass of coronary artery NOS
+Coronary heart disease,^ESCTCB504010,,Other bypass of coronary artery NOS
+Coronary heart disease,^ESCTCO504011,,Other bypass of coronary artery NOS
+Coronary heart disease,792Dz,792Dz00,Other bypass of coronary artery NOS
+Coronary heart disease,7921,7921.00,Other bypass of coronary artery NOS
+Coronary heart disease,7921z,7921z00,Other bypass of coronary artery NOS
+Coronary heart disease,792C,792C.00,Other bypass of coronary artery NOS
+Coronary heart disease,792Cz,792Cz00,Other bypass of coronary artery NOS
+Coronary heart disease,792D,792D.00,Other bypass of coronary artery NOS
+Coronary heart disease,792Dy,792Dy00,Other bypass of coronary artery NOS
+Coronary heart disease,7921y,7921y00,Other bypass of coronary artery NOS
+Coronary heart disease,7926y,7926y00,Other bypass of coronary artery NOS
+Coronary heart disease,^ESCTCA504013,,Other bypass of coronary artery NOS
+Coronary heart disease,^ESCTCA504009,,Other bypass of coronary artery NOS
+Coronary heart disease,7926,7926.00,Other bypass of coronary artery NOS
+Coronary heart disease,7926z,7926z00,Other bypass of coronary artery NOS
+Coronary heart disease,792Cy,792Cy00,Other bypass of coronary artery NOS
+Coronary heart disease,792-1,792..11,Other bypass of coronary artery NOS
+Coronary heart disease,793G2,793G200,Percutaneous transluminal balloon angioplasty with insertion of stent into coronary artery
+Coronary heart disease,793Gy,793Gy00,Percutaneous transluminal balloon angioplasty with insertion of stent into coronary artery
+Coronary heart disease,793Gz,793Gz00,Percutaneous transluminal balloon angioplasty with insertion of stent into coronary artery
+Coronary heart disease,793G,793G.00,Percutaneous transluminal balloon angioplasty with insertion of stent into coronary artery
+Coronary heart disease,793G3,793G300,Percutaneous transluminal balloon angioplasty with insertion of stent into coronary artery
+Coronary heart disease,793G0,793G000,Percutaneous transluminal balloon angioplasty and insertion of drug eluting stent into coronary artery
+Coronary heart disease,793G1,793G100,Percutaneous transluminal balloon angioplasty and insertion of drug eluting stent into coronary artery
+Coronary heart disease,793G0,793G000,Perc tran ball angio ins 3 or more drug elut stents cor art
+Coronary heart disease,793G1,793G100,Perc tran ball angio ins 3 or more drug elut stents cor art
+Coronary heart disease,793G2,793G200,Perc translum balloon angioplasty insert 1-2 stents cor art
+Coronary heart disease,793Gy,793Gy00,Perc translum balloon angioplasty insert 1-2 stents cor art
+Coronary heart disease,793Gz,793Gz00,Perc translum balloon angioplasty insert 1-2 stents cor art
+Coronary heart disease,793G,793G.00,Perc translum balloon angioplasty insert 1-2 stents cor art
+Coronary heart disease,793G3,793G300,Perc translum balloon angioplasty insert 1-2 stents cor art
+Coronary heart disease,793G2,793G200,Percutaneous cor balloon angiop 3 more stents cor art NEC
+Coronary heart disease,793Gy,793Gy00,Percutaneous cor balloon angiop 3 more stents cor art NEC
+Coronary heart disease,793Gz,793Gz00,Percutaneous cor balloon angiop 3 more stents cor art NEC
+Coronary heart disease,793G,793G.00,Percutaneous cor balloon angiop 3 more stents cor art NEC
+Coronary heart disease,793G3,793G300,Percutaneous cor balloon angiop 3 more stents cor art NEC
+Coronary heart disease,793G2,793G200,OS perc translumina balloon angioplast stenting coronary art
+Coronary heart disease,793Gy,793Gy00,OS perc translumina balloon angioplast stenting coronary art
+Coronary heart disease,793Gz,793Gz00,OS perc translumina balloon angioplast stenting coronary art
+Coronary heart disease,793G,793G.00,OS perc translumina balloon angioplast stenting coronary art
+Coronary heart disease,793G3,793G300,OS perc translumina balloon angioplast stenting coronary art
+Coronary heart disease,793G2,793G200,Perc translum balloon angioplasty stenting coronary art NOS
+Coronary heart disease,793Gy,793Gy00,Perc translum balloon angioplasty stenting coronary art NOS
+Coronary heart disease,793Gz,793Gz00,Perc translum balloon angioplasty stenting coronary art NOS
+Coronary heart disease,793G,793G.00,Perc translum balloon angioplasty stenting coronary art NOS
+Coronary heart disease,793G3,793G300,Perc translum balloon angioplasty stenting coronary art NOS
+Coronary heart disease,^ESCTPE559157,,Percutaneous balloon angioplasty of artery
+Coronary heart disease,7A540,7A54000,Percutaneous balloon angioplasty of artery
+Coronary heart disease,7A545,7A54500,Rotary blade angioplasty
+Coronary heart disease,7A548,7A54800,Percutaneous endarterectomy
+Coronary heart disease,7A564,7A56400,Percutaneous transluminal balloon angioplasty of artery
+Coronary heart disease,7A6G1,7A6G100,Peroperative angioplasty
+Coronary heart disease,7A6H3,7A6H300,Prosthetic graft patch angioplasty
+Coronary heart disease,7A6H4,7A6H400,Percutaneous transluminal angioplasty of vascular graft
+Coronary heart disease,889A,889A.00,Diabetes mellitus insulin-glucose infusion in acute myocardial infarction
+Coronary heart disease,^ESCTDI605660,,Diabetes mellitus insulin-glucose infusion in acute myocardial infarction
+Coronary heart disease,8B27,8B27.00,Antianginal therapy
+Coronary heart disease,8B3k,8B3k.00,Coronary heart disease medication review
+Coronary heart disease,^ESCTEM751900,,Emergency hospital admission for ischaemic heart disease
+Coronary heart disease,^ESCTEM751898,,Emergency hospital admission for ischaemic heart disease
+Coronary heart disease,8H2V,8H2V.00,Emergency hospital admission for ischaemic heart disease
+Coronary heart disease,^ESCT1249070,,Emergency hospital admission for ischaemic heart disease
+Coronary heart disease,Gyu3,Gyu3.00,Ischaemic heart disease
+Coronary heart disease,^ESCTIH686026,,Ischaemic heart disease
+Coronary heart disease,G31yz,G31yz00,Ischaemic heart disease
+Coronary heart disease,Gyu32,Gyu3200,Ischaemic heart disease
+Coronary heart disease,G31,G31..00,Ischaemic heart disease
+Coronary heart disease,G3y,G3y..00,Ischaemic heart disease
+Coronary heart disease,G3,G3...00,Ischaemic heart disease
+Coronary heart disease,G3-3,G3...13,Ischaemic heart disease
+Coronary heart disease,G31y,G31y.00,Ischaemic heart disease
+Coronary heart disease,^ESCTIS686025,,Ischaemic heart disease
+Coronary heart disease,G3z,G3z..00,Ischaemic heart disease
+Coronary heart disease,G3-1,G3...11,Arteriosclerotic heart disease
+Coronary heart disease,^ESCTAT727849,,Arteriosclerotic heart disease
+Coronary heart disease,G3-2,G3...12,Arteriosclerotic heart disease
+Coronary heart disease,G340,G340.00,Arteriosclerotic heart disease
+Coronary heart disease,G3-1,G3...11,Atherosclerotic heart disease
+Coronary heart disease,^ESCTAT727849,,Atherosclerotic heart disease
+Coronary heart disease,G3-2,G3...12,Atherosclerotic heart disease
+Coronary heart disease,G340,G340.00,Atherosclerotic heart disease
+Coronary heart disease,Gyu3,Gyu3.00,IHD - Ischaemic heart disease
+Coronary heart disease,^ESCTIH686026,,IHD - Ischaemic heart disease
+Coronary heart disease,G31yz,G31yz00,IHD - Ischaemic heart disease
+Coronary heart disease,Gyu32,Gyu3200,IHD - Ischaemic heart disease
+Coronary heart disease,G31,G31..00,IHD - Ischaemic heart disease
+Coronary heart disease,G3y,G3y..00,IHD - Ischaemic heart disease
+Coronary heart disease,G3,G3...00,IHD - Ischaemic heart disease
+Coronary heart disease,G3-3,G3...13,IHD - Ischaemic heart disease
+Coronary heart disease,G31y,G31y.00,IHD - Ischaemic heart disease
+Coronary heart disease,^ESCTIS686025,,IHD - Ischaemic heart disease
+Coronary heart disease,G3z,G3z..00,IHD - Ischaemic heart disease
+Coronary heart disease,G30y,G30y.00,Acute myocardial infarction
+Coronary heart disease,G30yz,G30yz00,Acute myocardial infarction
+Coronary heart disease,G30z,G30z.00,Acute myocardial infarction
+Coronary heart disease,^ESCTAM342720,,Acute myocardial infarction
+Coronary heart disease,G30X,G30X.00,Acute myocardial infarction
+Coronary heart disease,G30-99,G30..99,Acute myocardial infarction
+Coronary heart disease,G30-5,G30..15,Acute myocardial infarction
+Coronary heart disease,G30,G30..00,Acute myocardial infarction
+Coronary heart disease,G30-98,G30..98,Acute myocardial infarction
+Coronary heart disease,Gyu34,Gyu3400,Acute myocardial infarction
+Coronary heart disease,G30-1,G30..11,Attack - heart
+Coronary heart disease,^ESCTMY285535,,Attack - heart
+Coronary heart disease,^ESCTMY285530,,Attack - heart
+Coronary heart disease,^ESCTIN285531,,Attack - heart
+Coronary heart disease,G30-4,G30..14,Attack - heart
+Coronary heart disease,^ESCTMI285534,,Attack - heart
+Coronary heart disease,^ESCTCA285532,,Attack - heart
+Coronary heart disease,^ESCTCO660112,,Coronary thrombosis
+Coronary heart disease,^ESCTCT660113,,Coronary thrombosis
+Coronary heart disease,G30-2,G30..12,Coronary thrombosis
+Coronary heart disease,G30-6,G30..16,Coronary thrombosis
+Coronary heart disease,G30-3,G30..13,Cardiac rupture after acute myocardial infarction
+Coronary heart disease,^ESCT1222130,,Cardiac rupture after acute myocardial infarction
+Coronary heart disease,G30-1,G30..11,Heart attack
+Coronary heart disease,^ESCTMY285535,,Heart attack
+Coronary heart disease,^ESCTMY285530,,Heart attack
+Coronary heart disease,^ESCTIN285531,,Heart attack
+Coronary heart disease,G30-4,G30..14,Heart attack
+Coronary heart disease,^ESCTMI285534,,Heart attack
+Coronary heart disease,^ESCTCA285532,,Heart attack
+Coronary heart disease,G30y,G30y.00,MI - acute myocardial infarction
+Coronary heart disease,G30yz,G30yz00,MI - acute myocardial infarction
+Coronary heart disease,G30z,G30z.00,MI - acute myocardial infarction
+Coronary heart disease,^ESCTAM342720,,MI - acute myocardial infarction
+Coronary heart disease,G30X,G30X.00,MI - acute myocardial infarction
+Coronary heart disease,G30-99,G30..99,MI - acute myocardial infarction
+Coronary heart disease,G30-5,G30..15,MI - acute myocardial infarction
+Coronary heart disease,G30,G30..00,MI - acute myocardial infarction
+Coronary heart disease,G30-98,G30..98,MI - acute myocardial infarction
+Coronary heart disease,Gyu34,Gyu3400,MI - acute myocardial infarction
+Coronary heart disease,^ESCTCO660112,,Thrombosis - coronary
+Coronary heart disease,^ESCTCT660113,,Thrombosis - coronary
+Coronary heart disease,G30-2,G30..12,Thrombosis - coronary
+Coronary heart disease,G30-6,G30..16,Thrombosis - coronary
+Coronary heart disease,^ESCTMI505646,,Silent myocardial infarction
+Coronary heart disease,G30-7,G30..17,Silent myocardial infarction
+Coronary heart disease,G300,G300.00,Acute anterolateral myocardial infarction
+Coronary heart disease,^ESCTAC364164,,Acute anterolateral myocardial infarction
+Coronary heart disease,G301,G301.00,Acute anterior myocardial infarction
+Coronary heart disease,G301z,G301z00,Acute anterior myocardial infarction
+Coronary heart disease,^ESCTAC338160,,Acute anterior myocardial infarction
+Coronary heart disease,^ESCTAC334347,,Acute anteroapical infarction
+Coronary heart disease,G3010,G301000,Acute anteroapical infarction
+Coronary heart disease,G3011,G301100,Acute anteroseptal myocardial infarction
+Coronary heart disease,G301,G301.00,Anterior myocardial infarction NOS
+Coronary heart disease,G301z,G301z00,Anterior myocardial infarction NOS
+Coronary heart disease,^ESCTAC338160,,Anterior myocardial infarction NOS
+Coronary heart disease,^ESCTAC356587,,Acute inferolateral myocardial infarction
+Coronary heart disease,G302,G302.00,Acute inferolateral myocardial infarction
+Coronary heart disease,G303,G303.00,Acute inferoposterior infarction
+Coronary heart disease,^ESCTAC374574,,Acute inferoposterior infarction
+Coronary heart disease,G304,G304.00,Acute posterior myocardial infarction
+Coronary heart disease,G305,G305.00,Acute lateral myocardial infarction
+Coronary heart disease,^ESCTAC345218,,Acute lateral myocardial infarction
+Coronary heart disease,G306,G306.00,True posterior myocardial infarction
+Coronary heart disease,^ESCTTR477588,,True posterior myocardial infarction
+Coronary heart disease,^ESCTAC364535,,Acute subendocardial infarction
+Coronary heart disease,G307,G307.00,Acute subendocardial infarction
+Coronary heart disease,G3070,G307000,Acute non-Q wave infarction
+Coronary heart disease,^ESCTNS665139,,Acute non-ST segment elevation myocardial infarction
+Coronary heart disease,G3071,G307100,Acute non-ST segment elevation myocardial infarction
+Coronary heart disease,^ESCTAC369991,,Acute myocardial infarction of inferior wall
+Coronary heart disease,G308,G308.00,Acute myocardial infarction of inferior wall
+Coronary heart disease,^ESCTAC369992,,Acute myocardial infarction of inferior wall
+Coronary heart disease,^ESCTAC593532,,Acute Q-wave infarct
+Coronary heart disease,G309,G309.00,Acute Q-wave infarct
+Coronary heart disease,^ESCTEN398394,,Mural thrombosis
+Coronary heart disease,^ESCTMU398393,,Mural thrombosis
+Coronary heart disease,G30A,G30A.00,Mural thrombosis
+Coronary heart disease,G30B,G30B.00,Acute myocardial infarction of posterolateral wall
+Coronary heart disease,G30y,G30y.00,Acute transmural myocardial infarction of unspecif site
+Coronary heart disease,G30yz,G30yz00,Acute transmural myocardial infarction of unspecif site
+Coronary heart disease,G30z,G30z.00,Acute transmural myocardial infarction of unspecif site
+Coronary heart disease,^ESCTAM342720,,Acute transmural myocardial infarction of unspecif site
+Coronary heart disease,G30X,G30X.00,Acute transmural myocardial infarction of unspecif site
+Coronary heart disease,G30-99,G30..99,Acute transmural myocardial infarction of unspecif site
+Coronary heart disease,G30-5,G30..15,Acute transmural myocardial infarction of unspecif site
+Coronary heart disease,G30,G30..00,Acute transmural myocardial infarction of unspecif site
+Coronary heart disease,G30-98,G30..98,Acute transmural myocardial infarction of unspecif site
+Coronary heart disease,Gyu34,Gyu3400,Acute transmural myocardial infarction of unspecif site
+Coronary heart disease,^ESCTST665122,,Acute ST segment elevation myocardial infarction
+Coronary heart disease,G30X0,G30X000,Acute ST segment elevation myocardial infarction
+Coronary heart disease,G30y,G30y.00,Other acute myocardial infarction
+Coronary heart disease,G30yz,G30yz00,Other acute myocardial infarction
+Coronary heart disease,G30z,G30z.00,Other acute myocardial infarction
+Coronary heart disease,^ESCTAM342720,,Other acute myocardial infarction
+Coronary heart disease,G30X,G30X.00,Other acute myocardial infarction
+Coronary heart disease,G30-99,G30..99,Other acute myocardial infarction
+Coronary heart disease,G30-5,G30..15,Other acute myocardial infarction
+Coronary heart disease,G30,G30..00,Other acute myocardial infarction
+Coronary heart disease,G30-98,G30..98,Other acute myocardial infarction
+Coronary heart disease,Gyu34,Gyu3400,Other acute myocardial infarction
+Coronary heart disease,G30y0,G30y000,Acute atrial infarction
+Coronary heart disease,^ESCTAC477589,,Acute atrial infarction
+Coronary heart disease,^ESCTAC266344,,Acute papillary muscle infarction
+Coronary heart disease,G30y1,G30y100,Acute papillary muscle infarction
+Coronary heart disease,^ESCTAC378491,,Acute septal infarction
+Coronary heart disease,^ESCTAC378492,,Acute septal infarction
+Coronary heart disease,G30y2,G30y200,Acute septal infarction
+Coronary heart disease,G30y,G30y.00,Other acute myocardial infarction NOS
+Coronary heart disease,G30yz,G30yz00,Other acute myocardial infarction NOS
+Coronary heart disease,G30z,G30z.00,Other acute myocardial infarction NOS
+Coronary heart disease,^ESCTAM342720,,Other acute myocardial infarction NOS
+Coronary heart disease,G30X,G30X.00,Other acute myocardial infarction NOS
+Coronary heart disease,G30-99,G30..99,Other acute myocardial infarction NOS
+Coronary heart disease,G30-5,G30..15,Other acute myocardial infarction NOS
+Coronary heart disease,G30,G30..00,Other acute myocardial infarction NOS
+Coronary heart disease,G30-98,G30..98,Other acute myocardial infarction NOS
+Coronary heart disease,Gyu34,Gyu3400,Other acute myocardial infarction NOS
+Coronary heart disease,G30y,G30y.00,Acute myocardial infarction NOS
+Coronary heart disease,G30yz,G30yz00,Acute myocardial infarction NOS
+Coronary heart disease,G30z,G30z.00,Acute myocardial infarction NOS
+Coronary heart disease,^ESCTAM342720,,Acute myocardial infarction NOS
+Coronary heart disease,G30X,G30X.00,Acute myocardial infarction NOS
+Coronary heart disease,G30-99,G30..99,Acute myocardial infarction NOS
+Coronary heart disease,G30-5,G30..15,Acute myocardial infarction NOS
+Coronary heart disease,G30,G30..00,Acute myocardial infarction NOS
+Coronary heart disease,G30-98,G30..98,Acute myocardial infarction NOS
+Coronary heart disease,Gyu34,Gyu3400,Acute myocardial infarction NOS
+Coronary heart disease,Gyu3,Gyu3.00,Other acute and subacute ischaemic heart disease
+Coronary heart disease,^ESCTIH686026,,Other acute and subacute ischaemic heart disease
+Coronary heart disease,G31yz,G31yz00,Other acute and subacute ischaemic heart disease
+Coronary heart disease,Gyu32,Gyu3200,Other acute and subacute ischaemic heart disease
+Coronary heart disease,G31,G31..00,Other acute and subacute ischaemic heart disease
+Coronary heart disease,G3y,G3y..00,Other acute and subacute ischaemic heart disease
+Coronary heart disease,G3,G3...00,Other acute and subacute ischaemic heart disease
+Coronary heart disease,G3-3,G3...13,Other acute and subacute ischaemic heart disease
+Coronary heart disease,G31y,G31y.00,Other acute and subacute ischaemic heart disease
+Coronary heart disease,^ESCTIS686025,,Other acute and subacute ischaemic heart disease
+Coronary heart disease,G3z,G3z..00,Other acute and subacute ischaemic heart disease
+Coronary heart disease,^ESCTPO357639,,Post-myocardial infarction syndrome
+Coronary heart disease,G310-1,G310.11,Post-myocardial infarction syndrome
+Coronary heart disease,^ESCTPO357637,,Post-myocardial infarction syndrome
+Coronary heart disease,G310,G310.00,Post-myocardial infarction syndrome
+Coronary heart disease,^ESCTPO357639,,Dressler's syndrome
+Coronary heart disease,G310-1,G310.11,Dressler's syndrome
+Coronary heart disease,^ESCTPO357637,,Dressler's syndrome
+Coronary heart disease,G310,G310.00,Dressler's syndrome
+Coronary heart disease,G311-3,G311.13,Preinfarction syndrome
+Coronary heart disease,^ESCTIN257153,,Preinfarction syndrome
+Coronary heart disease,^ESCTPR257157,,Preinfarction syndrome
+Coronary heart disease,G311z,G311z00,Preinfarction syndrome
+Coronary heart disease,G3111,G311100,Preinfarction syndrome
+Coronary heart disease,G3114,G311400,Preinfarction syndrome
+Coronary heart disease,G311-1,G311.11,Preinfarction syndrome
+Coronary heart disease,^ESCTPR257156,,Preinfarction syndrome
+Coronary heart disease,G311,G311.00,Preinfarction syndrome
+Coronary heart disease,G311-3,G311.13,Crescendo angina
+Coronary heart disease,^ESCTIN257153,,Crescendo angina
+Coronary heart disease,^ESCTPR257157,,Crescendo angina
+Coronary heart disease,G311z,G311z00,Crescendo angina
+Coronary heart disease,G3111,G311100,Crescendo angina
+Coronary heart disease,G3114,G311400,Crescendo angina
+Coronary heart disease,G311-1,G311.11,Crescendo angina
+Coronary heart disease,^ESCTPR257156,,Crescendo angina
+Coronary heart disease,G311,G311.00,Crescendo angina
+Coronary heart disease,G311-2,G311.12,Impending infarction
+Coronary heart disease,G311-3,G311.13,Unstable angina
+Coronary heart disease,^ESCTIN257153,,Unstable angina
+Coronary heart disease,^ESCTPR257157,,Unstable angina
+Coronary heart disease,G311z,G311z00,Unstable angina
+Coronary heart disease,G3111,G311100,Unstable angina
+Coronary heart disease,G3114,G311400,Unstable angina
+Coronary heart disease,G311-1,G311.11,Unstable angina
+Coronary heart disease,^ESCTPR257156,,Unstable angina
+Coronary heart disease,G311,G311.00,Unstable angina
+Coronary heart disease,G330z,G330z00,Angina at rest
+Coronary heart disease,^ESCTAN345879,,Angina at rest
+Coronary heart disease,G311-4,G311.14,Angina at rest
+Coronary heart disease,G3112,G311200,Angina at rest
+Coronary heart disease,G330,G330.00,Angina at rest
+Coronary heart disease,^ESCTAB477593,,Myocardial infarction aborted
+Coronary heart disease,G3110,G311000,Myocardial infarction aborted
+Coronary heart disease,G3110-1,G311011,Myocardial infarction aborted
+Coronary heart disease,G312,G312.00,Myocardial infarction aborted
+Coronary heart disease,^ESCTAB477593,,MI - Myocardial infarction aborted
+Coronary heart disease,G3110,G311000,MI - Myocardial infarction aborted
+Coronary heart disease,G3110-1,G311011,MI - Myocardial infarction aborted
+Coronary heart disease,G312,G312.00,MI - Myocardial infarction aborted
+Coronary heart disease,G3113,G311300,Refractory angina
+Coronary heart disease,G311-3,G311.13,Worsening angina
+Coronary heart disease,^ESCTIN257153,,Worsening angina
+Coronary heart disease,^ESCTPR257157,,Worsening angina
+Coronary heart disease,G311z,G311z00,Worsening angina
+Coronary heart disease,G3111,G311100,Worsening angina
+Coronary heart disease,G3114,G311400,Worsening angina
+Coronary heart disease,G311-1,G311.11,Worsening angina
+Coronary heart disease,^ESCTPR257156,,Worsening angina
+Coronary heart disease,G311,G311.00,Worsening angina
+Coronary heart disease,^ESCTAC654611,,Acute coronary syndrome
+Coronary heart disease,G3115,G311500,Acute coronary syndrome
+Coronary heart disease,^ESCTAB477593,,Coronary thrombosis not resulting in myocardial infarction
+Coronary heart disease,G3110,G311000,Coronary thrombosis not resulting in myocardial infarction
+Coronary heart disease,G3110-1,G311011,Coronary thrombosis not resulting in myocardial infarction
+Coronary heart disease,G312,G312.00,Coronary thrombosis not resulting in myocardial infarction
+Coronary heart disease,G31y0,G31y000,Acute coronary insufficiency
+Coronary heart disease,G31y0-99,G31y099,Acute coronary insufficiency
+Coronary heart disease,^ESCTMI318577,,Microinfarction of heart
+Coronary heart disease,G31y1,G31y100,Microinfarction of heart
+Coronary heart disease,G31y2,G31y200,Subendocardial ischaemia
+Coronary heart disease,^ESCTSU324470,,Subendocardial ischaemia
+Coronary heart disease,G31y3,G31y300,Transient myocardial ischaemia
+Coronary heart disease,^ESCTTR605307,,Transient myocardial ischaemia
+Coronary heart disease,Gyu3,Gyu3.00,Other acute and subacute ischaemic heart disease NOS
+Coronary heart disease,^ESCTIH686026,,Other acute and subacute ischaemic heart disease NOS
+Coronary heart disease,G31yz,G31yz00,Other acute and subacute ischaemic heart disease NOS
+Coronary heart disease,Gyu32,Gyu3200,Other acute and subacute ischaemic heart disease NOS
+Coronary heart disease,G31,G31..00,Other acute and subacute ischaemic heart disease NOS
+Coronary heart disease,G3y,G3y..00,Other acute and subacute ischaemic heart disease NOS
+Coronary heart disease,G3,G3...00,Other acute and subacute ischaemic heart disease NOS
+Coronary heart disease,G3-3,G3...13,Other acute and subacute ischaemic heart disease NOS
+Coronary heart disease,G31y,G31y.00,Other acute and subacute ischaemic heart disease NOS
+Coronary heart disease,^ESCTIS686025,,Other acute and subacute ischaemic heart disease NOS
+Coronary heart disease,G3z,G3z..00,Other acute and subacute ischaemic heart disease NOS
+Coronary heart disease,G32-1,G32..11,Old myocardial infarction
+Coronary heart disease,G32,G32..00,Old myocardial infarction
+Coronary heart disease,^ESCTHE252635,,Old myocardial infarction
+Coronary heart disease,G32-1,G32..11,Healed myocardial infarction
+Coronary heart disease,G32,G32..00,Healed myocardial infarction
+Coronary heart disease,^ESCTHE252635,,Healed myocardial infarction
+Coronary heart disease,^ESCTPA661919,,Personal history of myocardial infarction
+Coronary heart disease,^ESCTPR661920,,Personal history of myocardial infarction
+Coronary heart disease,G32-2,G32..12,Personal history of myocardial infarction
+Coronary heart disease,14AT,14AT.00,Personal history of myocardial infarction
+Coronary heart disease,G33zz,G33zz00,Angina pectoris
+Coronary heart disease,Gyu30,Gyu3000,Angina pectoris
+Coronary heart disease,^ESCTAN477600,,Angina pectoris
+Coronary heart disease,^ESCTAN477597,,Angina pectoris
+Coronary heart disease,^ESCTCA477598,,Angina pectoris
+Coronary heart disease,^ESCTIS477603,,Angina pectoris
+Coronary heart disease,^ESCTAP477601,,Angina pectoris
+Coronary heart disease,G33z,G33z.00,Angina pectoris
+Coronary heart disease,G33z1,G33z100,Angina pectoris
+Coronary heart disease,G33,G33..00,Angina pectoris
+Coronary heart disease,^ESCTIS477602,,Angina pectoris
+Coronary heart disease,G330z,G330z00,Angina decubitus
+Coronary heart disease,^ESCTAN345879,,Angina decubitus
+Coronary heart disease,G311-4,G311.14,Angina decubitus
+Coronary heart disease,G3112,G311200,Angina decubitus
+Coronary heart disease,G330,G330.00,Angina decubitus
+Coronary heart disease,G3300,G330000,Nocturnal angina
+Coronary heart disease,G330z,G330z00,Angina decubitus NOS
+Coronary heart disease,^ESCTAN345879,,Angina decubitus NOS
+Coronary heart disease,G311-4,G311.14,Angina decubitus NOS
+Coronary heart disease,G3112,G311200,Angina decubitus NOS
+Coronary heart disease,G330,G330.00,Angina decubitus NOS
+Coronary heart disease,G33zz,G33zz00,Angina pectoris NOS
+Coronary heart disease,Gyu30,Gyu3000,Angina pectoris NOS
+Coronary heart disease,^ESCTAN477600,,Angina pectoris NOS
+Coronary heart disease,^ESCTAN477597,,Angina pectoris NOS
+Coronary heart disease,^ESCTCA477598,,Angina pectoris NOS
+Coronary heart disease,^ESCTIS477603,,Angina pectoris NOS
+Coronary heart disease,^ESCTAP477601,,Angina pectoris NOS
+Coronary heart disease,G33z,G33z.00,Angina pectoris NOS
+Coronary heart disease,G33z1,G33z100,Angina pectoris NOS
+Coronary heart disease,G33,G33..00,Angina pectoris NOS
+Coronary heart disease,^ESCTIS477602,,Angina pectoris NOS
+Coronary heart disease,G33z0,G33z000,Status anginosus
+Coronary heart disease,G33zz,G33zz00,Stenocardia
+Coronary heart disease,Gyu30,Gyu3000,Stenocardia
+Coronary heart disease,^ESCTAN477600,,Stenocardia
+Coronary heart disease,^ESCTAN477597,,Stenocardia
+Coronary heart disease,^ESCTCA477598,,Stenocardia
+Coronary heart disease,^ESCTIS477603,,Stenocardia
+Coronary heart disease,^ESCTAP477601,,Stenocardia
+Coronary heart disease,G33z,G33z.00,Stenocardia
+Coronary heart disease,G33z1,G33z100,Stenocardia
+Coronary heart disease,G33,G33..00,Stenocardia
+Coronary heart disease,^ESCTIS477602,,Stenocardia
+Coronary heart disease,G33z2,G33z200,Syncope anginosa
+Coronary heart disease,^ESCTEX588763,,Angina on effort
+Coronary heart disease,^ESCTEX588761,,Angina on effort
+Coronary heart disease,^ESCTAN588764,,Angina on effort
+Coronary heart disease,G33z3,G33z300,Angina on effort
+Coronary heart disease,G33z4,G33z400,Ischaemic chest pain
+Coronary heart disease,^ESCTIS494333,,Ischaemic chest pain
+Coronary heart disease,G33z5,G33z500,Post infarct angina
+Coronary heart disease,G33z6,G33z600,New onset angina
+Coronary heart disease,G33z7,G33z700,Stable angina
+Coronary heart disease,G34z,G34z.00,Chronic ischaemic heart disease
+Coronary heart disease,G34y,G34y.00,Chronic ischaemic heart disease
+Coronary heart disease,Gyu33,Gyu3300,Chronic ischaemic heart disease
+Coronary heart disease,G34,G34..00,Chronic ischaemic heart disease
+Coronary heart disease,G34yz,G34yz00,Chronic ischaemic heart disease
+Coronary heart disease,^ESCTCH684776,,Chronic ischaemic heart disease
+Coronary heart disease,G3-1,G3...11,Coronary atherosclerosis
+Coronary heart disease,^ESCTAT727849,,Coronary atherosclerosis
+Coronary heart disease,G3-2,G3...12,Coronary atherosclerosis
+Coronary heart disease,G340,G340.00,Coronary atherosclerosis
+Coronary heart disease,G340-2,G340.12,Coronary artery disease
+Coronary heart disease,^ESCTCA337138,,Coronary artery disease
+Coronary heart disease,^ESCTCO337142,,Coronary artery disease
+Coronary heart disease,^ESCTCO337136,,Coronary artery disease
+Coronary heart disease,^ESCTCO337140,,Coronary artery disease
+Coronary heart disease,^ESCTCH337141,,Coronary artery disease
+Coronary heart disease,^ESCTAR337137,,Coronary artery disease
+Coronary heart disease,^ESCTGE477612,,Ischaemic cardiomyopathy
+Coronary heart disease,G343,G343.00,Ischaemic cardiomyopathy
+Coronary heart disease,^ESCTIS477614,,Ischaemic cardiomyopathy
+Coronary heart disease,^ESCTGE477613,,Ischaemic cardiomyopathy
+Coronary heart disease,^ESCTAS505625,,Silent myocardial ischaemia
+Coronary heart disease,^ESCTSI505624,,Silent myocardial ischaemia
+Coronary heart disease,^ESCTAS505626,,Silent myocardial ischaemia
+Coronary heart disease,G344,G344.00,Silent myocardial ischaemia
+Coronary heart disease,G34z,G34z.00,Other specified chronic ischaemic heart disease
+Coronary heart disease,G34y,G34y.00,Other specified chronic ischaemic heart disease
+Coronary heart disease,Gyu33,Gyu3300,Other specified chronic ischaemic heart disease
+Coronary heart disease,G34,G34..00,Other specified chronic ischaemic heart disease
+Coronary heart disease,G34yz,G34yz00,Other specified chronic ischaemic heart disease
+Coronary heart disease,^ESCTCH684776,,Other specified chronic ischaemic heart disease
+Coronary heart disease,^ESCTCH684787,,Chronic coronary insufficiency
+Coronary heart disease,G34y1,G34y100,Chronic coronary insufficiency
+Coronary heart disease,G34y0,G34y000,Chronic coronary insufficiency
+Coronary heart disease,^ESCTCH684787,,Chronic myocardial ischaemia
+Coronary heart disease,G34y1,G34y100,Chronic myocardial ischaemia
+Coronary heart disease,G34y0,G34y000,Chronic myocardial ischaemia
+Coronary heart disease,G34z,G34z.00,Other specified chronic ischaemic heart disease NOS
+Coronary heart disease,G34y,G34y.00,Other specified chronic ischaemic heart disease NOS
+Coronary heart disease,Gyu33,Gyu3300,Other specified chronic ischaemic heart disease NOS
+Coronary heart disease,G34,G34..00,Other specified chronic ischaemic heart disease NOS
+Coronary heart disease,G34yz,G34yz00,Other specified chronic ischaemic heart disease NOS
+Coronary heart disease,^ESCTCH684776,,Other specified chronic ischaemic heart disease NOS
+Coronary heart disease,G34z,G34z.00,Other chronic ischaemic heart disease NOS
+Coronary heart disease,G34y,G34y.00,Other chronic ischaemic heart disease NOS
+Coronary heart disease,Gyu33,Gyu3300,Other chronic ischaemic heart disease NOS
+Coronary heart disease,G34,G34..00,Other chronic ischaemic heart disease NOS
+Coronary heart disease,G34yz,G34yz00,Other chronic ischaemic heart disease NOS
+Coronary heart disease,^ESCTCH684776,,Other chronic ischaemic heart disease NOS
+Coronary heart disease,G34z0,G34z000,Asymptomatic coronary heart disease
+Coronary heart disease,G353,G353.00,Subsequent myocardial infarction
+Coronary heart disease,G35X,G35X.00,Subsequent myocardial infarction
+Coronary heart disease,^ESCTRE477617,,Subsequent myocardial infarction
+Coronary heart disease,Gyu35,Gyu3500,Subsequent myocardial infarction
+Coronary heart disease,G35,G35..00,Subsequent myocardial infarction
+Coronary heart disease,Gyu36,Gyu3600,Subsequent myocardial infarction
+Coronary heart disease,G350,G350.00,Subsequent myocardial infarction of anterior wall
+Coronary heart disease,G351,G351.00,Subsequent myocardial infarction of inferior wall
+Coronary heart disease,G353,G353.00,Subsequent myocardial infarction of other sites
+Coronary heart disease,G35X,G35X.00,Subsequent myocardial infarction of other sites
+Coronary heart disease,^ESCTRE477617,,Subsequent myocardial infarction of other sites
+Coronary heart disease,Gyu35,Gyu3500,Subsequent myocardial infarction of other sites
+Coronary heart disease,G35,G35..00,Subsequent myocardial infarction of other sites
+Coronary heart disease,Gyu36,Gyu3600,Subsequent myocardial infarction of other sites
+Coronary heart disease,G353,G353.00,Subsequent myocardial infarction of unspecified site
+Coronary heart disease,G35X,G35X.00,Subsequent myocardial infarction of unspecified site
+Coronary heart disease,^ESCTRE477617,,Subsequent myocardial infarction of unspecified site
+Coronary heart disease,Gyu35,Gyu3500,Subsequent myocardial infarction of unspecified site
+Coronary heart disease,G35,G35..00,Subsequent myocardial infarction of unspecified site
+Coronary heart disease,Gyu36,Gyu3600,Subsequent myocardial infarction of unspecified site
+Coronary heart disease,G36,G36..00,Myocardial infarction with complication
+Coronary heart disease,^ESCTMY634865,,Myocardial infarction with complication
+Coronary heart disease,G360,G360.00,Haemopericardium as current complication following acute myocardial infarction
+Coronary heart disease,^ESCT1222075,,Haemopericardium as current complication following acute myocardial infarction
+Coronary heart disease,^ESCTHE477622,,Haemopericardium as current complication following acute myocardial infarction
+Coronary heart disease,^ESCT1222076,,Haemopericardium as current complication following acute myocardial infarction
+Coronary heart disease,^ESCT1222077,,Atrial septal defect as current complication following acute myocardial infarction
+Coronary heart disease,G361,G361.00,Atrial septal defect as current complication following acute myocardial infarction
+Coronary heart disease,G362,G362.00,Ventricular septal defect as current complication following acute myocardial infarction
+Coronary heart disease,^ESCTDE505652,,Ventricular septal defect as current complication following acute myocardial infarction
+Coronary heart disease,^ESCTPO505650,,Ventricular septal defect as current complication following acute myocardial infarction
+Coronary heart disease,G363,G363.00,Rupture of cardiac wall without haemopericardium as current complication following acute myocardial infarction
+Coronary heart disease,^ESCTRU477625,,Rupture of cardiac wall without haemopericardium as current complication following acute myocardial infarction
+Coronary heart disease,G364,G364.00,Rupture of chordae tendinae as current complication following acute myocardial infarction
+Coronary heart disease,^ESCT1222078,,Rupture of chordae tendinae as current complication following acute myocardial infarction
+Coronary heart disease,G365,G365.00,Rupture of papillary muscle as current complication following acute myocardial infarction
+Coronary heart disease,G366,G366.00,"Thrombosis of atrium, auricular appendage, and ventricle as current complications following acute myocardial infarction"
+Coronary heart disease,^ESCT1222079,,"Thrombosis of atrium, auricular appendage, and ventricle as current complications following acute myocardial infarction"
+Coronary heart disease,G383,G383.00,Postoperative myocardial infarction
+Coronary heart disease,G38z,G38z.00,Postoperative myocardial infarction
+Coronary heart disease,G38,G38..00,Postoperative myocardial infarction
+Coronary heart disease,G382,G382.00,Postoperative myocardial infarction
+Coronary heart disease,G380,G380.00,Postoperative transmural myocardial infarction of anterior wall
+Coronary heart disease,G381,G381.00,Postoperative transmural myocardial infarction of inferior wall
+Coronary heart disease,G384,G384.00,Postoperative subendocardial myocardial infarction
+Coronary heart disease,G383,G383.00,"Postoperative myocardial infarction, unspecified"
+Coronary heart disease,G38z,G38z.00,"Postoperative myocardial infarction, unspecified"
+Coronary heart disease,G38,G38..00,"Postoperative myocardial infarction, unspecified"
+Coronary heart disease,G382,G382.00,"Postoperative myocardial infarction, unspecified"
+Coronary heart disease,Gyu3,Gyu3.00,Other specified ischaemic heart disease
+Coronary heart disease,^ESCTIH686026,,Other specified ischaemic heart disease
+Coronary heart disease,G31yz,G31yz00,Other specified ischaemic heart disease
+Coronary heart disease,Gyu32,Gyu3200,Other specified ischaemic heart disease
+Coronary heart disease,G31,G31..00,Other specified ischaemic heart disease
+Coronary heart disease,G3y,G3y..00,Other specified ischaemic heart disease
+Coronary heart disease,G3,G3...00,Other specified ischaemic heart disease
+Coronary heart disease,G3-3,G3...13,Other specified ischaemic heart disease
+Coronary heart disease,G31y,G31y.00,Other specified ischaemic heart disease
+Coronary heart disease,^ESCTIS686025,,Other specified ischaemic heart disease
+Coronary heart disease,G3z,G3z..00,Other specified ischaemic heart disease
+Coronary heart disease,Gyu3,Gyu3.00,Ischaemic heart disease NOS
+Coronary heart disease,^ESCTIH686026,,Ischaemic heart disease NOS
+Coronary heart disease,G31yz,G31yz00,Ischaemic heart disease NOS
+Coronary heart disease,Gyu32,Gyu3200,Ischaemic heart disease NOS
+Coronary heart disease,G31,G31..00,Ischaemic heart disease NOS
+Coronary heart disease,G3y,G3y..00,Ischaemic heart disease NOS
+Coronary heart disease,G3,G3...00,Ischaemic heart disease NOS
+Coronary heart disease,G3-3,G3...13,Ischaemic heart disease NOS
+Coronary heart disease,G31y,G31y.00,Ischaemic heart disease NOS
+Coronary heart disease,^ESCTIS686025,,Ischaemic heart disease NOS
+Coronary heart disease,G3z,G3z..00,Ischaemic heart disease NOS
+Coronary heart disease,^ESCTPO505694,,Post infarction pericarditis
+Coronary heart disease,^ESCTPE505695,,Post infarction pericarditis
+Coronary heart disease,G501,G501.00,Post infarction pericarditis
+Coronary heart disease,Gyu3,Gyu3.00,[X]Ischaemic heart diseases
+Coronary heart disease,^ESCTIH686026,,[X]Ischaemic heart diseases
+Coronary heart disease,G31yz,G31yz00,[X]Ischaemic heart diseases
+Coronary heart disease,Gyu32,Gyu3200,[X]Ischaemic heart diseases
+Coronary heart disease,G31,G31..00,[X]Ischaemic heart diseases
+Coronary heart disease,G3y,G3y..00,[X]Ischaemic heart diseases
+Coronary heart disease,G3,G3...00,[X]Ischaemic heart diseases
+Coronary heart disease,G3-3,G3...13,[X]Ischaemic heart diseases
+Coronary heart disease,G31y,G31y.00,[X]Ischaemic heart diseases
+Coronary heart disease,^ESCTIS686025,,[X]Ischaemic heart diseases
+Coronary heart disease,G3z,G3z..00,[X]Ischaemic heart diseases
+Coronary heart disease,G33zz,G33zz00,[X]Other forms of angina pectoris
+Coronary heart disease,Gyu30,Gyu3000,[X]Other forms of angina pectoris
+Coronary heart disease,^ESCTAN477600,,[X]Other forms of angina pectoris
+Coronary heart disease,^ESCTAN477597,,[X]Other forms of angina pectoris
+Coronary heart disease,^ESCTCA477598,,[X]Other forms of angina pectoris
+Coronary heart disease,^ESCTIS477603,,[X]Other forms of angina pectoris
+Coronary heart disease,^ESCTAP477601,,[X]Other forms of angina pectoris
+Coronary heart disease,G33z,G33z.00,[X]Other forms of angina pectoris
+Coronary heart disease,G33z1,G33z100,[X]Other forms of angina pectoris
+Coronary heart disease,G33,G33..00,[X]Other forms of angina pectoris
+Coronary heart disease,^ESCTIS477602,,[X]Other forms of angina pectoris
+Coronary heart disease,Gyu3,Gyu3.00,[X]Other forms of acute ischaemic heart disease
+Coronary heart disease,^ESCTIH686026,,[X]Other forms of acute ischaemic heart disease
+Coronary heart disease,G31yz,G31yz00,[X]Other forms of acute ischaemic heart disease
+Coronary heart disease,Gyu32,Gyu3200,[X]Other forms of acute ischaemic heart disease
+Coronary heart disease,G31,G31..00,[X]Other forms of acute ischaemic heart disease
+Coronary heart disease,G3y,G3y..00,[X]Other forms of acute ischaemic heart disease
+Coronary heart disease,G3,G3...00,[X]Other forms of acute ischaemic heart disease
+Coronary heart disease,G3-3,G3...13,[X]Other forms of acute ischaemic heart disease
+Coronary heart disease,G31y,G31y.00,[X]Other forms of acute ischaemic heart disease
+Coronary heart disease,^ESCTIS686025,,[X]Other forms of acute ischaemic heart disease
+Coronary heart disease,G3z,G3z..00,[X]Other forms of acute ischaemic heart disease
+Coronary heart disease,G34z,G34z.00,[X]Other forms of chronic ischaemic heart disease
+Coronary heart disease,G34y,G34y.00,[X]Other forms of chronic ischaemic heart disease
+Coronary heart disease,Gyu33,Gyu3300,[X]Other forms of chronic ischaemic heart disease
+Coronary heart disease,G34,G34..00,[X]Other forms of chronic ischaemic heart disease
+Coronary heart disease,G34yz,G34yz00,[X]Other forms of chronic ischaemic heart disease
+Coronary heart disease,^ESCTCH684776,,[X]Other forms of chronic ischaemic heart disease
+Coronary heart disease,G30y,G30y.00,[X]Acute transmural myocardial infarction of unspecif site
+Coronary heart disease,G30yz,G30yz00,[X]Acute transmural myocardial infarction of unspecif site
+Coronary heart disease,G30z,G30z.00,[X]Acute transmural myocardial infarction of unspecif site
+Coronary heart disease,^ESCTAM342720,,[X]Acute transmural myocardial infarction of unspecif site
+Coronary heart disease,G30X,G30X.00,[X]Acute transmural myocardial infarction of unspecif site
+Coronary heart disease,G30-99,G30..99,[X]Acute transmural myocardial infarction of unspecif site
+Coronary heart disease,G30-5,G30..15,[X]Acute transmural myocardial infarction of unspecif site
+Coronary heart disease,G30,G30..00,[X]Acute transmural myocardial infarction of unspecif site
+Coronary heart disease,G30-98,G30..98,[X]Acute transmural myocardial infarction of unspecif site
+Coronary heart disease,Gyu34,Gyu3400,[X]Acute transmural myocardial infarction of unspecif site
+Coronary heart disease,SP003,SP00300,Mechanical complication of coronary bypass
+Coronary heart disease,SP003-99,SP00399,Mechanical complication of coronary bypass
+Coronary heart disease,SP076,SP07600,Coronary artery bypass graft occlusion

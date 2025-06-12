@@ -1,0 +1,99 @@
+Condition,SNOMED_Code,SnomedCTDescriptionId,Term
+Spinal degenerative disease ,65260001,890851000006116,Cervical spond.with myelopathy
+Spinal degenerative disease ,202677007,890861000006119,Lumbosacral spond + myelopathy
+Spinal degenerative disease ,207968008,318465011,"Open fracture lumbar vertebra, spondylolysis"
+Spinal degenerative disease ,666611000000101,990511000006110,Spondyloses
+Spinal degenerative disease ,666611000000101,1463151000000118,Osteoarthritis of spine NOS
+Spinal degenerative disease ,666611000000101,1463161000000115,Spondylosis NOS
+Spinal degenerative disease ,192907007,297150011,Myelopathy due to spondylosis
+Spinal degenerative disease ,8847002,508047017,Arthritis of spine
+Spinal degenerative disease ,8847002,508047017,Osteoarthritis of spine
+Spinal degenerative disease ,65260001,108431018,Cervical spondylosis with myelopathy
+Spinal degenerative disease ,202661006,311061016,Single-level cervical spondylosis with myelopathy
+Spinal degenerative disease ,202662004,311062011,Two-level cervical spondylosis with myelopathy
+Spinal degenerative disease ,202663009,311063018,Multiple-level cervical spondylosis with myelopathy
+Spinal degenerative disease ,10948005,19006012,Thoracic spondylosis with myelopathy
+Spinal degenerative disease ,202670009,311072014,Single-level thoracic spondylosis with myelopathy
+Spinal degenerative disease ,202672001,311074010,Multiple-level thoracic spondylosis with myelopathy
+Spinal degenerative disease ,48210000,80324016,Lumbosacral spondylosis without myelopathy
+Spinal degenerative disease ,202674000,311079017,Single-level lumbosacral spondylosis without myelopathy
+Spinal degenerative disease ,202675004,311080019,Two-level lumbosacral spondylosis without myelopathy
+Spinal degenerative disease ,202676003,311081015,Multiple-level lumbosacral spondylosis without myelopathy
+Spinal degenerative disease ,202677007,311082010,Lumbosacral spondylosis with myelopathy
+Spinal degenerative disease ,202678002,311083017,Single-level lumbosacral spondylosis with myelopathy
+Spinal degenerative disease ,202679005,311084011,Two-level lumbosacral spondylosis with myelopathy
+Spinal degenerative disease ,202680008,311085012,Multiple-level lumbosacral spondylosis with myelopathy
+Spinal degenerative disease ,202693003,311106014,Lumbosacral spondylosis with radiculopathy
+Spinal degenerative disease ,202694009,311108010,Single-level lumbosacral spondylosis with radiculopathy
+Spinal degenerative disease ,202695005,311109019,Two-level lumbosacral spondylosis with radiculopathy
+Spinal degenerative disease ,202696006,311110012,Multiple-level lumbosacral spondylosis with radiculopathy
+Spinal degenerative disease ,8847002,508047017,Osteoarthritis of spine NOS
+Spinal degenerative disease ,8847002,15601012,Spondylosis NOS
+Spinal degenerative disease ,8847002,508047017,Osteoarthritis spine
+Spinal degenerative disease ,68859000,114373013,"Spondylosis without myelopathy, NOS"
+Spinal degenerative disease ,192907007,297150011,"Spondylosis with myelopathy, NOS"
+Spinal degenerative disease ,8847002,15601012,[X]Other spondylosis with radiculopathy
+Spinal degenerative disease ,8847002,15601012,[X]Other spondylosis
+Spinal degenerative disease ,387731002,1481809019,Laminectomy
+Spinal degenerative disease ,575091000000108,875071000006117,Laminectomy - unspecified
+Spinal degenerative disease ,575101000000100,875081000006119,Laminectomy site re-opening
+Spinal degenerative disease ,27151001,890921000006116,Post laminectomy syndrome
+Spinal degenerative disease ,265709001,394575012,Primary anterior excis cervical IV disc & interbody fusion
+Spinal degenerative disease ,178526006,276277012,Primary microdiscectomy of cervical intervertebral disc
+Spinal degenerative disease ,178553005,276312011,Primary costotransversectomy of thoracic intervertebral disc
+Spinal degenerative disease ,178618008,276388015,Primary lumbar discectomy
+Spinal degenerative disease ,178620006,276393017,Primary fenestration of lumbar intervertebral disc
+Spinal degenerative disease ,178625001,276400013,Primary lumbar microdiscectomy
+Spinal degenerative disease ,309702009,453172019,Primary percutaneous intradiscal lumbar discectomy
+Spinal degenerative disease ,178618008,276388015,Other specified primary lumbar discectomy
+Spinal degenerative disease ,178631003,276406019,Other specified revisional lumbar discectomy
+Spinal degenerative disease ,238001000000100,385661000000117,Primary automated percutan mech excis cerv intervert disc
+Spinal degenerative disease ,238281000000103,386251000000111,Primary percutaneous decompres coblat cerv intervert disc
+Spinal degenerative disease ,429558007,2772706015,Primary percut intrad radio thermocoag cerv intervert disc
+Spinal degenerative disease ,36427004,1228648018,Intervertebral disc disorders
+Spinal degenerative disease ,267974002,400273014,Cervical disc displacement without myelopathy
+Spinal degenerative disease ,267974002,400272016,Prolapsed cervical intervertebral disc without myelopathy
+Spinal degenerative disease ,240215009,359856016,Cervical disc displacement
+Spinal degenerative disease ,202707000,311131010,Thoracic disc displacement without myelopathy
+Spinal degenerative disease ,202707000,311130011,Prolapsed thoracic intervertebral disc without myelopathy
+Spinal degenerative disease ,202708005,311132015,Lumbar disc displacement
+Spinal degenerative disease ,202708005,311132015,Prolapsed lumbar intervertebral disc
+Spinal degenerative disease ,240213002,359854018,"Disc displacement, site unspecified, without myelopathy"
+Spinal degenerative disease ,73589001,122194016,Intervertebral disc prolapse NOS
+Spinal degenerative disease ,240213002,359854018,Prolapsed intervertebral disc without myelopathy
+Spinal degenerative disease ,45181002,75341011,Schmorl's nodes
+Spinal degenerative disease ,45181002,75341011,Schmorl's nodes of unspecified region
+Spinal degenerative disease ,86804002,143963017,Schmorl's nodes of the thoracic region
+Spinal degenerative disease ,29574001,49481016,Schmorl's nodes of the lumbar region
+Spinal degenerative disease ,45181002,75341011,"Schmorl's nodes, region NOS"
+Spinal degenerative disease ,69195002,114931012,Cervical disc degeneration
+Spinal degenerative disease ,68675004,114066012,Thoracic disc degeneration
+Spinal degenerative disease ,26538006,44436017,Lumbar disc degeneration
+Spinal degenerative disease ,77547008,128728011,Degenerative disc disease NOS
+Spinal degenerative disease ,202733008,311164010,Cervical disc prolapse with radiculopathy
+Spinal degenerative disease ,36427004,60784012,Other and unspecified disc disorders
+Spinal degenerative disease ,36427004,60784012,Other disc disorders of unspecified site
+Spinal degenerative disease ,425878001,2674166010,Other cervical disc disorders
+Spinal degenerative disease ,36427004,60784012,Other thoracic disc disorders
+Spinal degenerative disease ,443700006,2840290015,Other lumbar disc disorders
+Spinal degenerative disease ,202745004,311179015,Annular tear of cervical disc
+Spinal degenerative disease ,202746003,311180017,Resorption of cervical disc
+Spinal degenerative disease ,202747007,311181018,Calcification of cervical disc
+Spinal degenerative disease ,202749005,311183015,Annular tear of thoracic disc
+Spinal degenerative disease ,202751009,311185010,Calcification of thoracic disc
+Spinal degenerative disease ,202753007,311187019,Annular tear of lumbar disc
+Spinal degenerative disease ,202754001,311188012,Resorption of lumbar disc
+Spinal degenerative disease ,202755000,311189016,Calcification of lumbar disc
+Spinal degenerative disease ,202757008,311191012,Cervical disc disorder with radiculopathy
+Spinal degenerative disease ,36427004,60784012,Disc disorders NOS
+Spinal degenerative disease ,73589001,122194016,[X]Other cervical disc displacement
+Spinal degenerative disease ,69195002,114931012,[X]Other cervical disc degeneration
+Spinal degenerative disease ,425878001,2674166010,[X]Other cervical disc disorders
+Spinal degenerative disease ,36427004,60784012,[X]Lumbar+other intervertebral disc disordrs with myelopathy
+Spinal degenerative disease ,73589001,122194016,[X]Other specified intervertebral disc displacement
+Spinal degenerative disease ,77547008,128725014,[X]Other specified intervertebral disc degeneration
+Spinal degenerative disease ,36427004,60784012,[X]Other specified intervertebral disc disorders
+Spinal degenerative disease ,425878001,2674166010,"[X]Cervical disc disorder, unspecified"
+Spinal degenerative disease ,73589001,122194016,[Q] Central disc prolapse
+Spinal degenerative disease ,73589001,122194016,[Q] Posterolateral disc prolapse
+Spinal degenerative disease ,73589001,122194016,[Q] Sequestrated disc prolapse

@@ -1,0 +1,99 @@
+Condition,SNOMED_Code,SnomedCTDescriptionId,Term
+Epilepsy,352818000,472411018,Grand mal epilepsy
+Epilepsy,509341000000107,883041000006118,Petit mal epilepsy
+Epilepsy,509341000000107,1132501000000111,Petit-mal epilepsy
+Epilepsy,75023009,897431000006113,Post traumatic epilepsy
+Epilepsy,719425009,3316304010,SUDEP - sudden unexpected death in epilepsy
+Epilepsy,230437002,3513043019,Dravet Syndrome
+Epilepsy,192979009,2550890017,Generalised nonconvulsive epilepsy
+Epilepsy,28055006,46969011,Infantile spasms
+Epilepsy,7033004,12602012,Petit mal status
+Epilepsy,28055006,46971011,Salaam attacks
+Epilepsy,230423006,345289013,Unverricht - Lundborg disease
+Epilepsy,395689002,1489345013,Transient epileptic amnesia
+Epilepsy,407627004,2159227017,Epilepsy confirmed
+Epilepsy,230445007,345323014,Nocturnal epilepsy
+Epilepsy,5510009,10196013,[X]Schizophrenia-like psychosis in epilepsy
+Epilepsy,111479008,178719012,[X]Epileptic psychosis NOS
+Epilepsy,36217008,60439011,[X]Limbic epilepsy personality
+Epilepsy,230438007,345312010,[X]Acquired aphasia with epilepsy [Landau - Kleffner]
+Epilepsy,267581004,399395015,Progressive myoclonic epilepsy
+Epilepsy,192845009,297060016,Myoclonic encephalopathy
+Epilepsy,73495003,122038018,Dyssynergia cerebellaris myoclonica
+Epilepsy,84757009,178739011,Epilepsy
+Epilepsy,192979009,297264018,Generalised nonconvulsive epilepsy
+Epilepsy,509341000000107,1132511000000113,Petit mal (minor) epilepsy
+Epilepsy,509341000000107,1132511000000113,Epileptic absences
+Epilepsy,50866000,495804010,Pykno-epilepsy
+Epilepsy,192981006,297266016,Epileptic seizures - atonic
+Epilepsy,192982004,297267013,Epileptic seizures - akinetic
+Epilepsy,230413002,345275015,Juvenile absence epilepsy
+Epilepsy,230418006,345281011,Lennox-Gastaut syndrome
+Epilepsy,192979009,297263012,Other specified generalised nonconvulsive epilepsy
+Epilepsy,192979009,297264018,Generalised nonconvulsive epilepsy NOS
+Epilepsy,65120008,500033015,Generalised convulsive epilepsy
+Epilepsy,19598007,479713017,Grand mal (major) epilepsy
+Epilepsy,352818000,472410017,Tonic-clonic epilepsy
+Epilepsy,192990004,297281010,Neonatal myoclonic epilepsy
+Epilepsy,192990004,297280011,Otohara syndrome
+Epilepsy,192991000,297282015,Epileptic seizures - clonic
+Epilepsy,192992007,297283013,Epileptic seizures - myoclonic
+Epilepsy,192993002,297284019,Epileptic seizures - tonic
+Epilepsy,65120008,108213016,Other specified generalised convulsive epilepsy
+Epilepsy,65120008,500033015,Generalised convulsive epilepsy NOS
+Epilepsy,7033004,501555012,Petit mal status
+Epilepsy,13973009,23819016,Grand mal status
+Epilepsy,230456007,345339019,Status epilepticus
+Epilepsy,192999003,297295013,Partial epilepsy with impairment of consciousness
+Epilepsy,193000002,297296014,Temporal lobe epilepsy
+Epilepsy,361123003,477355017,Psychomotor epilepsy
+Epilepsy,193002005,297300010,Psychosensory epilepsy
+Epilepsy,193003000,297301014,Limbic system epilepsy
+Epilepsy,193004006,297302019,Epileptic automatism
+Epilepsy,407675009,2159274014,Complex partial epileptic seizure
+Epilepsy,192999003,297295013,Partial epilepsy with impairment of consciousness NOS
+Epilepsy,230381009,345224018,Partial epilepsy without impairment of consciousness
+Epilepsy,307357004,450603013,"Jacksonian, focal or motor epilepsy"
+Epilepsy,230381009,345225017,Focal epilepsy
+Epilepsy,307356008,450602015,Motor epilepsy
+Epilepsy,79745005,1234392012,Sensory induced epilepsy
+Epilepsy,193008009,297311019,Somatosensory epilepsy
+Epilepsy,193009001,297313016,Visceral reflex epilepsy
+Epilepsy,193009001,297312014,Partial epilepsy with autonomic symptoms
+Epilepsy,193010006,297314010,Visual reflex epilepsy
+Epilepsy,193011005,297315011,Unilateral epilepsy
+Epilepsy,199451000000106,301541000000116,Simple partial epileptic seizure
+Epilepsy,230381009,345227013,Partial epilepsy without impairment of consciousness OS
+Epilepsy,230381009,345227013,Partial epilepsy without impairment of consciousness NOS
+Epilepsy,28055006,46968015,Infantile spasms
+Epilepsy,28055006,46972016,Lightning spasms
+Epilepsy,28055006,46968015,West syndrome
+Epilepsy,28055006,46970012,Hypsarrhythmia
+Epilepsy,28055006,1225766016,Salaam attacks
+Epilepsy,28055006,46968015,Infantile spasms NOS
+Epilepsy,241006,1498010,Kojevnikov's epilepsy
+Epilepsy,230429005,345301010,Early infant epileptic encephalopathy wth suppression bursts
+Epilepsy,230429005,345302015,Ohtahara syndrome
+Epilepsy,6204001,11300012,Juvenile myoclonic epilepsy
+Epilepsy,361268000,478024019,Alcohol-induced epilepsy
+Epilepsy,230441003,345318014,Drug-induced epilepsy
+Epilepsy,230444006,345321011,Menstrual epilepsy
+Epilepsy,413101007,2474650018,Stress-induced epilepsy
+Epilepsy,95208000,512000013,Photosensitive epilepsy
+Epilepsy,230437002,345311015,Severe myoclonic epilepsy in infancy
+Epilepsy,230437002,2193821000000118,Dravet syndrome
+Epilepsy,230456007,345339019,"Status epilepticus, unspecified"
+Epilepsy,84757009,178739011,Other forms of epilepsy
+Epilepsy,193021002,297325018,Cursive (running) epilepsy
+Epilepsy,89525009,148427014,Gelastic epilepsy
+Epilepsy,193022009,297327014,Locl-rlt(foc)(part)idiop epilep&epilptic syn seiz locl onset
+Epilepsy,230460005,345345010,Complex partial status epilepticus
+Epilepsy,44145005,73622018,Benign Rolandic epilepsy
+Epilepsy,230387008,2793363010,Panayiotopoulos syndrome
+Epilepsy,84757009,178739011,Other forms of epilepsy NOS
+Epilepsy,84757009,178739011,Epilepsy NOS
+Epilepsy,313307000,457182017,Fit (in known epileptic) NOS
+Epilepsy,84757009,178739011,[X]Other generalized epilepsy and epileptic syndromes
+Epilepsy,84757009,178739011,[X]Other epilepsy
+Epilepsy,230456007,345339019,[X]Other status epilepticus
+Epilepsy,230456007,345339019,"[X]Status epilepticus, unspecified"
