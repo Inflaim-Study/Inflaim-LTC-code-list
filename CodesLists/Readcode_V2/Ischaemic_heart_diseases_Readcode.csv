@@ -1,0 +1,1087 @@
+Condition,ReadCode,CleansedReadCode,Term
+Ischaemic heart diseases,14A3,14A3.00,H/O: myocardial infarct at less than 60
+Ischaemic heart diseases,^ESCTHI454046,,H/O: myocardial infarct at less than 60
+Ischaemic heart diseases,14A4,14A4.00,H/O: myocardial infarct at greater than 60
+Ischaemic heart diseases,^ESCTHI454048,,H/O: myocardial infarct at greater than 60
+Ischaemic heart diseases,^ESCTHI454050,,H/O: angina pectoris
+Ischaemic heart diseases,14A5,14A5.00,H/O: angina pectoris
+Ischaemic heart diseases,^ESCTHI597448,,H/O: Myocardial infarction in last year
+Ischaemic heart diseases,14AH,14AH.00,H/O: Myocardial infarction in last year
+Ischaemic heart diseases,^ESCTHI597450,,H/O: Angina in last year
+Ischaemic heart diseases,14AJ,14AJ.00,H/O: Angina in last year
+Ischaemic heart diseases,^ESCTHI597455,,H/O: Treatment for ischaemic heart disease
+Ischaemic heart diseases,^ESCTHO597454,,H/O: Treatment for ischaemic heart disease
+Ischaemic heart diseases,14AL,14AL.00,H/O: Treatment for ischaemic heart disease
+Ischaemic heart diseases,^ESCTHI597456,,H/O: Treatment for ischaemic heart disease
+Ischaemic heart diseases,^ESCTEX458910,,Exercise ECG abnormal
+Ischaemic heart diseases,32131-1,3213111,Exercise ECG abnormal
+Ischaemic heart diseases,33B95,33B9500,Exercise ECG abnormal
+Ischaemic heart diseases,32131,3213100,Exercise ECG abnormal
+Ischaemic heart diseases,^ESCTEX458910,,Positive exercise ECG test
+Ischaemic heart diseases,32131-1,3213111,Positive exercise ECG test
+Ischaemic heart diseases,33B95,33B9500,Positive exercise ECG test
+Ischaemic heart diseases,32131,3213100,Positive exercise ECG test
+Ischaemic heart diseases,^ESCTEL458596,,ECG myocardial ischaemia
+Ischaemic heart diseases,^ESCTEL458597,,ECG myocardial ischaemia
+Ischaemic heart diseases,322,322..00,ECG myocardial ischaemia
+Ischaemic heart diseases,3222,3222.00,ECG myocardial ischaemia
+Ischaemic heart diseases,^ESCTEK458595,,ECG myocardial ischaemia
+Ischaemic heart diseases,322Z,322Z.00,ECG myocardial ischaemia
+Ischaemic heart diseases,^ESCTEL458596,,ECG:shows myocardial ischaemia
+Ischaemic heart diseases,^ESCTEL458597,,ECG:shows myocardial ischaemia
+Ischaemic heart diseases,322,322..00,ECG:shows myocardial ischaemia
+Ischaemic heart diseases,3222,3222.00,ECG:shows myocardial ischaemia
+Ischaemic heart diseases,^ESCTEK458595,,ECG:shows myocardial ischaemia
+Ischaemic heart diseases,322Z,322Z.00,ECG:shows myocardial ischaemia
+Ischaemic heart diseases,^ESCTEL458596,,ECG: myocardial ischaemia NOS
+Ischaemic heart diseases,^ESCTEL458597,,ECG: myocardial ischaemia NOS
+Ischaemic heart diseases,322,322..00,ECG: myocardial ischaemia NOS
+Ischaemic heart diseases,3222,3222.00,ECG: myocardial ischaemia NOS
+Ischaemic heart diseases,^ESCTEK458595,,ECG: myocardial ischaemia NOS
+Ischaemic heart diseases,322Z,322Z.00,ECG: myocardial ischaemia NOS
+Ischaemic heart diseases,^ESCTEL458603,,ECG: myocardial infarction
+Ischaemic heart diseases,^ESCTEL458604,,ECG: myocardial infarction
+Ischaemic heart diseases,323,323..00,ECG: myocardial infarction
+Ischaemic heart diseases,323Z,323Z.00,ECG: myocardial infarction
+Ischaemic heart diseases,^ESCTEK458605,,ECG: myocardial infarction
+Ischaemic heart diseases,^ESCTEC458615,,ECG: antero-septal infarct.
+Ischaemic heart diseases,^ESCTAN458611,,ECG: antero-septal infarct.
+Ischaemic heart diseases,^ESCTEC458613,,ECG: antero-septal infarct.
+Ischaemic heart diseases,3233,3233.00,ECG: antero-septal infarct.
+Ischaemic heart diseases,^ESCTEL458614,,ECG: antero-septal infarct.
+Ischaemic heart diseases,3234,3234.00,ECG:posterior/inferior infarct
+Ischaemic heart diseases,^ESCTEK458617,,ECG:posterior/inferior infarct
+Ischaemic heart diseases,^ESCTEL458618,,ECG:posterior/inferior infarct
+Ischaemic heart diseases,^ESCTEL458621,,ECG: subendocardial infarct
+Ischaemic heart diseases,^ESCTEK458620,,ECG: subendocardial infarct
+Ischaemic heart diseases,3235,3235.00,ECG: subendocardial infarct
+Ischaemic heart diseases,^ESCTEL458624,,ECG: lateral infarction
+Ischaemic heart diseases,^ESCTLA458622,,ECG: lateral infarction
+Ischaemic heart diseases,3236,3236.00,ECG: lateral infarction
+Ischaemic heart diseases,^ESCTEL458603,,ECG: myocardial infarct NOS
+Ischaemic heart diseases,^ESCTEL458604,,ECG: myocardial infarct NOS
+Ischaemic heart diseases,323,323..00,ECG: myocardial infarct NOS
+Ischaemic heart diseases,323Z,323Z.00,ECG: myocardial infarct NOS
+Ischaemic heart diseases,^ESCTEK458605,,ECG: myocardial infarct NOS
+Ischaemic heart diseases,32E4,32E4.00,ST depression
+Ischaemic heart diseases,^ESCTST291834,,ST depression
+Ischaemic heart diseases,^ESCTEL458757,,ECG: T wave abnormal
+Ischaemic heart diseases,32F2,32F2.00,ECG: T wave abnormal
+Ischaemic heart diseases,^ESCTEK458756,,ECG: T wave abnormal
+Ischaemic heart diseases,^ESCTFL358634,,ECG: T wave flattened
+Ischaemic heart diseases,32F3,32F3.00,ECG: T wave flattened
+Ischaemic heart diseases,32F4,32F4.00,Inverted T wave
+Ischaemic heart diseases,^ESCTTW347328,,Inverted T wave
+Ischaemic heart diseases,^ESCTEX458910,,Exercise tolerance test abnormal
+Ischaemic heart diseases,32131-1,3213111,Exercise tolerance test abnormal
+Ischaemic heart diseases,33B95,33B9500,Exercise tolerance test abnormal
+Ischaemic heart diseases,32131,3213100,Exercise tolerance test abnormal
+Ischaemic heart diseases,^ESCT1248451,,Coronary arteriography abnormal
+Ischaemic heart diseases,5543,5543.00,Coronary arteriography abnormal
+Ischaemic heart diseases,^ESCTCO461834,,Coronary arteriography abnormal
+Ischaemic heart diseases,5C11,5C11.00,Radionuclide heart study abnormal
+Ischaemic heart diseases,662K,662K.00,Angina control
+Ischaemic heart diseases,662Kz,662Kz00,Angina control
+Ischaemic heart diseases,662K0,662K000,Angina control - good
+Ischaemic heart diseases,662K1,662K100,Angina control - poor
+Ischaemic heart diseases,662K2,662K200,Angina control - improving
+Ischaemic heart diseases,662K3,662K300,Angina control - worsening
+Ischaemic heart diseases,662K,662K.00,Angina control NOS
+Ischaemic heart diseases,662Kz,662Kz00,Angina control NOS
+Ischaemic heart diseases,6A2,6A2..00,Coronary heart disease annual review
+Ischaemic heart diseases,6A4,6A4..00,Coronary heart disease review
+Ischaemic heart diseases,7921-1,7921.11,Coronary artery bypass graft operations
+Ischaemic heart diseases,^ESCTCB504010,,Coronary artery bypass graft operations
+Ischaemic heart diseases,^ESCTCO504011,,Coronary artery bypass graft operations
+Ischaemic heart diseases,792Dz,792Dz00,Coronary artery bypass graft operations
+Ischaemic heart diseases,7921,7921.00,Coronary artery bypass graft operations
+Ischaemic heart diseases,7921z,7921z00,Coronary artery bypass graft operations
+Ischaemic heart diseases,792C,792C.00,Coronary artery bypass graft operations
+Ischaemic heart diseases,792Cz,792Cz00,Coronary artery bypass graft operations
+Ischaemic heart diseases,792D,792D.00,Coronary artery bypass graft operations
+Ischaemic heart diseases,792Dy,792Dy00,Coronary artery bypass graft operations
+Ischaemic heart diseases,7921y,7921y00,Coronary artery bypass graft operations
+Ischaemic heart diseases,7926y,7926y00,Coronary artery bypass graft operations
+Ischaemic heart diseases,^ESCTCA504013,,Coronary artery bypass graft operations
+Ischaemic heart diseases,^ESCTCA504009,,Coronary artery bypass graft operations
+Ischaemic heart diseases,7926,7926.00,Coronary artery bypass graft operations
+Ischaemic heart diseases,7926z,7926z00,Coronary artery bypass graft operations
+Ischaemic heart diseases,792Cy,792Cy00,Coronary artery bypass graft operations
+Ischaemic heart diseases,792-1,792..11,Coronary artery bypass graft operations
+Ischaemic heart diseases,7920-1,7920.11,Saphenous vein graft replacement of coronary artery
+Ischaemic heart diseases,^ESCTAC255546,,Saphenous vein graft replacement of coronary artery
+Ischaemic heart diseases,^ESCTCA255547,,Saphenous vein graft replacement of coronary artery
+Ischaemic heart diseases,7920y,7920y00,Saphenous vein graft replacement of coronary artery
+Ischaemic heart diseases,^ESCTAO255541,,Saphenous vein graft replacement of coronary artery
+Ischaemic heart diseases,^ESCTCV255542,,Saphenous vein graft replacement of coronary artery
+Ischaemic heart diseases,^ESCT1190438,,Saphenous vein graft replacement of coronary artery
+Ischaemic heart diseases,7920-99,7920.99,Saphenous vein graft replacement of coronary artery
+Ischaemic heart diseases,^ESCT1245171,,Saphenous vein graft replacement of coronary artery
+Ischaemic heart diseases,7920,7920.00,Saphenous vein graft replacement of coronary artery
+Ischaemic heart diseases,7920z,7920z00,Saphenous vein graft replacement of coronary artery
+Ischaemic heart diseases,^ESCTAC255543,,Saphenous vein graft replacement of coronary artery
+Ischaemic heart diseases,^ESCTAC255544,,Saphenous vein graft replacement of coronary artery
+Ischaemic heart diseases,^ESCT1167247,,Saphenous vein graft replacement of one coronary artery
+Ischaemic heart diseases,^ESCT1167248,,Saphenous vein graft replacement of one coronary artery
+Ischaemic heart diseases,79200,7920000,Saphenous vein graft replacement of one coronary artery
+Ischaemic heart diseases,79201,7920100,Aortocoronary artery bypass of two coronary arteries with saphenous vein graft
+Ischaemic heart diseases,^ESCT1167251,,Aortocoronary artery bypass of two coronary arteries with saphenous vein graft
+Ischaemic heart diseases,^ESCT1245174,,Aortocoronary artery bypass of two coronary arteries with saphenous vein graft
+Ischaemic heart diseases,^ESCT1167252,,Aortocoronary artery bypass of two coronary arteries with saphenous vein graft
+Ischaemic heart diseases,^ESCT1245173,,Aortocoronary artery bypass of three coronary arteries with saphenous vein graft
+Ischaemic heart diseases,79202,7920200,Aortocoronary artery bypass of three coronary arteries with saphenous vein graft
+Ischaemic heart diseases,^ESCT1167249,,Aortocoronary artery bypass of three coronary arteries with saphenous vein graft
+Ischaemic heart diseases,^ESCT1167250,,Aortocoronary artery bypass of three coronary arteries with saphenous vein graft
+Ischaemic heart diseases,79203,7920300,Aortocoronary artery bypass of four or more coronary arteries with saphenous vein graft
+Ischaemic heart diseases,^ESCT1167246,,Aortocoronary artery bypass of four or more coronary arteries with saphenous vein graft
+Ischaemic heart diseases,^ESCT1245172,,Aortocoronary artery bypass of four or more coronary arteries with saphenous vein graft
+Ischaemic heart diseases,^ESCT1167245,,Aortocoronary artery bypass of four or more coronary arteries with saphenous vein graft
+Ischaemic heart diseases,7920-1,7920.11,Aortocoronary artery bypass graft with saphenous vein graft
+Ischaemic heart diseases,^ESCTAC255546,,Aortocoronary artery bypass graft with saphenous vein graft
+Ischaemic heart diseases,^ESCTCA255547,,Aortocoronary artery bypass graft with saphenous vein graft
+Ischaemic heart diseases,7920y,7920y00,Aortocoronary artery bypass graft with saphenous vein graft
+Ischaemic heart diseases,^ESCTAO255541,,Aortocoronary artery bypass graft with saphenous vein graft
+Ischaemic heart diseases,^ESCTCV255542,,Aortocoronary artery bypass graft with saphenous vein graft
+Ischaemic heart diseases,^ESCT1190438,,Aortocoronary artery bypass graft with saphenous vein graft
+Ischaemic heart diseases,7920-99,7920.99,Aortocoronary artery bypass graft with saphenous vein graft
+Ischaemic heart diseases,^ESCT1245171,,Aortocoronary artery bypass graft with saphenous vein graft
+Ischaemic heart diseases,7920,7920.00,Aortocoronary artery bypass graft with saphenous vein graft
+Ischaemic heart diseases,7920z,7920z00,Aortocoronary artery bypass graft with saphenous vein graft
+Ischaemic heart diseases,^ESCTAC255543,,Aortocoronary artery bypass graft with saphenous vein graft
+Ischaemic heart diseases,^ESCTAC255544,,Aortocoronary artery bypass graft with saphenous vein graft
+Ischaemic heart diseases,7920-1,7920.11,Saphenous vein graft replacement coronary artery NOS
+Ischaemic heart diseases,^ESCTAC255546,,Saphenous vein graft replacement coronary artery NOS
+Ischaemic heart diseases,^ESCTCA255547,,Saphenous vein graft replacement coronary artery NOS
+Ischaemic heart diseases,7920y,7920y00,Saphenous vein graft replacement coronary artery NOS
+Ischaemic heart diseases,^ESCTAO255541,,Saphenous vein graft replacement coronary artery NOS
+Ischaemic heart diseases,^ESCTCV255542,,Saphenous vein graft replacement coronary artery NOS
+Ischaemic heart diseases,^ESCT1190438,,Saphenous vein graft replacement coronary artery NOS
+Ischaemic heart diseases,7920-99,7920.99,Saphenous vein graft replacement coronary artery NOS
+Ischaemic heart diseases,^ESCT1245171,,Saphenous vein graft replacement coronary artery NOS
+Ischaemic heart diseases,7920,7920.00,Saphenous vein graft replacement coronary artery NOS
+Ischaemic heart diseases,7920z,7920z00,Saphenous vein graft replacement coronary artery NOS
+Ischaemic heart diseases,^ESCTAC255543,,Saphenous vein graft replacement coronary artery NOS
+Ischaemic heart diseases,^ESCTAC255544,,Saphenous vein graft replacement coronary artery NOS
+Ischaemic heart diseases,7921-1,7921.11,Other autograft bypass of coronary artery
+Ischaemic heart diseases,^ESCTCB504010,,Other autograft bypass of coronary artery
+Ischaemic heart diseases,^ESCTCO504011,,Other autograft bypass of coronary artery
+Ischaemic heart diseases,792Dz,792Dz00,Other autograft bypass of coronary artery
+Ischaemic heart diseases,7921,7921.00,Other autograft bypass of coronary artery
+Ischaemic heart diseases,7921z,7921z00,Other autograft bypass of coronary artery
+Ischaemic heart diseases,792C,792C.00,Other autograft bypass of coronary artery
+Ischaemic heart diseases,792Cz,792Cz00,Other autograft bypass of coronary artery
+Ischaemic heart diseases,792D,792D.00,Other autograft bypass of coronary artery
+Ischaemic heart diseases,792Dy,792Dy00,Other autograft bypass of coronary artery
+Ischaemic heart diseases,7921y,7921y00,Other autograft bypass of coronary artery
+Ischaemic heart diseases,7926y,7926y00,Other autograft bypass of coronary artery
+Ischaemic heart diseases,^ESCTCA504013,,Other autograft bypass of coronary artery
+Ischaemic heart diseases,^ESCTCA504009,,Other autograft bypass of coronary artery
+Ischaemic heart diseases,7926,7926.00,Other autograft bypass of coronary artery
+Ischaemic heart diseases,7926z,7926z00,Other autograft bypass of coronary artery
+Ischaemic heart diseases,792Cy,792Cy00,Other autograft bypass of coronary artery
+Ischaemic heart diseases,792-1,792..11,Other autograft bypass of coronary artery
+Ischaemic heart diseases,79253,7925300,Autograft replacement of one coronary artery NEC
+Ischaemic heart diseases,^ESCTCA504015,,Autograft replacement of one coronary artery NEC
+Ischaemic heart diseases,79263,7926300,Autograft replacement of one coronary artery NEC
+Ischaemic heart diseases,^ESCTCO504014,,Autograft replacement of one coronary artery NEC
+Ischaemic heart diseases,79210,7921000,Autograft replacement of one coronary artery NEC
+Ischaemic heart diseases,79262,7926200,Autograft replacement of one coronary artery NEC
+Ischaemic heart diseases,^ESCTCA504017,,Autograft replacement of two coronary arteries NEC
+Ischaemic heart diseases,79260,7926000,Autograft replacement of two coronary arteries NEC
+Ischaemic heart diseases,79261,7926100,Autograft replacement of two coronary arteries NEC
+Ischaemic heart diseases,79211,7921100,Autograft replacement of two coronary arteries NEC
+Ischaemic heart diseases,^ESCTCO504016,,Autograft replacement of two coronary arteries NEC
+Ischaemic heart diseases,^ESCTTR504019,,Autograft replacement of three coronary arteries NEC
+Ischaemic heart diseases,^ESCTCO504018,,Autograft replacement of three coronary arteries NEC
+Ischaemic heart diseases,79212,7921200,Autograft replacement of three coronary arteries NEC
+Ischaemic heart diseases,^ESCTCA504020,,Autograft replacement of three coronary arteries NEC
+Ischaemic heart diseases,^ESCTCO504021,,Autograft replacement of four of more coronary arteries NEC
+Ischaemic heart diseases,^ESCTCA504022,,Autograft replacement of four of more coronary arteries NEC
+Ischaemic heart diseases,79213,7921300,Autograft replacement of four of more coronary arteries NEC
+Ischaemic heart diseases,7921-1,7921.11,Other autograft replacement of coronary artery OS
+Ischaemic heart diseases,^ESCTCB504010,,Other autograft replacement of coronary artery OS
+Ischaemic heart diseases,^ESCTCO504011,,Other autograft replacement of coronary artery OS
+Ischaemic heart diseases,792Dz,792Dz00,Other autograft replacement of coronary artery OS
+Ischaemic heart diseases,7921,7921.00,Other autograft replacement of coronary artery OS
+Ischaemic heart diseases,7921z,7921z00,Other autograft replacement of coronary artery OS
+Ischaemic heart diseases,792C,792C.00,Other autograft replacement of coronary artery OS
+Ischaemic heart diseases,792Cz,792Cz00,Other autograft replacement of coronary artery OS
+Ischaemic heart diseases,792D,792D.00,Other autograft replacement of coronary artery OS
+Ischaemic heart diseases,792Dy,792Dy00,Other autograft replacement of coronary artery OS
+Ischaemic heart diseases,7921y,7921y00,Other autograft replacement of coronary artery OS
+Ischaemic heart diseases,7926y,7926y00,Other autograft replacement of coronary artery OS
+Ischaemic heart diseases,^ESCTCA504013,,Other autograft replacement of coronary artery OS
+Ischaemic heart diseases,^ESCTCA504009,,Other autograft replacement of coronary artery OS
+Ischaemic heart diseases,7926,7926.00,Other autograft replacement of coronary artery OS
+Ischaemic heart diseases,7926z,7926z00,Other autograft replacement of coronary artery OS
+Ischaemic heart diseases,792Cy,792Cy00,Other autograft replacement of coronary artery OS
+Ischaemic heart diseases,792-1,792..11,Other autograft replacement of coronary artery OS
+Ischaemic heart diseases,7921-1,7921.11,Other autograft replacement of coronary artery NOS
+Ischaemic heart diseases,^ESCTCB504010,,Other autograft replacement of coronary artery NOS
+Ischaemic heart diseases,^ESCTCO504011,,Other autograft replacement of coronary artery NOS
+Ischaemic heart diseases,792Dz,792Dz00,Other autograft replacement of coronary artery NOS
+Ischaemic heart diseases,7921,7921.00,Other autograft replacement of coronary artery NOS
+Ischaemic heart diseases,7921z,7921z00,Other autograft replacement of coronary artery NOS
+Ischaemic heart diseases,792C,792C.00,Other autograft replacement of coronary artery NOS
+Ischaemic heart diseases,792Cz,792Cz00,Other autograft replacement of coronary artery NOS
+Ischaemic heart diseases,792D,792D.00,Other autograft replacement of coronary artery NOS
+Ischaemic heart diseases,792Dy,792Dy00,Other autograft replacement of coronary artery NOS
+Ischaemic heart diseases,7921y,7921y00,Other autograft replacement of coronary artery NOS
+Ischaemic heart diseases,7926y,7926y00,Other autograft replacement of coronary artery NOS
+Ischaemic heart diseases,^ESCTCA504013,,Other autograft replacement of coronary artery NOS
+Ischaemic heart diseases,^ESCTCA504009,,Other autograft replacement of coronary artery NOS
+Ischaemic heart diseases,7926,7926.00,Other autograft replacement of coronary artery NOS
+Ischaemic heart diseases,7926z,7926z00,Other autograft replacement of coronary artery NOS
+Ischaemic heart diseases,792Cy,792Cy00,Other autograft replacement of coronary artery NOS
+Ischaemic heart diseases,792-1,792..11,Other autograft replacement of coronary artery NOS
+Ischaemic heart diseases,7922,7922.00,Allograft replacement of coronary artery
+Ischaemic heart diseases,^ESCT1192303,,Allograft replacement of coronary artery
+Ischaemic heart diseases,7922y,7922y00,Allograft replacement of coronary artery
+Ischaemic heart diseases,7922z,7922z00,Allograft replacement of coronary artery
+Ischaemic heart diseases,7922-1,7922.11,Allograft replacement of coronary artery
+Ischaemic heart diseases,7922,7922.00,Allograft bypass of coronary artery
+Ischaemic heart diseases,^ESCT1192303,,Allograft bypass of coronary artery
+Ischaemic heart diseases,7922y,7922y00,Allograft bypass of coronary artery
+Ischaemic heart diseases,7922z,7922z00,Allograft bypass of coronary artery
+Ischaemic heart diseases,7922-1,7922.11,Allograft bypass of coronary artery
+Ischaemic heart diseases,79220,7922000,Allograft replacement of one coronary artery
+Ischaemic heart diseases,^ESCT1167254,,Allograft replacement of one coronary artery
+Ischaemic heart diseases,79221,7922100,Allograft replacement of two coronary arteries
+Ischaemic heart diseases,^ESCT1167256,,Allograft replacement of two coronary arteries
+Ischaemic heart diseases,79222,7922200,Allograft replacement of three coronary arteries
+Ischaemic heart diseases,^ESCT1167255,,Allograft replacement of three coronary arteries
+Ischaemic heart diseases,79223,7922300,Allograft replacement of four or more coronary arteries
+Ischaemic heart diseases,^ESCT1167253,,Allograft replacement of four or more coronary arteries
+Ischaemic heart diseases,7922,7922.00,Other specified allograft replacement of coronary artery
+Ischaemic heart diseases,^ESCT1192303,,Other specified allograft replacement of coronary artery
+Ischaemic heart diseases,7922y,7922y00,Other specified allograft replacement of coronary artery
+Ischaemic heart diseases,7922z,7922z00,Other specified allograft replacement of coronary artery
+Ischaemic heart diseases,7922-1,7922.11,Other specified allograft replacement of coronary artery
+Ischaemic heart diseases,7922,7922.00,Allograft replacement of coronary artery NOS
+Ischaemic heart diseases,^ESCT1192303,,Allograft replacement of coronary artery NOS
+Ischaemic heart diseases,7922y,7922y00,Allograft replacement of coronary artery NOS
+Ischaemic heart diseases,7922z,7922z00,Allograft replacement of coronary artery NOS
+Ischaemic heart diseases,7922-1,7922.11,Allograft replacement of coronary artery NOS
+Ischaemic heart diseases,7923,7923.00,Prosthetic replacement of coronary artery
+Ischaemic heart diseases,7923y,7923y00,Prosthetic replacement of coronary artery
+Ischaemic heart diseases,7923z,7923z00,Prosthetic replacement of coronary artery
+Ischaemic heart diseases,7923-99,7923.99,Prosthetic replacement of coronary artery
+Ischaemic heart diseases,^ESCT1190462,,Prosthetic replacement of coronary artery
+Ischaemic heart diseases,7923-1,7923.11,Prosthetic replacement of coronary artery
+Ischaemic heart diseases,7923,7923.00,Prosthetic bypass of coronary artery
+Ischaemic heart diseases,7923y,7923y00,Prosthetic bypass of coronary artery
+Ischaemic heart diseases,7923z,7923z00,Prosthetic bypass of coronary artery
+Ischaemic heart diseases,7923-99,7923.99,Prosthetic bypass of coronary artery
+Ischaemic heart diseases,^ESCT1190462,,Prosthetic bypass of coronary artery
+Ischaemic heart diseases,7923-1,7923.11,Prosthetic bypass of coronary artery
+Ischaemic heart diseases,79230,7923000,Prosthetic replacement of one coronary artery
+Ischaemic heart diseases,^ESCT1167240,,Prosthetic replacement of one coronary artery
+Ischaemic heart diseases,^ESCT1167239,,Prosthetic replacement of one coronary artery
+Ischaemic heart diseases,^ESCT1167243,,Prosthetic replacement of two coronary arteries
+Ischaemic heart diseases,^ESCT1167244,,Prosthetic replacement of two coronary arteries
+Ischaemic heart diseases,79231,7923100,Prosthetic replacement of two coronary arteries
+Ischaemic heart diseases,^ESCT1167242,,Prosthetic replacement of three coronary arteries
+Ischaemic heart diseases,79232,7923200,Prosthetic replacement of three coronary arteries
+Ischaemic heart diseases,^ESCT1167241,,Prosthetic replacement of three coronary arteries
+Ischaemic heart diseases,^ESCT1167238,,Prosthetic replacement of four or more coronary arteries
+Ischaemic heart diseases,79233,7923300,Prosthetic replacement of four or more coronary arteries
+Ischaemic heart diseases,^ESCT1167237,,Prosthetic replacement of four or more coronary arteries
+Ischaemic heart diseases,7923,7923.00,Prosthetic replacement of coronary artery NOS
+Ischaemic heart diseases,7923y,7923y00,Prosthetic replacement of coronary artery NOS
+Ischaemic heart diseases,7923z,7923z00,Prosthetic replacement of coronary artery NOS
+Ischaemic heart diseases,7923-99,7923.99,Prosthetic replacement of coronary artery NOS
+Ischaemic heart diseases,^ESCT1190462,,Prosthetic replacement of coronary artery NOS
+Ischaemic heart diseases,7923-1,7923.11,Prosthetic replacement of coronary artery NOS
+Ischaemic heart diseases,7925,7925.00,Connection of mammary artery to coronary artery
+Ischaemic heart diseases,7925-1,7925.11,Connection of mammary artery to coronary artery
+Ischaemic heart diseases,7925z,7925z00,Connection of mammary artery to coronary artery
+Ischaemic heart diseases,7925-98,7925.98,Connection of mammary artery to coronary artery
+Ischaemic heart diseases,7925-99,7925.99,Connection of mammary artery to coronary artery
+Ischaemic heart diseases,7925y,7925y00,Connection of mammary artery to coronary artery
+Ischaemic heart diseases,7925,7925.00,Creation of bypass from mammary artery to coronary artery
+Ischaemic heart diseases,7925-1,7925.11,Creation of bypass from mammary artery to coronary artery
+Ischaemic heart diseases,7925z,7925z00,Creation of bypass from mammary artery to coronary artery
+Ischaemic heart diseases,7925-98,7925.98,Creation of bypass from mammary artery to coronary artery
+Ischaemic heart diseases,7925-99,7925.99,Creation of bypass from mammary artery to coronary artery
+Ischaemic heart diseases,7925y,7925y00,Creation of bypass from mammary artery to coronary artery
+Ischaemic heart diseases,79250,7925000,Double anastomosis of mammary arteries to coronary arteries
+Ischaemic heart diseases,79251,7925100,Double implantation of mammary arteries into coronary arteries
+Ischaemic heart diseases,79253,7925300,Single anastomosis of mammary artery to coronary artery NEC
+Ischaemic heart diseases,^ESCTCA504015,,Single anastomosis of mammary artery to coronary artery NEC
+Ischaemic heart diseases,79263,7926300,Single anastomosis of mammary artery to coronary artery NEC
+Ischaemic heart diseases,^ESCTCO504014,,Single anastomosis of mammary artery to coronary artery NEC
+Ischaemic heart diseases,79210,7921000,Single anastomosis of mammary artery to coronary artery NEC
+Ischaemic heart diseases,79262,7926200,Single anastomosis of mammary artery to coronary artery NEC
+Ischaemic heart diseases,^ESCTLE557061,,LIMA single anastomosis
+Ischaemic heart diseases,^ESCTLE557062,,LIMA single anastomosis
+Ischaemic heart diseases,79253-1,7925311,LIMA single anastomosis
+Ischaemic heart diseases,79253-2,7925312,RIMA single anastomosis
+Ischaemic heart diseases,^ESCTRI557065,,RIMA single anastomosis
+Ischaemic heart diseases,^ESCTRI557064,,RIMA single anastomosis
+Ischaemic heart diseases,79254,7925400,Single implantation of mammary artery into coronary artery
+Ischaemic heart diseases,7925,7925.00,Connection of mammary artery to coronary artery OS
+Ischaemic heart diseases,7925-1,7925.11,Connection of mammary artery to coronary artery OS
+Ischaemic heart diseases,7925z,7925z00,Connection of mammary artery to coronary artery OS
+Ischaemic heart diseases,7925-98,7925.98,Connection of mammary artery to coronary artery OS
+Ischaemic heart diseases,7925-99,7925.99,Connection of mammary artery to coronary artery OS
+Ischaemic heart diseases,7925y,7925y00,Connection of mammary artery to coronary artery OS
+Ischaemic heart diseases,7925,7925.00,Connection of mammary artery to coronary artery NOS
+Ischaemic heart diseases,7925-1,7925.11,Connection of mammary artery to coronary artery NOS
+Ischaemic heart diseases,7925z,7925z00,Connection of mammary artery to coronary artery NOS
+Ischaemic heart diseases,7925-98,7925.98,Connection of mammary artery to coronary artery NOS
+Ischaemic heart diseases,7925-99,7925.99,Connection of mammary artery to coronary artery NOS
+Ischaemic heart diseases,7925y,7925y00,Connection of mammary artery to coronary artery NOS
+Ischaemic heart diseases,7921-1,7921.11,Connection of other thoracic artery to coronary artery
+Ischaemic heart diseases,^ESCTCB504010,,Connection of other thoracic artery to coronary artery
+Ischaemic heart diseases,^ESCTCO504011,,Connection of other thoracic artery to coronary artery
+Ischaemic heart diseases,792Dz,792Dz00,Connection of other thoracic artery to coronary artery
+Ischaemic heart diseases,7921,7921.00,Connection of other thoracic artery to coronary artery
+Ischaemic heart diseases,7921z,7921z00,Connection of other thoracic artery to coronary artery
+Ischaemic heart diseases,792C,792C.00,Connection of other thoracic artery to coronary artery
+Ischaemic heart diseases,792Cz,792Cz00,Connection of other thoracic artery to coronary artery
+Ischaemic heart diseases,792D,792D.00,Connection of other thoracic artery to coronary artery
+Ischaemic heart diseases,792Dy,792Dy00,Connection of other thoracic artery to coronary artery
+Ischaemic heart diseases,7921y,7921y00,Connection of other thoracic artery to coronary artery
+Ischaemic heart diseases,7926y,7926y00,Connection of other thoracic artery to coronary artery
+Ischaemic heart diseases,^ESCTCA504013,,Connection of other thoracic artery to coronary artery
+Ischaemic heart diseases,^ESCTCA504009,,Connection of other thoracic artery to coronary artery
+Ischaemic heart diseases,7926,7926.00,Connection of other thoracic artery to coronary artery
+Ischaemic heart diseases,7926z,7926z00,Connection of other thoracic artery to coronary artery
+Ischaemic heart diseases,792Cy,792Cy00,Connection of other thoracic artery to coronary artery
+Ischaemic heart diseases,792-1,792..11,Connection of other thoracic artery to coronary artery
+Ischaemic heart diseases,^ESCTCA504017,,Double anastom thoracic arteries to coronary arteries NEC
+Ischaemic heart diseases,79260,7926000,Double anastom thoracic arteries to coronary arteries NEC
+Ischaemic heart diseases,79261,7926100,Double anastom thoracic arteries to coronary arteries NEC
+Ischaemic heart diseases,79211,7921100,Double anastom thoracic arteries to coronary arteries NEC
+Ischaemic heart diseases,^ESCTCO504016,,Double anastom thoracic arteries to coronary arteries NEC
+Ischaemic heart diseases,79253,7925300,Single anastomosis of thoracic artery to coronary artery NEC
+Ischaemic heart diseases,^ESCTCA504015,,Single anastomosis of thoracic artery to coronary artery NEC
+Ischaemic heart diseases,79263,7926300,Single anastomosis of thoracic artery to coronary artery NEC
+Ischaemic heart diseases,^ESCTCO504014,,Single anastomosis of thoracic artery to coronary artery NEC
+Ischaemic heart diseases,79210,7921000,Single anastomosis of thoracic artery to coronary artery NEC
+Ischaemic heart diseases,79262,7926200,Single anastomosis of thoracic artery to coronary artery NEC
+Ischaemic heart diseases,79253,7925300,Single implantation thoracic artery into coronary artery NEC
+Ischaemic heart diseases,^ESCTCA504015,,Single implantation thoracic artery into coronary artery NEC
+Ischaemic heart diseases,79263,7926300,Single implantation thoracic artery into coronary artery NEC
+Ischaemic heart diseases,^ESCTCO504014,,Single implantation thoracic artery into coronary artery NEC
+Ischaemic heart diseases,79210,7921000,Single implantation thoracic artery into coronary artery NEC
+Ischaemic heart diseases,79262,7926200,Single implantation thoracic artery into coronary artery NEC
+Ischaemic heart diseases,7921-1,7921.11,Connection of other thoracic artery to coronary artery NOS
+Ischaemic heart diseases,^ESCTCB504010,,Connection of other thoracic artery to coronary artery NOS
+Ischaemic heart diseases,^ESCTCO504011,,Connection of other thoracic artery to coronary artery NOS
+Ischaemic heart diseases,792Dz,792Dz00,Connection of other thoracic artery to coronary artery NOS
+Ischaemic heart diseases,7921,7921.00,Connection of other thoracic artery to coronary artery NOS
+Ischaemic heart diseases,7921z,7921z00,Connection of other thoracic artery to coronary artery NOS
+Ischaemic heart diseases,792C,792C.00,Connection of other thoracic artery to coronary artery NOS
+Ischaemic heart diseases,792Cz,792Cz00,Connection of other thoracic artery to coronary artery NOS
+Ischaemic heart diseases,792D,792D.00,Connection of other thoracic artery to coronary artery NOS
+Ischaemic heart diseases,792Dy,792Dy00,Connection of other thoracic artery to coronary artery NOS
+Ischaemic heart diseases,7921y,7921y00,Connection of other thoracic artery to coronary artery NOS
+Ischaemic heart diseases,7926y,7926y00,Connection of other thoracic artery to coronary artery NOS
+Ischaemic heart diseases,^ESCTCA504013,,Connection of other thoracic artery to coronary artery NOS
+Ischaemic heart diseases,^ESCTCA504009,,Connection of other thoracic artery to coronary artery NOS
+Ischaemic heart diseases,7926,7926.00,Connection of other thoracic artery to coronary artery NOS
+Ischaemic heart diseases,7926z,7926z00,Connection of other thoracic artery to coronary artery NOS
+Ischaemic heart diseases,792Cy,792Cy00,Connection of other thoracic artery to coronary artery NOS
+Ischaemic heart diseases,792-1,792..11,Connection of other thoracic artery to coronary artery NOS
+Ischaemic heart diseases,79275,7927500,Open angioplasty of coronary artery
+Ischaemic heart diseases,79275-99,7927599,Open angioplasty of coronary artery
+Ischaemic heart diseases,^ESCTCO272498,,Open angioplasty of coronary artery
+Ischaemic heart diseases,^ESCTBA267661,,Percutaneous balloon coronary angioplasty
+Ischaemic heart diseases,7928,7928.00,Percutaneous balloon coronary angioplasty
+Ischaemic heart diseases,7928-1,7928.11,Percutaneous balloon coronary angioplasty
+Ischaemic heart diseases,^ESCTPT267663,,Percutaneous balloon coronary angioplasty
+Ischaemic heart diseases,^ESCTPE267664,,Percutaneous balloon coronary angioplasty
+Ischaemic heart diseases,^ESCTPE267662,,Percutaneous balloon coronary angioplasty
+Ischaemic heart diseases,7928y,7928y00,Percutaneous balloon coronary angioplasty
+Ischaemic heart diseases,7928-99,7928.99,Percutaneous balloon coronary angioplasty
+Ischaemic heart diseases,7928z,7928z00,Percutaneous balloon coronary angioplasty
+Ischaemic heart diseases,79280-99,7928099,Percutaneous transluminal balloon angioplasty of one coronary artery
+Ischaemic heart diseases,79280,7928000,Percutaneous transluminal balloon angioplasty of one coronary artery
+Ischaemic heart diseases,^ESCTRE361414,,Percutaneous transluminal balloon angioplasty of one coronary artery
+Ischaemic heart diseases,^ESCTBA388343,,Percutaneous transluminal balloon angioplasty of multiple coronary arteries
+Ischaemic heart diseases,^ESCTPE388342,,Percutaneous transluminal balloon angioplasty of multiple coronary arteries
+Ischaemic heart diseases,79281,7928100,Percutaneous transluminal balloon angioplasty of multiple coronary arteries
+Ischaemic heart diseases,79282,7928200,Percutaneous transluminal balloon angioplasty of bypass graft of coronary artery
+Ischaemic heart diseases,79283,7928300,Percutaneous transluminal cutting balloon angioplasty of coronary artery
+Ischaemic heart diseases,^ESCTBA267661,,Transluminal balloon angioplasty of coronary artery OS
+Ischaemic heart diseases,7928,7928.00,Transluminal balloon angioplasty of coronary artery OS
+Ischaemic heart diseases,7928-1,7928.11,Transluminal balloon angioplasty of coronary artery OS
+Ischaemic heart diseases,^ESCTPT267663,,Transluminal balloon angioplasty of coronary artery OS
+Ischaemic heart diseases,^ESCTPE267664,,Transluminal balloon angioplasty of coronary artery OS
+Ischaemic heart diseases,^ESCTPE267662,,Transluminal balloon angioplasty of coronary artery OS
+Ischaemic heart diseases,7928y,7928y00,Transluminal balloon angioplasty of coronary artery OS
+Ischaemic heart diseases,7928-99,7928.99,Transluminal balloon angioplasty of coronary artery OS
+Ischaemic heart diseases,7928z,7928z00,Transluminal balloon angioplasty of coronary artery OS
+Ischaemic heart diseases,^ESCTBA267661,,Transluminal balloon angioplasty of coronary artery NOS
+Ischaemic heart diseases,7928,7928.00,Transluminal balloon angioplasty of coronary artery NOS
+Ischaemic heart diseases,7928-1,7928.11,Transluminal balloon angioplasty of coronary artery NOS
+Ischaemic heart diseases,^ESCTPT267663,,Transluminal balloon angioplasty of coronary artery NOS
+Ischaemic heart diseases,^ESCTPE267664,,Transluminal balloon angioplasty of coronary artery NOS
+Ischaemic heart diseases,^ESCTPE267662,,Transluminal balloon angioplasty of coronary artery NOS
+Ischaemic heart diseases,7928y,7928y00,Transluminal balloon angioplasty of coronary artery NOS
+Ischaemic heart diseases,7928-99,7928.99,Transluminal balloon angioplasty of coronary artery NOS
+Ischaemic heart diseases,7928z,7928z00,Transluminal balloon angioplasty of coronary artery NOS
+Ischaemic heart diseases,^ESCTLA298034,,Percutaneous transluminal laser coronary angioplasty
+Ischaemic heart diseases,^ESCTPE298035,,Percutaneous transluminal laser coronary angioplasty
+Ischaemic heart diseases,^ESCTCO298033,,Percutaneous transluminal laser coronary angioplasty
+Ischaemic heart diseases,79290,7929000,Percutaneous transluminal laser coronary angioplasty
+Ischaemic heart diseases,^ESCTPE658311,,Rotary blade coronary angioplasty
+Ischaemic heart diseases,79293,7929300,Rotary blade coronary angioplasty
+Ischaemic heart diseases,^ESCTPL309562,,Insertion of coronary artery stent
+Ischaemic heart diseases,79294,7929400,Insertion of coronary artery stent
+Ischaemic heart diseases,79295,7929500,Insertion of drug-eluting coronary artery stent
+Ischaemic heart diseases,^ESCTPE504028,,Percutaneous transluminal atherectomy of coronary artery
+Ischaemic heart diseases,79296,7929600,Percutaneous transluminal atherectomy of coronary artery
+Ischaemic heart diseases,^ESCTCO282972,,Endarterectomy of coronary artery
+Ischaemic heart diseases,^ESCTTH282971,,Endarterectomy of coronary artery
+Ischaemic heart diseases,792B0,792B000,Endarterectomy of coronary artery
+Ischaemic heart diseases,7921-1,7921.11,Other replacement of coronary artery
+Ischaemic heart diseases,^ESCTCB504010,,Other replacement of coronary artery
+Ischaemic heart diseases,^ESCTCO504011,,Other replacement of coronary artery
+Ischaemic heart diseases,792Dz,792Dz00,Other replacement of coronary artery
+Ischaemic heart diseases,7921,7921.00,Other replacement of coronary artery
+Ischaemic heart diseases,7921z,7921z00,Other replacement of coronary artery
+Ischaemic heart diseases,792C,792C.00,Other replacement of coronary artery
+Ischaemic heart diseases,792Cz,792Cz00,Other replacement of coronary artery
+Ischaemic heart diseases,792D,792D.00,Other replacement of coronary artery
+Ischaemic heart diseases,792Dy,792Dy00,Other replacement of coronary artery
+Ischaemic heart diseases,7921y,7921y00,Other replacement of coronary artery
+Ischaemic heart diseases,7926y,7926y00,Other replacement of coronary artery
+Ischaemic heart diseases,^ESCTCA504013,,Other replacement of coronary artery
+Ischaemic heart diseases,^ESCTCA504009,,Other replacement of coronary artery
+Ischaemic heart diseases,7926,7926.00,Other replacement of coronary artery
+Ischaemic heart diseases,7926z,7926z00,Other replacement of coronary artery
+Ischaemic heart diseases,792Cy,792Cy00,Other replacement of coronary artery
+Ischaemic heart diseases,792-1,792..11,Other replacement of coronary artery
+Ischaemic heart diseases,792C0,792C000,Replacement of coronary arteries using multiple methods
+Ischaemic heart diseases,7921-1,7921.11,Other specified replacement of coronary artery
+Ischaemic heart diseases,^ESCTCB504010,,Other specified replacement of coronary artery
+Ischaemic heart diseases,^ESCTCO504011,,Other specified replacement of coronary artery
+Ischaemic heart diseases,792Dz,792Dz00,Other specified replacement of coronary artery
+Ischaemic heart diseases,7921,7921.00,Other specified replacement of coronary artery
+Ischaemic heart diseases,7921z,7921z00,Other specified replacement of coronary artery
+Ischaemic heart diseases,792C,792C.00,Other specified replacement of coronary artery
+Ischaemic heart diseases,792Cz,792Cz00,Other specified replacement of coronary artery
+Ischaemic heart diseases,792D,792D.00,Other specified replacement of coronary artery
+Ischaemic heart diseases,792Dy,792Dy00,Other specified replacement of coronary artery
+Ischaemic heart diseases,7921y,7921y00,Other specified replacement of coronary artery
+Ischaemic heart diseases,7926y,7926y00,Other specified replacement of coronary artery
+Ischaemic heart diseases,^ESCTCA504013,,Other specified replacement of coronary artery
+Ischaemic heart diseases,^ESCTCA504009,,Other specified replacement of coronary artery
+Ischaemic heart diseases,7926,7926.00,Other specified replacement of coronary artery
+Ischaemic heart diseases,7926z,7926z00,Other specified replacement of coronary artery
+Ischaemic heart diseases,792Cy,792Cy00,Other specified replacement of coronary artery
+Ischaemic heart diseases,792-1,792..11,Other specified replacement of coronary artery
+Ischaemic heart diseases,7921-1,7921.11,Replacement of coronary artery NOS
+Ischaemic heart diseases,^ESCTCB504010,,Replacement of coronary artery NOS
+Ischaemic heart diseases,^ESCTCO504011,,Replacement of coronary artery NOS
+Ischaemic heart diseases,792Dz,792Dz00,Replacement of coronary artery NOS
+Ischaemic heart diseases,7921,7921.00,Replacement of coronary artery NOS
+Ischaemic heart diseases,7921z,7921z00,Replacement of coronary artery NOS
+Ischaemic heart diseases,792C,792C.00,Replacement of coronary artery NOS
+Ischaemic heart diseases,792Cz,792Cz00,Replacement of coronary artery NOS
+Ischaemic heart diseases,792D,792D.00,Replacement of coronary artery NOS
+Ischaemic heart diseases,792Dy,792Dy00,Replacement of coronary artery NOS
+Ischaemic heart diseases,7921y,7921y00,Replacement of coronary artery NOS
+Ischaemic heart diseases,7926y,7926y00,Replacement of coronary artery NOS
+Ischaemic heart diseases,^ESCTCA504013,,Replacement of coronary artery NOS
+Ischaemic heart diseases,^ESCTCA504009,,Replacement of coronary artery NOS
+Ischaemic heart diseases,7926,7926.00,Replacement of coronary artery NOS
+Ischaemic heart diseases,7926z,7926z00,Replacement of coronary artery NOS
+Ischaemic heart diseases,792Cy,792Cy00,Replacement of coronary artery NOS
+Ischaemic heart diseases,792-1,792..11,Replacement of coronary artery NOS
+Ischaemic heart diseases,7921-1,7921.11,Coronary artery bypass graft
+Ischaemic heart diseases,^ESCTCB504010,,Coronary artery bypass graft
+Ischaemic heart diseases,^ESCTCO504011,,Coronary artery bypass graft
+Ischaemic heart diseases,792Dz,792Dz00,Coronary artery bypass graft
+Ischaemic heart diseases,7921,7921.00,Coronary artery bypass graft
+Ischaemic heart diseases,7921z,7921z00,Coronary artery bypass graft
+Ischaemic heart diseases,792C,792C.00,Coronary artery bypass graft
+Ischaemic heart diseases,792Cz,792Cz00,Coronary artery bypass graft
+Ischaemic heart diseases,792D,792D.00,Coronary artery bypass graft
+Ischaemic heart diseases,792Dy,792Dy00,Coronary artery bypass graft
+Ischaemic heart diseases,7921y,7921y00,Coronary artery bypass graft
+Ischaemic heart diseases,7926y,7926y00,Coronary artery bypass graft
+Ischaemic heart diseases,^ESCTCA504013,,Coronary artery bypass graft
+Ischaemic heart diseases,^ESCTCA504009,,Coronary artery bypass graft
+Ischaemic heart diseases,7926,7926.00,Coronary artery bypass graft
+Ischaemic heart diseases,7926z,7926z00,Coronary artery bypass graft
+Ischaemic heart diseases,792Cy,792Cy00,Coronary artery bypass graft
+Ischaemic heart diseases,792-1,792..11,Coronary artery bypass graft
+Ischaemic heart diseases,7921-1,7921.11,Other specified other bypass of coronary artery
+Ischaemic heart diseases,^ESCTCB504010,,Other specified other bypass of coronary artery
+Ischaemic heart diseases,^ESCTCO504011,,Other specified other bypass of coronary artery
+Ischaemic heart diseases,792Dz,792Dz00,Other specified other bypass of coronary artery
+Ischaemic heart diseases,7921,7921.00,Other specified other bypass of coronary artery
+Ischaemic heart diseases,7921z,7921z00,Other specified other bypass of coronary artery
+Ischaemic heart diseases,792C,792C.00,Other specified other bypass of coronary artery
+Ischaemic heart diseases,792Cz,792Cz00,Other specified other bypass of coronary artery
+Ischaemic heart diseases,792D,792D.00,Other specified other bypass of coronary artery
+Ischaemic heart diseases,792Dy,792Dy00,Other specified other bypass of coronary artery
+Ischaemic heart diseases,7921y,7921y00,Other specified other bypass of coronary artery
+Ischaemic heart diseases,7926y,7926y00,Other specified other bypass of coronary artery
+Ischaemic heart diseases,^ESCTCA504013,,Other specified other bypass of coronary artery
+Ischaemic heart diseases,^ESCTCA504009,,Other specified other bypass of coronary artery
+Ischaemic heart diseases,7926,7926.00,Other specified other bypass of coronary artery
+Ischaemic heart diseases,7926z,7926z00,Other specified other bypass of coronary artery
+Ischaemic heart diseases,792Cy,792Cy00,Other specified other bypass of coronary artery
+Ischaemic heart diseases,792-1,792..11,Other specified other bypass of coronary artery
+Ischaemic heart diseases,7921-1,7921.11,Other bypass of coronary artery NOS
+Ischaemic heart diseases,^ESCTCB504010,,Other bypass of coronary artery NOS
+Ischaemic heart diseases,^ESCTCO504011,,Other bypass of coronary artery NOS
+Ischaemic heart diseases,792Dz,792Dz00,Other bypass of coronary artery NOS
+Ischaemic heart diseases,7921,7921.00,Other bypass of coronary artery NOS
+Ischaemic heart diseases,7921z,7921z00,Other bypass of coronary artery NOS
+Ischaemic heart diseases,792C,792C.00,Other bypass of coronary artery NOS
+Ischaemic heart diseases,792Cz,792Cz00,Other bypass of coronary artery NOS
+Ischaemic heart diseases,792D,792D.00,Other bypass of coronary artery NOS
+Ischaemic heart diseases,792Dy,792Dy00,Other bypass of coronary artery NOS
+Ischaemic heart diseases,7921y,7921y00,Other bypass of coronary artery NOS
+Ischaemic heart diseases,7926y,7926y00,Other bypass of coronary artery NOS
+Ischaemic heart diseases,^ESCTCA504013,,Other bypass of coronary artery NOS
+Ischaemic heart diseases,^ESCTCA504009,,Other bypass of coronary artery NOS
+Ischaemic heart diseases,7926,7926.00,Other bypass of coronary artery NOS
+Ischaemic heart diseases,7926z,7926z00,Other bypass of coronary artery NOS
+Ischaemic heart diseases,792Cy,792Cy00,Other bypass of coronary artery NOS
+Ischaemic heart diseases,792-1,792..11,Other bypass of coronary artery NOS
+Ischaemic heart diseases,793G2,793G200,Percutaneous transluminal balloon angioplasty with insertion of stent into coronary artery
+Ischaemic heart diseases,793Gy,793Gy00,Percutaneous transluminal balloon angioplasty with insertion of stent into coronary artery
+Ischaemic heart diseases,793Gz,793Gz00,Percutaneous transluminal balloon angioplasty with insertion of stent into coronary artery
+Ischaemic heart diseases,793G,793G.00,Percutaneous transluminal balloon angioplasty with insertion of stent into coronary artery
+Ischaemic heart diseases,793G3,793G300,Percutaneous transluminal balloon angioplasty with insertion of stent into coronary artery
+Ischaemic heart diseases,793G0,793G000,Percutaneous transluminal balloon angioplasty and insertion of drug eluting stent into coronary artery
+Ischaemic heart diseases,793G1,793G100,Percutaneous transluminal balloon angioplasty and insertion of drug eluting stent into coronary artery
+Ischaemic heart diseases,793G0,793G000,Perc tran ball angio ins 3 or more drug elut stents cor art
+Ischaemic heart diseases,793G1,793G100,Perc tran ball angio ins 3 or more drug elut stents cor art
+Ischaemic heart diseases,793G2,793G200,Perc translum balloon angioplasty insert 1-2 stents cor art
+Ischaemic heart diseases,793Gy,793Gy00,Perc translum balloon angioplasty insert 1-2 stents cor art
+Ischaemic heart diseases,793Gz,793Gz00,Perc translum balloon angioplasty insert 1-2 stents cor art
+Ischaemic heart diseases,793G,793G.00,Perc translum balloon angioplasty insert 1-2 stents cor art
+Ischaemic heart diseases,793G3,793G300,Perc translum balloon angioplasty insert 1-2 stents cor art
+Ischaemic heart diseases,793G2,793G200,Percutaneous cor balloon angiop 3 more stents cor art NEC
+Ischaemic heart diseases,793Gy,793Gy00,Percutaneous cor balloon angiop 3 more stents cor art NEC
+Ischaemic heart diseases,793Gz,793Gz00,Percutaneous cor balloon angiop 3 more stents cor art NEC
+Ischaemic heart diseases,793G,793G.00,Percutaneous cor balloon angiop 3 more stents cor art NEC
+Ischaemic heart diseases,793G3,793G300,Percutaneous cor balloon angiop 3 more stents cor art NEC
+Ischaemic heart diseases,793G2,793G200,OS perc translumina balloon angioplast stenting coronary art
+Ischaemic heart diseases,793Gy,793Gy00,OS perc translumina balloon angioplast stenting coronary art
+Ischaemic heart diseases,793Gz,793Gz00,OS perc translumina balloon angioplast stenting coronary art
+Ischaemic heart diseases,793G,793G.00,OS perc translumina balloon angioplast stenting coronary art
+Ischaemic heart diseases,793G3,793G300,OS perc translumina balloon angioplast stenting coronary art
+Ischaemic heart diseases,793G2,793G200,Perc translum balloon angioplasty stenting coronary art NOS
+Ischaemic heart diseases,793Gy,793Gy00,Perc translum balloon angioplasty stenting coronary art NOS
+Ischaemic heart diseases,793Gz,793Gz00,Perc translum balloon angioplasty stenting coronary art NOS
+Ischaemic heart diseases,793G,793G.00,Perc translum balloon angioplasty stenting coronary art NOS
+Ischaemic heart diseases,793G3,793G300,Perc translum balloon angioplasty stenting coronary art NOS
+Ischaemic heart diseases,^ESCTPE559157,,Percutaneous balloon angioplasty of artery
+Ischaemic heart diseases,7A540,7A54000,Percutaneous balloon angioplasty of artery
+Ischaemic heart diseases,7A545,7A54500,Rotary blade angioplasty
+Ischaemic heart diseases,7A548,7A54800,Percutaneous endarterectomy
+Ischaemic heart diseases,7A564,7A56400,Percutaneous transluminal balloon angioplasty of artery
+Ischaemic heart diseases,7A6G1,7A6G100,Peroperative angioplasty
+Ischaemic heart diseases,7A6H3,7A6H300,Prosthetic graft patch angioplasty
+Ischaemic heart diseases,7A6H4,7A6H400,Percutaneous transluminal angioplasty of vascular graft
+Ischaemic heart diseases,889A,889A.00,Diabetes mellitus insulin-glucose infusion in acute myocardial infarction
+Ischaemic heart diseases,^ESCTDI605660,,Diabetes mellitus insulin-glucose infusion in acute myocardial infarction
+Ischaemic heart diseases,8B27,8B27.00,Antianginal therapy
+Ischaemic heart diseases,8B3k,8B3k.00,Coronary heart disease medication review
+Ischaemic heart diseases,^ESCTEM751900,,Emergency hospital admission for ischaemic heart disease
+Ischaemic heart diseases,^ESCTEM751898,,Emergency hospital admission for ischaemic heart disease
+Ischaemic heart diseases,8H2V,8H2V.00,Emergency hospital admission for ischaemic heart disease
+Ischaemic heart diseases,^ESCT1249070,,Emergency hospital admission for ischaemic heart disease
+Ischaemic heart diseases,Gyu3,Gyu3.00,Ischaemic heart disease
+Ischaemic heart diseases,^ESCTIH686026,,Ischaemic heart disease
+Ischaemic heart diseases,G31yz,G31yz00,Ischaemic heart disease
+Ischaemic heart diseases,Gyu32,Gyu3200,Ischaemic heart disease
+Ischaemic heart diseases,G31,G31..00,Ischaemic heart disease
+Ischaemic heart diseases,G3y,G3y..00,Ischaemic heart disease
+Ischaemic heart diseases,G3,G3...00,Ischaemic heart disease
+Ischaemic heart diseases,G3-3,G3...13,Ischaemic heart disease
+Ischaemic heart diseases,G31y,G31y.00,Ischaemic heart disease
+Ischaemic heart diseases,^ESCTIS686025,,Ischaemic heart disease
+Ischaemic heart diseases,G3z,G3z..00,Ischaemic heart disease
+Ischaemic heart diseases,G3-1,G3...11,Arteriosclerotic heart disease
+Ischaemic heart diseases,^ESCTAT727849,,Arteriosclerotic heart disease
+Ischaemic heart diseases,G3-2,G3...12,Arteriosclerotic heart disease
+Ischaemic heart diseases,G340,G340.00,Arteriosclerotic heart disease
+Ischaemic heart diseases,G3-1,G3...11,Atherosclerotic heart disease
+Ischaemic heart diseases,^ESCTAT727849,,Atherosclerotic heart disease
+Ischaemic heart diseases,G3-2,G3...12,Atherosclerotic heart disease
+Ischaemic heart diseases,G340,G340.00,Atherosclerotic heart disease
+Ischaemic heart diseases,Gyu3,Gyu3.00,IHD - Ischaemic heart disease
+Ischaemic heart diseases,^ESCTIH686026,,IHD - Ischaemic heart disease
+Ischaemic heart diseases,G31yz,G31yz00,IHD - Ischaemic heart disease
+Ischaemic heart diseases,Gyu32,Gyu3200,IHD - Ischaemic heart disease
+Ischaemic heart diseases,G31,G31..00,IHD - Ischaemic heart disease
+Ischaemic heart diseases,G3y,G3y..00,IHD - Ischaemic heart disease
+Ischaemic heart diseases,G3,G3...00,IHD - Ischaemic heart disease
+Ischaemic heart diseases,G3-3,G3...13,IHD - Ischaemic heart disease
+Ischaemic heart diseases,G31y,G31y.00,IHD - Ischaemic heart disease
+Ischaemic heart diseases,^ESCTIS686025,,IHD - Ischaemic heart disease
+Ischaemic heart diseases,G3z,G3z..00,IHD - Ischaemic heart disease
+Ischaemic heart diseases,G30y,G30y.00,Acute myocardial infarction
+Ischaemic heart diseases,G30yz,G30yz00,Acute myocardial infarction
+Ischaemic heart diseases,G30z,G30z.00,Acute myocardial infarction
+Ischaemic heart diseases,^ESCTAM342720,,Acute myocardial infarction
+Ischaemic heart diseases,G30X,G30X.00,Acute myocardial infarction
+Ischaemic heart diseases,G30-99,G30..99,Acute myocardial infarction
+Ischaemic heart diseases,G30-5,G30..15,Acute myocardial infarction
+Ischaemic heart diseases,G30,G30..00,Acute myocardial infarction
+Ischaemic heart diseases,G30-98,G30..98,Acute myocardial infarction
+Ischaemic heart diseases,Gyu34,Gyu3400,Acute myocardial infarction
+Ischaemic heart diseases,G30-1,G30..11,Attack - heart
+Ischaemic heart diseases,^ESCTMY285535,,Attack - heart
+Ischaemic heart diseases,^ESCTMY285530,,Attack - heart
+Ischaemic heart diseases,^ESCTIN285531,,Attack - heart
+Ischaemic heart diseases,G30-4,G30..14,Attack - heart
+Ischaemic heart diseases,^ESCTMI285534,,Attack - heart
+Ischaemic heart diseases,^ESCTCA285532,,Attack - heart
+Ischaemic heart diseases,^ESCTCO660112,,Coronary thrombosis
+Ischaemic heart diseases,^ESCTCT660113,,Coronary thrombosis
+Ischaemic heart diseases,G30-2,G30..12,Coronary thrombosis
+Ischaemic heart diseases,G30-6,G30..16,Coronary thrombosis
+Ischaemic heart diseases,G30-3,G30..13,Cardiac rupture after acute myocardial infarction
+Ischaemic heart diseases,^ESCT1222130,,Cardiac rupture after acute myocardial infarction
+Ischaemic heart diseases,G30-1,G30..11,Heart attack
+Ischaemic heart diseases,^ESCTMY285535,,Heart attack
+Ischaemic heart diseases,^ESCTMY285530,,Heart attack
+Ischaemic heart diseases,^ESCTIN285531,,Heart attack
+Ischaemic heart diseases,G30-4,G30..14,Heart attack
+Ischaemic heart diseases,^ESCTMI285534,,Heart attack
+Ischaemic heart diseases,^ESCTCA285532,,Heart attack
+Ischaemic heart diseases,G30y,G30y.00,MI - acute myocardial infarction
+Ischaemic heart diseases,G30yz,G30yz00,MI - acute myocardial infarction
+Ischaemic heart diseases,G30z,G30z.00,MI - acute myocardial infarction
+Ischaemic heart diseases,^ESCTAM342720,,MI - acute myocardial infarction
+Ischaemic heart diseases,G30X,G30X.00,MI - acute myocardial infarction
+Ischaemic heart diseases,G30-99,G30..99,MI - acute myocardial infarction
+Ischaemic heart diseases,G30-5,G30..15,MI - acute myocardial infarction
+Ischaemic heart diseases,G30,G30..00,MI - acute myocardial infarction
+Ischaemic heart diseases,G30-98,G30..98,MI - acute myocardial infarction
+Ischaemic heart diseases,Gyu34,Gyu3400,MI - acute myocardial infarction
+Ischaemic heart diseases,^ESCTCO660112,,Thrombosis - coronary
+Ischaemic heart diseases,^ESCTCT660113,,Thrombosis - coronary
+Ischaemic heart diseases,G30-2,G30..12,Thrombosis - coronary
+Ischaemic heart diseases,G30-6,G30..16,Thrombosis - coronary
+Ischaemic heart diseases,^ESCTMI505646,,Silent myocardial infarction
+Ischaemic heart diseases,G30-7,G30..17,Silent myocardial infarction
+Ischaemic heart diseases,G300,G300.00,Acute anterolateral myocardial infarction
+Ischaemic heart diseases,^ESCTAC364164,,Acute anterolateral myocardial infarction
+Ischaemic heart diseases,G301,G301.00,Acute anterior myocardial infarction
+Ischaemic heart diseases,G301z,G301z00,Acute anterior myocardial infarction
+Ischaemic heart diseases,^ESCTAC338160,,Acute anterior myocardial infarction
+Ischaemic heart diseases,^ESCTAC334347,,Acute anteroapical infarction
+Ischaemic heart diseases,G3010,G301000,Acute anteroapical infarction
+Ischaemic heart diseases,G3011,G301100,Acute anteroseptal myocardial infarction
+Ischaemic heart diseases,G301,G301.00,Anterior myocardial infarction NOS
+Ischaemic heart diseases,G301z,G301z00,Anterior myocardial infarction NOS
+Ischaemic heart diseases,^ESCTAC338160,,Anterior myocardial infarction NOS
+Ischaemic heart diseases,^ESCTAC356587,,Acute inferolateral myocardial infarction
+Ischaemic heart diseases,G302,G302.00,Acute inferolateral myocardial infarction
+Ischaemic heart diseases,G303,G303.00,Acute inferoposterior infarction
+Ischaemic heart diseases,^ESCTAC374574,,Acute inferoposterior infarction
+Ischaemic heart diseases,G304,G304.00,Acute posterior myocardial infarction
+Ischaemic heart diseases,G305,G305.00,Acute lateral myocardial infarction
+Ischaemic heart diseases,^ESCTAC345218,,Acute lateral myocardial infarction
+Ischaemic heart diseases,G306,G306.00,True posterior myocardial infarction
+Ischaemic heart diseases,^ESCTTR477588,,True posterior myocardial infarction
+Ischaemic heart diseases,^ESCTAC364535,,Acute subendocardial infarction
+Ischaemic heart diseases,G307,G307.00,Acute subendocardial infarction
+Ischaemic heart diseases,G3070,G307000,Acute non-Q wave infarction
+Ischaemic heart diseases,^ESCTNS665139,,Acute non-ST segment elevation myocardial infarction
+Ischaemic heart diseases,G3071,G307100,Acute non-ST segment elevation myocardial infarction
+Ischaemic heart diseases,^ESCTAC369991,,Acute myocardial infarction of inferior wall
+Ischaemic heart diseases,G308,G308.00,Acute myocardial infarction of inferior wall
+Ischaemic heart diseases,^ESCTAC369992,,Acute myocardial infarction of inferior wall
+Ischaemic heart diseases,^ESCTAC593532,,Acute Q-wave infarct
+Ischaemic heart diseases,G309,G309.00,Acute Q-wave infarct
+Ischaemic heart diseases,^ESCTEN398394,,Mural thrombosis
+Ischaemic heart diseases,^ESCTMU398393,,Mural thrombosis
+Ischaemic heart diseases,G30A,G30A.00,Mural thrombosis
+Ischaemic heart diseases,G30B,G30B.00,Acute myocardial infarction of posterolateral wall
+Ischaemic heart diseases,G30y,G30y.00,Acute transmural myocardial infarction of unspecif site
+Ischaemic heart diseases,G30yz,G30yz00,Acute transmural myocardial infarction of unspecif site
+Ischaemic heart diseases,G30z,G30z.00,Acute transmural myocardial infarction of unspecif site
+Ischaemic heart diseases,^ESCTAM342720,,Acute transmural myocardial infarction of unspecif site
+Ischaemic heart diseases,G30X,G30X.00,Acute transmural myocardial infarction of unspecif site
+Ischaemic heart diseases,G30-99,G30..99,Acute transmural myocardial infarction of unspecif site
+Ischaemic heart diseases,G30-5,G30..15,Acute transmural myocardial infarction of unspecif site
+Ischaemic heart diseases,G30,G30..00,Acute transmural myocardial infarction of unspecif site
+Ischaemic heart diseases,G30-98,G30..98,Acute transmural myocardial infarction of unspecif site
+Ischaemic heart diseases,Gyu34,Gyu3400,Acute transmural myocardial infarction of unspecif site
+Ischaemic heart diseases,^ESCTST665122,,Acute ST segment elevation myocardial infarction
+Ischaemic heart diseases,G30X0,G30X000,Acute ST segment elevation myocardial infarction
+Ischaemic heart diseases,G30y,G30y.00,Other acute myocardial infarction
+Ischaemic heart diseases,G30yz,G30yz00,Other acute myocardial infarction
+Ischaemic heart diseases,G30z,G30z.00,Other acute myocardial infarction
+Ischaemic heart diseases,^ESCTAM342720,,Other acute myocardial infarction
+Ischaemic heart diseases,G30X,G30X.00,Other acute myocardial infarction
+Ischaemic heart diseases,G30-99,G30..99,Other acute myocardial infarction
+Ischaemic heart diseases,G30-5,G30..15,Other acute myocardial infarction
+Ischaemic heart diseases,G30,G30..00,Other acute myocardial infarction
+Ischaemic heart diseases,G30-98,G30..98,Other acute myocardial infarction
+Ischaemic heart diseases,Gyu34,Gyu3400,Other acute myocardial infarction
+Ischaemic heart diseases,G30y0,G30y000,Acute atrial infarction
+Ischaemic heart diseases,^ESCTAC477589,,Acute atrial infarction
+Ischaemic heart diseases,^ESCTAC266344,,Acute papillary muscle infarction
+Ischaemic heart diseases,G30y1,G30y100,Acute papillary muscle infarction
+Ischaemic heart diseases,^ESCTAC378491,,Acute septal infarction
+Ischaemic heart diseases,^ESCTAC378492,,Acute septal infarction
+Ischaemic heart diseases,G30y2,G30y200,Acute septal infarction
+Ischaemic heart diseases,G30y,G30y.00,Other acute myocardial infarction NOS
+Ischaemic heart diseases,G30yz,G30yz00,Other acute myocardial infarction NOS
+Ischaemic heart diseases,G30z,G30z.00,Other acute myocardial infarction NOS
+Ischaemic heart diseases,^ESCTAM342720,,Other acute myocardial infarction NOS
+Ischaemic heart diseases,G30X,G30X.00,Other acute myocardial infarction NOS
+Ischaemic heart diseases,G30-99,G30..99,Other acute myocardial infarction NOS
+Ischaemic heart diseases,G30-5,G30..15,Other acute myocardial infarction NOS
+Ischaemic heart diseases,G30,G30..00,Other acute myocardial infarction NOS
+Ischaemic heart diseases,G30-98,G30..98,Other acute myocardial infarction NOS
+Ischaemic heart diseases,Gyu34,Gyu3400,Other acute myocardial infarction NOS
+Ischaemic heart diseases,G30y,G30y.00,Acute myocardial infarction NOS
+Ischaemic heart diseases,G30yz,G30yz00,Acute myocardial infarction NOS
+Ischaemic heart diseases,G30z,G30z.00,Acute myocardial infarction NOS
+Ischaemic heart diseases,^ESCTAM342720,,Acute myocardial infarction NOS
+Ischaemic heart diseases,G30X,G30X.00,Acute myocardial infarction NOS
+Ischaemic heart diseases,G30-99,G30..99,Acute myocardial infarction NOS
+Ischaemic heart diseases,G30-5,G30..15,Acute myocardial infarction NOS
+Ischaemic heart diseases,G30,G30..00,Acute myocardial infarction NOS
+Ischaemic heart diseases,G30-98,G30..98,Acute myocardial infarction NOS
+Ischaemic heart diseases,Gyu34,Gyu3400,Acute myocardial infarction NOS
+Ischaemic heart diseases,Gyu3,Gyu3.00,Other acute and subacute ischaemic heart disease
+Ischaemic heart diseases,^ESCTIH686026,,Other acute and subacute ischaemic heart disease
+Ischaemic heart diseases,G31yz,G31yz00,Other acute and subacute ischaemic heart disease
+Ischaemic heart diseases,Gyu32,Gyu3200,Other acute and subacute ischaemic heart disease
+Ischaemic heart diseases,G31,G31..00,Other acute and subacute ischaemic heart disease
+Ischaemic heart diseases,G3y,G3y..00,Other acute and subacute ischaemic heart disease
+Ischaemic heart diseases,G3,G3...00,Other acute and subacute ischaemic heart disease
+Ischaemic heart diseases,G3-3,G3...13,Other acute and subacute ischaemic heart disease
+Ischaemic heart diseases,G31y,G31y.00,Other acute and subacute ischaemic heart disease
+Ischaemic heart diseases,^ESCTIS686025,,Other acute and subacute ischaemic heart disease
+Ischaemic heart diseases,G3z,G3z..00,Other acute and subacute ischaemic heart disease
+Ischaemic heart diseases,^ESCTPO357639,,Post-myocardial infarction syndrome
+Ischaemic heart diseases,G310-1,G310.11,Post-myocardial infarction syndrome
+Ischaemic heart diseases,^ESCTPO357637,,Post-myocardial infarction syndrome
+Ischaemic heart diseases,G310,G310.00,Post-myocardial infarction syndrome
+Ischaemic heart diseases,^ESCTPO357639,,Dressler's syndrome
+Ischaemic heart diseases,G310-1,G310.11,Dressler's syndrome
+Ischaemic heart diseases,^ESCTPO357637,,Dressler's syndrome
+Ischaemic heart diseases,G310,G310.00,Dressler's syndrome
+Ischaemic heart diseases,G311-3,G311.13,Preinfarction syndrome
+Ischaemic heart diseases,^ESCTIN257153,,Preinfarction syndrome
+Ischaemic heart diseases,^ESCTPR257157,,Preinfarction syndrome
+Ischaemic heart diseases,G311z,G311z00,Preinfarction syndrome
+Ischaemic heart diseases,G3111,G311100,Preinfarction syndrome
+Ischaemic heart diseases,G3114,G311400,Preinfarction syndrome
+Ischaemic heart diseases,G311-1,G311.11,Preinfarction syndrome
+Ischaemic heart diseases,^ESCTPR257156,,Preinfarction syndrome
+Ischaemic heart diseases,G311,G311.00,Preinfarction syndrome
+Ischaemic heart diseases,G311-3,G311.13,Crescendo angina
+Ischaemic heart diseases,^ESCTIN257153,,Crescendo angina
+Ischaemic heart diseases,^ESCTPR257157,,Crescendo angina
+Ischaemic heart diseases,G311z,G311z00,Crescendo angina
+Ischaemic heart diseases,G3111,G311100,Crescendo angina
+Ischaemic heart diseases,G3114,G311400,Crescendo angina
+Ischaemic heart diseases,G311-1,G311.11,Crescendo angina
+Ischaemic heart diseases,^ESCTPR257156,,Crescendo angina
+Ischaemic heart diseases,G311,G311.00,Crescendo angina
+Ischaemic heart diseases,G311-2,G311.12,Impending infarction
+Ischaemic heart diseases,G311-3,G311.13,Unstable angina
+Ischaemic heart diseases,^ESCTIN257153,,Unstable angina
+Ischaemic heart diseases,^ESCTPR257157,,Unstable angina
+Ischaemic heart diseases,G311z,G311z00,Unstable angina
+Ischaemic heart diseases,G3111,G311100,Unstable angina
+Ischaemic heart diseases,G3114,G311400,Unstable angina
+Ischaemic heart diseases,G311-1,G311.11,Unstable angina
+Ischaemic heart diseases,^ESCTPR257156,,Unstable angina
+Ischaemic heart diseases,G311,G311.00,Unstable angina
+Ischaemic heart diseases,G330z,G330z00,Angina at rest
+Ischaemic heart diseases,^ESCTAN345879,,Angina at rest
+Ischaemic heart diseases,G311-4,G311.14,Angina at rest
+Ischaemic heart diseases,G3112,G311200,Angina at rest
+Ischaemic heart diseases,G330,G330.00,Angina at rest
+Ischaemic heart diseases,^ESCTAB477593,,Myocardial infarction aborted
+Ischaemic heart diseases,G3110,G311000,Myocardial infarction aborted
+Ischaemic heart diseases,G3110-1,G311011,Myocardial infarction aborted
+Ischaemic heart diseases,G312,G312.00,Myocardial infarction aborted
+Ischaemic heart diseases,^ESCTAB477593,,MI - Myocardial infarction aborted
+Ischaemic heart diseases,G3110,G311000,MI - Myocardial infarction aborted
+Ischaemic heart diseases,G3110-1,G311011,MI - Myocardial infarction aborted
+Ischaemic heart diseases,G312,G312.00,MI - Myocardial infarction aborted
+Ischaemic heart diseases,G3113,G311300,Refractory angina
+Ischaemic heart diseases,G311-3,G311.13,Worsening angina
+Ischaemic heart diseases,^ESCTIN257153,,Worsening angina
+Ischaemic heart diseases,^ESCTPR257157,,Worsening angina
+Ischaemic heart diseases,G311z,G311z00,Worsening angina
+Ischaemic heart diseases,G3111,G311100,Worsening angina
+Ischaemic heart diseases,G3114,G311400,Worsening angina
+Ischaemic heart diseases,G311-1,G311.11,Worsening angina
+Ischaemic heart diseases,^ESCTPR257156,,Worsening angina
+Ischaemic heart diseases,G311,G311.00,Worsening angina
+Ischaemic heart diseases,^ESCTAC654611,,Acute coronary syndrome
+Ischaemic heart diseases,G3115,G311500,Acute coronary syndrome
+Ischaemic heart diseases,^ESCTAB477593,,Coronary thrombosis not resulting in myocardial infarction
+Ischaemic heart diseases,G3110,G311000,Coronary thrombosis not resulting in myocardial infarction
+Ischaemic heart diseases,G3110-1,G311011,Coronary thrombosis not resulting in myocardial infarction
+Ischaemic heart diseases,G312,G312.00,Coronary thrombosis not resulting in myocardial infarction
+Ischaemic heart diseases,G31y0,G31y000,Acute coronary insufficiency
+Ischaemic heart diseases,G31y0-99,G31y099,Acute coronary insufficiency
+Ischaemic heart diseases,^ESCTMI318577,,Microinfarction of heart
+Ischaemic heart diseases,G31y1,G31y100,Microinfarction of heart
+Ischaemic heart diseases,G31y2,G31y200,Subendocardial ischaemia
+Ischaemic heart diseases,^ESCTSU324470,,Subendocardial ischaemia
+Ischaemic heart diseases,G31y3,G31y300,Transient myocardial ischaemia
+Ischaemic heart diseases,^ESCTTR605307,,Transient myocardial ischaemia
+Ischaemic heart diseases,Gyu3,Gyu3.00,Other acute and subacute ischaemic heart disease NOS
+Ischaemic heart diseases,^ESCTIH686026,,Other acute and subacute ischaemic heart disease NOS
+Ischaemic heart diseases,G31yz,G31yz00,Other acute and subacute ischaemic heart disease NOS
+Ischaemic heart diseases,Gyu32,Gyu3200,Other acute and subacute ischaemic heart disease NOS
+Ischaemic heart diseases,G31,G31..00,Other acute and subacute ischaemic heart disease NOS
+Ischaemic heart diseases,G3y,G3y..00,Other acute and subacute ischaemic heart disease NOS
+Ischaemic heart diseases,G3,G3...00,Other acute and subacute ischaemic heart disease NOS
+Ischaemic heart diseases,G3-3,G3...13,Other acute and subacute ischaemic heart disease NOS
+Ischaemic heart diseases,G31y,G31y.00,Other acute and subacute ischaemic heart disease NOS
+Ischaemic heart diseases,^ESCTIS686025,,Other acute and subacute ischaemic heart disease NOS
+Ischaemic heart diseases,G3z,G3z..00,Other acute and subacute ischaemic heart disease NOS
+Ischaemic heart diseases,G32-1,G32..11,Old myocardial infarction
+Ischaemic heart diseases,G32,G32..00,Old myocardial infarction
+Ischaemic heart diseases,^ESCTHE252635,,Old myocardial infarction
+Ischaemic heart diseases,G32-1,G32..11,Healed myocardial infarction
+Ischaemic heart diseases,G32,G32..00,Healed myocardial infarction
+Ischaemic heart diseases,^ESCTHE252635,,Healed myocardial infarction
+Ischaemic heart diseases,^ESCTPA661919,,Personal history of myocardial infarction
+Ischaemic heart diseases,^ESCTPR661920,,Personal history of myocardial infarction
+Ischaemic heart diseases,G32-2,G32..12,Personal history of myocardial infarction
+Ischaemic heart diseases,14AT,14AT.00,Personal history of myocardial infarction
+Ischaemic heart diseases,G33zz,G33zz00,Angina pectoris
+Ischaemic heart diseases,Gyu30,Gyu3000,Angina pectoris
+Ischaemic heart diseases,^ESCTAN477600,,Angina pectoris
+Ischaemic heart diseases,^ESCTAN477597,,Angina pectoris
+Ischaemic heart diseases,^ESCTCA477598,,Angina pectoris
+Ischaemic heart diseases,^ESCTIS477603,,Angina pectoris
+Ischaemic heart diseases,^ESCTAP477601,,Angina pectoris
+Ischaemic heart diseases,G33z,G33z.00,Angina pectoris
+Ischaemic heart diseases,G33z1,G33z100,Angina pectoris
+Ischaemic heart diseases,G33,G33..00,Angina pectoris
+Ischaemic heart diseases,^ESCTIS477602,,Angina pectoris
+Ischaemic heart diseases,G330z,G330z00,Angina decubitus
+Ischaemic heart diseases,^ESCTAN345879,,Angina decubitus
+Ischaemic heart diseases,G311-4,G311.14,Angina decubitus
+Ischaemic heart diseases,G3112,G311200,Angina decubitus
+Ischaemic heart diseases,G330,G330.00,Angina decubitus
+Ischaemic heart diseases,G3300,G330000,Nocturnal angina
+Ischaemic heart diseases,G330z,G330z00,Angina decubitus NOS
+Ischaemic heart diseases,^ESCTAN345879,,Angina decubitus NOS
+Ischaemic heart diseases,G311-4,G311.14,Angina decubitus NOS
+Ischaemic heart diseases,G3112,G311200,Angina decubitus NOS
+Ischaemic heart diseases,G330,G330.00,Angina decubitus NOS
+Ischaemic heart diseases,G33zz,G33zz00,Angina pectoris NOS
+Ischaemic heart diseases,Gyu30,Gyu3000,Angina pectoris NOS
+Ischaemic heart diseases,^ESCTAN477600,,Angina pectoris NOS
+Ischaemic heart diseases,^ESCTAN477597,,Angina pectoris NOS
+Ischaemic heart diseases,^ESCTCA477598,,Angina pectoris NOS
+Ischaemic heart diseases,^ESCTIS477603,,Angina pectoris NOS
+Ischaemic heart diseases,^ESCTAP477601,,Angina pectoris NOS
+Ischaemic heart diseases,G33z,G33z.00,Angina pectoris NOS
+Ischaemic heart diseases,G33z1,G33z100,Angina pectoris NOS
+Ischaemic heart diseases,G33,G33..00,Angina pectoris NOS
+Ischaemic heart diseases,^ESCTIS477602,,Angina pectoris NOS
+Ischaemic heart diseases,G33z0,G33z000,Status anginosus
+Ischaemic heart diseases,G33zz,G33zz00,Stenocardia
+Ischaemic heart diseases,Gyu30,Gyu3000,Stenocardia
+Ischaemic heart diseases,^ESCTAN477600,,Stenocardia
+Ischaemic heart diseases,^ESCTAN477597,,Stenocardia
+Ischaemic heart diseases,^ESCTCA477598,,Stenocardia
+Ischaemic heart diseases,^ESCTIS477603,,Stenocardia
+Ischaemic heart diseases,^ESCTAP477601,,Stenocardia
+Ischaemic heart diseases,G33z,G33z.00,Stenocardia
+Ischaemic heart diseases,G33z1,G33z100,Stenocardia
+Ischaemic heart diseases,G33,G33..00,Stenocardia
+Ischaemic heart diseases,^ESCTIS477602,,Stenocardia
+Ischaemic heart diseases,G33z2,G33z200,Syncope anginosa
+Ischaemic heart diseases,^ESCTEX588763,,Angina on effort
+Ischaemic heart diseases,^ESCTEX588761,,Angina on effort
+Ischaemic heart diseases,^ESCTAN588764,,Angina on effort
+Ischaemic heart diseases,G33z3,G33z300,Angina on effort
+Ischaemic heart diseases,G33z4,G33z400,Ischaemic chest pain
+Ischaemic heart diseases,^ESCTIS494333,,Ischaemic chest pain
+Ischaemic heart diseases,G33z5,G33z500,Post infarct angina
+Ischaemic heart diseases,G33z6,G33z600,New onset angina
+Ischaemic heart diseases,G33z7,G33z700,Stable angina
+Ischaemic heart diseases,G34z,G34z.00,Chronic ischaemic heart disease
+Ischaemic heart diseases,G34y,G34y.00,Chronic ischaemic heart disease
+Ischaemic heart diseases,Gyu33,Gyu3300,Chronic ischaemic heart disease
+Ischaemic heart diseases,G34,G34..00,Chronic ischaemic heart disease
+Ischaemic heart diseases,G34yz,G34yz00,Chronic ischaemic heart disease
+Ischaemic heart diseases,^ESCTCH684776,,Chronic ischaemic heart disease
+Ischaemic heart diseases,G3-1,G3...11,Coronary atherosclerosis
+Ischaemic heart diseases,^ESCTAT727849,,Coronary atherosclerosis
+Ischaemic heart diseases,G3-2,G3...12,Coronary atherosclerosis
+Ischaemic heart diseases,G340,G340.00,Coronary atherosclerosis
+Ischaemic heart diseases,G340-2,G340.12,Coronary artery disease
+Ischaemic heart diseases,^ESCTCA337138,,Coronary artery disease
+Ischaemic heart diseases,^ESCTCO337142,,Coronary artery disease
+Ischaemic heart diseases,^ESCTCO337136,,Coronary artery disease
+Ischaemic heart diseases,^ESCTCO337140,,Coronary artery disease
+Ischaemic heart diseases,^ESCTCH337141,,Coronary artery disease
+Ischaemic heart diseases,^ESCTAR337137,,Coronary artery disease
+Ischaemic heart diseases,^ESCTGE477612,,Ischaemic cardiomyopathy
+Ischaemic heart diseases,G343,G343.00,Ischaemic cardiomyopathy
+Ischaemic heart diseases,^ESCTIS477614,,Ischaemic cardiomyopathy
+Ischaemic heart diseases,^ESCTGE477613,,Ischaemic cardiomyopathy
+Ischaemic heart diseases,^ESCTAS505625,,Silent myocardial ischaemia
+Ischaemic heart diseases,^ESCTSI505624,,Silent myocardial ischaemia
+Ischaemic heart diseases,^ESCTAS505626,,Silent myocardial ischaemia
+Ischaemic heart diseases,G344,G344.00,Silent myocardial ischaemia
+Ischaemic heart diseases,G34z,G34z.00,Other specified chronic ischaemic heart disease
+Ischaemic heart diseases,G34y,G34y.00,Other specified chronic ischaemic heart disease
+Ischaemic heart diseases,Gyu33,Gyu3300,Other specified chronic ischaemic heart disease
+Ischaemic heart diseases,G34,G34..00,Other specified chronic ischaemic heart disease
+Ischaemic heart diseases,G34yz,G34yz00,Other specified chronic ischaemic heart disease
+Ischaemic heart diseases,^ESCTCH684776,,Other specified chronic ischaemic heart disease
+Ischaemic heart diseases,^ESCTCH684787,,Chronic coronary insufficiency
+Ischaemic heart diseases,G34y1,G34y100,Chronic coronary insufficiency
+Ischaemic heart diseases,G34y0,G34y000,Chronic coronary insufficiency
+Ischaemic heart diseases,^ESCTCH684787,,Chronic myocardial ischaemia
+Ischaemic heart diseases,G34y1,G34y100,Chronic myocardial ischaemia
+Ischaemic heart diseases,G34y0,G34y000,Chronic myocardial ischaemia
+Ischaemic heart diseases,G34z,G34z.00,Other specified chronic ischaemic heart disease NOS
+Ischaemic heart diseases,G34y,G34y.00,Other specified chronic ischaemic heart disease NOS
+Ischaemic heart diseases,Gyu33,Gyu3300,Other specified chronic ischaemic heart disease NOS
+Ischaemic heart diseases,G34,G34..00,Other specified chronic ischaemic heart disease NOS
+Ischaemic heart diseases,G34yz,G34yz00,Other specified chronic ischaemic heart disease NOS
+Ischaemic heart diseases,^ESCTCH684776,,Other specified chronic ischaemic heart disease NOS
+Ischaemic heart diseases,G34z,G34z.00,Other chronic ischaemic heart disease NOS
+Ischaemic heart diseases,G34y,G34y.00,Other chronic ischaemic heart disease NOS
+Ischaemic heart diseases,Gyu33,Gyu3300,Other chronic ischaemic heart disease NOS
+Ischaemic heart diseases,G34,G34..00,Other chronic ischaemic heart disease NOS
+Ischaemic heart diseases,G34yz,G34yz00,Other chronic ischaemic heart disease NOS
+Ischaemic heart diseases,^ESCTCH684776,,Other chronic ischaemic heart disease NOS
+Ischaemic heart diseases,G34z0,G34z000,Asymptomatic coronary heart disease
+Ischaemic heart diseases,G353,G353.00,Subsequent myocardial infarction
+Ischaemic heart diseases,G35X,G35X.00,Subsequent myocardial infarction
+Ischaemic heart diseases,^ESCTRE477617,,Subsequent myocardial infarction
+Ischaemic heart diseases,Gyu35,Gyu3500,Subsequent myocardial infarction
+Ischaemic heart diseases,G35,G35..00,Subsequent myocardial infarction
+Ischaemic heart diseases,Gyu36,Gyu3600,Subsequent myocardial infarction
+Ischaemic heart diseases,G350,G350.00,Subsequent myocardial infarction of anterior wall
+Ischaemic heart diseases,G351,G351.00,Subsequent myocardial infarction of inferior wall
+Ischaemic heart diseases,G353,G353.00,Subsequent myocardial infarction of other sites
+Ischaemic heart diseases,G35X,G35X.00,Subsequent myocardial infarction of other sites
+Ischaemic heart diseases,^ESCTRE477617,,Subsequent myocardial infarction of other sites
+Ischaemic heart diseases,Gyu35,Gyu3500,Subsequent myocardial infarction of other sites
+Ischaemic heart diseases,G35,G35..00,Subsequent myocardial infarction of other sites
+Ischaemic heart diseases,Gyu36,Gyu3600,Subsequent myocardial infarction of other sites
+Ischaemic heart diseases,G353,G353.00,Subsequent myocardial infarction of unspecified site
+Ischaemic heart diseases,G35X,G35X.00,Subsequent myocardial infarction of unspecified site
+Ischaemic heart diseases,^ESCTRE477617,,Subsequent myocardial infarction of unspecified site
+Ischaemic heart diseases,Gyu35,Gyu3500,Subsequent myocardial infarction of unspecified site
+Ischaemic heart diseases,G35,G35..00,Subsequent myocardial infarction of unspecified site
+Ischaemic heart diseases,Gyu36,Gyu3600,Subsequent myocardial infarction of unspecified site
+Ischaemic heart diseases,G36,G36..00,Myocardial infarction with complication
+Ischaemic heart diseases,^ESCTMY634865,,Myocardial infarction with complication
+Ischaemic heart diseases,G360,G360.00,Haemopericardium as current complication following acute myocardial infarction
+Ischaemic heart diseases,^ESCT1222075,,Haemopericardium as current complication following acute myocardial infarction
+Ischaemic heart diseases,^ESCTHE477622,,Haemopericardium as current complication following acute myocardial infarction
+Ischaemic heart diseases,^ESCT1222076,,Haemopericardium as current complication following acute myocardial infarction
+Ischaemic heart diseases,^ESCT1222077,,Atrial septal defect as current complication following acute myocardial infarction
+Ischaemic heart diseases,G361,G361.00,Atrial septal defect as current complication following acute myocardial infarction
+Ischaemic heart diseases,G362,G362.00,Ventricular septal defect as current complication following acute myocardial infarction
+Ischaemic heart diseases,^ESCTDE505652,,Ventricular septal defect as current complication following acute myocardial infarction
+Ischaemic heart diseases,^ESCTPO505650,,Ventricular septal defect as current complication following acute myocardial infarction
+Ischaemic heart diseases,G363,G363.00,Rupture of cardiac wall without haemopericardium as current complication following acute myocardial infarction
+Ischaemic heart diseases,^ESCTRU477625,,Rupture of cardiac wall without haemopericardium as current complication following acute myocardial infarction
+Ischaemic heart diseases,G364,G364.00,Rupture of chordae tendinae as current complication following acute myocardial infarction
+Ischaemic heart diseases,^ESCT1222078,,Rupture of chordae tendinae as current complication following acute myocardial infarction
+Ischaemic heart diseases,G365,G365.00,Rupture of papillary muscle as current complication following acute myocardial infarction
+Ischaemic heart diseases,G366,G366.00,"Thrombosis of atrium, auricular appendage, and ventricle as current complications following acute myocardial infarction"
+Ischaemic heart diseases,^ESCT1222079,,"Thrombosis of atrium, auricular appendage, and ventricle as current complications following acute myocardial infarction"
+Ischaemic heart diseases,G383,G383.00,Postoperative myocardial infarction
+Ischaemic heart diseases,G38z,G38z.00,Postoperative myocardial infarction
+Ischaemic heart diseases,G38,G38..00,Postoperative myocardial infarction
+Ischaemic heart diseases,G382,G382.00,Postoperative myocardial infarction
+Ischaemic heart diseases,G380,G380.00,Postoperative transmural myocardial infarction of anterior wall
+Ischaemic heart diseases,G381,G381.00,Postoperative transmural myocardial infarction of inferior wall
+Ischaemic heart diseases,G384,G384.00,Postoperative subendocardial myocardial infarction
+Ischaemic heart diseases,G383,G383.00,"Postoperative myocardial infarction, unspecified"
+Ischaemic heart diseases,G38z,G38z.00,"Postoperative myocardial infarction, unspecified"
+Ischaemic heart diseases,G38,G38..00,"Postoperative myocardial infarction, unspecified"
+Ischaemic heart diseases,G382,G382.00,"Postoperative myocardial infarction, unspecified"
+Ischaemic heart diseases,Gyu3,Gyu3.00,Other specified ischaemic heart disease
+Ischaemic heart diseases,^ESCTIH686026,,Other specified ischaemic heart disease
+Ischaemic heart diseases,G31yz,G31yz00,Other specified ischaemic heart disease
+Ischaemic heart diseases,Gyu32,Gyu3200,Other specified ischaemic heart disease
+Ischaemic heart diseases,G31,G31..00,Other specified ischaemic heart disease
+Ischaemic heart diseases,G3y,G3y..00,Other specified ischaemic heart disease
+Ischaemic heart diseases,G3,G3...00,Other specified ischaemic heart disease
+Ischaemic heart diseases,G3-3,G3...13,Other specified ischaemic heart disease
+Ischaemic heart diseases,G31y,G31y.00,Other specified ischaemic heart disease
+Ischaemic heart diseases,^ESCTIS686025,,Other specified ischaemic heart disease
+Ischaemic heart diseases,G3z,G3z..00,Other specified ischaemic heart disease
+Ischaemic heart diseases,Gyu3,Gyu3.00,Ischaemic heart disease NOS
+Ischaemic heart diseases,^ESCTIH686026,,Ischaemic heart disease NOS
+Ischaemic heart diseases,G31yz,G31yz00,Ischaemic heart disease NOS
+Ischaemic heart diseases,Gyu32,Gyu3200,Ischaemic heart disease NOS
+Ischaemic heart diseases,G31,G31..00,Ischaemic heart disease NOS
+Ischaemic heart diseases,G3y,G3y..00,Ischaemic heart disease NOS
+Ischaemic heart diseases,G3,G3...00,Ischaemic heart disease NOS
+Ischaemic heart diseases,G3-3,G3...13,Ischaemic heart disease NOS
+Ischaemic heart diseases,G31y,G31y.00,Ischaemic heart disease NOS
+Ischaemic heart diseases,^ESCTIS686025,,Ischaemic heart disease NOS
+Ischaemic heart diseases,G3z,G3z..00,Ischaemic heart disease NOS
+Ischaemic heart diseases,^ESCTPO505694,,Post infarction pericarditis
+Ischaemic heart diseases,^ESCTPE505695,,Post infarction pericarditis
+Ischaemic heart diseases,G501,G501.00,Post infarction pericarditis
+Ischaemic heart diseases,Gyu3,Gyu3.00,[X]Ischaemic heart diseases
+Ischaemic heart diseases,^ESCTIH686026,,[X]Ischaemic heart diseases
+Ischaemic heart diseases,G31yz,G31yz00,[X]Ischaemic heart diseases
+Ischaemic heart diseases,Gyu32,Gyu3200,[X]Ischaemic heart diseases
+Ischaemic heart diseases,G31,G31..00,[X]Ischaemic heart diseases
+Ischaemic heart diseases,G3y,G3y..00,[X]Ischaemic heart diseases
+Ischaemic heart diseases,G3,G3...00,[X]Ischaemic heart diseases
+Ischaemic heart diseases,G3-3,G3...13,[X]Ischaemic heart diseases
+Ischaemic heart diseases,G31y,G31y.00,[X]Ischaemic heart diseases
+Ischaemic heart diseases,^ESCTIS686025,,[X]Ischaemic heart diseases
+Ischaemic heart diseases,G3z,G3z..00,[X]Ischaemic heart diseases
+Ischaemic heart diseases,G33zz,G33zz00,[X]Other forms of angina pectoris
+Ischaemic heart diseases,Gyu30,Gyu3000,[X]Other forms of angina pectoris
+Ischaemic heart diseases,^ESCTAN477600,,[X]Other forms of angina pectoris
+Ischaemic heart diseases,^ESCTAN477597,,[X]Other forms of angina pectoris
+Ischaemic heart diseases,^ESCTCA477598,,[X]Other forms of angina pectoris
+Ischaemic heart diseases,^ESCTIS477603,,[X]Other forms of angina pectoris
+Ischaemic heart diseases,^ESCTAP477601,,[X]Other forms of angina pectoris
+Ischaemic heart diseases,G33z,G33z.00,[X]Other forms of angina pectoris
+Ischaemic heart diseases,G33z1,G33z100,[X]Other forms of angina pectoris
+Ischaemic heart diseases,G33,G33..00,[X]Other forms of angina pectoris
+Ischaemic heart diseases,^ESCTIS477602,,[X]Other forms of angina pectoris
+Ischaemic heart diseases,Gyu3,Gyu3.00,[X]Other forms of acute ischaemic heart disease
+Ischaemic heart diseases,^ESCTIH686026,,[X]Other forms of acute ischaemic heart disease
+Ischaemic heart diseases,G31yz,G31yz00,[X]Other forms of acute ischaemic heart disease
+Ischaemic heart diseases,Gyu32,Gyu3200,[X]Other forms of acute ischaemic heart disease
+Ischaemic heart diseases,G31,G31..00,[X]Other forms of acute ischaemic heart disease
+Ischaemic heart diseases,G3y,G3y..00,[X]Other forms of acute ischaemic heart disease
+Ischaemic heart diseases,G3,G3...00,[X]Other forms of acute ischaemic heart disease
+Ischaemic heart diseases,G3-3,G3...13,[X]Other forms of acute ischaemic heart disease
+Ischaemic heart diseases,G31y,G31y.00,[X]Other forms of acute ischaemic heart disease
+Ischaemic heart diseases,^ESCTIS686025,,[X]Other forms of acute ischaemic heart disease
+Ischaemic heart diseases,G3z,G3z..00,[X]Other forms of acute ischaemic heart disease
+Ischaemic heart diseases,G34z,G34z.00,[X]Other forms of chronic ischaemic heart disease
+Ischaemic heart diseases,G34y,G34y.00,[X]Other forms of chronic ischaemic heart disease
+Ischaemic heart diseases,Gyu33,Gyu3300,[X]Other forms of chronic ischaemic heart disease
+Ischaemic heart diseases,G34,G34..00,[X]Other forms of chronic ischaemic heart disease
+Ischaemic heart diseases,G34yz,G34yz00,[X]Other forms of chronic ischaemic heart disease
+Ischaemic heart diseases,^ESCTCH684776,,[X]Other forms of chronic ischaemic heart disease
+Ischaemic heart diseases,G30y,G30y.00,[X]Acute transmural myocardial infarction of unspecif site
+Ischaemic heart diseases,G30yz,G30yz00,[X]Acute transmural myocardial infarction of unspecif site
+Ischaemic heart diseases,G30z,G30z.00,[X]Acute transmural myocardial infarction of unspecif site
+Ischaemic heart diseases,^ESCTAM342720,,[X]Acute transmural myocardial infarction of unspecif site
+Ischaemic heart diseases,G30X,G30X.00,[X]Acute transmural myocardial infarction of unspecif site
+Ischaemic heart diseases,G30-99,G30..99,[X]Acute transmural myocardial infarction of unspecif site
+Ischaemic heart diseases,G30-5,G30..15,[X]Acute transmural myocardial infarction of unspecif site
+Ischaemic heart diseases,G30,G30..00,[X]Acute transmural myocardial infarction of unspecif site
+Ischaemic heart diseases,G30-98,G30..98,[X]Acute transmural myocardial infarction of unspecif site
+Ischaemic heart diseases,Gyu34,Gyu3400,[X]Acute transmural myocardial infarction of unspecif site
+Ischaemic heart diseases,SP003,SP00300,Mechanical complication of coronary bypass
+Ischaemic heart diseases,SP003-99,SP00399,Mechanical complication of coronary bypass
+Ischaemic heart diseases,SP076,SP07600,Coronary artery bypass graft occlusion
