@@ -1,0 +1,9 @@
+Condition,MedCode,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
+Eating disorders,94597012,56882008,94597012,E271,E271.00,Anorexia nervosa
+Eating disorders,527421000006116,78004001,129452012,E2751,E275100,Bulimia (non-organic overeating)
+Eating disorders,363321000006111,56882008,94597012,Eu500,Eu50000,[X]Anorexia nervosa
+Eating disorders,366521000006113,231522009,347005011,Eu501,Eu50100,[X]Atypical anorexia nervosa
+Eating disorders,368051000006111,78004001,129452012,Eu502,Eu50200,[X]Bulimia nervosa
+Eating disorders,368061000006113,78004001,129452012,Eu502-1,Eu50211,[X]Bulimia NOS
+Eating disorders,366541000006118,231523004,347006012,Eu503,Eu50300,[X]Atypical bulimia nervosa
+Eating disorders,1222496015,78004001,129453019,R0360-1,R036011,[D]Bulimia NOS

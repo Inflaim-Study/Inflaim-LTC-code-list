@@ -1,0 +1,258 @@
+Condition,MedCode,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
+Iron deficiency anaemia,251611012,161456009,251611012,^ESCTHI453969,,H/O: anaemia - iron deficient
+Iron deficiency anaemia,251611012,161456009,251611012,^ESCTHO453968,,H/O: anaemia - iron deficient
+Iron deficiency anaemia,251611012,161456009,251611012,1451,1451.00,H/O: anaemia - iron deficient
+Iron deficiency anaemia,507619019,87522002,507616014,D0-1,D0...11,Asiderotic anaemia
+Iron deficiency anaemia,507619019,87522002,507616014,D0-2,D0...12,Asiderotic anaemia
+Iron deficiency anaemia,507619019,87522002,507616014,D00yz,D00yz00,Asiderotic anaemia
+Iron deficiency anaemia,507619019,87522002,507616014,^ESCTAS392266,,Asiderotic anaemia
+Iron deficiency anaemia,507619019,87522002,507616014,D00,D00..00,Asiderotic anaemia
+Iron deficiency anaemia,507619019,87522002,507616014,^ESCTAS392271,,Asiderotic anaemia
+Iron deficiency anaemia,507619019,87522002,507616014,^ESCTIR392274,,Asiderotic anaemia
+Iron deficiency anaemia,507619019,87522002,507616014,^ESCTCH392267,,Asiderotic anaemia
+Iron deficiency anaemia,507619019,87522002,507616014,^ESCTSI392268,,Asiderotic anaemia
+Iron deficiency anaemia,507619019,87522002,507616014,^ESCTIR392270,,Asiderotic anaemia
+Iron deficiency anaemia,507619019,87522002,507616014,^ESCT1190238,,Asiderotic anaemia
+Iron deficiency anaemia,507619019,87522002,507616014,^ESCT1276169,,Asiderotic anaemia
+Iron deficiency anaemia,507619019,87522002,507616014,^ESCT1198930,,Asiderotic anaemia
+Iron deficiency anaemia,507619019,87522002,507616014,D00y,D00y.00,Asiderotic anaemia
+Iron deficiency anaemia,507619019,87522002,507616014,D00z,D00z.00,Asiderotic anaemia
+Iron deficiency anaemia,507619019,87522002,507616014,D00zz,D00zz00,Asiderotic anaemia
+Iron deficiency anaemia,507619019,87522002,507616014,^ESCTID392269,,Asiderotic anaemia
+Iron deficiency anaemia,507619019,87522002,507616014,D00z1,D00z100,Asiderotic anaemia
+Iron deficiency anaemia,507619019,87522002,507616014,Dyu00,Dyu0000,Asiderotic anaemia
+Iron deficiency anaemia,507619019,87522002,507616014,^ESCTID392272,,Asiderotic anaemia
+Iron deficiency anaemia,507619019,87522002,507616014,^ESCTSI392273,,Asiderotic anaemia
+Iron deficiency anaemia,507621012,87522002,507616014,D0-1,D0...11,Sideropenic anaemia
+Iron deficiency anaemia,507621012,87522002,507616014,D0-2,D0...12,Sideropenic anaemia
+Iron deficiency anaemia,507621012,87522002,507616014,D00yz,D00yz00,Sideropenic anaemia
+Iron deficiency anaemia,507621012,87522002,507616014,^ESCTAS392266,,Sideropenic anaemia
+Iron deficiency anaemia,507621012,87522002,507616014,D00,D00..00,Sideropenic anaemia
+Iron deficiency anaemia,507621012,87522002,507616014,^ESCTAS392271,,Sideropenic anaemia
+Iron deficiency anaemia,507621012,87522002,507616014,^ESCTIR392274,,Sideropenic anaemia
+Iron deficiency anaemia,507621012,87522002,507616014,^ESCTCH392267,,Sideropenic anaemia
+Iron deficiency anaemia,507621012,87522002,507616014,^ESCTSI392268,,Sideropenic anaemia
+Iron deficiency anaemia,507621012,87522002,507616014,^ESCTIR392270,,Sideropenic anaemia
+Iron deficiency anaemia,507621012,87522002,507616014,^ESCT1190238,,Sideropenic anaemia
+Iron deficiency anaemia,507621012,87522002,507616014,^ESCT1276169,,Sideropenic anaemia
+Iron deficiency anaemia,507621012,87522002,507616014,^ESCT1198930,,Sideropenic anaemia
+Iron deficiency anaemia,507621012,87522002,507616014,D00y,D00y.00,Sideropenic anaemia
+Iron deficiency anaemia,507621012,87522002,507616014,D00z,D00z.00,Sideropenic anaemia
+Iron deficiency anaemia,507621012,87522002,507616014,D00zz,D00zz00,Sideropenic anaemia
+Iron deficiency anaemia,507621012,87522002,507616014,^ESCTID392269,,Sideropenic anaemia
+Iron deficiency anaemia,507621012,87522002,507616014,D00z1,D00z100,Sideropenic anaemia
+Iron deficiency anaemia,507621012,87522002,507616014,Dyu00,Dyu0000,Sideropenic anaemia
+Iron deficiency anaemia,507621012,87522002,507616014,^ESCTID392272,,Sideropenic anaemia
+Iron deficiency anaemia,507621012,87522002,507616014,^ESCTSI392273,,Sideropenic anaemia
+Iron deficiency anaemia,745851000006117,87522002,507616014,D0-1,D0...11,Iron deficiency anaemia
+Iron deficiency anaemia,745851000006117,87522002,507616014,D0-2,D0...12,Iron deficiency anaemia
+Iron deficiency anaemia,745851000006117,87522002,507616014,D00yz,D00yz00,Iron deficiency anaemia
+Iron deficiency anaemia,745851000006117,87522002,507616014,^ESCTAS392266,,Iron deficiency anaemia
+Iron deficiency anaemia,745851000006117,87522002,507616014,D00,D00..00,Iron deficiency anaemia
+Iron deficiency anaemia,745851000006117,87522002,507616014,^ESCTAS392271,,Iron deficiency anaemia
+Iron deficiency anaemia,745851000006117,87522002,507616014,^ESCTIR392274,,Iron deficiency anaemia
+Iron deficiency anaemia,745851000006117,87522002,507616014,^ESCTCH392267,,Iron deficiency anaemia
+Iron deficiency anaemia,745851000006117,87522002,507616014,^ESCTSI392268,,Iron deficiency anaemia
+Iron deficiency anaemia,745851000006117,87522002,507616014,^ESCTIR392270,,Iron deficiency anaemia
+Iron deficiency anaemia,745851000006117,87522002,507616014,^ESCT1190238,,Iron deficiency anaemia
+Iron deficiency anaemia,745851000006117,87522002,507616014,^ESCT1276169,,Iron deficiency anaemia
+Iron deficiency anaemia,745851000006117,87522002,507616014,^ESCT1198930,,Iron deficiency anaemia
+Iron deficiency anaemia,745851000006117,87522002,507616014,D00y,D00y.00,Iron deficiency anaemia
+Iron deficiency anaemia,745851000006117,87522002,507616014,D00z,D00z.00,Iron deficiency anaemia
+Iron deficiency anaemia,745851000006117,87522002,507616014,D00zz,D00zz00,Iron deficiency anaemia
+Iron deficiency anaemia,745851000006117,87522002,507616014,^ESCTID392269,,Iron deficiency anaemia
+Iron deficiency anaemia,745851000006117,87522002,507616014,D00z1,D00z100,Iron deficiency anaemia
+Iron deficiency anaemia,745851000006117,87522002,507616014,Dyu00,Dyu0000,Iron deficiency anaemia
+Iron deficiency anaemia,745851000006117,87522002,507616014,^ESCTID392272,,Iron deficiency anaemia
+Iron deficiency anaemia,745851000006117,87522002,507616014,^ESCTSI392273,,Iron deficiency anaemia
+Iron deficiency anaemia,745811000006118,413533008,2532901013,D000-2,D000.12,Anaemia due to chronic blood loss
+Iron deficiency anaemia,745811000006118,413533008,2532901013,D000,D000.00,Anaemia due to chronic blood loss
+Iron deficiency anaemia,745811000006118,413533008,2532901013,^ESCT1192623,,Anaemia due to chronic blood loss
+Iron deficiency anaemia,745811000006118,413533008,2532901013,^ESCTAN684279,,Anaemia due to chronic blood loss
+Iron deficiency anaemia,745811000006118,413533008,2532901013,^ESCTAN684278,,Anaemia due to chronic blood loss
+Iron deficiency anaemia,745811000006118,413533008,2532901013,^ESCTCH684280,,Anaemia due to chronic blood loss
+Iron deficiency anaemia,745811000006118,413533008,2532901013,^ESCTCH684281,,Anaemia due to chronic blood loss
+Iron deficiency anaemia,745811000006118,413533008,2532901013,^ESCTCH684283,,Anaemia due to chronic blood loss
+Iron deficiency anaemia,351092018,234352004,351092018,D000-1,D000.11,Normocytic anaemia due to chronic blood loss
+Iron deficiency anaemia,351092018,234352004,351092018,^ESCTNO506343,,Normocytic anaemia due to chronic blood loss
+Iron deficiency anaemia,745801000006116,413533008,2532901013,D000-2,D000.12,Iron deficiency anaemia due to blood loss
+Iron deficiency anaemia,745801000006116,413533008,2532901013,D000,D000.00,Iron deficiency anaemia due to blood loss
+Iron deficiency anaemia,745801000006116,413533008,2532901013,^ESCT1192623,,Iron deficiency anaemia due to blood loss
+Iron deficiency anaemia,745801000006116,413533008,2532901013,^ESCTAN684279,,Iron deficiency anaemia due to blood loss
+Iron deficiency anaemia,745801000006116,413533008,2532901013,^ESCTAN684278,,Iron deficiency anaemia due to blood loss
+Iron deficiency anaemia,745801000006116,413533008,2532901013,^ESCTCH684280,,Iron deficiency anaemia due to blood loss
+Iron deficiency anaemia,745801000006116,413533008,2532901013,^ESCTCH684281,,Iron deficiency anaemia due to blood loss
+Iron deficiency anaemia,745801000006116,413533008,2532901013,^ESCTCH684283,,Iron deficiency anaemia due to blood loss
+Iron deficiency anaemia,293864013,191128004,293864013,^ESCTIR476102,,Iron deficiency anaemia due to dietary causes
+Iron deficiency anaemia,293864013,191128004,293864013,D001,D001.00,Iron deficiency anaemia due to dietary causes
+Iron deficiency anaemia,399195014,87522002,507616014,D0-1,D0...11,Iron deficiency anemia
+Iron deficiency anaemia,399195014,87522002,507616014,D0-2,D0...12,Iron deficiency anemia
+Iron deficiency anaemia,399195014,87522002,507616014,D00yz,D00yz00,Iron deficiency anemia
+Iron deficiency anaemia,399195014,87522002,507616014,^ESCTAS392266,,Iron deficiency anemia
+Iron deficiency anaemia,399195014,87522002,507616014,D00,D00..00,Iron deficiency anemia
+Iron deficiency anaemia,399195014,87522002,507616014,^ESCTAS392271,,Iron deficiency anemia
+Iron deficiency anaemia,399195014,87522002,507616014,^ESCTIR392274,,Iron deficiency anemia
+Iron deficiency anaemia,399195014,87522002,507616014,^ESCTCH392267,,Iron deficiency anemia
+Iron deficiency anaemia,399195014,87522002,507616014,^ESCTSI392268,,Iron deficiency anemia
+Iron deficiency anaemia,399195014,87522002,507616014,^ESCTIR392270,,Iron deficiency anemia
+Iron deficiency anaemia,399195014,87522002,507616014,^ESCT1190238,,Iron deficiency anemia
+Iron deficiency anaemia,399195014,87522002,507616014,^ESCT1276169,,Iron deficiency anemia
+Iron deficiency anaemia,399195014,87522002,507616014,^ESCT1198930,,Iron deficiency anemia
+Iron deficiency anaemia,399195014,87522002,507616014,D00y,D00y.00,Iron deficiency anemia
+Iron deficiency anaemia,399195014,87522002,507616014,D00z,D00z.00,Iron deficiency anemia
+Iron deficiency anaemia,399195014,87522002,507616014,D00zz,D00zz00,Iron deficiency anemia
+Iron deficiency anaemia,399195014,87522002,507616014,^ESCTID392269,,Iron deficiency anemia
+Iron deficiency anaemia,399195014,87522002,507616014,D00z1,D00z100,Iron deficiency anemia
+Iron deficiency anaemia,399195014,87522002,507616014,Dyu00,Dyu0000,Iron deficiency anemia
+Iron deficiency anaemia,399195014,87522002,507616014,^ESCTID392272,,Iron deficiency anemia
+Iron deficiency anaemia,399195014,87522002,507616014,^ESCTSI392273,,Iron deficiency anemia
+Iron deficiency anaemia,281961000006111,80126007,132937017,D00y-1,D00y.11,Kelly - Paterson syndrome
+Iron deficiency anaemia,281961000006111,80126007,132937017,^ESCTBR380320,,Kelly - Paterson syndrome
+Iron deficiency anaemia,281961000006111,80126007,132937017,^ESCTPA380318,,Kelly - Paterson syndrome
+Iron deficiency anaemia,281961000006111,80126007,132937017,D00y-2,D00y.12,Kelly - Paterson syndrome
+Iron deficiency anaemia,281961000006111,80126007,132937017,^ESCTPL380321,,Kelly - Paterson syndrome
+Iron deficiency anaemia,281961000006111,80126007,132937017,D00y0-2,D00y012,Kelly - Paterson syndrome
+Iron deficiency anaemia,281961000006111,80126007,132937017,D00y0,D00y000,Kelly - Paterson syndrome
+Iron deficiency anaemia,281961000006111,80126007,132937017,D00y0-1,D00y011,Kelly - Paterson syndrome
+Iron deficiency anaemia,219431000006113,80126007,132937017,D00y-1,D00y.11,Plummer - Vinson syndrome
+Iron deficiency anaemia,219431000006113,80126007,132937017,^ESCTBR380320,,Plummer - Vinson syndrome
+Iron deficiency anaemia,219431000006113,80126007,132937017,^ESCTPA380318,,Plummer - Vinson syndrome
+Iron deficiency anaemia,219431000006113,80126007,132937017,D00y-2,D00y.12,Plummer - Vinson syndrome
+Iron deficiency anaemia,219431000006113,80126007,132937017,^ESCTPL380321,,Plummer - Vinson syndrome
+Iron deficiency anaemia,219431000006113,80126007,132937017,D00y0-2,D00y012,Plummer - Vinson syndrome
+Iron deficiency anaemia,219431000006113,80126007,132937017,D00y0,D00y000,Plummer - Vinson syndrome
+Iron deficiency anaemia,219431000006113,80126007,132937017,D00y0-1,D00y011,Plummer - Vinson syndrome
+Iron deficiency anaemia,132939019,80126007,132939019,D00y-1,D00y.11,Sideropenic dysphagia
+Iron deficiency anaemia,132939019,80126007,132939019,^ESCTBR380320,,Sideropenic dysphagia
+Iron deficiency anaemia,132939019,80126007,132939019,^ESCTPA380318,,Sideropenic dysphagia
+Iron deficiency anaemia,132939019,80126007,132939019,D00y-2,D00y.12,Sideropenic dysphagia
+Iron deficiency anaemia,132939019,80126007,132939019,^ESCTPL380321,,Sideropenic dysphagia
+Iron deficiency anaemia,132939019,80126007,132939019,D00y0-2,D00y012,Sideropenic dysphagia
+Iron deficiency anaemia,132939019,80126007,132939019,D00y0,D00y000,Sideropenic dysphagia
+Iron deficiency anaemia,132939019,80126007,132939019,D00y0-1,D00y011,Sideropenic dysphagia
+Iron deficiency anaemia,755101000006110,80126007,132937017,D00y-1,D00y.11,Kelly-Paterson syndrome
+Iron deficiency anaemia,755101000006110,80126007,132937017,^ESCTBR380320,,Kelly-Paterson syndrome
+Iron deficiency anaemia,755101000006110,80126007,132937017,^ESCTPA380318,,Kelly-Paterson syndrome
+Iron deficiency anaemia,755101000006110,80126007,132937017,D00y-2,D00y.12,Kelly-Paterson syndrome
+Iron deficiency anaemia,755101000006110,80126007,132937017,^ESCTPL380321,,Kelly-Paterson syndrome
+Iron deficiency anaemia,755101000006110,80126007,132937017,D00y0-2,D00y012,Kelly-Paterson syndrome
+Iron deficiency anaemia,755101000006110,80126007,132937017,D00y0,D00y000,Kelly-Paterson syndrome
+Iron deficiency anaemia,755101000006110,80126007,132937017,D00y0-1,D00y011,Kelly-Paterson syndrome
+Iron deficiency anaemia,132937017,80126007,132937017,D00y-1,D00y.11,Plummer-Vinson syndrome
+Iron deficiency anaemia,132937017,80126007,132937017,^ESCTBR380320,,Plummer-Vinson syndrome
+Iron deficiency anaemia,132937017,80126007,132937017,^ESCTPA380318,,Plummer-Vinson syndrome
+Iron deficiency anaemia,132937017,80126007,132937017,D00y-2,D00y.12,Plummer-Vinson syndrome
+Iron deficiency anaemia,132937017,80126007,132937017,^ESCTPL380321,,Plummer-Vinson syndrome
+Iron deficiency anaemia,132937017,80126007,132937017,D00y0-2,D00y012,Plummer-Vinson syndrome
+Iron deficiency anaemia,132937017,80126007,132937017,D00y0,D00y000,Plummer-Vinson syndrome
+Iron deficiency anaemia,132937017,80126007,132937017,D00y0-1,D00y011,Plummer-Vinson syndrome
+Iron deficiency anaemia,293877016,87522002,507616014,D0-1,D0...11,Iron deficiency anemia
+Iron deficiency anaemia,293877016,87522002,507616014,D0-2,D0...12,Iron deficiency anemia
+Iron deficiency anaemia,293877016,87522002,507616014,D00yz,D00yz00,Iron deficiency anemia
+Iron deficiency anaemia,293877016,87522002,507616014,^ESCTAS392266,,Iron deficiency anemia
+Iron deficiency anaemia,293877016,87522002,507616014,D00,D00..00,Iron deficiency anemia
+Iron deficiency anaemia,293877016,87522002,507616014,^ESCTAS392271,,Iron deficiency anemia
+Iron deficiency anaemia,293877016,87522002,507616014,^ESCTIR392274,,Iron deficiency anemia
+Iron deficiency anaemia,293877016,87522002,507616014,^ESCTCH392267,,Iron deficiency anemia
+Iron deficiency anaemia,293877016,87522002,507616014,^ESCTSI392268,,Iron deficiency anemia
+Iron deficiency anaemia,293877016,87522002,507616014,^ESCTIR392270,,Iron deficiency anemia
+Iron deficiency anaemia,293877016,87522002,507616014,^ESCT1190238,,Iron deficiency anemia
+Iron deficiency anaemia,293877016,87522002,507616014,^ESCT1276169,,Iron deficiency anemia
+Iron deficiency anaemia,293877016,87522002,507616014,^ESCT1198930,,Iron deficiency anemia
+Iron deficiency anaemia,293877016,87522002,507616014,D00y,D00y.00,Iron deficiency anemia
+Iron deficiency anaemia,293877016,87522002,507616014,D00z,D00z.00,Iron deficiency anemia
+Iron deficiency anaemia,293877016,87522002,507616014,D00zz,D00zz00,Iron deficiency anemia
+Iron deficiency anaemia,293877016,87522002,507616014,^ESCTID392269,,Iron deficiency anemia
+Iron deficiency anaemia,293877016,87522002,507616014,D00z1,D00z100,Iron deficiency anemia
+Iron deficiency anaemia,293877016,87522002,507616014,Dyu00,Dyu0000,Iron deficiency anemia
+Iron deficiency anaemia,293877016,87522002,507616014,^ESCTID392272,,Iron deficiency anemia
+Iron deficiency anaemia,293877016,87522002,507616014,^ESCTSI392273,,Iron deficiency anemia
+Iron deficiency anaemia,293880015,87522002,507616014,D0-1,D0...11,Unspecified iron deficiency anaemia
+Iron deficiency anaemia,293880015,87522002,507616014,D0-2,D0...12,Unspecified iron deficiency anaemia
+Iron deficiency anaemia,293880015,87522002,507616014,D00yz,D00yz00,Unspecified iron deficiency anaemia
+Iron deficiency anaemia,293880015,87522002,507616014,^ESCTAS392266,,Unspecified iron deficiency anaemia
+Iron deficiency anaemia,293880015,87522002,507616014,D00,D00..00,Unspecified iron deficiency anaemia
+Iron deficiency anaemia,293880015,87522002,507616014,^ESCTAS392271,,Unspecified iron deficiency anaemia
+Iron deficiency anaemia,293880015,87522002,507616014,^ESCTIR392274,,Unspecified iron deficiency anaemia
+Iron deficiency anaemia,293880015,87522002,507616014,^ESCTCH392267,,Unspecified iron deficiency anaemia
+Iron deficiency anaemia,293880015,87522002,507616014,^ESCTSI392268,,Unspecified iron deficiency anaemia
+Iron deficiency anaemia,293880015,87522002,507616014,^ESCTIR392270,,Unspecified iron deficiency anaemia
+Iron deficiency anaemia,293880015,87522002,507616014,^ESCT1190238,,Unspecified iron deficiency anaemia
+Iron deficiency anaemia,293880015,87522002,507616014,^ESCT1276169,,Unspecified iron deficiency anaemia
+Iron deficiency anaemia,293880015,87522002,507616014,^ESCT1198930,,Unspecified iron deficiency anaemia
+Iron deficiency anaemia,293880015,87522002,507616014,D00y,D00y.00,Unspecified iron deficiency anaemia
+Iron deficiency anaemia,293880015,87522002,507616014,D00z,D00z.00,Unspecified iron deficiency anaemia
+Iron deficiency anaemia,293880015,87522002,507616014,D00zz,D00zz00,Unspecified iron deficiency anaemia
+Iron deficiency anaemia,293880015,87522002,507616014,^ESCTID392269,,Unspecified iron deficiency anaemia
+Iron deficiency anaemia,293880015,87522002,507616014,D00z1,D00z100,Unspecified iron deficiency anaemia
+Iron deficiency anaemia,293880015,87522002,507616014,Dyu00,Dyu0000,Unspecified iron deficiency anaemia
+Iron deficiency anaemia,293880015,87522002,507616014,^ESCTID392272,,Unspecified iron deficiency anaemia
+Iron deficiency anaemia,293880015,87522002,507616014,^ESCTSI392273,,Unspecified iron deficiency anaemia
+Iron deficiency anaemia,504528016,80875006,504528016,^ESCTFA381539,,Achlorhydric anaemia
+Iron deficiency anaemia,504528016,80875006,504528016,^ESCTAC381538,,Achlorhydric anaemia
+Iron deficiency anaemia,504528016,80875006,504528016,^ESCTAC381537,,Achlorhydric anaemia
+Iron deficiency anaemia,504528016,80875006,504528016,^ESCTAC381540,,Achlorhydric anaemia
+Iron deficiency anaemia,504528016,80875006,504528016,D00z0,D00z000,Achlorhydric anaemia
+Iron deficiency anaemia,293884012,87522002,507623010,D0-1,D0...11,Chlorotic anaemia
+Iron deficiency anaemia,293884012,87522002,507623010,D0-2,D0...12,Chlorotic anaemia
+Iron deficiency anaemia,293884012,87522002,507623010,D00yz,D00yz00,Chlorotic anaemia
+Iron deficiency anaemia,293884012,87522002,507623010,^ESCTAS392266,,Chlorotic anaemia
+Iron deficiency anaemia,293884012,87522002,507623010,D00,D00..00,Chlorotic anaemia
+Iron deficiency anaemia,293884012,87522002,507623010,^ESCTAS392271,,Chlorotic anaemia
+Iron deficiency anaemia,293884012,87522002,507623010,^ESCTIR392274,,Chlorotic anaemia
+Iron deficiency anaemia,293884012,87522002,507623010,^ESCTCH392267,,Chlorotic anaemia
+Iron deficiency anaemia,293884012,87522002,507623010,^ESCTSI392268,,Chlorotic anaemia
+Iron deficiency anaemia,293884012,87522002,507623010,^ESCTIR392270,,Chlorotic anaemia
+Iron deficiency anaemia,293884012,87522002,507623010,^ESCT1190238,,Chlorotic anaemia
+Iron deficiency anaemia,293884012,87522002,507623010,^ESCT1276169,,Chlorotic anaemia
+Iron deficiency anaemia,293884012,87522002,507623010,^ESCT1198930,,Chlorotic anaemia
+Iron deficiency anaemia,293884012,87522002,507623010,D00y,D00y.00,Chlorotic anaemia
+Iron deficiency anaemia,293884012,87522002,507623010,D00z,D00z.00,Chlorotic anaemia
+Iron deficiency anaemia,293884012,87522002,507623010,D00zz,D00zz00,Chlorotic anaemia
+Iron deficiency anaemia,293884012,87522002,507623010,^ESCTID392269,,Chlorotic anaemia
+Iron deficiency anaemia,293884012,87522002,507623010,D00z1,D00z100,Chlorotic anaemia
+Iron deficiency anaemia,293884012,87522002,507623010,Dyu00,Dyu0000,Chlorotic anaemia
+Iron deficiency anaemia,293884012,87522002,507623010,^ESCTID392272,,Chlorotic anaemia
+Iron deficiency anaemia,293884012,87522002,507623010,^ESCTSI392273,,Chlorotic anaemia
+Iron deficiency anaemia,293888010,87522002,507616014,D0-1,D0...11,Iron deficiency anaemia NOS
+Iron deficiency anaemia,293888010,87522002,507616014,D0-2,D0...12,Iron deficiency anaemia NOS
+Iron deficiency anaemia,293888010,87522002,507616014,D00yz,D00yz00,Iron deficiency anaemia NOS
+Iron deficiency anaemia,293888010,87522002,507616014,^ESCTAS392266,,Iron deficiency anaemia NOS
+Iron deficiency anaemia,293888010,87522002,507616014,D00,D00..00,Iron deficiency anaemia NOS
+Iron deficiency anaemia,293888010,87522002,507616014,^ESCTAS392271,,Iron deficiency anaemia NOS
+Iron deficiency anaemia,293888010,87522002,507616014,^ESCTIR392274,,Iron deficiency anaemia NOS
+Iron deficiency anaemia,293888010,87522002,507616014,^ESCTCH392267,,Iron deficiency anaemia NOS
+Iron deficiency anaemia,293888010,87522002,507616014,^ESCTSI392268,,Iron deficiency anaemia NOS
+Iron deficiency anaemia,293888010,87522002,507616014,^ESCTIR392270,,Iron deficiency anaemia NOS
+Iron deficiency anaemia,293888010,87522002,507616014,^ESCT1190238,,Iron deficiency anaemia NOS
+Iron deficiency anaemia,293888010,87522002,507616014,^ESCT1276169,,Iron deficiency anaemia NOS
+Iron deficiency anaemia,293888010,87522002,507616014,^ESCT1198930,,Iron deficiency anaemia NOS
+Iron deficiency anaemia,293888010,87522002,507616014,D00y,D00y.00,Iron deficiency anaemia NOS
+Iron deficiency anaemia,293888010,87522002,507616014,D00z,D00z.00,Iron deficiency anaemia NOS
+Iron deficiency anaemia,293888010,87522002,507616014,D00zz,D00zz00,Iron deficiency anaemia NOS
+Iron deficiency anaemia,293888010,87522002,507616014,^ESCTID392269,,Iron deficiency anaemia NOS
+Iron deficiency anaemia,293888010,87522002,507616014,D00z1,D00z100,Iron deficiency anaemia NOS
+Iron deficiency anaemia,293888010,87522002,507616014,Dyu00,Dyu0000,Iron deficiency anaemia NOS
+Iron deficiency anaemia,293888010,87522002,507616014,^ESCTID392272,,Iron deficiency anaemia NOS
+Iron deficiency anaemia,293888010,87522002,507616014,^ESCTSI392273,,Iron deficiency anaemia NOS
+Iron deficiency anaemia,294567019,87522002,507616014,D0-1,D0...11,[X]Other iron deficiency anaemias
+Iron deficiency anaemia,294567019,87522002,507616014,D0-2,D0...12,[X]Other iron deficiency anaemias
+Iron deficiency anaemia,294567019,87522002,507616014,D00yz,D00yz00,[X]Other iron deficiency anaemias
+Iron deficiency anaemia,294567019,87522002,507616014,^ESCTAS392266,,[X]Other iron deficiency anaemias
+Iron deficiency anaemia,294567019,87522002,507616014,D00,D00..00,[X]Other iron deficiency anaemias
+Iron deficiency anaemia,294567019,87522002,507616014,^ESCTAS392271,,[X]Other iron deficiency anaemias
+Iron deficiency anaemia,294567019,87522002,507616014,^ESCTIR392274,,[X]Other iron deficiency anaemias
+Iron deficiency anaemia,294567019,87522002,507616014,^ESCTCH392267,,[X]Other iron deficiency anaemias
+Iron deficiency anaemia,294567019,87522002,507616014,^ESCTSI392268,,[X]Other iron deficiency anaemias
+Iron deficiency anaemia,294567019,87522002,507616014,^ESCTIR392270,,[X]Other iron deficiency anaemias
+Iron deficiency anaemia,294567019,87522002,507616014,^ESCT1190238,,[X]Other iron deficiency anaemias
+Iron deficiency anaemia,294567019,87522002,507616014,^ESCT1276169,,[X]Other iron deficiency anaemias
+Iron deficiency anaemia,294567019,87522002,507616014,^ESCT1198930,,[X]Other iron deficiency anaemias
+Iron deficiency anaemia,294567019,87522002,507616014,D00y,D00y.00,[X]Other iron deficiency anaemias
+Iron deficiency anaemia,294567019,87522002,507616014,D00z,D00z.00,[X]Other iron deficiency anaemias
+Iron deficiency anaemia,294567019,87522002,507616014,D00zz,D00zz00,[X]Other iron deficiency anaemias
+Iron deficiency anaemia,294567019,87522002,507616014,^ESCTID392269,,[X]Other iron deficiency anaemias
+Iron deficiency anaemia,294567019,87522002,507616014,D00z1,D00z100,[X]Other iron deficiency anaemias
+Iron deficiency anaemia,294567019,87522002,507616014,Dyu00,Dyu0000,[X]Other iron deficiency anaemias
+Iron deficiency anaemia,294567019,87522002,507616014,^ESCTID392272,,[X]Other iron deficiency anaemias
+Iron deficiency anaemia,294567019,87522002,507616014,^ESCTSI392273,,[X]Other iron deficiency anaemias

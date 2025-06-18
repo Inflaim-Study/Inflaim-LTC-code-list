@@ -1,0 +1,19 @@
+Condition,MedCode,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
+Chronic viral hepatitis,350841000000119,221021000000103,350841000000119,7Q052,7Q05200,Hepatitis B treatment drugs Band 1
+Chronic viral hepatitis,61061000006116,66071002,109733012,A703,A703.00,Viral (serum) hepatitis B
+Chronic viral hepatitis,286871011,50711007,84513012,A7050,A705000,Viral hepatitis C without mention of hepatic coma
+Chronic viral hepatitis,353575013,235865005,353575013,A7051,A705100,Acute delta-(super)infection of hepatitis B carrier
+Chronic viral hepatitis,17930015,10295004,17930015,A707,A707.00,Chronic viral hepatitis
+Chronic viral hepatitis,353580016,235869004,353580016,A7070,A707000,Chronic viral hepatitis B with delta-agent
+Chronic viral hepatitis,286879013,186639003,286879013,A7071,A707100,Chronic viral hepatitis B without delta-agent
+Chronic viral hepatitis,557071000006112,128302006,206586011,A7072,A707200,Chronic viral hepatitis C
+Chronic viral hepatitis,1232261014,61977001,1232261014,A7073,A707300,Chronic viral hepatitis B
+Chronic viral hepatitis,557081000006110,10295004,17930015,A707X,A707X00,"Chronic viral hepatitis, unspecified"
+Chronic viral hepatitis,2146441000000112,824841000000105,2146441000000112,A70A,A70A.00,Hepatitis C genotype 1
+Chronic viral hepatitis,2146461000000114,824851000000108,2146461000000114,A70B,A70B.00,Hepatitis C genotype 2
+Chronic viral hepatitis,2146501000000114,824871000000104,2146501000000114,A70C,A70C.00,Hepatitis C genotype 3
+Chronic viral hepatitis,2146521000000116,824881000000102,2146521000000116,A70D,A70D.00,Hepatitis C genotype 4
+Chronic viral hepatitis,84516016,50711007,84516016,A70z0,A70z000,Hepatitis C
+Chronic viral hepatitis,288169017,10295004,17930015,AyuB1,AyuB100,[X]Other chronic viral hepatitis
+Chronic viral hepatitis,288170016,10295004,17930015,AyuB2,AyuB200,"[X]Chronic viral hepatitis, unspecified"
+Chronic viral hepatitis,582851000006119,60498001,100520013,Q4091,Q409100,Congenital hepatitis B infection

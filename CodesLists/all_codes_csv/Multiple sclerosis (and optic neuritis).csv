@@ -1,0 +1,12 @@
+Condition,MedCode,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
+Multiple sclerosis (and optic neuritis),41398015,24700007,41398015,F20,F20..00,Multiple sclerosis
+Multiple sclerosis (and optic neuritis),1223979019,24700007,1223979019,F20-1,F20..11,Disseminated sclerosis
+Multiple sclerosis (and optic neuritis),695191000006119,192926004,297176011,F200,F200.00,Multiple sclerosis of the brain stem
+Multiple sclerosis (and optic neuritis),297177019,192927008,297177019,F201,F201.00,Multiple sclerosis of the spinal cord
+Multiple sclerosis (and optic neuritis),297179016,192928003,297179016,F202,F202.00,Generalised multiple sclerosis
+Multiple sclerosis (and optic neuritis),297180018,192929006,297180018,F203,F203.00,Exacerbation of multiple sclerosis
+Multiple sclerosis (and optic neuritis),641211000000118,438511000,2791037019,F204,F204.00,Benign multiple sclerosis
+Multiple sclerosis (and optic neuritis),2692565012,428700003,2692565012,F206,F206.00,Primary progressive multiple sclerosis
+Multiple sclerosis (and optic neuritis),1682241000006111,426373005,2674690012,F207,F207.00,Relapsing and remitting multiple sclerosis
+Multiple sclerosis (and optic neuritis),2674605012,425500002,2674605012,F208,F208.00,Secondary progressive multiple sclerosis
+Multiple sclerosis (and optic neuritis),297181019,24700007,41398015,F20z,F20z.00,Multiple sclerosis NOS

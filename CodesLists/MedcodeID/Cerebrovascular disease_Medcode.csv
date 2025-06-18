@@ -1,0 +1,82 @@
+Condition,MedCode,Term
+Cerebrovascular disease,809421000006116,History of cerebrovascular accident
+Cerebrovascular disease,411518010,H/O: CVA
+Cerebrovascular disease,2476091017,H/O: stroke
+Cerebrovascular disease,251692018,H/O: TIA
+Cerebrovascular disease,2171081000000116,H/O amaurosis fugax
+Cerebrovascular disease,451371010,H/O: Stroke in last year
+Cerebrovascular disease,345718011,Transient global amnesia
+Cerebrovascular disease,413750011,Central post-stroke pain
+Cerebrovascular disease,2118011000000114,Stroke self-management plan agreed
+Cerebrovascular disease,2115821000000118,Stroke self-management plan review
+Cerebrovascular disease,1780304018,CVA annual review
+Cerebrovascular disease,2126181000000114,Stroke annual review
+Cerebrovascular disease,264499015,Stroke monitoring
+Cerebrovascular disease,1160471000000111,Stroke 6 month review
+Cerebrovascular disease,2127781000000110,Stroke initial post discharge review
+Cerebrovascular disease,371641000000112,Delivery of rehabilitation for stroke
+Cerebrovascular disease,1148331000000111,Transient ischaemic attack clinical management plan
+Cerebrovascular disease,966981000006112,Referral to multidisciplinary stroke function improvement service
+Cerebrovascular disease,1784651000006110,Referral for multidisciplinary stroke function improvement declined
+Cerebrovascular disease,138981000000113,Exception reporting - stroke quality indicators
+Cerebrovascular disease,139081000000117,Excepted from stroke quality indicators - patient unsuitable
+Cerebrovascular disease,139091000000115,Excepted from stroke quality indicators - informed dissent
+Cerebrovascular disease,145925010,Amaurosis fugax
+Cerebrovascular disease,416991000006112,Transient cerebral ischemia
+Cerebrovascular disease,299342019,Lacunar infarction
+Cerebrovascular disease,345639010,Infarction - precerebral
+Cerebrovascular disease,300312010,Cerebral infarct due to thrombosis of precerebral arteries
+Cerebrovascular disease,300313017,Cerebral infarction due to embolism of precerebral arteries
+Cerebrovascular disease,1222398015,Cerebral arterial occlusion
+Cerebrovascular disease,605461000006117,CVA - cerebrovascular accident due to cerebral artery occlusion
+Cerebrovascular disease,218511000000117,Infarction - cerebral
+Cerebrovascular disease,122361000006113,Stroke due to cerebral arterial occlusion
+Cerebrovascular disease,118689010,Cerebral thrombosis
+Cerebrovascular disease,300321011,Cerebral infarction due to thrombosis of cerebral arteries
+Cerebrovascular disease,125470015,Cerebral embolism
+Cerebrovascular disease,542831000006116,Cerebral embolus
+Cerebrovascular disease,300322016,Cerebral infarction due to embolism of cerebral arteries
+Cerebrovascular disease,395780010,Cerebral infarction
+Cerebrovascular disease,345650013,Brainstem infarction NOS
+Cerebrovascular disease,158118014,Cerebellar infarction
+Cerebrovascular disease,524541000006117,Brain stem infarction
+Cerebrovascular disease,57341000006119,Wallenberg's syndrome
+Cerebrovascular disease,130375018,Lateral medullary syndrome
+Cerebrovascular disease,451133011,Left sided cerebral infarction
+Cerebrovascular disease,451134017,Right sided cerebral infarction
+Cerebrovascular disease,2474651019,Infarction of basal ganglia
+Cerebrovascular disease,395788015,Transient cerebral ischaemia
+Cerebrovascular disease,395783012,Transient ischaemic attack
+Cerebrovascular disease,67511000006117,Vertebro-basilar insufficiency
+Cerebrovascular disease,499739014,Insufficiency - basilar artery
+Cerebrovascular disease,95961000006119,Transient global amnesia
+Cerebrovascular disease,106394016,Vertebrobasilar insufficiency
+Cerebrovascular disease,345684012,Carotid territory transient ischaemic attack
+Cerebrovascular disease,300348012,Other transient cerebral ischaemia
+Cerebrovascular disease,95931000006111,Transient cerebral ischaemia NOS
+Cerebrovascular disease,300353019,Intermittent cerebral ischaemia
+Cerebrovascular disease,300349016,Transient cerebral ischaemia NOS
+Cerebrovascular disease,405339016,Cerebrovascular accident
+Cerebrovascular disease,605501000006117,CVA unspecified
+Cerebrovascular disease,122401000006115,Stroke unspecified
+Cerebrovascular disease,605491000006113,CVA - Cerebrovascular accident
+Cerebrovascular disease,524511000006116,Brainstem stroke syndrome
+Cerebrovascular disease,300366019,Cerebellar stroke syndrome
+Cerebrovascular disease,345655015,Pure motor lacunar syndrome
+Cerebrovascular disease,345658018,Pure sensory lacunar syndrome
+Cerebrovascular disease,300370010,Left sided CVA
+Cerebrovascular disease,300371014,Right sided CVA
+Cerebrovascular disease,300411016,Sequelae of cerebral infarction
+Cerebrovascular disease,149571000006118,"Sequelae of stroke,not specfd as h'morrhage or infarction"
+Cerebrovascular disease,542261000006114,Cerebral infarction due to occlusion of precerebral artery
+Cerebrovascular disease,543141000006110,Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+Cerebrovascular disease,370701000006118,[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+Cerebrovascular disease,300941014,[X]Other cerebral infarction
+Cerebrovascular disease,426321000006116,"[X]Sequelae of stroke,not specfd as h'morrhage or infarction"
+Cerebrovascular disease,370661000006114,[X]Cereb infarct due unsp occlus/stenos precerebr arteries
+Cerebrovascular disease,605481000006110,CVA - cerebrovascular accident in the puerperium
+Cerebrovascular disease,411416011,Stroke in the puerperium
+Cerebrovascular disease,5011841000006110,TGA - Transient global amnesia
+Cerebrovascular disease,1227591017,[V]Personal history of stroke
+Cerebrovascular disease,1227592012,[V]Personal history of cerebrovascular accident (CVA)
+Cerebrovascular disease,1667741000000110,[V]Personal history of transient ischaemic attack
