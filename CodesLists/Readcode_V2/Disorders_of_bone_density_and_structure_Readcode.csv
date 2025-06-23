@@ -1,35 +1,54 @@
 Condition,ReadCode,CleansedReadCode,Term
-Disorders of bone density and structure,^ESCTOS599247,,Osteoporosis localized to spine
-Disorders of bone density and structure,N330,N330.00,Osteoporosis
-Disorders of bone density and structure,N3300,N330000,"Osteoporosis, unspecified"
-Disorders of bone density and structure,N3301,N330100,Senile osteoporosis
-Disorders of bone density and structure,N3302,N330200,Postmenopausal osteoporosis
-Disorders of bone density and structure,N3303,N330300,Idiopathic osteoporosis
-Disorders of bone density and structure,N3304,N330400,Dissuse osteoporosis
-Disorders of bone density and structure,N3305,N330500,Drug-induced osteoporosis
-Disorders of bone density and structure,N3306,N330600,Postoophorectomy osteoporosis
-Disorders of bone density and structure,N3307,N330700,Postsurgical malabsorption osteoporosis
-Disorders of bone density and structure,N330B,N330B00,Vertebral osteoporosis
-Disorders of bone density and structure,N330C,N330C00,Osteoporosis localized to spine
-Disorders of bone density and structure,N330D,N330D00,Osteoporosis due to corticosteroids
-Disorders of bone density and structure,N330z,N330z00,Osteoporosis NOS
-Disorders of bone density and structure,N3312,N331200,Postoophorectomy osteoporosis with pathological fracture
-Disorders of bone density and structure,N3313,N331300,Osteoporosis of disuse with pathological fracture
-Disorders of bone density and structure,N3314,N331400,Postsurgical malabsorption osteoporosis with path fracture
-Disorders of bone density and structure,N3315,N331500,Drug-induced osteoporosis with pathological fracture
-Disorders of bone density and structure,N3316,N331600,Idiopathic osteoporosis with pathological fracture
-Disorders of bone density and structure,N3318,N331800,Osteoporosis + pathological fracture lumbar vertebrae
-Disorders of bone density and structure,N3319,N331900,Osteoporosis + pathological fracture thoracic vertebrae
-Disorders of bone density and structure,N331A,N331A00,Osteoporosis + pathological fracture cervical vertebrae
-Disorders of bone density and structure,N331B,N331B00,Postmenopausal osteoporosis with pathological fracture
-Disorders of bone density and structure,N331H,N331H00,Collapse of cervical vertebra due to osteoporosis
-Disorders of bone density and structure,N331J,N331J00,Collapse of lumbar vertebra due to osteoporosis
-Disorders of bone density and structure,N331K,N331K00,Collapse of thoracic vertebra due to osteoporosis
-Disorders of bone density and structure,N331L,N331L00,Collapse of vertebra due to osteoporosis NOS
-Disorders of bone density and structure,N331M,N331M00,Fragility fracture due to unspecified osteoporosis
-Disorders of bone density and structure,N331M-1,N331M11,Minimal trauma fracture due to unspecified osteoporosis
-Disorders of bone density and structure,N3746,N374600,Osteoporotic kyphosis
-Disorders of bone density and structure,NyuB0,NyuB000,[X]Other osteoporosis with pathological fracture
-Disorders of bone density and structure,NyuB1,NyuB100,[X]Other osteoporosis
-Disorders of bone density and structure,NyuB2,NyuB200,[X]Osteoporosis in other disorders classified elsewhere
-Disorders of bone density and structure,NyuB8,NyuB800,[X]Unspecified osteoporosis with pathological fracture
+Disorders of bone density and structure,,,osteoporosis localized to spine
+Disorders of bone density and structure,58EG.00,,Hip DXA scan result osteoporotic
+Disorders of bone density and structure,58EM.00,,Lumbar DXA scan result osteoporotic
+Disorders of bone density and structure,58EV.00,,Femoral neck DEXA scan result osteoporotic
+Disorders of bone density and structure,66a..00,,Osteoporosis monitoring
+Disorders of bone density and structure,9Od..00,,Osteoporosis monitoring administration
+Disorders of bone density and structure,9Od0.00,,Attends osteoporosis monitoring
+Disorders of bone density and structure,9Od2.00,,Osteoporosis monitoring default
+Disorders of bone density and structure,9Od3.00,,Osteoporosis monitoring first letter
+Disorders of bone density and structure,9Od4.00,,Osteoporosis monitoring second letter
+Disorders of bone density and structure,9Od5.00,,Osteoporosis monitoring third letter
+Disorders of bone density and structure,9Od6.00,,Osteoporosis monitoring verbal invitation
+Disorders of bone density and structure,9Od7.00,,Osteoporosis monitoring telephone invitation
+Disorders of bone density and structure,9Od8.00,,Osteoporosis monitoring deleted
+Disorders of bone density and structure,9Od9.00,,Osteoporosis monitoring check done
+Disorders of bone density and structure,9kj..00,,Osteoporosis - enhanced services administration
+Disorders of bone density and structure,9kj0.00,,Bone sparing drug treatment offered for osteoporosis - ESA
+Disorders of bone density and structure,N330.00,,Osteoporosis
+Disorders of bone density and structure,N330000,,"Osteoporosis, unspecified"
+Disorders of bone density and structure,N330100,,Senile osteoporosis
+Disorders of bone density and structure,N330200,,Postmenopausal osteoporosis
+Disorders of bone density and structure,N330300,,Idiopathic osteoporosis
+Disorders of bone density and structure,N330400,,Dissuse osteoporosis
+Disorders of bone density and structure,N330500,,Drug-induced osteoporosis
+Disorders of bone density and structure,N330600,,Postoophorectomy osteoporosis
+Disorders of bone density and structure,N330700,,Postsurgical malabsorption osteoporosis
+Disorders of bone density and structure,N330A00,,Osteoporosis in endocrine disorders
+Disorders of bone density and structure,N330B00,,Vertebral osteoporosis
+Disorders of bone density and structure,N330C00,,Osteoporosis localized to spine
+Disorders of bone density and structure,N330D00,,Osteoporosis due to corticosteroids
+Disorders of bone density and structure,N330z00,,Osteoporosis NOS
+Disorders of bone density and structure,N331200,,Postoophorectomy osteoporosis with pathological fracture
+Disorders of bone density and structure,N331300,,Osteoporosis of disuse with pathological fracture
+Disorders of bone density and structure,N331400,,Postsurgical malabsorption osteoporosis with path fracture
+Disorders of bone density and structure,N331500,,Drug-induced osteoporosis with pathological fracture
+Disorders of bone density and structure,N331600,,Idiopathic osteoporosis with pathological fracture
+Disorders of bone density and structure,N331800,,Osteoporosis + pathological fracture lumbar vertebrae
+Disorders of bone density and structure,N331900,,Osteoporosis + pathological fracture thoracic vertebrae
+Disorders of bone density and structure,N331A00,,Osteoporosis + pathological fracture cervical vertebrae
+Disorders of bone density and structure,N331B00,,Postmenopausal osteoporosis with pathological fracture
+Disorders of bone density and structure,N331H00,,Collapse of cervical vertebra due to osteoporosis
+Disorders of bone density and structure,N331J00,,Collapse of lumbar vertebra due to osteoporosis
+Disorders of bone density and structure,N331K00,,Collapse of thoracic vertebra due to osteoporosis
+Disorders of bone density and structure,N331L00,,Collapse of vertebra due to osteoporosis NOS
+Disorders of bone density and structure,N331M00,,Fragility fracture due to unspecified osteoporosis
+Disorders of bone density and structure,N331M11,,Minimal trauma fracture due to unspecified osteoporosis
+Disorders of bone density and structure,N331N00,,Fragility fracture
+Disorders of bone density and structure,N331N11,,Minimal trauma fracture
+Disorders of bone density and structure,N374600,,Osteoporotic kyphosis
+Disorders of bone density and structure,NyuB000,,[X]Other osteoporosis with pathological fracture
+Disorders of bone density and structure,NyuB100,,[X]Other osteoporosis
+Disorders of bone density and structure,NyuB200,,[X]Osteoporosis in other disorders classified elsewhere
+Disorders of bone density and structure,NyuB800,,[X]Unspecified osteoporosis with pathological fracture

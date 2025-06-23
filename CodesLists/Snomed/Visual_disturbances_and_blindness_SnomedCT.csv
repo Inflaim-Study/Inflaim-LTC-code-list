@@ -1,11 +1,33 @@
 Condition,SNOMED_Code,SnomedCTDescriptionId,Term
-Visual disturbances and blindness,7973008,2164155010,Sight impaired
+Visual disturbances and blindness,855291000006106,855291000006110,Blind (subjectively)
+Visual disturbances and blindness,1963661000006103,1963661000006119,Disability code - Sight
+Visual disturbances and blindness,2531000000100,17781000000113,England and Wales partially sighted certification
+Visual disturbances and blindness,1583901000006104,1583901000006115,Ineligibility for diab. eye screen: Blind (screening contraind)
+Visual disturbances and blindness,856171000006105,856171000006114,Partially sighted (subjectively)
+Visual disturbances and blindness,982291000006102,982291000006118,Sight impairment
+Visual disturbances and blindness,857631000006102,857631000006118,Vision - blind despite any aid
+Visual disturbances and blindness,7973008,2164155010,sight impaired
+Visual disturbances and blindness,566991000000106,1260591000000113,visual loss nos
 Visual disturbances and blindness,240311000000103,390341000000115,Loss of vision
 Visual disturbances and blindness,163946009,255275013,O/E - blind R-eye
 Visual disturbances and blindness,163946009,255276014,O/E - R-eye completely blind
+Visual disturbances and blindness,408322003,2163962013,O/E - pinhole R-eye completely blind
 Visual disturbances and blindness,163960006,255292016,O/E - blind L-eye
 Visual disturbances and blindness,163960006,255293014,O/E - L-eye completely blind
+Visual disturbances and blindness,408318008,2163958019,O/E - pinhole L-eye completely blind
+Visual disturbances and blindness,417677008,2549896013,O/E - sight threatening diabetic retinopathy
 Visual disturbances and blindness,373041000000101,733161000000116,Impaired vision due to diabetic retinopathy
+Visual disturbances and blindness,300994001,442202014,Registered partially sighted
+Visual disturbances and blindness,2531000000100,17791000000110,Registered partially blind
+Visual disturbances and blindness,170727003,264661019,Registered blind
+Visual disturbances and blindness,170727003,1564221000000111,Registered severely sight impaired
+Visual disturbances and blindness,713031000000100,1563201000000117,Registered sight impaired
+Visual disturbances and blindness,183361009,283416014,Blind rehabilitation
+Visual disturbances and blindness,29960003,484447014,Blind lead dog rehabilitation
+Visual disturbances and blindness,492361000000106,1060061000000116,Referral to visual impairment multidisciplinary team
+Visual disturbances and blindness,796201000000109,1779881000000115,Requires deafblind communicator guide
+Visual disturbances and blindness,378931000000102,746431000000113,Seen by visual impairment teacher
+Visual disturbances and blindness,374691000000100,736911000000111,Excluded from diabetic retinopathy screening as blind
 Visual disturbances and blindness,4229009,493267010,Blind hypotensive eye
 Visual disturbances and blindness,264008,1529013,Blind hypertensive eye
 Visual disturbances and blindness,397540003,3011990016,Blindness and low vision
@@ -35,6 +57,7 @@ Visual disturbances and blindness,193722001,298277012,"Better eye: moderate VI, 
 Visual disturbances and blindness,193727007,298282017,"Better eye: moderate VI, Lesser eye: severe VI"
 Visual disturbances and blindness,193728002,298283010,"Better eye: moderate VI, Lesser eye: moderate VI"
 Visual disturbances and blindness,193722001,298277012,"Low vision, both eyes NOS"
+Visual disturbances and blindness,267727004,399719011,"Visual loss, both eyes unqualified"
 Visual disturbances and blindness,193731001,298286019,Legal blindness USA
 Visual disturbances and blindness,193732008,298287011,"Profound impairment, one eye"
 Visual disturbances and blindness,22950006,38553019,"Blindness, one eye, unspecified"
@@ -62,9 +85,20 @@ Visual disturbances and blindness,815051000000106,2124351000000112,"Mild or no v
 Visual disturbances and blindness,22950006,38553019,"Blindness, monocular"
 Visual disturbances and blindness,813881000000105,2168191000000119,"Severe visual impairment, monocular"
 Visual disturbances and blindness,813901000000108,2168211000000115,"Moderate visual impairment, monocular"
+Visual disturbances and blindness,267728009,399720017,"Visual loss, one eye, unqualified"
 Visual disturbances and blindness,240311000000103,390341000000115,Visual loss NOS
+Visual disturbances and blindness,105597003,169718011,Acquired blindness
 Visual disturbances and blindness,193756007,298313018,Charles Bonnet syndrome
 Visual disturbances and blindness,68574006,113901010,Cortical blindness
 Visual disturbances and blindness,433147009,2773231012,Combined visual and hearing impairment
+Visual disturbances and blindness,105597003,169718011,[X]Visual disturbances and blindness
 Visual disturbances and blindness,212141007,323622018,Blindness - traumatic - NOS
+Visual disturbances and blindness,0,0,Provision for visual and hearing impairment
+Visual disturbances and blindness,0,0,Provision of guide help for visual and hearing impairment
+Visual disturbances and blindness,0,0,Provision of communicator for visual and hearing impairment
+Visual disturbances and blindness,0,0,Issue of local authority blind registration
+Visual disturbances and blindness,0,0,Blind telephone user
+Visual disturbances and blindness,0,0,Deaf-blind telephone user
+Visual disturbances and blindness,0,0,Reynell Zinkin language scale for the visually impaired
+Visual disturbances and blindness,0,0,Vineland maturity scales adapted for the blind
 Visual disturbances and blindness,397540003,1777162017,[V]Problems with sight

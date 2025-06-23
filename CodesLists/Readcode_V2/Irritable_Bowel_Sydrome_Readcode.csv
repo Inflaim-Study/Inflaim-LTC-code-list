@@ -1,6 +1,8 @@
 Condition,ReadCode,CleansedReadCode,Term
-Irritable Bowel Sydrome,J521-99,J521.99,Irritable bowel - IBS
-Irritable Bowel Sydrome,J521,J521.00,Irritable colon - Irritable bowel syndrome
-Irritable Bowel Sydrome,J521-1,J521.11,Irritable bowel syndrome
-Irritable Bowel Sydrome,J521-3,J521.13,Spastic colon
-Irritable Bowel Sydrome,J5210,J521000,Irritable bowel syndrome with diarrhoea
+Irritable Bowel Sydrome,,,Irritable bowel - IBS
+Irritable Bowel Sydrome,,,[RFC] Irritable bowel syndrome (IBS)
+Irritable Bowel Sydrome,8Cm..00,,Management of irritable bowel syndrome
+Irritable Bowel Sydrome,J521.00,,Irritable colon - Irritable bowel syndrome
+Irritable Bowel Sydrome,J521.11,,Irritable bowel syndrome
+Irritable Bowel Sydrome,J521.13,,Spastic colon
+Irritable Bowel Sydrome,J521000,,Irritable bowel syndrome with diarrhoea

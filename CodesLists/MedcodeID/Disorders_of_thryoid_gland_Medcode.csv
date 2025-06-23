@@ -1,39 +1,47 @@
 Condition,MedCode,Term
+Disorders of thryoid gland,881391000006112,Acquired hypothyroidism NOS
 Disorders of thryoid gland,5108351000006116,Autoimmune hypothyroidism
+Disorders of thryoid gland,940101000006114,Hypothyroidism monitoring invite 1
+Disorders of thryoid gland,940111000006112,Hypothyroidism monitoring invite 2
+Disorders of thryoid gland,940121000006116,Hypothyroidism monitoring invite 3
 Disorders of thryoid gland,881381000006114,Hypothyroidism-congen.+ acqui.
+Disorders of thryoid gland,1539151000006110,Secondary hypothyroidism
 Disorders of thryoid gland,3843671000006116,Secondary hypothyroidism
 Disorders of thryoid gland,881371000006111,Thyrotoxicosis +/- goitre
-Disorders of thryoid gland,292356018,Thyrotoxicosis from ectopic thyroid nodule with crisis
-Disorders of thryoid gland,2933341000006117,Postsurgical hypothyroidism
-Disorders of thryoid gland,292327018,Toxic diffuse goitre with no crisis
+Disorders of thryoid gland,905741000006112,[RFC] Hyperthyroidism
+Disorders of thryoid gland,940091000006115,hypothyroidism monitoring administration
+Disorders of thryoid gland,12727341000006116,hypothyroidism nos
+Disorders of thryoid gland,12729831000006112,other acquired hypothyroidism
+Disorders of thryoid gland,2933341000006117,postsurgical hypothyroidism
+Disorders of thryoid gland,2548990010,Hyperthyroidism resolved
+Disorders of thryoid gland,264730019,Thyroid disease monitoring
 Disorders of thryoid gland,412221013,Thyroid eye disease
+Disorders of thryoid gland,637341000000118,Hypothyroidism annual review
+Disorders of thryoid gland,264748011,Thyroid disease monitoring NOS
+Disorders of thryoid gland,2474336017,Hypothyroidism clinical management plan
+Disorders of thryoid gland,225971000000116,Hypothyroidism monitoring administration
+Disorders of thryoid gland,2533422017,Hypothyroidism monitoring first letter
+Disorders of thryoid gland,2533534011,Hypothyroidism monitoring second letter
+Disorders of thryoid gland,2533420013,Hypothyroidism monitoring third letter
+Disorders of thryoid gland,2548835019,Hypothyroidism monitoring verbal invite
+Disorders of thryoid gland,406721000000115,Hypothyroidism monitoring telephone invitation
 Disorders of thryoid gland,150375010,Thyrotoxicosis
 Disorders of thryoid gland,57561015,Hyperthyroidism
 Disorders of thryoid gland,355932011,Toxic goitre
 Disorders of thryoid gland,398780011,Toxic diffuse goitre
 Disorders of thryoid gland,490987015,Basedow's disease
 Disorders of thryoid gland,472452010,Graves' disease
-Disorders of thryoid gland,292330013,Toxic diffuse goitre with crisis
 Disorders of thryoid gland,356406019,Thyroid-associated dermopathy
 Disorders of thryoid gland,292331012,Toxic diffuse goitre NOS
 Disorders of thryoid gland,200396013,Toxic uninodular goitre
-Disorders of thryoid gland,292334016,Toxic uninodular goitre with no crisis
 Disorders of thryoid gland,292338018,Toxic uninodular goitre NOS
 Disorders of thryoid gland,196525014,Toxic multinodular goitre
-Disorders of thryoid gland,292339014,Toxic multinodular goitre with no crisis
 Disorders of thryoid gland,292343013,Toxic multinodular goitre NOS
 Disorders of thryoid gland,292346017,Toxic nodular goitre unspecified
-Disorders of thryoid gland,292347014,Toxic nodular goitre unspecified with no crisis
-Disorders of thryoid gland,292350012,Toxic nodular goitre unspecified with crisis
 Disorders of thryoid gland,292354015,Toxic nodular goitre NOS
 Disorders of thryoid gland,398782015,Thyrotoxicosis of other specified origin
-Disorders of thryoid gland,292361016,Thyrotoxicosis of other specified origin with no crisis
-Disorders of thryoid gland,292362011,Thyrotoxicosis of other specified origin with crisis
-Disorders of thryoid gland,48600017,Thyroid crisis
 Disorders of thryoid gland,292365013,Thyrotoxicosis of other specified origin NOS
 Disorders of thryoid gland,292366014,Thyrotoxicosis without mention of goitre or other cause
-Disorders of thryoid gland,101891000006113,Thyrotoxicosis without mention of goitre or cause no crisis
-Disorders of thryoid gland,101911000006110,"Thyrotoxicosis without mention of goitre, cause with crisis"
 Disorders of thryoid gland,292372014,Thyrotoxicosis NOS
 Disorders of thryoid gland,178809013,Acquired hypothyroidism
 Disorders of thryoid gland,493538010,Myxoedema

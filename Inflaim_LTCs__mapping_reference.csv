@@ -13,7 +13,7 @@ Disease of the blood and blood-forming organs and certain disorders involving th
 "Endocrine, nutritional and metabolic disorders",Hypoparathyroidism,E20,,None
 "Endocrine, nutritional and metabolic disorders",Hyperparathyroidism,E21,,https://phenotypes.healthdatagateway.org/phenotypes/PH76/version/152/detail/
 "Endocrine, nutritional and metabolic disorders",Addison's disease,E27,,Multiply(Adrenal insufficiency and Addison's disease)
-Mental and behavioural disorders,"Organic, including symptomatic, mental disorders",F00-F09,,None
+Mental and behavioural disorders,Dementia,F00-F03,,Anna Head
 Mental and behavioural disorders,Drug or alcohol misuse,F10-F19,,Anna Head
 Mental and behavioural disorders,Schizophrenia,F20-F29,,Anna Head
 Mental and behavioural disorders,Mood disorders ,F30-39,,Anna Head

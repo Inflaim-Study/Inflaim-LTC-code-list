@@ -8,7 +8,6 @@ Condition,SNOMED_Code,SnomedCTDescriptionId,Term
 "Disorders of gallbladder, biliary tract and pancreas",70342003,116838015,Cholelithiasis without obstruction NOS
 "Disorders of gallbladder, biliary tract and pancreas",77528005,128698014,Cholelithiasis with obstruction NOS
 "Disorders of gallbladder, biliary tract and pancreas",39621005,66448010,Other gallbladder disorders
-"Disorders of gallbladder, biliary tract and pancreas",65275009,108454010,Acute cholecystitis NOS
 "Disorders of gallbladder, biliary tract and pancreas",76581006,127173011,Other cholecystitis
 "Disorders of gallbladder, biliary tract and pancreas",76581006,127173011,Other cholecystitis OS
 "Disorders of gallbladder, biliary tract and pancreas",76581006,127173011,Cholecystitis NOS
@@ -18,18 +17,12 @@ Condition,SNOMED_Code,SnomedCTDescriptionId,Term
 "Disorders of gallbladder, biliary tract and pancreas",168036006,261011011,O/E: gall stone
 "Disorders of gallbladder, biliary tract and pancreas",168036006,261011011,O/E: gall stone NOS
 "Disorders of gallbladder, biliary tract and pancreas",266474003,396400018,Calculus in biliary tract
-"Disorders of gallbladder, biliary tract and pancreas",59771005,99287019,Calculus of gallbladder with acute cholecystitis
 "Disorders of gallbladder, biliary tract and pancreas",168036006,2667985019,On examination - gallstone
-"Disorders of gallbladder, biliary tract and pancreas",197377009,2475610012,Cholelithiasis AND acute cholecystitis without obstruction
-"Disorders of gallbladder, biliary tract and pancreas",197378004,303542013,Gallbladder calculus with acute cholecystitis + obstruction
-"Disorders of gallbladder, biliary tract and pancreas",197377009,303541018,Gallbladder calculus with acute cholecystitis +no obstruct
-"Disorders of gallbladder, biliary tract and pancreas",59771005,99287019,Gallbladder calculus with acute cholecystitis - obst NOS
 "Disorders of gallbladder, biliary tract and pancreas",70342003,116838015,Gallbladder calculus without mention cholecystitis +no obstr
 "Disorders of gallbladder, biliary tract and pancreas",76581006,3028695018,Inflamed gallbladder
 "Disorders of gallbladder, biliary tract and pancreas",235919008,353658011,Gallbladder stones
 "Disorders of gallbladder, biliary tract and pancreas",235919008,353656010,Cholecystolithiasis
 "Disorders of gallbladder, biliary tract and pancreas",39621005,492162015,Gallbladder disease
-"Disorders of gallbladder, biliary tract and pancreas",59771005,99289016,Cholelithiasis with acute cholecystitis
 "Disorders of gallbladder, biliary tract and pancreas",39621005,66445013,Other gallbladder disorders NOS
 "Disorders of gallbladder, biliary tract and pancreas",235919008,353656010,Gallbladder calculus with other cholecystitis + obstruct
 "Disorders of gallbladder, biliary tract and pancreas",235919008,353656010,Gallbladder calculus with other cholecystitis +no obstruct
@@ -37,18 +30,11 @@ Condition,SNOMED_Code,SnomedCTDescriptionId,Term
 "Disorders of gallbladder, biliary tract and pancreas",235919008,353657018,Gallstones
 "Disorders of gallbladder, biliary tract and pancreas",197419003,303588019,Stenosis of cystic duct
 "Disorders of gallbladder, biliary tract and pancreas",197439004,303612015,Obliterative cholangitis
-"Disorders of gallbladder, biliary tract and pancreas",65275009,108454010,Acute cholecystitis unspecified
-"Disorders of gallbladder, biliary tract and pancreas",197378004,2475611011,Cholelithiasis AND acute cholecystitis with obstruction
 "Disorders of gallbladder, biliary tract and pancreas",30144000,50437010,Obstruction of bile duct
-"Disorders of gallbladder, biliary tract and pancreas",32067005,53589018,Acute emphysematous cholecystitis
 "Disorders of gallbladder, biliary tract and pancreas",53192009,88465016,Stasis of bile duct
-"Disorders of gallbladder, biliary tract and pancreas",65275009,108454010,Acute cholecystitis
 "Disorders of gallbladder, biliary tract and pancreas",71912000,119489014,Chronic cholangitis
-"Disorders of gallbladder, biliary tract and pancreas",72533002,120482010,Acute gangrenous cholecystitis
-"Disorders of gallbladder, biliary tract and pancreas",89628003,148601017,Acute suppurative cholecystitis
 "Disorders of gallbladder, biliary tract and pancreas",266474003,396396018,Cholelithiasis
 "Disorders of gallbladder, biliary tract and pancreas",266474003,396398017,Stone - biliary
-"Disorders of gallbladder, biliary tract and pancreas",59771005,1231999012,Gallbladder calculus with acute cholecystitis
 "Disorders of gallbladder, biliary tract and pancreas",266474003,886541000006118,Calculus of gall bladder
 "Disorders of gallbladder, biliary tract and pancreas",266474003,886531000006111,Calculus of bile duct
 "Disorders of gallbladder, biliary tract and pancreas",266474003,396399013,Calculus - biliary
@@ -91,12 +77,6 @@ Condition,SNOMED_Code,SnomedCTDescriptionId,Term
 "Disorders of gallbladder, biliary tract and pancreas",197402000,303568018,Calculus of bile duct with cholangitis
 "Disorders of gallbladder, biliary tract and pancreas",30093007,50351011,Bile duct calculus
 "Disorders of gallbladder, biliary tract and pancreas",30093007,50351011,"Bile duct calculus without cholecystitis, no obstruction"
-"Disorders of gallbladder, biliary tract and pancreas",197389006,303553019,Bile duct calculus + acute cholecystitis - obstruct NOS
-"Disorders of gallbladder, biliary tract and pancreas",197390002,303554013,Bile duct calculus + acute cholecystitis and no obstruction
-"Disorders of gallbladder, biliary tract and pancreas",197391003,303555014,Bile duct calculus + acute cholecystitis and obstruction
-"Disorders of gallbladder, biliary tract and pancreas",197391003,303555014,Bile duct calculus with acute cholecystitis and obstruction
-"Disorders of gallbladder, biliary tract and pancreas",197389006,2475612016,Calculus of bile duct with acute cholecystitis
-"Disorders of gallbladder, biliary tract and pancreas",197389006,303553019,Bile duct calculus with acute cholecystitis
 "Disorders of gallbladder, biliary tract and pancreas",118926004,2469904017,Other bile duct disorders
 "Disorders of gallbladder, biliary tract and pancreas",37389005,197270013,Hepatic colic
 "Disorders of gallbladder, biliary tract and pancreas",53206008,496584013,Perforation of biliary tree with fistula formation
@@ -112,7 +92,6 @@ Condition,SNOMED_Code,SnomedCTDescriptionId,Term
 "Disorders of gallbladder, biliary tract and pancreas",58554001,97303014,Lung empyema NOS
 "Disorders of gallbladder, biliary tract and pancreas",58554001,2478766019,Suppurative pleurisy
 "Disorders of gallbladder, biliary tract and pancreas",58554001,3452507015,Empyema thoracis
-"Disorders of gallbladder, biliary tract and pancreas",197410004,303579011,Acute angiocholecystitis
 "Disorders of gallbladder, biliary tract and pancreas",32038009,53540011,Abscess of gallbladder
 "Disorders of gallbladder, biliary tract and pancreas",73125001,121449018,Empyema of gallbladder
 "Disorders of gallbladder, biliary tract and pancreas",312682007,456436010,Empyema
@@ -163,7 +142,6 @@ Condition,SNOMED_Code,SnomedCTDescriptionId,Term
 "Disorders of gallbladder, biliary tract and pancreas",27916005,46734015,Hepatic abscess
 "Disorders of gallbladder, biliary tract and pancreas",105997008,202178019,Other bile duct disorder NOS
 "Disorders of gallbladder, biliary tract and pancreas",105997008,1219188019,Other biliary tract disorders
-"Disorders of gallbladder, biliary tract and pancreas",6215006,11316014,Acute cholangitis
 "Disorders of gallbladder, biliary tract and pancreas",197438007,303611010,Cholangitis lenta
 "Disorders of gallbladder, biliary tract and pancreas",750511000000101,1650161000000119,Biliary sepsis
 "Disorders of gallbladder, biliary tract and pancreas",105997008,1219188019,[X]Other specified diseases of biliary tract
@@ -176,8 +154,6 @@ Condition,SNOMED_Code,SnomedCTDescriptionId,Term
 "Disorders of gallbladder, biliary tract and pancreas",59848001,99417012,Obstructive hyperbilirubinemia
 "Disorders of gallbladder, biliary tract and pancreas",59848001,498562015,Obstructive hyperbilirubinaemia
 "Disorders of gallbladder, biliary tract and pancreas",197446008,303620018,Occlusion of bile duct
-"Disorders of gallbladder, biliary tract and pancreas",236482006,354486019,Renal tubule insufficiency with biliary malformation
-"Disorders of gallbladder, biliary tract and pancreas",236482006,354487011,Inherited renal tubule insuffic with cholestatic jaundice
 "Disorders of gallbladder, biliary tract and pancreas",43797002,73035014,Stricture of bile duct
 "Disorders of gallbladder, biliary tract and pancreas",37439003,62444010,Perforation of bile duct
 "Disorders of gallbladder, biliary tract and pancreas",28132005,47097012,Spasm of sphincter of Oddi
@@ -190,30 +166,15 @@ Condition,SNOMED_Code,SnomedCTDescriptionId,Term
 "Disorders of gallbladder, biliary tract and pancreas",26874005,44968018,Hypertrophy of bile duct
 "Disorders of gallbladder, biliary tract and pancreas",77972001,129409012,Adhesion of bile duct
 "Disorders of gallbladder, biliary tract and pancreas",3855007,7494016,[X]Disorders of pancreas in diseases classified elsewhere
-"Disorders of gallbladder, biliary tract and pancreas",197456007,303630010,Acute pancreatitis unspecified
-"Disorders of gallbladder, biliary tract and pancreas",197456007,303630010,Other acute pancreatitis
 "Disorders of gallbladder, biliary tract and pancreas",3855007,7491012,Diseases of pancreas NOS
 "Disorders of gallbladder, biliary tract and pancreas",4399003,7701015,Hemorrhagic pancreatitis
 "Disorders of gallbladder, biliary tract and pancreas",75694006,3028736011,Inflammation of pancreas
 "Disorders of gallbladder, biliary tract and pancreas",3855007,7491012,Diseases of pancreas
-"Disorders of gallbladder, biliary tract and pancreas",4399003,7699015,Acute hemorrhagic pancreatitis
 "Disorders of gallbladder, biliary tract and pancreas",4399003,493744012,Haemorrhagic pancreatitis
 "Disorders of gallbladder, biliary tract and pancreas",3855007,7491012,Other diseases of pancreas NOS
 "Disorders of gallbladder, biliary tract and pancreas",75694006,125722013,Pancreatitis
-"Disorders of gallbladder, biliary tract and pancreas",59154002,98289011,Subacute pancreatitis
-"Disorders of gallbladder, biliary tract and pancreas",197456007,303630010,Acute pancreatitis
-"Disorders of gallbladder, biliary tract and pancreas",197458008,303633012,Acute recurrent pancreatitis
-"Disorders of gallbladder, biliary tract and pancreas",197460005,303636016,Acute suppurative pancreatitis
-"Disorders of gallbladder, biliary tract and pancreas",4399003,493743018,Acute haemorrhagic pancreatitis
 "Disorders of gallbladder, biliary tract and pancreas",3855007,7494016,[X]Other specified diseases of pancreas
-"Disorders of gallbladder, biliary tract and pancreas",235943006,353688019,Idiopathic acute pancreatitis
-"Disorders of gallbladder, biliary tract and pancreas",197456007,303631014,AP - Acute pancreatitis
 "Disorders of gallbladder, biliary tract and pancreas",3855007,7494016,Other diseases of pancreas
-"Disorders of gallbladder, biliary tract and pancreas",197456007,303630010,Acute pancreatitis NOS
-"Disorders of gallbladder, biliary tract and pancreas",811431000000107,2116751000000111,Biliary acute pancreatitis
-"Disorders of gallbladder, biliary tract and pancreas",235941008,353686015,Gallstone acute pancreatitis
-"Disorders of gallbladder, biliary tract and pancreas",235942001,353687012,Alcohol-induced acute pancreatitis
-"Disorders of gallbladder, biliary tract and pancreas",235944000,353689010,Drug-induced acute pancreatitis
 "Disorders of gallbladder, biliary tract and pancreas",235494005,352985010,[X]Other chronic pancreatitis
 "Disorders of gallbladder, biliary tract and pancreas",235494005,352986011,CP - Chronic pancreatitis
 "Disorders of gallbladder, biliary tract and pancreas",235952002,3078939011,Chronic pancreatitis due to acute alcohol intoxication

@@ -1,0 +1,82 @@
+Condition,MedCode,Term
+Dementia,882171000006115,Dementia
+Dementia,1856601000006111,Dementia monitoring in primary care
+Dementia,1856611000006114,Dementia monitoring in secondary care
+Dementia,915111000006112,Dementia review
+Dementia,914941000006112,[D] Dementia
+Dementia,914951000006114,[D] Dementia in Alzheimer's disease
+Dementia,914931000006119,[D] Dementia with Lewy bodies
+Dementia,914921000006117,[D] Vascular dementia
+Dementia,1834091000006116,dementia care plan
+Dementia,3414261000006114,multi infarct dementia
+Dementia,407461000000119,Dementia monitoring
+Dementia,408401000000119,Dementia annual review
+Dementia,2248021000000110,Dementia care plan
+Dementia,406841000000115,Dementia monitoring administration
+Dementia,408361000000111,Dementia monitoring first letter
+Dementia,408421000000111,Dementia monitoring second letter
+Dementia,408461000000115,Dementia monitoring third letter
+Dementia,408481000000112,Dementia monitoring verbal invite
+Dementia,408501000000115,Dementia monitoring telephone invite
+Dementia,294111000000119,Exception reporting: dementia quality indicators
+Dementia,999961000006114,Excepted from dementia quality indicators: Patient unsuitabl
+Dementia,294321000000111,Excepted from dementia quality indicators: Informed dissent
+Dementia,401757012,Senile and presenile organic psychotic conditions
+Dementia,26545010,Senile dementia
+Dementia,148381000006115,Senile/presenile dementia
+Dementia,294635013,Uncomplicated senile dementia
+Dementia,21256010,Presenile dementia
+Dementia,294637017,Uncomplicated presenile dementia
+Dementia,294638010,Presenile dementia with delirium
+Dementia,294641018,Presenile dementia with paranoia
+Dementia,294642013,Presenile dementia with depression
+Dementia,294643015,Presenile dementia NOS
+Dementia,294644014,Senile dementia with depressive or paranoid features
+Dementia,294645010,Senile dementia with paranoia
+Dementia,294646011,Senile dementia with depression
+Dementia,294647019,Senile dementia with depressive or paranoid features NOS
+Dementia,294648012,Senile dementia with delirium
+Dementia,497559016,Arteriosclerotic dementia
+Dementia,696161000006115,Multi infarct dementia
+Dementia,294652012,Uncomplicated arteriosclerotic dementia
+Dementia,294653019,Arteriosclerotic dementia with delirium
+Dementia,294654013,Arteriosclerotic dementia with paranoia
+Dementia,294655014,Arteriosclerotic dementia with depression
+Dementia,294656010,Arteriosclerotic dementia NOS
+Dementia,401759010,Other senile and presenile organic psychoses
+Dementia,346897015,Presbyophrenic psychosis
+Dementia,294660013,Senile or presenile psychoses NOS
+Dementia,294718018,Dementia in conditions EC
+Dementia,295668011,[X]Dementia in Alzheimer's disease
+Dementia,376531000006119,[X]Dementia in Alzheimer's disease with early onset
+Dementia,423351000006115,"[X]Presenile dementia,Alzheimer's type"
+Dementia,423391000006114,"[X]Primary degen dementia, Alzheimer's type, presenile onset"
+Dementia,363041000006118,[X]Alzheimer's disease type 2
+Dementia,376541000006112,[X]Dementia in Alzheimer's disease with late onset
+Dementia,363031000006111,[X]Alzheimer's disease type 1
+Dementia,425901000006116,"[X]Senile dementia,Alzheimer's type"
+Dementia,423381000006111,"[X]Primary degen dementia of Alzheimer's type, senile onset"
+Dementia,295671015,"[X]Dementia in Alzheimer's dis, atypical or mixed type"
+Dementia,295672010,"[X]Dementia in Alzheimer's disease, unspecified"
+Dementia,363021000006113,[X]Alzheimer's dementia unspec
+Dementia,431681000006117,[X]Vascular dementia
+Dementia,363791000006112,[X]Arteriosclerotic dementia
+Dementia,399031000006111,[X]Multi-infarct dementia
+Dementia,423221000006117,[X]Predominantly cortical dementia
+Dementia,428201000006119,[X]Subcortical vascular dementia
+Dementia,398571000006112,[X]Mixed cortical and subcortical vascular dementia
+Dementia,295680015,[X]Other vascular dementia
+Dementia,295681016,"[X]Vascular dementia, unspecified"
+Dementia,359241000006119,[X] Unspecified dementia
+Dementia,359081000006118,[X] Presenile dementia NOS
+Dementia,359091000006115,[X] Presenile psychosis NOS
+Dementia,359101000006114,[X] Primary degenerative dementia NOS
+Dementia,359141000006111,[X] Senile dementia NOS
+Dementia,359161000006110,[X] Senile psychosis NOS
+Dementia,359151000006113,"[X] Senile dementia, depressed or paranoid type"
+Dementia,295714013,[X]Delirium superimposed on dementia
+Dementia,45046017,Alzheimer's disease
+Dementia,499946014,Alzheimer's disease with early onset
+Dementia,500317011,Alzheimer's disease with late onset
+Dementia,299325013,[X]Other Alzheimer's disease
+Dementia,0,Language disorder of dementia

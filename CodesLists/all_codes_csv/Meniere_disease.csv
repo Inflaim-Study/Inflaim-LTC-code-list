@@ -1,12 +1,12 @@
 Condition,MedCode,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
-Meniere disease,2981261000006116,29904009,50047017,^ESCTLE298126,,Lermoyez's syndrome
-Meniere disease,11925131000006110,13445001,710891000006111,^ESCT1192513,,Unspecified Meniere's disease
-Meniere disease,710871000006110,13445001,475303017,F560,F560.00,Meniere's disease
-Meniere disease,17117015,9794007,17117015,F560-1,F560.11,Endolymphatic hydrops
-Meniere disease,50047017,29904009,2842581018,F560-2,F560.12,Lermoyez's syndrome
-Meniere disease,299159019,13445001,2920410013,F5600,F560000,Unspecified Meniere's disease
-Meniere disease,299160012,194348002,299160012,F5601,F560100,Active cochleovestibular Meniere's disease
-Meniere disease,299161011,194349005,299161011,F5602,F560200,Active cochlear Meniere's disease
-Meniere disease,299162016,194350005,299162016,F5603,F560300,Active vestibular Meniere's disease
-Meniere disease,299163014,194351009,299163014,F5604,F560400,Inactive Meniere's disease
-Meniere disease,299164015,13445001,178783019,F560z,F560z00,Meniere's disease NOS
+Meniere disease,2981261000006116,29904009,50047017,,,lermoyez's syndrome
+Meniere disease,11925131000006110,13445001,710891000006111,,,unspecified meniere's disease
+Meniere disease,710871000006110,13445001,475303017,F560.00,,Meniere's disease
+Meniere disease,17117015,9794007,17117015,F560.11,,Endolymphatic hydrops
+Meniere disease,50047017,29904009,2842581018,F560.12,,Lermoyez's syndrome
+Meniere disease,299159019,13445001,2920410013,F560000,,Unspecified Meniere's disease
+Meniere disease,299160012,194348002,299160012,F560100,,Active cochleovestibular Meniere's disease
+Meniere disease,299161011,194349005,299161011,F560200,,Active cochlear Meniere's disease
+Meniere disease,299162016,194350005,299162016,F560300,,Active vestibular Meniere's disease
+Meniere disease,299163014,194351009,299163014,F560400,,Inactive Meniere's disease
+Meniere disease,299164015,13445001,178783019,F560z00,,Meniere's disease NOS

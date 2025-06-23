@@ -90,10 +90,6 @@ In situ neoplasms,290749015,189229003,290749015,B8037,B803700,Carcinoma in situ 
 In situ neoplasms,4006951000006119,92608001,1235748018,^ESCTCA400695,,Carcinoma in situ of hepatic flexure
 In situ neoplasms,4216341000006113,112971004,188728018,^ESCTAU421634,,Auriculectomy
 In situ neoplasms,153299011,92695008,153299011,B8040,B804000,Carcinoma in situ of rectosigmoid junction
-In situ neoplasms,860001000006111,112971004,860001000006111,73000-98,7300098,Amputation of ear
-In situ neoplasms,267460018,68265005,1233027014,73z,73z..00,Ear operations NOS
-In situ neoplasms,4216331000006116,112971004,188727011,^ESCTAM421633,,Amputation of external ear
-In situ neoplasms,1233027014,68265005,1233027014,73,73...00,Ear operations
 In situ neoplasms,4008151000006119,92696009,3036087018,^ESCTCA400815,,Cancer in situ of rectum
 In situ neoplasms,153300015,92696009,153300015,B8041,B804100,Carcinoma in situ of rectum
 In situ neoplasms,4005731000006115,92531006,3036407010,^ESCTCA400573,,Cancer in situ of anal canal
@@ -314,8 +310,6 @@ In situ neoplasms,373597014,250538001,373597014,4K2-1,4K2..11,Dyskaryosis on cer
 In situ neoplasms,153129011,92564006,1235742017,B831,B831.00,Carcinoma in situ of cervix uteri
 In situ neoplasms,292208014,92564006,153128015,ByuFA,ByuFA00,[X]Carcinoma in situ of other parts of cervix
 In situ neoplasms,4006251000006111,92564006,153129011,^ESCTCA400625,,Carcinoma in situ of cervix uteri
-In situ neoplasms,2982541000006113,29971002,50157018,^ESCTSU298254,,Surgical procedure on external ear
-In situ neoplasms,2982551000006110,29971002,484450012,^ESCTEX298255,,External ear operations
 In situ neoplasms,153157016,92588008,153157016,B8311,B831100,Carcinoma in situ of exocervix
 In situ neoplasms,557411000006111,252991009,376780011,4K24-1,4K24.11,CIN III - severe dyskaryosis
 In situ neoplasms,5324201000006117,252991009,376781010,^ESCTCI532420,,CIN III - Cervical intraepithelial neoplasia grade III with severe dysplasia
@@ -334,7 +328,6 @@ In situ neoplasms,5591881000006119,276875006,413218017,^ESCTSE559188,,Severe dys
 In situ neoplasms,305269010,276875006,413214015,Kyu9M,Kyu9M00,"[X]Severe vulvar dysplasia, not elsewhere classified"
 In situ neoplasms,146221000006113,276875006,413214015,K577X,K577X00,"Severe vulvar dysplasia, not elsewhere classified"
 In situ neoplasms,510113012,399933001,2914177015,B8333-1,B833311,Vulval intraepithelial neoplasia
-In situ neoplasms,347844016,232151004,347844016,730-1,730..11,External auditory canal operations
 In situ neoplasms,267249013,172630005,267249013,73050-2,7305012,Washout of ear wax
 In situ neoplasms,3579161000006116,66363008,110222014,^ESCTIR357916,,Irrigation of ear
 In situ neoplasms,267245019,172629000,267245019,7305,7305.00,Clearance of external auditory canal
@@ -344,7 +337,6 @@ In situ neoplasms,860161000006111,172630005,860161000006111,73050-99,7305099,Aur
 In situ neoplasms,267251012,172629000,267245019,7305y,7305y00,Other specified clearance of external auditory canal
 In situ neoplasms,267252017,172629000,267245019,7305z,7305z00,Clearance of external auditory canal NOS
 In situ neoplasms,267259014,66363008,1232786016,73064,7306400,Irrigation of external auditory canal NEC
-In situ neoplasms,859991000006118,232151004,859991000006118,730-99,730..99,External ear operations
 In situ neoplasms,114091000006116,172630005,267246018,73050-1,7305011,Syringe ear to remove wax
 In situ neoplasms,4650161000006115,172630005,267247010,^ESCTWA465016,,Wax syringing - ear
 In situ neoplasms,153422014,92802003,153422014,B8333,B833300,Carcinoma in situ of vulva

@@ -1,9 +1,14 @@
 Condition,ReadCode,CleansedReadCode,Term
-Eating disorders,E271,E271.00,Anorexia nervosa
-Eating disorders,E2751,E275100,Bulimia (non-organic overeating)
-Eating disorders,Eu500,Eu50000,[X]Anorexia nervosa
-Eating disorders,Eu501,Eu50100,[X]Atypical anorexia nervosa
-Eating disorders,Eu502,Eu50200,[X]Bulimia nervosa
-Eating disorders,Eu502-1,Eu50211,[X]Bulimia NOS
-Eating disorders,Eu503,Eu50300,[X]Atypical bulimia nervosa
-Eating disorders,R0360-1,R036011,[D]Bulimia NOS
+Eating disorders,,,Eating disorder NOS - psychog.
+Eating disorders,,,Eating disorders
+Eating disorders,,,Reason for referral: Eating Disorder
+Eating disorders,,,Referral to eating disorders outreach clinic
+Eating disorders,,,Seen in eating disorders clinic
+Eating disorders,E271.00,,Anorexia nervosa
+Eating disorders,E275100,,Bulimia (non-organic overeating)
+Eating disorders,Eu50000,,[X]Anorexia nervosa
+Eating disorders,Eu50100,,[X]Atypical anorexia nervosa
+Eating disorders,Eu50200,,[X]Bulimia nervosa
+Eating disorders,Eu50211,,[X]Bulimia NOS
+Eating disorders,Eu50300,,[X]Atypical bulimia nervosa
+Eating disorders,R036011,,[D]Bulimia NOS

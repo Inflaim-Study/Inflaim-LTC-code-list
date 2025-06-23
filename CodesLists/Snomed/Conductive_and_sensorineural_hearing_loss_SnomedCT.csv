@@ -8,6 +8,7 @@ Conductive and sensorineural hearing loss,85571008,1235048014,Cochlear hearing l
 Conductive and sensorineural hearing loss,8531006,15071010,Complete deafness
 Conductive and sensorineural hearing loss,30169000,1226997019,FHL - Functional hearing loss
 Conductive and sensorineural hearing loss,30169000,1226996011,Functional hearing loss
+Conductive and sensorineural hearing loss,679391000000103,883901000006119,Hearing loss NOS
 Conductive and sensorineural hearing loss,15188001,989081000006119,Hearing loss NOS
 Conductive and sensorineural hearing loss,15188001,477218019,Impaired hearing
 Conductive and sensorineural hearing loss,85571008,1235049018,Inner ear hearing loss
@@ -18,6 +19,7 @@ Conductive and sensorineural hearing loss,73415002,502427012,NIHL - Noise-induce
 Conductive and sensorineural hearing loss,30169000,1226994014,NOHL - Non-organic hearing loss
 Conductive and sensorineural hearing loss,30169000,1226995010,Non-organic hearing loss
 Conductive and sensorineural hearing loss,877191000000104,2310371000000114,Profound BSNHL (bilateral sensorineural hearing loss)
+Conductive and sensorineural hearing loss,1776751000006100,1776751000006116,Reason for referral: Hearing Problems/Loss
 Conductive and sensorineural hearing loss,73371001,502416010,Retrocochlear hearing loss
 Conductive and sensorineural hearing loss,60700002,1232124012,SNHL - Sensorineural hearing loss
 Conductive and sensorineural hearing loss,60700002,100854015,Sensorineural deafness
@@ -26,32 +28,71 @@ Conductive and sensorineural hearing loss,3561000119106,3023143010,Severe hearin
 Conductive and sensorineural hearing loss,194418004,2821126011,Unilateral conductive hearing loss with unrestricted hearing on the contralateral side
 Conductive and sensorineural hearing loss,194428008,2821036017,Unilateral mixed conductive and sensorineural hearing loss with unrestricted hearing on the contralateral side
 Conductive and sensorineural hearing loss,194425006,2820989012,Unilateral sensorineural hearing loss with unrestricted hearing on the contralateral side
-Conductive and sensorineural hearing loss,285055002,423945013,Does use hearing aid
-Conductive and sensorineural hearing loss,15188001,477220016,Hard of hearing
-Conductive and sensorineural hearing loss,15188001,477221017,Hearing impairment
-Conductive and sensorineural hearing loss,15188001,477225014,HI - Hearing impairment
-Conductive and sensorineural hearing loss,15188001,477224013,HL - Hearing loss
-Conductive and sensorineural hearing loss,15188001,477219010,HOH - Hard of hearing
-Conductive and sensorineural hearing loss,164068006,255434015,O/E - conductive deafness
-Conductive and sensorineural hearing loss,162342008,253161014,Unilateral deafness
-Conductive and sensorineural hearing loss,285055002,423944012,Uses hearing aid
+Conductive and sensorineural hearing loss,416121000000101,12456491000006112,[v]adjustment and management of implanted hearing device
+Conductive and sensorineural hearing loss,411511000000107,927411000000113,[v]fitting or adjustment of hearing aid
+Conductive and sensorineural hearing loss,290036002,430012018,attention to hearing aid
+Conductive and sensorineural hearing loss,918721000006105,918721000006114,bilateral deafness
+Conductive and sensorineural hearing loss,183126007,2619459016,changing hearing aid battery
+Conductive and sensorineural hearing loss,694231000000100,1518611000000111,"deaf mutism, nec"
+Conductive and sensorineural hearing loss,918681000006103,918681000006119,deafness
+Conductive and sensorineural hearing loss,679391000000103,1488821000000110,deafness nos
+Conductive and sensorineural hearing loss,285055002,423945013,does use hearing aid
+Conductive and sensorineural hearing loss,15188001,477220016,hard of hearing
+Conductive and sensorineural hearing loss,982621000006102,982621000006118,hearing impaired
+Conductive and sensorineural hearing loss,15188001,477221017,hearing impairment
+Conductive and sensorineural hearing loss,15188001,477225014,hi - hearing impairment
+Conductive and sensorineural hearing loss,15188001,477224013,hl - hearing loss
+Conductive and sensorineural hearing loss,15188001,477219010,hoh - hard of hearing
+Conductive and sensorineural hearing loss,164068006,255434015,o/e - conductive deafness
+Conductive and sensorineural hearing loss,918711000006102,918711000006118,partial deafness
+Conductive and sensorineural hearing loss,162342008,253161014,unilateral deafness
+Conductive and sensorineural hearing loss,918701000006100,918701000006116,unilateral deafness
+Conductive and sensorineural hearing loss,285055002,423944012,uses hearing aid
+Conductive and sensorineural hearing loss,987421000006102,987421000006118,uses hearing loop
 Conductive and sensorineural hearing loss,15188001,25788011,Deafness
 Conductive and sensorineural hearing loss,272033007,407075014,Deafness symptom
+Conductive and sensorineural hearing loss,162342008,253161014,Unilateral deafness
 Conductive and sensorineural hearing loss,343087000,470343013,Partial deafness
 Conductive and sensorineural hearing loss,162344009,253163012,Bilateral deafness
+Conductive and sensorineural hearing loss,390967001,1484996016,Hearing aid problem
 Conductive and sensorineural hearing loss,275879008,411844019,O/E - deaf
 Conductive and sensorineural hearing loss,164061000,255426014,O/E - significantly deaf
 Conductive and sensorineural hearing loss,164062007,255427017,O/E - very deaf
 Conductive and sensorineural hearing loss,164063002,255428010,O/E - completely deaf
 Conductive and sensorineural hearing loss,44057004,73473018,O/E - conductive deafness
+Conductive and sensorineural hearing loss,164069003,255435019,O/E - perceptive deafness
 Conductive and sensorineural hearing loss,285055002,423944012,Hearing aid worn
+Conductive and sensorineural hearing loss,198061000000105,298231000000110,Uses hearing loop
+Conductive and sensorineural hearing loss,429585000,2692293012,Placement of hearing implant in external ear
+Conductive and sensorineural hearing loss,428619000,2693867016,Attention to hearing implant in external ear
 Conductive and sensorineural hearing loss,232183005,347885014,Insertn bone anchors subcutaneous bone anchored hearing aid
+Conductive and sensorineural hearing loss,428004000,2694704011,Placement of hearing implant in middle ear
+Conductive and sensorineural hearing loss,429383008,2695992016,Attention to hearing implant in middle ear
+Conductive and sensorineural hearing loss,426733001,2675905016,Attachment of bone anchored hearing prosthesis
+Conductive and sensorineural hearing loss,225871000000108,360891000000116,Reduction soft tissue for bone anchored hearing prosthesis
+Conductive and sensorineural hearing loss,225791000000104,360731000000111,Attention to fixtures for bone anchored hearing prosthesis
+Conductive and sensorineural hearing loss,280651000000104,482511000000116,One stage insert fixtures bone anchored hearing prosthesis
+Conductive and sensorineural hearing loss,426647008,2675980012,Fitting external hearing prosthesis bone anchored fixtures
+Conductive and sensorineural hearing loss,225861000000101,487301000000112,First stge ins fixtures for bone anchored hearing prosthesis
 Conductive and sensorineural hearing loss,225951000000109,487311000000114,Second stage ins fixtures for bone anchored hearing prosth
+Conductive and sensorineural hearing loss,426733001,2675905016,Other specified attachment bone anchored hearing prosthesis
+Conductive and sensorineural hearing loss,426733001,2675905016,Attachment of bone anchored hearing prosthesis NOS
+Conductive and sensorineural hearing loss,281656009,419723011,Hearing aid provision
+Conductive and sensorineural hearing loss,183123004,283069016,Provide head worn hearing aid
+Conductive and sensorineural hearing loss,183124005,283070015,Provide body worn hearing aid
+Conductive and sensorineural hearing loss,183125006,283071016,Ear fitting hearing aid
+Conductive and sensorineural hearing loss,183126007,283072011,Replace hearing aid battery
+Conductive and sensorineural hearing loss,183280009,283305018,Deafness remedial therapy
+Conductive and sensorineural hearing loss,183280009,283305018,Deafness remedial therapy NOS
+Conductive and sensorineural hearing loss,183853009,284059016,Referral to hearing aid clinic
+Conductive and sensorineural hearing loss,394889008,1488593014,Hearing aid requested
+Conductive and sensorineural hearing loss,313152005,457008018,Seen in hearing aid clinic
+Conductive and sensorineural hearing loss,796201000000109,1779881000000115,Requires deafblind communicator guide
+Conductive and sensorineural hearing loss,186570004,286780017,Rubella deafness
 Conductive and sensorineural hearing loss,49526009,82492017,Presbyacusis
 Conductive and sensorineural hearing loss,49526009,82492017,Senile presbyacusis
 Conductive and sensorineural hearing loss,73415002,121916015,Noise-induced hearing loss
 Conductive and sensorineural hearing loss,73415002,121916015,Noise induced deafness
-Conductive and sensorineural hearing loss,79471008,131848010,Unspecified sudden hearing loss
 Conductive and sensorineural hearing loss,15188001,25788011,Hearing loss
 Conductive and sensorineural hearing loss,44057004,73470015,Conductive hearing loss
 Conductive and sensorineural hearing loss,44057004,73473018,Conductive deafness
@@ -74,14 +115,11 @@ Conductive and sensorineural hearing loss,85571008,141844010,Sensory hearing los
 Conductive and sensorineural hearing loss,73371001,121849011,Neural hearing loss
 Conductive and sensorineural hearing loss,73371001,502417018,Nerve deafness
 Conductive and sensorineural hearing loss,68467004,113719012,Central hearing loss
-Conductive and sensorineural hearing loss,95828007,512317011,Congenital sensorineural deafness
 Conductive and sensorineural hearing loss,267677007,399507018,Ototoxicity - deafness
 Conductive and sensorineural hearing loss,275482009,411470013,Drug ototoxicity - deafness
 Conductive and sensorineural hearing loss,194424005,299259014,"Sensorineural hearing loss, bilateral"
 Conductive and sensorineural hearing loss,194425006,299260016,"Sensorineurl hear loss,unilat unrestrict hear/contralat side"
-Conductive and sensorineural hearing loss,699238006,2983005012,Congenital prelingual deafness
 Conductive and sensorineural hearing loss,877191000000104,2264121000000111,Bilateral profound sensorineural hearing loss
-Conductive and sensorineural hearing loss,877211000000100,2264161000000115,Bilateral congenital sensorineural hearing loss
 Conductive and sensorineural hearing loss,700454004,2990684014,Profound sensorineural hearing loss
 Conductive and sensorineural hearing loss,860801000000109,2226281000000116,Moderate sensorineural hearing loss
 Conductive and sensorineural hearing loss,860851000000105,2226381000000114,Mild sensorineural hearing loss
@@ -93,15 +131,16 @@ Conductive and sensorineural hearing loss,77507001,1234119013,Mixed hearing loss
 Conductive and sensorineural hearing loss,194428008,299263019,"Mix cond/sensneurl hear loss,unlat unrestrc hear/contrlat sd"
 Conductive and sensorineural hearing loss,194429000,299264013,"Mixed conductive and sensorineural hearing loss, bilateral"
 Conductive and sensorineural hearing loss,61947007,102958012,"Deaf mutism, NEC"
-Conductive and sensorineural hearing loss,95828007,158711011,Maternally inherited deafness
 Conductive and sensorineural hearing loss,737047001,3526449019,Mild acquired hearing loss
 Conductive and sensorineural hearing loss,737048006,3526451015,Moderate acquired hearing loss
 Conductive and sensorineural hearing loss,737049003,3526453017,Severe acquired hearing loss
 Conductive and sensorineural hearing loss,737050003,3526456013,Profound acquired hearing loss
 Conductive and sensorineural hearing loss,737050003,3526456013,Deafened
+Conductive and sensorineural hearing loss,118230007,180784019,Other specified forms of hearing loss
 Conductive and sensorineural hearing loss,272033007,407075014,Deafness NOS
 Conductive and sensorineural hearing loss,232325008,348075014,Chronic deafness
 Conductive and sensorineural hearing loss,15188001,477226010,Hearing impairment
+Conductive and sensorineural hearing loss,433147009,2773231012,Combined visual and hearing impairment
 Conductive and sensorineural hearing loss,61947007,102958012,"[X]Deaf mutism, not elsewhere classified"
 Conductive and sensorineural hearing loss,15188001,25788011,[X]Other specified hearing loss
 Conductive and sensorineural hearing loss,204224006,313148014,Ear anomalies with hearing impairment
@@ -109,9 +148,37 @@ Conductive and sensorineural hearing loss,204224006,313148014,"Ear anomalies wit
 Conductive and sensorineural hearing loss,25906001,43405015,Other external ear anomaly with hearing impairment
 Conductive and sensorineural hearing loss,25906001,43405015,Other external ear anomaly with hearing impairment NOS
 Conductive and sensorineural hearing loss,204224006,313148014,Other and unspecified ear anomaly with hearing impaired
-Conductive and sensorineural hearing loss,204224006,313148014,Deafness due to congenital anomaly NEC
 Conductive and sensorineural hearing loss,204224006,313148014,Ear anomaly with hearing impaired NOS
 Conductive and sensorineural hearing loss,70694009,3028935019,"Diab insipidus,diab mell,optic atrophy and deafness"
-Conductive and sensorineural hearing loss,111339003,178572014,"[X]Malformation of ear with impairment of hearing, unspec"
+Conductive and sensorineural hearing loss,0,0,Ability to use hearing aid
+Conductive and sensorineural hearing loss,0,0,Able to use hearing aid
+Conductive and sensorineural hearing loss,0,0,Does use hearing aid
+Conductive and sensorineural hearing loss,0,0,Uses hearing aid
+Conductive and sensorineural hearing loss,0,0,Difficulty using hearing aid
+Conductive and sensorineural hearing loss,0,0,Fit hearing aid
+Conductive and sensorineural hearing loss,0,0,Adjust hearing aid settings
+Conductive and sensorineural hearing loss,0,0,Changing hearing aid battery
+Conductive and sensorineural hearing loss,0,0,Checking hearing aid
+Conductive and sensorineural hearing loss,0,0,Switching on hearing aid
+Conductive and sensorineural hearing loss,0,0,Turning off hearing aid
+Conductive and sensorineural hearing loss,0,0,Putting on hearing aid
+Conductive and sensorineural hearing loss,0,0,Listening for feedback whistle of hearing aid
+Conductive and sensorineural hearing loss,0,0,Attention to hearing aid
+Conductive and sensorineural hearing loss,0,0,Fit ear mould for existing hearing aid
+Conductive and sensorineural hearing loss,0,0,Fit ear mould for hearing protection
+Conductive and sensorineural hearing loss,0,0,Hearing aid provision
+Conductive and sensorineural hearing loss,0,0,Hearing loss
+Conductive and sensorineural hearing loss,0,0,Deafness
+Conductive and sensorineural hearing loss,0,0,Hard of hearing
+Conductive and sensorineural hearing loss,0,0,HI - Hearing impairment
+Conductive and sensorineural hearing loss,0,0,HL - Hearing loss
+Conductive and sensorineural hearing loss,0,0,HOH - Hard of hearing
+Conductive and sensorineural hearing loss,0,0,Hearing impairment
+Conductive and sensorineural hearing loss,0,0,Hearing impaired
+Conductive and sensorineural hearing loss,0,0,Referral to registered hearing aid dispenser
+Conductive and sensorineural hearing loss,0,0,Deaf telephone user
+Conductive and sensorineural hearing loss,0,0,Deaf-blind telephone user
 Conductive and sensorineural hearing loss,285055002,423944012,[V]Presence of external hearing-aid
 Conductive and sensorineural hearing loss,761591000000105,1687281000000114,[V]Bone anchored hearing aid in situ
+Conductive and sensorineural hearing loss,411511000000107,1016091000000113,[V]Fitting or adjustment of hearing aid
+Conductive and sensorineural hearing loss,416121000000101,922181000000110,[V]Adjustment and management of implanted hearing device

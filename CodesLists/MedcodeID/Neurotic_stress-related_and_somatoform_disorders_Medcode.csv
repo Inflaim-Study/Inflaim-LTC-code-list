@@ -1,20 +1,36 @@
 Condition,MedCode,Term
 "Neurotic, stress-related and somatoform disorders",882381000006115,Agoraphobia
+"Neurotic, stress-related and somatoform disorders",988881000006118,Agoraphobia
+"Neurotic, stress-related and somatoform disorders",6025531000006111,Anxiety counseling
+"Neurotic, stress-related and somatoform disorders",6025541000006118,Counseling for anxiety
+"Neurotic, stress-related and somatoform disorders",6025551000006116,Counselling for anxiety
 "Neurotic, stress-related and somatoform disorders",1808521000006110,Panic disorder without agoraphobia
-"Neurotic, stress-related and somatoform disorders",11920891000006112,[X]Phobia NOS
+"Neurotic, stress-related and somatoform disorders",1809331000006112,Symptoms of agoraphobia
+"Neurotic, stress-related and somatoform disorders",11920891000006112,[x]phobia nos
+"Neurotic, stress-related and somatoform disorders",12716981000006116,agoraphobia without mention of panic attacks
+"Neurotic, stress-related and somatoform disorders",6025521000006113,anxiety counselling
+"Neurotic, stress-related and somatoform disorders",853241000006119,phobic anxiety
+"Neurotic, stress-related and somatoform disorders",12731491000006112,phobic disorder nos
 "Neurotic, stress-related and somatoform disorders",2665410014,Fear
 "Neurotic, stress-related and somatoform disorders",1488717011,C/O - panic attack
 "Neurotic, stress-related and somatoform disorders",370038014,Specific fear
 "Neurotic, stress-related and somatoform disorders",2549895012,O/E - panic attack
+"Neurotic, stress-related and somatoform disorders",2549835014,O/E - fearful mood
 "Neurotic, stress-related and somatoform disorders",402503018,"Neurotic condition, insight present"
 "Neurotic, stress-related and somatoform disorders",402505013,Poor insight into neurotic condition
+"Neurotic, stress-related and somatoform disorders",283464017,Antiphobic therapy
+"Neurotic, stress-related and somatoform disorders",342665019,Anxiety management training
+"Neurotic, stress-related and somatoform disorders",300681000000118,Referral for guided self-help for anxiety
+"Neurotic, stress-related and somatoform disorders",285365017,Encounter for fear
 "Neurotic, stress-related and somatoform disorders",675881000006115,Neurotic disorders
 "Neurotic, stress-related and somatoform disorders",488201000006114,Anxiety states
 "Neurotic, stress-related and somatoform disorders",294953016,Anxiety state unspecified
 "Neurotic, stress-related and somatoform disorders",1210253015,Panic disorder
 "Neurotic, stress-related and somatoform disorders",339044013,Panic attack
 "Neurotic, stress-related and somatoform disorders",481154010,Generalised anxiety disorder
+"Neurotic, stress-related and somatoform disorders",488211000006112,Anxiety with depression
 "Neurotic, stress-related and somatoform disorders",294960010,Chronic anxiety
+"Neurotic, stress-related and somatoform disorders",294961014,Recurrent anxiety
 "Neurotic, stress-related and somatoform disorders",294963012,Anxiety state NOS
 "Neurotic, stress-related and somatoform disorders",56251019,Compensation neurosis
 "Neurotic, stress-related and somatoform disorders",223631000000113,Phobic disorders
@@ -26,11 +42,13 @@ Condition,MedCode,Term
 "Neurotic, stress-related and somatoform disorders",294994012,"Social phobia, fear of eating in public"
 "Neurotic, stress-related and somatoform disorders",294995013,"Social phobia, fear of public speaking"
 "Neurotic, stress-related and somatoform disorders",294996014,"Social phobia, fear of public washing"
+"Neurotic, stress-related and somatoform disorders",97986013,Acrophobia
 "Neurotic, stress-related and somatoform disorders",1231321013,Animal phobia
 "Neurotic, stress-related and somatoform disorders",33475016,Claustrophobia
 "Neurotic, stress-related and somatoform disorders",294998010,Fear of crowds
 "Neurotic, stress-related and somatoform disorders",370048011,Fear of flying
 "Neurotic, stress-related and somatoform disorders",485870016,Cancer phobia
+"Neurotic, stress-related and somatoform disorders",65032014,Dental phobia
 "Neurotic, stress-related and somatoform disorders",166341019,Fear of death
 "Neurotic, stress-related and somatoform disorders",295004011,Fear of pregnancy
 "Neurotic, stress-related and somatoform disorders",401780016,Phobic disorder NOS
@@ -40,6 +58,9 @@ Condition,MedCode,Term
 "Neurotic, stress-related and somatoform disorders",295032019,Psychasthenic neurosis
 "Neurotic, stress-related and somatoform disorders",295033012,Other neurotic disorder NOS
 "Neurotic, stress-related and somatoform disorders",401783019,Neurotic disorder NOS
+"Neurotic, stress-related and somatoform disorders",376741000006119,[X]Depressive neurosis
+"Neurotic, stress-related and somatoform disorders",399961000006118,[X]Neurotic depression
+"Neurotic, stress-related and somatoform disorders",419841000006116,[X]Persistant anxiety depression
 "Neurotic, stress-related and somatoform disorders",296224013,[X]Phobic anxiety disorders
 "Neurotic, stress-related and somatoform disorders",362871000006111,[X]Agoraphobia
 "Neurotic, stress-related and somatoform disorders",418051000006118,[X]Panic disorder with agoraphobia
@@ -63,8 +84,12 @@ Condition,MedCode,Term
 "Neurotic, stress-related and somatoform disorders",363651000006111,[X]Anxiety neurosis
 "Neurotic, stress-related and somatoform disorders",363671000006118,[X]Anxiety reaction
 "Neurotic, stress-related and somatoform disorders",363681000006115,[X]Anxiety state
+"Neurotic, stress-related and somatoform disorders",398561000006117,[X]Mixed anxiety and depressive disorder
+"Neurotic, stress-related and somatoform disorders",398351000006110,[X]Mild anxiety depression
 "Neurotic, stress-related and somatoform disorders",296245018,[X]Other mixed anxiety disorders
 "Neurotic, stress-related and somatoform disorders",401881014,[X]Other specified anxiety disorders
 "Neurotic, stress-related and somatoform disorders",363641000006114,[X]Anxiety hysteria
 "Neurotic, stress-related and somatoform disorders",296249012,"[X]Anxiety disorder, unspecified"
 "Neurotic, stress-related and somatoform disorders",363661000006113,[X]Anxiety NOS
+"Neurotic, stress-related and somatoform disorders",0,Phobia counselling
+"Neurotic, stress-related and somatoform disorders",0,Anxiety counselling

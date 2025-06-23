@@ -1,20 +1,11 @@
 Condition,SNOMED_Code,SnomedCTDescriptionId,Term
+Diseases of the liver,773411000000107,1726971000000115,Compensation for liver failure
+Diseases of the liver,773411000000107,1726971000000115,Compensation for liver failure NOS
 Diseases of the liver,16060001,3008400017,Viral hepatitis A with coma
 Diseases of the liver,26206000,3008554017,Viral hepatitis B with coma
 Diseases of the liver,3738000,7302012,Other specified viral hepatitis with coma
 Diseases of the liver,186628001,286868015,Viral hepatitis C with coma
 Diseases of the liver,3738000,7302012,Other specified viral hepatitis with hepatic coma NOS
-Diseases of the liver,197268000,303376017,Acute and subacute liver necrosis
-Diseases of the liver,197269008,303377014,Acute necrosis of liver
-Diseases of the liver,197270009,303381014,Acute hepatic failure
-Diseases of the liver,197270009,303379012,Acute liver failure
-Diseases of the liver,197269008,2619492010,Acute yellow atrophy
-Diseases of the liver,197269008,303377014,Acute necrosis of liver NOS
-Diseases of the liver,197274000,303387013,Subacute necrosis of liver
-Diseases of the liver,197275004,303388015,Subacute hepatic failure
-Diseases of the liver,197276003,303389011,Subacute yellow atrophy
-Diseases of the liver,235856003,353559010,Subacute necrosis of liver NOS
-Diseases of the liver,197268000,303376017,Acute and subacute liver necrosis NOS
 Diseases of the liver,235881000,353595019,Alcoholic hepatic failure
 Diseases of the liver,72836002,120980011,Hepatic coma
 Diseases of the liver,13920009,23734015,Encephalopathy - hepatic
@@ -25,26 +16,27 @@ Diseases of the liver,59927004,498583014,Liver failure NOS
 Diseases of the liver,59927004,99549014,Hepatic failure
 Diseases of the liver,17890003,30226018,Hepatic infarction
 Diseases of the liver,197356006,303512010,Toxic liver disease with hepatic necrosis
-Diseases of the liver,413438002,2534188017,Acute hepatic failure due to drugs
 Diseases of the liver,197364000,303521011,Central haemorrhagic necrosis of liver
-Diseases of the liver,213153001,324976011,Liver transplant failure and rejection
 Diseases of the liver,213230009,325080013,Hepatic failure as a complication of care
 Diseases of the liver,213230009,325079010,Liver failure as a complication of care
-Diseases of the liver,419728003,2579818016,Laennec's cirrhosis
+Diseases of the liver,589511000000102,886501000006115,Alcoholic liver damage NOS
+Diseases of the liver,589511000000102,1307221000000116,alcoholic liver damage unspecified
+Diseases of the liver,419728003,2579818016,laennec's cirrhosis
 Diseases of the liver,309783001,453265010,Oesophageal varices in alcoholic cirrhosis of the liver
 Diseases of the liver,50325005,83834016,Alcoholic fatty liver
-Diseases of the liver,9953008,17390014,Acute alcoholic hepatitis
 Diseases of the liver,420054005,2920441014,Alcoholic cirrhosis of liver
 Diseases of the liver,419728003,2576980018,Laennec's cirrhosis
 Diseases of the liver,235880004,353594015,Alcoholic fibrosis and sclerosis of liver
 Diseases of the liver,41309000,68906017,Alcoholic liver damage unspecified
 Diseases of the liver,235875008,353587018,Alcoholic hepatitis
 Diseases of the liver,307757001,451124014,Chronic alcoholic hepatitis
+Diseases of the liver,851341000006106,851341000006110,fatty liver
 Diseases of the liver,197321007,303463012,Steatosis of liver
 Diseases of the liver,442685003,2819666013,Nonalcoholic steatohepatitis
 Diseases of the liver,197321007,303463012,Fatty change of liver
 Diseases of the liver,197321007,2819770010,Fatty liver
-Diseases of the liver,74669004,123999018,Congestive cirrhosis
+Diseases of the liver,74669004,123999018,congestive cirrhosis
+Diseases of the liver,197306001,303440019,zooparasitic portal cirrhosis
 Diseases of the liver,29633007,49567015,Glycogenosis with hepatic cirrhosis
 Diseases of the liver,399126000,1786709019,Pigmentary cirrhosis of liver
 Diseases of the liver,776981000000103,1736361000000112,Cystic fibrosis related cirrhosis
@@ -64,6 +56,7 @@ Diseases of the liver,266471006,396392016,Juvenile portal cirrhosis
 Diseases of the liver,6183001,11267010,Indian childhood cirrhosis
 Diseases of the liver,271440004,406232019,Xanthomatous portal cirrhosis
 Diseases of the liver,197303009,303437019,Bacterial portal cirrhosis
+Diseases of the liver,197306001,303440019,Zooparasitic portal cirrhosis
 Diseases of the liver,235896001,353622016,Infectious cirrhosis NOS
 Diseases of the liver,419728003,2576980018,Portal cirrhosis unspecified
 Diseases of the liver,266468003,396389015,Non-alcoholic cirrhosis NOS

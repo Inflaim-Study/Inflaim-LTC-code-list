@@ -1,6 +1,8 @@
 Condition,SNOMED_Code,SnomedCTDescriptionId,Term
-Endometriosis,64286001,106864016,Endometriosis of the pouch of Douglas
-Endometriosis,76376003,126837014,Internal endometriosis
+Endometriosis,64286001,106864016,endometriosis of the pouch of douglas
+Endometriosis,76376003,126837014,internal endometriosis
+Endometriosis,416155004,2548653011,Laparoscopic laser destruction of endometriosis
+Endometriosis,128726006,207190013,[M]Stromal endometriosis
 Endometriosis,129103003,1784724014,Endometriosis
 Endometriosis,76376003,126839012,Adenomyosis
 Endometriosis,76376003,126835018,Endometriosis of uterus

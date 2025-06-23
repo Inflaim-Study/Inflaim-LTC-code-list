@@ -1,12 +1,20 @@
 Condition,SNOMED_Code,SnomedCTDescriptionId,Term
-HIV disease,111880001,365853018,Acute human immunodeficiency virus infection
-HIV disease,88415009,825821000006110,HIV disease resulting in mycobacterial infection
-HIV disease,363346000,829211000006116,Human immunodeficiency virus with secondary cancers
+HIV disease,825891000006108,825891000006112,"HIV Infection With Symptoms, Not AIDS - Subsequent Presentation"
+HIV disease,854381000006102,854381000006118,HIV infection
+HIV disease,925451000006109,925451000006113,aids carrier
+HIV disease,88415009,825821000006110,hiv disease resulting in mycobacterial infection
+HIV disease,363346000,829211000006116,human immunodeficiency virus with secondary cancers
+HIV disease,925771000006106,925771000006110,notification of aids
 HIV disease,165816005,257855012,HIV positive
+HIV disease,998701000000106,2581941000000113,HIV viral load
+HIV disease,998171000000102,2571361000000118,Human immunodeficiency virus viral load by log rank
 HIV disease,699433000,2984517011,AIDS carrier
+HIV disease,170530008,264418012,Notification of AIDS
+HIV disease,504871000000109,1121571000000111,Human immunodeficiency virus monitoring
+HIV disease,504901000000109,1121631000000110,Human immunodeficiency virus annual review
+HIV disease,504931000000103,1154521000000111,HIV pos gen health check serv declind - enhanc service admin
 HIV disease,62479008,103844015,Acquired immune deficiency syndrome
 HIV disease,86406008,143288017,Human immunodeficiency virus infection
-HIV disease,111880001,179043011,Acute human immunodeficiency virus infection
 HIV disease,91947003,152322017,Asymptomatic human immunodeficiency virus infection
 HIV disease,95892003,512343012,HIV infection with persistent generalised lymphadenopathy
 HIV disease,186706006,287010012,Human immunodeficiency virus with constitutional disease

@@ -1,15 +1,22 @@
 Condition,SNOMED_Code,SnomedCTDescriptionId,Term
-Schizophrenia,191567000,882301000006112,Acute schizo affective psychosis
+Schizophrenia,1974511000006108,1974511000006112,"Paranoid schizophrenia, complete remission"
 Schizophrenia,755301000000102,1662001000000113,Paranoid state in remission
 Schizophrenia,191526005,882291000006111,Schizophrenic psychoses
 Schizophrenia,191526005,882281000006113,Schizophrenic psychoses NOS
+Schizophrenia,480111000000107,885271000000111,[x]chronic hallucinatory psychosis
+Schizophrenia,480111000000107,996461000000115,[x]other nonorganic psychotic disorders
+Schizophrenia,417601000000102,939641000000117,"[x]schizophrenia, schizotypal and delusional disorders"
+Schizophrenia,285521000000103,492821000000113,Schizophrenia resolved
+Schizophrenia,285551000000108,492881000000114,Psychosis resolved
 Schizophrenia,268957000,402504012,"Psychotic condition, insight present"
+Schizophrenia,12200008,21006010,Poor insight into psychotic condition
 Schizophrenia,191525009,294724012,Non-organic psychoses
 Schizophrenia,191526005,294725013,Schizophrenic disorders
 Schizophrenia,191527001,294727017,Simple schizophrenia
 Schizophrenia,191527001,294726014,Schizophrenia simplex
 Schizophrenia,58214004,96745016,Unspecified schizophrenia
 Schizophrenia,16990005,28758018,Subchronic schizophrenia
+Schizophrenia,83746006,1234861017,Chronic schizophrenic
 Schizophrenia,111482003,178722014,Acute exacerbation of subchronic schizophrenia
 Schizophrenia,191531007,294731011,Acute exacerbation of chronic schizophrenia
 Schizophrenia,4926007,9225016,Schizophrenia in remission
@@ -65,6 +72,7 @@ Schizophrenia,191667009,294903010,Other paranoid states NOS
 Schizophrenia,191667009,3012206013,Paranoid psychosis NOS
 Schizophrenia,191525009,294724012,Other specified non-organic psychoses
 Schizophrenia,191525009,2575698010,Non-organic psychosis NOS
+Schizophrenia,417601000000102,939641000000117,"[X]Schizophrenia, schizotypal and delusional disorders"
 Schizophrenia,58214004,96745016,[X]Schizophrenia
 Schizophrenia,64905009,107878010,[X]Paranoid schizophrenia
 Schizophrenia,64905009,1232626010,[X]Paraphrenic schizophrenia
@@ -98,6 +106,8 @@ Schizophrenia,48500005,80801017,[X]Delusional disorder
 Schizophrenia,191667009,3012206013,[X]Paranoid psychosis
 Schizophrenia,191667009,294903010,[X]Paranoid state
 Schizophrenia,38295006,1229409019,[X]Paraphrenia - late
+Schizophrenia,41189006,492910018,[X]Sensitiver Beziehungswahn
+Schizophrenia,417233008,2548181016,[X]Paranoia
 Schizophrenia,44906001,1230157015,[X]Delusional misidentification syndrome
 Schizophrenia,44906001,1230158013,[X]Capgras syndrome
 Schizophrenia,357705009,2840462017,[X]Cotard syndrome
@@ -122,5 +132,6 @@ Schizophrenia,68890003,114425016,"[X]Schizoaffective disorder, unspecified"
 Schizophrenia,68890003,114425016,[X]Schizoaffective psychosis NOS
 Schizophrenia,755311000000100,1667591000000111,[X]Nonorganic psychosis in remission
 Schizophrenia,191525009,2575698010,[X]Other nonorganic psychotic disorders
+Schizophrenia,480111000000107,885251000000119,[X]Chronic hallucinatory psychosis
 Schizophrenia,191525009,2575698010,[X]Unspecified nonorganic psychosis
 Schizophrenia,69322001,2920943016,[X]Psychosis NOS

@@ -1,9 +1,13 @@
 Condition,SNOMED_Code,SnomedCTDescriptionId,Term
 Diverticular disease of the intestine,397881000,886341000006110,Diverticular disease NOS
-Diverticular disease of the intestine,398050005,1786077011,Diverticulosis of the colon
-Diverticular disease of the intestine,397881000,626841000006115,Diverticulosis unspecified
-Diverticular disease of the intestine,197104005,303147010,Perforated diverticulum
-Diverticular disease of the intestine,197104005,233441000006111,Perforated diverticulum unspecified
+Diverticular disease of the intestine,851321000006104,851321000006115,Duodenal diverticulum
+Diverticular disease of the intestine,857121000006107,857121000006111,Jejunal diverticula
+Diverticular disease of the intestine,906061000006100,906061000006116,[RFC] Diverticulitis
+Diverticular disease of the intestine,398050005,1786077011,diverticulosis of the colon
+Diverticular disease of the intestine,397881000,626841000006115,diverticulosis unspecified
+Diverticular disease of the intestine,197104005,303147010,perforated diverticulum
+Diverticular disease of the intestine,853491000006106,853491000006110,perforated diverticulum
+Diverticular disease of the intestine,197104005,233441000006111,perforated diverticulum unspecified
 Diverticular disease of the intestine,21692001,1222658010,Appendicular diverticulum
 Diverticular disease of the intestine,63532004,105596011,Diverticula of intestine
 Diverticular disease of the intestine,397881000,1777478012,Diverticular disease

@@ -1,261 +1,386 @@
 Condition,ReadCode,CleansedReadCode,Term
-Drug or alcohol misuse,E24-99,E24..99,Morphine/cocaine dependence
-Drug or alcohol misuse,13cM1,,Opioid analgesic dependence
-Drug or alcohol misuse,E24-100,,Substance dependence
-Drug or alcohol misuse,13c7,13c7.00,Current drug user
-Drug or alcohol misuse,13cB,13cB.00,Misuses drugs orally
-Drug or alcohol misuse,13cE,13cE.00,Prolonged high dose use of cannabis
-Drug or alcohol misuse,13cH,13cH.00,Persistent substance misuse
-Drug or alcohol misuse,13cJ,13cJ.00,Previously injecting drug user
-Drug or alcohol misuse,1TE,1TE..00,Uses heroin on top of substitution therapy
-Drug or alcohol misuse,1V0,1V0..00,Misuses drugs
-Drug or alcohol misuse,1V00,1V00.00,Occasional drug user
-Drug or alcohol misuse,1V01,1V01.00,Long-term drug misuser
-Drug or alcohol misuse,1V02,1V02.00,Poly-drug misuser
-Drug or alcohol misuse,1V0C,1V0C.00,Drug addict
-Drug or alcohol misuse,1V26,1V26.00,Misused drugs in past
-Drug or alcohol misuse,1V64,1V64.00,Illicit drug use
-Drug or alcohol misuse,1V65,1V65.00,Heroin misuse
-Drug or alcohol misuse,1V66,1V66.00,Ecstasy misuse
-Drug or alcohol misuse,46QB1,46QB100,Urine methadone positive
-Drug or alcohol misuse,46Qr0,46Qr000,Urine buprenorphine positive
-Drug or alcohol misuse,7P220,7P22000,Delivery of rehabilitation for drug addiction
-Drug or alcohol misuse,E02,E02..00,Drug psychoses
-Drug or alcohol misuse,E020,E020.00,Drug withdrawal syndrome
-Drug or alcohol misuse,E021,E021.00,Drug-induced paranoia or hallucinatory states
-Drug or alcohol misuse,E0210,E021000,Drug-induced paranoid state
-Drug or alcohol misuse,E0211,E021100,Drug-induced hallucinosis
-Drug or alcohol misuse,E021z,E021z00,Drug-induced paranoia or hallucinatory state NOS
-Drug or alcohol misuse,E02y,E02y.00,Other drug psychoses
-Drug or alcohol misuse,E02y0,E02y000,Drug-induced delirium
-Drug or alcohol misuse,E02y1,E02y100,Drug-induced dementia
-Drug or alcohol misuse,E02y3,E02y300,Drug-induced depressive state
-Drug or alcohol misuse,E02y4,E02y400,Drug-induced personality disorder
-Drug or alcohol misuse,E02yz,E02yz00,Other drug psychoses NOS
-Drug or alcohol misuse,E02z,E02z.00,Drug psychosis NOS
-Drug or alcohol misuse,E24,E24..00,Drug dependence
-Drug or alcohol misuse,E24-1,E24..11,Drug addiction
-Drug or alcohol misuse,E240,E240.00,Opioid type drug dependence
-Drug or alcohol misuse,E240-1,E240.11,Heroin dependence
-Drug or alcohol misuse,E240-2,E240.12,Methadone dependence
-Drug or alcohol misuse,E240-3,E240.13,Morphine dependence
-Drug or alcohol misuse,E240-4,E240.14,Opium dependence
-Drug or alcohol misuse,E2400,E240000,Unspecified opioid dependence
-Drug or alcohol misuse,E2401,E240100,Continuous opioid dependence
-Drug or alcohol misuse,E2402,E240200,Episodic opioid dependence
-Drug or alcohol misuse,E2403,E240300,Opioid dependence in remission
-Drug or alcohol misuse,E240z,E240z00,Opioid drug dependence NOS
-Drug or alcohol misuse,E241,E241.00,Hypnotic or anxiolytic dependence
-Drug or alcohol misuse,E241-1,E241.11,Anxiolytic dependence
-Drug or alcohol misuse,E241-2,E241.12,Barbiturate dependence
-Drug or alcohol misuse,E241-3,E241.13,Benzodiazepine dependence
-Drug or alcohol misuse,E241-4,E241.14,Diazepam dependence
-Drug or alcohol misuse,E241-5,E241.15,Librium dependence
-Drug or alcohol misuse,E241-6,E241.16,Sedative dependence
-Drug or alcohol misuse,E241-7,E241.17,Valium dependence
-Drug or alcohol misuse,E2410,E241000,"Hypnotic or anxiolytic dependence, unspecified"
-Drug or alcohol misuse,E2411,E241100,"Hypnotic or anxiolytic dependence, continuous"
-Drug or alcohol misuse,E2412,E241200,"Hypnotic or anxiolytic dependence, episodic"
-Drug or alcohol misuse,E2413,E241300,Hypnotic or anxiolytic dependence in remission
-Drug or alcohol misuse,E241z,E241z00,Hypnotic or anxiolytic dependence NOS
-Drug or alcohol misuse,E242,E242.00,Cocaine type drug dependence
-Drug or alcohol misuse,E2420,E242000,"Cocaine dependence, unspecified"
-Drug or alcohol misuse,E2421,E242100,"Cocaine dependence, continuous"
-Drug or alcohol misuse,E2422,E242200,"Cocaine dependence, episodic"
-Drug or alcohol misuse,E2423,E242300,Cocaine dependence in remission
-Drug or alcohol misuse,E242z,E242z00,Cocaine drug dependence NOS
-Drug or alcohol misuse,E243,E243.00,Cannabis type drug dependence
-Drug or alcohol misuse,E243-1,E243.11,Hashish dependence
-Drug or alcohol misuse,E243-2,E243.12,Hemp dependence
-Drug or alcohol misuse,E243-3,E243.13,Marihuana dependence
-Drug or alcohol misuse,E2430,E243000,"Cannabis dependence, unspecified"
-Drug or alcohol misuse,E2431,E243100,"Cannabis dependence, continuous"
-Drug or alcohol misuse,E2432,E243200,"Cannabis dependence, episodic"
-Drug or alcohol misuse,E2433,E243300,Cannabis dependence in remission
-Drug or alcohol misuse,E243z,E243z00,Cannabis drug dependence NOS
-Drug or alcohol misuse,E244,E244.00,Amphetamine or other psychostimulant dependence
-Drug or alcohol misuse,E244-1,E244.11,Psychostimulant dependence
-Drug or alcohol misuse,E244-2,E244.12,Stimulant dependence
-Drug or alcohol misuse,E2440,E244000,"Amphetamine or psychostimulant dependence, unspecified"
-Drug or alcohol misuse,E2440-1,E244011,"Amfetamine or psychostimulant dependence, unspecified"
-Drug or alcohol misuse,E2441,E244100,"Amphetamine or psychostimulant dependence, continuous"
-Drug or alcohol misuse,E2442,E244200,"Amphetamine or psychostimulant dependence, episodic"
-Drug or alcohol misuse,E2443,E244300,Amphetamine or psychostimulant dependence in remission
-Drug or alcohol misuse,E244z,E244z00,Amphetamine or psychostimulant dependence NOS
-Drug or alcohol misuse,E244z-1,E244z11,Amfetamine or psychostimulant dependence NOS
-Drug or alcohol misuse,E245,E245.00,Hallucinogen dependence
-Drug or alcohol misuse,E245-1,E245.11,LSD dependence
-Drug or alcohol misuse,E245-2,E245.12,Lysergic acid diethylamide dependence
-Drug or alcohol misuse,E2450,E245000,"Hallucinogen dependence, unspecified"
-Drug or alcohol misuse,E2451,E245100,"Hallucinogen dependence, continuous"
-Drug or alcohol misuse,E2452,E245200,"Hallucinogen dependence, episodic"
-Drug or alcohol misuse,E2453,E245300,Hallucinogen dependence in remission
-Drug or alcohol misuse,E245z,E245z00,Hallucinogen dependence NOS
-Drug or alcohol misuse,E246,E246.00,Glue sniffing dependence
-Drug or alcohol misuse,E2460,E246000,"Glue sniffing dependence, unspecified"
-Drug or alcohol misuse,E2461,E246100,"Glue sniffing dependence, continuous"
-Drug or alcohol misuse,E2462,E246200,"Glue sniffing dependence, episodic"
-Drug or alcohol misuse,E2463,E246300,Glue sniffing dependence in remission
-Drug or alcohol misuse,E246z,E246z00,Glue sniffing dependence NOS
-Drug or alcohol misuse,E247,E247.00,Other specified drug dependence
-Drug or alcohol misuse,E247-1,E247.11,Absinthe addiction
-Drug or alcohol misuse,E2470,E247000,"Other specified drug dependence, unspecified"
-Drug or alcohol misuse,E2471,E247100,"Other specified drug dependence, continuous"
-Drug or alcohol misuse,E2472,E247200,"Other specified drug dependence, episodic"
-Drug or alcohol misuse,E2473,E247300,Other specified drug dependence in remission
-Drug or alcohol misuse,E247z,E247z00,Other specified drug dependence NOS
-Drug or alcohol misuse,E248,E248.00,Combined opioid with other drug dependence
-Drug or alcohol misuse,E2480,E248000,"Combined opioid with other drug dependence, unspecified"
-Drug or alcohol misuse,E2481,E248100,"Combined opioid with other drug dependence, continuous"
-Drug or alcohol misuse,E2482,E248200,"Combined opioid with other drug dependence, episodic"
-Drug or alcohol misuse,E2483,E248300,Combined opioid with other drug dependence in remission
-Drug or alcohol misuse,E248z,E248z00,Combined opioid with other drug dependence NOS
-Drug or alcohol misuse,E249,E249.00,"Combined drug dependence, excluding opioids"
-Drug or alcohol misuse,E2490,E249000,"Combined drug dependence, excluding opioid, unspecified"
-Drug or alcohol misuse,E2491,E249100,"Combined drug dependence, excluding opioid, continuous"
-Drug or alcohol misuse,E2492,E249200,"Combined drug dependence, excluding opioid, episodic"
-Drug or alcohol misuse,E2493,E249300,"Combined drug dependence, excluding opioid, in remission"
-Drug or alcohol misuse,E249z,E249z00,"Combined drug dependence, excluding opioid, NOS"
-Drug or alcohol misuse,E24A,E24A.00,Ecstasy type drug dependence
-Drug or alcohol misuse,E24z,E24z.00,Drug dependence NOS
-Drug or alcohol misuse,E252,E252.00,Nondependent cannabis abuse
-Drug or alcohol misuse,E2520,E252000,"Nondependent cannabis abuse, unspecified"
-Drug or alcohol misuse,E2521,E252100,"Nondependent cannabis abuse, continuous"
-Drug or alcohol misuse,E2522,E252200,"Nondependent cannabis abuse, episodic"
-Drug or alcohol misuse,E2523,E252300,Nondependent cannabis abuse in remission
-Drug or alcohol misuse,E252z,E252z00,Nondependent cannabis abuse NOS
-Drug or alcohol misuse,E253,E253.00,Nondependent hallucinogen abuse
-Drug or alcohol misuse,E2530,E253000,"Nondependent hallucinogen abuse, unspecified"
-Drug or alcohol misuse,E2531,E253100,"Nondependent hallucinogen abuse, continuous"
-Drug or alcohol misuse,E2532,E253200,"Nondependent hallucinogen abuse, episodic"
-Drug or alcohol misuse,E2533,E253300,Nondependent hallucinogen abuse in remission
-Drug or alcohol misuse,E253z,E253z00,Nondependent hallucinogen abuse NOS
-Drug or alcohol misuse,E254,E254.00,Nondependent hypnotic or anxiolytic abuse
-Drug or alcohol misuse,E254-1,E254.11,Barbiturate abuse
-Drug or alcohol misuse,E254-2,E254.12,Hypnotic or anxiolytic abuse
-Drug or alcohol misuse,E254-3,E254.13,Sedative abuse
-Drug or alcohol misuse,E254-4,E254.14,Tranquilliser abuse
-Drug or alcohol misuse,E2540,E254000,"Nondependent hypnotic or anxiolytic abuse, unspecified"
-Drug or alcohol misuse,E2541,E254100,"Nondependent hypnotic or anxiolytic abuse, continuous"
-Drug or alcohol misuse,E2542,E254200,"Nondependent hypnotic or anxiolytic abuse, episodic"
-Drug or alcohol misuse,E2543,E254300,Nondependent hypnotic or anxiolytic abuse in remission
-Drug or alcohol misuse,E254z,E254z00,Nondependent hypnotic or anxiolytic abuse NOS
-Drug or alcohol misuse,E255,E255.00,Nondependent opioid abuse
-Drug or alcohol misuse,E2550,E255000,"Nondependent opioid abuse, unspecified"
-Drug or alcohol misuse,E2551,E255100,"Nondependent opioid abuse, continuous"
-Drug or alcohol misuse,E2552,E255200,"Nondependent opioid abuse, episodic"
-Drug or alcohol misuse,E2553,E255300,Nondependent opioid abuse in remission
-Drug or alcohol misuse,E255z,E255z00,Nondependent opioid abuse NOS
-Drug or alcohol misuse,E256,E256.00,Nondependent cocaine abuse
-Drug or alcohol misuse,E2560,E256000,"Nondependent cocaine abuse, unspecified"
-Drug or alcohol misuse,E2561,E256100,"Nondependent cocaine abuse, continuous"
-Drug or alcohol misuse,E2562,E256200,"Nondependent cocaine abuse, episodic"
-Drug or alcohol misuse,E2563,E256300,Nondependent cocaine abuse in remission
-Drug or alcohol misuse,E256z,E256z00,Nondependent cocaine abuse NOS
-Drug or alcohol misuse,E257,E257.00,Nondependent amphetamine or other psychostimulant abuse
-Drug or alcohol misuse,E257-1,E257.11,Psychostimulant abuse
-Drug or alcohol misuse,E257-2,E257.12,Stimulant abuse
-Drug or alcohol misuse,E2570,E257000,"Nondependent amphetamine/psychostimulant abuse, unspecified"
-Drug or alcohol misuse,E2571,E257100,"Nondependent amphetamine/psychostimulant abuse, continuous"
-Drug or alcohol misuse,E2572,E257200,"Nondependent amphetamine or psychostimulant abuse, episodic"
-Drug or alcohol misuse,E2573,E257300,Nondependent amphetamine/psychostimulant abuse in remission
-Drug or alcohol misuse,E257z,E257z00,Nondependent amphetamine or psychostimulant abuse NOS
-Drug or alcohol misuse,E258,E258.00,Nondependent antidepressant type drug abuse
-Drug or alcohol misuse,E258z,E258z00,Nondependent antidepressant type drug abuse NOS
-Drug or alcohol misuse,E259,E259.00,Nondependent mixed drug abuse
-Drug or alcohol misuse,E2590,E259000,"Nondependent mixed drug abuse, unspecified"
-Drug or alcohol misuse,E2591,E259100,"Nondependent mixed drug abuse, continuous"
-Drug or alcohol misuse,E2592,E259200,"Nondependent mixed drug abuse, episodic"
-Drug or alcohol misuse,E2593,E259300,Nondependent mixed drug abuse in remission
-Drug or alcohol misuse,E259z,E259z00,Nondependent mixed drug abuse NOS
-Drug or alcohol misuse,E25y,E25y.00,Nondependent other drug abuse
-Drug or alcohol misuse,E25y-1,E25y.11,Analgesic abuse
-Drug or alcohol misuse,E25y1,E25y100,"Nondependent other drug abuse, continuous"
-Drug or alcohol misuse,E25z,E25z.00,Misuse of drugs NOS
-Drug or alcohol misuse,Eu1,Eu1..00,[X]Mental and behavioural disorders due to psychoactive subs
-Drug or alcohol misuse,Eu11,Eu11.00,[X]Mental and behavioural disorders due to use of opioids
-Drug or alcohol misuse,Eu110,Eu11000,[X]Mental & behav dis due to use opioids: acute intoxication
-Drug or alcohol misuse,Eu111,Eu11100,[X]Mental and behav dis due to use of opioids: harmful use
-Drug or alcohol misuse,Eu112,Eu11200,[X]Mental and behav dis due to use opioids: dependence syndr
-Drug or alcohol misuse,Eu112-1,Eu11211,[X]Drug addiction - opioids
-Drug or alcohol misuse,Eu112-2,Eu11212,[X]Heroin addiction
-Drug or alcohol misuse,Eu113,Eu11300,[X]Mental and behav dis due to use opioids: withdrawal state
-Drug or alcohol misuse,Eu113-1,Eu11311,"[X]Cold turkey, opiate withdrawal"
-Drug or alcohol misuse,Eu114,Eu11400,[X]Men & behav dis due opioid: withdrawl state with delirium
-Drug or alcohol misuse,Eu115,Eu11500,[X]Mental & behav dis due to use opioids: psychotic disorder
-Drug or alcohol misuse,Eu116,Eu11600,[X]Mental and behav dis due to use opioids: amnesic syndrome
-Drug or alcohol misuse,Eu117,Eu11700,[X]Men & beh dis due opioids: resid & late-onset psychot dis
-Drug or alcohol misuse,Eu11y,Eu11y00,[X]Men & behav dis due to use opioids: oth men & behav dis
-Drug or alcohol misuse,Eu11z,Eu11z00,[X]Ment & behav dis due use opioids: unsp ment & behav dis
-Drug or alcohol misuse,Eu12,Eu12.00,[X]Mental and behavioural disorders due to use cannabinoids
-Drug or alcohol misuse,Eu120,Eu12000,[X]Mental & behav dis due cannabinoids: acute intoxication
-Drug or alcohol misuse,Eu121,Eu12100,[X]Mental and behav dis due to use cannabinoids: harmful use
-Drug or alcohol misuse,Eu122,Eu12200,[X]Mental and behav dis due to cannabinoids: dependence synd
-Drug or alcohol misuse,Eu122-1,Eu12211,[X]Drug addiction - cannabis
-Drug or alcohol misuse,Eu123,Eu12300,[X]Mental and behav dis due cannabinoids: withdrawal state
-Drug or alcohol misuse,Eu125,Eu12500,[X]Mental & behav dis due to cannabinoids: psychotic disordr
-Drug or alcohol misuse,Eu126,Eu12600,[X]Mental and behav dis due to use cannabinoids: amnesic syn
-Drug or alcohol misuse,Eu127,Eu12700,[X]Mnt/bh dis due cannabinds: resid & late-onset psychot dis
-Drug or alcohol misuse,Eu12y,Eu12y00,[X]Men/behav dis due to use cannabinoids: oth men/behav disd
-Drug or alcohol misuse,Eu12z,Eu12z00,[X]Ment/behav dis due use cannabinoids: unsp ment/behav disd
-Drug or alcohol misuse,Eu13,Eu13.00,[X]Mental and behavioural dis due use sedatives/hypnotics
-Drug or alcohol misuse,Eu130,Eu13000,[X]Mental & behav dis due seds/hypntcs: acute intoxication
-Drug or alcohol misuse,Eu131,Eu13100,[X]Mental and behav dis due to use seds/hypntcs: harmful use
-Drug or alcohol misuse,Eu132,Eu13200,[X]Mental and behav dis due to seds/hypntcs: dependence synd
-Drug or alcohol misuse,Eu132-1,Eu13211,[X]Drug addiction- sedative / hypnotics
-Drug or alcohol misuse,Eu133,Eu13300,[X]Mental and behav dis due seds/hypntcs: withdrawal state
-Drug or alcohol misuse,Eu134,Eu13400,[X]Men & beh dis due seds/hypns: withdrwl state wth delirium
-Drug or alcohol misuse,Eu135,Eu13500,[X]Mental & behav dis due to seds/hypntcs: psychotic disordr
-Drug or alcohol misuse,Eu14,Eu14.00,[X]Mental and behavioural disorders due to use of cocaine
-Drug or alcohol misuse,Eu140,Eu14000,[X]Mental & behav dis due to use cocaine: acute intoxication
-Drug or alcohol misuse,Eu141,Eu14100,[X]Mental and behav dis due to use of cocaine: harmful use
-Drug or alcohol misuse,Eu142,Eu14200,[X]Mental and behav dis due to use cocaine: dependence syndr
-Drug or alcohol misuse,Eu142-1,Eu14211,[X]Drug addiction - cocaine
-Drug or alcohol misuse,Eu143,Eu14300,[X]Mental and behav dis due to use cocaine: withdrawal state
-Drug or alcohol misuse,Eu145,Eu14500,[X]Mental & behav dis due to use cocaine: psychotic disorder
-Drug or alcohol misuse,Eu147,Eu14700,[X]Men & beh dis due cocaine: resid & late-onset psychot dis
-Drug or alcohol misuse,Eu15,Eu15.00,[X]Mental & behav disorder due other stimulants inc caffein
-Drug or alcohol misuse,Eu150,Eu15000,[X]Mnt/beh dis due oth stim inc caffein: acute intoxication
-Drug or alcohol misuse,Eu151,Eu15100,[X]Ment/behav dis due to use oth stims inc caff: harmful use
-Drug or alcohol misuse,Eu152,Eu15200,[X]Mental and behav dis oth stim inc caffein: dependnce synd
-Drug or alcohol misuse,Eu152-1,Eu15211,[X]Drug addiction-other stimul
-Drug or alcohol misuse,Eu153,Eu15300,[X]Mnt/behav dis other stimlnts inc caffeine: withdrwl state
-Drug or alcohol misuse,Eu155,Eu15500,[X]Mental/behav dis oth stims inc caffeine: psychotic dis
-Drug or alcohol misuse,Eu157,Eu15700,[X]Mnt/bh dis oth stm inc caffne resid/late-onset psycht dis
-Drug or alcohol misuse,Eu15z,Eu15z00,[X]Ment/beh dis oth stims inc caffeine: unsp ment/behav disd
-Drug or alcohol misuse,Eu16,Eu16.00,[X]Mental and behavioural disorders due to use hallucinogens
-Drug or alcohol misuse,Eu160,Eu16000,[X]Mental & behav dis due hallucinogens: acute intoxicatn
-Drug or alcohol misuse,Eu161,Eu16100,[X]Mental and behav dis due to use hallucinogens: harmfl use
-Drug or alcohol misuse,Eu162,Eu16200,[X]Mental and behav dis due to hallucinogens: dependence syn
-Drug or alcohol misuse,Eu162-1,Eu16211,[X]Drug addiction - hallucinogen
-Drug or alcohol misuse,Eu163,Eu16300,[X]Mental and behav dis due hallucinogens: withdrawal state
-Drug or alcohol misuse,Eu165,Eu16500,[X]Mental & behav dis due to hallucinogens: psychotic disord
-Drug or alcohol misuse,Eu167,Eu16700,[X]Mnt/bh dis due hallucngns: resid & late-onset psychot dis
-Drug or alcohol misuse,Eu167-1,Eu16711,[X]Post hallucinogen perception disorder
-Drug or alcohol misuse,Eu16z,Eu16z00,[X]Ment/behav dis due use hallucinogens: unsp ment/behav dis
-Drug or alcohol misuse,Eu18,Eu18.00,[X]Mental & behav disorders due to use of volatile solvents
-Drug or alcohol misuse,Eu180,Eu18000,[X]Mental & behav dis due vol solvents: acute intoxication
-Drug or alcohol misuse,Eu181,Eu18100,[X]Mental and behav dis due volatile solvents: harmful use
-Drug or alcohol misuse,Eu182,Eu18200,[X]Mental and behav dis due to vol solvents: dependence synd
-Drug or alcohol misuse,Eu182-1,Eu18211,[X]Drug addiction - solvent
-Drug or alcohol misuse,Eu184,Eu18400,[X]Men & beh dis vol solvents: withdrawal state wth delirium
-Drug or alcohol misuse,Eu185,Eu18500,[X]Mental & behav dis due to vol solvents: psychotic disordr
-Drug or alcohol misuse,Eu18z,Eu18z00,[X]Ment/behav dis due use vol solvents: unsp ment/behav dis
-Drug or alcohol misuse,Eu190,Eu19000,[X]Mental/behav dis multi drg use/psychoac subs: acute intox
-Drug or alcohol misuse,Eu192,Eu19200,[X]Mental and behav dis mlti/oth psych sbs: dependence syndr
-Drug or alcohol misuse,Eu192-1,Eu19211,[X]Drug addiction NOS
-Drug or alcohol misuse,Eu193,Eu19300,[X]Mental and behav dis mlti/oth psychoa sbs: withdrwl state
-Drug or alcohol misuse,Eu194,Eu19400,[X]Mnt/bh dis mlti drg use/oth psy sbs: wthdr state + dlrium
-Drug or alcohol misuse,Eu195,Eu19500,[X]Ment/behav dis mlti drug use/oth psyc sbs: psychotc dis
-Drug or alcohol misuse,Eu196,Eu19600,[X]Mental/behav dis multi drg use/oth psy sbs: amnesic syndr
-Drug or alcohol misuse,Eu197,Eu19700,[X]Men/beh dis mlt drg use/oth subs: resid/late psychot dis
-Drug or alcohol misuse,Eu19y,Eu19y00,[X]Men/beh dis mlt drg use/oth psy sbs: oth men & behav dis
-Drug or alcohol misuse,Eu19z,Eu19z00,[X]Ment/beh dis multi drug use/oth psy sbs unsp mnt/beh dis
-Drug or alcohol misuse,Eu1A,Eu1A.00,[X]Mental and behavioural disorders due use of crack cocaine
-Drug or alcohol misuse,Eu1A1,Eu1A100,[X]Mental behav disorders due use crack cocaine: harmful use
-Drug or alcohol misuse,Eu1A5,Eu1A500,[X]Mental behav disord due crack cocaine: psychotic disorder
-Drug or alcohol misuse,TJ51,TJ51.00,Adverse reaction to methadone
-Drug or alcohol misuse,TJ521,TJ52100,Adverse reaction to buprenorphine
-Drug or alcohol misuse,U6050-2,U605012,[X] Adverse reaction to methadone
-Drug or alcohol misuse,U6050-5,U605015,[X] Adverse reaction to buprenorphine
-Drug or alcohol misuse,ZV6D7,ZV6D700,[V]Drug abuse counselling and surveillance
+Drug or alcohol misuse,,,Adverse reaction to Drugs used in Substance Dependence
+Drug or alcohol misuse,,,Counseling for substance abuse
+Drug or alcohol misuse,,,Counselling for substance abuse
+Drug or alcohol misuse,,,Currently injecting drugs
+Drug or alcohol misuse,,,"Mental and behav dis due to use alcohol: dependence syndr, currently abstinent"
+Drug or alcohol misuse,,,"Mental and behav dis due to use alcohol: dependence syndr, episodic use [dipsomania]"
+Drug or alcohol misuse,,,"Mental and behav dis due to use opioids: dependence syndr, continuous use"
+Drug or alcohol misuse,,,Misuse of Cannabis herbal
+Drug or alcohol misuse,,,Misuse of Cannabis herbal (skunk)
+Drug or alcohol misuse,,,Misuse of Cannabis resin
+Drug or alcohol misuse,,,Misuse of Cannabis unspecified
+Drug or alcohol misuse,,,Misuse of Cocaine freebase (crack)
+Drug or alcohol misuse,,,Misuse of Cocaine unspecified
+Drug or alcohol misuse,,,Misuse of Heroin illicit
+Drug or alcohol misuse,,,Misuse of Opiate compound analgesics
+Drug or alcohol misuse,,,Misuse of Opiate containing mixture
+Drug or alcohol misuse,,,Misuse of Opiates unspecified
+Drug or alcohol misuse,,,Misuse of other Opiates
+Drug or alcohol misuse,,,Morphine/cocaine dependence
+Drug or alcohol misuse,,,Opioid analgesic dependence
+Drug or alcohol misuse,,,Substance abuse counseling
+Drug or alcohol misuse,,,Substance dependence
+Drug or alcohol misuse,,,Substance misuse of Amphetamines
+Drug or alcohol misuse,,,Substance misuse of Benzodiazepines
+Drug or alcohol misuse,,,Substance misuse of Cannabis
+Drug or alcohol misuse,,,Substance misuse of Cocaine
+Drug or alcohol misuse,,,Substance misuse of Crack
+Drug or alcohol misuse,,,Substance misuse of Ecstasy
+Drug or alcohol misuse,,,Substance misuse of Heroin
+Drug or alcohol misuse,,,Substance misuse of Methadone
+Drug or alcohol misuse,,,Substance misuse of other Opiates
+Drug or alcohol misuse,,,Substance misuse of other drugs
+Drug or alcohol misuse,,,Substance misuse of poly drug
+Drug or alcohol misuse,,,[RFC] Drug/ substance abuse
+Drug or alcohol misuse,,,[RFC] Substance abuse
+Drug or alcohol misuse,,,adverse reaction to buprenorphine
+Drug or alcohol misuse,,,drug misuse behaviour
+Drug or alcohol misuse,,,misused drugs in past
+Drug or alcohol misuse,,,seen in drug misuse clinic
+Drug or alcohol misuse,,,substance abuse counselling
+Drug or alcohol misuse,13c5.00,,Substance misuse increased
+Drug or alcohol misuse,13c6.00,,Substance misuse decreased
+Drug or alcohol misuse,13c7.00,,Current drug user
+Drug or alcohol misuse,13c8.00,,Reduced drugs misuse
+Drug or alcohol misuse,13c9.00,,Subcutaneous drug user
+Drug or alcohol misuse,13cA.00,,Smokes drugs
+Drug or alcohol misuse,13cB.00,,Misuses drugs orally
+Drug or alcohol misuse,13cC.00,,Continuous use of drugs
+Drug or alcohol misuse,13cD.00,,Episodic use of drugs
+Drug or alcohol misuse,13cE.00,,Prolonged high dose use of cannabis
+Drug or alcohol misuse,13cF.00,,Preoccupied with substance misuse
+Drug or alcohol misuse,13cH.00,,Persistent substance misuse
+Drug or alcohol misuse,13cJ.00,,Previously injecting drug user
+Drug or alcohol misuse,13cK.00,,Current non recreational drug user
+Drug or alcohol misuse,13cM.00,,Substance misuse
+Drug or alcohol misuse,13r4.00,,Abstinent from drug misuse when receiving blocking therapy
+Drug or alcohol misuse,1TE..00,,Uses heroin on top of substitution therapy
+Drug or alcohol misuse,1TF..00,,Does not use heroin on top of substitution therapy
+Drug or alcohol misuse,1V...00,,Drug misuse behaviour
+Drug or alcohol misuse,1V0..00,,Misuses drugs
+Drug or alcohol misuse,1V00.00,,Occasional drug user
+Drug or alcohol misuse,1V01.00,,Long-term drug misuser
+Drug or alcohol misuse,1V02.00,,Poly-drug misuser
+Drug or alcohol misuse,1V04.00,,Misuses drugs rectally
+Drug or alcohol misuse,1V07.00,,Notified addict
+Drug or alcohol misuse,1V08.00,,Smokes drugs in cigarette form
+Drug or alcohol misuse,1V09.00,,Smokes drugs through a pipe
+Drug or alcohol misuse,1V0A.00,,Chases the dragon
+Drug or alcohol misuse,1V0B.00,,Sniffs drugs
+Drug or alcohol misuse,1V0C.00,,Drug addict
+Drug or alcohol misuse,1V0E.00,,Health problem secondary to drug misuse
+Drug or alcohol misuse,1V22.00,,Age at starting drug misuse
+Drug or alcohol misuse,1V23.00,,Time since stopped drug misuse
+Drug or alcohol misuse,1V26.00,,Misused drugs in past
+Drug or alcohol misuse,1V30.00,,Injects drugs subcutaneously
+Drug or alcohol misuse,1V31.00,,Injects drugs intramuscularly
+Drug or alcohol misuse,1V32.00,,Neck injector
+Drug or alcohol misuse,1V35.00,,Shares drug equipment
+Drug or alcohol misuse,1V37.00,,Drug injecting equipment hygiene
+Drug or alcohol misuse,1V38.00,,Sharing of drug injecting equipment
+Drug or alcohol misuse,1V4..00,,Priority of drug-related activities
+Drug or alcohol misuse,1V5..00,,Routine of drug-related activities
+Drug or alcohol misuse,1V64.00,,Illicit drug use
+Drug or alcohol misuse,1V65.00,,Heroin misuse
+Drug or alcohol misuse,1V66.00,,Ecstasy misuse
+Drug or alcohol misuse,46QB100,,Urine methadone positive
+Drug or alcohol misuse,46Qr000,,Urine buprenorphine positive
+Drug or alcohol misuse,677T.00,,Substance misuse structured counselling
+Drug or alcohol misuse,7P22000,,Delivery of rehabilitation for drug addiction
+Drug or alcohol misuse,8AA..00,,Drug abuse monitoring
+Drug or alcohol misuse,8B23.00,,Drug addiction therapy
+Drug or alcohol misuse,8B23.11,,Drug addictn therap-methadone
+Drug or alcohol misuse,8B23.13,,Drug dependence therapy
+Drug or alcohol misuse,8B2M.00,,Buprenorphine maintenance therapy
+Drug or alcohol misuse,8B2N.00,,Drug addiction detoxification therapy - methadone
+Drug or alcohol misuse,8B2P.00,,Drug addiction maintenance therapy - methadone
+Drug or alcohol misuse,8B2Q.00,,Drug addiction maintenance therapy - buprenorphine
+Drug or alcohol misuse,8B2R.00,,Drug addiction detoxification therapy - buprenorphine
+Drug or alcohol misuse,8B2S.00,,Opioid agonist substitution therapy
+Drug or alcohol misuse,8B2T.00,,Opioid antagonist therapy
+Drug or alcohol misuse,8BA9.00,,Detoxification dependence drug
+Drug or alcohol misuse,8BAc.00,,Substance misuse management stopped - self withdrawal
+Drug or alcohol misuse,8BAd.00,,Opiate dependence detoxification
+Drug or alcohol misuse,8BE0.00,,Reinduction to methadone maintenance therapy
+Drug or alcohol misuse,8BE1.00,,Reinduction to buprenorphine maintenance therapy
+Drug or alcohol misuse,8H7x.00,,Referral to drug abuse counsellor
+Drug or alcohol misuse,8Hh1.00,,Self referral to substance misuse service
+Drug or alcohol misuse,8HkF.00,,Referral to substance misuse service
+Drug or alcohol misuse,8Hq..00,,Admission to substance misuse detoxification centre
+Drug or alcohol misuse,9G2..00,,Drug addiction notification
+Drug or alcohol misuse,9G2..11,,Drug addict notific admin
+Drug or alcohol misuse,9G21.00,,Drug addict notific to CMO
+Drug or alcohol misuse,9G22.00,,Drug addict re-notific due
+Drug or alcohol misuse,9G23.00,,Drug addict re-notif to CMO
+Drug or alcohol misuse,9G24.00,,Drug addict-notify local SMR22
+Drug or alcohol misuse,9G2Z.00,,Drug addiction notif NOS
+Drug or alcohol misuse,9HC..00,,Substance misuse monitoring
+Drug or alcohol misuse,9HC0.00,,Initial substance misuse assessment
+Drug or alcohol misuse,9HC1.00,,Follow up substance misuse assessment
+Drug or alcohol misuse,9HC2.00,,Substance misuse clinical management plan agreed
+Drug or alcohol misuse,9HC3.00,,Substance misuse clinical management plan reviewed
+Drug or alcohol misuse,9HC4.00,,Substance misuse treatment withdrawn
+Drug or alcohol misuse,9HC5.00,,Substance misuse treatment programme completed
+Drug or alcohol misuse,9HC6.00,,Substance misuse treatment declined
+Drug or alcohol misuse,9K4..00,,SMR25a drug misuse initial assessment form
+Drug or alcohol misuse,9N1yJ00,,Seen in drug misuse clinic
+Drug or alcohol misuse,9N4i.00,,DNA - Did not attend substance misuse clinic
+Drug or alcohol misuse,9No5.00,,Seen in substance misuse clinic
+Drug or alcohol misuse,9k5..00,,Drug misuse - enhanced services administration
+Drug or alcohol misuse,9k50.00,,Drug misuse - enhanced service completed
+Drug or alcohol misuse,9k51.00,,Shared care drug misuse treatment - enhanced services admin
+Drug or alcohol misuse,9k51.11,,Shared care drug misuse treatment
+Drug or alcohol misuse,9k52.00,,Drug misuse treatment primary care - enhanced services admin
+Drug or alcohol misuse,9k53.00,,Pharmacy attended for drug misuse - enhanced services admin
+Drug or alcohol misuse,9kS..00,,Drug misuse assessment declined - enhanced services administ
+Drug or alcohol misuse,9s...00,,Drug misuse clinic administration
+Drug or alcohol misuse,E02..00,,Drug psychoses
+Drug or alcohol misuse,E020.00,,Drug withdrawal syndrome
+Drug or alcohol misuse,E021.00,,Drug-induced paranoia or hallucinatory states
+Drug or alcohol misuse,E021000,,Drug-induced paranoid state
+Drug or alcohol misuse,E021100,,Drug-induced hallucinosis
+Drug or alcohol misuse,E021z00,,Drug-induced paranoia or hallucinatory state NOS
+Drug or alcohol misuse,E022.00,,Pathological drug intoxication
+Drug or alcohol misuse,E02y.00,,Other drug psychoses
+Drug or alcohol misuse,E02y000,,Drug-induced delirium
+Drug or alcohol misuse,E02y100,,Drug-induced dementia
+Drug or alcohol misuse,E02y300,,Drug-induced depressive state
+Drug or alcohol misuse,E02y400,,Drug-induced personality disorder
+Drug or alcohol misuse,E02yz00,,Other drug psychoses NOS
+Drug or alcohol misuse,E02z.00,,Drug psychosis NOS
+Drug or alcohol misuse,E24..00,,Drug dependence
+Drug or alcohol misuse,E24..11,,Drug addiction
+Drug or alcohol misuse,E240.00,,Opioid type drug dependence
+Drug or alcohol misuse,E240.11,,Heroin dependence
+Drug or alcohol misuse,E240.12,,Methadone dependence
+Drug or alcohol misuse,E240.13,,Morphine dependence
+Drug or alcohol misuse,E240.14,,Opium dependence
+Drug or alcohol misuse,E240000,,Unspecified opioid dependence
+Drug or alcohol misuse,E240100,,Continuous opioid dependence
+Drug or alcohol misuse,E240200,,Episodic opioid dependence
+Drug or alcohol misuse,E240300,,Opioid dependence in remission
+Drug or alcohol misuse,E240z00,,Opioid drug dependence NOS
+Drug or alcohol misuse,E241.00,,Hypnotic or anxiolytic dependence
+Drug or alcohol misuse,E241.11,,Anxiolytic dependence
+Drug or alcohol misuse,E241.12,,Barbiturate dependence
+Drug or alcohol misuse,E241.13,,Benzodiazepine dependence
+Drug or alcohol misuse,E241.14,,Diazepam dependence
+Drug or alcohol misuse,E241.15,,Librium dependence
+Drug or alcohol misuse,E241.16,,Sedative dependence
+Drug or alcohol misuse,E241.17,,Valium dependence
+Drug or alcohol misuse,E241000,,"Hypnotic or anxiolytic dependence, unspecified"
+Drug or alcohol misuse,E241100,,"Hypnotic or anxiolytic dependence, continuous"
+Drug or alcohol misuse,E241200,,"Hypnotic or anxiolytic dependence, episodic"
+Drug or alcohol misuse,E241300,,Hypnotic or anxiolytic dependence in remission
+Drug or alcohol misuse,E241z00,,Hypnotic or anxiolytic dependence NOS
+Drug or alcohol misuse,E242.00,,Cocaine type drug dependence
+Drug or alcohol misuse,E242000,,"Cocaine dependence, unspecified"
+Drug or alcohol misuse,E242100,,"Cocaine dependence, continuous"
+Drug or alcohol misuse,E242200,,"Cocaine dependence, episodic"
+Drug or alcohol misuse,E242300,,Cocaine dependence in remission
+Drug or alcohol misuse,E242z00,,Cocaine drug dependence NOS
+Drug or alcohol misuse,E243.00,,Cannabis type drug dependence
+Drug or alcohol misuse,E243.11,,Hashish dependence
+Drug or alcohol misuse,E243.12,,Hemp dependence
+Drug or alcohol misuse,E243.13,,Marihuana dependence
+Drug or alcohol misuse,E243000,,"Cannabis dependence, unspecified"
+Drug or alcohol misuse,E243100,,"Cannabis dependence, continuous"
+Drug or alcohol misuse,E243200,,"Cannabis dependence, episodic"
+Drug or alcohol misuse,E243300,,Cannabis dependence in remission
+Drug or alcohol misuse,E243z00,,Cannabis drug dependence NOS
+Drug or alcohol misuse,E244.00,,Amphetamine or other psychostimulant dependence
+Drug or alcohol misuse,E244.11,,Psychostimulant dependence
+Drug or alcohol misuse,E244.12,,Stimulant dependence
+Drug or alcohol misuse,E244000,,"Amphetamine or psychostimulant dependence, unspecified"
+Drug or alcohol misuse,E244011,,"Amfetamine or psychostimulant dependence, unspecified"
+Drug or alcohol misuse,E244100,,"Amphetamine or psychostimulant dependence, continuous"
+Drug or alcohol misuse,E244200,,"Amphetamine or psychostimulant dependence, episodic"
+Drug or alcohol misuse,E244300,,Amphetamine or psychostimulant dependence in remission
+Drug or alcohol misuse,E244z00,,Amphetamine or psychostimulant dependence NOS
+Drug or alcohol misuse,E244z11,,Amfetamine or psychostimulant dependence NOS
+Drug or alcohol misuse,E245.00,,Hallucinogen dependence
+Drug or alcohol misuse,E245.11,,LSD dependence
+Drug or alcohol misuse,E245.12,,Lysergic acid diethylamide dependence
+Drug or alcohol misuse,E245000,,"Hallucinogen dependence, unspecified"
+Drug or alcohol misuse,E245100,,"Hallucinogen dependence, continuous"
+Drug or alcohol misuse,E245200,,"Hallucinogen dependence, episodic"
+Drug or alcohol misuse,E245300,,Hallucinogen dependence in remission
+Drug or alcohol misuse,E245z00,,Hallucinogen dependence NOS
+Drug or alcohol misuse,E246.00,,Glue sniffing dependence
+Drug or alcohol misuse,E246000,,"Glue sniffing dependence, unspecified"
+Drug or alcohol misuse,E246100,,"Glue sniffing dependence, continuous"
+Drug or alcohol misuse,E246200,,"Glue sniffing dependence, episodic"
+Drug or alcohol misuse,E246300,,Glue sniffing dependence in remission
+Drug or alcohol misuse,E246z00,,Glue sniffing dependence NOS
+Drug or alcohol misuse,E247.00,,Other specified drug dependence
+Drug or alcohol misuse,E247.11,,Absinthe addiction
+Drug or alcohol misuse,E247000,,"Other specified drug dependence, unspecified"
+Drug or alcohol misuse,E247100,,"Other specified drug dependence, continuous"
+Drug or alcohol misuse,E247200,,"Other specified drug dependence, episodic"
+Drug or alcohol misuse,E247300,,Other specified drug dependence in remission
+Drug or alcohol misuse,E247z00,,Other specified drug dependence NOS
+Drug or alcohol misuse,E248.00,,Combined opioid with other drug dependence
+Drug or alcohol misuse,E248000,,"Combined opioid with other drug dependence, unspecified"
+Drug or alcohol misuse,E248100,,"Combined opioid with other drug dependence, continuous"
+Drug or alcohol misuse,E248200,,"Combined opioid with other drug dependence, episodic"
+Drug or alcohol misuse,E248300,,Combined opioid with other drug dependence in remission
+Drug or alcohol misuse,E248z00,,Combined opioid with other drug dependence NOS
+Drug or alcohol misuse,E249.00,,"Combined drug dependence, excluding opioids"
+Drug or alcohol misuse,E249000,,"Combined drug dependence, excluding opioid, unspecified"
+Drug or alcohol misuse,E249100,,"Combined drug dependence, excluding opioid, continuous"
+Drug or alcohol misuse,E249200,,"Combined drug dependence, excluding opioid, episodic"
+Drug or alcohol misuse,E249300,,"Combined drug dependence, excluding opioid, in remission"
+Drug or alcohol misuse,E249z00,,"Combined drug dependence, excluding opioid, NOS"
+Drug or alcohol misuse,E24A.00,,Ecstasy type drug dependence
+Drug or alcohol misuse,E24z.00,,Drug dependence NOS
+Drug or alcohol misuse,E25..00,,Nondependent abuse of drugs
+Drug or alcohol misuse,E252.00,,Nondependent cannabis abuse
+Drug or alcohol misuse,E252000,,"Nondependent cannabis abuse, unspecified"
+Drug or alcohol misuse,E252100,,"Nondependent cannabis abuse, continuous"
+Drug or alcohol misuse,E252200,,"Nondependent cannabis abuse, episodic"
+Drug or alcohol misuse,E252300,,Nondependent cannabis abuse in remission
+Drug or alcohol misuse,E252z00,,Nondependent cannabis abuse NOS
+Drug or alcohol misuse,E253.00,,Nondependent hallucinogen abuse
+Drug or alcohol misuse,E253.11,,'Bad trips'
+Drug or alcohol misuse,E253.12,,LSD reaction
+Drug or alcohol misuse,E253000,,"Nondependent hallucinogen abuse, unspecified"
+Drug or alcohol misuse,E253100,,"Nondependent hallucinogen abuse, continuous"
+Drug or alcohol misuse,E253200,,"Nondependent hallucinogen abuse, episodic"
+Drug or alcohol misuse,E253300,,Nondependent hallucinogen abuse in remission
+Drug or alcohol misuse,E253z00,,Nondependent hallucinogen abuse NOS
+Drug or alcohol misuse,E254.00,,Nondependent hypnotic or anxiolytic abuse
+Drug or alcohol misuse,E254.11,,Barbiturate abuse
+Drug or alcohol misuse,E254.12,,Hypnotic or anxiolytic abuse
+Drug or alcohol misuse,E254.13,,Sedative abuse
+Drug or alcohol misuse,E254.14,,Tranquilliser abuse
+Drug or alcohol misuse,E254000,,"Nondependent hypnotic or anxiolytic abuse, unspecified"
+Drug or alcohol misuse,E254100,,"Nondependent hypnotic or anxiolytic abuse, continuous"
+Drug or alcohol misuse,E254200,,"Nondependent hypnotic or anxiolytic abuse, episodic"
+Drug or alcohol misuse,E254300,,Nondependent hypnotic or anxiolytic abuse in remission
+Drug or alcohol misuse,E254z00,,Nondependent hypnotic or anxiolytic abuse NOS
+Drug or alcohol misuse,E255.00,,Nondependent opioid abuse
+Drug or alcohol misuse,E255000,,"Nondependent opioid abuse, unspecified"
+Drug or alcohol misuse,E255100,,"Nondependent opioid abuse, continuous"
+Drug or alcohol misuse,E255200,,"Nondependent opioid abuse, episodic"
+Drug or alcohol misuse,E255300,,Nondependent opioid abuse in remission
+Drug or alcohol misuse,E255z00,,Nondependent opioid abuse NOS
+Drug or alcohol misuse,E256.00,,Nondependent cocaine abuse
+Drug or alcohol misuse,E256000,,"Nondependent cocaine abuse, unspecified"
+Drug or alcohol misuse,E256100,,"Nondependent cocaine abuse, continuous"
+Drug or alcohol misuse,E256200,,"Nondependent cocaine abuse, episodic"
+Drug or alcohol misuse,E256300,,Nondependent cocaine abuse in remission
+Drug or alcohol misuse,E256z00,,Nondependent cocaine abuse NOS
+Drug or alcohol misuse,E257.00,,Nondependent amphetamine or other psychostimulant abuse
+Drug or alcohol misuse,E257.11,,Psychostimulant abuse
+Drug or alcohol misuse,E257.12,,Stimulant abuse
+Drug or alcohol misuse,E257000,,"Nondependent amphetamine/psychostimulant abuse, unspecified"
+Drug or alcohol misuse,E257100,,"Nondependent amphetamine/psychostimulant abuse, continuous"
+Drug or alcohol misuse,E257200,,"Nondependent amphetamine or psychostimulant abuse, episodic"
+Drug or alcohol misuse,E257300,,Nondependent amphetamine/psychostimulant abuse in remission
+Drug or alcohol misuse,E257z00,,Nondependent amphetamine or psychostimulant abuse NOS
+Drug or alcohol misuse,E258.00,,Nondependent antidepressant type drug abuse
+Drug or alcohol misuse,E258z00,,Nondependent antidepressant type drug abuse NOS
+Drug or alcohol misuse,E259.00,,Nondependent mixed drug abuse
+Drug or alcohol misuse,E259000,,"Nondependent mixed drug abuse, unspecified"
+Drug or alcohol misuse,E259100,,"Nondependent mixed drug abuse, continuous"
+Drug or alcohol misuse,E259200,,"Nondependent mixed drug abuse, episodic"
+Drug or alcohol misuse,E259300,,Nondependent mixed drug abuse in remission
+Drug or alcohol misuse,E259400,,Misuse of prescription only drugs
+Drug or alcohol misuse,E259z00,,Nondependent mixed drug abuse NOS
+Drug or alcohol misuse,E25y.00,,Nondependent other drug abuse
+Drug or alcohol misuse,E25y.11,,Analgesic abuse
+Drug or alcohol misuse,E25y000,,"Nondependent other drug abuse, unspecified"
+Drug or alcohol misuse,E25y100,,"Nondependent other drug abuse, continuous"
+Drug or alcohol misuse,E25y200,,"Nondependent other drug abuse, episodic"
+Drug or alcohol misuse,E25y300,,Nondependent other drug abuse in remission
+Drug or alcohol misuse,E25yz00,,Nondependent other drug abuse NOS
+Drug or alcohol misuse,E25z.00,,Misuse of drugs NOS
+Drug or alcohol misuse,Eu1..00,,[X]Mental and behavioural disorders due to psychoactive subs
+Drug or alcohol misuse,Eu11.00,,[X]Mental and behavioural disorders due to use of opioids
+Drug or alcohol misuse,Eu11100,,[X]Mental and behav dis due to use of opioids: harmful use
+Drug or alcohol misuse,Eu11200,,[X]Mental and behav dis due to use opioids: dependence syndr
+Drug or alcohol misuse,Eu11211,,[X]Drug addiction - opioids
+Drug or alcohol misuse,Eu11212,,[X]Heroin addiction
+Drug or alcohol misuse,Eu11300,,[X]Mental and behav dis due to use opioids: withdrawal state
+Drug or alcohol misuse,Eu11311,,"[X]Cold turkey, opiate withdrawal"
+Drug or alcohol misuse,Eu11400,,[X]Men & behav dis due opioid: withdrawl state with delirium
+Drug or alcohol misuse,Eu11500,,[X]Mental & behav dis due to use opioids: psychotic disorder
+Drug or alcohol misuse,Eu11600,,[X]Mental and behav dis due to use opioids: amnesic syndrome
+Drug or alcohol misuse,Eu11700,,[X]Men & beh dis due opioids: resid & late-onset psychot dis
+Drug or alcohol misuse,Eu11y00,,[X]Men & behav dis due to use opioids: oth men & behav dis
+Drug or alcohol misuse,Eu11z00,,[X]Ment & behav dis due use opioids: unsp ment & behav dis
+Drug or alcohol misuse,Eu12.00,,[X]Mental and behavioural disorders due to use cannabinoids
+Drug or alcohol misuse,Eu12100,,[X]Mental and behav dis due to use cannabinoids: harmful use
+Drug or alcohol misuse,Eu12200,,[X]Mental and behav dis due to cannabinoids: dependence synd
+Drug or alcohol misuse,Eu12211,,[X]Drug addiction - cannabis
+Drug or alcohol misuse,Eu12300,,[X]Mental and behav dis due cannabinoids: withdrawal state
+Drug or alcohol misuse,Eu12500,,[X]Mental & behav dis due to cannabinoids: psychotic disordr
+Drug or alcohol misuse,Eu12600,,[X]Mental and behav dis due to use cannabinoids: amnesic syn
+Drug or alcohol misuse,Eu12700,,[X]Mnt/bh dis due cannabinds: resid & late-onset psychot dis
+Drug or alcohol misuse,Eu12y00,,[X]Men/behav dis due to use cannabinoids: oth men/behav disd
+Drug or alcohol misuse,Eu12z00,,[X]Ment/behav dis due use cannabinoids: unsp ment/behav disd
+Drug or alcohol misuse,Eu13.00,,[X]Mental and behavioural dis due use sedatives/hypnotics
+Drug or alcohol misuse,Eu13100,,[X]Mental and behav dis due to use seds/hypntcs: harmful use
+Drug or alcohol misuse,Eu13200,,[X]Mental and behav dis due to seds/hypntcs: dependence synd
+Drug or alcohol misuse,Eu13211,,[X]Drug addiction- sedative / hypnotics
+Drug or alcohol misuse,Eu13300,,[X]Mental and behav dis due seds/hypntcs: withdrawal state
+Drug or alcohol misuse,Eu13400,,[X]Men & beh dis due seds/hypns: withdrwl state wth delirium
+Drug or alcohol misuse,Eu13500,,[X]Mental & behav dis due to seds/hypntcs: psychotic disordr
+Drug or alcohol misuse,Eu14.00,,[X]Mental and behavioural disorders due to use of cocaine
+Drug or alcohol misuse,Eu14100,,[X]Mental and behav dis due to use of cocaine: harmful use
+Drug or alcohol misuse,Eu14200,,[X]Mental and behav dis due to use cocaine: dependence syndr
+Drug or alcohol misuse,Eu14211,,[X]Drug addiction - cocaine
+Drug or alcohol misuse,Eu14300,,[X]Mental and behav dis due to use cocaine: withdrawal state
+Drug or alcohol misuse,Eu14500,,[X]Mental & behav dis due to use cocaine: psychotic disorder
+Drug or alcohol misuse,Eu14700,,[X]Men & beh dis due cocaine: resid & late-onset psychot dis
+Drug or alcohol misuse,Eu15.00,,[X]Mental & behav disorder due other stimulants inc caffein
+Drug or alcohol misuse,Eu15100,,[X]Ment/behav dis due to use oth stims inc caff: harmful use
+Drug or alcohol misuse,Eu15200,,[X]Mental and behav dis oth stim inc caffein: dependnce synd
+Drug or alcohol misuse,Eu15211,,[X]Drug addiction-other stimul
+Drug or alcohol misuse,Eu15300,,[X]Mnt/behav dis other stimlnts inc caffeine: withdrwl state
+Drug or alcohol misuse,Eu15500,,[X]Mental/behav dis oth stims inc caffeine: psychotic dis
+Drug or alcohol misuse,Eu15700,,[X]Mnt/bh dis oth stm inc caffne resid/late-onset psycht dis
+Drug or alcohol misuse,Eu15z00,,[X]Ment/beh dis oth stims inc caffeine: unsp ment/behav disd
+Drug or alcohol misuse,Eu16.00,,[X]Mental and behavioural disorders due to use hallucinogens
+Drug or alcohol misuse,Eu16100,,[X]Mental and behav dis due to use hallucinogens: harmfl use
+Drug or alcohol misuse,Eu16200,,[X]Mental and behav dis due to hallucinogens: dependence syn
+Drug or alcohol misuse,Eu16211,,[X]Drug addiction - hallucinogen
+Drug or alcohol misuse,Eu16300,,[X]Mental and behav dis due hallucinogens: withdrawal state
+Drug or alcohol misuse,Eu16500,,[X]Mental & behav dis due to hallucinogens: psychotic disord
+Drug or alcohol misuse,Eu16700,,[X]Mnt/bh dis due hallucngns: resid & late-onset psychot dis
+Drug or alcohol misuse,Eu16711,,[X]Post hallucinogen perception disorder
+Drug or alcohol misuse,Eu16z00,,[X]Ment/behav dis due use hallucinogens: unsp ment/behav dis
+Drug or alcohol misuse,Eu18.00,,[X]Mental & behav disorders due to use of volatile solvents
+Drug or alcohol misuse,Eu18100,,[X]Mental and behav dis due volatile solvents: harmful use
+Drug or alcohol misuse,Eu18200,,[X]Mental and behav dis due to vol solvents: dependence synd
+Drug or alcohol misuse,Eu18211,,[X]Drug addiction - solvent
+Drug or alcohol misuse,Eu18400,,[X]Men & beh dis vol solvents: withdrawal state wth delirium
+Drug or alcohol misuse,Eu18500,,[X]Mental & behav dis due to vol solvents: psychotic disordr
+Drug or alcohol misuse,Eu18z00,,[X]Ment/behav dis due use vol solvents: unsp ment/behav dis
+Drug or alcohol misuse,Eu19.00,,[X]Men & behav disorder multiple drug use/psychoactive subst
+Drug or alcohol misuse,Eu19100,,[X]Mental and behav dis mlti drg/oth psychoa sbs: harmfl use
+Drug or alcohol misuse,Eu19200,,[X]Mental and behav dis mlti/oth psych sbs: dependence syndr
+Drug or alcohol misuse,Eu19211,,[X]Drug addiction NOS
+Drug or alcohol misuse,Eu19300,,[X]Mental and behav dis mlti/oth psychoa sbs: withdrwl state
+Drug or alcohol misuse,Eu19400,,[X]Mnt/bh dis mlti drg use/oth psy sbs: wthdr state + dlrium
+Drug or alcohol misuse,Eu19500,,[X]Ment/behav dis mlti drug use/oth psyc sbs: psychotc dis
+Drug or alcohol misuse,Eu19600,,[X]Mental/behav dis multi drg use/oth psy sbs: amnesic syndr
+Drug or alcohol misuse,Eu19700,,[X]Men/beh dis mlt drg use/oth subs: resid/late psychot dis
+Drug or alcohol misuse,Eu19y00,,[X]Men/beh dis mlt drg use/oth psy sbs: oth men & behav dis
+Drug or alcohol misuse,Eu19z00,,[X]Ment/beh dis multi drug use/oth psy sbs unsp mnt/beh dis
+Drug or alcohol misuse,Eu1A.00,,[X]Mental and behavioural disorders due use of crack cocaine
+Drug or alcohol misuse,Eu1A100,,[X]Mental behav disorders due use crack cocaine: harmful use
+Drug or alcohol misuse,Eu1A200,,[X]Mental behav disorders due use crack cocaine: depend synd
+Drug or alcohol misuse,Eu1A300,,[X]Mental behav disord due crack cocaine: withdrawal state
+Drug or alcohol misuse,Eu1A500,,[X]Mental behav disord due crack cocaine: psychotic disorder
+Drug or alcohol misuse,Eu1Az00,,[X]Ment behav dis due crack cocaine: unsp ment and behav dis
+Drug or alcohol misuse,TJ51.00,,Adverse reaction to methadone
+Drug or alcohol misuse,TJ52100,,Adverse reaction to buprenorphine
+Drug or alcohol misuse,U605012,,[X] Adverse reaction to methadone
+Drug or alcohol misuse,U605015,,[X] Adverse reaction to buprenorphine
+Drug or alcohol misuse,Z1Q6200,,Methadone maintenance
+Drug or alcohol misuse,Z1Q6212,,Methadone therapy
+Drug or alcohol misuse,Z1Q6214,,Heroin maintenance
+Drug or alcohol misuse,Z416.00,,Substance abuse counselling
+Drug or alcohol misuse,ZV6D700,,[V]Drug abuse counselling and surveillance

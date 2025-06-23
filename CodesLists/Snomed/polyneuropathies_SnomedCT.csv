@@ -1,18 +1,61 @@
 Condition,SNOMED_Code,SnomedCTDescriptionId,Term
+polyneuropathies,193125009,883141000006119,Mononeuritis - upper limb
+polyneuropathies,667651000000100,891791000006110,Neuralgia/neurit.-pelvis/thigh
 polyneuropathies,16269008,891861000006112,Neuralgia/neuritis - NOS
+polyneuropathies,667651000000100,891811000006114,Neuralgia/neuritis - fore arm
+polyneuropathies,667651000000100,891801000006111,Neuralgia/neuritis - hand
+polyneuropathies,667651000000100,891781000006112,Neuralgia/neuritis - lower leg
+polyneuropathies,667651000000100,891831000006115,Neuralgia/neuritis - shoulder
+polyneuropathies,667651000000100,891821000006118,Neuralgia/neuritis - upper arm
+polyneuropathies,667651000000100,891771000006114,Neuralgia/neuritis -ankle/foot
+polyneuropathies,667651000000100,891851000006110,Neuralgia/neuritis NOS
+polyneuropathies,620651000000108,883151000006117,Other mononeuritis -lower limb
+polyneuropathies,2177002,1222663014,PHN - Post-herpetic neuralgia
 polyneuropathies,230507009,345410015,Retrobulbar neuritis
 polyneuropathies,66760008,883541000006113,Retrobulbar neuritis
-polyneuropathies,7916009,14103017,Alcoholic polyneuropathy
-polyneuropathies,397751001,712521000006112,Median nerve lesions NOS
-polyneuropathies,30085007,2984161000006113,Morton's metatarsalgia
-polyneuropathies,420918009,3697664014,Type I diabetes mellitus with mononeuropathy
+polyneuropathies,905761000006107,905761000006111,[RFC] Neuralgia
+polyneuropathies,7916009,14103017,alcoholic polyneuropathy
+polyneuropathies,1672021000006104,1672021000006115,axonal sensorimotor neuropathy
+polyneuropathies,201724008,309740011,insulin dependent diab mell with neuropathic arthropathy
+polyneuropathies,230577008,345492010,insulin dependent diabetes mellitus with mononeuropathy
+polyneuropathies,397751001,712521000006112,median nerve lesions nos
+polyneuropathies,193125009,297470010,mononeuritis of upper limb and mononeuritis multiplex
+polyneuropathies,30085007,2984161000006113,morton's metatarsalgia
+polyneuropathies,1724321000006104,1724321000006115,neuropathic foot ulcer
+polyneuropathies,620651000000108,1370521000000114,other mononeuritis lower limb
+polyneuropathies,587991000000106,1304141000000110,peripheral nervous system disorder nos
+polyneuropathies,76462000,2920407018,postherpetic polyneuropathy
+polyneuropathies,420918009,2618199015,type 1 diabetes mellitus with mononeuropathy
+polyneuropathies,713705003,3297342019,type 1 diabetes mellitus with polyneuropathy
+polyneuropathies,420436000,2618201018,type 2 diabetes mellitus with mononeuropathy
+polyneuropathies,420918009,3697664014,type i diabetes mellitus with mononeuropathy
+polyneuropathies,71771000119100,3010513018,type i diabetes mellitus with neuropathic arthropathy
+polyneuropathies,713705003,3297390014,type i diabetes mellitus with polyneuropathy
+polyneuropathies,76462000,126981019,Postherpetic polyneuropathy
 polyneuropathies,31524007,52697011,Mumps polyneuropathy
+polyneuropathies,230572002,345487013,Diabetes mellitus with neuropathy
+polyneuropathies,49455004,82373015,Diabetes mellitus with polyneuropathy
+polyneuropathies,230577008,345492010,Insulin dependent diabetes mellitus with mononeuropathy
+polyneuropathies,420918009,3697664014,Type I diabetes mellitus with mononeuropathy
 polyneuropathies,49455004,82373015,Insulin dependent diabetes mellitus with polyneuropathy
+polyneuropathies,201724008,309740011,Insulin dependent diab mell with neuropathic arthropathy
+polyneuropathies,71771000119100,3010513018,Type I diabetes mellitus with neuropathic arthropathy
+polyneuropathies,71771000119100,3010513018,Type 1 diabetes mellitus with neuropathic arthropathy
+polyneuropathies,420436000,3697667019,Non-insulin dependent diabetes mellitus with mononeuropathy
+polyneuropathies,420436000,3697667019,Type II diabetes mellitus with mononeuropathy
+polyneuropathies,713706002,3297353013,Non-insulin dependent diabetes mellitus with polyneuropathy
+polyneuropathies,713706002,3297353013,Type II diabetes mellitus with polyneuropathy
+polyneuropathies,713706002,3297353013,Type 2 diabetes mellitus with polyneuropathy
+polyneuropathies,314904008,459314010,Non-insulin dependent d m with neuropathic arthropathy
 polyneuropathies,314904008,459312014,Type II diabetes mellitus with neuropathic arthropathy
+polyneuropathies,314904008,459313016,Type 2 diabetes mellitus with neuropathic arthropathy
+polyneuropathies,420918009,2618199015,Type 1 diabetes mellitus with mononeuropathy
+polyneuropathies,713705003,3297342019,Type 1 diabetes mellitus with polyneuropathy
+polyneuropathies,713705003,3297390014,Type I diabetes mellitus with polyneuropathy
+polyneuropathies,420436000,2618201018,Type 2 diabetes mellitus with mononeuropathy
 polyneuropathies,9386003,16455010,Gouty neuritis
-polyneuropathies,42295001,493270014,Familial neuropathic amyloid
-polyneuropathies,9133005,1235651015,Familial amyloid polyneuropathy type III
 polyneuropathies,191471000,294662017,Korsakov's alcoholic psychosis with peripheral neuritis
+polyneuropathies,193125009,297470010,Mononeuritis of upper limb and mononeuritis multiplex
 polyneuropathies,397751001,1777362011,Other median nerve lesions
 polyneuropathies,17689009,29902012,Median nerve neuritis
 polyneuropathies,193129003,297477013,Median nerve compression in forearm
@@ -26,12 +69,12 @@ polyneuropathies,277188003,413630015,Ulnar nerve entrapment
 polyneuropathies,359837005,475273015,Ulnar neuropathy
 polyneuropathies,367475009,492283017,Ulnar nerve lesion NOS
 polyneuropathies,193137006,297488019,Radial nerve lesions
-polyneuropathies,4724003,8879010,Acute radial nerve palsy
 polyneuropathies,193138001,297489010,Sensory branch of radial nerve lesion
 polyneuropathies,193139009,297490018,Posterior interosseous nerve lesion
 polyneuropathies,193137006,297488019,Radial nerve lesion NOS
 polyneuropathies,408751001,2536776010,Causalgia
 polyneuropathies,30292005,50702011,Mononeuritis multiplex
+polyneuropathies,193141005,297492014,Diabetic mononeuritis multiplex
 polyneuropathies,246611002,368388010,Median nerve entrapment
 polyneuropathies,297945000,438534013,Other upper limb mononeuritis
 polyneuropathies,609591000,2967951017,Mononeuritis upper limb NOS
@@ -53,44 +96,41 @@ polyneuropathies,193152004,297504017,Deep peroneal nerve lesion
 polyneuropathies,609592007,2967939019,Other mononeuritis lower limb
 polyneuropathies,609592007,2967939019,Unspecified mononeuritis lower limb
 polyneuropathies,128189008,206412019,Mononeuritis of unspecified site NOS
-polyneuropathies,302226006,443808012,Peripheral neuropathy - hereditary or idiopathic
-polyneuropathies,302226006,443808012,Hereditary and idiopathic peripheral neuropathy
-polyneuropathies,65017003,108062014,Hereditary peripheral neuropathy
+polyneuropathies,193141005,297492014,Diabetic mononeuritis NOS
 polyneuropathies,111499002,187824013,Dejerine-Sottas disease
-polyneuropathies,65017003,108062014,Hereditary peripheral neuropathy NOS
 polyneuropathies,398100001,1777664015,Peroneal muscular atrophy
 polyneuropathies,398100001,3007425011,Charcot-Marie-Tooth disease
 polyneuropathies,398100001,1777664015,Charcot's atrophy
 polyneuropathies,398100001,1777664015,Charcot-Marie-Tooth syndrome
 polyneuropathies,398100001,1777664015,Peroneal muscular atrophy NOS
-polyneuropathies,11442006,19796013,Hereditary sensory neuropathy
 polyneuropathies,25362006,42524012,Refsum's disease
 polyneuropathies,33209009,55426011,Idiopathic progressive polyneuropathy
-polyneuropathies,193165008,297525017,Neuropathy in association with hereditary ataxia
 polyneuropathies,42345000,70659018,Polyneuropathy
 polyneuropathies,302226006,2870944013,Peripheral neuropathy
-polyneuropathies,398100001,1777664015,Hereditary motor and sensory neuropathy
-polyneuropathies,398040009,1786065018,Hereditary motor and sensory neuropathy type I
-polyneuropathies,398187000,1786163010,Hereditary motor and sensory neuropathy type II
-polyneuropathies,111499002,1219655013,Hereditary motor and sensory neuropathy type III
 polyneuropathies,22722001,38139010,Other idiopathic peripheral neuropathy
 polyneuropathies,22722001,38139010,Other idiopathic peripheral neuropathy NOS
-polyneuropathies,128123007,194717012,Hereditary or idiopathic peripheral neuropathy NOS
 polyneuropathies,267601009,399416017,Inflammatory and toxic neuropathy
 polyneuropathies,45600000,76028011,Toxic neuropathy
-polyneuropathies,129131007,207847010,Acute infective polyneuritis
 polyneuropathies,40956001,68321016,Guillain-Barre syndrome
 polyneuropathies,193174005,297537015,Postinfectious polyneuritis
 polyneuropathies,1767005,478396017,Miller-Fisher syndrome
-polyneuropathies,129131007,207847010,Acute infective polyneuritis NOS
 polyneuropathies,193177003,297540015,Polyneuropathy in collagen vascular disease
+polyneuropathies,193178008,297542011,Polyneuropathy in disseminated lupus erythematosus
 polyneuropathies,193179000,297543018,Polyneuropathy in polyarteritis nodosa
+polyneuropathies,193180002,297544012,Polyneuropathy in rheumatoid arthritis
 polyneuropathies,193177003,297540015,Polyneuropathy in collagen vascular disease NOS
+polyneuropathies,49455004,82373015,Polyneuropathy in diabetes
+polyneuropathies,49455004,82373015,Diabetic polyneuropathy
+polyneuropathies,230572002,345486016,Diabetic neuropathy
+polyneuropathies,193184006,297551015,Chronic painful diabetic neuropathy
+polyneuropathies,193185007,297552010,Asymptomatic diabetic neuropathy
+polyneuropathies,77659000,1234144017,Polyneuropathy in malignant disease
 polyneuropathies,193186008,297553017,Polyneuropathy in disease EC
 polyneuropathies,193187004,297554011,Polyneuropathy in amyloidosis
 polyneuropathies,79389008,504101018,Polyneuropathy in beriberi
 polyneuropathies,193188009,297555012,Polyneuropathy in vitamin B deficiency
 polyneuropathies,230596007,345519017,Polyneuropathy in diphtheria
+polyneuropathies,193190005,297557016,Polyneuropathy in herpes zoster
 polyneuropathies,193191009,297558014,Polyneuropathy in hypoglycaemia
 polyneuropathies,31524007,52697011,Polyneuropathy in mumps
 polyneuropathies,129616004,3289854015,Polyneuropathy in porphyria
@@ -108,20 +148,22 @@ polyneuropathies,230657007,345594014,Axonal sensorimotor neuropathy
 polyneuropathies,267601009,399416017,Toxic or inflammatory neuropathy NOS
 polyneuropathies,42345000,70659018,Polyneuropathy unspecified
 polyneuropathies,42658009,71161015,Other specified disorders of peripheral nervous system
+polyneuropathies,230577008,345492010,Diabetic mononeuropathy
 polyneuropathies,42658009,71161015,Peripheral nervous system disorder NOS
+polyneuropathies,77659000,128892013,[X]Paraneoplastic neuromyopathy and neuropathy
 polyneuropathies,397751001,1777362011,[X]Other lesions of median nerve
 polyneuropathies,609591000,2967951017,[X]Other mononeuropathies of upper limb
 polyneuropathies,609592007,2967939019,[X]Other mononeuropathies of lower limb
 polyneuropathies,128189008,206412019,[X]Other specified mononeuropathies
 polyneuropathies,128189008,206412019,[X]Other mononeuropathies in diseases classified elsewhere
 polyneuropathies,42658009,71161015,[X]Polyneuropathies & other disord of peripheral nerv syst
-polyneuropathies,386033004,1480220018,[X]Other hereditary and idiopathic neuropathies
 polyneuropathies,21018002,35332011,[X]Other inflammatory polyneuropathies
 polyneuropathies,42345000,70659018,[X]Other specified polyneuropathies
 polyneuropathies,230571009,345485017,[X]Polyneuropathy/other endocrine+metabolic diseases CE
 polyneuropathies,386033004,1480220018,[X]Polyneuropathy/other musculoskeletal disorders CE
 polyneuropathies,76886005,2966568017,"[X]Inflammatory polyneuropathy, unspecified"
 polyneuropathies,42345000,70659018,"[X] Polyneuropathy, unspecified"
+polyneuropathies,201251005,309179013,Neuropathic diabetic ulcer - foot
 polyneuropathies,59483006,498448012,Neuropathic foot ulcer
 polyneuropathies,67536000,500766011,Neuropathic arthropathy
 polyneuropathies,67536000,500766011,Neuropathic arthritis

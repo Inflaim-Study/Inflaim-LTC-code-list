@@ -125,9 +125,6 @@ Other forms of heart disease,1784061000006118,789621000000105,1765351000000114,8
 Other forms of heart disease,308301000000118,872361000000105,2253411000000117,8CL3,8CL3.00,Discussion about heart failure care plan
 Other forms of heart disease,1746171000000119,781051000000108,1746171000000119,8CMK,8CMK.00,Has heart failure management plan
 Other forms of heart disease,2205951000000116,851521000000102,2205951000000116,8CMW8,8CMW800,Heart failure clinical pathway
-Other forms of heart disease,2549208013,416683003,3082850014,8H2S,8H2S.00,Emergency hospital admission for heart failure
-Other forms of heart disease,2549208013,416683003,3082850014,^ESCTEM689565,,Emergency hospital admission for heart failure
-Other forms of heart disease,2549208013,416683003,3082850014,^ESCT1249006,,Emergency hospital admission for heart failure
 Other forms of heart disease,1484917012,390884006,1484917012,8HBE,8HBE.00,Heart failure follow-up
 Other forms of heart disease,308041000000118,704095000,3011242019,^ESCTRE758634,,Referral to heart failure exercise programme
 Other forms of heart disease,308041000000118,704095000,3011242019,8HHz,8HHz.00,Referral to heart failure exercise programme
@@ -168,7 +165,6 @@ Other forms of heart disease,741681000006111,64715009,107545013,^ESCTHY355252,,H
 Other forms of heart disease,741681000006111,64715009,107545013,^ESCTHY355251,,Hypertensive heart disease NOS with CCF
 Other forms of heart disease,741701000006114,194779001,299672017,G232,G232.00,Hypertensive heart and renal disease with (congestive) heart failure
 Other forms of heart disease,789941000006117,194781004,299674016,G234,G234.00,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure
-Other forms of heart disease,82584011,49584005,82584011,G400,G400.00,Acute cor pulmonale
 Other forms of heart disease,132655012,79955004,132655012,^ESCTCO380029,,Chronic cor pulmonale
 Other forms of heart disease,132655012,79955004,132655012,G41z-1,G41z.11,Chronic cor pulmonale
 Other forms of heart disease,132655012,79955004,132655012,G41z-99,G41z.99,Chronic cor pulmonale
@@ -214,7 +210,6 @@ Other forms of heart disease,490972013,367363000,490972013,G584,G584.00,Right ve
 Other forms of heart disease,490972013,367363000,490972013,G580-3,G580.13,Right ventricular failure
 Other forms of heart disease,510016018,92506005,153058012,^ESCTBI400530,,Biventricular congestive heart failure
 Other forms of heart disease,510016018,92506005,153058012,G580-4,G580.14,Biventricular congestive heart failure
-Other forms of heart disease,18472010,10633002,18472010,G5800,G580000,Acute congestive heart failure
 Other forms of heart disease,147247018,88805009,147247018,G5801,G580100,Chronic congestive heart failure
 Other forms of heart disease,300179017,195111005,300179017,G5802,G580200,Decompensated cardiac failure
 Other forms of heart disease,300180019,195112003,300180019,G5803,G580300,Compensated cardiac failure
@@ -225,20 +220,9 @@ Other forms of heart disease,141306010,85232009,141306010,^ESCTLE388606,,Left ve
 Other forms of heart disease,141306010,85232009,141306010,G581,G581.00,Left ventricular failure
 Other forms of heart disease,1495417010,71892000,119456014,G581-1,G581.11,Cardiac asthma
 Other forms of heart disease,1495417010,71892000,119456014,^ESCTAS366942,,Cardiac asthma
-Other forms of heart disease,1490256017,40541001,492666016,H584,H584.00,Acute pulmonary oedema
-Other forms of heart disease,1490256017,40541001,492666016,G581-2,G581.12,Acute pulmonary oedema
-Other forms of heart disease,1490256017,40541001,492666016,^ESCTPU315273,,Acute pulmonary oedema
-Other forms of heart disease,1490256017,40541001,492666016,^ESCTAC315271,,Acute pulmonary oedema
-Other forms of heart disease,1490256017,40541001,492666016,H584-1,H584.11,Acute pulmonary oedema
-Other forms of heart disease,1490256017,40541001,492666016,H584z,H584z00,Acute pulmonary oedema
-Other forms of heart disease,1490256017,40541001,492666016,^ESCTPU315272,,Acute pulmonary oedema
-Other forms of heart disease,1490256017,40541001,492666016,^ESCTAC315270,,Acute pulmonary oedema
-Other forms of heart disease,1490256017,40541001,492666016,^ESCTAC315269,,Acute pulmonary oedema
 Other forms of heart disease,411506018,275514001,411506018,^ESCTIM557399,,Impaired left ventricular function
 Other forms of heart disease,411506018,275514001,411506018,33BA,33BA.00,Impaired left ventricular function
 Other forms of heart disease,411506018,275514001,411506018,G581-3,G581.13,Impaired left ventricular function
-Other forms of heart disease,300190010,195114002,300190010,G5810,G581000,Acute left ventricular failure
-Other forms of heart disease,94251011,56675007,94251011,G582,G582.00,Acute heart failure
 Other forms of heart disease,1816101000006112,367363000,490972013,G584,G584.00,Right ventricular failure
 Other forms of heart disease,1816101000006112,367363000,490972013,G580-3,G580.13,Right ventricular failure
 Other forms of heart disease,395772015,84114007,139475013,G58z,G58z.00,Heart failure NOS
@@ -261,66 +245,16 @@ Other forms of heart disease,223981000000118,84114007,139482012,G58z-1,G58z.11,C
 Other forms of heart disease,223981000000118,84114007,139482012,G58,G58..00,Cardiac failure NOS
 Other forms of heart disease,216207010,134401001,216207010,G5yy9,G5yy900,Left ventricular systolic dysfunction
 Other forms of heart disease,1489358014,395704004,1489358014,G5yyA,G5yyA00,Left ventricular diastolic dysfunction
-Other forms of heart disease,316833010,206586007,316833010,Q48y1,Q48y100,Congenital cardiac failure
-Other forms of heart disease,412678013,276514007,412678013,^ESCTCA558637,,Neonatal cardiac failure
-Other forms of heart disease,412678013,276514007,412678013,Q490,Q490.00,Neonatal cardiac failure
-Other forms of heart disease,394276014,265472007,394276014,7910,7910.00,Plastic repair of mitral valve
-Other forms of heart disease,394276014,265472007,394276014,7910y,7910y00,Plastic repair of mitral valve
-Other forms of heart disease,394276014,265472007,394276014,7910z,7910z00,Plastic repair of mitral valve
 Other forms of heart disease,1478969019,384642005,1478969019,^ESCTVA642635,,Mitral valvuloplasty
 Other forms of heart disease,1478969019,384642005,1478969019,^ESCTMI642633,,Mitral valvuloplasty
 Other forms of heart disease,1478969019,384642005,1478969019,7910-1,7910.11,Mitral valvuloplasty
 Other forms of heart disease,1478969019,384642005,1478969019,79104,7910400,Mitral valvuloplasty
 Other forms of heart disease,1478969019,384642005,1478969019,^ESCTMV642634,,Mitral valvuloplasty
-Other forms of heart disease,88255012,53059001,88255012,^ESCTMV336037,,Replacement of mitral valve
-Other forms of heart disease,88255012,53059001,88255012,^ESCTEX336036,,Replacement of mitral valve
-Other forms of heart disease,88255012,53059001,88255012,7910-2,7910.12,Replacement of mitral valve
-Other forms of heart disease,88255012,53059001,88255012,79103,7910300,Replacement of mitral valve
-Other forms of heart disease,478011000006110,174918001,270924018,79100,7910000,Allograft replacement of mitral valve
-Other forms of heart disease,478011000006110,174918001,270924018,^ESCTHO466456,,Allograft replacement of mitral valve
-Other forms of heart disease,478011000006110,174918001,270924018,^ESCTAL466457,,Allograft replacement of mitral valve
-Other forms of heart disease,55901000006111,174919009,270925017,79101,7910100,Xenograft replacement of mitral valve
-Other forms of heart disease,55901000006111,174919009,270925017,^ESCTXE466458,,Xenograft replacement of mitral valve
-Other forms of heart disease,55901000006111,174919009,270925017,^ESCTPE466459,,Xenograft replacement of mitral valve
-Other forms of heart disease,204181000006117,431339008,2768408010,79102-4,7910214,Mechanical prosthetic mitral valve replacement
-Other forms of heart disease,204181000006117,431339008,2768408010,79102-3,7910213,Mechanical prosthetic mitral valve replacement
-Other forms of heart disease,204181000006117,431339008,2768408010,79102,7910200,Mechanical prosthetic mitral valve replacement
-Other forms of heart disease,514511000006110,232773001,348739017,79102-1,7910211,Bjork-Shiley prosthetic replacement of mitral valve
-Other forms of heart disease,514511000006110,232773001,348739017,79102-2,7910212,Bjork-Shiley prosthetic replacement of mitral valve
-Other forms of heart disease,348739017,232773001,348739017,79102-1,7910211,Bjork-Shiley prosthetic replacement of mitral valve
-Other forms of heart disease,348739017,232773001,348739017,79102-2,7910212,Bjork-Shiley prosthetic replacement of mitral valve
-Other forms of heart disease,538921000006110,431339008,2768408010,79102-4,7910214,Carpentier prosthetic replacement of mitral valve
-Other forms of heart disease,538921000006110,431339008,2768408010,79102-3,7910213,Carpentier prosthetic replacement of mitral valve
-Other forms of heart disease,538921000006110,431339008,2768408010,79102,7910200,Carpentier prosthetic replacement of mitral valve
-Other forms of heart disease,636731000006119,431339008,2768408010,79102-4,7910214,Edwards prosthetic replacement of mitral valve
-Other forms of heart disease,636731000006119,431339008,2768408010,79102-3,7910213,Edwards prosthetic replacement of mitral valve
-Other forms of heart disease,636731000006119,431339008,2768408010,79102,7910200,Edwards prosthetic replacement of mitral valve
-Other forms of heart disease,270932014,53059001,88255012,^ESCTMV336037,,Replacement of mitral valve NEC
-Other forms of heart disease,270932014,53059001,88255012,^ESCTEX336036,,Replacement of mitral valve NEC
-Other forms of heart disease,270932014,53059001,88255012,7910-2,7910.12,Replacement of mitral valve NEC
-Other forms of heart disease,270932014,53059001,88255012,79103,7910300,Replacement of mitral valve NEC
 Other forms of heart disease,270933016,384642005,1478969019,^ESCTVA642635,,Mitral valvuloplasty NEC
 Other forms of heart disease,270933016,384642005,1478969019,^ESCTMI642633,,Mitral valvuloplasty NEC
 Other forms of heart disease,270933016,384642005,1478969019,7910-1,7910.11,Mitral valvuloplasty NEC
 Other forms of heart disease,270933016,384642005,1478969019,79104,7910400,Mitral valvuloplasty NEC
 Other forms of heart disease,270933016,384642005,1478969019,^ESCTMV642634,,Mitral valvuloplasty NEC
-Other forms of heart disease,465571000000117,384641003,1478968010,79104-1,7910411,Repair of mitral valve
-Other forms of heart disease,465571000000117,384641003,1478968010,^ESCTMV642631,,Repair of mitral valve
-Other forms of heart disease,270934010,265472007,394276014,7910,7910.00,Other specified plastic repair of mitral valve
-Other forms of heart disease,270934010,265472007,394276014,7910y,7910y00,Other specified plastic repair of mitral valve
-Other forms of heart disease,270934010,265472007,394276014,7910z,7910z00,Other specified plastic repair of mitral valve
-Other forms of heart disease,270935011,265472007,394276014,7910,7910.00,Plastic repair of mitral valve NOS
-Other forms of heart disease,270935011,265472007,394276014,7910y,7910y00,Plastic repair of mitral valve NOS
-Other forms of heart disease,270935011,265472007,394276014,7910z,7910z00,Plastic repair of mitral valve NOS
-Other forms of heart disease,394277017,265473002,394277017,7911z,7911z00,Plastic repair of aortic valve
-Other forms of heart disease,394277017,265473002,394277017,7911y,7911y00,Plastic repair of aortic valve
-Other forms of heart disease,394277017,265473002,394277017,7911,7911.00,Plastic repair of aortic valve
-Other forms of heart disease,270944012,174927000,270944012,^ESCTHO466461,,Allograft replacement of aortic valve
-Other forms of heart disease,270944012,174927000,270944012,79110,7911000,Allograft replacement of aortic valve
-Other forms of heart disease,270949019,26212005,43909016,7911-2,7911.12,Replacement of aortic valve NEC
-Other forms of heart disease,270949019,26212005,43909016,79113,7911300,Replacement of aortic valve NEC
-Other forms of heart disease,270949019,26212005,43909016,^ESCTAV291957,,Replacement of aortic valve NEC
-Other forms of heart disease,270949019,26212005,43909016,^ESCTEX291956,,Replacement of aortic valve NEC
 Other forms of heart disease,270950019,112816004,188662011,79114,7911400,Aortic valvuloplasty NEC
 Other forms of heart disease,270950019,112816004,188662011,^ESCTAO421463,,Aortic valvuloplasty NEC
 Other forms of heart disease,270950019,112816004,188662011,^ESCTVA421460,,Aortic valvuloplasty NEC
@@ -328,20 +262,6 @@ Other forms of heart disease,270950019,112816004,188662011,^ESCTRE421462,,Aortic
 Other forms of heart disease,270950019,112816004,188662011,^ESCTAV421464,,Aortic valvuloplasty NEC
 Other forms of heart disease,270950019,112816004,188662011,7911-1,7911.11,Aortic valvuloplasty NEC
 Other forms of heart disease,270950019,112816004,188662011,79114-1,7911411,Aortic valvuloplasty NEC
-Other forms of heart disease,1716111000006113,443887000,2842340013,79115,7911500,Transapical implantation of aortic valve
-Other forms of heart disease,1716111000006113,443887000,2842340013,^ESCTGR728480,,Transapical implantation of aortic valve
-Other forms of heart disease,270951015,265473002,394277017,7911z,7911z00,Other specified plastic repair of aortic valve
-Other forms of heart disease,270951015,265473002,394277017,7911y,7911y00,Other specified plastic repair of aortic valve
-Other forms of heart disease,270951015,265473002,394277017,7911,7911.00,Other specified plastic repair of aortic valve
-Other forms of heart disease,270952010,265473002,394277017,7911z,7911z00,Plastic repair of aortic valve NOS
-Other forms of heart disease,270952010,265473002,394277017,7911y,7911y00,Plastic repair of aortic valve NOS
-Other forms of heart disease,270952010,265473002,394277017,7911,7911.00,Plastic repair of aortic valve NOS
-Other forms of heart disease,394278010,265474008,394278010,7912y,7912y00,Plastic repair of tricuspid valve
-Other forms of heart disease,394278010,265474008,394278010,7912z,7912z00,Plastic repair of tricuspid valve
-Other forms of heart disease,394278010,265474008,394278010,7912,7912.00,Plastic repair of tricuspid valve
-Other forms of heart disease,42309019,25236004,1224851015,^ESCTTV290330,,Replacement of tricuspid valve
-Other forms of heart disease,42309019,25236004,1224851015,79123,7912300,Replacement of tricuspid valve
-Other forms of heart disease,42309019,25236004,1224851015,7912-1,7912.11,Replacement of tricuspid valve
 Other forms of heart disease,2536641017,384643000,2536641017,^ESCTRE642636,,Tricuspid valvuloplasty
 Other forms of heart disease,2536641017,384643000,2536641017,^ESCTTR642639,,Tricuspid valvuloplasty
 Other forms of heart disease,2536641017,384643000,2536641017,79125,7912500,Tricuspid valvuloplasty
@@ -349,17 +269,6 @@ Other forms of heart disease,2536641017,384643000,2536641017,^ESCTTV642638,,Tric
 Other forms of heart disease,2536641017,384643000,2536641017,^ESCTTV642637,,Tricuspid valvuloplasty
 Other forms of heart disease,2536641017,384643000,2536641017,7912-2,7912.12,Tricuspid valvuloplasty
 Other forms of heart disease,2536641017,384643000,2536641017,79125-1,7912511,Tricuspid valvuloplasty
-Other forms of heart disease,478051000006111,174935002,270959018,79120,7912000,Allograft replacement of tricuspid valve
-Other forms of heart disease,478051000006111,174935002,270959018,^ESCTHO466467,,Allograft replacement of tricuspid valve
-Other forms of heart disease,478051000006111,174935002,270959018,^ESCTAL466468,,Allograft replacement of tricuspid valve
-Other forms of heart disease,55921000006118,174936001,270960011,^ESCTXE466469,,Xenograft replacement of tricuspid valve
-Other forms of heart disease,55921000006118,174936001,270960011,^ESCTPE466470,,Xenograft replacement of tricuspid valve
-Other forms of heart disease,55921000006118,174936001,270960011,79121,7912100,Xenograft replacement of tricuspid valve
-Other forms of heart disease,204241000006119,174937005,270962015,^ESCTME466471,,Prosthetic replacement of tricuspid valve
-Other forms of heart disease,204241000006119,174937005,270962015,79122,7912200,Prosthetic replacement of tricuspid valve
-Other forms of heart disease,270963013,25236004,42309019,^ESCTTV290330,,Replacement of tricuspid valve
-Other forms of heart disease,270963013,25236004,42309019,79123,7912300,Replacement of tricuspid valve
-Other forms of heart disease,270963013,25236004,42309019,7912-1,7912.11,Replacement of tricuspid valve
 Other forms of heart disease,270966017,384643000,1478970018,^ESCTRE642636,,Tricuspid valvuloplasty NEC
 Other forms of heart disease,270966017,384643000,1478970018,^ESCTTR642639,,Tricuspid valvuloplasty NEC
 Other forms of heart disease,270966017,384643000,1478970018,79125,7912500,Tricuspid valvuloplasty NEC
@@ -367,21 +276,6 @@ Other forms of heart disease,270966017,384643000,1478970018,^ESCTTV642638,,Tricu
 Other forms of heart disease,270966017,384643000,1478970018,^ESCTTV642637,,Tricuspid valvuloplasty NEC
 Other forms of heart disease,270966017,384643000,1478970018,7912-2,7912.12,Tricuspid valvuloplasty NEC
 Other forms of heart disease,270966017,384643000,1478970018,79125-1,7912511,Tricuspid valvuloplasty NEC
-Other forms of heart disease,465521000000116,384643000,1478970018,^ESCTRE642636,,Tricuspid valve repair NEC
-Other forms of heart disease,465521000000116,384643000,1478970018,^ESCTTR642639,,Tricuspid valve repair NEC
-Other forms of heart disease,465521000000116,384643000,1478970018,79125,7912500,Tricuspid valve repair NEC
-Other forms of heart disease,465521000000116,384643000,1478970018,^ESCTTV642638,,Tricuspid valve repair NEC
-Other forms of heart disease,465521000000116,384643000,1478970018,^ESCTTV642637,,Tricuspid valve repair NEC
-Other forms of heart disease,465521000000116,384643000,1478970018,7912-2,7912.12,Tricuspid valve repair NEC
-Other forms of heart disease,465521000000116,384643000,1478970018,79125-1,7912511,Tricuspid valve repair NEC
-Other forms of heart disease,270967014,265474008,394278010,7912y,7912y00,Other specified plastic repair of tricuspid valve
-Other forms of heart disease,270967014,265474008,394278010,7912z,7912z00,Other specified plastic repair of tricuspid valve
-Other forms of heart disease,270967014,265474008,394278010,7912,7912.00,Other specified plastic repair of tricuspid valve
-Other forms of heart disease,270968016,265474008,394278010,7912y,7912y00,Plastic repair of tricuspid valve NOS
-Other forms of heart disease,270968016,265474008,394278010,7912z,7912z00,Plastic repair of tricuspid valve NOS
-Other forms of heart disease,270968016,265474008,394278010,7912,7912.00,Plastic repair of tricuspid valve NOS
-Other forms of heart disease,270998011,174960002,270998011,79150,7915000,Revision of plastic repair of mitral valve
-Other forms of heart disease,271000016,174962005,271000016,79152,7915200,Revision of plastic repair of tricuspid valve
 Other forms of heart disease,271010013,174967004,271010013,^ESCTOM466490,,Open mitral valvotomy
 Other forms of heart disease,271010013,174967004,271010013,^ESCTOM466491,,Open mitral valvotomy
 Other forms of heart disease,271010013,174967004,271010013,79160,7916000,Open mitral valvotomy

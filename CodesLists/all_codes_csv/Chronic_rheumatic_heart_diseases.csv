@@ -1,32 +1,34 @@
 Condition,MedCode,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
-Chronic rheumatic heart diseases,505828015,83898004,505828015,G11-1,G11..11,Rheumatic mitral valve disease
-Chronic rheumatic heart diseases,1234383014,79619009,1234383014,G110,G110.00,Mitral stenosis
-Chronic rheumatic heart diseases,143386015,86466006,143386015,G110-1,G110.11,Rheumatic mitral stenosis
-Chronic rheumatic heart diseases,52032016,31085000,52032016,G111,G111.00,Rheumatic mitral insufficiency
-Chronic rheumatic heart diseases,1227426018,31085000,1227426018,G111-1,G111.11,Mitral incompetence - rheumatic
-Chronic rheumatic heart diseases,700741000006112,31085000,52030012,G111-2,G111.12,Mitral regurgitation - rheumatic
-Chronic rheumatic heart diseases,299591014,194726006,299591014,G112,G112.00,Mitral stenosis with insufficiency
-Chronic rheumatic heart diseases,299593012,194726006,299593012,G112-2,G112.12,Mitral stenosis with incompetence
-Chronic rheumatic heart diseases,299592019,194726006,299592019,G112-3,G112.13,Mitral stenosis with regurgitation
-Chronic rheumatic heart diseases,20721017,12023003,20721017,G12,G12..00,Rheumatic aortic valve disease
-Chronic rheumatic heart diseases,119660019,72011007,119660019,G120,G120.00,Rheumatic aortic stenosis
-Chronic rheumatic heart diseases,129504017,78031003,129504017,G121,G121.00,Rheumatic aortic insufficiency
-Chronic rheumatic heart diseases,1234202016,78031003,1234202016,G121-1,G121.11,Aortic incompetence - rheumatic
-Chronic rheumatic heart diseases,488451000006114,78031003,129502018,G121-2,G121.12,Aortic regurgitation - rheumatic
-Chronic rheumatic heart diseases,30011012,17759006,30011012,G122,G122.00,Rheumatic aortic stenosis with insufficiency
-Chronic rheumatic heart diseases,299597013,12023003,20718019,G12z,G12z.00,Rheumatic aortic valve disease NOS
-Chronic rheumatic heart diseases,168601000006114,88318005,146419014,G1400,G140000,Rheumatic tricuspid stenosis
-Chronic rheumatic heart diseases,1232960018,67696008,1232960018,G1401,G140100,Rheumatic tricuspid insufficiency
-Chronic rheumatic heart diseases,87501000006118,67696008,1232959011,G1401-1,G140111,Tricuspid regurgitation - rheumatic
-Chronic rheumatic heart diseases,1232958015,67696008,1232958015,G1401-2,G140112,Tricuspid incompetence - rheumatic
-Chronic rheumatic heart diseases,299620010,194741006,299620010,G1402,G140200,Rheumatic tricuspid stenosis and insufficiency
-Chronic rheumatic heart diseases,299619016,194741006,299619016,G1402-X,G14021X,Rheumatic tricuspid stenosis and regurgitation
-Chronic rheumatic heart diseases,299618012,194741006,299618012,G1402-Y,G14021Y,Rheumatic tricuspid stenosis and incompetence
-Chronic rheumatic heart diseases,299624018,49699002,82772011,G140z,G140z00,Rheumatic tricuspid valve disease NOS
-Chronic rheumatic heart diseases,31507017,18687009,31507017,G141,G141.00,Rheumatic pulmonary valve disease
-Chronic rheumatic heart diseases,168541000006110,91442002,151483011,G1410,G141000,Rheumatic pulmonary stenosis
-Chronic rheumatic heart diseases,1228148017,34126003,1228148017,G1411,G141100,Rheumatic pulmonary insufficiency
-Chronic rheumatic heart diseases,1495489016,85971001,1495489016,G1412,G141200,Rheumatic pulmonary stenosis and insufficiency
-Chronic rheumatic heart diseases,299626016,18687009,31504012,G141z,G141z00,Rheumatic pulmonary valve disease NOS
-Chronic rheumatic heart diseases,168651000006113,87648004,145328019,G14z-1,G14z.11,"Rheumatic valvulitis, chronic NOS"
-Chronic rheumatic heart diseases,300864010,12023003,20718019,Gyu11,Gyu1100,[X]Other rheumatic aortic valve diseases
+Chronic rheumatic heart diseases,12726481000006116,639461000000104,1408401000000119,,,rheumatic aortic valve disease nos
+Chronic rheumatic heart diseases,12728231000006120,612101000000109,1353301000000115,,,rheumatic tricuspid valve disease nos
+Chronic rheumatic heart diseases,505828015,83898004,505828015,G11..11,,Rheumatic mitral valve disease
+Chronic rheumatic heart diseases,1234383014,79619009,1234383014,G110.00,,Mitral stenosis
+Chronic rheumatic heart diseases,143386015,86466006,143386015,G110.11,,Rheumatic mitral stenosis
+Chronic rheumatic heart diseases,52032016,31085000,52032016,G111.00,,Rheumatic mitral insufficiency
+Chronic rheumatic heart diseases,1227426018,31085000,1227426018,G111.11,,Mitral incompetence - rheumatic
+Chronic rheumatic heart diseases,700741000006112,31085000,52030012,G111.12,,Mitral regurgitation - rheumatic
+Chronic rheumatic heart diseases,299591014,194726006,299591014,G112.00,,Mitral stenosis with insufficiency
+Chronic rheumatic heart diseases,299593012,194726006,299593012,G112.12,,Mitral stenosis with incompetence
+Chronic rheumatic heart diseases,299592019,194726006,299592019,G112.13,,Mitral stenosis with regurgitation
+Chronic rheumatic heart diseases,20721017,12023003,20721017,G12..00,,Rheumatic aortic valve disease
+Chronic rheumatic heart diseases,119660019,72011007,119660019,G120.00,,Rheumatic aortic stenosis
+Chronic rheumatic heart diseases,129504017,78031003,129504017,G121.00,,Rheumatic aortic insufficiency
+Chronic rheumatic heart diseases,1234202016,78031003,1234202016,G121.11,,Aortic incompetence - rheumatic
+Chronic rheumatic heart diseases,488451000006114,78031003,129502018,G121.12,,Aortic regurgitation - rheumatic
+Chronic rheumatic heart diseases,30011012,17759006,30011012,G122.00,,Rheumatic aortic stenosis with insufficiency
+Chronic rheumatic heart diseases,299597013,12023003,20718019,G12z.00,,Rheumatic aortic valve disease NOS
+Chronic rheumatic heart diseases,168601000006114,88318005,146419014,G140000,,Rheumatic tricuspid stenosis
+Chronic rheumatic heart diseases,1232960018,67696008,1232960018,G140100,,Rheumatic tricuspid insufficiency
+Chronic rheumatic heart diseases,87501000006118,67696008,1232959011,G140111,,Tricuspid regurgitation - rheumatic
+Chronic rheumatic heart diseases,1232958015,67696008,1232958015,G140112,,Tricuspid incompetence - rheumatic
+Chronic rheumatic heart diseases,299620010,194741006,299620010,G140200,,Rheumatic tricuspid stenosis and insufficiency
+Chronic rheumatic heart diseases,299619016,194741006,299619016,G14021X,,Rheumatic tricuspid stenosis and regurgitation
+Chronic rheumatic heart diseases,299618012,194741006,299618012,G14021Y,,Rheumatic tricuspid stenosis and incompetence
+Chronic rheumatic heart diseases,299624018,49699002,82772011,G140z00,,Rheumatic tricuspid valve disease NOS
+Chronic rheumatic heart diseases,31507017,18687009,31507017,G141.00,,Rheumatic pulmonary valve disease
+Chronic rheumatic heart diseases,168541000006110,91442002,151483011,G141000,,Rheumatic pulmonary stenosis
+Chronic rheumatic heart diseases,1228148017,34126003,1228148017,G141100,,Rheumatic pulmonary insufficiency
+Chronic rheumatic heart diseases,1495489016,85971001,1495489016,G141200,,Rheumatic pulmonary stenosis and insufficiency
+Chronic rheumatic heart diseases,299626016,18687009,31504012,G141z00,,Rheumatic pulmonary valve disease NOS
+Chronic rheumatic heart diseases,168651000006113,87648004,145328019,G14z.11,,"Rheumatic valvulitis, chronic NOS"
+Chronic rheumatic heart diseases,300864010,12023003,20718019,Gyu1100,,[X]Other rheumatic aortic valve diseases

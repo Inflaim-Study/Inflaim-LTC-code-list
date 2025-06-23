@@ -25,7 +25,6 @@ Tuberculosis,34267015,20372007,34267015,A1650,A165000,Tuberculosis of prostate
 Tuberculosis,82841000006116,190710003,293128014,A15-2,A15..12,Tuberculous arthritis
 Tuberculosis,1230111017,44572005,1230111017,J5502,J550200,Peritonitis - tuberculous
 Tuberculosis,139628019,84194006,139628019,A1660,A166000,Tuberculous oophoritis
-Tuberculosis,299935013,194949003,299935013,G5206,G520600,Acute myocarditis - tuberculous
 Tuberculosis,83211000006113,186200004,286245015,A1246,A124600,"Tuberculous pleurisy, conf bacteriologically/histologically"
 Tuberculosis,298355010,193787009,298355010,F4A55,F4A5500,Keratitis due to tuberculosis
 Tuberculosis,2549441013,416903004,2549441013,A134,A134.00,Tuberculoma of spinal cord
@@ -49,7 +48,6 @@ Tuberculosis,127902015,77038006,127902015,A172,A172.00,Tuberculosis of periphera
 Tuberculosis,239551014,154283005,239551014,A11,A11..00,Pulmonary tuberculosis
 Tuberculosis,74349016,44572005,74349016,A140,A140.00,Tuberculous peritonitis
 Tuberculosis,406201015,271423008,406201015,A170,A170.00,Tuberculosis of skin and subcutaneous tissue
-Tuberculosis,299883012,194908003,299883012,G5003-1,G500311,TB - acute pericarditis
 Tuberculosis,311913013,203264000,311913013,N3041,N304100,Tuberculosis of thoracic spine
 Tuberculosis,296922015,192745001,296922015,F0406,F040600,Tuberculous intracranial abscess
 Tuberculosis,82791000006119,74610006,123913018,A171,A171.00,Tuberculosis with erythema nodosum hypersensitivity reaction
@@ -111,11 +109,9 @@ Tuberculosis,641081000006113,91483004,151549019,F0333,F033300,Encephalitis due t
 Tuberculosis,89091000006114,186204008,286249014,A1251,A125100,Tuberculosis lung bact and histological examin not done
 Tuberculosis,49747014,29731002,49747014,A117,A117.00,Tuberculous pneumothorax
 Tuberculosis,311926012,38279006,64066010,N3060,N306000,"Tuberculosis of bone, site unspecified"
-Tuberculosis,286332017,186276006,286332017,A180,A180.00,Acute miliary tuberculosis
 Tuberculosis,156441000006115,54084005,496856013,A1720-1,A172011,Scrofula - tuberculous cervical lymph nodes
 Tuberculosis,301563019,196017002,301563019,H450,H450.00,Pneumoconiosis associated with tuberculosis
 Tuberculosis,2533971018,414940009,2533971018,65Y1,65Y1.00,On tuberculosis chemoprophylaxis
-Tuberculosis,286333010,186276006,286332017,A1800,A180000,Acute miliary tuberculosis of a single specified site
 Tuberculosis,286289015,240379005,360083014,A165,A165.00,Tuberculosis of other male genital organs
 Tuberculosis,286265010,186220003,286265010,A136,A136.00,Tuberculous encephalitis or myelitis
 Tuberculosis,151549019,91483004,151549019,F0333-1,F033311,Tuberculous encephalitis
@@ -128,7 +124,6 @@ Tuberculosis,264412013,170525009,264412013,65V9,65V9.00,Notification of tubercul
 Tuberculosis,131348017,79158003,131348017,A1732,A173200,Tuberculous interstitial keratitis
 Tuberculosis,286317012,186263000,286317012,A1730,A173000,Tuberculous chorioretinitis
 Tuberculosis,82911000006110,91483004,151549019,A1360,A136000,Tuberculous encephalitis
-Tuberculosis,62169019,37260006,62169019,Q4024,Q402400,Congenital tuberculosis
 Tuberculosis,286285014,44323002,3320160019,A1600,A160000,Tuberculous nephropathy
 Tuberculosis,287960015,187253003,287960015,AE01,AE01.00,Late effects of central nervous system tuberculosis
 Tuberculosis,175141000006119,186202007,286247011,A125X,A125X00,"Resp TB unspcf,w'out mention/bacterial or histol confrmtn"
@@ -169,10 +164,8 @@ Tuberculosis,89011000006116,10528009,18298019,A1701,A170100,Tuberculosis - lupus
 Tuberculosis,2533741015,413852006,2533741015,65Y8,65Y8.00,Ciprofloxacin resistant tuberculosis
 Tuberculosis,311928013,203279007,311928013,N3062,N306200,Tuberculosis of the bones of the hand
 Tuberculosis,311925011,38279006,64066010,N306,N306.00,Tuberculosis of other bones
-Tuberculosis,286334016,186278007,286334016,A1801,A180100,Acute miliary tuberculosis of multiple sites
 Tuberculosis,2533738012,414546009,2533738012,65Y5,65Y5.00,Isoniazid resistant tuberculosis
 Tuberculosis,311917014,203267007,311916017,N3050,N305000,Tuberculosis of unspecified limb bone
-Tuberculosis,299882019,194908003,299882019,G5003,G500300,Acute pericarditis - tuberculous
 Tuberculosis,73938014,44323002,73938014,A160,A160.00,Tuberculosis of kidney
 Tuberculosis,82550012,49558004,82550012,A1661,A166100,Tuberculous salpingitis
 Tuberculosis,311922014,203267007,311916017,N3055,N305500,Tuberculosis of other limb bones

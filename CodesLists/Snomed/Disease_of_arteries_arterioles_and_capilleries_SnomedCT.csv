@@ -1,53 +1,14 @@
 Condition,SNOMED_Code,SnomedCTDescriptionId,Term
 "Disease of arteries, arterioles and capilleries",161514008,251699010,H/O: aortic aneurysm
 "Disease of arteries, arterioles and capilleries",707265005,3029507018,Aortic aneurysm monitoring
-"Disease of arteries, arterioles and capilleries",175282008,271419016,Replacement of aneurysmal bifurcation of aorta
-"Disease of arteries, arterioles and capilleries",175283003,271421014,Emergency replacement of aneurysmal bifurcation of aorta by anastomosis of aorta to femoral artery
-"Disease of arteries, arterioles and capilleries",175284009,271422019,Replacement of aneurysmal bifurcation of aorta by anastomosis of aorta to femoral artery
-"Disease of arteries, arterioles and capilleries",265492000,394302013,Emergency replacement of aneurysmal bifurcation of aorta by anastomosis of aorta to iliac artery
-"Disease of arteries, arterioles and capilleries",233374003,2669093011,Y graft of abdominal aortic aneurysm - emergency
-"Disease of arteries, arterioles and capilleries",265493005,394303015,Replacement of aneurysmal bifurcation of aorta by anastomosis of aorta to iliac artery
-"Disease of arteries, arterioles and capilleries",275037003,410960011,Y graft abdominal Aortic aneurysm
-"Disease of arteries, arterioles and capilleries",175282008,271419016,Replacement of aneurysmal bifurcation of aorta OS
-"Disease of arteries, arterioles and capilleries",175282008,271419016,Replacement of aneurysmal bifurcation of aorta NOS
-"Disease of arteries, arterioles and capilleries",175297006,271446014,Emergency replacement of aneurysmal segment of aorta
-"Disease of arteries, arterioles and capilleries",175297006,271447017,Emergency repair of aortic aneurysm
-"Disease of arteries, arterioles and capilleries",175298001,271448010,Emergency replacement of aneurysmal segment of ascending aorta by anastomosis of aorta to aorta
-"Disease of arteries, arterioles and capilleries",175299009,271449019,Emergency replacement of aneurysmal segment of thoracic aorta by anastomosis of aorta to aorta
-"Disease of arteries, arterioles and capilleries",175301002,271451015,Emergency replacement of aneurysmal segment of infrarenal abdominal aorta by anastomosis of aorta to aorta
 "Disease of arteries, arterioles and capilleries",123679006,192168019,Emerg replace aneurysm abdom aorta by anast aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",233377005,2669005014,Tube graft abdominal aortic aneurysm - emergency
-"Disease of arteries, arterioles and capilleries",175297006,271446014,Emergency replacement of aneurysmal segment of aorta OS
-"Disease of arteries, arterioles and capilleries",175297006,271446014,Emergency replacement of aneurysmal segment of aorta NOS
-"Disease of arteries, arterioles and capilleries",233370007,349678018,Other replacement of aneurysmal segment of aorta
-"Disease of arteries, arterioles and capilleries",233370007,349678018,Aortic aneurysm repair
 "Disease of arteries, arterioles and capilleries",116360008,183983017,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
 "Disease of arteries, arterioles and capilleries",116360008,183983017,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
 "Disease of arteries, arterioles and capilleries",116360008,183983017,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
 "Disease of arteries, arterioles and capilleries",116360008,183983017,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
 "Disease of arteries, arterioles and capilleries",448122008,2899751014,Replace aneurysm abdominal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",233376001,349693019,Tube graft of Abdominal aortic aneurysm
-"Disease of arteries, arterioles and capilleries",450682002,2915571016,Other replacement of aneurysmal segment of aorta OS
-"Disease of arteries, arterioles and capilleries",450682002,2915571016,Other replacement of aneurysmal segment of aorta NOS
-"Disease of arteries, arterioles and capilleries",448122008,2899751014,Emerg bypass abdominal aorta by anastom aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",32907006,54921017,Operation on aneurysm of aorta NEC
-"Disease of arteries, arterioles and capilleries",265499009,394309016,Transluminal operations on aneurysmal segment of aorta
-"Disease of arteries, arterioles and capilleries",441612006,2816827015,Repair of infrarenal abdominal aortic aneurysm with insertion of endovascular stent
-"Disease of arteries, arterioles and capilleries",378481000000107,745431000000115,Repair of suprarenal abdominal aortic aneurysm with insertion of endovascular stent
-"Disease of arteries, arterioles and capilleries",378491000000109,745451000000110,Repair of thoracic aortic aneurysm with insertion of endovascular stent
 "Disease of arteries, arterioles and capilleries",307701005,451048019,Abdominal aortic aneurysm stenting
-"Disease of arteries, arterioles and capilleries",441612006,1650871000000115,Endovascular insertion of stent for infrarenal abdominal aortic aneurysm
-"Disease of arteries, arterioles and capilleries",378481000000107,745431000000115,Endovascular insertion of stent for suprarenal aortic aneurysm
-"Disease of arteries, arterioles and capilleries",378491000000109,745471000000118,Endovascular insertion of stent for thoracic aortic aneurysm
 "Disease of arteries, arterioles and capilleries",307701005,451048019,Endovas insert stent for aortic aneurysm of bifurcation NEC
-"Disease of arteries, arterioles and capilleries",265499009,394309016,Transluminal operations on aneurysmal segment of aorta NOS
-"Disease of arteries, arterioles and capilleries",281261000000105,483781000000113,Transluminal insertion of stent graft for aneurysmal segment of aorta
-"Disease of arteries, arterioles and capilleries",428809009,2695287013,Repair of aorto-uniiliac aneurysm with insertion of endovascular stent graft
-"Disease of arteries, arterioles and capilleries",281281000000101,483821000000117,Endovascular insertion of stent graft for suprarenal aortic aneurysm
-"Disease of arteries, arterioles and capilleries",429679003,2695281014,Repair of thoracic aortic aneurysm with insertion of endovascular stent graft
-"Disease of arteries, arterioles and capilleries",233404000,349735017,OS translum ins stent graft for aneurysmal segment of aorta
-"Disease of arteries, arterioles and capilleries",233404000,349735017,Translum ins stent graft for aneurysmal segment of aorta NOS
-"Disease of arteries, arterioles and capilleries",392242000,1486224017,Operation on aneurysm visceral branch of abdominal aorta NEC
 "Disease of arteries, arterioles and capilleries",12232008,470121011,Syphilitic aortic aneurysm
 "Disease of arteries, arterioles and capilleries",67362008,111949011,Aortic aneurysm
 "Disease of arteries, arterioles and capilleries",308546005,2536174018,Dissecting aortic aneurysm
@@ -74,145 +35,31 @@ Condition,SNOMED_Code,SnomedCTDescriptionId,Term
 "Disease of arteries, arterioles and capilleries",67362008,111949011,"[X]Aortic aneurysm of unspecified site, nonruptured"
 "Disease of arteries, arterioles and capilleries",67362008,111949011,[X]Aneurysm of aorta in diseases classified elsewhere
 "Disease of arteries, arterioles and capilleries",863401000000101,2232441000000112,H/O: arterial lower limb ulcer
-"Disease of arteries, arterioles and capilleries",308071004,451376017,H/O: Peripheral vascular disease procedure
 "Disease of arteries, arterioles and capilleries",307408003,450665015,Ischaemic toe
 "Disease of arteries, arterioles and capilleries",134379001,216185010,Peripheral vascular disease monitoring
-"Disease of arteries, arterioles and capilleries",175276005,271413015,Emergency bypass of aorta by anastomosis of axillary artery to femoral artery
-"Disease of arteries, arterioles and capilleries",233379008,349697018,Bypass aorta by anastomosis axillary to femoral artery NEC
-"Disease of arteries, arterioles and capilleries",388997005,1493587018,Axillofemoral bypass graft
-"Disease of arteries, arterioles and capilleries",175279003,271416011,Axillo-unifemoral PTFE bypass graft
-"Disease of arteries, arterioles and capilleries",233373009,349683014,Other bypass of bifurcation of aorta
-"Disease of arteries, arterioles and capilleries",175290008,271432014,Emergency bypass of bifurcation of aorta by anastomosis of aorta to femoral artery
-"Disease of arteries, arterioles and capilleries",448171003,2900875010,Bypass of bifurcation of aorta by anastomosis of aorta to femoral artery
-"Disease of arteries, arterioles and capilleries",233373009,349688017,Aortic bifurcation bypass graft
-"Disease of arteries, arterioles and capilleries",275038008,410961010,Dacron aortofemoral Y graft
-"Disease of arteries, arterioles and capilleries",265495003,394305010,Bypass of bifurcation of aorta by anastomosis of aorta to iliac artery
-"Disease of arteries, arterioles and capilleries",265495003,394305010,Aorto biiliac graft
-"Disease of arteries, arterioles and capilleries",275039000,410962015,Dacron aortoiliac Y graft
-"Disease of arteries, arterioles and capilleries",233373009,349683014,Other specified other bypass of bifurcation of aorta
-"Disease of arteries, arterioles and capilleries",233373009,349683014,Other bypass of bifurcation of aorta NOS
 "Disease of arteries, arterioles and capilleries",175348000,271509013,Open embolectomy of bifurcation of aorta
-"Disease of arteries, arterioles and capilleries",405477007,2157280014,Iliac artery bypass
-"Disease of arteries, arterioles and capilleries",51018000,85012019,Emerg bypass iliac art by iliac/femoral art anastomosis NEC
-"Disease of arteries, arterioles and capilleries",51018000,1780391000000113,Bypass of iliac artery by anastomosis of iliac artery to femoral artery
-"Disease of arteries, arterioles and capilleries",233380006,349698011,Emerg bypass iliac artery by femoral/femoral art anast NEC
-"Disease of arteries, arterioles and capilleries",275040003,410963013,Emergency femoro-femoral prosthetic cross over graft
-"Disease of arteries, arterioles and capilleries",233380006,349698011,Bypass iliac artery by femoral/femoral art anastomosis NEC
-"Disease of arteries, arterioles and capilleries",175685004,272001019,Femoro-femoral prosthetic cross over graft
-"Disease of arteries, arterioles and capilleries",116360008,183983017,Emerg bypass comm iliac art by aorta/com iliac art anast NEC
-"Disease of arteries, arterioles and capilleries",116360008,183983017,Emerg bypass leg artery by aorta/com fem art anastomosis NEC
-"Disease of arteries, arterioles and capilleries",116360008,183983017,Bypass common iliac artery by aorta/com iliac art anast NEC
-"Disease of arteries, arterioles and capilleries",116360008,183983017,Bypass leg artery by aorta/com femoral art anastomosis NEC
-"Disease of arteries, arterioles and capilleries",405482000,2157285016,Bypass leg artery by aorta/deep femoral art anastomosis NEC
-"Disease of arteries, arterioles and capilleries",175594003,271866014,Ilio-femoral prosthetic cross over graft
-"Disease of arteries, arterioles and capilleries",116360008,183983017,Other specified other bypass of iliac artery
-"Disease of arteries, arterioles and capilleries",116360008,183983017,Other bypass of iliac artery NOS
-"Disease of arteries, arterioles and capilleries",265516003,394326010,Reconstruction of iliac artery
-"Disease of arteries, arterioles and capilleries",233345007,349652010,Reconstruction of common iliac artery
-"Disease of arteries, arterioles and capilleries",265517007,394327018,Endarterectomy of iliac artery and patch repair of iliac artery
-"Disease of arteries, arterioles and capilleries",275041004,410964019,Endarterectomy and patch repair of common iliac artery
 "Disease of arteries, arterioles and capilleries",265517007,394328011,Iliac endarterectomy and patch
 "Disease of arteries, arterioles and capilleries",307800001,451173017,Endarterectomy of iliac artery
 "Disease of arteries, arterioles and capilleries",233304004,349571019,Endarterectomy of common iliac artery
-"Disease of arteries, arterioles and capilleries",265516003,394326010,Other specified reconstruction of iliac artery
-"Disease of arteries, arterioles and capilleries",265516003,394326010,Reconstruction of iliac artery NOS
-"Disease of arteries, arterioles and capilleries",265511008,394321017,Other open operations on iliac artery
-"Disease of arteries, arterioles and capilleries",265511008,394321017,Other open operations on common iliac artery
-"Disease of arteries, arterioles and capilleries",450703003,2916807015,Repair of iliac artery
-"Disease of arteries, arterioles and capilleries",450704009,2916913013,Repair of common iliac artery
 "Disease of arteries, arterioles and capilleries",265521000,394332017,Open embolectomy of iliac artery
 "Disease of arteries, arterioles and capilleries",275254000,411214011,Open embolectomy of common iliac artery
-"Disease of arteries, arterioles and capilleries",312226000,455900010,Open insertion of iliac artery stent
 "Disease of arteries, arterioles and capilleries",175612005,271900018,Percutaneous transluminal angioplasty of iliac artery
 "Disease of arteries, arterioles and capilleries",175613000,271901019,Percutaneous transluminal embolectomy of iliac artery
-"Disease of arteries, arterioles and capilleries",175615007,271905011,Insertion of iliac artery stent
-"Disease of arteries, arterioles and capilleries",312227009,455901014,Percutaneous transluminal insertion of iliac artery stent
-"Disease of arteries, arterioles and capilleries",265522007,394333010,Other specified transluminal operation on iliac artery
-"Disease of arteries, arterioles and capilleries",265522007,394333010,Transluminal operation on iliac artery NOS
-"Disease of arteries, arterioles and capilleries",405516005,2157318011,Other emergency bypass of femoral artery or popliteal artery
-"Disease of arteries, arterioles and capilleries",116360008,183983017,Other emerg bypass femoral or popliteal art by anastomosis
-"Disease of arteries, arterioles and capilleries",116360008,183983017,Other emergency bypass of deep femoral artery
-"Disease of arteries, arterioles and capilleries",116360008,183983017,Other emergency bypass of popliteal artery
-"Disease of arteries, arterioles and capilleries",116360008,183983017,Other emergency bypass of superficial femoral artery
-"Disease of arteries, arterioles and capilleries",405463009,2157266019,Other emergency bypass of femoral artery
-"Disease of arteries, arterioles and capilleries",112828007,184069011,Emerg bypass femoral art by fem/pop art anast c prosth NEC
-"Disease of arteries, arterioles and capilleries",233384002,349710011,Emerg bypass popliteal art by pop/pop art anast c prosth NEC
-"Disease of arteries, arterioles and capilleries",112828007,184069011,Emerg bypass femoral art by fem/pop a anast c vein graft NEC
-"Disease of arteries, arterioles and capilleries",233384002,349710011,Emerg bypass pop art by pop/pop art anast c vein graft NEC
-"Disease of arteries, arterioles and capilleries",233383008,349706013,Emerg bypass femoral art by fem/tib art anast c prosth NEC
-"Disease of arteries, arterioles and capilleries",233383008,349706013,Emerg bypass femoral art by fem/tib a anast c vein graft NEC
-"Disease of arteries, arterioles and capilleries",233384002,349710011,Emerg bypass pop art by pop/tib art anast c vein graft NEC
-"Disease of arteries, arterioles and capilleries",233384002,349710011,Emerg bypass pop art by pop/peron art anast c vein graft NEC
-"Disease of arteries, arterioles and capilleries",116360008,183983017,Emerg bypass femoral artery by fem/fem art anastomosis NEC
-"Disease of arteries, arterioles and capilleries",116360008,183983017,Emerg bypass popliteal artery by pop/fem art anastomosis NEC
-"Disease of arteries, arterioles and capilleries",405516005,2157318011,Other emergency bypass of femoral or popliteal artery OS
-"Disease of arteries, arterioles and capilleries",116360008,183983017,Other emergency bypass of femoral or popliteal artery NOS
-"Disease of arteries, arterioles and capilleries",405469008,2157272019,Arterial bypass of lower limb artery
-"Disease of arteries, arterioles and capilleries",405516005,2157318011,Other bypass of femoral or popliteal artery by anastomosis
-"Disease of arteries, arterioles and capilleries",405463009,2157266019,Other bypass of common femoral artery
-"Disease of arteries, arterioles and capilleries",405463009,2157266019,Femoral artery bypass
-"Disease of arteries, arterioles and capilleries",233384002,349710011,Popliteal-distal bypass
-"Disease of arteries, arterioles and capilleries",405463009,2157266019,Other bypass of superficial femoral artery
-"Disease of arteries, arterioles and capilleries",312688006,1780381000000111,Bypass of femoral artery by anastomosis of femoral artery to popliteal artery using prosthesis
-"Disease of arteries, arterioles and capilleries",233384002,349710011,Bypass popliteal artery by pop/pop a anast c prosthesis NEC
-"Disease of arteries, arterioles and capilleries",50807007,1780371000000114,Bypass of femoral artery by anastomosis of femoral artery to popliteal artery using vein graft
-"Disease of arteries, arterioles and capilleries",233384002,349710011,Bypass popliteal artery by pop/pop a anast c vein graft NEC
-"Disease of arteries, arterioles and capilleries",233383008,349706013,Bypass femoral artery by fem/tib art anast c prosthesis NEC
-"Disease of arteries, arterioles and capilleries",233384002,349710011,Bypass popliteal artery by pop/tib a anast c prosthesis NEC
-"Disease of arteries, arterioles and capilleries",448529008,2899845012,Bypass of femoral artery by anastomosis of femoral artery to tibial artery using vein graft
-"Disease of arteries, arterioles and capilleries",233384002,349710011,Bypass popliteal artery by pop/tib a anast c vein graft NEC
-"Disease of arteries, arterioles and capilleries",233383008,349706013,Bypass femoral artery by fem/peron a anast c prosthesis NEC
-"Disease of arteries, arterioles and capilleries",448323005,2901040016,Bypass of femoral artery by anastomosis of femoral artery to peroneal artery using vein graft
-"Disease of arteries, arterioles and capilleries",233384002,349710011,Bypass popliteal art by pop/peron art anast c vein graft NEC
-"Disease of arteries, arterioles and capilleries",44662004,74498014,Femoral-femoral artery vascular bypass
-"Disease of arteries, arterioles and capilleries",112828007,184069011,Bypass popliteal artery by pop/fem artery anastomosis NEC
-"Disease of arteries, arterioles and capilleries",175685004,272001019,Femorofemoral prosthetic crossover graft
-"Disease of arteries, arterioles and capilleries",405469008,2157272019,Other bypass of femoral artery or popliteal artery OS
-"Disease of arteries, arterioles and capilleries",405469008,2157272019,Other bypass of femoral artery or popliteal artery NOS
-"Disease of arteries, arterioles and capilleries",265528006,394340011,Reconstruction of femoral artery or popliteal artery
-"Disease of arteries, arterioles and capilleries",275053000,410976019,Reconstruction of common femoral artery
-"Disease of arteries, arterioles and capilleries",275054006,410977011,Reconstruction of femoral artery
-"Disease of arteries, arterioles and capilleries",275051003,410974016,Reconstruction of popliteal artery
-"Disease of arteries, arterioles and capilleries",275145005,411078012,Reconstruction of superficial femoral artery
-"Disease of arteries, arterioles and capilleries",175689005,272011014,Endarterectomy of femoral artery and patch repair of femoral artery
-"Disease of arteries, arterioles and capilleries",175690001,272012019,Endarterectomy of popliteal artery and patch repair of popliteal artery
 "Disease of arteries, arterioles and capilleries",16589005,28064017,Femoral endarterectomy
 "Disease of arteries, arterioles and capilleries",233310004,349583017,Endarterectomy of popliteal artery
-"Disease of arteries, arterioles and capilleries",175693004,272015017,Profundoplasty of femoral artery and patch repair of deep femoral artery
-"Disease of arteries, arterioles and capilleries",175694005,272016016,Profundoplasty of popliteal artery and patch repair of popliteal artery
 "Disease of arteries, arterioles and capilleries",405376002,2157187018,Profundoplasty of femoral artery NEC
 "Disease of arteries, arterioles and capilleries",405376002,2157187018,Profundoplasty of popliteal artery NEC
-"Disease of arteries, arterioles and capilleries",175697003,272019011,Reconstruction of femoral artery with vein graft
-"Disease of arteries, arterioles and capilleries",175698008,272020017,Reconstruction of popliteal artery with vein graft
-"Disease of arteries, arterioles and capilleries",265528006,394340011,Reconstruction of femoral or popliteal artery OS
-"Disease of arteries, arterioles and capilleries",265528006,394340011,Reconstruction of femoral or popliteal artery NOS
-"Disease of arteries, arterioles and capilleries",118805000,183489012,Other open operations on femoral artery or popliteal artery
-"Disease of arteries, arterioles and capilleries",118805000,183489012,Other open operations on common femoral artery
-"Disease of arteries, arterioles and capilleries",118805000,183489012,Other open operations on popliteal artery
-"Disease of arteries, arterioles and capilleries",118805000,183489012,Other open operations on superficial femoral artery
-"Disease of arteries, arterioles and capilleries",265528006,394340011,Repair of femoral artery NEC
-"Disease of arteries, arterioles and capilleries",405375003,2157186010,Repair of popliteal artery
 "Disease of arteries, arterioles and capilleries",175704008,272031013,Open embolectomy of femoral artery
 "Disease of arteries, arterioles and capilleries",175704008,272032018,Open thrombectomy of femoral artery
 "Disease of arteries, arterioles and capilleries",175704008,272033011,Open femoral embolectomy
 "Disease of arteries, arterioles and capilleries",175705009,272035016,Open embolectomy popliteal artery
 "Disease of arteries, arterioles and capilleries",175705009,272034017,Open thrombectomy of popliteal artery
-"Disease of arteries, arterioles and capilleries",175710008,272041011,Repair of femoral artery with temporary silastic shunt
-"Disease of arteries, arterioles and capilleries",175711007,272042016,Repair of popliteal artery with temporary silastic shunt
-"Disease of arteries, arterioles and capilleries",118805000,183489012,Other open operation on femoral or popliteal artery OS
 "Disease of arteries, arterioles and capilleries",175715003,272052017,Percutaneous transluminal angioplasty of femoral artery
 "Disease of arteries, arterioles and capilleries",175716002,272053010,Percutaneous angioplasty of popliteal artery
 "Disease of arteries, arterioles and capilleries",175717006,272055015,Percutaneous transluminal embolectomy of femoral artery
 "Disease of arteries, arterioles and capilleries",175718001,272056019,Percutaneous transluminal embolectomy of popliteal artery
 "Disease of arteries, arterioles and capilleries",175719009,272059014,Percutaneous transluminal embolisation of femoral artery
 "Disease of arteries, arterioles and capilleries",175720003,272061017,Percutaneous transluminal embolisation of popliteal artery
-"Disease of arteries, arterioles and capilleries",309449009,452880015,Percutaneous transluminal thrombolysis of femoral graft using streptokinase
-"Disease of arteries, arterioles and capilleries",426093007,2675938013,Percutaneous transluminal insertion of stent into femoral artery
-"Disease of arteries, arterioles and capilleries",175729002,272074011,Revision of reconstruction of artery
-"Disease of arteries, arterioles and capilleries",175730007,272075012,Revision of reconstruction involving aorta
-"Disease of arteries, arterioles and capilleries",175731006,272076013,Revision of reconstruction involving iliac artery
-"Disease of arteries, arterioles and capilleries",175732004,272077016,Revision of reconstruction involving femoral artery
-"Disease of arteries, arterioles and capilleries",175733009,272078014,Revision of reconstruction of popliteal artery
 "Disease of arteries, arterioles and capilleries",186423003,286570019,Gas gangrene-foot
 "Disease of arteries, arterioles and capilleries",421895002,3688501014,Peripheral vascular disorder due to diabetes mellitus
 "Disease of arteries, arterioles and capilleries",422275004,2616612015,Diabetes mellitus with gangrene

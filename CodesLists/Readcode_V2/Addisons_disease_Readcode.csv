@@ -1,13 +1,4 @@
 Condition,ReadCode,CleansedReadCode,Term
-Addison's disease,^ESCTEX301392,,Excision of adrenal gland operations
-Addison's disease,71222,7122200,Excision of adrenal gland operations
-Addison's disease,7122y,7122y00,Excision of adrenal gland operations
-Addison's disease,7122z,7122z00,Excision of adrenal gland operations
-Addison's disease,7122-1,7122.11,Excision of adrenal gland operations
-Addison's disease,7122,7122.00,Excision of adrenal gland operations
-Addison's disease,7122-98,7122.98,Excision of adrenal gland operations
-Addison's disease,7122-99,7122.99,Excision of adrenal gland operations
-Addison's disease,71224,7122400,Excision of adrenal gland operations
 Addison's disease,71220,7122000,Bilateral adrenalectomy and transposition of adrenal tissue
 Addison's disease,71221,7122100,Bilateral adrenalectomy
 Addison's disease,^ESCTAD474131,,Tuberculosis of adrenal glands - Addison's disease
@@ -20,33 +11,6 @@ Addison's disease,^ESCTHY645770,,Corticoadrenal insufficiency
 Addison's disease,^ESCTAD645769,,Corticoadrenal insufficiency
 Addison's disease,^ESCTAD645768,,Corticoadrenal insufficiency
 Addison's disease,C154,C154.00,Corticoadrenal insufficiency
-Addison's disease,C1540-1,C154011,Acute adrenal insufficiency
-Addison's disease,^ESCT1248198,,Acute adrenal insufficiency
-Addison's disease,C1540-2,C154012,Acute adrenal insufficiency
-Addison's disease,C1546,C154600,Acute adrenal insufficiency
-Addison's disease,C1540,C154000,Acute adrenal insufficiency
-Addison's disease,^ESCTSE289712,,Acute adrenal insufficiency
-Addison's disease,^ESCTAD289716,,Acute adrenal insufficiency
-Addison's disease,^ESCT1248201,,Acute adrenal insufficiency
-Addison's disease,^ESCT1248231,,Acute adrenal insufficiency
-Addison's disease,C1540-1,C154011,Addisonian crisis
-Addison's disease,^ESCT1248198,,Addisonian crisis
-Addison's disease,C1540-2,C154012,Addisonian crisis
-Addison's disease,C1546,C154600,Addisonian crisis
-Addison's disease,C1540,C154000,Addisonian crisis
-Addison's disease,^ESCTSE289712,,Addisonian crisis
-Addison's disease,^ESCTAD289716,,Addisonian crisis
-Addison's disease,^ESCT1248201,,Addisonian crisis
-Addison's disease,^ESCT1248231,,Addisonian crisis
-Addison's disease,C1540-1,C154011,Adrenal crisis
-Addison's disease,^ESCT1248198,,Adrenal crisis
-Addison's disease,C1540-2,C154012,Adrenal crisis
-Addison's disease,C1546,C154600,Adrenal crisis
-Addison's disease,C1540,C154000,Adrenal crisis
-Addison's disease,^ESCTSE289712,,Adrenal crisis
-Addison's disease,^ESCTAD289716,,Adrenal crisis
-Addison's disease,^ESCT1248201,,Adrenal crisis
-Addison's disease,^ESCT1248231,,Adrenal crisis
 Addison's disease,C1541,C154100,Addison's disease
 Addison's disease,^ESCTAD625037,,Addison's disease
 Addison's disease,C154z,C154z00,Corticoadrenal insufficiency NOS

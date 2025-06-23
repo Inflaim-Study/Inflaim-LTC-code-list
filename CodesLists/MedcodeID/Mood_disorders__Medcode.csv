@@ -1,6 +1,9 @@
 Condition,MedCode,Term
+Mood disorders ,851691000006114,Hypomanic
 Mood disorders ,882321000006119,Mania/hypomania
 Mood disorders ,882311000006110,Manic-depressive psychoses
+Mood disorders ,2157096015,Manic mood
+Mood disorders ,492761000000114,Bipolar affective disorder resolved
 Mood disorders ,513871000006118,Bipolar psychoses
 Mood disorders ,223601000000119,Manic psychoses
 Mood disorders ,401765010,"Manic disorder, single episode"
@@ -8,14 +11,18 @@ Mood disorders ,789221000006116,Hypomanic psychoses
 Mood disorders ,294802018,"Single manic episode, unspecified"
 Mood disorders ,294803011,"Single manic episode, mild"
 Mood disorders ,294804017,"Single manic episode, moderate"
+Mood disorders ,294805016,"Single manic episode, severe without mention of psychosis"
 Mood disorders ,294806015,"Single manic episode, severe, with psychosis"
+Mood disorders ,294807012,Single manic episode in partial or unspecified remission
 Mood disorders ,294808019,Single manic episode in full remission
 Mood disorders ,294809010,"Manic disorder, single episode NOS"
 Mood disorders ,294810017,Recurrent manic episodes
 Mood disorders ,294811018,"Recurrent manic episodes, unspecified"
 Mood disorders ,294812013,"Recurrent manic episodes, mild"
 Mood disorders ,294813015,"Recurrent manic episodes, moderate"
+Mood disorders ,182871000006115,"Recurrent manic episodes, severe without mention psychosis"
 Mood disorders ,294815010,"Recurrent manic episodes, severe, with psychosis"
+Mood disorders ,182861000006110,"Recurrent manic episodes, partial or unspecified remission"
 Mood disorders ,294817019,"Recurrent manic episodes, in full remission"
 Mood disorders ,294818012,Recurrent manic episode NOS
 Mood disorders ,513801000006112,"Bipolar affective disorder, currently manic"
@@ -26,17 +33,25 @@ Mood disorders ,294850019,"Bipolar affective disorder, currently manic, moderate
 Mood disorders ,513691000006116,"Bipolar affect disord, currently manic, severe, no psychosis"
 Mood disorders ,513701000006116,"Bipolar affect disord, currently manic,severe with psychosis"
 Mood disorders ,513741000006119,"Bipolar affect disord,currently manic, part/unspec remission"
+Mood disorders ,513811000006110,"Bipolar affective disorder, currently manic, full remission"
 Mood disorders ,294858014,"Bipolar affective disorder, currently manic, NOS"
+Mood disorders ,513751000006117,"Bipolar affective disorder, currently depressed"
+Mood disorders ,294860011,Manic-depressive - now depressed
+Mood disorders ,294861010,"Bipolar affective disorder, currently depressed, unspecified"
 Mood disorders ,294862015,"Bipolar affective disorder, currently depressed, mild"
 Mood disorders ,294863013,"Bipolar affective disorder, currently depressed, moderate"
 Mood disorders ,513731000006112,"Bipolar affect disord, now depressed, severe, no psychosis"
 Mood disorders ,513721000006114,"Bipolar affect disord, now depressed, severe with psychosis"
 Mood disorders ,513711000006118,"Bipolar affect disord, now depressed, part/unspec remission"
+Mood disorders ,513861000006113,"Bipolar affective disorder, now depressed, in full remission"
+Mood disorders ,294868016,"Bipolar affective disorder, currently depressed, NOS"
 Mood disorders ,294869012,Mixed bipolar affective disorder
 Mood disorders ,294870013,"Mixed bipolar affective disorder, unspecified"
 Mood disorders ,294871012,"Mixed bipolar affective disorder, mild"
 Mood disorders ,294872017,"Mixed bipolar affective disorder, moderate"
+Mood disorders ,701071000006111,"Mixed bipolar affective disorder, severe, without psychosis"
 Mood disorders ,294874016,"Mixed bipolar affective disorder, severe, with psychosis"
+Mood disorders ,701051000006118,"Mixed bipolar affective disorder, partial/unspec remission"
 Mood disorders ,294876019,"Mixed bipolar affective disorder, in full remission"
 Mood disorders ,294877011,"Mixed bipolar affective disorder, NOS"
 Mood disorders ,294880012,Unspecified bipolar affective disorder
@@ -84,13 +99,32 @@ Mood disorders ,424661000006111,[X]Recurrent manic episodes
 Mood disorders ,296135011,"[X]Bipolar affective disorder, unspecified"
 Mood disorders ,396771000006117,"[X]Manic-depress psychosis,depressd,no psychotic symptoms"
 Mood disorders ,396781000006119,"[X]Manic-depress psychosis,depressed type+psychotic symptoms"
-Mood disorders ,11914901000006114,[X]Depressive personality disorder
-Mood disorders ,11918531000006118,[X]Mild depressive episode
-Mood disorders ,11918561000006110,[X]Moderate depressive episode
-Mood disorders ,11921141000006116,[X]Recurrent severe episodes/reactive depressive psychosis
-Mood disorders ,11921301000006120,[X]Severe depressive episode without psychotic symptoms
-Mood disorders ,12451451000006110,"Single major depressive episode, in full remission"
-Mood disorders ,12451461000006112,"Single major depressive episode, moderate"
+Mood disorders ,0,"Profile of mood states, bipolar"
+Mood disorders ,11914901000006114,[x]depressive personality disorder
+Mood disorders ,11918531000006118,[x]mild depressive episode
+Mood disorders ,11918561000006110,[x]moderate depressive episode
+Mood disorders ,11921141000006116,[x]recurrent severe episodes/reactive depressive psychosis
+Mood disorders ,11921301000006120,[x]severe depressive episode without psychotic symptoms
+Mood disorders ,12727931000006110,depressive disorder nec
+Mood disorders ,12451451000006110,"single major depressive episode, in full remission"
+Mood disorders ,12451461000006112,"single major depressive episode, moderate"
+Mood disorders ,294621000000118,Depression resolved
+Mood disorders ,1773563015,Depression management programme
+Mood disorders ,2533375017,Patient given advice about management of depression
+Mood disorders ,300711000000119,Referral for guided self-help for depression
+Mood disorders ,2534096013,Depression annual review
+Mood disorders ,2534092010,Depression medication review
+Mood disorders ,2534091015,Depression interim review
+Mood disorders ,2474715017,On depression register
+Mood disorders ,406881000000111,Depression monitoring administration
+Mood disorders ,408521000000112,Depression monitoring first letter
+Mood disorders ,408541000000117,Depression monitoring second letter
+Mood disorders ,408561000000116,Depression monitoring third letter
+Mood disorders ,408581000000113,Depression monitoring verbal invite
+Mood disorders ,408601000000116,Depression monitoring telephone invite
+Mood disorders ,226411000000110,Depression - enhanced services administration
+Mood disorders ,226581000000119,Depression - enhanced service completed
+Mood disorders ,1680571000006118,On full dose long term treatment depression - enh serv admin
 Mood disorders ,294642013,Presenile dementia with depression
 Mood disorders ,294646011,Senile dementia with depression
 Mood disorders ,294655014,Arteriosclerotic dementia with depression
@@ -129,6 +163,10 @@ Mood disorders ,488211000006112,Anxiety with depression
 Mood disorders ,202561000006114,Prolonged depressive reaction
 Mood disorders ,295535012,Depressive disorder NEC
 Mood disorders ,295537016,Chronic depression
+Mood disorders ,423041000006119,[X]Post-schizophrenic depression
+Mood disorders ,425501000006113,"[X]Schizoaffective disorder, depressive type"
+Mood disorders ,425561000006114,"[X]Schizoaffective psychosis, depressive type"
+Mood disorders ,425691000006119,"[X]Schizophreniform psychosis, depressive type"
 Mood disorders ,376721000006114,[X]Depressive episode
 Mood disorders ,426911000006111,[X]Single episode of depressive reaction
 Mood disorders ,426941000006110,[X]Single episode of psychogenic depression
@@ -149,8 +187,8 @@ Mood disorders ,1715771000006112,"[X]Major depression, mild"
 Mood disorders ,1715181000006114,"[X]Major depression, moderately severe"
 Mood disorders ,1715781000006110,"[X]Major depression, severe without psychotic symptoms"
 Mood disorders ,1715191000006112,"[X]Major depression, severe with psychotic symptoms"
-Mood disorders ,1755901000006112,"Single major depressive episode, severe, with psychosis, psychosis in remission"
-Mood disorders ,1755911000006110,"Recurrent major depressive episodes, severe, with psychosis, psychosis in remission"
+Mood disorders ,1755901000006112,"[X]Single major depr ep, severe with psych, psych in remiss"
+Mood disorders ,1755911000006110,"[X]Recurr major depr ep, severe with psych, psych in remiss"
 Mood disorders ,401871010,[X]Other depressive episodes
 Mood disorders ,366561000006119,[X]Atypical depression
 Mood disorders ,426931000006117,[X]Single episode of masked depression NOS

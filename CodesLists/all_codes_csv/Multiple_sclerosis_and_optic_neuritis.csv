@@ -1,12 +1,34 @@
 Condition,MedCode,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
-Multiple sclerosis (and optic neuritis),41398015,24700007,41398015,F20,F20..00,Multiple sclerosis
-Multiple sclerosis (and optic neuritis),1223979019,24700007,1223979019,F20-1,F20..11,Disseminated sclerosis
-Multiple sclerosis (and optic neuritis),695191000006119,192926004,297176011,F200,F200.00,Multiple sclerosis of the brain stem
-Multiple sclerosis (and optic neuritis),297177019,192927008,297177019,F201,F201.00,Multiple sclerosis of the spinal cord
-Multiple sclerosis (and optic neuritis),297179016,192928003,297179016,F202,F202.00,Generalised multiple sclerosis
-Multiple sclerosis (and optic neuritis),297180018,192929006,297180018,F203,F203.00,Exacerbation of multiple sclerosis
-Multiple sclerosis (and optic neuritis),641211000000118,438511000,2791037019,F204,F204.00,Benign multiple sclerosis
-Multiple sclerosis (and optic neuritis),2692565012,428700003,2692565012,F206,F206.00,Primary progressive multiple sclerosis
-Multiple sclerosis (and optic neuritis),1682241000006111,426373005,2674690012,F207,F207.00,Relapsing and remitting multiple sclerosis
-Multiple sclerosis (and optic neuritis),2674605012,425500002,2674605012,F208,F208.00,Secondary progressive multiple sclerosis
-Multiple sclerosis (and optic neuritis),297181019,24700007,41398015,F20z,F20z.00,Multiple sclerosis NOS
+Multiple sclerosis (and optic neuritis),983261000006119,983261000006103,983261000006119,,,Multiple sclerosis - personal health plan
+Multiple sclerosis (and optic neuritis),983291000006110,983291000006106,983291000006110,,,Multiple sclerosis - primary progressive
+Multiple sclerosis (and optic neuritis),983311000006114,983311000006105,983311000006114,,,Multiple sclerosis - relapsing remitting
+Multiple sclerosis (and optic neuritis),983301000006111,983301000006107,983301000006111,,,Multiple sclerosis - secondary progressive
+Multiple sclerosis (and optic neuritis),1675051000000110,759171000000105,1675051000000110,,,Multiple sclerosis monitoring third letter
+Multiple sclerosis (and optic neuritis),905781000006118,905781000006102,905781000006118,,,[RFC] Multiple sclerosis
+Multiple sclerosis (and optic neuritis),908811000006112,908811000006108,908811000006112,,,[RFC] Multiple sclerosis
+Multiple sclerosis (and optic neuritis),1747821000006117,1747821000006101,1747821000006117,,,multiple sclerosis monitoring administration
+Multiple sclerosis (and optic neuritis),1747831000006119,1747831000006103,1747831000006119,,,multiple sclerosis monitoring first letter
+Multiple sclerosis (and optic neuritis),1747841000006112,1747841000006108,1747841000006112,,,multiple sclerosis monitoring second letter
+Multiple sclerosis (and optic neuritis),299241000000110,198491000000106,299241000000110,666A.00,,Multiple sclerosis review
+Multiple sclerosis (and optic neuritis),315671000000110,205631000000104,315671000000110,666B.00,,Multiple sclerosis multidisciplinary review
+Multiple sclerosis (and optic neuritis),300141000000119,811881000000109,2117681000000111,8CS1.00,,Multiple sclerosis care plan agreed
+Multiple sclerosis (and optic neuritis),699671000000115,367561000000107,699671000000115,8Cc0.00,,Management of multiple sclerosis in onset phase
+Multiple sclerosis (and optic neuritis),699731000000110,367591000000101,699731000000110,8Cc1.00,,Management of multiple sclerosis in early disease phase
+Multiple sclerosis (and optic neuritis),699791000000111,367621000000103,699791000000111,8Cc2.00,,Management of multiple sclerosis in stable disability phase
+Multiple sclerosis (and optic neuritis),699911000000117,367681000000102,699911000000117,8Cc4.00,,Management of multiple sclerosis in palliative phase
+Multiple sclerosis (and optic neuritis),1148911000000119,515931000000104,1148911000000119,8IAb.00,,Multiple sclerosis review declined
+Multiple sclerosis (and optic neuritis),979461000006111,166411000000100,1154041000000111,9kG..00,,Spec serv for pat with multiple sclerosis - enh serv admin
+Multiple sclerosis (and optic neuritis),1674121000000119,758981000000100,1674121000000119,9mD..00,,Multiple sclerosis monitoring administration
+Multiple sclerosis (and optic neuritis),1674381000000115,759051000000102,1674381000000115,9mD0.00,,Multiple sclerosis monitoring first letter
+Multiple sclerosis (and optic neuritis),1674661000000118,759091000000105,1674661000000118,9mD1.00,,Multiple sclerosis monitoring second letter
+Multiple sclerosis (and optic neuritis),41398015,24700007,41398015,F20..00,,Multiple sclerosis
+Multiple sclerosis (and optic neuritis),1223979019,24700007,1223979019,F20..11,,Disseminated sclerosis
+Multiple sclerosis (and optic neuritis),695191000006119,192926004,297176011,F200.00,,Multiple sclerosis of the brain stem
+Multiple sclerosis (and optic neuritis),297177019,192927008,297177019,F201.00,,Multiple sclerosis of the spinal cord
+Multiple sclerosis (and optic neuritis),297179016,192928003,297179016,F202.00,,Generalised multiple sclerosis
+Multiple sclerosis (and optic neuritis),297180018,192929006,297180018,F203.00,,Exacerbation of multiple sclerosis
+Multiple sclerosis (and optic neuritis),641211000000118,438511000,2791037019,F204.00,,Benign multiple sclerosis
+Multiple sclerosis (and optic neuritis),2692565012,428700003,2692565012,F206.00,,Primary progressive multiple sclerosis
+Multiple sclerosis (and optic neuritis),1682241000006111,426373005,2674690012,F207.00,,Relapsing and remitting multiple sclerosis
+Multiple sclerosis (and optic neuritis),2674605012,425500002,2674605012,F208.00,,Secondary progressive multiple sclerosis
+Multiple sclerosis (and optic neuritis),297181019,24700007,41398015,F20z.00,,Multiple sclerosis NOS

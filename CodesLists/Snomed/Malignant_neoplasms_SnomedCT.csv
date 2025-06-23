@@ -1,10 +1,11 @@
 Condition,SNOMED_Code,SnomedCTDescriptionId,Term
 Malignant neoplasms,363375006,879691000006112,Tongue carcinoma
-Malignant neoplasms,363348004,724921000006119,"Malignant neoplasm of lip unspecified, inner aspect"
-Malignant neoplasms,534791000000107,1193831000000115,"Malignant neoplasm of lip, oral cavity and pharynx NOS"
-Malignant neoplasms,363348004,725001000006112,"Malignant neoplasm of lip, unspecified, lipstick area"
-Malignant neoplasms,363375006,720321000006110,Malignant neoplasm of ventral tongue surface NOS
+Malignant neoplasms,363348004,724921000006119,"malignant neoplasm of lip unspecified, inner aspect"
+Malignant neoplasms,534791000000107,1193831000000115,"malignant neoplasm of lip, oral cavity and pharynx nos"
+Malignant neoplasms,363348004,725001000006112,"malignant neoplasm of lip, unspecified, lipstick area"
+Malignant neoplasms,363375006,720321000006110,malignant neoplasm of ventral tongue surface nos
 Malignant neoplasms,271323007,406052010,"Malignant neoplasm of lip, oral cavity and pharynx"
+Malignant neoplasms,255069008,380095017,"Carcinoma of lip, oral cavity and pharynx"
 Malignant neoplasms,363348004,482495016,Malignant neoplasm of lip
 Malignant neoplasms,269515006,403771011,Carcinoma of lip
 Malignant neoplasms,363372009,1228504019,"Malignant neoplasm of upper lip, vermilion border"
@@ -31,6 +32,7 @@ Malignant neoplasms,187622006,288392012,"Malignant neoplasm of lip unspecified, 
 Malignant neoplasms,187622006,288392012,"Malignant neoplasm of lip unspecified, mucosa"
 Malignant neoplasms,187622006,288393019,"Malignant neoplasm of lip, oral aspect"
 Malignant neoplasms,363374005,482544015,Malignant neoplasm of commissure of lip
+Malignant neoplasms,187624007,288404018,Malignant neoplasm of overlapping lesion of lip
 Malignant neoplasms,363348004,482495016,"Malignant neoplasm of lip, unspecified"
 Malignant neoplasms,363348004,482495016,"Malignant neoplasm of lip, unspecified, external"
 Malignant neoplasms,275399006,411376018,"Malignant neoplasm of lip, unspecified, lipstick area"
@@ -51,6 +53,7 @@ Malignant neoplasms,1090271000000101,2731401000000113,Malignant neoplasm of vent
 Malignant neoplasms,363360003,482519011,Malignant neoplasm of anterior 2/3 of tongue unspecified
 Malignant neoplasms,187644001,288433017,"Malignant neoplasm of tongue, junctional zone"
 Malignant neoplasms,363377003,482550013,Malignant neoplasm of lingual tonsil
+Malignant neoplasms,109823006,1219531013,Malignant overlapping lesion of tongue
 Malignant neoplasms,363375006,482546018,Malignant neoplasm of other sites of tongue
 Malignant neoplasms,363375006,482546018,Malignant neoplasm of tongue NOS
 Malignant neoplasms,363378008,1228510019,Malignant neoplasm of major salivary glands
@@ -67,6 +70,7 @@ Malignant neoplasms,363382005,482560016,Malignant neoplasm of gum NOS
 Malignant neoplasms,363385007,2969212012,Malignant neoplasm of floor of mouth
 Malignant neoplasms,187652003,288443019,Malignant neoplasm of anterior portion of floor of mouth
 Malignant neoplasms,187653008,288444013,Malignant neoplasm of lateral portion of floor of mouth
+Malignant neoplasms,109830000,1219533011,"Malignant neoplasm, overlapping lesion of floor of mouth"
 Malignant neoplasms,363385007,482569015,Malignant neoplasm of other sites of floor of mouth
 Malignant neoplasms,363385007,482570019,Malignant neoplasm of floor of mouth NOS
 Malignant neoplasms,363505006,482796019,Malignant neoplasm of other and unspecified parts of mouth
@@ -89,6 +93,7 @@ Malignant neoplasms,363392002,482583018,Malignant neoplasm of oropharynx
 Malignant neoplasms,363393007,482586014,Malignant neoplasm of tonsil
 Malignant neoplasms,363393007,1228530015,Malignant neoplasm of faucial tonsil
 Malignant neoplasms,363393007,1228529013,Malignant neoplasm of palatine tonsil
+Malignant neoplasms,110013004,174720013,Malignant neoplasm of overlapping lesion of tonsil
 Malignant neoplasms,363393007,482585013,Malignant neoplasm tonsil NOS
 Malignant neoplasms,363394001,482587017,Malignant neoplasm of tonsillar fossa
 Malignant neoplasms,187675005,288486019,Malignant neoplasm of tonsillar pillar
@@ -121,6 +126,7 @@ Malignant neoplasms,187700006,288552014,Malignant neoplasm of anterior wall of n
 Malignant neoplasms,187702003,288556012,Malignant neoplasm of nasopharyngeal soft palate surface
 Malignant neoplasms,254484001,378896011,Malignant neoplasm posterior margin nasal septum and choanae
 Malignant neoplasms,187700006,288553016,Malignant neoplasm of anterior wall of nasopharynx NOS
+Malignant neoplasms,109367000,1219467016,"Malignant neoplasm, overlapping lesion of nasopharynx"
 Malignant neoplasms,187692001,288519015,Malignant neoplasm of other specified site of nasopharynx
 Malignant neoplasms,187692001,288526015,Malignant neoplasm of nasopharynx NOS
 Malignant neoplasms,363399006,482598016,Malignant neoplasm of hypopharynx
@@ -136,6 +142,7 @@ Malignant neoplasms,187716008,288578017,Malignant neoplasm of Waldeyer's ring
 Malignant neoplasms,363399006,1228533018,Malignant neoplasm of laryngopharynx
 Malignant neoplasms,271323007,406052010,"Malignant neoplasm of other sites lip, oral cavity, pharynx"
 Malignant neoplasms,271323007,406052010,"Malignant neoplasm of lip, oral cavity and pharynx NOS"
+Malignant neoplasms,34603009,57743014,[M]Basal cell adenocarcinoma
 Malignant neoplasms,271323007,406052010,"[X]Malignant neoplasm of lip, oral cavity and pharynx"
 Malignant neoplasms,187727005,288609015,Malignant tumour of lower third of oesophagus
 Malignant neoplasms,363402007,482603012,Malignant tumour of oesophagus
@@ -146,16 +153,17 @@ Malignant neoplasms,187724003,288597017,Malignant neoplasm of abdominal oesophag
 Malignant neoplasms,187725002,288602012,Malignant neoplasm of upper third of oesophagus
 Malignant neoplasms,187726001,288607018,Malignant neoplasm of middle third of oesophagus
 Malignant neoplasms,187727005,288608011,Malignant neoplasm of lower third of oesophagus
+Malignant neoplasms,109835005,1215862010,"Malignant neoplasm, overlapping lesion of oesophagus"
 Malignant neoplasms,342571000000109,638841000000113,Siewert type I adenocarcinoma
 Malignant neoplasms,363402007,482603012,Malignant neoplasm of other specified part of oesophagus
 Malignant neoplasms,363402007,1216488012,Malignant neoplasm of oesophagus NOS
 Malignant neoplasms,363402007,1216486011,Oesophageal cancer
-Malignant neoplasms,363349007,728021000006114,Malignant neoplasm of anterior wall of stomach NEC
-Malignant neoplasms,534851000000107,1193941000000115,Malignant neoplasm of greater curve of stomach unspecified
-Malignant neoplasms,534841000000109,1193921000000110,Malignant neoplasm of lesser curve of stomach unspecified
-Malignant neoplasms,363349007,723101000006112,Malignant neoplasm of posterior wall of stomach NEC
-Malignant neoplasms,187738005,722341000006119,Malignant neoplasm of prepylorus of stomach
-Malignant neoplasms,363349007,11925591000006120,Malignant neoplasm of stomach NOS
+Malignant neoplasms,363349007,728021000006114,malignant neoplasm of anterior wall of stomach nec
+Malignant neoplasms,534851000000107,1193941000000115,malignant neoplasm of greater curve of stomach unspecified
+Malignant neoplasms,534841000000109,1193921000000110,malignant neoplasm of lesser curve of stomach unspecified
+Malignant neoplasms,363349007,723101000006112,malignant neoplasm of posterior wall of stomach nec
+Malignant neoplasms,187738005,722341000006119,malignant neoplasm of prepylorus of stomach
+Malignant neoplasms,363349007,11925591000006120,malignant neoplasm of stomach nos
 Malignant neoplasms,363349007,482498019,Malignant neoplasm of stomach
 Malignant neoplasms,187732006,288625013,Malignant neoplasm of cardia of stomach
 Malignant neoplasms,187733001,288628010,Malignant neoplasm of cardiac orifice of stomach
@@ -171,6 +179,7 @@ Malignant neoplasms,187741001,288644018,Malignant neoplasm of fundus of stomach
 Malignant neoplasms,187742008,288647013,Malignant neoplasm of body of stomach
 Malignant neoplasms,269459004,403678014,Malignant neoplasm of lesser curve of stomach unspecified
 Malignant neoplasms,269460009,403680015,Malignant neoplasm of greater curve of stomach unspecified
+Malignant neoplasms,109836006,1219534017,"Malignant neoplasm, overlapping lesion of stomach"
 Malignant neoplasms,342511000000104,638721000000113,Siewert type II adenocarcinoma
 Malignant neoplasms,342561000000102,638821000000118,Siewert type III adenocarcinoma
 Malignant neoplasms,363349007,482497012,Malignant neoplasm of other specified site of stomach
@@ -185,9 +194,9 @@ Malignant neoplasms,363410008,879861000006115,Ca sigmoid colon
 Malignant neoplasms,363413005,1228542013,Ca splenic flexure - colon
 Malignant neoplasms,363408006,1228538010,Ca transverse colon
 Malignant neoplasms,363351006,6242981000006116,Malignant tumour of rectum
-Malignant neoplasms,254582000,379088010,Carcinoma of rectum
-Malignant neoplasms,663651000000108,1457191000000114,Malignant neoplasm of anus unspecified
-Malignant neoplasms,254582000,379089019,Rectal carcinoma
+Malignant neoplasms,254582000,379088010,carcinoma of rectum
+Malignant neoplasms,663651000000108,1457191000000114,malignant neoplasm of anus unspecified
+Malignant neoplasms,254582000,379089019,rectal carcinoma
 Malignant neoplasms,363406005,3446619012,Malignant neoplasm of colon
 Malignant neoplasms,363407001,482614010,Malignant neoplasm of hepatic flexure of colon
 Malignant neoplasms,363408006,482615011,Malignant neoplasm of transverse colon
@@ -198,7 +207,7 @@ Malignant neoplasms,255081007,380129018,Carcinoma of caecum
 Malignant neoplasms,363411007,482621010,Malignant neoplasm of appendix
 Malignant neoplasms,363412000,482623013,Malignant neoplasm of ascending colon
 Malignant neoplasms,363413005,482625018,Malignant neoplasm of splenic flexure of colon
-Malignant neoplasms,315058005,459527013,Hereditary nonpolyposis colon cancer
+Malignant neoplasms,187757001,288670017,"Malignant neoplasm, overlapping lesion of colon"
 Malignant neoplasms,363406005,482611019,Malignant neoplasm of other specified sites of colon
 Malignant neoplasms,363406005,482611019,Malignant neoplasm of colon NOS
 Malignant neoplasms,363406005,482611019,Colonic cancer
@@ -214,6 +223,7 @@ Malignant neoplasms,363490009,482768013,Malignant neoplasm of anus unspecified
 Malignant neoplasms,187760008,288675010,"Malig neop other site rectum, rectosigmoid junction and anus"
 Malignant neoplasms,187760008,288675010,"Malignant neoplasm rectum,rectosigmoid junction and anus NOS"
 Malignant neoplasms,363508008,1228620018,Cancer of bowel
+Malignant neoplasms,74532006,2552865010,[m]glioma nos
 Malignant neoplasms,428061005,2692069010,Malignant neoplasm of brain
 Malignant neoplasms,428061005,2692069010,Cerebral tumour - malignant
 Malignant neoplasms,188280007,289336015,Malignant neoplasm cerebrum (excluding lobes and ventricles)
@@ -240,6 +250,7 @@ Malignant neoplasms,188298006,289358018,Malignant neoplasm of pons
 Malignant neoplasms,363473003,482736017,Malignant neoplasm of brain stem NOS
 Malignant neoplasms,428061005,2692069010,Malignant neoplasm of other parts of brain
 Malignant neoplasms,188301005,289361017,Malignant neoplasm of corpus callosum
+Malignant neoplasms,109912006,174605010,"Malignant neoplasm, overlapping lesion of brain"
 Malignant neoplasms,428061005,2692069010,Malignant neoplasm of other part of brain NOS
 Malignant neoplasms,428061005,2692069010,Malignant neoplasm of brain NOS
 Malignant neoplasms,188307009,289367018,Malignant neoplasm of cranial nerves
@@ -267,6 +278,35 @@ Malignant neoplasms,93814004,155269017,Malignant neoplasm of glomus jugulare
 Malignant neoplasms,93677000,155085015,Malignant neoplasm of aortic body
 Malignant neoplasms,93759001,155193017,Malignant neoplasm of coccygeal body
 Malignant neoplasms,93941005,510894017,Malignant neoplasm of aortic body or paraganglia NOS
+Malignant neoplasms,38713004,1229453012,[M]Astrocytoma NOS
+Malignant neoplasms,38713004,64413017,[M]Astrocytic glioma
+Malignant neoplasms,55353007,1231460011,"[M]Astrocytoma, anaplastic type"
+Malignant neoplasms,73982001,122858018,[M]Gemistocytic astrocytoma
+Malignant neoplasms,71314006,118456018,[M]Fibrillary astrocytoma
+Malignant neoplasms,128854008,207484016,[M]Pilocytic astrocytoma
+Malignant neoplasms,128854008,207484016,[M]Juvenile astrocytoma
+Malignant neoplasms,128854008,207484016,[M]Piloid astrocytoma
+Malignant neoplasms,63634009,105759017,[M]Spongioblastoma NOS
+Malignant neoplasms,48952003,81561018,[M]Astroblastoma
+Malignant neoplasms,63634009,105759017,[M]Glioblastoma NOS
+Malignant neoplasms,63634009,105761014,[M]Glioblastoma multiforme
+Malignant neoplasms,44529004,74269012,[M]Giant cell glioblastoma
+Malignant neoplasms,443565000,2840882012,[M]Oligodendroglioma NOS
+Malignant neoplasms,3102004,1227417016,"[M]Oligodendroglioma, anaplastic type"
+Malignant neoplasms,80061003,132826019,[M]Oligodendroblastoma
+Malignant neoplasms,83217000,138016017,[M]Medulloblastoma NOS
+Malignant neoplasms,32456001,54190011,[M]Desmoplastic medulloblastoma
+Malignant neoplasms,24604009,41255016,[M]Medullomyoblastoma
+Malignant neoplasms,17302008,29245013,[M]Cerebellar sarcoma NOS
+Malignant neoplasms,78838008,1234295012,[M]Pleomorphic xanthoastrocytoma
+Malignant neoplasms,74532006,2552865010,[M]Glioma NOS
+Malignant neoplasms,39005004,65429019,[M]Medulloepithelioma NOS
+Malignant neoplasms,89880005,148993014,[M]Glioneuroma
+Malignant neoplasms,128858006,207494014,[M]Neuroastrocytoma
+Malignant neoplasms,53968002,198477011,[M]Olfactory neurogenic tumour
+Malignant neoplasms,78303004,129936017,"[M]Meningioma, malignant"
+Malignant neoplasms,78303004,129936017,[M]Meningothelial sarcoma
+Malignant neoplasms,57606003,95785015,[M]Papillary meningioma
 Malignant neoplasms,188307009,289367018,[X]Malignant neoplasm/other and unspecified cranial nerves
 Malignant neoplasms,372062007,1210640010,"[X]Malignant neoplasm/central nervous system, unspecified"
 Malignant neoplasms,363497007,482781018,"[X]Malignant neoplasm of meninges, unspecified"
@@ -277,10 +317,17 @@ Malignant neoplasms,187791002,288717016,Malignant neoplasm of body of pancreas
 Malignant neoplasms,187792009,288720012,Malignant neoplasm of tail of pancreas
 Malignant neoplasms,187793004,288723014,Malignant neoplasm of pancreatic duct
 Malignant neoplasms,187794005,288727010,Malignant neoplasm of Islets of Langerhans
+Malignant neoplasms,109848009,1219538019,"Malignant neoplasm, overlapping lesion of pancreas"
 Malignant neoplasms,363418001,482635012,Malignant neoplasm of other specified sites of pancreas
 Malignant neoplasms,187798008,288734012,Malignant neoplasm of ectopic pancreatic tissue
 Malignant neoplasms,363418001,482635012,Malignant neoplasm of specified site of pancreas NOS
 Malignant neoplasms,363418001,482635012,Malignant neoplasm of pancreas NOS
+Malignant neoplasms,60346004,100246011,[M]Islet cell carcinoma
+Malignant neoplasms,20955008,1222592015,"[M]Insulinoma, malignant"
+Malignant neoplasms,66515009,1232802010,"[M]Glucagonoma, malignant"
+Malignant neoplasms,999000,2755014,[M]Mixed islet cell and exocrine adenocarcinoma
+Malignant neoplasms,19756007,1222357010,"[M]Gastrinoma, malignant"
+Malignant neoplasms,25370001,42540010,hepatocellular carcinoma
 Malignant neoplasms,95214007,157732017,Primary malignant neoplasm of liver
 Malignant neoplasms,187769009,288690014,Primary carcinoma of liver
 Malignant neoplasms,109843000,342834014,Hepatoblastoma of liver
@@ -288,6 +335,13 @@ Malignant neoplasms,109844006,342851019,Primary angiosarcoma of liver
 Malignant neoplasms,109841003,342807011,Hepatocellular carcinoma
 Malignant neoplasms,95214007,157732017,Primary malignant neoplasm of liver NOS
 Malignant neoplasms,93870000,155343014,Malignant neoplasm of liver unspecified
+Malignant neoplasms,25370001,1224870013,[M]Hepatocellular carcinoma NOS
+Malignant neoplasms,25370001,1224870013,[M]Hepatoma NOS
+Malignant neoplasms,25370001,1224870013,"[M]Hepatoma, malignant"
+Malignant neoplasms,25370001,1224870013,[M]Liver cell carcinoma
+Malignant neoplasms,52178006,1231089017,[M]Combined hepatocellular carcinoma and cholangiocarcinoma
+Malignant neoplasms,52178006,1231089017,[M]Hepatocholangiocarcinoma
+Malignant neoplasms,15619004,1221210013,"[M]Hepatocellular carcinoma, fibrolamellar"
 Malignant neoplasms,109841003,342812012,[X]Other specified carcinomas of liver
 Malignant neoplasms,549521000000102,880331000006115,Ca breast - NOS
 Malignant neoplasms,188156001,880321000006118,Ca breast - axillary tail
@@ -299,9 +353,11 @@ Malignant neoplasms,188152004,880281000006112,"Ca breast-upper,inner quadrant"
 Malignant neoplasms,188154003,880301000006111,"Ca breast-upper,outer quadrant"
 Malignant neoplasms,372064008,880261000006119,Carcinoma breast
 Malignant neoplasms,189336000,881181000006112,Carcinoma in situ breast
-Malignant neoplasms,254837009,396211000006116,[X]Malignant neoplasm of breast
-Malignant neoplasms,314955001,1803781000006110,Local recurrence of malignant tumour of breast
-Malignant neoplasms,549521000000102,1224211000000116,Malignant neoplasm of female breast NOS
+Malignant neoplasms,54666007,90843010,Paget's disease and intraductal carcinoma of breast
+Malignant neoplasms,907341000006100,907341000006116,[RFC] Breast cancer
+Malignant neoplasms,254837009,396211000006116,[x]malignant neoplasm of breast
+Malignant neoplasms,314955001,1803781000006110,local recurrence of malignant tumour of breast
+Malignant neoplasms,549521000000102,1224211000000116,malignant neoplasm of female breast nos
 Malignant neoplasms,372064008,1210642019,Malignant neoplasm of female breast
 Malignant neoplasms,372064008,1210642019,Ca female breast
 Malignant neoplasms,188147009,289137018,Malignant neoplasm of nipple and areola of female breast
@@ -314,6 +370,7 @@ Malignant neoplasms,188153009,289143016,Malignant neoplasm of lower-inner quadra
 Malignant neoplasms,188154003,289144010,Malignant neoplasm of upper-outer quadrant of female breast
 Malignant neoplasms,188155002,289145011,Malignant neoplasm of lower-outer quadrant of female breast
 Malignant neoplasms,188156001,289146012,Malignant neoplasm of axillary tail of female breast
+Malignant neoplasms,188157005,289147015,"Malignant neoplasm, overlapping lesion of breast"
 Malignant neoplasms,372064008,1210642019,Malignant neoplasm of other site of female breast
 Malignant neoplasms,188159008,289149017,Malignant neoplasm of ectopic site of female breast
 Malignant neoplasms,372064008,1210642019,Malignant neoplasm of other site of female breast NOS
@@ -329,8 +386,23 @@ Malignant neoplasms,314955001,459378019,Local recurrence of malignant tumour of 
 Malignant neoplasms,189336000,290868010,Carcinoma in situ of breast
 Malignant neoplasms,109888004,174576019,Lobular carcinoma in situ of breast
 Malignant neoplasms,109889007,174577011,Intraductal carcinoma in situ of breast
+Malignant neoplasms,82711006,137203014,[M]Infiltrating duct carcinoma
+Malignant neoplasms,82711006,137210015,[M]Duct carcinoma NOS
+Malignant neoplasms,64524002,1232565018,[M]Intraductal papillary adenocarcinoma with invasion
+Malignant neoplasms,35232005,1228260012,[M]Infiltrating duct and lobular carcinoma
+Malignant neoplasms,78197004,1234227011,"[M]Comedocarcinoma, noninfiltrating"
+Malignant neoplasms,722237009,3331293018,[M]Comedocarcinoma NOS
+Malignant neoplasms,41919003,69948016,[M]Juvenile breast carcinoma
+Malignant neoplasms,41919003,69948016,[M]Secretory breast carcinoma
+Malignant neoplasms,30566004,1227274015,[M]Noninfiltrating intraductal papillary adenocarcinoma
+Malignant neoplasms,2985005,1226519014,"[M]Paget's disease, mammary"
+Malignant neoplasms,2985005,6068012,"[M]Paget's disease, breast"
+Malignant neoplasms,82591005,137011013,[M]Paget's disease and infiltrating breast duct carcinoma
+Malignant neoplasms,54666007,1231364018,[M]Paget's disease and intraductal carcinoma of breast
+Malignant neoplasms,703545003,3008905015,[M]Intracystic carcinoma NOS
 Malignant neoplasms,254837009,379664012,[X]Malignant neoplasm of breast
 Malignant neoplasms,189336000,290868010,[X]Other carcinoma in situ of breast
+Malignant neoplasms,41607009,69408018,hypernephroma
 Malignant neoplasms,363518003,482823011,Renal malignant neoplasm
 Malignant neoplasms,188250002,289285010,Malignant neoplasm of kidney parenchyma
 Malignant neoplasms,702391001,3648998018,Hypernephroma
@@ -339,12 +411,17 @@ Malignant neoplasms,188252005,289289016,Malignant neoplasm of renal calyces
 Malignant neoplasms,188253000,289294016,Malignant neoplasm of ureteropelvic junction
 Malignant neoplasms,363457009,482710012,Malignant neoplasm of renal pelvis NOS
 Malignant neoplasms,363458004,482713014,Malignant neoplasm of ureter
+Malignant neoplasms,41607009,1229779019,[M]Renal cell carcinoma
+Malignant neoplasms,41607009,1229779019,[M]Grawitz tumour
+Malignant neoplasms,41607009,1229779019,[M]Hypernephroma
 Malignant neoplasms,254626006,379172013,Adenocarcinoma of lung
 Malignant neoplasms,254637007,379195016,Non-small cell lung cancer
 Malignant neoplasms,93880001,510792012,Primary malignant neoplasm of lung
+Malignant neoplasms,1863331000006107,1863331000006111,Referral by lung cancer nurse specialist
 Malignant neoplasms,254632001,379181019,Small cell lung cancer
 Malignant neoplasms,254634000,379184010,Squamous cell carcinoma of lung
-Malignant neoplasms,363358000,396221000006112,"[X]Malignant neoplasm of bronchus or lung, unspecified"
+Malignant neoplasms,907111000006102,907111000006118,[RFC] Lung cancer
+Malignant neoplasms,363358000,396221000006112,"[x]malignant neoplasm of bronchus or lung, unspecified"
 Malignant neoplasms,430621000,2765453013,"Malignant neoplasm of trachea, bronchus and lung"
 Malignant neoplasms,363432004,482662016,Malignant neoplasm of trachea
 Malignant neoplasms,187854004,288810010,Malignant neoplasm of mucosa of trachea
@@ -366,73 +443,25 @@ Malignant neoplasms,187868006,288826011,"Malignant neoplasm of lower lobe, bronc
 Malignant neoplasms,187869003,288827019,Malignant neoplasm of lower lobe bronchus
 Malignant neoplasms,187870002,288828012,Malignant neoplasm of lower lobe of lung
 Malignant neoplasms,187868006,288826011,"Malignant neoplasm of lower lobe, bronchus or lung NOS"
+Malignant neoplasms,109371002,1219469018,Malignant neoplasm of overlapping lesion of bronchus & lung
 Malignant neoplasms,363358000,482516016,Malignant neoplasm of other sites of bronchus or lung
 Malignant neoplasms,363358000,482516016,Malignant neoplasm of bronchus or lung NOS
 Malignant neoplasms,93880001,3288586014,Lung cancer
+Malignant neoplasms,112677002,1219789016,[M]Bronchiolo-alveolar adenocarcinoma
+Malignant neoplasms,112677002,1219789016,[M]Alveolar cell carcinoma
+Malignant neoplasms,112677002,1219789016,[M]Bronchiolar carcinoma
+Malignant neoplasms,36310008,60606019,[M]Alveolar adenocarcinoma
 Malignant neoplasms,1090881000000100,2732641000000116,"[X]Malignant neoplasm of bronchus or lung, unspecified"
-Malignant neoplasms,546881000000105,1218841000000118,Malignant melanoma of skin NOS
-Malignant neoplasms,93655004,155060012,Malignant melanoma of skin
-Malignant neoplasms,188030005,289009011,Malignant melanoma of lip
-Malignant neoplasms,231834005,347406017,Malignant melanoma of eyelid including canthus
-Malignant neoplasms,188032002,289011019,Malignant melanoma of ear and external auricular canal
-Malignant neoplasms,188033007,289012014,Malignant melanoma of auricle (ear)
-Malignant neoplasms,188034001,289013016,Malignant melanoma of external auditory meatus
-Malignant neoplasms,188032002,289011019,Malignant melanoma of ear and external auricular canal NOS
-Malignant neoplasms,93225001,154247017,Malignant melanoma of other and unspecified parts of face
-Malignant neoplasms,93217003,1235785014,Malignant melanoma of external surface of cheek
-Malignant neoplasms,188038003,289017015,Malignant melanoma of chin
-Malignant neoplasms,188040008,289019017,Malignant melanoma of forehead
-Malignant neoplasms,93643005,1235798017,Malignant melanoma of external surface of nose
-Malignant neoplasms,188042000,289021010,Malignant melanoma of temple
-Malignant neoplasms,93225001,154247017,Malignant melanoma of face NOS
-Malignant neoplasms,188044004,289023013,Malignant melanoma of scalp and neck
-Malignant neoplasms,188045003,289024019,Malignant melanoma of scalp
-Malignant neoplasms,188046002,289025018,Malignant melanoma of neck
-Malignant neoplasms,188044004,1775484014,Malignant melanoma of scalp and neck NOS
-Malignant neoplasms,93651008,155054012,Malignant melanoma of trunk (excluding scrotum)
-Malignant neoplasms,188049009,289028016,Malignant melanoma of axilla
-Malignant neoplasms,188050009,289029012,Malignant melanoma of breast
-Malignant neoplasms,188051008,289030019,Malignant melanoma of buttock
-Malignant neoplasms,188052001,289031015,Malignant melanoma of groin
-Malignant neoplasms,93209006,154231019,Malignant melanoma of perianal skin
-Malignant neoplasms,188054000,289033017,Malignant melanoma of perineum
-Malignant neoplasms,188055004,289034011,Malignant melanoma of umbilicus
-Malignant neoplasms,310498001,454085011,Malignant melanoma of back
-Malignant neoplasms,313248004,457109011,Malignant melanoma of chest wall
-Malignant neoplasms,269579005,403893010,"Malignant melanoma of trunk, excluding scrotum, NOS"
-Malignant neoplasms,269580008,403894016,Malignant melanoma of upper limb and shoulder
-Malignant neoplasms,188060000,289039018,Malignant melanoma of shoulder
-Malignant neoplasms,188061001,289040016,Malignant melanoma of upper arm
-Malignant neoplasms,188062008,289041017,Malignant melanoma of fore-arm
-Malignant neoplasms,188063003,289042012,Malignant melanoma of hand
-Malignant neoplasms,188064009,289043019,Malignant melanoma of finger
-Malignant neoplasms,188065005,289044013,Malignant melanoma of thumb
-Malignant neoplasms,269580008,403894016,Malignant melanoma of upper limb or shoulder NOS
-Malignant neoplasms,188067002,289046010,Malignant melanoma of lower limb and hip
-Malignant neoplasms,188068007,289047018,Malignant melanoma of hip
-Malignant neoplasms,188069004,289048011,Malignant melanoma of thigh
-Malignant neoplasms,188070003,289049015,Malignant melanoma of knee
-Malignant neoplasms,188071004,289050015,Malignant melanoma of popliteal fossa area
-Malignant neoplasms,188072006,289051016,Malignant melanoma of lower leg
-Malignant neoplasms,188073001,289052011,Malignant melanoma of ankle
-Malignant neoplasms,188074007,289053018,Malignant melanoma of heel
-Malignant neoplasms,188075008,289054012,Malignant melanoma of foot
-Malignant neoplasms,188076009,289055013,Malignant melanoma of toe
-Malignant neoplasms,188077000,289056014,Malignant melanoma of great toe
-Malignant neoplasms,188067002,289046010,Malignant melanoma of lower limb or hip NOS
-Malignant neoplasms,93655004,155060012,Malignant melanoma of other specified skin site
-Malignant neoplasms,109267002,173816012,Overlapping malignant melanoma of skin
-Malignant neoplasms,93655004,155060012,Malignant melanoma of skin NOS
-Malignant neoplasms,51757004,1231030012,"[M]Desmoplastic melanoma, malignant"
-Malignant neoplasms,302836005,444775014,[M]Lentigo maligna
-Malignant neoplasms,302836005,444775014,[M]Lentigo maligna melanoma
-Malignant neoplasms,93225001,154247017,[X]Malignant melanoma of other+unspecified parts of face
-Malignant neoplasms,93655004,155060012,"[X]Malignant melanoma of skin, unspecified"
-Malignant neoplasms,62064005,103178011,"[M]Mesothelioma, malignant"
 Malignant neoplasms,188478004,289566011,Malignant neoplasms of independent (primary) multiple sites
 Malignant neoplasms,188478004,289566011,[X]Malignant neoplasms/independent (primary) multiple sites
 Malignant neoplasms,188478004,289566011,[X]Malignant neoplasms/independent(primary)multiple sites
 Malignant neoplasms,399068003,1786665019,Cancer of prostate
+Malignant neoplasms,1034421000000103,2611461000000113,Discharge from secondary care prostate cancer service
+Malignant neoplasms,906971000006106,906971000006110,[RFC] Cancer of the prostate
+Malignant neoplasms,385377005,1479600014,Gleason grading of prostate cancer
+Malignant neoplasms,369775001,1490806016,Gleason prostate grade 2-4 (low)
+Malignant neoplasms,394932008,1488634012,Gleason prostate grade 5-7 (medium)
+Malignant neoplasms,369777009,1490807013,Gleason prostate grade 8-10 (high)
 Malignant neoplasms,176106009,272628011,Radical cystoprostatourethrectomy
 Malignant neoplasms,81232004,134770016,Radical cystoprostatectomy
 Malignant neoplasms,176262001,272891011,Radical prostatectomy with pelvic node sampling
@@ -444,12 +473,16 @@ Malignant neoplasms,573501000000108,880211000006117,Ca skin - other
 Malignant neoplasms,540311000000106,880251000006116,Ca skin - other NOS
 Malignant neoplasms,531581000000101,880221000006113,Ca skin - trunk
 Malignant neoplasms,188119005,880231000006111,Ca skin - upper limb
-Malignant neoplasms,540311000000106,1205251000000113,Malignant neoplasm of skin NOS
-Malignant neoplasms,531581000000101,1187061000000112,"Malignant neoplasm of skin of trunk, excluding scrotum"
-Malignant neoplasms,363346000,720521000006117,Malignant neoplasm skin of other and unspecified parts face
-Malignant neoplasms,573501000000108,1274111000000111,Other malignant neoplasm of skin
-Malignant neoplasms,1338007,3349012,Rodent ulcer
-Malignant neoplasms,540311000000106,1205241000000110,Squamous cell carcinoma of skin NOS
+Malignant neoplasms,127570002,305821000006115,[m]basal cell neoplasms
+Malignant neoplasms,853151000006109,853151000006113,basal cell carcinoma
+Malignant neoplasms,76594008,3745771000006113,dermatofibrosarcoma protuberans
+Malignant neoplasms,540311000000106,1205251000000113,malignant neoplasm of skin nos
+Malignant neoplasms,531581000000101,1187061000000112,"malignant neoplasm of skin of trunk, excluding scrotum"
+Malignant neoplasms,363346000,720521000006117,malignant neoplasm skin of other and unspecified parts face
+Malignant neoplasms,573501000000108,1274111000000111,other malignant neoplasm of skin
+Malignant neoplasms,1338007,3349012,rodent ulcer
+Malignant neoplasms,853821000006106,853821000006110,rodent ulcer
+Malignant neoplasms,540311000000106,1205241000000110,squamous cell carcinoma of skin nos
 Malignant neoplasms,372130007,1210707014,Other malignant neoplasm of skin
 Malignant neoplasms,254701007,379314010,Basal cell carcinoma
 Malignant neoplasms,254701007,379315011,Rodent ulcer
@@ -469,6 +502,7 @@ Malignant neoplasms,126488004,82493010,Malig neop skin of ear and external auric
 Malignant neoplasms,443136000,2838688010,Malignant neoplasm skin of other and unspecified parts face
 Malignant neoplasms,188095002,289084016,"Malignant neoplasm of skin of cheek, external"
 Malignant neoplasms,94016005,155525011,Malignant neoplasm of skin of chin
+Malignant neoplasms,94020009,155529017,Malignant neoplasm of skin of eyebrow
 Malignant neoplasms,94026003,155536016,Malignant neoplasm of skin of forehead
 Malignant neoplasms,188099008,289088018,Malignant neoplasm of skin of nose (external)
 Malignant neoplasms,188100000,289089014,Malignant neoplasm of skin of temple
@@ -512,16 +546,37 @@ Malignant neoplasms,188138001,289127011,Malignant neoplasm of skin of great toe
 Malignant neoplasms,188127001,289116014,Malignant neoplasm of skin of lower limb or hip NOS
 Malignant neoplasms,254651007,379223011,Squamous cell carcinoma of skin
 Malignant neoplasms,276799004,413089014,Dermatofibrosarcoma protuberans
+Malignant neoplasms,109264009,173812014,Malignant neoplasm overlapping lesion of skin
 Malignant neoplasms,372130007,1210707014,Malignant neoplasm of other specified skin sites
 Malignant neoplasms,372130007,1210707014,Malignant neoplasm of skin NOS
 Malignant neoplasms,254651007,379223011,Squamous cell carcinoma of skin NOS
+Malignant neoplasms,400155002,1779409013,[M]Squamous cell carcinoma of skin NOS
+Malignant neoplasms,127570002,2664014019,[M]Basal cell neoplasms
+Malignant neoplasms,30649006,196804015,[M]Basal cell tumour
 Malignant neoplasms,1338007,3345018,[M]Basal cell carcinoma NOS
+Malignant neoplasms,61098004,101531010,[M]Multicentric basal cell carcinoma
+Malignant neoplasms,134152008,215881011,"[M]Basal cell carcinoma, morphoea type"
+Malignant neoplasms,43369006,1229982018,"[M]Basal cell carcinoma, fibroepithelial type"
+Malignant neoplasms,37304002,62234010,[M]Basosquamous carcinoma
+Malignant neoplasms,6641007,12009016,[M]Metatypical carcinoma
+Malignant neoplasms,61098004,199020010,[M]Superficial basal cell carcinoma
+Malignant neoplasms,128636006,207028011,"[M]Basal cell carcinoma, nodular"
 Malignant neoplasms,402529002,1781655012,"[M]Basal cell carcinoma, micronodular"
+Malignant neoplasms,56665009,198684014,"[M]Basal cell carcinoma, infiltrative"
 Malignant neoplasms,403909004,1782913015,[M]Pigmented basal cell carcinoma
+Malignant neoplasms,127570002,857018,[M]Basal cell neoplasm NOS
+Malignant neoplasms,64000002,106379015,[M]Skin appendage carcinoma
 Malignant neoplasms,32272007,53910019,[M]Sweat gland adenocarcinoma
+Malignant neoplasms,57141000,95032016,[M]Apocrine adenocarcinoma
+Malignant neoplasms,54734006,1231370012,[M]Sebaceous adenocarcinoma
 Malignant neoplasms,94047004,155560017,[X]Oth malignant neoplasm/skin of oth+unspecfd parts of face
 Malignant neoplasms,372130007,1210707014,"[X]Malignant neoplasm of skin, unspecified"
-Malignant neoplasms,417554000,109371000006115,Teratoma of descended testis
+Malignant neoplasms,109264009,173812014,[X]Malignant neoplasm overlapping lesion of skin
+Malignant neoplasms,62064005,103178011,"[M]Mesothelioma, malignant"
+Malignant neoplasms,54443001,90491019,[M]Sarcomatoid mesothelioma
+Malignant neoplasms,65278006,1232663018,"[M]Epithelioid mesothelioma, malignant"
+Malignant neoplasms,30383009,1227226015,"[M]Mesothelioma, biphasic type, malignant"
+Malignant neoplasms,417554000,109371000006115,teratoma of descended testis
 Malignant neoplasms,363449006,482694014,Malignant neoplasm of testis
 Malignant neoplasms,188219004,289223017,Malignant neoplasm of undescended testis
 Malignant neoplasms,313428008,457318018,Seminoma of undescended testis
@@ -535,8 +590,9 @@ Malignant neoplasms,363449006,482694014,Malignant neoplasm of testis NOS
 Malignant neoplasms,255107005,380180017,Seminoma of testis
 Malignant neoplasms,416769008,2549298016,Teratoma of testis
 Malignant neoplasms,363478007,880531000006114,Ca thyroid
+Malignant neoplasms,907351000006103,907351000006119,[RFC] Cancer of the thyroid
 Malignant neoplasms,363478007,482743011,Malignant neoplasm of thyroid gland
-Malignant neoplasms,570591000000106,1267991000000117,Malignant neoplasm of body of uterus NOS
+Malignant neoplasms,570591000000106,1267991000000117,malignant neoplasm of body of uterus nos
 Malignant neoplasms,371973000,1210562019,"Malignant neoplasm of uterus, part unspecified"
 Malignant neoplasms,371972005,1210561014,Malignant neoplasm of body of uterus
 Malignant neoplasms,188189001,289187013,"Malignant neoplasm of corpus uteri, excluding isthmus"
@@ -549,6 +605,7 @@ Malignant neoplasms,188189001,289187013,Malignant neoplasm of corpus uteri NOS
 Malignant neoplasms,188195000,289193017,Malignant neoplasm of isthmus of uterine body
 Malignant neoplasms,188195000,3491683016,Malignant neoplasm of lower uterine segment
 Malignant neoplasms,188195000,289193017,Malignant neoplasm of isthmus of uterine body NOS
+Malignant neoplasms,188198003,289196013,Malignant neoplasm of overlapping lesion of corpus uteri
 Malignant neoplasms,371972005,1210561014,Malignant neoplasm of other site of uterine body
 Malignant neoplasms,371972005,1210561014,Malignant neoplasm of body of uterus NOS
 Malignant neoplasms,187777008,288698019,Malignant neoplasm of intrahepatic bile ducts
@@ -564,34 +621,136 @@ Malignant neoplasms,255086002,380139012,Carcinoma common bile duct
 Malignant neoplasms,187786003,288711015,Malignant neoplasm of sphincter of Oddi
 Malignant neoplasms,363416002,482631015,Malignant neoplasm of extrahepatic bile ducts NOS
 Malignant neoplasms,363417006,482633017,Malignant neoplasm of ampulla of Vater
+Malignant neoplasms,109847004,1219537012,"Malignant neoplasm, overlapping lesion of biliary tract"
+Malignant neoplasms,70179006,116557016,[M]Cholangiocarcinoma
+Malignant neoplasms,70179006,116558014,[M]Bile duct carcinoma
+Malignant neoplasms,50422007,84004017,[M]Bile duct cystadenocarcinoma
+Malignant neoplasms,546881000000105,1218841000000118,malignant melanoma of skin nos
+Malignant neoplasms,106243009,170673014,Breslow depth staging for melanoma
+Malignant neoplasms,83284001,138122012,Clark melanoma level 1
+Malignant neoplasms,50542000,84190018,Clark melanoma level 2
+Malignant neoplasms,21165006,35572018,Clark melanoma level 3
+Malignant neoplasms,1556006,3704012,Clark melanoma level 4
+Malignant neoplasms,16034002,27148012,Clark melanoma level 5
+Malignant neoplasms,93655004,155060012,Malignant melanoma of skin
+Malignant neoplasms,188030005,289009011,Malignant melanoma of lip
+Malignant neoplasms,231834005,347406017,Malignant melanoma of eyelid including canthus
+Malignant neoplasms,188032002,289011019,Malignant melanoma of ear and external auricular canal
+Malignant neoplasms,188033007,289012014,Malignant melanoma of auricle (ear)
+Malignant neoplasms,188034001,289013016,Malignant melanoma of external auditory meatus
+Malignant neoplasms,188032002,289011019,Malignant melanoma of ear and external auricular canal NOS
+Malignant neoplasms,93225001,154247017,Malignant melanoma of other and unspecified parts of face
+Malignant neoplasms,93217003,1235785014,Malignant melanoma of external surface of cheek
+Malignant neoplasms,188038003,289017015,Malignant melanoma of chin
+Malignant neoplasms,93223008,1235786010,Malignant melanoma of eyebrow
+Malignant neoplasms,188040008,289019017,Malignant melanoma of forehead
+Malignant neoplasms,93643005,1235798017,Malignant melanoma of external surface of nose
+Malignant neoplasms,188042000,289021010,Malignant melanoma of temple
+Malignant neoplasms,93225001,154247017,Malignant melanoma of face NOS
+Malignant neoplasms,188044004,289023013,Malignant melanoma of scalp and neck
+Malignant neoplasms,188045003,289024019,Malignant melanoma of scalp
+Malignant neoplasms,188046002,289025018,Malignant melanoma of neck
+Malignant neoplasms,188044004,1775484014,Malignant melanoma of scalp and neck NOS
+Malignant neoplasms,93651008,155054012,Malignant melanoma of trunk (excluding scrotum)
+Malignant neoplasms,188049009,289028016,Malignant melanoma of axilla
+Malignant neoplasms,188050009,289029012,Malignant melanoma of breast
+Malignant neoplasms,188051008,289030019,Malignant melanoma of buttock
+Malignant neoplasms,188052001,289031015,Malignant melanoma of groin
+Malignant neoplasms,93209006,154231019,Malignant melanoma of perianal skin
+Malignant neoplasms,188054000,289033017,Malignant melanoma of perineum
+Malignant neoplasms,188055004,289034011,Malignant melanoma of umbilicus
+Malignant neoplasms,310498001,454085011,Malignant melanoma of back
+Malignant neoplasms,313248004,457109011,Malignant melanoma of chest wall
+Malignant neoplasms,269579005,403893010,"Malignant melanoma of trunk, excluding scrotum, NOS"
+Malignant neoplasms,269580008,403894016,Malignant melanoma of upper limb and shoulder
+Malignant neoplasms,188060000,289039018,Malignant melanoma of shoulder
+Malignant neoplasms,188061001,289040016,Malignant melanoma of upper arm
+Malignant neoplasms,188062008,289041017,Malignant melanoma of fore-arm
+Malignant neoplasms,188063003,289042012,Malignant melanoma of hand
+Malignant neoplasms,188064009,289043019,Malignant melanoma of finger
+Malignant neoplasms,188065005,289044013,Malignant melanoma of thumb
+Malignant neoplasms,269580008,403894016,Malignant melanoma of upper limb or shoulder NOS
+Malignant neoplasms,188067002,289046010,Malignant melanoma of lower limb and hip
+Malignant neoplasms,188068007,289047018,Malignant melanoma of hip
+Malignant neoplasms,188069004,289048011,Malignant melanoma of thigh
+Malignant neoplasms,188070003,289049015,Malignant melanoma of knee
+Malignant neoplasms,188071004,289050015,Malignant melanoma of popliteal fossa area
+Malignant neoplasms,188072006,289051016,Malignant melanoma of lower leg
+Malignant neoplasms,188073001,289052011,Malignant melanoma of ankle
+Malignant neoplasms,188074007,289053018,Malignant melanoma of heel
+Malignant neoplasms,188075008,289054012,Malignant melanoma of foot
+Malignant neoplasms,188076009,289055013,Malignant melanoma of toe
+Malignant neoplasms,188077000,289056014,Malignant melanoma of great toe
+Malignant neoplasms,188067002,289046010,Malignant melanoma of lower limb or hip NOS
+Malignant neoplasms,93655004,155060012,Malignant melanoma of other specified skin site
+Malignant neoplasms,109267002,173816012,Overlapping malignant melanoma of skin
+Malignant neoplasms,93655004,155060012,Malignant melanoma of skin NOS
+Malignant neoplasms,2092003,4601016,[M]Malignant melanoma NOS
+Malignant neoplasms,2092003,4601016,[M]Melanocarcinoma
+Malignant neoplasms,115223002,1784646013,[M]Melanoma NOS
+Malignant neoplasms,2092003,4601016,[M]Melanosarcoma NOS
+Malignant neoplasms,39896009,1229573016,"[M]Malignant melanoma, regressing"
+Malignant neoplasms,51757004,1231030012,"[M]Desmoplastic melanoma, malignant"
+Malignant neoplasms,2142002,4703012,[M]Nodular melanoma
+Malignant neoplasms,39274007,65865017,[M]Balloon cell melanoma
+Malignant neoplasms,70594002,117272014,[M]Amelanotic melanoma
+Malignant neoplasms,915007,199323019,[M]Malignant melanoma in junctional naevus
+Malignant neoplasms,61217001,1232189017,[M]Hutchinson's melanotic freckle
+Malignant neoplasms,302836005,444775014,[M]Lentigo maligna
+Malignant neoplasms,44474009,1230099017,[M]Malignant melanoma in Hutchinson's melanotic freckle
+Malignant neoplasms,302836005,444775014,[M]Lentigo maligna melanoma
+Malignant neoplasms,16974005,1221445019,"[M]Acral lentiginous melanoma, malignant"
+Malignant neoplasms,55320002,91969014,[M]Superficial spreading melanoma
+Malignant neoplasms,75931002,200557018,[M]Malignant melanoma in giant pigmented naevus
+Malignant neoplasms,88082008,1235301017,[M]Juvenila melanoma
+Malignant neoplasms,37138001,61959010,[M]Epithelioid cell melanoma
+Malignant neoplasms,68827007,114326019,[M]Spindle cell melanoma NOS
+Malignant neoplasms,40244008,1229623012,"[M]Spindle cell melanoma, type B"
+Malignant neoplasms,50813003,84682017,[M]Mixed epithelioid and spindle melanoma
+Malignant neoplasms,93225001,154247017,[X]Malignant melanoma of other+unspecified parts of face
+Malignant neoplasms,93655004,155060012,"[X]Malignant melanoma of skin, unspecified"
 Malignant neoplasms,269475001,880781000006115,Lymphatic tissue carcinoma
 Malignant neoplasms,363353009,6243051000006118,Malignant tumour of gallbladder
-Malignant neoplasms,372063002,396111000006110,[X]Mal neoplasm/overlap les/periph nerv+autonomic nerv systm
-Malignant neoplasms,269475001,411571000006113,[X]Other malignant immunoproliferative diseases
-Malignant neoplasms,188188009,289184018,Choriocarcinoma
-Malignant neoplasms,542621000000109,1210161000000111,Immunoproliferative neoplasm or myeloma NOS
-Malignant neoplasms,269469005,729461000006119,Malig neop of connective and soft tissue trunk unspecified
-Malignant neoplasms,662481000000107,1454841000000119,Malignant neoplasm lymphatic or haematopoietic tissue NOS
-Malignant neoplasms,363346000,727361000006117,Malignant neoplasm of back NOS
-Malignant neoplasms,188361007,727171000006110,Malignant neoplasm of chest wall NOS
-Malignant neoplasms,363346000,725591000006111,Malignant neoplasm of flank NOS
-Malignant neoplasms,363484005,725291000006113,Malignant neoplasm of inguinal region NOS
-Malignant neoplasms,255056009,725441000006115,Malignant neoplasm of jaw NOS
-Malignant neoplasms,578371000000102,1284231000000118,Malignant neoplasm of kidney or urinary organs NOS
-Malignant neoplasms,188274004,2579145017,Malignant neoplasm of lacrimal duct
-Malignant neoplasms,550091000000101,1225361000000110,Malignant neoplasm of larynx NOS
-Malignant neoplasms,620441000000107,1370101000000112,Malignant neoplasm of liver and intrahepatic bile ducts NOS
-Malignant neoplasms,533411000000108,1190911000000114,Malignant neoplasm of ovary and other uterine adnexa
-Malignant neoplasms,579211000000109,1285971000000114,"Malignant neoplasm of penis, part unspecified"
-Malignant neoplasms,255056009,722311000006118,Malignant neoplasm of supraclavicular fossa NOS
-Malignant neoplasms,363346000,721441000006117,Malignant neoplasm of trunk NOS
-Malignant neoplasms,573671000000104,1274441000000115,Malignant neoplasm of uterine adnexa NOS
-Malignant neoplasms,85583005,141870011,Phaeochromocytoma
+Malignant neoplasms,372063002,396111000006110,[x]mal neoplasm/overlap les/periph nerv+autonomic nerv systm
+Malignant neoplasms,269475001,411571000006113,[x]other malignant immunoproliferative diseases
+Malignant neoplasms,188188009,289184018,choriocarcinoma
+Malignant neoplasms,44769000,74681016,choriocarcinoma
+Malignant neoplasms,542621000000109,1210161000000111,immunoproliferative neoplasm or myeloma nos
+Malignant neoplasms,128812005,207348010,letterer-siwe disease
+Malignant neoplasms,269469005,729461000006119,malig neop of connective and soft tissue trunk unspecified
+Malignant neoplasms,662481000000107,1454841000000119,malignant neoplasm lymphatic or haematopoietic tissue nos
+Malignant neoplasms,363346000,727361000006117,malignant neoplasm of back nos
+Malignant neoplasms,188361007,727171000006110,malignant neoplasm of chest wall nos
+Malignant neoplasms,363346000,725591000006111,malignant neoplasm of flank nos
+Malignant neoplasms,363484005,725291000006113,malignant neoplasm of inguinal region nos
+Malignant neoplasms,255056009,725441000006115,malignant neoplasm of jaw nos
+Malignant neoplasms,578371000000102,1284231000000118,malignant neoplasm of kidney or urinary organs nos
+Malignant neoplasms,188274004,2579145017,malignant neoplasm of lacrimal duct
+Malignant neoplasms,550091000000101,1225361000000110,malignant neoplasm of larynx nos
+Malignant neoplasms,620441000000107,1370101000000112,malignant neoplasm of liver and intrahepatic bile ducts nos
+Malignant neoplasms,541861000000107,1208571000000112,malignant neoplasm of other and unspecified site nos
+Malignant neoplasms,533411000000108,1190911000000114,malignant neoplasm of ovary and other uterine adnexa
+Malignant neoplasms,579211000000109,1285971000000114,"malignant neoplasm of penis, part unspecified"
+Malignant neoplasms,255056009,722311000006118,malignant neoplasm of supraclavicular fossa nos
+Malignant neoplasms,363346000,721441000006117,malignant neoplasm of trunk nos
+Malignant neoplasms,640541000000109,1410561000000117,malignant neoplasm of unspecified site
+Malignant neoplasms,573671000000104,1274441000000115,malignant neoplasm of uterine adnexa nos
+Malignant neoplasms,126667002,720581000006118,"malignant neoplasm, overlap lesion of resp & intrathor orgs"
+Malignant neoplasms,640551000000107,1410571000000112,other malignant neoplasm nos
+Malignant neoplasms,85583005,141870011,phaeochromocytoma
+Malignant neoplasms,128813000,1220819010,true histiocytic lymphoma
+Malignant neoplasms,30440004,50949017,Lymphoma stage I
+Malignant neoplasms,76422004,126918018,Lymphoma stage II
+Malignant neoplasms,56944001,94699019,Lymphoma stage III
+Malignant neoplasms,66445009,110346017,Lymphoma stage IV
+Malignant neoplasms,420524008,2617386013,HIV disease resulting in Kaposi's sarcoma
+Malignant neoplasms,420524008,2614767011,HIV disease resulting in Kaposi sarcoma
 Malignant neoplasms,363509000,482805015,Malignant neoplasm of small intestine and duodenum
 Malignant neoplasms,363403002,482606016,Malignant neoplasm of duodenum
 Malignant neoplasms,363404008,482607013,Malignant neoplasm of jejunum
 Malignant neoplasms,363405009,482610018,Malignant neoplasm of ileum
 Malignant neoplasms,187752007,288659012,Malignant neoplasm of Meckel's diverticulum
+Malignant neoplasms,109837002,1219535016,"Malignant neoplasm, overlapping lesion of small intestine"
 Malignant neoplasms,363509000,482804016,Malignant neoplasm of other specified site small intestine
 Malignant neoplasms,363509000,482804016,Malignant neoplasm of small intestine NOS
 Malignant neoplasms,187767006,288688013,Malignant neoplasm of liver and intrahepatic bile ducts
@@ -606,6 +765,7 @@ Malignant neoplasms,363420003,1228549016,Malignant neoplasm of retroperitoneum
 Malignant neoplasms,187803004,288741018,Malignant neoplasm of perinephric tissue
 Malignant neoplasms,187804005,288742013,Malignant neoplasm of retrocaecal tissue
 Malignant neoplasms,363420003,482639018,Malignant neoplasm of retroperitoneum NOS
+Malignant neoplasms,187807003,288746011,Overlapping malign lesion of retroperitoneum and peritoneum
 Malignant neoplasms,187808008,288747019,Malignant neoplasm of specified parts of peritoneum
 Malignant neoplasms,187810005,288749016,Malignant neoplasm of mesocaecum
 Malignant neoplasms,187811009,288751017,Malignant neoplasm of mesorectum
@@ -622,6 +782,7 @@ Malignant neoplasms,363499005,482785010,Malignant neoplasm of spleen NEC
 Malignant neoplasms,187821001,288761012,Angiosarcoma of spleen
 Malignant neoplasms,187822008,288762017,Fibrosarcoma of spleen
 Malignant neoplasms,363499005,482785010,Malignant neoplasm of spleen NOS
+Malignant neoplasms,187824009,288764016,"Malignant neoplasm, overlapping lesion of digestive system"
 Malignant neoplasms,255077007,380111011,Malignant neoplasm other spec digestive tract and peritoneum
 Malignant neoplasms,255077007,380111011,Malignant neoplasm of digestive tract and peritoneum NOS
 Malignant neoplasms,187828007,288770010,"Malig neop nasal cavities, middle ear and accessory sinuses"
@@ -641,6 +802,7 @@ Malignant neoplasms,363425008,482648011,Malignant neoplasm of maxillary sinus
 Malignant neoplasms,363426009,1228553019,Malignant neoplasm of ethmoid sinus
 Malignant neoplasms,363427000,482652011,Malignant neoplasm of frontal sinus
 Malignant neoplasms,363428005,482654012,Malignant neoplasm of sphenoidal sinus
+Malignant neoplasms,187838002,288790018,"Malignant neoplasm, overlapping lesion of accessory sinuses"
 Malignant neoplasms,187828007,288770010,"Malig neop other site nasal cavity, middle ear and sinuses"
 Malignant neoplasms,363506007,482798018,Malignant neoplasm of accessory sinus NOS
 Malignant neoplasms,363429002,482656014,Malignant neoplasm of larynx
@@ -653,6 +815,7 @@ Malignant neoplasms,187844003,288800018,Malignant neoplasm of cricoid cartilage
 Malignant neoplasms,187845002,288801019,Malignant neoplasm of cuneiform cartilage
 Malignant neoplasms,187846001,288802014,Malignant neoplasm of thyroid cartilage
 Malignant neoplasms,363431006,482660012,Malignant neoplasm of laryngeal cartilage NOS
+Malignant neoplasms,109369002,1219468014,"Malignant neoplasm, overlapping lesion of larynx"
 Malignant neoplasms,187842004,288796012,Malignant neoplasm of epiglottis NOS
 Malignant neoplasms,363429002,482656014,"Malignant neoplasm of larynx, other specified site"
 Malignant neoplasms,363429002,482656014,Malignant neoplasm of larynx NOS
@@ -673,6 +836,8 @@ Malignant neoplasms,448670003,2901476012,Malignant neoplasm of posterior mediast
 Malignant neoplasms,363494000,482776010,"Malignant neoplasm of mediastinum, part unspecified"
 Malignant neoplasms,187881004,288841011,"Malig neop of other site of heart, thymus and mediastinum"
 Malignant neoplasms,187881004,288841011,"Malignant neoplasm of heart, thymus and mediastinum NOS"
+Malignant neoplasms,109384006,1217361012,"Malig neo, overlapping lesion of heart, mediastinum & pleura"
+Malignant neoplasms,93841009,510723012,"Malignant neoplasm, overlap lesion of resp & intrathor orgs"
 Malignant neoplasms,428100006,2691955010,Malig neop other/ill-defined sites resp/intrathoracic organs
 Malignant neoplasms,187833006,288777013,"Malig neop of upper respiratory tract, part unspecified"
 Malignant neoplasms,93986008,155490010,Malignant neoplasm of other site of respiratory tract
@@ -722,6 +887,7 @@ Malignant neoplasms,269469005,403699012,Malig neop connective and soft tissue ot
 Malignant neoplasms,269469005,403699012,"Malignant neoplasm of connective and soft tissue, site NOS"
 Malignant neoplasms,188029000,289008015,Kaposi's sarcoma of soft tissue
 Malignant neoplasms,721567004,3325477011,Malignant neoplasm of placenta
+Malignant neoplasms,188188009,289184018,Choriocarcinoma
 Malignant neoplasms,428322007,2694321016,Malignant neoplasm of ovary and other uterine adnexa
 Malignant neoplasms,363444001,482686019,Malignant neoplasm of fallopian tube
 Malignant neoplasms,93728003,155155010,Malignant neoplasm of broad ligament
@@ -741,6 +907,7 @@ Malignant neoplasms,363367000,482534017,Malignant neoplasm of vulva unspecified
 Malignant neoplasms,275419009,411399019,Primary vulval cancer
 Malignant neoplasms,109878000,174564019,Malignant neoplasm/overlapping lesion/feml genital organs
 Malignant neoplasms,363514001,482815014,Malignant neoplasm of other specified female genital organ
+Malignant neoplasms,109885001,174573010,Malignant neoplasm of overlapping lesion of vulva
 Malignant neoplasms,363514001,482815014,Malignant neoplasm of female genital organ NOS
 Malignant neoplasms,363450006,1228575017,Malignant neoplasm of prepuce (foreskin)
 Malignant neoplasms,363451005,482698012,Malignant neoplasm of glans penis
@@ -749,6 +916,7 @@ Malignant neoplasms,363516004,482819015,"Malignant neoplasm of penis, part unspe
 Malignant neoplasms,363452003,482700015,Malignant neoplasm of epididymis
 Malignant neoplasms,363453008,482702011,Malignant neoplasm of spermatic cord
 Malignant neoplasms,363454002,482704012,Malignant neoplasm of scrotum
+Malignant neoplasms,109875002,1219540012,"Malignant neoplasm, overlapping lesion of penis"
 Malignant neoplasms,363515000,482817018,Malignant neoplasm of other male genital organ
 Malignant neoplasms,188234005,289252019,Malignant neoplasm of seminal vesicle
 Malignant neoplasms,188235006,289257013,Malignant neoplasm of tunica vaginalis
@@ -759,6 +927,7 @@ Malignant neoplasms,419052002,2577717014,Malig neop of kidney and other unspecif
 Malignant neoplasms,363459007,482714015,Malignant neoplasm of urethra
 Malignant neoplasms,363460002,1228591019,Malignant neoplasm of paraurethral glands
 Malignant neoplasms,419052002,2577717014,Malignant neoplasm of other urinary organs
+Malignant neoplasms,188256008,289298018,Malignant neoplasm of overlapping lesion of urinary organs
 Malignant neoplasms,419052002,2577717014,Malignant neoplasm of kidney or urinary organs NOS
 Malignant neoplasms,363346000,1208875016,Malignant neoplasm of other and unspecified sites
 Malignant neoplasms,363346000,1228478017,Carcinoma of other and unspecified sites
@@ -771,6 +940,7 @@ Malignant neoplasms,188261005,289305011,Malignant neoplasm of eyeball NOS
 Malignant neoplasms,363462005,482720019,Malignant neoplasm of orbit
 Malignant neoplasms,188268004,289317013,Malignant neoplasm of connective tissue of orbit
 Malignant neoplasms,363462005,482720019,Malignant neoplasm of orbit NOS
+Malignant neoplasms,188272000,289322013,Malignant neoplasm of lacrimal gland
 Malignant neoplasms,363463000,482722010,Malignant neoplasm of conjunctiva
 Malignant neoplasms,363464006,482724011,Malignant neoplasm of cornea
 Malignant neoplasms,363465007,482726013,Malignant neoplasm of retina
@@ -778,6 +948,7 @@ Malignant neoplasms,363466008,482728014,Malignant neoplasm of choroid
 Malignant neoplasms,188272000,289322013,Malignant neoplasm of lacrimal duct
 Malignant neoplasms,188273005,289325010,Malignant neoplasm of lacrimal sac
 Malignant neoplasms,188274004,289326011,Malignant neoplasm of nasolacrimal duct
+Malignant neoplasms,109948008,1217367011,"Malignant neoplasm, overlapping lesion of eye and adnexa"
 Malignant neoplasms,363461003,1208876015,Malignant neoplasm of other specified site of eye
 Malignant neoplasms,363461003,1208876015,Malignant neoplasm of eye NOS
 Malignant neoplasms,372063002,1210641014,Malig neop of other and unspecified parts of nervous system
@@ -843,7 +1014,6 @@ Malignant neoplasms,188640007,289751010,"Malignant histiocytosis of lymph nodes 
 Malignant neoplasms,93182006,154183017,Malignant histiocytosis of intra-abdominal lymph nodes
 Malignant neoplasms,118612006,177031015,Malignant histiocytosis NOS
 Malignant neoplasms,118614007,177033017,Letterer-Siwe disease
-Malignant neoplasms,118614007,177033017,"Histiocytosis X (acute, progressive)"
 Malignant neoplasms,118614007,177033017,Letterer-Siwe disease of unspecified sites
 Malignant neoplasms,93135004,154082012,Letterer-Siwe disease of intrathoracic lymph nodes
 Malignant neoplasms,93139005,154089015,Letterer-Siwe disease of lymph nodes of multiple sites
@@ -871,7 +1041,14 @@ Malignant neoplasms,275524009,411516014,Immunoproliferative neoplasm or myeloma 
 Malignant neoplasms,269475001,403705015,Malignant neoplasm lymphatic or haematopoietic tissue OS
 Malignant neoplasms,269475001,403705015,Malignant neoplasm lymphatic or haematopoietic tissue NOS
 Malignant neoplasms,109391009,173950019,Kaposi's sarcoma of lymph nodes
+Malignant neoplasms,25190001,1224772013,"[M]Adenocarcinoma, intestinal type"
+Malignant neoplasms,2227007,4846017,[M]Adrenal cortical carcinoma
 Malignant neoplasms,39000009,491878017,[M]Haemangiosarcoma
+Malignant neoplasms,33176006,1216413014,"[M]Haemangioendothelioma, malignant"
+Malignant neoplasms,76060004,1788158015,[M]Aesthesioneuroblastoma
+Malignant neoplasms,76060004,126335013,[M]Olfactory neuroblastoma
+Malignant neoplasms,68614005,501064013,[M]Olfactory neuroepithelioma
+Malignant neoplasms,128813000,1220820016,[M]True histiocytic lymphoma
 Malignant neoplasms,363508008,482802017,"[X]Malignant neoplasm of intestinal tract, part unspecified"
 Malignant neoplasms,428905002,2693067015,[X]Malignant neoplsm/ill-defin sites within digestive system
 Malignant neoplasms,449096009,2899758015,[X]Malignant neoplasm/ill-defined sites within resp system
@@ -906,10 +1083,13 @@ Malignant neoplasms,190955000,293616019,"Histiocytosis X , chronic"
 Malignant neoplasms,65399007,108660017,"Histiocytosis X , unspecified"
 Malignant neoplasms,363443007,482684016,Malignant neoplasm of ovary
 Malignant neoplasms,363443007,1228570010,Cancer of ovary
+Malignant neoplasms,30289006,50697019,[M]Endometrioid carcinoma
+Malignant neoplasms,18105004,1221668019,"[M]Endometrioid adenofibroma, malignant"
+Malignant neoplasms,18854008,1222203017,"[M]Struma ovarii, malignant"
 Malignant neoplasms,307726001,451077018,Anaemia in ovarian carcinoma
 Malignant neoplasms,399326009,880461000006118,Carcinoma bladder
 Malignant neoplasms,399326009,1773307015,Malignant tumour of urinary bladder
-Malignant neoplasms,314968009,1803771000006112,Local recurrence of malignant tumour of urinary bladder
+Malignant neoplasms,314968009,1803771000006112,local recurrence of malignant tumour of urinary bladder
 Malignant neoplasms,399326009,1786811017,Malignant neoplasm of urinary bladder
 Malignant neoplasms,188239000,289262014,Malignant neoplasm of trigone of urinary bladder
 Malignant neoplasms,188240003,289267015,Malignant neoplasm of dome of urinary bladder
@@ -921,6 +1101,7 @@ Malignant neoplasms,188245008,289276010,Malignant neoplasm of ureteric orifice
 Malignant neoplasms,363456000,482708010,Malignant neoplasm of urachus
 Malignant neoplasms,314968009,459399016,Local recurrence of malignant tumour of urinary bladder
 Malignant neoplasms,399326009,1773307015,Malignant neoplasm of other site of urinary bladder
+Malignant neoplasms,188247000,289280017,"Malignant neoplasm, overlapping lesion of bladder"
 Malignant neoplasms,399326009,1786811017,Malignant neoplasm of urinary bladder NOS
 Malignant neoplasms,94989005,511747013,Neoplasm of uncertain behaviour of parotid gland
 Malignant neoplasms,95001001,511765012,Neoplasm of uncertain behaviour of pharynx
@@ -1285,10 +1466,8 @@ Malignant neoplasms,30664006,51326018,"MEN, type 1"
 Malignant neoplasms,30664006,1227293018,MEN 1 - Multiple endocrine neoplasia syndrome type 1
 Malignant neoplasms,61808009,499128019,Sipple's syndrome
 Malignant neoplasms,30664006,51329013,"Multiple endocrine adenomatosis, type 1"
-Malignant neoplasms,61808009,102730011,Familial chromaffinomatosis
 Malignant neoplasms,61808009,102731010,"MEA, type 2"
 Malignant neoplasms,61808009,102726013,"Multiple endocrine neoplasia, type 2"
-Malignant neoplasms,46724008,77873011,Familial polyendocrine adenomatosis
 Malignant neoplasms,46724008,1230390012,MEA - Multiple endocrine adenomatosis
 Malignant neoplasms,61808009,102729018,PTC syndrome
 Malignant neoplasms,61808009,102728014,Sipple syndrome
@@ -1385,10 +1564,7 @@ Malignant neoplasms,30746006,51452013,[D]Lymph node enlargement
 Malignant neoplasms,30746006,51456011,[D]Lymphadenopathy
 Malignant neoplasms,30746006,51452013,[D]Lymph node enlargement NOS
 Malignant neoplasms,30746006,1227324019,LA - Lymphadenopathy
-Malignant neoplasms,254290004,2695039014,Post-transplantation lymphoproliferative syndrome
-Malignant neoplasms,254290004,378525012,PTLD - Post-transplant lymphoproliferative disorder
 Malignant neoplasms,277606000,414231017,Lymphoreticular tumour
-Malignant neoplasms,254290004,378524011,Post-transplant lymphoproliferative disorder
 Malignant neoplasms,277606000,414231017,Other malignant neoplasm of lymphoid and histiocytic tissue
 Malignant neoplasms,277606000,414232012,Lymphoreticular tumor
 Malignant neoplasms,202574006,310959019,Synovial osteochondromatosis of other tarsal joint

@@ -1,7 +1,9 @@
 Condition,SNOMED_Code,SnomedCTDescriptionId,Term
-Fibrosing alveolitis/unspecified alveolitis,51615001,85961019,Cirrhosis of lung
-Fibrosing alveolitis/unspecified alveolitis,266368002,3035384014,Postinflammatory pulmonary fibrosis
-Fibrosing alveolitis/unspecified alveolitis,51615001,885491000006116,Pulmonary fibrosis
+Fibrosing alveolitis/unspecified alveolitis,909731000006101,909731000006117,[RFC] Pulmonary fibrosis
+Fibrosing alveolitis/unspecified alveolitis,51615001,85961019,cirrhosis of lung
+Fibrosing alveolitis/unspecified alveolitis,45157009,75302014,idiopathic fibrosing alveolitis
+Fibrosing alveolitis/unspecified alveolitis,266368002,3035384014,postinflammatory pulmonary fibrosis
+Fibrosing alveolitis/unspecified alveolitis,51615001,885491000006116,pulmonary fibrosis
 Fibrosing alveolitis/unspecified alveolitis,162974009,254003016,O/E - fibrosis of lung present
 Fibrosing alveolitis/unspecified alveolitis,162974009,254002014,O/E - fibrosis of lung
 Fibrosing alveolitis/unspecified alveolitis,266368002,396123011,Postinflammatory pulmonary fibrosis

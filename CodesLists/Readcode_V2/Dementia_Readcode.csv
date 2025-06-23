@@ -1,0 +1,82 @@
+Condition,ReadCode,CleansedReadCode,Term
+Dementia,,,Dementia
+Dementia,,,Dementia monitoring in primary care
+Dementia,,,Dementia monitoring in secondary care
+Dementia,,,Dementia review
+Dementia,,,[D] Dementia
+Dementia,,,[D] Dementia in Alzheimer's disease
+Dementia,,,[D] Dementia with Lewy bodies
+Dementia,,,[D] Vascular dementia
+Dementia,,,dementia care plan
+Dementia,,,multi infarct dementia
+Dementia,66h..00,,Dementia monitoring
+Dementia,6AB..00,,Dementia annual review
+Dementia,8CMZ.00,,Dementia care plan
+Dementia,9Ou..00,,Dementia monitoring administration
+Dementia,9Ou1.00,,Dementia monitoring first letter
+Dementia,9Ou2.00,,Dementia monitoring second letter
+Dementia,9Ou3.00,,Dementia monitoring third letter
+Dementia,9Ou4.00,,Dementia monitoring verbal invite
+Dementia,9Ou5.00,,Dementia monitoring telephone invite
+Dementia,9hD..00,,Exception reporting: dementia quality indicators
+Dementia,9hD0.00,,Excepted from dementia quality indicators: Patient unsuitabl
+Dementia,9hD1.00,,Excepted from dementia quality indicators: Informed dissent
+Dementia,E00..00,,Senile and presenile organic psychotic conditions
+Dementia,E00..11,,Senile dementia
+Dementia,E00..12,,Senile/presenile dementia
+Dementia,E000.00,,Uncomplicated senile dementia
+Dementia,E001.00,,Presenile dementia
+Dementia,E001000,,Uncomplicated presenile dementia
+Dementia,E001100,,Presenile dementia with delirium
+Dementia,E001200,,Presenile dementia with paranoia
+Dementia,E001300,,Presenile dementia with depression
+Dementia,E001z00,,Presenile dementia NOS
+Dementia,E002.00,,Senile dementia with depressive or paranoid features
+Dementia,E002000,,Senile dementia with paranoia
+Dementia,E002100,,Senile dementia with depression
+Dementia,E002z00,,Senile dementia with depressive or paranoid features NOS
+Dementia,E003.00,,Senile dementia with delirium
+Dementia,E004.00,,Arteriosclerotic dementia
+Dementia,E004.11,,Multi infarct dementia
+Dementia,E004000,,Uncomplicated arteriosclerotic dementia
+Dementia,E004100,,Arteriosclerotic dementia with delirium
+Dementia,E004200,,Arteriosclerotic dementia with paranoia
+Dementia,E004300,,Arteriosclerotic dementia with depression
+Dementia,E004z00,,Arteriosclerotic dementia NOS
+Dementia,E00y.00,,Other senile and presenile organic psychoses
+Dementia,E00y.11,,Presbyophrenic psychosis
+Dementia,E00z.00,,Senile or presenile psychoses NOS
+Dementia,E041.00,,Dementia in conditions EC
+Dementia,Eu00.00,,[X]Dementia in Alzheimer's disease
+Dementia,Eu00000,,[X]Dementia in Alzheimer's disease with early onset
+Dementia,Eu00011,,"[X]Presenile dementia,Alzheimer's type"
+Dementia,Eu00012,,"[X]Primary degen dementia, Alzheimer's type, presenile onset"
+Dementia,Eu00013,,[X]Alzheimer's disease type 2
+Dementia,Eu00100,,[X]Dementia in Alzheimer's disease with late onset
+Dementia,Eu00111,,[X]Alzheimer's disease type 1
+Dementia,Eu00112,,"[X]Senile dementia,Alzheimer's type"
+Dementia,Eu00113,,"[X]Primary degen dementia of Alzheimer's type, senile onset"
+Dementia,Eu00200,,"[X]Dementia in Alzheimer's dis, atypical or mixed type"
+Dementia,Eu00z00,,"[X]Dementia in Alzheimer's disease, unspecified"
+Dementia,Eu00z11,,[X]Alzheimer's dementia unspec
+Dementia,Eu01.00,,[X]Vascular dementia
+Dementia,Eu01.11,,[X]Arteriosclerotic dementia
+Dementia,Eu01100,,[X]Multi-infarct dementia
+Dementia,Eu01111,,[X]Predominantly cortical dementia
+Dementia,Eu01200,,[X]Subcortical vascular dementia
+Dementia,Eu01300,,[X]Mixed cortical and subcortical vascular dementia
+Dementia,Eu01y00,,[X]Other vascular dementia
+Dementia,Eu01z00,,"[X]Vascular dementia, unspecified"
+Dementia,Eu02z00,,[X] Unspecified dementia
+Dementia,Eu02z11,,[X] Presenile dementia NOS
+Dementia,Eu02z12,,[X] Presenile psychosis NOS
+Dementia,Eu02z13,,[X] Primary degenerative dementia NOS
+Dementia,Eu02z14,,[X] Senile dementia NOS
+Dementia,Eu02z15,,[X] Senile psychosis NOS
+Dementia,Eu02z16,,"[X] Senile dementia, depressed or paranoid type"
+Dementia,Eu04100,,[X]Delirium superimposed on dementia
+Dementia,F110.00,,Alzheimer's disease
+Dementia,F110000,,Alzheimer's disease with early onset
+Dementia,F110100,,Alzheimer's disease with late onset
+Dementia,Fyu3000,,[X]Other Alzheimer's disease
+Dementia,ZS7C500,,Language disorder of dementia

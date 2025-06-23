@@ -1,31 +1,148 @@
 Condition,MedCode,Term
+Drug or alcohol misuse,1012911000006111,Adverse reaction to Drugs used in Substance Dependence
+Drug or alcohol misuse,6025041000006113,Counseling for substance abuse
+Drug or alcohol misuse,6025051000006110,Counselling for substance abuse
+Drug or alcohol misuse,968671000006118,Currently injecting drugs
+Drug or alcohol misuse,1973701000006119,"Mental and behav dis due to use alcohol: dependence syndr, currently abstinent"
+Drug or alcohol misuse,1974141000006118,"Mental and behav dis due to use alcohol: dependence syndr, episodic use [dipsomania]"
+Drug or alcohol misuse,1976611000006118,"Mental and behav dis due to use opioids: dependence syndr, continuous use"
+Drug or alcohol misuse,968691000006117,Misuse of Cannabis herbal
+Drug or alcohol misuse,968731000006113,Misuse of Cannabis herbal (skunk)
+Drug or alcohol misuse,968711000006119,Misuse of Cannabis resin
+Drug or alcohol misuse,968681000006115,Misuse of Cannabis unspecified
+Drug or alcohol misuse,969781000006115,Misuse of Cocaine freebase (crack)
+Drug or alcohol misuse,969761000006113,Misuse of Cocaine unspecified
+Drug or alcohol misuse,968761000006116,Misuse of Heroin illicit
+Drug or alcohol misuse,969331000006115,Misuse of Opiate compound analgesics
+Drug or alcohol misuse,969261000006119,Misuse of Opiate containing mixture
+Drug or alcohol misuse,969011000006112,Misuse of Opiates unspecified
+Drug or alcohol misuse,969391000006116,Misuse of other Opiates
 Drug or alcohol misuse,882501000006119,Morphine/cocaine dependence
 Drug or alcohol misuse,2639961000000113,Opioid analgesic dependence
+Drug or alcohol misuse,6025031000006115,Substance abuse counseling
 Drug or alcohol misuse,1809471000006115,Substance dependence
+Drug or alcohol misuse,968631000006116,Substance misuse of Amphetamines
+Drug or alcohol misuse,969401000006119,Substance misuse of Benzodiazepines
+Drug or alcohol misuse,968651000006111,Substance misuse of Cannabis
+Drug or alcohol misuse,969711000006110,Substance misuse of Cocaine
+Drug or alcohol misuse,969741000006114,Substance misuse of Crack
+Drug or alcohol misuse,969701000006112,Substance misuse of Ecstasy
+Drug or alcohol misuse,968741000006115,Substance misuse of Heroin
+Drug or alcohol misuse,968841000006110,Substance misuse of Methadone
+Drug or alcohol misuse,969001000006114,Substance misuse of other Opiates
+Drug or alcohol misuse,969991000006115,Substance misuse of other drugs
+Drug or alcohol misuse,970531000006111,Substance misuse of poly drug
+Drug or alcohol misuse,910581000006116,[RFC] Drug/ substance abuse
+Drug or alcohol misuse,910601000006114,[RFC] Substance abuse
+Drug or alcohol misuse,1110001000006119,adverse reaction to buprenorphine
+Drug or alcohol misuse,851461000006115,drug misuse behaviour
+Drug or alcohol misuse,852211000006112,misused drugs in past
+Drug or alcohol misuse,1854731000006115,seen in drug misuse clinic
+Drug or alcohol misuse,1924681000006115,substance abuse counselling
+Drug or alcohol misuse,456900016,substance abuse counselling
+Drug or alcohol misuse,2533732013,Substance misuse increased
+Drug or alcohol misuse,2533731018,Substance misuse decreased
 Drug or alcohol misuse,2548235012,Current drug user
+Drug or alcohol misuse,2549278014,Reduced drugs misuse
+Drug or alcohol misuse,2551020015,Subcutaneous drug user
+Drug or alcohol misuse,342443012,Smokes drugs
 Drug or alcohol misuse,342441014,Misuses drugs orally
+Drug or alcohol misuse,2548767014,Continuous use of drugs
+Drug or alcohol misuse,2548201014,Episodic use of drugs
 Drug or alcohol misuse,2548750019,Prolonged high dose use of cannabis
+Drug or alcohol misuse,2548950012,Preoccupied with substance misuse
 Drug or alcohol misuse,2548434014,Persistent substance misuse
 Drug or alcohol misuse,2548992019,Previously injecting drug user
+Drug or alcohol misuse,406071000000119,Current non recreational drug user
+Drug or alcohol misuse,1627491000006112,Substance misuse
+Drug or alcohol misuse,2548888013,Abstinent from drug misuse when receiving blocking therapy
 Drug or alcohol misuse,512651000000113,Uses heroin on top of substitution therapy
+Drug or alcohol misuse,512661000000111,Does not use heroin on top of substitution therapy
+Drug or alcohol misuse,1216143019,Drug misuse behaviour
 Drug or alcohol misuse,477158014,Misuses drugs
 Drug or alcohol misuse,297031000000117,Occasional drug user
 Drug or alcohol misuse,342434015,Long-term drug misuser
 Drug or alcohol misuse,342435019,Poly-drug misuser
+Drug or alcohol misuse,342451010,Misuses drugs rectally
+Drug or alcohol misuse,342439013,Notified addict
+Drug or alcohol misuse,342444018,Smokes drugs in cigarette form
+Drug or alcohol misuse,342445017,Smokes drugs through a pipe
+Drug or alcohol misuse,342446016,Chases the dragon
+Drug or alcohol misuse,342447013,Sniffs drugs
 Drug or alcohol misuse,342438017,Drug addict
+Drug or alcohol misuse,757341000000110,Health problem secondary to drug misuse
+Drug or alcohol misuse,342492018,Age at starting drug misuse
+Drug or alcohol misuse,342490014,Time since stopped drug misuse
 Drug or alcohol misuse,494053016,Misused drugs in past
+Drug or alcohol misuse,342455018,Injects drugs subcutaneously
+Drug or alcohol misuse,342457014,Injects drugs intramuscularly
+Drug or alcohol misuse,407241000000119,Neck injector
+Drug or alcohol misuse,342475010,Shares drug equipment
+Drug or alcohol misuse,342472013,Drug injecting equipment hygiene
+Drug or alcohol misuse,342473015,Sharing of drug injecting equipment
+Drug or alcohol misuse,342494017,Priority of drug-related activities
+Drug or alcohol misuse,342504010,Routine of drug-related activities
 Drug or alcohol misuse,450216018,Illicit drug use
 Drug or alcohol misuse,309921000000119,Heroin misuse
 Drug or alcohol misuse,309861000000116,Ecstasy misuse
 Drug or alcohol misuse,2292881000000111,Urine methadone positive
 Drug or alcohol misuse,2292761000000111,Urine buprenorphine positive
+Drug or alcohol misuse,531051000000115,Substance misuse structured counselling
 Drug or alcohol misuse,371621000000117,Delivery of rehabilitation for drug addiction
+Drug or alcohol misuse,405581000000116,Drug abuse monitoring
+Drug or alcohol misuse,397153012,Drug addiction therapy
+Drug or alcohol misuse,630131000006118,Drug addictn therap-methadone
+Drug or alcohol misuse,630361000006113,Drug dependence therapy
+Drug or alcohol misuse,298101000000113,Buprenorphine maintenance therapy
+Drug or alcohol misuse,302981000000113,Drug addiction detoxification therapy - methadone
+Drug or alcohol misuse,303011000000111,Drug addiction maintenance therapy - methadone
+Drug or alcohol misuse,316901000000118,Drug addiction maintenance therapy - buprenorphine
+Drug or alcohol misuse,316931000000112,Drug addiction detoxification therapy - buprenorphine
+Drug or alcohol misuse,541451000000111,Opioid agonist substitution therapy
+Drug or alcohol misuse,541541000000112,Opioid antagonist therapy
+Drug or alcohol misuse,615701000006114,Detoxification dependence drug
+Drug or alcohol misuse,305121000000119,Substance misuse management stopped - self withdrawal
+Drug or alcohol misuse,314821000000113,Opiate dependence detoxification
+Drug or alcohol misuse,495611000000112,Reinduction to methadone maintenance therapy
+Drug or alcohol misuse,495671000000119,Reinduction to buprenorphine maintenance therapy
+Drug or alcohol misuse,1780455014,Referral to drug abuse counsellor
+Drug or alcohol misuse,540681000000110,Self referral to substance misuse service
+Drug or alcohol misuse,540591000000111,Referral to substance misuse service
+Drug or alcohol misuse,1550291000000111,Admission to substance misuse detoxification centre
+Drug or alcohol misuse,405031011,Drug addiction notification
+Drug or alcohol misuse,630051000006114,Drug addict notific admin
+Drug or alcohol misuse,630061000006111,Drug addict notific to CMO
+Drug or alcohol misuse,285115018,Drug addict re-notific due
+Drug or alcohol misuse,21261000000113,Drug addict re-notif to CMO
+Drug or alcohol misuse,1676621000006110,Drug addict-notify local SMR22
+Drug or alcohol misuse,285119012,Drug addiction notif NOS
+Drug or alcohol misuse,2533634017,Substance misuse monitoring
+Drug or alcohol misuse,2533642016,Initial substance misuse assessment
+Drug or alcohol misuse,2533651012,Follow up substance misuse assessment
+Drug or alcohol misuse,2533726015,Substance misuse clinical management plan agreed
+Drug or alcohol misuse,300081000000111,Substance misuse clinical management plan reviewed
+Drug or alcohol misuse,305701000000112,Substance misuse treatment withdrawn
+Drug or alcohol misuse,305731000000118,Substance misuse treatment programme completed
+Drug or alcohol misuse,530931000000116,Substance misuse treatment declined
+Drug or alcohol misuse,1716731000006118,SMR25a drug misuse initial assessment form
+Drug or alcohol misuse,2264491000000115,Seen in drug misuse clinic
+Drug or alcohol misuse,2537051014,DNA - Did not attend substance misuse clinic
+Drug or alcohol misuse,1063801000000119,Seen in substance misuse clinic
+Drug or alcohol misuse,235741000000110,Drug misuse - enhanced services administration
+Drug or alcohol misuse,237641000000113,Drug misuse - enhanced service completed
+Drug or alcohol misuse,1704461000006111,Shared care drug misuse treatment - enhanced services admin
+Drug or alcohol misuse,1153451000000115,Shared care drug misuse treatment
+Drug or alcohol misuse,1704471000006116,Drug misuse treatment primary care - enhanced services admin
+Drug or alcohol misuse,1714461000006113,Pharmacy attended for drug misuse - enhanced services admin
+Drug or alcohol misuse,1680621000006115,Drug misuse assessment declined - enhanced services administ
+Drug or alcohol misuse,2246691000000115,Drug misuse clinic administration
 Drug or alcohol misuse,630831000006113,Drug psychoses
 Drug or alcohol misuse,2670794016,Drug withdrawal syndrome
 Drug or alcohol misuse,294679011,Drug-induced paranoia or hallucinatory states
 Drug or alcohol misuse,294680014,Drug-induced paranoid state
 Drug or alcohol misuse,294681013,Drug-induced hallucinosis
 Drug or alcohol misuse,294682018,Drug-induced paranoia or hallucinatory state NOS
+Drug or alcohol misuse,42772010,Pathological drug intoxication
 Drug or alcohol misuse,294686015,Other drug psychoses
 Drug or alcohol misuse,294687012,Drug-induced delirium
 Drug or alcohol misuse,294688019,Drug-induced dementia
@@ -118,6 +235,7 @@ Drug or alcohol misuse,295238013,"Combined drug dependence, excluding opioid, in
 Drug or alcohol misuse,295239017,"Combined drug dependence, excluding opioid, NOS"
 Drug or alcohol misuse,295240015,Ecstasy type drug dependence
 Drug or alcohol misuse,295241016,Drug dependence NOS
+Drug or alcohol misuse,500344018,Nondependent abuse of drugs
 Drug or alcohol misuse,295261010,Nondependent cannabis abuse
 Drug or alcohol misuse,295262015,"Nondependent cannabis abuse, unspecified"
 Drug or alcohol misuse,295263013,"Nondependent cannabis abuse, continuous"
@@ -125,6 +243,8 @@ Drug or alcohol misuse,295264019,"Nondependent cannabis abuse, episodic"
 Drug or alcohol misuse,295265018,Nondependent cannabis abuse in remission
 Drug or alcohol misuse,295266017,Nondependent cannabis abuse NOS
 Drug or alcohol misuse,401798017,Nondependent hallucinogen abuse
+Drug or alcohol misuse,291791000006118,'Bad trips'
+Drug or alcohol misuse,369851012,LSD reaction
 Drug or alcohol misuse,295271012,"Nondependent hallucinogen abuse, unspecified"
 Drug or alcohol misuse,295272017,"Nondependent hallucinogen abuse, continuous"
 Drug or alcohol misuse,295274016,"Nondependent hallucinogen abuse, episodic"
@@ -167,14 +287,18 @@ Drug or alcohol misuse,295323014,"Nondependent mixed drug abuse, unspecified"
 Drug or alcohol misuse,295324015,"Nondependent mixed drug abuse, continuous"
 Drug or alcohol misuse,295325019,"Nondependent mixed drug abuse, episodic"
 Drug or alcohol misuse,295326018,Nondependent mixed drug abuse in remission
+Drug or alcohol misuse,295327010,Misuse of prescription only drugs
 Drug or alcohol misuse,295328017,Nondependent mixed drug abuse NOS
 Drug or alcohol misuse,401801011,Nondependent other drug abuse
 Drug or alcohol misuse,481371000006116,Analgesic abuse
+Drug or alcohol misuse,295335013,"Nondependent other drug abuse, unspecified"
 Drug or alcohol misuse,295336014,"Nondependent other drug abuse, continuous"
+Drug or alcohol misuse,295337017,"Nondependent other drug abuse, episodic"
+Drug or alcohol misuse,295338010,Nondependent other drug abuse in remission
+Drug or alcohol misuse,295339019,Nondependent other drug abuse NOS
 Drug or alcohol misuse,295340017,Misuse of drugs NOS
 Drug or alcohol misuse,398141000006110,[X]Mental and behavioural disorders due to psychoactive subs
 Drug or alcohol misuse,295803018,[X]Mental and behavioural disorders due to use of opioids
-Drug or alcohol misuse,397651000006119,[X]Mental & behav dis due to use opioids: acute intoxication
 Drug or alcohol misuse,397901000006111,[X]Mental and behav dis due to use of opioids: harmful use
 Drug or alcohol misuse,397931000006115,[X]Mental and behav dis due to use opioids: dependence syndr
 Drug or alcohol misuse,379281000006110,[X]Drug addiction - opioids
@@ -188,7 +312,6 @@ Drug or alcohol misuse,397161000006110,[X]Men & beh dis due opioids: resid & lat
 Drug or alcohol misuse,397261000006115,[X]Men & behav dis due to use opioids: oth men & behav dis
 Drug or alcohol misuse,397451000006116,[X]Ment & behav dis due use opioids: unsp ment & behav dis
 Drug or alcohol misuse,398151000006112,[X]Mental and behavioural disorders due to use cannabinoids
-Drug or alcohol misuse,397551000006115,[X]Mental & behav dis due cannabinoids: acute intoxication
 Drug or alcohol misuse,397831000006113,[X]Mental and behav dis due to use cannabinoids: harmful use
 Drug or alcohol misuse,397761000006114,[X]Mental and behav dis due to cannabinoids: dependence synd
 Drug or alcohol misuse,379251000006119,[X]Drug addiction - cannabis
@@ -199,7 +322,6 @@ Drug or alcohol misuse,398691000006112,[X]Mnt/bh dis due cannabinds: resid & lat
 Drug or alcohol misuse,397321000006119,[X]Men/behav dis due to use cannabinoids: oth men/behav disd
 Drug or alcohol misuse,397501000006119,[X]Ment/behav dis due use cannabinoids: unsp ment/behav disd
 Drug or alcohol misuse,398111000006111,[X]Mental and behavioural dis due use sedatives/hypnotics
-Drug or alcohol misuse,397571000006113,[X]Mental & behav dis due seds/hypntcs: acute intoxication
 Drug or alcohol misuse,397961000006112,[X]Mental and behav dis due to use seds/hypntcs: harmful use
 Drug or alcohol misuse,397781000006116,[X]Mental and behav dis due to seds/hypntcs: dependence synd
 Drug or alcohol misuse,379311000006112,[X]Drug addiction- sedative / hypnotics
@@ -207,7 +329,6 @@ Drug or alcohol misuse,397751000006112,[X]Mental and behav dis due seds/hypntcs:
 Drug or alcohol misuse,397171000006115,[X]Men & beh dis due seds/hypns: withdrwl state wth delirium
 Drug or alcohol misuse,397601000006118,[X]Mental & behav dis due to seds/hypntcs: psychotic disordr
 Drug or alcohol misuse,295877018,[X]Mental and behavioural disorders due to use of cocaine
-Drug or alcohol misuse,397631000006114,[X]Mental & behav dis due to use cocaine: acute intoxication
 Drug or alcohol misuse,397891000006112,[X]Mental and behav dis due to use of cocaine: harmful use
 Drug or alcohol misuse,397851000006118,[X]Mental and behav dis due to use cocaine: dependence syndr
 Drug or alcohol misuse,379261000006117,[X]Drug addiction - cocaine
@@ -215,7 +336,6 @@ Drug or alcohol misuse,397861000006116,[X]Mental and behav dis due to use cocain
 Drug or alcohol misuse,397641000006116,[X]Mental & behav dis due to use cocaine: psychotic disorder
 Drug or alcohol misuse,397141000006111,[X]Men & beh dis due cocaine: resid & late-onset psychot dis
 Drug or alcohol misuse,397711000006111,[X]Mental & behav disorder due other stimulants inc caffein
-Drug or alcohol misuse,398671000006111,[X]Mnt/beh dis due oth stim inc caffein: acute intoxication
 Drug or alcohol misuse,397491000006110,[X]Ment/behav dis due to use oth stims inc caff: harmful use
 Drug or alcohol misuse,398081000006117,[X]Mental and behav dis oth stim inc caffein: dependnce synd
 Drug or alcohol misuse,379321000006116,[X]Drug addiction-other stimul
@@ -224,7 +344,6 @@ Drug or alcohol misuse,398281000006112,[X]Mental/behav dis oth stims inc caffein
 Drug or alcohol misuse,398741000006114,[X]Mnt/bh dis oth stm inc caffne resid/late-onset psycht dis
 Drug or alcohol misuse,397481000006112,[X]Ment/beh dis oth stims inc caffeine: unsp ment/behav disd
 Drug or alcohol misuse,398161000006114,[X]Mental and behavioural disorders due to use hallucinogens
-Drug or alcohol misuse,397561000006118,[X]Mental & behav dis due hallucinogens: acute intoxicatn
 Drug or alcohol misuse,397871000006111,[X]Mental and behav dis due to use hallucinogens: harmfl use
 Drug or alcohol misuse,397771000006119,[X]Mental and behav dis due to hallucinogens: dependence syn
 Drug or alcohol misuse,379271000006112,[X]Drug addiction - hallucinogen
@@ -234,14 +353,14 @@ Drug or alcohol misuse,398701000006112,[X]Mnt/bh dis due hallucngns: resid & lat
 Drug or alcohol misuse,423031000006112,[X]Post hallucinogen perception disorder
 Drug or alcohol misuse,397511000006116,[X]Ment/behav dis due use hallucinogens: unsp ment/behav dis
 Drug or alcohol misuse,397721000006115,[X]Mental & behav disorders due to use of volatile solvents
-Drug or alcohol misuse,397701000006113,[X]Mental & behav dis due vol solvents: acute intoxication
 Drug or alcohol misuse,398041000006111,[X]Mental and behav dis due volatile solvents: harmful use
 Drug or alcohol misuse,398011000006112,[X]Mental and behav dis due to vol solvents: dependence synd
 Drug or alcohol misuse,295213015,[X]Drug addiction - solvent
 Drug or alcohol misuse,397191000006119,[X]Men & beh dis vol solvents: withdrawal state wth delirium
 Drug or alcohol misuse,397691000006113,[X]Mental & behav dis due to vol solvents: psychotic disordr
 Drug or alcohol misuse,397531000006110,[X]Ment/behav dis due use vol solvents: unsp ment/behav dis
-Drug or alcohol misuse,398271000006114,[X]Mental/behav dis multi drg use/psychoac subs: acute intox
+Drug or alcohol misuse,397291000006111,[X]Men & behav disorder multiple drug use/psychoactive subst
+Drug or alcohol misuse,398051000006113,[X]Mental and behav dis mlti drg/oth psychoa sbs: harmfl use
 Drug or alcohol misuse,398061000006110,[X]Mental and behav dis mlti/oth psych sbs: dependence syndr
 Drug or alcohol misuse,379301000006114,[X]Drug addiction NOS
 Drug or alcohol misuse,398071000006115,[X]Mental and behav dis mlti/oth psychoa sbs: withdrwl state
@@ -253,9 +372,16 @@ Drug or alcohol misuse,397301000006112,[X]Men/beh dis mlt drg use/oth psy sbs: o
 Drug or alcohol misuse,397471000006114,[X]Ment/beh dis multi drug use/oth psy sbs unsp mnt/beh dis
 Drug or alcohol misuse,980081000006112,[X]Mental and behavioural disorders due use of crack cocaine
 Drug or alcohol misuse,980101000006116,[X]Mental behav disorders due use crack cocaine: harmful use
+Drug or alcohol misuse,980111000006118,[X]Mental behav disorders due use crack cocaine: depend synd
+Drug or alcohol misuse,980121000006114,[X]Mental behav disord due crack cocaine: withdrawal state
 Drug or alcohol misuse,980141000006119,[X]Mental behav disord due crack cocaine: psychotic disorder
+Drug or alcohol misuse,980181000006113,[X]Ment behav dis due crack cocaine: unsp ment and behav dis
 Drug or alcohol misuse,2164309017,Adverse reaction to methadone
 Drug or alcohol misuse,2164310010,Adverse reaction to buprenorphine
 Drug or alcohol misuse,355481000006114,[X] Adverse reaction to methadone
 Drug or alcohol misuse,352141000006117,[X] Adverse reaction to buprenorphine
+Drug or alcohol misuse,0,Methadone maintenance
+Drug or alcohol misuse,0,Methadone therapy
+Drug or alcohol misuse,0,Heroin maintenance
+Drug or alcohol misuse,0,Substance abuse counselling
 Drug or alcohol misuse,461113010,[V]Drug abuse counselling and surveillance

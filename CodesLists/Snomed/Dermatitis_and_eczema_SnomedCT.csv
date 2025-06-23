@@ -1,36 +1,55 @@
 Condition,SNOMED_Code,SnomedCTDescriptionId,Term
 Dermatitis and eczema,24079001,889161000006118,Atopic eczema/dermatitis
+Dermatitis and eczema,584621000000108,889191000006114,Atopic eczema/dermatitis NOS
+Dermatitis and eczema,684861000000105,889251000006111,Chronic Eczema
 Dermatitis and eczema,23012005,889211000006110,Contact dermatitis : solvents
+Dermatitis and eczema,666631000000109,889201000006112,Contact dermatitis/eczema
+Dermatitis and eczema,584651000000103,889221000006119,Contact dermatitis: chemicals
 Dermatitis and eczema,200821000,889231000006116,Contact dermatitis:food/plants
 Dermatitis and eczema,93423006,883471000006116,Dermatitis of eyelid
 Dermatitis and eczema,24079001,889171000006113,Dermatitis/eczemas
 Dermatitis and eczema,24079001,889151000006115,Dermatitis/eczemas NOS
+Dermatitis and eczema,675491000000105,889381000006113,Dermatoses NOS
+Dermatitis and eczema,603351000000104,889391000006111,Dermatoses NOS
+Dermatitis and eczema,389145006,885291000006115,Extrinsic asthma - atopy
 Dermatitis and eczema,238932004,358088015,Genital lichen sclerosus
 Dermatitis and eczema,414492009,2534172017,Infective eczematoid dermatitis
 Dermatitis and eczema,402276007,1781440014,Irritant contact dermatitis due to incontinence
 Dermatitis and eczema,25674000,196453012,Lichen sclerosus
 Dermatitis and eczema,198033005,304496019,Lichen sclerosus of penis
 Dermatitis and eczema,53891004,89585011,Lichen simplex chronicus
+Dermatitis and eczema,982441000006107,982441000006111,Lichenified skin
 Dermatitis and eczema,238585003,889181000006111,Neurodermatitis
+Dermatitis and eczema,853841000006104,853841000006115,Nickel dermatitis
 Dermatitis and eczema,235049008,352261014,Oral lichen planus
+Dermatitis and eczema,608901000000107,889511000006112,Pompholyx
 Dermatitis and eczema,402567004,2536678019,Pompholyx eczema
 Dermatitis and eczema,50563003,84228013,Seborrheic dermatitis
 Dermatitis and eczema,50563003,889121000006112,Seborrhoeic dermat/eczema NOS
 Dermatitis and eczema,50563003,889131000006110,Seborrhoeic dermatitis/eczema
-Dermatitis and eczema,402222007,1787525019,Cheiropompholyx
-Dermatitis and eczema,40275004,1494721011,Contact eczema
-Dermatitis and eczema,3014005,484504011,Cutaneous autosensitization
-Dermatitis and eczema,200854003,3300317010,Irritant contact dermatitis due to food in contact with skin
-Dermatitis and eczema,53891004,89586012,Neurodermatitis circumscripta
+Dermatitis and eczema,905661000006103,905661000006119,[RFC] Eczema
+Dermatitis and eczema,939541000006107,939541000006111,[RFC] Eczema
+Dermatitis and eczema,584621000000108,1297201000000115,atopic dermatitis nos
+Dermatitis and eczema,402222007,1787525019,cheiropompholyx
+Dermatitis and eczema,666631000000109,1463201000000111,contact dermatitis and other eczemas
+Dermatitis and eczema,584651000000103,1297251000000119,contact dermatitis due to other chemical products
+Dermatitis and eczema,40275004,1494721011,contact eczema
+Dermatitis and eczema,3014005,484504011,cutaneous autosensitization
+Dermatitis and eczema,684861000000105,1499831000000118,eczema nos
+Dermatitis and eczema,200854003,3300317010,irritant contact dermatitis due to food in contact with skin
+Dermatitis and eczema,53891004,89586012,neurodermatitis circumscripta
+Dermatitis and eczema,608901000000107,1346871000000114,pompholyx unspecified
 Dermatitis and eczema,237463009,355885017,Nipple eczema
+Dermatitis and eczema,165000009,256618017,Skin:type 1 immediate reaction
 Dermatitis and eczema,36070007,60191017,Thrombocytopenic eczema with immunodeficiency
 Dermatitis and eczema,93423006,154630014,Eczematous eyelid dermatitis
 Dermatitis and eczema,93423006,154630014,Contact or allergic eyelid dermatitis
 Dermatitis and eczema,68670009,114057013,Allergic dermatitis - eyelid
 Dermatitis and eczema,93423006,154630014,Contact eczema - eyelids
+Dermatitis and eczema,71577007,118911017,Infective eyelid dermatitis of types resulting in deformity
 Dermatitis and eczema,27023008,45197011,Other eyelid infective dermatitis
-Dermatitis and eczema,54272002,1788053014,Acute eczematoid otitis extern
 Dermatitis and eczema,95812002,512310013,Eczema of external ear
+Dermatitis and eczema,389145006,1493645010,Extrinsic (atopic) asthma
 Dermatitis and eczema,123700004,192189011,Pustular eczema
 Dermatitis and eczema,703938007,3039229010,Infected dermatitis
 Dermatitis and eczema,703938007,3012078018,Dermatitis/dermatoses
@@ -131,7 +150,7 @@ Dermatitis and eczema,93419003,154625010,Nickel sensitivity
 Dermatitis and eczema,200877003,308618019,Contact dermatitis due to preservatives
 Dermatitis and eczema,81351008,134948013,Contact dermatitis due to radiation NOS
 Dermatitis and eczema,200879000,308620016,Contact dermatitis due to ultra-violet rays (excluding sun)
-Dermatitis and eczema,69827001,115978018,Contact dermatitis due to X-rays
+Dermatitis and eczema,69827001,115978018,Contact dermatitis due to x-rays
 Dermatitis and eczema,200881003,308622012,Contact dermatitis due to casting materials
 Dermatitis and eczema,40275004,63652013,Contact dermatitis: specified agent NOS
 Dermatitis and eczema,40275004,63652013,Contact dermatitis NOS

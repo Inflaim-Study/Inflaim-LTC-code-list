@@ -1,101 +1,159 @@
 Condition,ReadCode,CleansedReadCode,Term
-Spinal degenerative disease ,N111-99,N111.99,Cervical spond.with myelopathy
-Spinal degenerative disease ,N115-99,N115.99,Lumbosacral spond + myelopathy
-Spinal degenerative disease ,S1052,S105200,"Open fracture lumbar vertebra, spondylolysis"
-Spinal degenerative disease ,N11zz-99,N11zz99,Spondyloses
-Spinal degenerative disease ,^ESCT1275941,,Osteoarthritis of spine NOS
-Spinal degenerative disease ,^ESCT1272488,,Spondylosis NOS
-Spinal degenerative disease ,F1632,F163200,Myelopathy due to spondylosis
-Spinal degenerative disease ,N11-1,N11..11,Arthritis of spine
-Spinal degenerative disease ,N11-2,N11..12,Osteoarthritis of spine
-Spinal degenerative disease ,N111,N111.00,Cervical spondylosis with myelopathy
-Spinal degenerative disease ,N1110,N111000,Single-level cervical spondylosis with myelopathy
-Spinal degenerative disease ,N1111,N111100,Two-level cervical spondylosis with myelopathy
-Spinal degenerative disease ,N1112,N111200,Multiple-level cervical spondylosis with myelopathy
-Spinal degenerative disease ,N113,N113.00,Thoracic spondylosis with myelopathy
-Spinal degenerative disease ,N1130,N113000,Single-level thoracic spondylosis with myelopathy
-Spinal degenerative disease ,N1132,N113200,Multiple-level thoracic spondylosis with myelopathy
-Spinal degenerative disease ,N114,N114.00,Lumbosacral spondylosis without myelopathy
-Spinal degenerative disease ,N1140,N114000,Single-level lumbosacral spondylosis without myelopathy
-Spinal degenerative disease ,N1141,N114100,Two-level lumbosacral spondylosis without myelopathy
-Spinal degenerative disease ,N1142,N114200,Multiple-level lumbosacral spondylosis without myelopathy
-Spinal degenerative disease ,N115,N115.00,Lumbosacral spondylosis with myelopathy
-Spinal degenerative disease ,N1150,N115000,Single-level lumbosacral spondylosis with myelopathy
-Spinal degenerative disease ,N1151,N115100,Two-level lumbosacral spondylosis with myelopathy
-Spinal degenerative disease ,N1152,N115200,Multiple-level lumbosacral spondylosis with myelopathy
-Spinal degenerative disease ,N11C,N11C.00,Lumbosacral spondylosis with radiculopathy
-Spinal degenerative disease ,N11C0,N11C000,Single-level lumbosacral spondylosis with radiculopathy
-Spinal degenerative disease ,N11C1,N11C100,Two-level lumbosacral spondylosis with radiculopathy
-Spinal degenerative disease ,N11C2,N11C200,Multiple-level lumbosacral spondylosis with radiculopathy
-Spinal degenerative disease ,N11D,N11D.00,Osteoarthritis of spine
-Spinal degenerative disease ,N11D3,N11D300,Osteoarthritis of spine NOS
-Spinal degenerative disease ,N11z,N11z.00,Spondylosis NOS
-Spinal degenerative disease ,N11z-1,N11z.11,Osteoarthritis spine
-Spinal degenerative disease ,N11z0,N11z000,"Spondylosis without myelopathy, NOS"
-Spinal degenerative disease ,N11z1,N11z100,"Spondylosis with myelopathy, NOS"
-Spinal degenerative disease ,N11zz,N11zz00,Spondylosis NOS
-Spinal degenerative disease ,Nyu63,Nyu6300,[X]Other spondylosis with radiculopathy
-Spinal degenerative disease ,Nyu64,Nyu6400,[X]Other spondylosis
-Spinal degenerative disease ,EMISNQLA75,,Laminectomy
-Spinal degenerative disease ,7J405-99,7J40599,Laminectomy - unspecified
-Spinal degenerative disease ,7J406-99,7J40699,Laminectomy site re-opening
-Spinal degenerative disease ,N12A-99,N12A.99,Post laminectomy syndrome
-Spinal degenerative disease ,7J203,7J20300,Primary anterior excis cervical IV disc & interbody fusion
-Spinal degenerative disease ,7J207,7J20700,Primary microdiscectomy of cervical intervertebral disc
-Spinal degenerative disease ,7J232,7J23200,Primary costotransversectomy of thoracic intervertebral disc
-Spinal degenerative disease ,7J32,7J32.00,Primary lumbar discectomy
-Spinal degenerative disease ,7J321-1,7J32111,Primary fenestration of lumbar intervertebral disc
-Spinal degenerative disease ,7J326,7J32600,Primary lumbar microdiscectomy
-Spinal degenerative disease ,7J329,7J32900,Primary percutaneous intradiscal lumbar discectomy
-Spinal degenerative disease ,7J32y,7J32y00,Other specified primary lumbar discectomy
-Spinal degenerative disease ,7J33y,7J33y00,Other specified revisional lumbar discectomy
-Spinal degenerative disease ,7J4H0,7J4H000,Primary automated percutan mech excis cerv intervert disc
-Spinal degenerative disease ,7J4K0,7J4K000,Primary percutaneous decompres coblat cerv intervert disc
-Spinal degenerative disease ,7J4M0,7J4M000,Primary percut intrad radio thermocoag cerv intervert disc
-Spinal degenerative disease ,N12,N12..00,Intervertebral disc disorders
-Spinal degenerative disease ,N120,N120.00,Cervical disc displacement without myelopathy
-Spinal degenerative disease ,N120-1,N120.11,Prolapsed cervical intervertebral disc without myelopathy
-Spinal degenerative disease ,N120-2,N120.12,Cervical disc displacement
-Spinal degenerative disease ,N121,N121.00,Thoracic disc displacement without myelopathy
-Spinal degenerative disease ,N121-1,N121.11,Prolapsed thoracic intervertebral disc without myelopathy
-Spinal degenerative disease ,N122,N122.00,Lumbar disc displacement
-Spinal degenerative disease ,N122-1,N122.11,Prolapsed lumbar intervertebral disc
-Spinal degenerative disease ,N123,N123.00,"Disc displacement, site unspecified, without myelopathy"
-Spinal degenerative disease ,N123-1,N123.11,Intervertebral disc prolapse NOS
-Spinal degenerative disease ,N123-2,N123.12,Prolapsed intervertebral disc without myelopathy
-Spinal degenerative disease ,N124,N124.00,Schmorl's nodes
-Spinal degenerative disease ,N1240,N124000,Schmorl's nodes of unspecified region
-Spinal degenerative disease ,N1241,N124100,Schmorl's nodes of the thoracic region
-Spinal degenerative disease ,N1242,N124200,Schmorl's nodes of the lumbar region
-Spinal degenerative disease ,N124z,N124z00,"Schmorl's nodes, region NOS"
-Spinal degenerative disease ,N125,N125.00,Cervical disc degeneration
-Spinal degenerative disease ,N126,N126.00,Thoracic disc degeneration
-Spinal degenerative disease ,N127,N127.00,Lumbar disc degeneration
-Spinal degenerative disease ,N128,N128.00,Degenerative disc disease NOS
-Spinal degenerative disease ,N12C0,N12C000,Cervical disc prolapse with radiculopathy
-Spinal degenerative disease ,N12z,N12z.00,Other and unspecified disc disorders
-Spinal degenerative disease ,N12z0,N12z000,Other disc disorders of unspecified site
-Spinal degenerative disease ,N12z1,N12z100,Other cervical disc disorders
-Spinal degenerative disease ,N12z2,N12z200,Other thoracic disc disorders
-Spinal degenerative disease ,N12z3,N12z300,Other lumbar disc disorders
-Spinal degenerative disease ,N12z5,N12z500,Annular tear of cervical disc
-Spinal degenerative disease ,N12z6,N12z600,Resorption of cervical disc
-Spinal degenerative disease ,N12z7,N12z700,Calcification of cervical disc
-Spinal degenerative disease ,N12z9,N12z900,Annular tear of thoracic disc
-Spinal degenerative disease ,N12zB,N12zB00,Calcification of thoracic disc
-Spinal degenerative disease ,N12zD,N12zD00,Annular tear of lumbar disc
-Spinal degenerative disease ,N12zE,N12zE00,Resorption of lumbar disc
-Spinal degenerative disease ,N12zF,N12zF00,Calcification of lumbar disc
-Spinal degenerative disease ,N12zH,N12zH00,Cervical disc disorder with radiculopathy
-Spinal degenerative disease ,N12zz,N12zz00,Disc disorders NOS
-Spinal degenerative disease ,Nyu70,Nyu7000,[X]Other cervical disc displacement
-Spinal degenerative disease ,Nyu71,Nyu7100,[X]Other cervical disc degeneration
-Spinal degenerative disease ,Nyu72,Nyu7200,[X]Other cervical disc disorders
-Spinal degenerative disease ,Nyu73,Nyu7300,[X]Lumbar+other intervertebral disc disordrs with myelopathy
-Spinal degenerative disease ,Nyu75,Nyu7500,[X]Other specified intervertebral disc displacement
-Spinal degenerative disease ,Nyu76,Nyu7600,[X]Other specified intervertebral disc degeneration
-Spinal degenerative disease ,Nyu77,Nyu7700,[X]Other specified intervertebral disc disorders
-Spinal degenerative disease ,Nyu7B,Nyu7B00,"[X]Cervical disc disorder, unspecified"
-Spinal degenerative disease ,Zw040,Zw04000,[Q] Central disc prolapse
-Spinal degenerative disease ,Zw041,Zw04100,[Q] Posterolateral disc prolapse
-Spinal degenerative disease ,Zw042,Zw04200,[Q] Sequestrated disc prolapse
+Spinal degenerative disease ,,,Cervical spond.- no myelopathy
+Spinal degenerative disease ,,,Cervical spond.with myelopathy
+Spinal degenerative disease ,,,Lumbosacral spond + myelopathy
+Spinal degenerative disease ,,,"Open fracture lumbar vertebra, spondylolysis"
+Spinal degenerative disease ,,,Spondyloses
+Spinal degenerative disease ,,,osteoarthritis of spine nos
+Spinal degenerative disease ,,,spondylosis nos
+Spinal degenerative disease ,F163200,,Myelopathy due to spondylosis
+Spinal degenerative disease ,F337200,,Nerve root and plexus compressions in spondylosis
+Spinal degenerative disease ,N11..00,,Spondylosis and allied disorders
+Spinal degenerative disease ,N11..11,,Arthritis of spine
+Spinal degenerative disease ,N11..12,,Osteoarthritis of spine
+Spinal degenerative disease ,N110.00,,Cervical spondylosis without myelopathy
+Spinal degenerative disease ,N110.11,,Cervical spondylosis
+Spinal degenerative disease ,N110.12,,Osteoarthritis cervical spine
+Spinal degenerative disease ,N110000,,Single-level cervical spondylosis without myelopathy
+Spinal degenerative disease ,N110100,,Two-level cervical spondylosis without myelopathy
+Spinal degenerative disease ,N110200,,Multiple-level cervical spondylosis without myelopathy
+Spinal degenerative disease ,N111.00,,Cervical spondylosis with myelopathy
+Spinal degenerative disease ,N111000,,Single-level cervical spondylosis with myelopathy
+Spinal degenerative disease ,N111100,,Two-level cervical spondylosis with myelopathy
+Spinal degenerative disease ,N111200,,Multiple-level cervical spondylosis with myelopathy
+Spinal degenerative disease ,N112.00,,Thoracic spondylosis without myelopathy
+Spinal degenerative disease ,N112.11,,Thoracic spondylosis
+Spinal degenerative disease ,N112000,,Single-level thoracic spondylosis without myelopathy
+Spinal degenerative disease ,N112100,,Two-level thoracic spondylosis without myelopathy
+Spinal degenerative disease ,N112200,,Multiple-level thoracic spondylosis without myelopathy
+Spinal degenerative disease ,N112300,,Dorsal spondylosis without myelopathy
+Spinal degenerative disease ,N113.00,,Thoracic spondylosis with myelopathy
+Spinal degenerative disease ,N113000,,Single-level thoracic spondylosis with myelopathy
+Spinal degenerative disease ,N113200,,Multiple-level thoracic spondylosis with myelopathy
+Spinal degenerative disease ,N114.00,,Lumbosacral spondylosis without myelopathy
+Spinal degenerative disease ,N114.11,,Degeneration of lumbar spine
+Spinal degenerative disease ,N114.12,,Lumbar spondylosis
+Spinal degenerative disease ,N114000,,Single-level lumbosacral spondylosis without myelopathy
+Spinal degenerative disease ,N114100,,Two-level lumbosacral spondylosis without myelopathy
+Spinal degenerative disease ,N114200,,Multiple-level lumbosacral spondylosis without myelopathy
+Spinal degenerative disease ,N115.00,,Lumbosacral spondylosis with myelopathy
+Spinal degenerative disease ,N115000,,Single-level lumbosacral spondylosis with myelopathy
+Spinal degenerative disease ,N115100,,Two-level lumbosacral spondylosis with myelopathy
+Spinal degenerative disease ,N115200,,Multiple-level lumbosacral spondylosis with myelopathy
+Spinal degenerative disease ,N119.00,,Cervical spondylosis with radiculopathy
+Spinal degenerative disease ,N119000,,Single-level cervical spondylosis with radiculopathy
+Spinal degenerative disease ,N119100,,Two-level cervical spondylosis with radiculopathy
+Spinal degenerative disease ,N119200,,Multiple-level cervical spondylosis with radiculopathy
+Spinal degenerative disease ,N11A.00,,Cervical spondylosis with vascular compression
+Spinal degenerative disease ,N11B.00,,Thoracic spondylosis with radiculopathy
+Spinal degenerative disease ,N11B000,,Single-level thoracic spondylosis with radiculopathy
+Spinal degenerative disease ,N11B100,,Two-level thoracic spondylosis with radiculopathy
+Spinal degenerative disease ,N11B200,,Multiple-level thoracic spondylosis with radiculopathy
+Spinal degenerative disease ,N11C.00,,Lumbosacral spondylosis with radiculopathy
+Spinal degenerative disease ,N11C000,,Single-level lumbosacral spondylosis with radiculopathy
+Spinal degenerative disease ,N11C100,,Two-level lumbosacral spondylosis with radiculopathy
+Spinal degenerative disease ,N11C200,,Multiple-level lumbosacral spondylosis with radiculopathy
+Spinal degenerative disease ,N11D.00,,Osteoarthritis of spine
+Spinal degenerative disease ,N11D000,,Osteoarthritis of cervical spine
+Spinal degenerative disease ,N11D100,,Osteoarthritis of thoracic spine
+Spinal degenerative disease ,N11D200,,Osteoarthritis of lumbar spine
+Spinal degenerative disease ,N11D300,,Osteoarthritis of spine NOS
+Spinal degenerative disease ,N11E.00,,Cervical spondylosis
+Spinal degenerative disease ,N11z.00,,Spondylosis NOS
+Spinal degenerative disease ,N11z.11,,Osteoarthritis spine
+Spinal degenerative disease ,N11z000,,"Spondylosis without myelopathy, NOS"
+Spinal degenerative disease ,N11z100,,"Spondylosis with myelopathy, NOS"
+Spinal degenerative disease ,N11zz00,,Spondylosis NOS
+Spinal degenerative disease ,Nyu6300,,[X]Other spondylosis with radiculopathy
+Spinal degenerative disease ,Nyu6400,,[X]Other spondylosis
+Spinal degenerative disease ,,,Laminectomy
+Spinal degenerative disease ,,,Laminectomy - unspecified
+Spinal degenerative disease ,,,Laminectomy site re-opening
+Spinal degenerative disease ,,,Lumbar radiculopathy
+Spinal degenerative disease ,,,Post laminectomy syndrome
+Spinal degenerative disease ,,,other and unspecified disc disorders
+Spinal degenerative disease ,7J20300,,Primary anterior excis cervical IV disc & interbody fusion
+Spinal degenerative disease ,7J20700,,Primary microdiscectomy of cervical intervertebral disc
+Spinal degenerative disease ,7J21700,,Revisional microdiscectomy of cervical intervertebral disc
+Spinal degenerative disease ,7J23200,,Primary costotransversectomy of thoracic intervertebral disc
+Spinal degenerative disease ,7J23300,,Primary posterior decompression of thoracic disc
+Spinal degenerative disease ,7J24B00,,Revision percutan endosc exc thoracic intervertebral disc
+Spinal degenerative disease ,7J32.00,,Primary lumbar discectomy
+Spinal degenerative disease ,7J32111,,Primary fenestration of lumbar intervertebral disc
+Spinal degenerative disease ,7J32600,,Primary lumbar microdiscectomy
+Spinal degenerative disease ,7J32900,,Primary percutaneous intradiscal lumbar discectomy
+Spinal degenerative disease ,7J32y00,,Other specified primary lumbar discectomy
+Spinal degenerative disease ,7J33.00,,Revisional lumbar discectomy
+Spinal degenerative disease ,7J33600,,Revisional lumbar microdiscectomy
+Spinal degenerative disease ,7J33y00,,Other specified revisional lumbar discectomy
+Spinal degenerative disease ,7J4H000,,Primary automated percutan mech excis cerv intervert disc
+Spinal degenerative disease ,7J4J000,,Revisional automated percutan mech exc cerv intervert disc
+Spinal degenerative disease ,7J4K000,,Primary percutaneous decompres coblat cerv intervert disc
+Spinal degenerative disease ,7J4L000,,Revisional percutaneous decompres coblat cerv intervert disc
+Spinal degenerative disease ,7J4M000,,Primary percut intrad radio thermocoag cerv intervert disc
+Spinal degenerative disease ,F163000,,Myelopathy due to intervertebral disc disease
+Spinal degenerative disease ,F337100,,Nerve root and plexus compressions in intervert disc disord
+Spinal degenerative disease ,N12..00,,Intervertebral disc disorders
+Spinal degenerative disease ,N120.00,,Cervical disc displacement without myelopathy
+Spinal degenerative disease ,N120.11,,Prolapsed cervical intervertebral disc without myelopathy
+Spinal degenerative disease ,N120.12,,Cervical disc displacement
+Spinal degenerative disease ,N121.00,,Thoracic disc displacement without myelopathy
+Spinal degenerative disease ,N121.11,,Prolapsed thoracic intervertebral disc without myelopathy
+Spinal degenerative disease ,N122.00,,Lumbar disc displacement
+Spinal degenerative disease ,N122.11,,Prolapsed lumbar intervertebral disc
+Spinal degenerative disease ,N123.00,,"Disc displacement, site unspecified, without myelopathy"
+Spinal degenerative disease ,N123.11,,Intervertebral disc prolapse NOS
+Spinal degenerative disease ,N123.12,,Prolapsed intervertebral disc without myelopathy
+Spinal degenerative disease ,N124.00,,Schmorl's nodes
+Spinal degenerative disease ,N124000,,Schmorl's nodes of unspecified region
+Spinal degenerative disease ,N124100,,Schmorl's nodes of the thoracic region
+Spinal degenerative disease ,N124200,,Schmorl's nodes of the lumbar region
+Spinal degenerative disease ,N124z00,,"Schmorl's nodes, region NOS"
+Spinal degenerative disease ,N125.00,,Cervical disc degeneration
+Spinal degenerative disease ,N126.00,,Thoracic disc degeneration
+Spinal degenerative disease ,N127.00,,Lumbar disc degeneration
+Spinal degenerative disease ,N128.00,,Degenerative disc disease NOS
+Spinal degenerative disease ,N129.00,,Disc disorder with myelopathy
+Spinal degenerative disease ,N129.11,,Prolapsed intervertebral disc with associated myelopathy
+Spinal degenerative disease ,N129000,,Unspecified disc disorder with myelopathy
+Spinal degenerative disease ,N129100,,Cervical disc disorder with myelopathy
+Spinal degenerative disease ,N129200,,Thoracic disc disorder with myelopathy
+Spinal degenerative disease ,N129300,,Lumbar disc disorder with myelopathy
+Spinal degenerative disease ,N129z00,,Disc disorder with myelopathy NOS
+Spinal degenerative disease ,N12B.00,,Disc prolapse with myelopathy
+Spinal degenerative disease ,N12B000,,Cervical disc prolapse with myelopathy
+Spinal degenerative disease ,N12B100,,Thoracic disc prolapse with myelopathy
+Spinal degenerative disease ,N12B200,,Lumbar disc prolapse with myelopathy
+Spinal degenerative disease ,N12C.00,,Disc prolapse with radiculopathy
+Spinal degenerative disease ,N12C000,,Cervical disc prolapse with radiculopathy
+Spinal degenerative disease ,N12C100,,Thoracic disc prolapse with radiculopathy
+Spinal degenerative disease ,N12C200,,Lumbar disc prolapse with radiculopathy
+Spinal degenerative disease ,N12C300,,Lumbar disc prolapse with cauda equina compression
+Spinal degenerative disease ,N12C400,,Prolapsed lumbar intervertebral disc with sciatica
+Spinal degenerative disease ,N12z.00,,Other and unspecified disc disorders
+Spinal degenerative disease ,N12z000,,Other disc disorders of unspecified site
+Spinal degenerative disease ,N12z100,,Other cervical disc disorders
+Spinal degenerative disease ,N12z200,,Other thoracic disc disorders
+Spinal degenerative disease ,N12z300,,Other lumbar disc disorders
+Spinal degenerative disease ,N12z500,,Annular tear of cervical disc
+Spinal degenerative disease ,N12z600,,Resorption of cervical disc
+Spinal degenerative disease ,N12z700,,Calcification of cervical disc
+Spinal degenerative disease ,N12z900,,Annular tear of thoracic disc
+Spinal degenerative disease ,N12zB00,,Calcification of thoracic disc
+Spinal degenerative disease ,N12zD00,,Annular tear of lumbar disc
+Spinal degenerative disease ,N12zE00,,Resorption of lumbar disc
+Spinal degenerative disease ,N12zF00,,Calcification of lumbar disc
+Spinal degenerative disease ,N12zH00,,Cervical disc disorder with radiculopathy
+Spinal degenerative disease ,N12zz00,,Disc disorders NOS
+Spinal degenerative disease ,Nyu7000,,[X]Other cervical disc displacement
+Spinal degenerative disease ,Nyu7100,,[X]Other cervical disc degeneration
+Spinal degenerative disease ,Nyu7200,,[X]Other cervical disc disorders
+Spinal degenerative disease ,Nyu7300,,[X]Lumbar+other intervertebral disc disordrs with myelopathy
+Spinal degenerative disease ,Nyu7400,,[X]Lumbar+other intervertbrl disc disordrs with radiculopthy
+Spinal degenerative disease ,Nyu7500,,[X]Other specified intervertebral disc displacement
+Spinal degenerative disease ,Nyu7600,,[X]Other specified intervertebral disc degeneration
+Spinal degenerative disease ,Nyu7700,,[X]Other specified intervertebral disc disorders
+Spinal degenerative disease ,Nyu7B00,,"[X]Cervical disc disorder, unspecified"
+Spinal degenerative disease ,Zw04000,,[Q] Central disc prolapse
+Spinal degenerative disease ,Zw04100,,[Q] Posterolateral disc prolapse
+Spinal degenerative disease ,Zw04200,,[Q] Sequestrated disc prolapse

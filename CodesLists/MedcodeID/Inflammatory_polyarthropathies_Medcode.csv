@@ -9,13 +9,35 @@ Inflammatory polyarthropathies,889811000006114,Rheum. arth. - shoulder joint
 Inflammatory polyarthropathies,889791000006110,Rheum. arth. - wrist joint
 Inflammatory polyarthropathies,889731000006111,Rheumatoid arthritis NOS
 Inflammatory polyarthropathies,5721431000006114,Rheumatoid arthritis of multiple joints
-Inflammatory polyarthropathies,11903911000006112,Seropositive errosive rheumatoid arthritis
+Inflammatory polyarthropathies,909191000006119,[RFC] Rheumatoid arthritis
+Inflammatory polyarthropathies,6608781000006113,caplan's syndrome
+Inflammatory polyarthropathies,1875561000006119,rheumatoid arthritis monitoring invitation
+Inflammatory polyarthropathies,1875591000006110,rheumatoid arthritis monitoring invitation first letter
+Inflammatory polyarthropathies,1875601000006119,rheumatoid arthritis monitoring invitation second letter
+Inflammatory polyarthropathies,1875611000006116,rheumatoid arthritis monitoring invitation third letter
+Inflammatory polyarthropathies,1875571000006114,rheumatoid arthritis monitoring telephone invitation
+Inflammatory polyarthropathies,1875581000006112,rheumatoid arthritis monitoring verbal invitation
+Inflammatory polyarthropathies,11903911000006112,seropositive errosive rheumatoid arthritis
 Inflammatory polyarthropathies,255923010,O/E - hands - ulnar deviation
 Inflammatory polyarthropathies,255922017,O/E - ulnar deviation
+Inflammatory polyarthropathies,255925015,O/E-hands-rheumatoid spindling
+Inflammatory polyarthropathies,219021000000114,Rheumatoid arthrit. monitoring
 Inflammatory polyarthropathies,371261000000111,Delivery of rehabilitation for rheumatoid arthritis
+Inflammatory polyarthropathies,2275501000000119,Rheumatoid arthritis monitoring invitation
+Inflammatory polyarthropathies,2275671000000111,Rheumatoid arthritis monitoring invitation first letter
+Inflammatory polyarthropathies,2275711000000112,Rheumatoid arthritis monitoring invitation second letter
+Inflammatory polyarthropathies,2275751000000111,Rheumatoid arthritis monitoring invitation third letter
+Inflammatory polyarthropathies,2275791000000115,Rheumatoid arthritis monitoring verbal invitation
+Inflammatory polyarthropathies,2275831000000110,Rheumatoid arthritis monitoring telephone invitation
+Inflammatory polyarthropathies,297544012,Polyneuropathy in rheumatoid arthritis
+Inflammatory polyarthropathies,297641010,Myopathy due to rheumatoid arthritis
+Inflammatory polyarthropathies,300221014,Rheumatoid myocarditis
+Inflammatory polyarthropathies,48361011,Rheumatoid carditis
+Inflammatory polyarthropathies,162301000006117,Rheumatoid lung
 Inflammatory polyarthropathies,463281000006113,Adult Still's Disease
 Inflammatory polyarthropathies,168751000006115,Rheumatoid arthritis and other inflammatory polyarthropathy
 Inflammatory polyarthropathies,116082011,Rheumatoid arthritis
+Inflammatory polyarthropathies,309787016,Rheumatoid arthritis of cervical spine
 Inflammatory polyarthropathies,309788014,Other rheumatoid arthritis of spine
 Inflammatory polyarthropathies,309789018,Rheumatoid arthritis of shoulder
 Inflammatory polyarthropathies,309790010,Rheumatoid arthritis of sternoclavicular joint
@@ -45,18 +67,36 @@ Inflammatory polyarthropathies,426510015,Rheumatoid arthritis - multiple joint
 Inflammatory polyarthropathies,309816012,Flare of rheumatoid arthritis
 Inflammatory polyarthropathies,95067016,Felty's syndrome
 Inflammatory polyarthropathies,16911000006114,Other rheumatoid arthropathy + visceral/systemic involvement
+Inflammatory polyarthropathies,1778239014,Rheumatoid lung disease
 Inflammatory polyarthropathies,485614018,Rheumatoid nodule
 Inflammatory polyarthropathies,162231000006117,Rheumatoid arthropathy + visceral/systemic involvement NOS
 Inflammatory polyarthropathies,451461014,Seropositive errosive rheumatoid arthritis
-Inflammatory polyarthropathies,149911000006117,"Seropositive rheumatoid arthritis, unspecified"
+Inflammatory polyarthropathies,149911000006117,Seropositive rheumatoid arthritis
+Inflammatory polyarthropathies,1786545019,Rheumatoid lung
+Inflammatory polyarthropathies,1786505011,Caplan's syndrome
+Inflammatory polyarthropathies,311496011,Fibrosing alveolitis associated with rheumatoid arthritis
 Inflammatory polyarthropathies,463301000006112,Adult-onset Still's disease
 Inflammatory polyarthropathies,111401000006119,Swan-neck finger deformity
 Inflammatory polyarthropathies,424981000006114,[X]Rheumatoid arthritis+involvement/other organs or systems
 Inflammatory polyarthropathies,312518013,[X]Other seropositive rheumatoid arthritis
 Inflammatory polyarthropathies,312520011,[X]Other specified rheumatoid arthritis
-Inflammatory polyarthropathies,312534011,"[X]Seropositive rheumatoid arthritis, unspecified"
+Inflammatory polyarthropathies,312534011,[X]Seropositive rheumatoid arthritis unspecified
+Inflammatory polyarthropathies,309743013,Arthropathy in ulcerative colitis
+Inflammatory polyarthropathies,309744019,Arthropathy in Crohn's disease
 Inflammatory polyarthropathies,312522015,[X]Other enteropathic arthropathies
-Inflammatory polyarthropathies,12729281000006112,Gout NOS
+Inflammatory polyarthropathies,850991000006110,Gouty tophi + gout NOS
+Inflammatory polyarthropathies,2610481000000112,Gouty tophi of toe
+Inflammatory polyarthropathies,12488961000006118,gout associated problems
+Inflammatory polyarthropathies,12729281000006112,gout nos
+Inflammatory polyarthropathies,255612014,O/E - auricle of ear - tophi
+Inflammatory polyarthropathies,264664010,Gout monitoring
+Inflammatory polyarthropathies,264665011,Initial gout assessment
+Inflammatory polyarthropathies,264666012,Follow-up gout assessment
+Inflammatory polyarthropathies,264667015,Joints gout affected
+Inflammatory polyarthropathies,264669017,Date gout treatment started
+Inflammatory polyarthropathies,264670016,Date of last gout attack
+Inflammatory polyarthropathies,264671017,Gout associated problems
+Inflammatory polyarthropathies,264675014,Gout monitoring NOS
 Inflammatory polyarthropathies,150085018,Gout
 Inflammatory polyarthropathies,293392012,Gouty arthropathy
 Inflammatory polyarthropathies,293394013,Gouty nephropathy
@@ -69,6 +109,7 @@ Inflammatory polyarthropathies,25080011,Gouty tophi of ear
 Inflammatory polyarthropathies,806061000006113,Gouty tophi of heart
 Inflammatory polyarthropathies,293407013,Gouty tophi of other sites
 Inflammatory polyarthropathies,72069017,Gouty iritis
+Inflammatory polyarthropathies,16455010,Gouty neuritis
 Inflammatory polyarthropathies,293410018,Gouty tophi of hand
 Inflammatory polyarthropathies,293411019,Other specified gouty manifestation NOS
 Inflammatory polyarthropathies,293412014,Gout NOS
@@ -80,7 +121,15 @@ Inflammatory polyarthropathies,309676017,Gouty arthritis of the forearm
 Inflammatory polyarthropathies,309677014,Gouty arthritis of the hand
 Inflammatory polyarthropathies,309679012,Gouty arthritis of the lower leg
 Inflammatory polyarthropathies,309680010,Gouty arthritis of the ankle and foot
+Inflammatory polyarthropathies,2695828012,Gouty arthritis of toe
 Inflammatory polyarthropathies,309681014,Gouty arthritis of multiple sites
 Inflammatory polyarthropathies,309682019,Gouty arthritis of other specified site
 Inflammatory polyarthropathies,309683012,Gouty arthritis NOS
 Inflammatory polyarthropathies,312525018,[X]Other secondary gout
+Inflammatory polyarthropathies,55627011,Psoriatic arthropathy
+Inflammatory polyarthropathies,55628018,Psoriatic arthritis
+Inflammatory polyarthropathies,198881000006116,Psoriasis spondylitica
+Inflammatory polyarthropathies,359321011,Distal interphalangeal psoriatic arthropathy
+Inflammatory polyarthropathies,32869011,Arthritis mutilans
+Inflammatory polyarthropathies,308730016,Psoriatic arthropathy NOS
+Inflammatory polyarthropathies,312521010,[X]Other psoriatic arthropathies

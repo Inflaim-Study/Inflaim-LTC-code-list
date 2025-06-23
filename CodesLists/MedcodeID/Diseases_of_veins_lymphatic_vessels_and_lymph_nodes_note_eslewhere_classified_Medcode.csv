@@ -10,47 +10,23 @@ Condition,MedCode,Term
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",743601000006118,Linton ligation of perforating varicose vein of leg
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",272214013,Other specified ligation of varicose vein of leg
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",272215014,Ligation of varicose vein of leg NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",272216010,Injection of varicose vein of lower limb
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",272219015,Injection sclerotherapy of varicose vein of lower limb
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1548941000006119,Ultrasound guided foam sclerotherapy for varicose vein of leg
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",360251000000111,Transilluminated powered phlebectomy for varicose vein of leg
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1548961000006115,Injection of sclerosing substance into varicose vein leg NEC
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",272221013,Other specified injection into varicose vein of leg
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",272222018,Injection into varicose vein of leg NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",272223011,Other operations on varicose vein of leg
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",394359013,Stripping of lower limb varicose veins
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",715361000006118,Mayo stripping of varicose vein
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",394360015,Avulsion of varicose vein of leg
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",501531000006116,Babcock subcutaneous enucleation of varicose veins
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",272234014,Local excision of varicose vein of leg
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",272235010,Incision of varicose vein of lower limb
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",299441000000114,Endovascular radiofrequency ablation of varicose vein of leg
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",311501000000116,Endovascular laser ablation of varicose vein of leg
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",272236011,Other specified other operation on varicose vein of leg
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",272237019,Varicose vein operation
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",358141000000110,Combined operations on varicose vein of leg
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",384681000000110,Other specified combined operations on varicose vein of leg
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",377221000000113,Combined operations on varicose vein of leg NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",357921000000117,Transluminal operations on varicose vein of leg
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1549411000006118,Endovenous radiofrequency obliteration of varicose vein of lower limb
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1587911000006113,Percutaneous transluminal laser ablation of varicose vein of lower limb
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",377241000000118,Other specified transluminal operations on varicose vein leg
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",384721000000115,Transluminal operations on varicose vein of leg NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",653661000006113,Excision of lymphoedema tissue
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",393534013,Excision of lymphoedematous tissue of arm
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",545461000006117,Charles correction for lymphoedema of arm
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",106311000006119,Thompson correction for lymphoedema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",393538011,Excision of lymphoedematous tissue of leg
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",802141000006112,Gibson excision of lymphoedematous tissue of leg
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",827101000006119,Homan correction for lymphoedema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",98491000006112,Tough excision of lymphoedematous tissue of leg
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",276024011,Excision of lymphoedematous tissue of scrotum
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",276026013,Excision of lymphoedematous tissue NEC
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",351008011,Kondoleon correction for lymphoedema
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1660201000000118,Lymphoedema care
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1156251000000114,Referral to community lymphoedema service
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",284064017,Referral to varicose vein clinic
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",284209016,Varicose vein operation planned
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",285169016,Seen in varicose vein clinic
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",2326351000000113,Seen in lymphoedema clinic
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",2297741000000112,Seen in community lymphoedema clinic
@@ -78,7 +54,6 @@ Condition,MedCode,Term
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",638611000006118,Elephantiasis-postmastectomy
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",395808014,Other lymphoedema
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",638601000006116,Elephantiasis-non filarial-NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",208981000006111,Primary (congenital) lymphoedema
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",453401000006112,Secondary lymphoedema
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",737311000006118,Infantile lymphoedema (praecox)
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1783735010,Lymphoedema praecox
@@ -87,7 +62,6 @@ Condition,MedCode,Term
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300819013,Other lymphoedema NOS
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",3466013,Lymphangitis
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",131044013,Chronic lymphangitis
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",26453016,Subacute lymphangitis
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",25371000006119,Other noninfective lymphatic disorder
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",557161000006118,Chylocele - nonfilarial
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",88149012,Chylous ascites
@@ -123,14 +97,9 @@ Condition,MedCode,Term
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",355724010,Vulval obstetric varicose veins
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",486191017,Gravitational eczema
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",308882012,Lymphoedematous keratoderma
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",75278011,Congenital pulmonary lymphangiectasis
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",590281000006112,Constriction ring with lymphoedema
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",314929018,Constriction ring of lower limb with lymphoedema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",583571000006118,Hereditary lymphoedema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",821691000006110,Hereditary trophoedema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",222081000000110,Hereditary lymphoedema type I
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",222091000000112,Meige's disease
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",315206013,Congenital elephantiasis
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",331306010,Adverse reaction to antivaricose drugs NOS
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",4995291000006119,Lymphoedema bandaging
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",4995051000006116,Lymphoedema massage

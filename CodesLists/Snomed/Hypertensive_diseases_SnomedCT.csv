@@ -2,8 +2,31 @@ Condition,SNOMED_Code,SnomedCTDescriptionId,Term
 Hypertensive diseases,70272006,116721012,Malignant hypertension
 Hypertensive diseases,78975002,884121000006111,Malignant hypertension
 Hypertensive diseases,198942000,887811000006117,Preg.+ pre-existing hypertensn
+Hypertensive diseases,909441000006102,909441000006118,[RFC] Hypertension
+Hypertensive diseases,674801000000102,1479611000000118,adverse reaction to antihypertensives nos
+Hypertensive diseases,674791000000101,1479581000000112,adverse reaction to other antihypertensives
+Hypertensive diseases,170574005,264467014,borderline hyperten:yearly obs
+Hypertensive diseases,790031000006103,790031000006119,hypertension annual review
+Hypertensive diseases,170586008,264485019,hypertension treatm. started
+Hypertensive diseases,170587004,264486018,hypertensive treatm.changed
+Hypertensive diseases,162659009,253532015,Hypertension resolved
 Hypertensive diseases,169465000,262960017,Hypertension induced by oral contraceptive pill
+Hypertensive diseases,170574005,2692347012,Borderline hyperten:yearly obs
+Hypertensive diseases,170577003,264471012,Good hypertension control
+Hypertensive diseases,170578008,264472017,Poor hypertension control
+Hypertensive diseases,170586008,2694699015,Hypertension treatm. started
+Hypertensive diseases,170587004,2871342011,Hypertensive treatm.changed
+Hypertensive diseases,302192008,443764015,On treatment for hypertension
+Hypertensive diseases,401117004,1780318013,Moderate hypertension control
+Hypertensive diseases,401048005,1780253016,Hypertension six month review
+Hypertensive diseases,401118009,1780319017,Hypertension annual review
+Hypertensive diseases,299561000000105,530221000000112,Trial withdrawal of antihypertensive therapy
 Hypertensive diseases,220901000000101,350601000000116,High cost hypertension drugs
+Hypertensive diseases,308116003,451424017,Antihypertensive therapy
+Hypertensive diseases,407567007,2159168015,Patient on maximal tolerated antihypertensive therapy
+Hypertensive diseases,401047000,1780252014,Hypertension treatment refused
+Hypertensive diseases,185724004,285723013,Hypertens.monitor deleted
+Hypertensive diseases,264008,1529013,Blind hypertensive eye
 Hypertensive diseases,6962006,12496011,Hypertensive retinopathy
 Hypertensive diseases,38341003,64168014,Hypertensive disease
 Hypertensive diseases,38341003,64168014,BP - hypertensive disease
@@ -31,9 +54,9 @@ Hypertensive diseases,193003,1409014,Benign hypertensive renal disease
 Hypertensive diseases,49220004,81984019,Hypertensive renal disease with renal failure
 Hypertensive diseases,38481006,64282015,Hypertensive renal disease NOS
 Hypertensive diseases,38481006,64282015,Renal hypertension
-Hypertensive diseases,86234004,143003017,Hypertensive heart AND renal disease
-Hypertensive diseases,66610008,110659019,Malignant hypertensive heart AND renal disease
-Hypertensive diseases,66052004,109700019,Benign hypertensive heart AND renal disease
+Hypertensive diseases,86234004,143003017,Hypertensive heart and renal disease
+Hypertensive diseases,66610008,110659019,Malignant hypertensive heart and renal disease
+Hypertensive diseases,66052004,109700019,Benign hypertensive heart and renal disease
 Hypertensive diseases,194779001,299672017,Hypertensive heart&renal dis wth (congestive) heart failure
 Hypertensive diseases,194780003,299673010,Hypertensive heart and renal disease with renal failure
 Hypertensive diseases,194781004,299674016,Hyperten heart&renal dis+both(congestv)heart and renal fail
@@ -52,7 +75,6 @@ Hypertensive diseases,194791005,299684015,Hypertension secondary to drug
 Hypertensive diseases,38341003,1215744012,Other specified hypertensive disease
 Hypertensive diseases,38341003,1215744012,Hypertensive disease NOS
 Hypertensive diseases,50490005,84111015,Hypertensive encephalopathy
-Hypertensive diseases,50490005,84111015,Hypertensive crisis
 Hypertensive diseases,38341003,1215744012,[X]Hypertensive diseases
 Hypertensive diseases,31992008,53452019,[X]Hypertension secondary to other renal disorders
 Hypertensive diseases,86041002,142647015,Other pre-existing hypertension in preg/childbirth/puerp

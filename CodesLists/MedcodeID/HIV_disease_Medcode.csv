@@ -1,12 +1,20 @@
 Condition,MedCode,Term
-HIV disease,4200811000006115,Acute human immunodeficiency virus infection
-HIV disease,11989691000006112,HIV disease resulting in mycobacterial infection
-HIV disease,11989701000006112,Human immunodeficiency virus with secondary cancers
+HIV disease,825891000006112,"HIV Infection With Symptoms, Not AIDS - Subsequent Presentation"
+HIV disease,854381000006118,HIV infection
+HIV disease,925451000006113,aids carrier
+HIV disease,11989691000006112,hiv disease resulting in mycobacterial infection
+HIV disease,11989701000006112,human immunodeficiency virus with secondary cancers
+HIV disease,925771000006110,notification of aids
 HIV disease,257855012,HIV positive
+HIV disease,459601018,HIV viral load
+HIV disease,603931000000114,Human immunodeficiency virus viral load by log rank
 HIV disease,264371011,AIDS carrier
+HIV disease,264418012,Notification of AIDS
+HIV disease,1121571000000111,Human immunodeficiency virus monitoring
+HIV disease,1121631000000110,Human immunodeficiency virus annual review
+HIV disease,1715721000006111,HIV pos gen health check serv declind - enhanc service admin
 HIV disease,103844015,Acquired immune deficiency syndrome
 HIV disease,143288017,Human immunodeficiency virus infection
-HIV disease,365853018,Acute human immunodeficiency virus infection
 HIV disease,152322017,Asymptomatic human immunodeficiency virus infection
 HIV disease,825871000006111,HIV infection with persistent generalised lymphadenopathy
 HIV disease,829181000006115,Human immunodeficiency virus with constitutional disease

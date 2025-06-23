@@ -2,8 +2,32 @@ Condition,MedCode,Term
 Hypertensive diseases,3642801000006112,Malignant hypertension
 Hypertensive diseases,884121000006111,Malignant hypertension
 Hypertensive diseases,887811000006117,Preg.+ pre-existing hypertensn
+Hypertensive diseases,909441000006118,[RFC] Hypertension
+Hypertensive diseases,12726241000006112,adverse reaction to antihypertensives nos
+Hypertensive diseases,12726231000006116,adverse reaction to other antihypertensives
+Hypertensive diseases,12483081000006116,borderline hyperten:yearly obs
+Hypertensive diseases,790031000006119,hypertension annual review
+Hypertensive diseases,12488211000006112,hypertension treatm. started
+Hypertensive diseases,12487991000006112,hypertensive treatm.changed
+Hypertensive diseases,790131000006118,Hypertension resolved
+Hypertensive diseases,253532015,Hypertension resolved
 Hypertensive diseases,262960017,Hypertension induced by oral contraceptive pill
+Hypertensive diseases,264467014,Borderline hyperten:yearly obs
+Hypertensive diseases,264471012,Good hypertension control
+Hypertensive diseases,264472017,Poor hypertension control
+Hypertensive diseases,264485019,Hypertension treatm. started
+Hypertensive diseases,264486018,Hypertensive treatm.changed
+Hypertensive diseases,443764015,On treatment for hypertension
+Hypertensive diseases,1780318013,Moderate hypertension control
+Hypertensive diseases,1780253016,Hypertension six month review
+Hypertensive diseases,1780319017,Hypertension annual review
+Hypertensive diseases,530221000000112,Trial withdrawal of antihypertensive therapy
 Hypertensive diseases,350601000000116,High cost hypertension drugs
+Hypertensive diseases,451424017,Antihypertensive therapy
+Hypertensive diseases,2159168015,Patient on maximal tolerated antihypertensive therapy
+Hypertensive diseases,1780252014,Hypertension treatment refused
+Hypertensive diseases,789981000006111,Hypertens.monitor deleted
+Hypertensive diseases,1529013,Blind hypertensive eye
 Hypertensive diseases,12496011,Hypertensive retinopathy
 Hypertensive diseases,64168014,Hypertensive disease
 Hypertensive diseases,523801000006119,BP - hypertensive disease
@@ -32,9 +56,9 @@ Hypertensive diseases,1409014,Benign hypertensive renal disease
 Hypertensive diseases,299665018,Hypertensive renal disease with renal failure
 Hypertensive diseases,395753015,Hypertensive renal disease NOS
 Hypertensive diseases,47076011,Renal hypertension
-Hypertensive diseases,143003017,Hypertensive heart AND renal disease
-Hypertensive diseases,110659019,Malignant hypertensive heart AND renal disease
-Hypertensive diseases,109700019,Benign hypertensive heart AND renal disease
+Hypertensive diseases,143003017,Hypertensive heart and renal disease
+Hypertensive diseases,110659019,Malignant hypertensive heart and renal disease
+Hypertensive diseases,109700019,Benign hypertensive heart and renal disease
 Hypertensive diseases,741701000006114,Hypertensive heart&renal dis wth (congestive) heart failure
 Hypertensive diseases,299673010,Hypertensive heart and renal disease with renal failure
 Hypertensive diseases,789941000006117,Hyperten heart&renal dis+both(congestv)heart and renal fail
@@ -54,7 +78,6 @@ Hypertensive diseases,299682016,Secondary hypertension NOS
 Hypertensive diseases,299686018,Other specified hypertensive disease
 Hypertensive diseases,299687010,Hypertensive disease NOS
 Hypertensive diseases,84111015,Hypertensive encephalopathy
-Hypertensive diseases,84112010,Hypertensive crisis
 Hypertensive diseases,300869017,[X]Hypertensive diseases
 Hypertensive diseases,300871017,[X]Hypertension secondary to other renal disorders
 Hypertensive diseases,305764016,Other pre-existing hypertension in preg/childbirth/puerp

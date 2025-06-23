@@ -1,8 +1,9 @@
 Condition,MedCode,Term
-Glaucoma,2983571000006113,Acute angle-closure glaucoma
 Glaucoma,3753261000006113,COAG - Chronic open-angle glaucoma
 Glaucoma,3753251000006112,CSG - Chronic simple glaucoma
 Glaucoma,3041311000006118,Chronic angle-closure glaucoma
+Glaucoma,856601000006111,Glaucoma left eye
+Glaucoma,856591000006115,Glaucoma right eye
 Glaucoma,3564451000006117,Intermittent angle-closure glaucoma
 Glaucoma,3317631000006118,Normal tension glaucoma
 Glaucoma,3753241000006111,POAG - Primary open-angle glaucoma
@@ -10,10 +11,10 @@ Glaucoma,6532921000006114,Phacomorphic glaucoma
 Glaucoma,883291000006119,Primary closed-angle glaucoma
 Glaucoma,3753211000006111,Primary open angle glaucoma
 Glaucoma,4772381000006115,Secondary angle-closure glaucoma with pupil block
+Glaucoma,883301000006118,Secondary/other glaucoma
 Glaucoma,298050010,Steroid-induced glaucoma glaucomatous stage
-Glaucoma,7089411000006113,Needling of bleb following glaucoma surgery
-Glaucoma,383421000000110,Needling of bleb following glaucoma surgery
-Glaucoma,378721000000118,Other specified operations following glaucoma surgery
+Glaucoma,907841000006110,[RFC] Glaucoma
+Glaucoma,12731151000006110,other specified forms of glaucoma
 Glaucoma,249331000006112,Pan retinal photocoagulation for glaucoma
 Glaucoma,802901000006112,Glaucoma - absolute
 Glaucoma,40268016,Glaucoma
@@ -30,7 +31,6 @@ Glaucoma,1486268015,Primary angle-closure glaucoma
 Glaucoma,560611000006117,Closed angle glaucoma
 Glaucoma,298047012,Unspecified primary angle-closure glaucoma
 Glaucoma,770481000006118,Intermittent primary angle-closure glaucoma
-Glaucoma,459721000006110,Acute primary angle-closure glaucoma
 Glaucoma,556201000006114,Chronic primary angle-closure glaucoma
 Glaucoma,298048019,Primary angle-closure glaucoma residual stage
 Glaucoma,347744010,Plateau iris
