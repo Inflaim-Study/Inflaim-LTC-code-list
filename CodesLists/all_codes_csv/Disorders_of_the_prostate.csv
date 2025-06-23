@@ -1,13 +1,13 @@
-Condition,MedCode,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
+Condition,MedCodeId,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
 Disorders of the prostate,279031000006110,279031000006106,279031000006110,,,O/E - PR - Diffusely enlarged prostate
 Disorders of the prostate,909491000006110,909491000006106,909491000006110,,,[RFC] Enlarged prostate
 Disorders of the prostate,5493351000006113,266569009,396742015,,,bph - benign prostatic hypertrophy
-Disorders of the prostate,203421000006110,11441004,19794011,1AA..00,,Prostatism
-Disorders of the prostate,396738018,266569009,396738018,K20..00,,Benign prostatic hypertrophy
-Disorders of the prostate,645331000006112,266569009,396731012,K20..14,,Enlarged prostate - benign
-Disorders of the prostate,396742015,266569009,396738018,K20..15,,BPH - benign prostatic hypertrophy
-Disorders of the prostate,19794011,11441004,19794011,K20..16,,Prostatism
-Disorders of the prostate,304382014,433234005,2769992019,K200.00,,Prostatic hyperplasia unspecified
-Disorders of the prostate,304383016,197959008,304383016,K201.00,,Prostatic hyperplasia of the lateral lobe
-Disorders of the prostate,304384010,197960003,304384010,K202.00,,Prostatic hyperplasia of the medial lobe
-Disorders of the prostate,304385011,433234005,2769992019,K20z.00,,Prostatic hyperplasia NOS
+Disorders of the prostate,203421000006110,11441004,19794011,1AA..00,1AA..00,Prostatism
+Disorders of the prostate,396738018,266569009,396738018,K20..00,K20..00,Benign prostatic hypertrophy
+Disorders of the prostate,645331000006112,266569009,396731012,K20..14,K20..14,Enlarged prostate - benign
+Disorders of the prostate,396742015,266569009,396738018,K20..15,K20..15,BPH - benign prostatic hypertrophy
+Disorders of the prostate,19794011,11441004,19794011,K20..16,K20..16,Prostatism
+Disorders of the prostate,304382014,433234005,2769992019,K200.00,K200.00,Prostatic hyperplasia unspecified
+Disorders of the prostate,304383016,197959008,304383016,K201.00,K201.00,Prostatic hyperplasia of the lateral lobe
+Disorders of the prostate,304384010,197960003,304384010,K202.00,K202.00,Prostatic hyperplasia of the medial lobe
+Disorders of the prostate,304385011,433234005,2769992019,K20z.00,K20z.00,Prostatic hyperplasia NOS

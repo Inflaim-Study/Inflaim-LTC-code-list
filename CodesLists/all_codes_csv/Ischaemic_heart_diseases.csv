@@ -1,4 +1,4 @@
-Condition,MedCode,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
+Condition,MedCodeId,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
 Ischaemic heart diseases,256458014,164870003,256458014,3235,3235.00,ECG: subendocardial infarct
 Ischaemic heart diseases,256454011,164867002,256454011,3232,3232.00,ECG: old myocardial infarction
 Ischaemic heart diseases,256459018,164871004,256459018,3236,3236.00,ECG: lateral infarction

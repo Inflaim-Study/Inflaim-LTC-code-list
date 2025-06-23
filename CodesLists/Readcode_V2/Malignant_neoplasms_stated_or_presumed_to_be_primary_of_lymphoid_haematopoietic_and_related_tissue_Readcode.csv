@@ -1,470 +1,394 @@
 Condition,ReadCode,CleansedReadCode,Term
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,"Hodgkin lymphoma, lymphocyte-rich"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,Hodgkin's paragranuloma of lymph nodes of multiple sites
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,"Hodgkin's, lymphocytic-histiocytic pred axilla and arm"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,"[m]hodgkin's disease, nodular sclerosis nos"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,hodgkin lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,hodgkin's disease
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,hodgkin's disease nos of intra-abdominal lymph nodes
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,hodgkin's disease nos of intrathoracic lymph nodes
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,hodgkin's disease nos of lymph nodes inguinal region and leg
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,hodgkin's disease nos of lymph nodes of axilla and arm
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,"hodgkin's disease nos of lymph nodes of head, face and neck"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,hodgkin's disease nos of lymph nodes of multiple sites
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,hodgkin's disease nos of spleen
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,"hodgkin's disease, lymphocytic depletion"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,"hodgkin's disease, mixed cellularity"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,hodgkin's granuloma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,hodgkin's paragranuloma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,hodgkin's sarcoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,"hodgkin's, lymphocytic-histiocytic predominance unspec site"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B61..00,,Hodgkin's disease
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B61..11,,Hodgkin lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B610.00,,Hodgkin's paragranuloma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B610100,,"Hodgkin's paragranuloma of lymph nodes of head, face, neck"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B610300,,Hodgkin's paragranuloma of intra-abdominal lymph nodes
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B611.00,,Hodgkin's granuloma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B611100,,"Hodgkin's granuloma of lymph nodes of head, face and neck"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B612.00,,Hodgkin's sarcoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B612400,,Hodgkin's sarcoma of lymph nodes of axilla and upper limb
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B613.00,,"Hodgkin's disease, lymphocytic-histiocytic predominance"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B613000,,"Hodgkin's, lymphocytic-histiocytic predominance unspec site"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B613100,,"Hodgkin's, lymphocytic-histiocytic pred of head, face, neck"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B613200,,"Hodgkin's, lymphocytic-histiocytic pred intrathoracic nodes"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B613300,,"Hodgkin's, lymphocytic-histiocytic pred intra-abdominal node"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B613500,,"Hodgkin's, lymphocytic-histiocytic pred inguinal and leg"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B613600,,"Hodgkin's, lymphocytic-histiocytic pred intrapelvic nodes"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B613700,,"Hodgkin's, lymphocytic-histiocytic predominance of spleen"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B613800,,"Hodgkin's, lymphocytic-histiocytic pred of multiple sites"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B613z00,,"Hodgkin's, lymphocytic-histiocytic predominance NOS"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B614.00,,"Hodgkin's disease, nodular sclerosis"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B614000,,"Hodgkin's disease, nodular sclerosis of unspecified site"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B614100,,"Hodgkin's nodular sclerosis of head, face and neck"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B614200,,Hodgkin's nodular sclerosis of intrathoracic lymph nodes
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B614300,,Hodgkin's nodular sclerosis of intra-abdominal lymph nodes
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B614400,,Hodgkin's nodular sclerosis of lymph nodes of axilla and arm
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B614700,,"Hodgkin's disease, nodular sclerosis of spleen"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B614800,,Hodgkin's nodular sclerosis of lymph nodes of multiple sites
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B614z00,,"Hodgkin's disease, nodular sclerosis NOS"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B615.00,,"Hodgkin's disease, mixed cellularity"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B615000,,"Hodgkin's disease, mixed cellularity of unspecified site"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B615100,,"Hodgkin's mixed cellularity of lymph nodes head, face, neck"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B615200,,Hodgkin's mixed cellularity of intrathoracic lymph nodes
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B615500,,Hodgkin's mixed cellularity of lymph nodes inguinal and leg
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B615z00,,"Hodgkin's disease, mixed cellularity NOS"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B616.00,,"Hodgkin's disease, lymphocytic depletion"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B616000,,Hodgkin's lymphocytic depletion of unspecified site
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B616400,,Hodgkin's lymphocytic depletion lymph nodes axilla and arm
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B616500,,Hodgkin's lymphocytic depletion lymph nodes inguinal and leg
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B616700,,"Hodgkin's disease, lymphocytic depletion of spleen"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B616800,,Hodgkin's lymphocytic depletion lymph nodes multiple sites
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B616z00,,"Hodgkin's disease, lymphocytic depletion NOS"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B617.00,,Nodular lymphocyte predominant Hodgkin lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B61..00,B61..00,Hodgkin's disease
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B61..11,B61..11,Hodgkin lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B610.00,B610.00,Hodgkin's paragranuloma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B610100,B610100,"Hodgkin's paragranuloma of lymph nodes of head, face, neck"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B610300,B610300,Hodgkin's paragranuloma of intra-abdominal lymph nodes
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B611.00,B611.00,Hodgkin's granuloma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B611100,B611100,"Hodgkin's granuloma of lymph nodes of head, face and neck"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B612.00,B612.00,Hodgkin's sarcoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B612400,B612400,Hodgkin's sarcoma of lymph nodes of axilla and upper limb
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B613.00,B613.00,"Hodgkin's disease, lymphocytic-histiocytic predominance"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B613000,B613000,"Hodgkin's, lymphocytic-histiocytic predominance unspec site"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B613100,B613100,"Hodgkin's, lymphocytic-histiocytic pred of head, face, neck"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B613200,B613200,"Hodgkin's, lymphocytic-histiocytic pred intrathoracic nodes"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B613300,B613300,"Hodgkin's, lymphocytic-histiocytic pred intra-abdominal node"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B613500,B613500,"Hodgkin's, lymphocytic-histiocytic pred inguinal and leg"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B613600,B613600,"Hodgkin's, lymphocytic-histiocytic pred intrapelvic nodes"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B613700,B613700,"Hodgkin's, lymphocytic-histiocytic predominance of spleen"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B613800,B613800,"Hodgkin's, lymphocytic-histiocytic pred of multiple sites"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B613z00,B613z00,"Hodgkin's, lymphocytic-histiocytic predominance NOS"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B614.00,B614.00,"Hodgkin's disease, nodular sclerosis"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B614000,B614000,"Hodgkin's disease, nodular sclerosis of unspecified site"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B614100,B614100,"Hodgkin's nodular sclerosis of head, face and neck"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B614200,B614200,Hodgkin's nodular sclerosis of intrathoracic lymph nodes
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B614300,B614300,Hodgkin's nodular sclerosis of intra-abdominal lymph nodes
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B614400,B614400,Hodgkin's nodular sclerosis of lymph nodes of axilla and arm
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B614700,B614700,"Hodgkin's disease, nodular sclerosis of spleen"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B614800,B614800,Hodgkin's nodular sclerosis of lymph nodes of multiple sites
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B614z00,B614z00,"Hodgkin's disease, nodular sclerosis NOS"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B615.00,B615.00,"Hodgkin's disease, mixed cellularity"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B615000,B615000,"Hodgkin's disease, mixed cellularity of unspecified site"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B615100,B615100,"Hodgkin's mixed cellularity of lymph nodes head, face, neck"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B615200,B615200,Hodgkin's mixed cellularity of intrathoracic lymph nodes
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B615500,B615500,Hodgkin's mixed cellularity of lymph nodes inguinal and leg
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B615z00,B615z00,"Hodgkin's disease, mixed cellularity NOS"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B616.00,B616.00,"Hodgkin's disease, lymphocytic depletion"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B616000,B616000,Hodgkin's lymphocytic depletion of unspecified site
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B616400,B616400,Hodgkin's lymphocytic depletion lymph nodes axilla and arm
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B616500,B616500,Hodgkin's lymphocytic depletion lymph nodes inguinal and leg
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B616700,B616700,"Hodgkin's disease, lymphocytic depletion of spleen"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B616800,B616800,Hodgkin's lymphocytic depletion lymph nodes multiple sites
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B616z00,B616z00,"Hodgkin's disease, lymphocytic depletion NOS"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B617.00,B617.00,Nodular lymphocyte predominant Hodgkin lymphoma
 "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B618.00,,Nodular sclerosis classical Hodgkin lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B619.00,,Mixed cellularity classical Hodgkin lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B61B.00,,Lymphocyte-rich classical Hodgkin lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B61C.00,,Other classical Hodgkin lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B61z.00,,Hodgkin's disease NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B619.00,B619.00,Mixed cellularity classical Hodgkin lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B61B.00,B61B.00,Lymphocyte-rich classical Hodgkin lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B61C.00,B61C.00,Other classical Hodgkin lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B61z.00,B61z.00,Hodgkin's disease NOS
 "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B61z.11,,Hodgkin lymphoma NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B61z000,,"Hodgkin's disease NOS, unspecified site"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B61z100,,"Hodgkin's disease NOS of lymph nodes of head, face and neck"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B61z200,,Hodgkin's disease NOS of intrathoracic lymph nodes
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B61z300,,Hodgkin's disease NOS of intra-abdominal lymph nodes
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B61z400,,Hodgkin's disease NOS of lymph nodes of axilla and arm
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B61z500,,Hodgkin's disease NOS of lymph nodes inguinal region and leg
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B61z700,,Hodgkin's disease NOS of spleen
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B61z800,,Hodgkin's disease NOS of lymph nodes of multiple sites
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B61zz00,,Hodgkin's disease NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBj..00,,[M]Hodgkin's disease
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBj0.00,,[M]Hodgkin's disease NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBj1.00,,"[M]Hodgkin's disease, lymphocytic predominance"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBj1000,,"[M]Hodgkin,s disease, lymphocytic predominance, diffuse"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBj1100,,"[M]Hodgkin,s disease, lymphocytic predominance, nodular"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBj2.00,,"[M]Hodgkin's disease, mixed cellularity"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBj4.00,,"[M]Hodgkin's disease,lymphocytic depletion,diffuse fibrosis"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBj6.00,,"[M]Hodgkin's disease, nodular sclerosis NOS"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBj6000,,"[M]Hodgkin,s disease, nodular sclerosis, lymphocytic predom"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBj6100,,"[M]Hodgkin,s disease, nodular sclerosis, mixed cellularity"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBj6200,,"[M]Hodgkin,s disease, nodular sclerosis, lymphocytic deplet"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBj7.00,,"[M]Hodgkin's disease, nodular sclerosis, cellular phase"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBj9.00,,[M]Hodgkin's granuloma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBjz.00,,[M]Hodgkin's disease NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",ByuD000,,[X]Other Hodgkin's disease
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,alpha heavy chain disease
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,gamma heavy chain disease
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,heavy chain disease
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,immunoproliferative neoplasm or myeloma nos
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,multiple myeloma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,myelomatosis
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,plasma cell leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,solitary myeloma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,solitary plasmacytoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B63..00,,Multiple myeloma and immunoproliferative neoplasms
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B630.00,,Multiple myeloma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B630.11,,Kahler's disease
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B630.12,,Myelomatosis
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B630000,,"Malignant plasma cell neoplasm, extramedullary plasmacytoma"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B630100,,Solitary myeloma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B630200,,Plasmacytoma NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B630300,,Lambda light chain myeloma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B630400,,Solitary plasmacytoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B631.00,,Plasma cell leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B63z.00,,Immunoproliferative neoplasm or myeloma NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B936.11,,Myeloma - solitary
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B936.12,,Plasmacytoma NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBm6.00,,[M] Alpha heavy chain disease
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBmE.00,,[M] Gamma heavy chain disease
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBmK.00,,[M]Waldenstrom's macroglobulinaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBn..00,,[M]Plasma cell tumours
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBn0.00,,[M]Plasma cell myeloma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBn0.11,,[M]Multiple myeloma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBn0.12,,[M]Myeloma NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBn0.13,,[M]Myelomatosis
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBn0.14,,[M]Plasmacytic myeloma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBn2.00,,[M]Plasmacytoma NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBn2.11,,[M]Monostotic myeloma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBn2.12,,[M]Solitary myeloma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBn3.00,,"[M]Plasma cell tumour, malignant"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBnz.00,,[M]Plasma cell tumour NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr3.00,,[M]Plasma cell leukaemias
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr3z00,,[M]Plasma cell leukaemia NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C333.00,,Macroglobulinaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C333000,,Waldenstrom's macroglobulinaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C333011,,Waldenstrom macroglobulinaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C333100,,Alpha heavy chain disease
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C333200,,Gamma heavy chain disease
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C333300,,Heavy chain disease
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C333z00,,Macroglobulinaemia NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,Non hodgkin lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,[m] monocytoid b-cell lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,[m]reticulosarcoma nos
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,angioimmunoblastic t-cell lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,burkitt's lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,cutaneous follicle centre lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,cutaneous t-cell lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,diffuse large b-cell lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,malignant lymphoma nos of intra-abdominal lymph nodes
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,malignant lymphoma nos of intrapelvic lymph nodes
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,malignant lymphoma nos of intrathoracic lymph nodes
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,malignant lymphoma nos of lymph node inguinal region and leg
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,malignant lymphoma nos of lymph nodes of axilla and arm
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,"malignant lymphoma nos of lymph nodes of head, face and neck"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,malignant lymphoma nos of lymph nodes of multiple sites
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,malignant lymphoma nos of spleen
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,mantle cell lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,non-hodgkin lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,sezary's disease
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,t/nk-cell lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",A789600,,HIV disease resulting in Burkitt's lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",A789700,,HIV dis resulting oth types of non-Hodgkin's lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",AyuC600,,[X]HIV disease resulting in other non-Hodgkin's lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B60..00,,Lymphosarcoma and reticulosarcoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B600.00,,Reticulosarcoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B600000,,Reticulosarcoma of unspecified site
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B600100,,"Reticulosarcoma of lymph nodes of head, face and neck"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B600300,,Reticulosarcoma of intra-abdominal lymph nodes
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B600700,,Reticulosarcoma of spleen
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B600z00,,Reticulosarcoma NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B601.00,,Lymphosarcoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B601000,,Lymphosarcoma of unspecified site
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B601100,,"Lymphosarcoma of lymph nodes of head, face and neck"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B601200,,Lymphosarcoma of intrathoracic lymph nodes
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B601300,,Lymphosarcoma of intra-abdominal lymph nodes
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B601500,,Lymphosarcoma of lymph nodes of inguinal region and leg
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B601700,,Lymphosarcoma of spleen
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B601800,,Lymphosarcoma of lymph nodes of multiple sites
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B601z00,,Lymphosarcoma NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B602.00,,Burkitt's lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B602100,,"Burkitt's lymphoma of lymph nodes of head, face and neck"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B602200,,Burkitt's lymphoma of intrathoracic lymph nodes
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B602300,,Burkitt's lymphoma of intra-abdominal lymph nodes
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B602500,,Burkitt's lymphoma of lymph nodes of inguinal region and leg
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B602z00,,Burkitt's lymphoma NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B60y.00,,Other specified reticulosarcoma or lymphosarcoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B60z.00,,Reticulosarcoma or lymphosarcoma NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B620.00,,Nodular lymphoma (Brill - Symmers disease)
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B620000,,Nodular lymphoma of unspecified site
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B620100,,"Nodular lymphoma of lymph nodes of head, face and neck"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B620200,,Nodular lymphoma of intrathoracic lymph nodes
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B620300,,Nodular lymphoma of intra-abdominal lymph nodes
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B620500,,Nodular lymphoma of lymph nodes of inguinal region and leg
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B620800,,Nodular lymphoma of lymph nodes of multiple sites
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B620z00,,Nodular lymphoma NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B621.00,,Mycosis fungoides
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B621000,,Mycosis fungoides of unspecified site
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B621300,,Mycosis fungoides of intra-abdominal lymph nodes
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B621400,,Mycosis fungoides of lymph nodes of axilla and upper limb
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B621500,,Mycosis fungoides of lymph nodes of inguinal region and leg
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B621800,,Mycosis fungoides of lymph nodes of multiple sites
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B621z00,,Mycosis fungoides NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B622.00,,Sezary's disease
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B622z00,,Sezary's disease NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B627.00,,Non - Hodgkin's lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B627.11,,Non-Hodgkin lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B627000,,Follicular non-Hodgkin's small cleaved cell lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B627100,,Follicular non-Hodg mixed sml cleavd & lge cell lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B627200,,Follicular non-Hodgkin's large cell lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B627300,,Diffuse non-Hodgkin's small cell (diffuse) lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B627400,,Diffuse non-Hodgkin's small cleaved cell (diffuse) lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B627500,,Diffuse non-Hodgkin mixed sml & lge cell (diffuse) lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B627600,,Diffuse non-Hodgkin's immunoblastic (diffuse) lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B627700,,Diffuse non-Hodgkin's lymphoblastic (diffuse) lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B627800,,Diffuse non-Hodgkin's lymphoma undifferentiated (diffuse)
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B627900,,Mucosa-associated lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B627911,,Maltoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B627A00,,Diffuse non-Hodgkin's large cell lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B627B00,,Other types of follicular non-Hodgkin's lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B627C00,,Follicular non-Hodgkin's lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B627C11,,Follicular lymphoma NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B627D00,,Diffuse non-Hodgkin's centroblastic lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B627E00,,Diffuse large B-cell lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B61z000,B61z000,"Hodgkin's disease NOS, unspecified site"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B61z100,B61z100,"Hodgkin's disease NOS of lymph nodes of head, face and neck"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B61z200,B61z200,Hodgkin's disease NOS of intrathoracic lymph nodes
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B61z300,B61z300,Hodgkin's disease NOS of intra-abdominal lymph nodes
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B61z400,B61z400,Hodgkin's disease NOS of lymph nodes of axilla and arm
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B61z500,B61z500,Hodgkin's disease NOS of lymph nodes inguinal region and leg
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B61z700,B61z700,Hodgkin's disease NOS of spleen
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B61z800,B61z800,Hodgkin's disease NOS of lymph nodes of multiple sites
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B61zz00,B61zz00,Hodgkin's disease NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBj..00,BBj..00,[M]Hodgkin's disease
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBj0.00,BBj0.00,[M]Hodgkin's disease NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBj1.00,BBj1.00,"[M]Hodgkin's disease, lymphocytic predominance"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBj1000,BBj1000,"[M]Hodgkin,s disease, lymphocytic predominance, diffuse"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBj1100,BBj1100,"[M]Hodgkin,s disease, lymphocytic predominance, nodular"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBj2.00,BBj2.00,"[M]Hodgkin's disease, mixed cellularity"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBj4.00,BBj4.00,"[M]Hodgkin's disease,lymphocytic depletion,diffuse fibrosis"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBj6.00,BBj6.00,"[M]Hodgkin's disease, nodular sclerosis NOS"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBj6000,BBj6000,"[M]Hodgkin,s disease, nodular sclerosis, lymphocytic predom"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBj6100,BBj6100,"[M]Hodgkin,s disease, nodular sclerosis, mixed cellularity"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBj6200,BBj6200,"[M]Hodgkin,s disease, nodular sclerosis, lymphocytic deplet"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBj7.00,BBj7.00,"[M]Hodgkin's disease, nodular sclerosis, cellular phase"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBj9.00,BBj9.00,[M]Hodgkin's granuloma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBjz.00,BBjz.00,[M]Hodgkin's disease NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",ByuD000,ByuD000,[X]Other Hodgkin's disease
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B63..00,B63..00,Multiple myeloma and immunoproliferative neoplasms
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B630.00,B630.00,Multiple myeloma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B630.11,B630.11,Kahler's disease
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B630.12,B630.12,Myelomatosis
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B630000,B630000,"Malignant plasma cell neoplasm, extramedullary plasmacytoma"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B630100,B630100,Solitary myeloma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B630200,B630200,Plasmacytoma NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B630300,B630300,Lambda light chain myeloma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B630400,B630400,Solitary plasmacytoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B631.00,B631.00,Plasma cell leukaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B63z.00,B63z.00,Immunoproliferative neoplasm or myeloma NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B936.11,B936.11,Myeloma - solitary
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B936.12,B936.12,Plasmacytoma NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBm6.00,BBm6.00,[M] Alpha heavy chain disease
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBmE.00,BBmE.00,[M] Gamma heavy chain disease
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBmK.00,BBmK.00,[M]Waldenstrom's macroglobulinaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBn..00,BBn..00,[M]Plasma cell tumours
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBn0.00,BBn0.00,[M]Plasma cell myeloma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBn0.11,BBn0.11,[M]Multiple myeloma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBn0.12,BBn0.12,[M]Myeloma NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBn0.13,BBn0.13,[M]Myelomatosis
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBn0.14,BBn0.14,[M]Plasmacytic myeloma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBn2.00,BBn2.00,[M]Plasmacytoma NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBn2.11,BBn2.11,[M]Monostotic myeloma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBn2.12,BBn2.12,[M]Solitary myeloma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBn3.00,BBn3.00,"[M]Plasma cell tumour, malignant"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBnz.00,BBnz.00,[M]Plasma cell tumour NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr3.00,BBr3.00,[M]Plasma cell leukaemias
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr3z00,BBr3z00,[M]Plasma cell leukaemia NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C333.00,C333.00,Macroglobulinaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C333000,C333000,Waldenstrom's macroglobulinaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C333011,C333011,Waldenstrom macroglobulinaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C333100,C333100,Alpha heavy chain disease
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C333200,C333200,Gamma heavy chain disease
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C333300,C333300,Heavy chain disease
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C333z00,C333z00,Macroglobulinaemia NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",A789600,A789600,HIV disease resulting in Burkitt's lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",A789700,A789700,HIV dis resulting oth types of non-Hodgkin's lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",AyuC600,AyuC600,[X]HIV disease resulting in other non-Hodgkin's lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B60..00,B60..00,Lymphosarcoma and reticulosarcoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B600.00,B600.00,Reticulosarcoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B600000,B600000,Reticulosarcoma of unspecified site
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B600100,B600100,"Reticulosarcoma of lymph nodes of head, face and neck"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B600300,B600300,Reticulosarcoma of intra-abdominal lymph nodes
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B600700,B600700,Reticulosarcoma of spleen
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B600z00,B600z00,Reticulosarcoma NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B601.00,B601.00,Lymphosarcoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B601000,B601000,Lymphosarcoma of unspecified site
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B601100,B601100,"Lymphosarcoma of lymph nodes of head, face and neck"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B601200,B601200,Lymphosarcoma of intrathoracic lymph nodes
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B601300,B601300,Lymphosarcoma of intra-abdominal lymph nodes
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B601500,B601500,Lymphosarcoma of lymph nodes of inguinal region and leg
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B601700,B601700,Lymphosarcoma of spleen
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B601800,B601800,Lymphosarcoma of lymph nodes of multiple sites
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B601z00,B601z00,Lymphosarcoma NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B602.00,B602.00,Burkitt's lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B602100,B602100,"Burkitt's lymphoma of lymph nodes of head, face and neck"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B602200,B602200,Burkitt's lymphoma of intrathoracic lymph nodes
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B602300,B602300,Burkitt's lymphoma of intra-abdominal lymph nodes
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B602500,B602500,Burkitt's lymphoma of lymph nodes of inguinal region and leg
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B602z00,B602z00,Burkitt's lymphoma NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B60y.00,B60y.00,Other specified reticulosarcoma or lymphosarcoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B60z.00,B60z.00,Reticulosarcoma or lymphosarcoma NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B620.00,B620.00,Nodular lymphoma (Brill - Symmers disease)
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B620000,B620000,Nodular lymphoma of unspecified site
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B620100,B620100,"Nodular lymphoma of lymph nodes of head, face and neck"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B620200,B620200,Nodular lymphoma of intrathoracic lymph nodes
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B620300,B620300,Nodular lymphoma of intra-abdominal lymph nodes
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B620500,B620500,Nodular lymphoma of lymph nodes of inguinal region and leg
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B620800,B620800,Nodular lymphoma of lymph nodes of multiple sites
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B620z00,B620z00,Nodular lymphoma NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B621.00,B621.00,Mycosis fungoides
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B621000,B621000,Mycosis fungoides of unspecified site
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B621300,B621300,Mycosis fungoides of intra-abdominal lymph nodes
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B621400,B621400,Mycosis fungoides of lymph nodes of axilla and upper limb
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B621500,B621500,Mycosis fungoides of lymph nodes of inguinal region and leg
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B621800,B621800,Mycosis fungoides of lymph nodes of multiple sites
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B621z00,B621z00,Mycosis fungoides NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B622.00,B622.00,Sezary's disease
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B622z00,B622z00,Sezary's disease NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B627.00,B627.00,Non - Hodgkin's lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B627.11,B627.11,Non-Hodgkin lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B627000,B627000,Follicular non-Hodgkin's small cleaved cell lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B627100,B627100,Follicular non-Hodg mixed sml cleavd & lge cell lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B627200,B627200,Follicular non-Hodgkin's large cell lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B627300,B627300,Diffuse non-Hodgkin's small cell (diffuse) lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B627400,B627400,Diffuse non-Hodgkin's small cleaved cell (diffuse) lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B627500,B627500,Diffuse non-Hodgkin mixed sml & lge cell (diffuse) lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B627600,B627600,Diffuse non-Hodgkin's immunoblastic (diffuse) lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B627700,B627700,Diffuse non-Hodgkin's lymphoblastic (diffuse) lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B627800,B627800,Diffuse non-Hodgkin's lymphoma undifferentiated (diffuse)
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B627900,B627900,Mucosa-associated lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B627911,B627911,Maltoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B627A00,B627A00,Diffuse non-Hodgkin's large cell lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B627B00,B627B00,Other types of follicular non-Hodgkin's lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B627C00,B627C00,Follicular non-Hodgkin's lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B627C11,B627C11,Follicular lymphoma NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B627D00,B627D00,Diffuse non-Hodgkin's centroblastic lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B627E00,B627E00,Diffuse large B-cell lymphoma
 "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B627F00,,Extranod marg zone B-cell lymphom mucosa-assoc lymphoid tiss
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B627G00,,Mediastinal (thymic) large B-cell lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B627W00,,Unspecified B-cell non-Hodgkin's lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B627X00,,"Diffuse non-Hodgkin's lymphoma, unspecified"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B628.00,,Follicular lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B627G00,B627G00,Mediastinal (thymic) large B-cell lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B627W00,B627W00,Unspecified B-cell non-Hodgkin's lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B627X00,B627X00,"Diffuse non-Hodgkin's lymphoma, unspecified"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B628.00,B628.00,Follicular lymphoma
 "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B628000,,Follicular lymphoma grade 1
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B628100,,Follicular lymphoma grade 2
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B628200,,Follicular lymphoma grade 3
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B628100,B628100,Follicular lymphoma grade 2
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B628200,B628200,Follicular lymphoma grade 3
 "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B628300,,Follicular lymphoma grade 3a
 "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B628400,,Follicular lymphoma grade 3b
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B628500,,Diffuse follicle centre lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B628500,B628500,Diffuse follicle centre lymphoma
 "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B628600,,Cutaneous follicle centre lymphoma
 "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B628700,,Other types of follicular lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62E.00,,T/NK-cell lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62E.00,B62E.00,T/NK-cell lymphoma
 "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62E100,,"Anaplastic large cell lymphoma, ALK-positive"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62E200,,"Anaplastic large cell lymphoma, ALK-negative"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62E200,B62E200,"Anaplastic large cell lymphoma, ALK-negative"
 "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62E300,,Cutaneous T-cell lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62E400,,"Extranodal NK/T-cell lymphoma, nasal type"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62E500,,Hepatosplenic T-cell lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62E600,,Enteropathy-associated T-cell lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62E700,,Subcutaneous panniculitic T-cell lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62E800,,Blastic NK-cell lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62E900,,Angioimmunoblastic T-cell lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62EA00,,Primary cutaneous CD30-positive T-cell proliferations
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62Ew00,,Other mature T/NK-cell lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62E400,B62E400,"Extranodal NK/T-cell lymphoma, nasal type"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62E500,B62E500,Hepatosplenic T-cell lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62E600,B62E600,Enteropathy-associated T-cell lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62E700,B62E700,Subcutaneous panniculitic T-cell lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62E800,B62E800,Blastic NK-cell lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62E900,B62E900,Angioimmunoblastic T-cell lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62EA00,B62EA00,Primary cutaneous CD30-positive T-cell proliferations
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62Ew00,B62Ew00,Other mature T/NK-cell lymphoma
 "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62F.00,,Nonfollicular lymphoma
 "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62F.11,,Non-follicular lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62F000,,Small cell B-cell lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62F100,,Mantle cell lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62F200,,Lymphoblastic (diffuse) lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62x.00,,Malignant lymphoma otherwise specified
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62x000,,T-zone lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62x100,,Lymphoepithelioid lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62x200,,Peripheral T-cell lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62x400,,Malignant reticulosis
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62x500,,Malignant immunoproliferative small intestinal disease
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62xX00,,Oth and unspecif peripheral & cutaneous T-cell lymphomas
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62y.00,,Malignant lymphoma NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62y000,,Malignant lymphoma NOS of unspecified site
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62y100,,"Malignant lymphoma NOS of lymph nodes of head, face and neck"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62y200,,Malignant lymphoma NOS of intrathoracic lymph nodes
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62y300,,Malignant lymphoma NOS of intra-abdominal lymph nodes
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62y400,,Malignant lymphoma NOS of lymph nodes of axilla and arm
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62y500,,Malignant lymphoma NOS of lymph node inguinal region and leg
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62y600,,Malignant lymphoma NOS of intrapelvic lymph nodes
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62y700,,Malignant lymphoma NOS of spleen
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62y800,,Malignant lymphoma NOS of lymph nodes of multiple sites
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62yz00,,Malignant lymphoma NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBg..00,,"[M]Lymphomas, NOS or diffuse"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBg1.00,,[M]Malignant lymphoma NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBg1.11,,[M]Lymphoma NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBg1000,,"[M]Malignant lymphoma, diffuse NOS"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBg2.00,,"[M]Malignant lymphoma, non Hodgkin's type"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBg2.11,,[M]Non Hodgkins lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBg3.00,,"[M]Malignant lymphoma, undifferentiated cell type NOS"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBg4.00,,"[M]Malignant lymphoma, stem cell type"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBg5.00,,"[M]Malignant lymphoma, convoluted cell type NOS"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBg6.00,,[M]Lymphosarcoma NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBg7.00,,"[M]Malignant lymphoma, lymphoplasmacytoid type"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBg8.00,,"[M]Malignant lymphoma, immunoblastic type"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBgA.00,,"[M]Malignant lymphoma, centroblastic-centrocytic, diffuse"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBgB.00,,"[M]Malignant lymphoma, follicular centre cell NOS"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBgC.00,,"[M]Malignant lymphoma, lymphocytic, well differentiated NOS"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBgC.11,,[M]Lymphocytic lymphoma NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBgC.12,,[M]Lymphocytic lymphosarcoma NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBgD.00,,"[M]Malig lymphoma, lymphocytic, intermediate different NOS"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBgE.00,,"[M]Malignant lymphoma, centrocytic"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBgG.00,,"[M]Malignant lymphoma, lymphocytic, poorly different NOS"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBgG.11,,[M]Lymphoblastic lymphosarcoma NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBgG.12,,[M]Lymphoblastic lymphoma NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBgG.13,,[M]Lymphoblastoma NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBgH.00,,[M]Prolymphocytic lymphosarcoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBgJ.00,,"[M]Malignant lymphoma, centroblastic type NOS"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBgK.00,,"[M]Malig lymphoma, follicular centre cell, non-cleaved NOS"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBgL.00,,"[M]Malignant lymphoma, small lymphocytic NOS"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBgM.00,,"[M]Malignant lymphoma, small cleaved cell, diffuse"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBgN.00,,"[M]Malign lymphoma,lymphocytic,intermediate differn, diffuse"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBgP.00,,"[M]Malignant lymphoma, mixed small and large cell, diffuse"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBgQ.00,,[M]Malignant lymphomatous polyposis
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBgR.00,,"[M]Malignant lymphoma, large cell, diffuse NOS"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBgS.00,,"[M]Malignant lymphoma, large cell, cleaved, diffuse"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBgT.00,,"[M]Malignant lymphoma, large cell, noncleaved, diffuse"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBgV.00,,"[M]Malignant lymphoma, small cell, noncleaved, diffuse"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBgz.00,,"[M]Lymphoma, diffuse or NOS"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBh..00,,[M]Reticulosarcomas
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBh0.00,,[M]Reticulosarcoma NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBh2.00,,"[M]Reticulosarcoma, nodular"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBk..00,,"[M]Lymphomas, nodular or follicular"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBk0.00,,"[M]Malignant lymphoma, nodular NOS"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBk0.11,,[M]Brill - Symmers' disease
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBk0.12,,[M]Follicular lymphosarcoma NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBk0.13,,[M]Giant follicular lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBk2.00,,"[M]Malignant lymphoma, centroblastic-centrocytic, follicular"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBk3.00,,"[M]Malig lymphoma, lymphocytic, well differentiated,nodular"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBk5.00,,"[M]Malig lymp, follicular centre cell, cleaved, follicular"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBk7.00,,"[M]Malignant lymphoma, centroblastic type, follicular"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBk8.00,,"[M]Malig lymp,follicular centre cell,noncleaved,follicular"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBkz.00,,"[M]Lymphoma, nodular or follicular NOS"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBl..00,,[M]Mycosis fungoides
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBl0.00,,[M]Mycosis fungoides
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBl1.00,,[M]Sezary's disease
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBlz.00,,[M]Mycosis fungoides NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBm0.00,,[M]Microglioma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBm1.11,,[M]Malignant reticulosis
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBm5.00,,[M] Peripheral T-cell lymphoma NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBm8.00,,[M] Angioimmunoblastic lymphadenopathy
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBm9.00,,[M] Monocytoid B-cell lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBmD.00,,[M] Cutaneous lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBmF.00,,[M] Angiocentric immunoproliferative lesion
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBmH.00,,[M] Large cell lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBmJ.00,,[M] Angioendotheliomatosis
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBv0.00,,[M]Monocytoid B-cell lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBv2.00,,[M]AngiocentricT-cell lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",ByuD100,,[X]Other types of follicular non-Hodgkin's lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",ByuD200,,[X]Other types of diffuse non-Hodgkin's lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",ByuD300,,[X]Other specified types of non-Hodgkin's lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",ByuDC00,,"[X]Diffuse non-Hodgkin's lymphoma, unspecified"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",ByuDD00,,[X]Oth and unspecif peripheral & cutaneous T-cell lymphomas
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",ByuDE00,,[X]Unspecified B-cell non-Hodgkin's lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",ByuDF00,,"[X]Non-Hodgkin's lymphoma, unspecified type"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",ByuDF11,,[X]Non-Hodgkin's lymphoma NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",M162800,,Lymphomatoid papulosis
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,Aleukaemic myeloid leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,Lymphoid leukaemia - chronic
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,Myeloid leukaemia - chronic
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,[m]erythroleukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,adult t-cell leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,chloroma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,chronic granulocytic leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,chronic leukaemia nos
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,chronic lymphatic leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,chronic myeloid leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,di guglielmo's disease
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,granulocytic sarcoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,hairy cell leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,leukaemia nos
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,leukaemia of unspecified cell type
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,leukaemic reticuloendotheliosis
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,leukaemic reticuloendotheliosis of unspecified sites
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,lymphatic leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,mast cell leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,megakaryocytic leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,monoblastic leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,monocytic leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,myeloid leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,myeloid sarcoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,myelomonocytic leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,other specified leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,other specified leukaemia nos
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",,,prolymphocytic leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B624.00,,Leukaemic reticuloendotheliosis
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B624.11,,Leukaemic reticuloendotheliosis
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B624.12,,Hairy cell leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B624000,,Leukaemic reticuloendotheliosis of unspecified sites
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B624300,,Leukaemic reticuloend of intra-abdominal lymph nodes
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B624z00,,Leukaemic reticuloendotheliosis NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B64..00,,Lymphoid leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B64..11,,Lymphatic leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B641.00,,Chronic lymphoid leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B641.11,,Chronic lymphatic leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B641000,,B-cell chronic lymphocytic leukaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62F000,B62F000,Small cell B-cell lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62F100,B62F100,Mantle cell lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62F200,B62F200,Lymphoblastic (diffuse) lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62x.00,B62x.00,Malignant lymphoma otherwise specified
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62x000,B62x000,T-zone lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62x100,B62x100,Lymphoepithelioid lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62x200,B62x200,Peripheral T-cell lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62x400,B62x400,Malignant reticulosis
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62x500,B62x500,Malignant immunoproliferative small intestinal disease
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62xX00,B62xX00,Oth and unspecif peripheral & cutaneous T-cell lymphomas
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62y.00,B62y.00,Malignant lymphoma NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62y000,B62y000,Malignant lymphoma NOS of unspecified site
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62y100,B62y100,"Malignant lymphoma NOS of lymph nodes of head, face and neck"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62y200,B62y200,Malignant lymphoma NOS of intrathoracic lymph nodes
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62y300,B62y300,Malignant lymphoma NOS of intra-abdominal lymph nodes
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62y400,B62y400,Malignant lymphoma NOS of lymph nodes of axilla and arm
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62y500,B62y500,Malignant lymphoma NOS of lymph node inguinal region and leg
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62y600,B62y600,Malignant lymphoma NOS of intrapelvic lymph nodes
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62y700,B62y700,Malignant lymphoma NOS of spleen
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62y800,B62y800,Malignant lymphoma NOS of lymph nodes of multiple sites
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B62yz00,B62yz00,Malignant lymphoma NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBg..00,BBg..00,"[M]Lymphomas, NOS or diffuse"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBg1.00,BBg1.00,[M]Malignant lymphoma NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBg1.11,BBg1.11,[M]Lymphoma NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBg1000,BBg1000,"[M]Malignant lymphoma, diffuse NOS"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBg2.00,BBg2.00,"[M]Malignant lymphoma, non Hodgkin's type"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBg2.11,BBg2.11,[M]Non Hodgkins lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBg3.00,BBg3.00,"[M]Malignant lymphoma, undifferentiated cell type NOS"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBg4.00,BBg4.00,"[M]Malignant lymphoma, stem cell type"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBg5.00,BBg5.00,"[M]Malignant lymphoma, convoluted cell type NOS"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBg6.00,BBg6.00,[M]Lymphosarcoma NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBg7.00,BBg7.00,"[M]Malignant lymphoma, lymphoplasmacytoid type"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBg8.00,BBg8.00,"[M]Malignant lymphoma, immunoblastic type"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBgA.00,BBgA.00,"[M]Malignant lymphoma, centroblastic-centrocytic, diffuse"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBgB.00,BBgB.00,"[M]Malignant lymphoma, follicular centre cell NOS"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBgC.00,BBgC.00,"[M]Malignant lymphoma, lymphocytic, well differentiated NOS"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBgC.11,BBgC.11,[M]Lymphocytic lymphoma NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBgC.12,BBgC.12,[M]Lymphocytic lymphosarcoma NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBgD.00,BBgD.00,"[M]Malig lymphoma, lymphocytic, intermediate different NOS"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBgE.00,BBgE.00,"[M]Malignant lymphoma, centrocytic"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBgG.00,BBgG.00,"[M]Malignant lymphoma, lymphocytic, poorly different NOS"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBgG.11,BBgG.11,[M]Lymphoblastic lymphosarcoma NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBgG.12,BBgG.12,[M]Lymphoblastic lymphoma NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBgG.13,BBgG.13,[M]Lymphoblastoma NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBgH.00,BBgH.00,[M]Prolymphocytic lymphosarcoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBgJ.00,BBgJ.00,"[M]Malignant lymphoma, centroblastic type NOS"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBgK.00,BBgK.00,"[M]Malig lymphoma, follicular centre cell, non-cleaved NOS"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBgL.00,BBgL.00,"[M]Malignant lymphoma, small lymphocytic NOS"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBgM.00,BBgM.00,"[M]Malignant lymphoma, small cleaved cell, diffuse"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBgN.00,BBgN.00,"[M]Malign lymphoma,lymphocytic,intermediate differn, diffuse"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBgP.00,BBgP.00,"[M]Malignant lymphoma, mixed small and large cell, diffuse"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBgQ.00,BBgQ.00,[M]Malignant lymphomatous polyposis
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBgR.00,BBgR.00,"[M]Malignant lymphoma, large cell, diffuse NOS"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBgS.00,BBgS.00,"[M]Malignant lymphoma, large cell, cleaved, diffuse"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBgT.00,BBgT.00,"[M]Malignant lymphoma, large cell, noncleaved, diffuse"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBgV.00,BBgV.00,"[M]Malignant lymphoma, small cell, noncleaved, diffuse"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBgz.00,BBgz.00,"[M]Lymphoma, diffuse or NOS"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBh..00,BBh..00,[M]Reticulosarcomas
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBh0.00,BBh0.00,[M]Reticulosarcoma NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBh2.00,BBh2.00,"[M]Reticulosarcoma, nodular"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBk..00,BBk..00,"[M]Lymphomas, nodular or follicular"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBk0.00,BBk0.00,"[M]Malignant lymphoma, nodular NOS"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBk0.11,BBk0.11,[M]Brill - Symmers' disease
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBk0.12,BBk0.12,[M]Follicular lymphosarcoma NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBk0.13,BBk0.13,[M]Giant follicular lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBk2.00,BBk2.00,"[M]Malignant lymphoma, centroblastic-centrocytic, follicular"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBk3.00,BBk3.00,"[M]Malig lymphoma, lymphocytic, well differentiated,nodular"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBk5.00,BBk5.00,"[M]Malig lymp, follicular centre cell, cleaved, follicular"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBk7.00,BBk7.00,"[M]Malignant lymphoma, centroblastic type, follicular"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBk8.00,BBk8.00,"[M]Malig lymp,follicular centre cell,noncleaved,follicular"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBkz.00,BBkz.00,"[M]Lymphoma, nodular or follicular NOS"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBl..00,BBl..00,[M]Mycosis fungoides
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBl0.00,BBl0.00,[M]Mycosis fungoides
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBl1.00,BBl1.00,[M]Sezary's disease
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBlz.00,BBlz.00,[M]Mycosis fungoides NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBm0.00,BBm0.00,[M]Microglioma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBm1.11,BBm1.11,[M]Malignant reticulosis
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBm5.00,BBm5.00,[M] Peripheral T-cell lymphoma NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBm8.00,BBm8.00,[M] Angioimmunoblastic lymphadenopathy
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBm9.00,BBm9.00,[M] Monocytoid B-cell lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBmD.00,BBmD.00,[M] Cutaneous lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBmF.00,BBmF.00,[M] Angiocentric immunoproliferative lesion
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBmH.00,BBmH.00,[M] Large cell lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBmJ.00,BBmJ.00,[M] Angioendotheliomatosis
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBv0.00,BBv0.00,[M]Monocytoid B-cell lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBv2.00,BBv2.00,[M]AngiocentricT-cell lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",ByuD100,ByuD100,[X]Other types of follicular non-Hodgkin's lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",ByuD200,ByuD200,[X]Other types of diffuse non-Hodgkin's lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",ByuD300,ByuD300,[X]Other specified types of non-Hodgkin's lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",ByuDC00,ByuDC00,"[X]Diffuse non-Hodgkin's lymphoma, unspecified"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",ByuDD00,ByuDD00,[X]Oth and unspecif peripheral & cutaneous T-cell lymphomas
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",ByuDE00,ByuDE00,[X]Unspecified B-cell non-Hodgkin's lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",ByuDF00,ByuDF00,"[X]Non-Hodgkin's lymphoma, unspecified type"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",ByuDF11,ByuDF11,[X]Non-Hodgkin's lymphoma NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",M162800,M162800,Lymphomatoid papulosis
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B624.00,B624.00,Leukaemic reticuloendotheliosis
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B624.11,B624.11,Leukaemic reticuloendotheliosis
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B624.12,B624.12,Hairy cell leukaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B624000,B624000,Leukaemic reticuloendotheliosis of unspecified sites
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B624300,B624300,Leukaemic reticuloend of intra-abdominal lymph nodes
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B624z00,B624z00,Leukaemic reticuloendotheliosis NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B64..00,B64..00,Lymphoid leukaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B64..11,B64..11,Lymphatic leukaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B641.00,B641.00,Chronic lymphoid leukaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B641.11,B641.11,Chronic lymphatic leukaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B641000,B641000,B-cell chronic lymphocytic leukaemia
 "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B641011,,Chronic lymphocytic leukaemia of B-cell type
 "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B641100,,Clinical stage A chronic lymphocytic leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B641200,,Clinical stage B chronic lymphocytic leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B641300,,Clinical stage C chronic lymphocytic leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B64y.00,,Other lymphoid leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B64y100,,Prolymphocytic leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B64y200,,Adult T-cell leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B64y300,,B-cell prolymphocytic leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B64y400,,T-cell prolymphocytic leukaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B641200,B641200,Clinical stage B chronic lymphocytic leukaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B641300,B641300,Clinical stage C chronic lymphocytic leukaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B64y.00,B64y.00,Other lymphoid leukaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B64y100,B64y100,Prolymphocytic leukaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B64y200,B64y200,Adult T-cell leukaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B64y300,B64y300,B-cell prolymphocytic leukaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B64y400,B64y400,T-cell prolymphocytic leukaemia
 "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B64y500,,Adult T-cell lymphoma/leukaemia (HTLV-1-associated)
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B64yz00,,Other lymphoid leukaemia NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B64z.00,,Lymphoid leukaemia NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B65..00,,Myeloid leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B651.00,,Chronic myeloid leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B651.11,,Chronic granulocytic leukaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B64yz00,B64yz00,Other lymphoid leukaemia NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B64z.00,B64z.00,Lymphoid leukaemia NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B65..00,B65..00,Myeloid leukaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B651.00,B651.00,Chronic myeloid leukaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B651.11,B651.11,Chronic granulocytic leukaemia
 "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B651100,,"Chronic myeloid leukaemia, BCR/ABL positive"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B651200,,Chronic neutrophilic leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B651300,,"Atypical chronic myeloid leukaemia, BCR/ABL negative"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B651z00,,Chronic myeloid leukaemia NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B653.00,,Myeloid sarcoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B653000,,Chloroma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B653100,,Granulocytic sarcoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B65yz00,,Other myeloid leukaemia NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B65z.00,,Myeloid leukaemia NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B66..00,,Monocytic leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B66..11,,Histiocytic leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B66..12,,Monoblastic leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B661.00,,Chronic monocytic leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B66y.00,,Other monocytic leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B66yz00,,Other monocytic leukaemia NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B66z.00,,Monocytic leukaemia NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B67..00,,Other specified leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B670.11,,Di Guglielmo's disease
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B672.00,,Megakaryocytic leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B672.11,,Thrombocytic leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B673.00,,Mast cell leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B677.00,,Myelodysplastic and myeloproliferative disease
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B67y.00,,Other and unspecified leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B67y000,,Lymphosarcoma cell leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B67yz00,,Other and unspecified leukaemia NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B67z.00,,Other specified leukaemia NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B68..00,,Leukaemia of unspecified cell type
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B681.00,,Chronic leukaemia NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B68y.00,,Other leukaemia of unspecified cell type
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B68z.00,,Leukaemia NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B69..00,,Myelomonocytic leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B691.00,,Chronic myelomonocytic leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B693.00,,Juvenile myelomonocytic leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr..00,,[M]Leukaemias
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr0.00,,[M]Leukaemias unspecified
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr0000,,[M]Leukaemia NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr0111,,[M]Blast cell leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr0112,,[M]Blastic leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr0113,,[M]Stem cell leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr0300,,[M]Chronic leukaemia NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr0400,,[M]Aleukaemic leukaemia NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr0z00,,"[M]Leukaemia unspecified, NOS"
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr2.00,,[M]Lymphoid leukaemias
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr2000,,[M]Lymphoid leukaemia NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr2011,,[M]Lymphatic leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr2300,,[M]Chronic lymphoid leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr2500,,[M]Prolymphocytic leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr2600,,[M]Burkitt's cell leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr2700,,[M]Adult T-cell leukaemia/lymphoma
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr4.00,,[M]Erythroleukaemias
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr4000,,[M]Erythroleukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr4z00,,[M]Erythroleukaemia NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr6.00,,[M]Myeloid leukaemias
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr6000,,[M]Myeloid leukaemia NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr6011,,[M]Granulocytic leukaemia NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr6300,,[M]Chronic myeloid leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr6311,,[M]Naegeli-type monocytic leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr6800,,[M]Chronic myelomonocytic leukaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B651200,B651200,Chronic neutrophilic leukaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B651300,B651300,"Atypical chronic myeloid leukaemia, BCR/ABL negative"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B651z00,B651z00,Chronic myeloid leukaemia NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B653.00,B653.00,Myeloid sarcoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B653000,B653000,Chloroma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B653100,B653100,Granulocytic sarcoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B65yz00,B65yz00,Other myeloid leukaemia NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B65z.00,B65z.00,Myeloid leukaemia NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B66..00,B66..00,Monocytic leukaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B66..11,B66..11,Histiocytic leukaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B66..12,B66..12,Monoblastic leukaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B661.00,B661.00,Chronic monocytic leukaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B66y.00,B66y.00,Other monocytic leukaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B66yz00,B66yz00,Other monocytic leukaemia NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B66z.00,B66z.00,Monocytic leukaemia NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B67..00,B67..00,Other specified leukaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B670.11,B670.11,Di Guglielmo's disease
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B672.00,B672.00,Megakaryocytic leukaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B672.11,B672.11,Thrombocytic leukaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B673.00,B673.00,Mast cell leukaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B677.00,B677.00,Myelodysplastic and myeloproliferative disease
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B67y.00,B67y.00,Other and unspecified leukaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B67y000,B67y000,Lymphosarcoma cell leukaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B67yz00,B67yz00,Other and unspecified leukaemia NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B67z.00,B67z.00,Other specified leukaemia NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B68..00,B68..00,Leukaemia of unspecified cell type
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B681.00,B681.00,Chronic leukaemia NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B68y.00,B68y.00,Other leukaemia of unspecified cell type
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B68z.00,B68z.00,Leukaemia NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B69..00,B69..00,Myelomonocytic leukaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B691.00,B691.00,Chronic myelomonocytic leukaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",B693.00,B693.00,Juvenile myelomonocytic leukaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr..00,BBr..00,[M]Leukaemias
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr0.00,BBr0.00,[M]Leukaemias unspecified
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr0000,BBr0000,[M]Leukaemia NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr0111,BBr0111,[M]Blast cell leukaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr0112,BBr0112,[M]Blastic leukaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr0113,BBr0113,[M]Stem cell leukaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr0300,BBr0300,[M]Chronic leukaemia NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr0400,BBr0400,[M]Aleukaemic leukaemia NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr0z00,BBr0z00,"[M]Leukaemia unspecified, NOS"
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr2.00,BBr2.00,[M]Lymphoid leukaemias
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr2000,BBr2000,[M]Lymphoid leukaemia NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr2011,BBr2011,[M]Lymphatic leukaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr2300,BBr2300,[M]Chronic lymphoid leukaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr2500,BBr2500,[M]Prolymphocytic leukaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr2600,BBr2600,[M]Burkitt's cell leukaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr2700,BBr2700,[M]Adult T-cell leukaemia/lymphoma
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr4.00,BBr4.00,[M]Erythroleukaemias
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr4000,BBr4000,[M]Erythroleukaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr4z00,BBr4z00,[M]Erythroleukaemia NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr6.00,BBr6.00,[M]Myeloid leukaemias
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr6000,BBr6000,[M]Myeloid leukaemia NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr6011,BBr6011,[M]Granulocytic leukaemia NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr6300,BBr6300,[M]Chronic myeloid leukaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr6311,BBr6311,[M]Naegeli-type monocytic leukaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr6800,BBr6800,[M]Chronic myelomonocytic leukaemia
 "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr6900,,[M]Juvenile myelomonocytic leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr6z00,,[M]Other myeloid leukaemia NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr7000,,[M]Basophilic leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr9000,,[M]Monocytic leukaemia NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBrA.00,,[M]Miscellaneous leukaemias
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBrA100,,[M]Megakaryocytic leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBrA111,,[M]Thrombocytic leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBrA400,,[M]Hairy cell leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBrAz00,,[M]Miscellaneous leukaemia NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBrz.00,,[M]Leukaemia NOS
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",ByuD500,,[X]Other lymphoid leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",ByuD600,,[X]Other myeloid leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",ByuD700,,[X]Other monocytic leukaemia
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",ByuD800,,[X]Other specified leukaemias
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",ByuD900,,[X]Other leukaemia of unspecified cell type
-"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",ZV67811,,[V]Follow-up examination after chemotherapy for leukaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr6z00,BBr6z00,[M]Other myeloid leukaemia NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr7000,BBr7000,[M]Basophilic leukaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBr9000,BBr9000,[M]Monocytic leukaemia NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBrA.00,BBrA.00,[M]Miscellaneous leukaemias
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBrA100,BBrA100,[M]Megakaryocytic leukaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBrA111,BBrA111,[M]Thrombocytic leukaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBrA400,BBrA400,[M]Hairy cell leukaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBrAz00,BBrAz00,[M]Miscellaneous leukaemia NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",BBrz.00,BBrz.00,[M]Leukaemia NOS
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",ByuD500,ByuD500,[X]Other lymphoid leukaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",ByuD600,ByuD600,[X]Other myeloid leukaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",ByuD700,ByuD700,[X]Other monocytic leukaemia
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",ByuD800,ByuD800,[X]Other specified leukaemias
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",ByuD900,ByuD900,[X]Other leukaemia of unspecified cell type
+"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",ZV67811,ZV67811,[V]Follow-up examination after chemotherapy for leukaemia

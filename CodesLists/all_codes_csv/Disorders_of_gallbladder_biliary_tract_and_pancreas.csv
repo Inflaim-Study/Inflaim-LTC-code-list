@@ -1,4 +1,4 @@
-Condition,MedCode,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
+Condition,MedCodeId,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
 "Disorders of gallbladder, biliary tract and pancreas",303789013,266474003,396395019,Jyu80,Jyu8000,[X]Other cholelithiasis
 "Disorders of gallbladder, biliary tract and pancreas",303790016,76581006,127173011,Jyu81,Jyu8100,[X]Other cholecystitis
 "Disorders of gallbladder, biliary tract and pancreas",303791017,39621005,492161010,Jyu82,Jyu8200,[X]Other specified diseases of gallbladder

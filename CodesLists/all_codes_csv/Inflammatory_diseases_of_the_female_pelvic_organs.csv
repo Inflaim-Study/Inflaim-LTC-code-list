@@ -1,4 +1,4 @@
-Condition,MedCode,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
+Condition,MedCodeId,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
 Inflammatory diseases of the female pelvic organs,304666017,8258000,14627016,K4024,K402400,Perioophoritis unspecified
 Inflammatory diseases of the female pelvic organs,304667014,46536000,77563016,K4025,K402500,Salpingo-oophoritis unspecified
 Inflammatory diseases of the female pelvic organs,304668016,88157006,146147019,K4026,K402600,Salpingitis unspecified

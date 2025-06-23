@@ -1,82 +1,82 @@
-Condition,MedCode,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",251690014,161509009,251690014,^ESCTHI454057,,H/O: varicose veins
+Condition,MedCodeId,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",251690014,161509009,251690014,^ESCTHI454057,14A9.00,H/O: varicose veins
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",251690014,161509009,251690014,14A9,14A9.00,H/O: varicose veins
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",254104013,163052007,254104013,^ESCTON455693,,O/E - varicose veins
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",254104013,163052007,254104013,^ESCTON455693,2482.00,O/E - varicose veins
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",254104013,163052007,254104013,2482,2482.00,O/E - varicose veins
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",2288411000000115,705031001,2463941000000119,^ESCTLY759748,,LYMQOL (Lymphoedema Quality of Life Tool) - leg
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",2288411000000115,705031001,2463941000000119,^ESCTLY759748,38Q3.00,LYMQOL (Lymphoedema Quality of Life Tool) - leg
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",2288411000000115,705031001,2463941000000119,38Q3,38Q3.00,LYMQOL (Lymphoedema Quality of Life Tool) - leg
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",2288411000000115,705031001,2463941000000119,^ESCTLY759747,,LYMQOL (Lymphoedema Quality of Life Tool) - leg
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",571551000006119,302357009,443996017,^ESCTCO590591,,Cockett subfascial ligation of perforating varicose vein
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",2288411000000115,705031001,2463941000000119,^ESCTLY759747,38Q3.00,LYMQOL (Lymphoedema Quality of Life Tool) - leg
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",571551000006119,302357009,443996017,^ESCTCO590591,7A66111,Cockett subfascial ligation of perforating varicose vein
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",571551000006119,302357009,443996017,7A661-1,7A66111,Cockett subfascial ligation of perforating varicose vein
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",571551000006119,302357009,443996017,^ESCTSU590590,,Cockett subfascial ligation of perforating varicose vein
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",571551000006119,302357009,443996017,7A661-2,7A66112,Cockett subfascial ligation of perforating varicose vein
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",124301000006115,302357009,443996017,^ESCTCO590591,,Subfascial ligation of varicose veins
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",124301000006115,302357009,443996017,7A661-1,7A66111,Subfascial ligation of varicose veins
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",124301000006115,302357009,443996017,^ESCTSU590590,,Subfascial ligation of varicose veins
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",571551000006119,302357009,443996017,^ESCTSU590590,7A66111,Cockett subfascial ligation of perforating varicose vein
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",571551000006119,302357009,443996017,7A661-2,7A66111,Cockett subfascial ligation of perforating varicose vein
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",124301000006115,302357009,443996017,^ESCTCO590591,7A66112,Subfascial ligation of varicose veins
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",124301000006115,302357009,443996017,7A661-1,7A66112,Subfascial ligation of varicose veins
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",124301000006115,302357009,443996017,^ESCTSU590590,7A66112,Subfascial ligation of varicose veins
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",124301000006115,302357009,443996017,7A661-2,7A66112,Subfascial ligation of varicose veins
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1221208011,15617002,1221208011,^ESCTLI274763,,Ligation of varicose vein of leg
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1221208011,15617002,1221208011,^ESCTLO274764,,Ligation of varicose vein of leg
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1221208011,15617002,1221208011,^ESCTLI274763,7A67.00,Ligation of varicose vein of leg
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1221208011,15617002,1221208011,^ESCTLO274764,7A67.00,Ligation of varicose vein of leg
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1221208011,15617002,1221208011,7A67,7A67.00,Ligation of varicose vein of leg
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1221208011,15617002,1221208011,7A67-99,7A67.99,Ligation of varicose vein of leg
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1221208011,15617002,1221208011,7A67y,7A67y00,Ligation of varicose vein of leg
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1221208011,15617002,1221208011,7A67z,7A67z00,Ligation of varicose vein of leg
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1221208011,15617002,1221208011,7A67-99,7A67.00,Ligation of varicose vein of leg
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1221208011,15617002,1221208011,7A67y,7A67.00,Ligation of varicose vein of leg
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1221208011,15617002,1221208011,7A67z,7A67.00,Ligation of varicose vein of leg
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",272209014,175819004,272209014,7A672,7A67200,Ligation of recurrent varicose vein of leg
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",394358017,265543008,394358017,7A673-1,7A67311,Ligation of perforating varicose vein of leg
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",394358017,265543008,394358017,7A673-1,7A67300,Ligation of perforating varicose vein of leg
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",394358017,265543008,394358017,7A673,7A67300,Ligation of perforating varicose vein of leg
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",743601000006118,265543008,394358017,7A673-1,7A67311,Linton ligation of perforating varicose vein of leg
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",743601000006118,265543008,394358017,7A673,7A67300,Linton ligation of perforating varicose vein of leg
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",272214013,15617002,26472016,^ESCTLI274763,,Other specified ligation of varicose vein of leg
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",272214013,15617002,26472016,^ESCTLO274764,,Other specified ligation of varicose vein of leg
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",272214013,15617002,26472016,7A67,7A67.00,Other specified ligation of varicose vein of leg
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",272214013,15617002,26472016,7A67-99,7A67.99,Other specified ligation of varicose vein of leg
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",743601000006118,265543008,394358017,7A673,7A67311,Linton ligation of perforating varicose vein of leg
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",272214013,15617002,26472016,^ESCTLI274763,7A67y00,Other specified ligation of varicose vein of leg
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",272214013,15617002,26472016,^ESCTLO274764,7A67y00,Other specified ligation of varicose vein of leg
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",272214013,15617002,26472016,7A67,7A67y00,Other specified ligation of varicose vein of leg
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",272214013,15617002,26472016,7A67-99,7A67y00,Other specified ligation of varicose vein of leg
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",272214013,15617002,26472016,7A67y,7A67y00,Other specified ligation of varicose vein of leg
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",272214013,15617002,26472016,7A67z,7A67z00,Other specified ligation of varicose vein of leg
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",272215014,15617002,1221208011,^ESCTLI274763,,Ligation of varicose vein of leg NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",272215014,15617002,1221208011,^ESCTLO274764,,Ligation of varicose vein of leg NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",272215014,15617002,1221208011,7A67,7A67.00,Ligation of varicose vein of leg NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",272215014,15617002,1221208011,7A67-99,7A67.99,Ligation of varicose vein of leg NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",272215014,15617002,1221208011,7A67y,7A67y00,Ligation of varicose vein of leg NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",272214013,15617002,26472016,7A67z,7A67y00,Other specified ligation of varicose vein of leg
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",272215014,15617002,1221208011,^ESCTLI274763,7A67z00,Ligation of varicose vein of leg NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",272215014,15617002,1221208011,^ESCTLO274764,7A67z00,Ligation of varicose vein of leg NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",272215014,15617002,1221208011,7A67,7A67z00,Ligation of varicose vein of leg NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",272215014,15617002,1221208011,7A67-99,7A67z00,Ligation of varicose vein of leg NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",272215014,15617002,1221208011,7A67y,7A67z00,Ligation of varicose vein of leg NOS
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",272215014,15617002,1221208011,7A67z,7A67z00,Ligation of varicose vein of leg NOS
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1548941000006119,425542000,2675890017,7A682,7A68200,Ultrasound guided foam sclerotherapy for varicose vein of leg
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",360251000000111,429623000,2900604011,^ESCTEN710617,,Transilluminated powered phlebectomy for varicose vein of leg
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",360251000000111,429623000,2900604011,^ESCTEN710617,7A68300,Transilluminated powered phlebectomy for varicose vein of leg
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",360251000000111,429623000,2900604011,7A683,7A68300,Transilluminated powered phlebectomy for varicose vein of leg
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",394359013,9365003,16429014,7A692,7A69200,Stripping of lower limb varicose veins
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",715361000006118,265855005,394888016,7A692-1,7A69211,Mayo stripping of varicose vein
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",715361000006118,265855005,394888016,7A692-99,7A69299,Mayo stripping of varicose vein
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",715361000006118,265855005,394888016,7A692-99,7A69211,Mayo stripping of varicose vein
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",394360015,265545001,394360015,7A693,7A69300,Avulsion of varicose vein of leg
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",394360015,265545001,394360015,7A693-1,7A69311,Avulsion of varicose vein of leg
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",501531000006116,265545001,394360015,7A693,7A69300,Babcock subcutaneous enucleation of varicose veins
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",394360015,265545001,394360015,7A693-1,7A69300,Avulsion of varicose vein of leg
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",501531000006116,265545001,394360015,7A693,7A69311,Babcock subcutaneous enucleation of varicose veins
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",501531000006116,265545001,394360015,7A693-1,7A69311,Babcock subcutaneous enucleation of varicose veins
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",299441000000114,448606008,2398391000000112,7A696,7A69600,Endovascular radiofrequency ablation of varicose vein of leg
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",299441000000114,448606008,2398391000000112,7A6M1,7A6M100,Endovascular radiofrequency ablation of varicose vein of leg
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",311501000000116,713158000,1088601000000114,^ESCTEN770036,,Endovascular laser ablation of varicose vein of leg
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",299441000000114,448606008,2398391000000112,7A6M1,7A69600,Endovascular radiofrequency ablation of varicose vein of leg
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",311501000000116,713158000,1088601000000114,^ESCTEN770036,7A69700,Endovascular laser ablation of varicose vein of leg
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",311501000000116,713158000,1088601000000114,7A697,7A69700,Endovascular laser ablation of varicose vein of leg
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1549411000006118,448606008,2901369015,7A696,7A69600,Endovenous radiofrequency obliteration of varicose vein of lower limb
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1549411000006118,448606008,2901369015,7A696,7A6M100,Endovenous radiofrequency obliteration of varicose vein of lower limb
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1549411000006118,448606008,2901369015,7A6M1,7A6M100,Endovenous radiofrequency obliteration of varicose vein of lower limb
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1587911000006113,609166008,2958283018,^ESCT1182240,,Percutaneous transluminal laser ablation of varicose vein of lower limb
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1587911000006113,609166008,2958283018,^ESCT1182240,7A6M300,Percutaneous transluminal laser ablation of varicose vein of lower limb
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1587911000006113,609166008,2958283018,7A6M3,7A6M300,Percutaneous transluminal laser ablation of varicose vein of lower limb
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1587911000006113,609166008,2958283018,^ESCTPE749397,,Percutaneous transluminal laser ablation of varicose vein of lower limb
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",545461000006117,265007006,393534013,^ESCTEX548284,,Charles correction for lymphoedema of arm
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1587911000006113,609166008,2958283018,^ESCTPE749397,7A6M300,Percutaneous transluminal laser ablation of varicose vein of lower limb
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",545461000006117,265007006,393534013,^ESCTEX548284,7H66111,Charles correction for lymphoedema of arm
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",545461000006117,265007006,393534013,7H661-1,7H66111,Charles correction for lymphoedema of arm
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",545461000006117,265007006,393534013,7H661,7H66100,Charles correction for lymphoedema of arm
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",106311000006119,47700006,79485019,^ESCTCO327133,,Thompson correction for lymphoedema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",106311000006119,47700006,79485019,^ESCTEX327135,,Thompson correction for lymphoedema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",106311000006119,47700006,79485019,^ESCTCO327132,,Thompson correction for lymphoedema
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",545461000006117,265007006,393534013,7H661,7H66111,Charles correction for lymphoedema of arm
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",106311000006119,47700006,79485019,^ESCTCO327133,7H66211,Thompson correction for lymphoedema
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",106311000006119,47700006,79485019,^ESCTEX327135,7H66211,Thompson correction for lymphoedema
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",106311000006119,47700006,79485019,^ESCTCO327132,7H66211,Thompson correction for lymphoedema
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",106311000006119,47700006,79485019,7H662-1,7H66211,Thompson correction for lymphoedema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",106311000006119,47700006,79485019,7H66-1,7H66.11,Thompson correction for lymphoedema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",106311000006119,47700006,79485019,7H665,7H66500,Thompson correction for lymphoedema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",106311000006119,47700006,79485019,7H66-97,7H66.97,Thompson correction for lymphoedema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",106311000006119,47700006,79485019,7H66-98,7H66.98,Thompson correction for lymphoedema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",106311000006119,47700006,79485019,7H66-99,7H66.99,Thompson correction for lymphoedema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",106311000006119,47700006,79485019,^ESCTEX327134,,Thompson correction for lymphoedema
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",106311000006119,47700006,79485019,7H66-1,7H66211,Thompson correction for lymphoedema
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",106311000006119,47700006,79485019,7H665,7H66211,Thompson correction for lymphoedema
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",106311000006119,47700006,79485019,7H66-97,7H66211,Thompson correction for lymphoedema
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",106311000006119,47700006,79485019,7H66-98,7H66211,Thompson correction for lymphoedema
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",106311000006119,47700006,79485019,7H66-99,7H66211,Thompson correction for lymphoedema
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",106311000006119,47700006,79485019,^ESCTEX327134,7H66211,Thompson correction for lymphoedema
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",827101000006119,234307002,351014016,7H663-2,7H66312,Homan correction for lymphoedema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",827101000006119,234307002,351014016,^ESCTHO506272,,Homan correction for lymphoedema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",827101000006119,234307002,351014016,^ESCTHO506273,,Homan correction for lymphoedema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",827101000006119,234307002,351014016,^ESCTEX506274,,Homan correction for lymphoedema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",827101000006119,234307002,351014016,^ESCTEX506271,,Homan correction for lymphoedema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",351008011,234305005,351008011,^ESCTKO506266,,Kondoleon correction for lymphoedema
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",827101000006119,234307002,351014016,^ESCTHO506272,7H66312,Homan correction for lymphoedema
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",827101000006119,234307002,351014016,^ESCTHO506273,7H66312,Homan correction for lymphoedema
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",827101000006119,234307002,351014016,^ESCTEX506274,7H66312,Homan correction for lymphoedema
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",827101000006119,234307002,351014016,^ESCTEX506271,7H66312,Homan correction for lymphoedema
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",351008011,234305005,351008011,^ESCTKO506266,7H66y11,Kondoleon correction for lymphoedema
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",351008011,234305005,351008011,7H66y-1,7H66y11,Kondoleon correction for lymphoedema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1660201000000118,445710004,2882783018,^ESCTLY731242,,Lymphoedema care
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1660201000000118,445710004,2882783018,^ESCTLY731242,8BAh.00,Lymphoedema care
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1660201000000118,445710004,2882783018,8BAh,8BAh.00,Lymphoedema care
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1156251000000114,518161000000100,1156251000000114,8HkZ,8HkZ.00,Referral to community lymphoedema service
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",284064017,183858000,284064017,8HT7,8HT7.00,Referral to varicose vein clinic
@@ -84,205 +84,205 @@ Condition,MedCode,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Te
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",2326351000000113,904571000000103,2326351000000113,9NoB,9NoB.00,Seen in lymphoedema clinic
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",2297741000000112,892341000000102,2297741000000112,9NoB0,9NoB000,Seen in community lymphoedema clinic
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",294540013,191394000,294540013,D418,D418.00,Calcified lymph nodes
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,Gz,Gz...00,"Vein, lymphatic and circulatory diseases NOS"
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,Gz,G8...00,"Vein, lymphatic and circulatory diseases NOS"
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,G8,G8...00,"Vein, lymphatic and circulatory diseases NOS"
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,G8yz,G8yz.00,"Vein, lymphatic and circulatory diseases NOS"
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,Gyu92,Gyu9200,"Vein, lymphatic and circulatory diseases NOS"
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,^ESCTCA330272,,"Vein, lymphatic and circulatory diseases NOS"
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,G-1,G....11,"Vein, lymphatic and circulatory diseases NOS"
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,G5yX,G5yX.00,"Vein, lymphatic and circulatory diseases NOS"
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,G,G....00,"Vein, lymphatic and circulatory diseases NOS"
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,^ESCTCV330273,,"Vein, lymphatic and circulatory diseases NOS"
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,^ESCT1192351,,"Vein, lymphatic and circulatory diseases NOS"
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,^ESCTDI330268,,"Vein, lymphatic and circulatory diseases NOS"
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,^ESCTCA330269,,"Vein, lymphatic and circulatory diseases NOS"
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,^ESCTCV330274,,"Vein, lymphatic and circulatory diseases NOS"
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,^ESCTDI330271,,"Vein, lymphatic and circulatory diseases NOS"
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,^ESCT1270423,,"Vein, lymphatic and circulatory diseases NOS"
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,G8yyz,G8yyz00,"Vein, lymphatic and circulatory diseases NOS"
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,G8z,G8z..00,"Vein, lymphatic and circulatory diseases NOS"
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,Gy,Gy...00,"Vein, lymphatic and circulatory diseases NOS"
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,Gyu93,Gyu9300,"Vein, lymphatic and circulatory diseases NOS"
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,Gyu91,Gyu9100,"Vein, lymphatic and circulatory diseases NOS"
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,Gyu95,Gyu9500,"Vein, lymphatic and circulatory diseases NOS"
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,Gyu96,Gyu9600,"Vein, lymphatic and circulatory diseases NOS"
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,G8yy,G8yy.00,"Vein, lymphatic and circulatory diseases NOS"
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,G8yy1,G8yy100,"Vein, lymphatic and circulatory diseases NOS"
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,Gyu5g,Gyu5g00,"Vein, lymphatic and circulatory diseases NOS"
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,G8y,G8y..00,"Vein, lymphatic and circulatory diseases NOS"
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,Gyu9,Gyu9.00,"Vein, lymphatic and circulatory diseases NOS"
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",65611000006114,72866009,1788137014,G834,G834.00,VV - Varicose veins of leg
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",65611000006114,72866009,1788137014,^ESCTVA368502,,VV - Varicose veins of leg
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,G8yz,G8...00,"Vein, lymphatic and circulatory diseases NOS"
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,Gyu92,G8...00,"Vein, lymphatic and circulatory diseases NOS"
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,^ESCTCA330272,G8...00,"Vein, lymphatic and circulatory diseases NOS"
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,G-1,G8...00,"Vein, lymphatic and circulatory diseases NOS"
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,G5yX,G8...00,"Vein, lymphatic and circulatory diseases NOS"
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,G,G8...00,"Vein, lymphatic and circulatory diseases NOS"
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,^ESCTCV330273,G8...00,"Vein, lymphatic and circulatory diseases NOS"
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,^ESCT1192351,G8...00,"Vein, lymphatic and circulatory diseases NOS"
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,^ESCTDI330268,G8...00,"Vein, lymphatic and circulatory diseases NOS"
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,^ESCTCA330269,G8...00,"Vein, lymphatic and circulatory diseases NOS"
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,^ESCTCV330274,G8...00,"Vein, lymphatic and circulatory diseases NOS"
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,^ESCTDI330271,G8...00,"Vein, lymphatic and circulatory diseases NOS"
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,^ESCT1270423,G8...00,"Vein, lymphatic and circulatory diseases NOS"
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,G8yyz,G8...00,"Vein, lymphatic and circulatory diseases NOS"
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,G8z,G8...00,"Vein, lymphatic and circulatory diseases NOS"
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,Gy,G8...00,"Vein, lymphatic and circulatory diseases NOS"
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,Gyu93,G8...00,"Vein, lymphatic and circulatory diseases NOS"
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,Gyu91,G8...00,"Vein, lymphatic and circulatory diseases NOS"
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,Gyu95,G8...00,"Vein, lymphatic and circulatory diseases NOS"
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,Gyu96,G8...00,"Vein, lymphatic and circulatory diseases NOS"
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,G8yy,G8...00,"Vein, lymphatic and circulatory diseases NOS"
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,G8yy1,G8...00,"Vein, lymphatic and circulatory diseases NOS"
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,Gyu5g,G8...00,"Vein, lymphatic and circulatory diseases NOS"
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,G8y,G8...00,"Vein, lymphatic and circulatory diseases NOS"
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300648017,49601007,2474885016,Gyu9,G8...00,"Vein, lymphatic and circulatory diseases NOS"
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",65611000006114,72866009,1788137014,G834,G83..00,VV - Varicose veins of leg
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",65611000006114,72866009,1788137014,^ESCTVA368502,G83..00,VV - Varicose veins of leg
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",65611000006114,72866009,1788137014,G83,G83..00,VV - Varicose veins of leg
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",65611000006114,72866009,1788137014,^ESCTPH368501,,VV - Varicose veins of leg
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",65611000006114,72866009,1788137014,^ESCTVA368504,,VV - Varicose veins of leg
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",65611000006114,72866009,1788137014,G83-99,G83..99,VV - Varicose veins of leg
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",65611000006114,72866009,1788137014,G83-98,G83..98,VV - Varicose veins of leg
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",65611000006114,72866009,1788137014,G83-97,G83..97,VV - Varicose veins of leg
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",65611000006114,72866009,1788137014,G83z,G83z.00,VV - Varicose veins of leg
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300721013,195445008,300721013,G837-99,G837.99,Varicose veins of the leg with ulcer
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300721013,195445008,300721013,G830-99,G830.99,Varicose veins of the leg with ulcer
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",65611000006114,72866009,1788137014,^ESCTPH368501,G83..00,VV - Varicose veins of leg
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",65611000006114,72866009,1788137014,^ESCTVA368504,G83..00,VV - Varicose veins of leg
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",65611000006114,72866009,1788137014,G83-99,G83..00,VV - Varicose veins of leg
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",65611000006114,72866009,1788137014,G83-98,G83..00,VV - Varicose veins of leg
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",65611000006114,72866009,1788137014,G83-97,G83..00,VV - Varicose veins of leg
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",65611000006114,72866009,1788137014,G83z,G83..00,VV - Varicose veins of leg
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300721013,195445008,300721013,G837-99,G830.00,Varicose veins of the leg with ulcer
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300721013,195445008,300721013,G830-99,G830.00,Varicose veins of the leg with ulcer
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300721013,195445008,300721013,G830,G830.00,Varicose veins of the leg with ulcer
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",411635018,275700003,411635018,^ESCTVA557554,,Varicose veins of the leg with eczema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",411635018,275700003,411635018,G831-99,G831.99,Varicose veins of the leg with eczema
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",411635018,275700003,411635018,^ESCTVA557554,G831.00,Varicose veins of the leg with eczema
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",411635018,275700003,411635018,G831-99,G831.00,Varicose veins of the leg with eczema
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",411635018,275700003,411635018,G831,G831.00,Varicose veins of the leg with eczema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",489882019,366362000,489882019,^ESCTVA628947,,Varicose eczema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",489882019,366362000,489882019,^ESCTVE628946,,Varicose eczema
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",489882019,366362000,489882019,^ESCTVA628947,G831.11,Varicose eczema
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",489882019,366362000,489882019,^ESCTVE628946,G831.11,Varicose eczema
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",489882019,366362000,489882019,G831-1,G831.11,Varicose eczema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300723011,195447000,300723011,G832-99,G832.99,Varicose veins of the leg with ulcer and eczema
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300723011,195447000,300723011,G832-99,G832.00,Varicose veins of the leg with ulcer and eczema
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300723011,195447000,300723011,G832,G832.00,Varicose veins of the leg with ulcer and eczema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300724017,195448005,300724017,^ESCTBL477958,,Varicose veins of the leg with rupture
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300724017,195448005,300724017,^ESCTRU477957,,Varicose veins of the leg with rupture
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300724017,195448005,300724017,G833-99,G833.99,Varicose veins of the leg with rupture
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300724017,195448005,300724017,^ESCTBL477958,G833.00,Varicose veins of the leg with rupture
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300724017,195448005,300724017,^ESCTRU477957,G833.00,Varicose veins of the leg with rupture
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300724017,195448005,300724017,G833-99,G833.00,Varicose veins of the leg with rupture
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300724017,195448005,300724017,G833,G833.00,Varicose veins of the leg with rupture
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300727012,72866009,121026013,G834,G834.00,Varicose veins of lower extremity
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300727012,72866009,121026013,^ESCTVA368502,,Varicose veins of lower extremity
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300727012,72866009,121026013,G83,G83..00,Varicose veins of lower extremity
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300727012,72866009,121026013,^ESCTPH368501,,Varicose veins of lower extremity
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300727012,72866009,121026013,^ESCTVA368504,,Varicose veins of lower extremity
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300727012,72866009,121026013,G83-99,G83..99,Varicose veins of lower extremity
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300727012,72866009,121026013,G83-98,G83..98,Varicose veins of lower extremity
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300727012,72866009,121026013,G83-97,G83..97,Varicose veins of lower extremity
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300727012,72866009,121026013,G83z,G83z.00,Varicose veins of lower extremity
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300727012,72866009,121026013,^ESCTVA368502,G834.00,Varicose veins of lower extremity
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300727012,72866009,121026013,G83,G834.00,Varicose veins of lower extremity
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300727012,72866009,121026013,^ESCTPH368501,G834.00,Varicose veins of lower extremity
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300727012,72866009,121026013,^ESCTVA368504,G834.00,Varicose veins of lower extremity
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300727012,72866009,121026013,G83-99,G834.00,Varicose veins of lower extremity
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300727012,72866009,121026013,G83-98,G834.00,Varicose veins of lower extremity
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300727012,72866009,121026013,G83-97,G834.00,Varicose veins of lower extremity
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300727012,72866009,121026013,G83z,G834.00,Varicose veins of lower extremity
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",350683012,234055007,350683012,G8340,G834000,Varicose veins of leg with long saphenous vein distribution
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",350684018,234056008,350684018,G8341,G834100,Varicose veins of leg with short saphenous vein distribution
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300728019,195450002,300728019,G835,G835.00,Infected varicose ulcer
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",457115011,313254003,457115011,G836,G836.00,Varicose vein of leg with phlebitis
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",914591000006113,402863005,1781953019,^ESCTGR667097,,Venous ulcer of leg
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",914591000006113,402863005,1781953019,^ESCTST667096,,Venous ulcer of leg
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",914591000006113,402863005,1781953019,^ESCTGR667097,G837.00,Venous ulcer of leg
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",914591000006113,402863005,1781953019,^ESCTST667096,G837.00,Venous ulcer of leg
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",914591000006113,402863005,1781953019,G837,G837.00,Venous ulcer of leg
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",914591000006113,402863005,1781953019,M2715,M271500,Venous ulcer of leg
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300730017,72866009,1788137014,G834,G834.00,Varicose veins of the leg NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300730017,72866009,1788137014,^ESCTVA368502,,Varicose veins of the leg NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300730017,72866009,1788137014,G83,G83..00,Varicose veins of the leg NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300730017,72866009,1788137014,^ESCTPH368501,,Varicose veins of the leg NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300730017,72866009,1788137014,^ESCTVA368504,,Varicose veins of the leg NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300730017,72866009,1788137014,G83-99,G83..99,Varicose veins of the leg NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300730017,72866009,1788137014,G83-98,G83..98,Varicose veins of the leg NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300730017,72866009,1788137014,G83-97,G83..97,Varicose veins of the leg NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",914591000006113,402863005,1781953019,M2715,G837.00,Venous ulcer of leg
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300730017,72866009,1788137014,G834,G83z.00,Varicose veins of the leg NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300730017,72866009,1788137014,^ESCTVA368502,G83z.00,Varicose veins of the leg NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300730017,72866009,1788137014,G83,G83z.00,Varicose veins of the leg NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300730017,72866009,1788137014,^ESCTPH368501,G83z.00,Varicose veins of the leg NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300730017,72866009,1788137014,^ESCTVA368504,G83z.00,Varicose veins of the leg NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300730017,72866009,1788137014,G83-99,G83z.00,Varicose veins of the leg NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300730017,72866009,1788137014,G83-98,G83z.00,Varicose veins of the leg NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300730017,72866009,1788137014,G83-97,G83z.00,Varicose veins of the leg NOS
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300730017,72866009,1788137014,G83z,G83z.00,Varicose veins of the leg NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",395804011,128060009,194654014,G85z,G85z.00,Venous varices
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",395804011,128060009,194654014,G85z,G85..00,Venous varices
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",395804011,128060009,194654014,G85,G85..00,Venous varices
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",395804011,128060009,194654014,G85-2,G85..12,Venous varices
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",395804011,128060009,194654014,Gyu86,Gyu8600,Venous varices
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",395804011,128060009,194654014,^ESCTVA440339,,Venous varices
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",395804011,128060009,194654014,G85y,G85y.00,Venous varices
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",395804011,128060009,194654014,^ESCTVA440338,,Venous varices
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300795013,128060009,194654014,G85z,G85z.00,Other specified varicose veins
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300795013,128060009,194654014,G85,G85..00,Other specified varicose veins
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300795013,128060009,194654014,G85-2,G85..12,Other specified varicose veins
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300795013,128060009,194654014,Gyu86,Gyu8600,Other specified varicose veins
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300795013,128060009,194654014,^ESCTVA440339,,Other specified varicose veins
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",395804011,128060009,194654014,G85-2,G85..00,Venous varices
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",395804011,128060009,194654014,Gyu86,G85..00,Venous varices
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",395804011,128060009,194654014,^ESCTVA440339,G85..00,Venous varices
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",395804011,128060009,194654014,G85y,G85..00,Venous varices
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",395804011,128060009,194654014,^ESCTVA440338,G85..00,Venous varices
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300795013,128060009,194654014,G85z,G85y.00,Other specified varicose veins
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300795013,128060009,194654014,G85,G85y.00,Other specified varicose veins
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300795013,128060009,194654014,G85-2,G85y.00,Other specified varicose veins
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300795013,128060009,194654014,Gyu86,G85y.00,Other specified varicose veins
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300795013,128060009,194654014,^ESCTVA440339,G85y.00,Other specified varicose veins
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300795013,128060009,194654014,G85y,G85y.00,Other specified varicose veins
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300795013,128060009,194654014,^ESCTVA440338,,Other specified varicose veins
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300795013,128060009,194654014,^ESCTVA440338,G85y.00,Other specified varicose veins
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300796014,128060009,474288018,G85z,G85z.00,Varicose veins
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300796014,128060009,474288018,G85,G85..00,Varicose veins
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300796014,128060009,474288018,G85-2,G85..12,Varicose veins
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300796014,128060009,474288018,Gyu86,Gyu8600,Varicose veins
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300796014,128060009,474288018,^ESCTVA440339,,Varicose veins
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300796014,128060009,474288018,G85y,G85y.00,Varicose veins
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300796014,128060009,474288018,^ESCTVA440338,,Varicose veins
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",585611000006112,266273006,395807016,G86z,G86z.00,Non-infective lymphatic disorders
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300796014,128060009,474288018,G85,G85z.00,Varicose veins
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300796014,128060009,474288018,G85-2,G85z.00,Varicose veins
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300796014,128060009,474288018,Gyu86,G85z.00,Varicose veins
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300796014,128060009,474288018,^ESCTVA440339,G85z.00,Varicose veins
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300796014,128060009,474288018,G85y,G85z.00,Varicose veins
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300796014,128060009,474288018,^ESCTVA440338,G85z.00,Varicose veins
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",585611000006112,266273006,395807016,G86z,G86..00,Non-infective lymphatic disorders
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",585611000006112,266273006,395807016,G86,G86..00,Non-infective lymphatic disorders
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",585611000006112,266273006,395807016,G86y,G86y.00,Non-infective lymphatic disorders
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",585611000006112,266273006,395807016,G86yz,G86yz00,Non-infective lymphatic disorders
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",585611000006112,266273006,395807016,G86-99,G86..99,Non-infective lymphatic disorders
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",350732017,234097001,350732017,G861z,G861z00,Lymphoedema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",350732017,234097001,350732017,G861,G861.00,Lymphoedema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",350732017,234097001,350732017,^ESCTLY505996,,Lymphoedema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",350732017,234097001,350732017,^ESCTLY505995,,Lymphoedema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",350732017,234097001,350732017,^ESCTLY505997,,Lymphoedema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",350732017,234097001,350732017,G8612-1,G861211,Lymphoedema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",350732017,234097001,350732017,G8612,G861200,Lymphoedema
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",585611000006112,266273006,395807016,G86y,G86..00,Non-infective lymphatic disorders
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",585611000006112,266273006,395807016,G86yz,G86..00,Non-infective lymphatic disorders
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",585611000006112,266273006,395807016,G86-99,G86..00,Non-infective lymphatic disorders
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",350732017,234097001,350732017,G861z,G86..11,Lymphoedema
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",350732017,234097001,350732017,G861,G86..11,Lymphoedema
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",350732017,234097001,350732017,^ESCTLY505996,G86..11,Lymphoedema
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",350732017,234097001,350732017,^ESCTLY505995,G86..11,Lymphoedema
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",350732017,234097001,350732017,^ESCTLY505997,G86..11,Lymphoedema
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",350732017,234097001,350732017,G8612-1,G86..11,Lymphoedema
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",350732017,234097001,350732017,G8612,G86..11,Lymphoedema
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",350732017,234097001,350732017,G86-1,G86..11,Lymphoedema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",350732017,234097001,350732017,G861-1,G861.11,Lymphoedema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",211481000006113,33129002,485419019,^ESCTPO303317,,Post-mastectomy secondary lymphoedema
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",350732017,234097001,350732017,G861-1,G86..11,Lymphoedema
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",211481000006113,33129002,485419019,^ESCTPO303317,G860.00,Post-mastectomy secondary lymphoedema
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",211481000006113,33129002,485419019,G860,G860.00,Post-mastectomy secondary lymphoedema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",211481000006113,33129002,485419019,^ESCTOB303319,,Post-mastectomy secondary lymphoedema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",211481000006113,33129002,485419019,^ESCTPO303321,,Post-mastectomy secondary lymphoedema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",211481000006113,33129002,485419019,^ESCTEL303318,,Post-mastectomy secondary lymphoedema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",211481000006113,33129002,485419019,G860-1,G860.11,Post-mastectomy secondary lymphoedema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",211481000006113,33129002,485419019,^ESCTPO303316,,Post-mastectomy secondary lymphoedema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",638611000006118,33129002,485419019,^ESCTPO303317,,Elephantiasis-postmastectomy
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",638611000006118,33129002,485419019,G860,G860.00,Elephantiasis-postmastectomy
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",638611000006118,33129002,485419019,^ESCTOB303319,,Elephantiasis-postmastectomy
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",638611000006118,33129002,485419019,^ESCTPO303321,,Elephantiasis-postmastectomy
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",638611000006118,33129002,485419019,^ESCTEL303318,,Elephantiasis-postmastectomy
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",211481000006113,33129002,485419019,^ESCTOB303319,G860.00,Post-mastectomy secondary lymphoedema
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",211481000006113,33129002,485419019,^ESCTPO303321,G860.00,Post-mastectomy secondary lymphoedema
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",211481000006113,33129002,485419019,^ESCTEL303318,G860.00,Post-mastectomy secondary lymphoedema
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",211481000006113,33129002,485419019,G860-1,G860.00,Post-mastectomy secondary lymphoedema
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",211481000006113,33129002,485419019,^ESCTPO303316,G860.00,Post-mastectomy secondary lymphoedema
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",638611000006118,33129002,485419019,^ESCTPO303317,G860.11,Elephantiasis-postmastectomy
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",638611000006118,33129002,485419019,G860,G860.11,Elephantiasis-postmastectomy
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",638611000006118,33129002,485419019,^ESCTOB303319,G860.11,Elephantiasis-postmastectomy
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",638611000006118,33129002,485419019,^ESCTPO303321,G860.11,Elephantiasis-postmastectomy
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",638611000006118,33129002,485419019,^ESCTEL303318,G860.11,Elephantiasis-postmastectomy
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",638611000006118,33129002,485419019,G860-1,G860.11,Elephantiasis-postmastectomy
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",638611000006118,33129002,485419019,^ESCTPO303316,,Elephantiasis-postmastectomy
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",395808014,234097001,350732017,G861z,G861z00,Other lymphoedema
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",638611000006118,33129002,485419019,^ESCTPO303316,G860.11,Elephantiasis-postmastectomy
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",395808014,234097001,350732017,G861z,G861.00,Other lymphoedema
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",395808014,234097001,350732017,G861,G861.00,Other lymphoedema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",395808014,234097001,350732017,^ESCTLY505996,,Other lymphoedema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",395808014,234097001,350732017,^ESCTLY505995,,Other lymphoedema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",395808014,234097001,350732017,^ESCTLY505997,,Other lymphoedema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",395808014,234097001,350732017,G8612-1,G861211,Other lymphoedema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",395808014,234097001,350732017,G8612,G861200,Other lymphoedema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",395808014,234097001,350732017,G86-1,G86..11,Other lymphoedema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",395808014,234097001,350732017,G861-1,G861.11,Other lymphoedema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",638601000006116,234097001,350731012,G861z,G861z00,Elephantiasis-non filarial-NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",638601000006116,234097001,350731012,G861,G861.00,Elephantiasis-non filarial-NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",638601000006116,234097001,350731012,^ESCTLY505996,,Elephantiasis-non filarial-NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",638601000006116,234097001,350731012,^ESCTLY505995,,Elephantiasis-non filarial-NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",638601000006116,234097001,350731012,^ESCTLY505997,,Elephantiasis-non filarial-NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",638601000006116,234097001,350731012,G8612-1,G861211,Elephantiasis-non filarial-NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",638601000006116,234097001,350731012,G8612,G861200,Elephantiasis-non filarial-NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",638601000006116,234097001,350731012,G86-1,G86..11,Elephantiasis-non filarial-NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",395808014,234097001,350732017,^ESCTLY505996,G861.00,Other lymphoedema
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",395808014,234097001,350732017,^ESCTLY505995,G861.00,Other lymphoedema
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",395808014,234097001,350732017,^ESCTLY505997,G861.00,Other lymphoedema
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",395808014,234097001,350732017,G8612-1,G861.00,Other lymphoedema
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",395808014,234097001,350732017,G8612,G861.00,Other lymphoedema
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",395808014,234097001,350732017,G86-1,G861.00,Other lymphoedema
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",395808014,234097001,350732017,G861-1,G861.00,Other lymphoedema
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",638601000006116,234097001,350731012,G861z,G861.11,Elephantiasis-non filarial-NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",638601000006116,234097001,350731012,G861,G861.11,Elephantiasis-non filarial-NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",638601000006116,234097001,350731012,^ESCTLY505996,G861.11,Elephantiasis-non filarial-NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",638601000006116,234097001,350731012,^ESCTLY505995,G861.11,Elephantiasis-non filarial-NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",638601000006116,234097001,350731012,^ESCTLY505997,G861.11,Elephantiasis-non filarial-NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",638601000006116,234097001,350731012,G8612-1,G861.11,Elephantiasis-non filarial-NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",638601000006116,234097001,350731012,G8612,G861.11,Elephantiasis-non filarial-NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",638601000006116,234097001,350731012,G86-1,G861.11,Elephantiasis-non filarial-NOS
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",638601000006116,234097001,350731012,G861-1,G861.11,Elephantiasis-non filarial-NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",453401000006112,28590005,483926012,^ESCTCH295930,,Secondary lymphoedema
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",453401000006112,28590005,483926012,^ESCTCH295930,G861100,Secondary lymphoedema
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",453401000006112,28590005,483926012,G8611,G861100,Secondary lymphoedema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",453401000006112,28590005,483926012,^ESCTCH295931,,Secondary lymphoedema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",453401000006112,28590005,483926012,^ESCTSE295932,,Secondary lymphoedema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",737311000006118,234097001,350731012,G861z,G861z00,Infantile lymphoedema (praecox)
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",737311000006118,234097001,350731012,G861,G861.00,Infantile lymphoedema (praecox)
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",737311000006118,234097001,350731012,^ESCTLY505996,,Infantile lymphoedema (praecox)
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",737311000006118,234097001,350731012,^ESCTLY505995,,Infantile lymphoedema (praecox)
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",737311000006118,234097001,350731012,^ESCTLY505997,,Infantile lymphoedema (praecox)
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",737311000006118,234097001,350731012,G8612-1,G861211,Infantile lymphoedema (praecox)
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",453401000006112,28590005,483926012,^ESCTCH295931,G861100,Secondary lymphoedema
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",453401000006112,28590005,483926012,^ESCTSE295932,G861100,Secondary lymphoedema
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",737311000006118,234097001,350731012,G861z,G861200,Infantile lymphoedema (praecox)
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",737311000006118,234097001,350731012,G861,G861200,Infantile lymphoedema (praecox)
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",737311000006118,234097001,350731012,^ESCTLY505996,G861200,Infantile lymphoedema (praecox)
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",737311000006118,234097001,350731012,^ESCTLY505995,G861200,Infantile lymphoedema (praecox)
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",737311000006118,234097001,350731012,^ESCTLY505997,G861200,Infantile lymphoedema (praecox)
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",737311000006118,234097001,350731012,G8612-1,G861200,Infantile lymphoedema (praecox)
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",737311000006118,234097001,350731012,G8612,G861200,Infantile lymphoedema (praecox)
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",737311000006118,234097001,350731012,G86-1,G86..11,Infantile lymphoedema (praecox)
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",737311000006118,234097001,350731012,G861-1,G861.11,Infantile lymphoedema (praecox)
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1783735010,234097001,350731012,G861z,G861z00,Lymphoedema praecox
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1783735010,234097001,350731012,G861,G861.00,Lymphoedema praecox
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1783735010,234097001,350731012,^ESCTLY505996,,Lymphoedema praecox
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1783735010,234097001,350731012,^ESCTLY505995,,Lymphoedema praecox
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1783735010,234097001,350731012,^ESCTLY505997,,Lymphoedema praecox
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",737311000006118,234097001,350731012,G86-1,G861200,Infantile lymphoedema (praecox)
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",737311000006118,234097001,350731012,G861-1,G861200,Infantile lymphoedema (praecox)
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1783735010,234097001,350731012,G861z,G861211,Lymphoedema praecox
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1783735010,234097001,350731012,G861,G861211,Lymphoedema praecox
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1783735010,234097001,350731012,^ESCTLY505996,G861211,Lymphoedema praecox
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1783735010,234097001,350731012,^ESCTLY505995,G861211,Lymphoedema praecox
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1783735010,234097001,350731012,^ESCTLY505997,G861211,Lymphoedema praecox
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1783735010,234097001,350731012,G8612-1,G861211,Lymphoedema praecox
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1783735010,234097001,350731012,G8612,G861200,Lymphoedema praecox
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1783735010,234097001,350731012,G86-1,G86..11,Lymphoedema praecox
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1783735010,234097001,350731012,G861-1,G861.11,Lymphoedema praecox
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1783746013,400158000,1783746013,^ESCTLY663590,,Lymphoedema tarda
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1783746013,400158000,1783746013,^ESCTLY663584,,Lymphoedema tarda
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1783746013,400158000,1783746013,^ESCTPR663583,,Lymphoedema tarda
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1783746013,400158000,1783746013,^ESCTAD663585,,Lymphoedema tarda
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1783746013,400158000,1783746013,^ESCTLY663588,,Lymphoedema tarda
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1783746013,400158000,1783746013,^ESCTPR663591,,Lymphoedema tarda
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1783735010,234097001,350731012,G8612,G861211,Lymphoedema praecox
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1783735010,234097001,350731012,G86-1,G861211,Lymphoedema praecox
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1783735010,234097001,350731012,G861-1,G861211,Lymphoedema praecox
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1783746013,400158000,1783746013,^ESCTLY663590,G861300,Lymphoedema tarda
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1783746013,400158000,1783746013,^ESCTLY663584,G861300,Lymphoedema tarda
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1783746013,400158000,1783746013,^ESCTPR663583,G861300,Lymphoedema tarda
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1783746013,400158000,1783746013,^ESCTAD663585,G861300,Lymphoedema tarda
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1783746013,400158000,1783746013,^ESCTLY663588,G861300,Lymphoedema tarda
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1783746013,400158000,1783746013,^ESCTPR663591,G861300,Lymphoedema tarda
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1783746013,400158000,1783746013,G8613,G861300,Lymphoedema tarda
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1783746013,400158000,1783746013,^ESCTPR663582,,Lymphoedema tarda
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1783746013,400158000,1783746013,^ESCTAD663589,,Lymphoedema tarda
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1783746013,400158000,1783746013,^ESCTPR663587,,Lymphoedema tarda
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1783746013,400158000,1783746013,^ESCTPR663582,G861300,Lymphoedema tarda
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1783746013,400158000,1783746013,^ESCTAD663589,G861300,Lymphoedema tarda
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1783746013,400158000,1783746013,^ESCTPR663587,G861300,Lymphoedema tarda
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",2614621000000117,1035841000000108,2614621000000117,G8615,,Lymphoedema following breast cancer
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300819013,234097001,350732017,G861z,G861z00,Other lymphoedema NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300819013,234097001,350732017,G861,G861.00,Other lymphoedema NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300819013,234097001,350732017,^ESCTLY505996,,Other lymphoedema NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300819013,234097001,350732017,^ESCTLY505995,,Other lymphoedema NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300819013,234097001,350732017,^ESCTLY505997,,Other lymphoedema NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300819013,234097001,350732017,G8612-1,G861211,Other lymphoedema NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300819013,234097001,350732017,G8612,G861200,Other lymphoedema NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300819013,234097001,350732017,G86-1,G86..11,Other lymphoedema NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300819013,234097001,350732017,G861-1,G861.11,Other lymphoedema NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",3466013,1415005,3466013,^ESCTIN252101,,Lymphangitis
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300819013,234097001,350732017,G861,G861z00,Other lymphoedema NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300819013,234097001,350732017,^ESCTLY505996,G861z00,Other lymphoedema NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300819013,234097001,350732017,^ESCTLY505995,G861z00,Other lymphoedema NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300819013,234097001,350732017,^ESCTLY505997,G861z00,Other lymphoedema NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300819013,234097001,350732017,G8612-1,G861z00,Other lymphoedema NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300819013,234097001,350732017,G8612,G861z00,Other lymphoedema NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300819013,234097001,350732017,G86-1,G861z00,Other lymphoedema NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300819013,234097001,350732017,G861-1,G861z00,Other lymphoedema NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",3466013,1415005,3466013,^ESCTIN252101,G862.00,Lymphangitis
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",3466013,1415005,3466013,G862,G862.00,Lymphangitis
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",131044013,78973009,131044013,G8620,G862000,Chronic lymphangitis
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",25371000006119,266273006,395807016,G86z,G86z.00,Other noninfective lymphatic disorder
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",25371000006119,266273006,395807016,G86,G86..00,Other noninfective lymphatic disorder
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",25371000006119,266273006,395807016,G86z,G86y.00,Other noninfective lymphatic disorder
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",25371000006119,266273006,395807016,G86,G86y.00,Other noninfective lymphatic disorder
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",25371000006119,266273006,395807016,G86y,G86y.00,Other noninfective lymphatic disorder
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",25371000006119,266273006,395807016,G86yz,G86yz00,Other noninfective lymphatic disorder
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",25371000006119,266273006,395807016,G86-99,G86..99,Other noninfective lymphatic disorder
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",557161000006118,195495009,300822010,^ESCTCH477980,,Chylocele - nonfilarial
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",25371000006119,266273006,395807016,G86yz,G86y.00,Other noninfective lymphatic disorder
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",25371000006119,266273006,395807016,G86-99,G86y.00,Other noninfective lymphatic disorder
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",557161000006118,195495009,300822010,^ESCTCH477980,G86y000,Chylocele - nonfilarial
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",557161000006118,195495009,300822010,G86y0,G86y000,Chylocele - nonfilarial
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",557161000006118,195495009,300822010,^ESCTNO477979,,Chylocele - nonfilarial
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",557161000006118,195495009,300822010,^ESCTNO477979,G86y000,Chylocele - nonfilarial
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",88149012,52985009,88149012,G86y1,G86y100,Chylous ascites
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",88149012,52985009,88149012,^ESCTCH335925,,Chylous ascites
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",88149012,52985009,88149012,^ESCTCH335925,G86y100,Chylous ascites
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300826013,195497001,300826013,G86y2,G86y200,Chylous cyst
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300827016,195498006,300827016,G86y3,G86y300,Lymph node fistula
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300828014,195499003,300828014,G86y4,G86y400,Lymph vessel fistula
@@ -290,234 +290,234 @@ Condition,MedCode,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Te
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300830011,195501006,300830011,G86y6,G86y600,Lymph vessel infarction
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300832015,195503009,300832015,G86y8,G86y800,Lymph vessel rupture
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",350757010,234109007,350757010,G86y9,G86y900,Lymphocele
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1174271000000111,444997000,2872761014,^ESCT1182327,,Infected lymphocele
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1174271000000111,444997000,2872761014,^ESCT1182327,G86yA00,Infected lymphocele
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1174271000000111,444997000,2872761014,G86yA,G86yA00,Infected lymphocele
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",25381000006116,266273006,395807016,G86z,G86z.00,Other noninfective lymphatic disorders NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",25381000006116,266273006,395807016,G86,G86..00,Other noninfective lymphatic disorders NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",25381000006116,266273006,395807016,G86y,G86y.00,Other noninfective lymphatic disorders NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",25381000006116,266273006,395807016,G86z,G86yz00,Other noninfective lymphatic disorders NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",25381000006116,266273006,395807016,G86,G86yz00,Other noninfective lymphatic disorders NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",25381000006116,266273006,395807016,G86y,G86yz00,Other noninfective lymphatic disorders NOS
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",25381000006116,266273006,395807016,G86yz,G86yz00,Other noninfective lymphatic disorders NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",25381000006116,266273006,395807016,G86-99,G86..99,Other noninfective lymphatic disorders NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",25381000006116,266273006,395807016,G86-99,G86yz00,Other noninfective lymphatic disorders NOS
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",585601000006114,266273006,395807016,G86z,G86z.00,Noninfective lymphatic disorder NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",585601000006114,266273006,395807016,G86,G86..00,Noninfective lymphatic disorder NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",585601000006114,266273006,395807016,G86y,G86y.00,Noninfective lymphatic disorder NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",585601000006114,266273006,395807016,G86yz,G86yz00,Noninfective lymphatic disorder NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",585601000006114,266273006,395807016,G86-99,G86..99,Noninfective lymphatic disorder NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",624241000006112,90507008,150007011,Gyu8A,Gyu8A00,Disorder of vein
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",585601000006114,266273006,395807016,G86,G86z.00,Noninfective lymphatic disorder NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",585601000006114,266273006,395807016,G86y,G86z.00,Noninfective lymphatic disorder NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",585601000006114,266273006,395807016,G86yz,G86z.00,Noninfective lymphatic disorder NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",585601000006114,266273006,395807016,G86-99,G86z.00,Noninfective lymphatic disorder NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",624241000006112,90507008,150007011,Gyu8A,G8X..00,Disorder of vein
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",624241000006112,90507008,150007011,G8X,G8X..00,Disorder of vein
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",624241000006112,90507008,150007011,Gyu87,Gyu8700,Disorder of vein
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",34363019,20427003,34363019,^ESCT1193026,,Postphlebitic syndrome
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",624241000006112,90507008,150007011,Gyu87,G8X..00,Disorder of vein
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",34363019,20427003,34363019,^ESCT1193026,G8y1.00,Postphlebitic syndrome
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",34363019,20427003,34363019,G8y1,G8y1.00,Postphlebitic syndrome
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",34363019,20427003,34363019,G8y1-99,G8y1.99,Postphlebitic syndrome
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",34363019,20427003,34363019,^ESCTPO282462,,Postphlebitic syndrome
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",34363019,20427003,34363019,G8y4,G8y4.00,Postphlebitic syndrome
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",34363019,20427003,34363019,G8y1-99,G8y1.00,Postphlebitic syndrome
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",34363019,20427003,34363019,^ESCTPO282462,G8y1.00,Postphlebitic syndrome
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",34363019,20427003,34363019,G8y4,G8y1.00,Postphlebitic syndrome
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",136990016,82582006,136990016,G8y20,G8y2000,Stricture of vein
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300846015,14540002,24706017,^ESCTEX273033,,Compression of vein
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300846015,14540002,24706017,^ESCTEX273032,,Compression of vein
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300846015,14540002,24706017,G8y2,G8y2.00,Compression of vein
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300846015,14540002,24706017,^ESCTEX273033,G8y2z00,Compression of vein
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300846015,14540002,24706017,^ESCTEX273032,G8y2z00,Compression of vein
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300846015,14540002,24706017,G8y2,G8y2z00,Compression of vein
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300846015,14540002,24706017,G8y2z,G8y2z00,Compression of vein
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",2645973019,423674003,2645973019,G8y3,G8y3.00,Chronic peripheral venous hypertension
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",2168741000000112,20427003,3321079013,^ESCT1193026,,Postthrombotic syndrome
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",2168741000000112,20427003,3321079013,G8y1,G8y1.00,Postthrombotic syndrome
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",2168741000000112,20427003,3321079013,G8y1-99,G8y1.99,Postthrombotic syndrome
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",2168741000000112,20427003,3321079013,^ESCTPO282462,,Postthrombotic syndrome
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",2168741000000112,20427003,3321079013,^ESCT1193026,G8y4.00,Postthrombotic syndrome
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",2168741000000112,20427003,3321079013,G8y1,G8y4.00,Postthrombotic syndrome
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",2168741000000112,20427003,3321079013,G8y1-99,G8y4.00,Postthrombotic syndrome
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",2168741000000112,20427003,3321079013,^ESCTPO282462,G8y4.00,Postthrombotic syndrome
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",2168741000000112,20427003,3321079013,G8y4,G8y4.00,Postthrombotic syndrome
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300848019,20696009,34827013,G8yy0,G8yy000,Chronic venous insufficiency
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300848019,20696009,34827013,^ESCTPE282911,,Chronic venous insufficiency
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,Gz,Gz...00,Venous collateral circulation NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,G8,G8...00,Venous collateral circulation NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,G8yz,G8yz.00,Venous collateral circulation NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,Gyu92,Gyu9200,Venous collateral circulation NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,^ESCTCA330272,,Venous collateral circulation NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,G-1,G....11,Venous collateral circulation NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,G5yX,G5yX.00,Venous collateral circulation NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,G,G....00,Venous collateral circulation NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,^ESCTCV330273,,Venous collateral circulation NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,^ESCT1192351,,Venous collateral circulation NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,^ESCTDI330268,,Venous collateral circulation NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,^ESCTCA330269,,Venous collateral circulation NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,^ESCTCV330274,,Venous collateral circulation NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,^ESCTDI330271,,Venous collateral circulation NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,^ESCT1270423,,Venous collateral circulation NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,G8yyz,G8yyz00,Venous collateral circulation NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,G8z,G8z..00,Venous collateral circulation NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,Gy,Gy...00,Venous collateral circulation NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,Gyu93,Gyu9300,Venous collateral circulation NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,Gyu91,Gyu9100,Venous collateral circulation NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,Gyu95,Gyu9500,Venous collateral circulation NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,Gyu96,Gyu9600,Venous collateral circulation NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,G8yy,G8yy.00,Venous collateral circulation NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300848019,20696009,34827013,^ESCTPE282911,G8yy000,Chronic venous insufficiency
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,Gz,G8yy100,Venous collateral circulation NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,G8,G8yy100,Venous collateral circulation NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,G8yz,G8yy100,Venous collateral circulation NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,Gyu92,G8yy100,Venous collateral circulation NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,^ESCTCA330272,G8yy100,Venous collateral circulation NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,G-1,G8yy100,Venous collateral circulation NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,G5yX,G8yy100,Venous collateral circulation NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,G,G8yy100,Venous collateral circulation NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,^ESCTCV330273,G8yy100,Venous collateral circulation NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,^ESCT1192351,G8yy100,Venous collateral circulation NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,^ESCTDI330268,G8yy100,Venous collateral circulation NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,^ESCTCA330269,G8yy100,Venous collateral circulation NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,^ESCTCV330274,G8yy100,Venous collateral circulation NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,^ESCTDI330271,G8yy100,Venous collateral circulation NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,^ESCT1270423,G8yy100,Venous collateral circulation NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,G8yyz,G8yy100,Venous collateral circulation NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,G8z,G8yy100,Venous collateral circulation NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,Gy,G8yy100,Venous collateral circulation NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,Gyu93,G8yy100,Venous collateral circulation NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,Gyu91,G8yy100,Venous collateral circulation NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,Gyu95,G8yy100,Venous collateral circulation NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,Gyu96,G8yy100,Venous collateral circulation NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,G8yy,G8yy100,Venous collateral circulation NOS
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,G8yy1,G8yy100,Venous collateral circulation NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,Gyu5g,Gyu5g00,Venous collateral circulation NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,G8y,G8y..00,Venous collateral circulation NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,Gyu9,Gyu9.00,Venous collateral circulation NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,Gyu5g,G8yy100,Venous collateral circulation NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,G8y,G8yy100,Venous collateral circulation NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300849010,49601007,82610017,Gyu9,G8yy100,Venous collateral circulation NOS
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300850010,195518005,300850010,G8yy2,G8yy200,Phlebosclerosis
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300850010,195518005,300850010,G8yy3,G8yy300,Phlebosclerosis
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",2619508015,195518005,2619508015,G8yy2,G8yy200,Venofibrosis
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300850010,195518005,300850010,G8yy3,G8yy200,Phlebosclerosis
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",2619508015,195518005,2619508015,G8yy2,G8yy300,Venofibrosis
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",2619508015,195518005,2619508015,G8yy3,G8yy300,Venofibrosis
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",377441000006114,414171000000108,967351000000113,Gyu8,Gyu8.00,"[X]Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",377441000006114,414171000000108,967351000000113,^ESCT1246690,,"[X]Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300982014,128060009,194654014,G85z,G85z.00,[X]Varicose veins of other specified sites
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300982014,128060009,194654014,G85,G85..00,[X]Varicose veins of other specified sites
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300982014,128060009,194654014,G85-2,G85..12,[X]Varicose veins of other specified sites
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",377441000006114,414171000000108,967351000000113,^ESCT1246690,Gyu8.00,"[X]Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300982014,128060009,194654014,G85z,Gyu8600,[X]Varicose veins of other specified sites
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300982014,128060009,194654014,G85,Gyu8600,[X]Varicose veins of other specified sites
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300982014,128060009,194654014,G85-2,Gyu8600,[X]Varicose veins of other specified sites
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300982014,128060009,194654014,Gyu86,Gyu8600,[X]Varicose veins of other specified sites
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300982014,128060009,194654014,^ESCTVA440339,,[X]Varicose veins of other specified sites
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300982014,128060009,194654014,G85y,G85y.00,[X]Varicose veins of other specified sites
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300982014,128060009,194654014,^ESCTVA440338,,[X]Varicose veins of other specified sites
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300983016,90507008,150007011,Gyu8A,Gyu8A00,[X]Other specified disorders of veins
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300983016,90507008,150007011,G8X,G8X..00,[X]Other specified disorders of veins
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300982014,128060009,194654014,^ESCTVA440339,Gyu8600,[X]Varicose veins of other specified sites
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300982014,128060009,194654014,G85y,Gyu8600,[X]Varicose veins of other specified sites
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300982014,128060009,194654014,^ESCTVA440338,Gyu8600,[X]Varicose veins of other specified sites
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300983016,90507008,150007011,Gyu8A,Gyu8700,[X]Other specified disorders of veins
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300983016,90507008,150007011,G8X,Gyu8700,[X]Other specified disorders of veins
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300983016,90507008,150007011,Gyu87,Gyu8700,[X]Other specified disorders of veins
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",405111000006112,362971004,482103013,^ESCTDI623888,,[X]Oth spcfd noninfectv disordrs/lymphatc vessls+lymph nodes
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",405111000006112,362971004,482103013,^ESCTDI623888,Gyu8900,[X]Oth spcfd noninfectv disordrs/lymphatc vessls+lymph nodes
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",405111000006112,362971004,482103013,Gyu89,Gyu8900,[X]Oth spcfd noninfectv disordrs/lymphatc vessls+lymph nodes
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300986012,90507008,150007011,Gyu8A,Gyu8A00,"[X]Disorder of vein, unspecified"
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300986012,90507008,150007011,G8X,G8X..00,"[X]Disorder of vein, unspecified"
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300986012,90507008,150007011,Gyu87,Gyu8700,"[X]Disorder of vein, unspecified"
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",303366015,197260007,303366015,^ESCTIN478692,,Intestinal lymphangiectasis
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300986012,90507008,150007011,G8X,Gyu8A00,"[X]Disorder of vein, unspecified"
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300986012,90507008,150007011,Gyu87,Gyu8A00,"[X]Disorder of vein, unspecified"
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",303366015,197260007,303366015,^ESCTIN478692,J57yK00,Intestinal lymphangiectasis
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",303366015,197260007,303366015,J57yK,J57yK00,Intestinal lymphangiectasis
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",355723016,237345008,355723016,L41-1,L41..11,Varicose veins - obstetric
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",451448014,308134004,451448014,L4106,L410600,Varicose veins of legs in the puerperium
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",355726012,237347000,355726012,L411-1,L411.11,Perineal obstetric varicose veins
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",355724010,237346009,355724010,L411-2,L411.12,Vulval obstetric varicose veins
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",486191017,35498005,486191017,^ESCTST307196,,Gravitational eczema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",486191017,35498005,486191017,^ESCTST307195,,Gravitational eczema
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",486191017,35498005,486191017,^ESCTST307196,M1y2.00,Gravitational eczema
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",486191017,35498005,486191017,^ESCTST307195,M1y2.00,Gravitational eczema
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",486191017,35498005,486191017,M1y2,M1y2.00,Gravitational eczema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",308882012,201057001,308882012,^ESCTLY480665,,Lymphoedematous keratoderma
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",308882012,201057001,308882012,^ESCTLY480665,M211500,Lymphoedematous keratoderma
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",308882012,201057001,308882012,M2115,M211500,Lymphoedematous keratoderma
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",590281000006112,268264007,400914015,PF5E1,PF5E100,Constriction ring with lymphoedema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",590281000006112,268264007,400914015,^ESCTCO550403,,Constriction ring with lymphoedema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",590281000006112,268264007,400914015,^ESCTCO550402,,Constriction ring with lymphoedema
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",314929018,205385004,314929018,^ESCTCO483011,,Constriction ring of lower limb with lymphoedema
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",590281000006112,268264007,400914015,^ESCTCO550403,PF5E100,Constriction ring with lymphoedema
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",590281000006112,268264007,400914015,^ESCTCO550402,PF5E100,Constriction ring with lymphoedema
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",314929018,205385004,314929018,^ESCTCO483011,PF6D100,Constriction ring of lower limb with lymphoedema
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",314929018,205385004,314929018,PF6D1,PF6D100,Constriction ring of lower limb with lymphoedema
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",222091000000112,230325003,345153014,PH02-1,PH02.11,Meige's disease
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",222091000000112,230325003,345153014,^ESCTME500632,,Meige's disease
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",222091000000112,230325003,345153014,^ESCTBR500634,,Meige's disease
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",222091000000112,230325003,345153014,^ESCTBL500633,,Meige's disease
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",222091000000112,230325003,345153014,^ESCTME500632,PH02.11,Meige's disease
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",222091000000112,230325003,345153014,^ESCTBR500634,PH02.11,Meige's disease
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",222091000000112,230325003,345153014,^ESCTBL500633,PH02.11,Meige's disease
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",331306010,293567009,433788015,TJC8z,TJC8z00,Adverse reaction to antivaricose drugs NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",331306010,293567009,433788015,U60C8-1,U60C811,Adverse reaction to antivaricose drugs NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",331306010,293567009,433788015,U60C8-4,U60C814,Adverse reaction to antivaricose drugs NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",331306010,293567009,433788015,TJC8,TJC8.00,Adverse reaction to antivaricose drugs NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",331306010,293567009,433788015,^ESCTAD579730,,Adverse reaction to antivaricose drugs NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",331306010,293567009,433788015,^ESCTAN579729,,Adverse reaction to antivaricose drugs NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",331306010,293567009,433788015,U60C8,U60C800,Adverse reaction to antivaricose drugs NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",331306010,293567009,433788015,U60C8-1,TJC8z00,Adverse reaction to antivaricose drugs NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",331306010,293567009,433788015,U60C8-4,TJC8z00,Adverse reaction to antivaricose drugs NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",331306010,293567009,433788015,TJC8,TJC8z00,Adverse reaction to antivaricose drugs NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",331306010,293567009,433788015,^ESCTAD579730,TJC8z00,Adverse reaction to antivaricose drugs NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",331306010,293567009,433788015,^ESCTAN579729,TJC8z00,Adverse reaction to antivaricose drugs NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",331306010,293567009,433788015,U60C8,TJC8z00,Adverse reaction to antivaricose drugs NOS
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",4995291000006119,229510000,344053018,,,Lymphoedema bandaging
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",4995051000006116,229488002,344025018,,,Lymphoedema massage
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",5942051000006114,305565001,448025011,,,Under care of lymphoedema care nurse
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",5954721000006110,306327003,449308010,,,Referral to lymphoedema care nurse
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",5944461000006113,305742009,448266017,,,Seen by lymphoedema care nurse
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",5957031000006115,306501004,449543012,,,Discharge by lymphoedema care nurse
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",251689017,161508001,251689017,ZV128,ZV12800,H/O: Deep Vein Thrombosis
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",251689017,161508001,251689017,ZV128-1,ZV12811,H/O: Deep Vein Thrombosis
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",251689017,161508001,251689017,ZV128,14A8100,H/O: Deep Vein Thrombosis
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",251689017,161508001,251689017,ZV128-1,14A8100,H/O: Deep Vein Thrombosis
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",251689017,161508001,251689017,14A81,14A8100,H/O: Deep Vein Thrombosis
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",251689017,161508001,251689017,^ESCTHO454053,,H/O: Deep Vein Thrombosis
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",251689017,161508001,251689017,^ESCTHI454055,,H/O: Deep Vein Thrombosis
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",251689017,161508001,251689017,^ESCTHO454053,14A8100,H/O: Deep Vein Thrombosis
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",251689017,161508001,251689017,^ESCTHI454055,14A8100,H/O: Deep Vein Thrombosis
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",2247661000000111,869611000000104,2247661000000111,8CMWA,8CMWA00,On deep vein thrombosis care pathway
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1059641000000112,492161000000109,1152491000000116,9kg,9kg..00,Deep vein thrombosis enhanced services administration
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1715671000006119,503421000000105,1152451000000112,9kg0-1,9kg0.11,Deep vein thrombosis enhanced services administration stage 1 service level
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1715671000006119,503421000000105,1152451000000112,9kg0-1,9kg0.00,Deep vein thrombosis enhanced services administration stage 1 service level
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1715671000006119,503421000000105,1152451000000112,9kg0,9kg0.00,Deep vein thrombosis enhanced services administration stage 1 service level
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1741651000006115,503421000000105,1152451000000112,9kg0-1,9kg0.11,DVT enhanced services administration stage 1 service level
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1741651000006115,503421000000105,1152451000000112,9kg0,9kg0.00,DVT enhanced services administration stage 1 service level
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1716271000006111,503451000000100,1152471000000115,9kg1-1,9kg1.11,Deep vein thrombosis enhanced services administration stage 2 service level
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1741651000006115,503421000000105,1152451000000112,9kg0,9kg0.11,DVT enhanced services administration stage 1 service level
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1716271000006111,503451000000100,1152471000000115,9kg1-1,9kg1.00,Deep vein thrombosis enhanced services administration stage 2 service level
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1716271000006111,503451000000100,1152471000000115,9kg1,9kg1.00,Deep vein thrombosis enhanced services administration stage 2 service level
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1715681000006116,503481000000106,1152431000000117,9kg2,9kg2.00,Deep vein thrombosis enhanced services administration stage 3 service level
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1715681000006116,503481000000106,1152431000000117,9kg2-1,9kg2.11,Deep vein thrombosis enhanced services administration stage 3 service level
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",296931015,192753009,296931015,F05z,F05z.00,Phlebitis and thrombophlebitis of intracranial sinuses
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1715681000006116,503481000000106,1152431000000117,9kg2-1,9kg2.00,Deep vein thrombosis enhanced services administration stage 3 service level
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",296931015,192753009,296931015,F05z,F05..00,Phlebitis and thrombophlebitis of intracranial sinuses
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",296931015,192753009,296931015,F05,F05..00,Phlebitis and thrombophlebitis of intracranial sinuses
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1221072019,14246007,1221072019,F050-1,F050.11,Embolism of central nervous system venous sinus
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1221072019,14246007,1221072019,^ESCTEM272562,,Embolism of central nervous system venous sinus
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1221072019,14246007,1221072019,F050-1,F050.00,Embolism of central nervous system venous sinus
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1221072019,14246007,1221072019,^ESCTEM272562,F050.00,Embolism of central nervous system venous sinus
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1221072019,14246007,1221072019,F050,F050.00,Embolism of central nervous system venous sinus
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1221072019,14246007,1221072019,F050z,F050z00,Embolism of central nervous system venous sinus
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1221072019,14246007,1221072019,F050z,F050.00,Embolism of central nervous system venous sinus
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",296932010,192754003,296932010,F0500,F050000,Embolism cavernous sinus
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",296933017,192755002,296933017,F0501,F050100,Embolism superior longitudinal sinus
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",296935012,192757005,296935012,F0503,F050300,Embolism transverse sinus
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",100721000006111,192759008,296937016,^ESCTTH476849,,Cerebral venous sinus thrombosis
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",100721000006111,192759008,296937016,F051z,F051z00,Cerebral venous sinus thrombosis
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",100721000006111,192759008,296937016,^ESCTTH476849,F051.00,Cerebral venous sinus thrombosis
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",100721000006111,192759008,296937016,F051z,F051.00,Cerebral venous sinus thrombosis
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",100721000006111,192759008,296937016,F051,F051.00,Cerebral venous sinus thrombosis
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",100691000006118,89980009,1235519010,F0510,F051000,Cerebral venous thrombosis of cavernous sinus
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",100691000006118,89980009,1235519010,^ESCTTH396258,,Cerebral venous thrombosis of cavernous sinus
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",100691000006118,89980009,1235519010,^ESCTTH396258,F051000,Cerebral venous thrombosis of cavernous sinus
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",296938014,192760003,296938014,F0511,F051100,Thrombosis of superior longitudinal sinus
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",100701000006118,21258007,1222620011,F0512,F051200,Thrombosis lateral sinus
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",100701000006118,21258007,1222620011,^ESCTTH283799,,Thrombosis lateral sinus
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",100701000006118,21258007,1222620011,^ESCTTH283798,,Thrombosis lateral sinus
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",100701000006118,21258007,1222620011,^ESCTCE283800,,Thrombosis lateral sinus
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",100701000006118,21258007,1222620011,^ESCTTH283799,F051200,Thrombosis lateral sinus
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",100701000006118,21258007,1222620011,^ESCTTH283798,F051200,Thrombosis lateral sinus
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",100701000006118,21258007,1222620011,^ESCTCE283800,F051200,Thrombosis lateral sinus
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",296939018,192761004,296939018,F0513,F051300,Thrombosis transverse sinus
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",296940016,192759008,296937016,^ESCTTH476849,,Thrombosis of central nervous system venous sinus NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",296940016,192759008,296937016,^ESCTTH476849,F051z00,Thrombosis of central nervous system venous sinus NOS
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",296940016,192759008,296937016,F051z,F051z00,Thrombosis of central nervous system venous sinus NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",296940016,192759008,296937016,F051,F051.00,Thrombosis of central nervous system venous sinus NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",296940016,192759008,296937016,F051,F051z00,Thrombosis of central nervous system venous sinus NOS
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",296947018,192769002,296947018,F053,F053.00,Thrombophlebitis of central nervous system venous sinuses
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",296948011,192770001,296948011,^ESCTTH476860,,Thrombophlebitis of cavernous sinus
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",296948011,192770001,296948011,^ESCTTH476860,F053000,Thrombophlebitis of cavernous sinus
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",296948011,192770001,296948011,F0530,F053000,Thrombophlebitis of cavernous sinus
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",296949015,192771002,296949015,F0531,F053100,Thrombophlebitis of superior longitudinal venous sinus
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",231561000006110,192753009,296931015,F05z,F05z.00,Phlebitis or thrombophlebitis of CNS venous sinus NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",231561000006110,192753009,296931015,F05,F05..00,Phlebitis or thrombophlebitis of CNS venous sinus NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",98484016,59282003,98484016,G401-2,G401.12,Pulmonary embolism
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",98484016,59282003,98484016,^ESCTPE346292,,Pulmonary embolism
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",231561000006110,192753009,296931015,F05,F05z.00,Phlebitis or thrombophlebitis of CNS venous sinus NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",98484016,59282003,98484016,G401-2,G401.00,Pulmonary embolism
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",98484016,59282003,98484016,^ESCTPE346292,G401.00,Pulmonary embolism
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",98484016,59282003,98484016,G401,G401.00,Pulmonary embolism
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",632111000000118,438773007,2793990014,G4011,G401100,Recurrent pulmonary embolism
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",586241000006116,195229008,300392014,G676,G676.00,Non-pyogenic venous sinus thrombosis
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",542251000006112,195230003,300393016,G6760,G676000,"Cerebral infarction due to cerebral venous thrombosis, non-pyogenic"
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1235913017,95455008,1235913017,^ESCTCE405698,,Cerebral vein thrombosis
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1235913017,95455008,1235913017,^ESCTTH405697,,Cerebral vein thrombosis
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1235913017,95455008,1235913017,^ESCTCE405698,G67A.00,Cerebral vein thrombosis
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1235913017,95455008,1235913017,^ESCTTH405697,G67A.00,Cerebral vein thrombosis
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1235913017,95455008,1235913017,G67A,G67A.00,Cerebral vein thrombosis
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",395801015,266267005,395801015,G802,G802.00,Deep vein phlebitis and thrombophlebitis of the leg
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",395801015,266267005,395801015,G801-2,G801.12,Deep vein phlebitis and thrombophlebitis of the leg
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",395801015,266267005,395801015,G801-99,G801.99,Deep vein phlebitis and thrombophlebitis of the leg
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",395801015,266267005,395801015,G801z,G801z00,Deep vein phlebitis and thrombophlebitis of the leg
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",395801015,266267005,395801015,G802,G801.00,Deep vein phlebitis and thrombophlebitis of the leg
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",395801015,266267005,395801015,G801-2,G801.00,Deep vein phlebitis and thrombophlebitis of the leg
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",395801015,266267005,395801015,G801-99,G801.00,Deep vein phlebitis and thrombophlebitis of the leg
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",395801015,266267005,395801015,G801z,G801.00,Deep vein phlebitis and thrombophlebitis of the leg
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",395801015,266267005,395801015,G801,G801.00,Deep vein phlebitis and thrombophlebitis of the leg
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",2162149016,128053003,194647015,G801-3,G801.13,Deep venous thrombosis
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",2162149016,128053003,194647015,^ESCTDV440326,,Deep venous thrombosis
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",2162149016,128053003,194647015,G801-3,G801.11,Deep venous thrombosis
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",2162149016,128053003,194647015,^ESCTDV440326,G801.11,Deep venous thrombosis
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",2162149016,128053003,194647015,G801-1,G801.11,Deep venous thrombosis
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",218551000000118,266267005,395801015,G802,G802.00,"Deep vein thrombosis, leg"
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",218551000000118,266267005,395801015,G802,G801.12,"Deep vein thrombosis, leg"
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",218551000000118,266267005,395801015,G801-2,G801.12,"Deep vein thrombosis, leg"
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",218551000000118,266267005,395801015,G801-99,G801.99,"Deep vein thrombosis, leg"
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",218551000000118,266267005,395801015,G801z,G801z00,"Deep vein thrombosis, leg"
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",218551000000118,266267005,395801015,G801,G801.00,"Deep vein thrombosis, leg"
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",218551000000118,266267005,395801015,G801-99,G801.12,"Deep vein thrombosis, leg"
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",218551000000118,266267005,395801015,G801z,G801.12,"Deep vein thrombosis, leg"
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",218551000000118,266267005,395801015,G801,G801.12,"Deep vein thrombosis, leg"
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",2162148012,128053003,2162149016,G801-3,G801.13,Deep vein thrombosis
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",2162148012,128053003,2162149016,^ESCTDV440326,,Deep vein thrombosis
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",2162148012,128053003,2162149016,G801-1,G801.11,Deep vein thrombosis
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",2162148012,128053003,2162149016,^ESCTDV440326,G801.13,Deep vein thrombosis
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",2162148012,128053003,2162149016,G801-1,G801.13,Deep vein thrombosis
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300672010,195410000,300672010,G8016,G801600,Thrombophlebitis of the femoral vein
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300673017,195411001,300673017,G8017,G801700,Thrombophlebitis of the popliteal vein
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300674011,195412008,300674011,G8018,G801800,Thrombophlebitis of the anterior tibial vein
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300675012,770111009,3698589012,^ESCT1210280,,Thrombophlebitis of the dorsalis pedis vein
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300675012,770111009,3698589012,^ESCT1210280,G801900,Thrombophlebitis of the dorsalis pedis vein
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300675012,770111009,3698589012,G8019,G801900,Thrombophlebitis of the dorsalis pedis vein
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300676013,195414009,300676013,G801A,G801A00,Thrombophlebitis of the posterior tibial vein
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300677016,40198004,63532015,G801B,G801B00,Thrombophlebitis of deep veins of lower extremity
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",216205019,134399007,216205019,G801C,G801C00,Deep vein thrombosis of leg related to air travel
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",2162422011,404223003,2162422011,^ESCTDE669476,,Deep vein thrombosis of lower limb
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",2162422011,404223003,2162422011,^ESCTDV669475,,Deep vein thrombosis of lower limb
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",2162422011,404223003,2162422011,^ESCTDE669477,,Deep vein thrombosis of lower limb
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",2162422011,404223003,2162422011,G801D-99,G801D99,Deep vein thrombosis of lower limb
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",2162422011,404223003,2162422011,^ESCTDE669474,,Deep vein thrombosis of lower limb
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",2162422011,404223003,2162422011,^ESCTDE669476,G801D00,Deep vein thrombosis of lower limb
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",2162422011,404223003,2162422011,^ESCTDV669475,G801D00,Deep vein thrombosis of lower limb
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",2162422011,404223003,2162422011,^ESCTDE669477,G801D00,Deep vein thrombosis of lower limb
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",2162422011,404223003,2162422011,G801D-99,G801D00,Deep vein thrombosis of lower limb
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",2162422011,404223003,2162422011,^ESCTDE669474,G801D00,Deep vein thrombosis of lower limb
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",2162422011,404223003,2162422011,G801D,G801D00,Deep vein thrombosis of lower limb
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",2534187010,413956008,2534187010,G801E,G801E00,Deep vein thrombosis of leg related to intravenous drug use
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1119161000000115,443210003,1664901000000117,^ESCTDE727374,,Deep vein thrombosis of peroneal vein
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1119161000000115,443210003,1664901000000117,^ESCTDE727374,G801F00,Deep vein thrombosis of peroneal vein
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1119161000000115,443210003,1664901000000117,G801F,G801F00,Deep vein thrombosis of peroneal vein
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",2144741000000111,710167004,3043650017,G801G,G801G00,Recurrent deep vein thrombosis
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",2144741000000111,710167004,3043650017,^ESCTRE766507,,Recurrent deep vein thrombosis
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300681016,266267005,395801015,G802,G802.00,Deep vein phlebitis and thrombophlebitis of the leg NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300681016,266267005,395801015,G801-2,G801.12,Deep vein phlebitis and thrombophlebitis of the leg NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300681016,266267005,395801015,G801-99,G801.99,Deep vein phlebitis and thrombophlebitis of the leg NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",2144741000000111,710167004,3043650017,^ESCTRE766507,G801G00,Recurrent deep vein thrombosis
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300681016,266267005,395801015,G802,G801z00,Deep vein phlebitis and thrombophlebitis of the leg NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300681016,266267005,395801015,G801-2,G801z00,Deep vein phlebitis and thrombophlebitis of the leg NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300681016,266267005,395801015,G801-99,G801z00,Deep vein phlebitis and thrombophlebitis of the leg NOS
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300681016,266267005,395801015,G801z,G801z00,Deep vein phlebitis and thrombophlebitis of the leg NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300681016,266267005,395801015,G801,G801.00,Deep vein phlebitis and thrombophlebitis of the leg NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",412645018,276494008,412645018,G80y8,G80y800,Phlebitis and/or thrombophlebitis of iliac vein
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300681016,266267005,395801015,G801,G801z00,Deep vein phlebitis and thrombophlebitis of the leg NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",412645018,276494008,412645018,G80y8,G80y.11,Phlebitis and/or thrombophlebitis of iliac vein
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",412645018,276494008,412645018,G80y-1,G80y.11,Phlebitis and/or thrombophlebitis of iliac vein
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300691010,195425000,300691010,G80y4,G80y400,Thrombophlebitis of the common iliac vein
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300692015,195426004,300692015,G80y5,G80y500,Thrombophlebitis of the internal iliac vein
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300695018,195427008,300695018,G80y6,G80y600,Thrombophlebitis of the external iliac vein
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300696017,42861008,71531019,G80y7,G80y700,Thrombophlebitis of iliac vein
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300697014,276494008,412645018,G80y8,G80y800,Phlebitis and thrombophlebitis of the iliac vein NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300697014,276494008,412645018,G80y-1,G80y.11,Phlebitis and thrombophlebitis of the iliac vein NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",30273012,17920008,30273012,^ESCTPV278435,,Portal vein thrombosis
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300697014,276494008,412645018,G80y-1,G80y800,Phlebitis and thrombophlebitis of the iliac vein NOS
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",30273012,17920008,30273012,^ESCTPV278435,G81..00,Portal vein thrombosis
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",30273012,17920008,30273012,G81,G81..00,Portal vein thrombosis
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",30273012,17920008,30273012,^ESCTDE278434,,Portal vein thrombosis
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",30273012,17920008,30273012,^ESCTDE278434,G81..00,Portal vein thrombosis
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",527221000006115,82385007,136654014,G820,G820.00,Budd-Chiari syndrome
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",527221000006115,82385007,136654014,G820-2,G820.12,Budd-Chiari syndrome
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",527221000006115,82385007,136654014,G820-1,G820.11,Budd-Chiari syndrome
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",527221000006115,82385007,136654014,^ESCTOB384016,,Budd-Chiari syndrome
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",527221000006115,82385007,136654014,^ESCTBU384017,,Budd-Chiari syndrome
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",64466019,82385007,136654014,G820,G820.00,Hepatic vein thrombosis
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",64466019,82385007,136654014,G820-2,G820.12,Hepatic vein thrombosis
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",527221000006115,82385007,136654014,G820-2,G820.00,Budd-Chiari syndrome
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",527221000006115,82385007,136654014,G820-1,G820.00,Budd-Chiari syndrome
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",527221000006115,82385007,136654014,^ESCTOB384016,G820.00,Budd-Chiari syndrome
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",527221000006115,82385007,136654014,^ESCTBU384017,G820.00,Budd-Chiari syndrome
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",64466019,82385007,136654014,G820,G820.11,Hepatic vein thrombosis
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",64466019,82385007,136654014,G820-2,G820.11,Hepatic vein thrombosis
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",64466019,82385007,136654014,G820-1,G820.11,Hepatic vein thrombosis
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",64466019,82385007,136654014,^ESCTOB384016,,Hepatic vein thrombosis
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",64466019,82385007,136654014,^ESCTBU384017,,Hepatic vein thrombosis
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",64466019,82385007,136654014,^ESCTOB384016,G820.11,Hepatic vein thrombosis
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",64466019,82385007,136654014,^ESCTBU384017,G820.11,Hepatic vein thrombosis
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300710016,195437003,300710016,G822,G822.00,Embolism and thrombosis of the vena cava
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",419640012,281595001,419640012,G8220,G822000,Thrombosis of inferior vena cava
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",300711017,195438008,300711017,G823,G823.00,Embolism and thrombosis of the renal vein
@@ -525,26 +525,26 @@ Condition,MedCode,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Te
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",2795114019,438647008,2795114019,G825,G825.00,Thrombosis of subclavian vein
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",2234371000000119,864191000000104,2234371000000119,G826,G826.00,Thrombosis of internal jugular vein
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",2234411000000115,864211000000100,2234411000000115,G827,G827.00,Thrombosis of external jugular vein
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",420621000006111,195394007,300649013,Gyu81,Gyu8100,[X]Phlebitis+thrombophlebitis/oth deep vessls/low extremites
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",420621000006111,195394007,300649013,G80y,G80y.00,[X]Phlebitis+thrombophlebitis/oth deep vessls/low extremites
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",420621000006111,195394007,300649013,G80z,G80z.00,[X]Phlebitis+thrombophlebitis/oth deep vessls/low extremites
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",420621000006111,195394007,300649013,G80zz,G80zz00,[X]Phlebitis+thrombophlebitis/oth deep vessls/low extremites
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",420621000006111,195394007,300649013,G80,G80..00,[X]Phlebitis+thrombophlebitis/oth deep vessls/low extremites
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",420621000006111,195394007,300649013,G80yz,G80yz00,[X]Phlebitis+thrombophlebitis/oth deep vessls/low extremites
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",420621000006111,195394007,300649013,Gyu81,Gyu8000,[X]Phlebitis+thrombophlebitis/oth deep vessls/low extremites
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",420621000006111,195394007,300649013,G80y,Gyu8000,[X]Phlebitis+thrombophlebitis/oth deep vessls/low extremites
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",420621000006111,195394007,300649013,G80z,Gyu8000,[X]Phlebitis+thrombophlebitis/oth deep vessls/low extremites
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",420621000006111,195394007,300649013,G80zz,Gyu8000,[X]Phlebitis+thrombophlebitis/oth deep vessls/low extremites
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",420621000006111,195394007,300649013,G80,Gyu8000,[X]Phlebitis+thrombophlebitis/oth deep vessls/low extremites
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",420621000006111,195394007,300649013,G80yz,Gyu8000,[X]Phlebitis+thrombophlebitis/oth deep vessls/low extremites
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",420621000006111,195394007,300649013,Gyu80,Gyu8000,[X]Phlebitis+thrombophlebitis/oth deep vessls/low extremites
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",100821000006116,197001004,302981012,J4202,J420200,Superior mesenteric vein thrombosis
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",100821000006116,197001004,302981012,^ESCTDE478567,,Superior mesenteric vein thrombosis
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",100821000006116,197001004,302981012,^ESCTDE478567,J420200,Superior mesenteric vein thrombosis
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",216571000006116,213220000,325066018,SP122,SP12200,Postoperative deep vein thrombosis
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",451478017,161508001,2547692019,ZV128,ZV12800,H/O: Deep vein thrombosis
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",451478017,161508001,2547692019,ZV128-1,ZV12811,H/O: Deep vein thrombosis
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",451478017,161508001,2547692019,14A81,14A8100,H/O: Deep vein thrombosis
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",451478017,161508001,2547692019,^ESCTHO454053,,H/O: Deep vein thrombosis
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",451478017,161508001,2547692019,^ESCTHI454055,,H/O: Deep vein thrombosis
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1227369013,161508001,2547692019,ZV128,ZV12800,[V] Personal history DVT (deep vein thrombosis)
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",451478017,161508001,2547692019,ZV128-1,ZV12800,H/O: Deep vein thrombosis
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",451478017,161508001,2547692019,14A81,ZV12800,H/O: Deep vein thrombosis
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",451478017,161508001,2547692019,^ESCTHO454053,ZV12800,H/O: Deep vein thrombosis
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",451478017,161508001,2547692019,^ESCTHI454055,ZV12800,H/O: Deep vein thrombosis
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1227369013,161508001,2547692019,ZV128,ZV12811,[V] Personal history DVT (deep vein thrombosis)
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1227369013,161508001,2547692019,ZV128-1,ZV12811,[V] Personal history DVT (deep vein thrombosis)
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1227369013,161508001,2547692019,14A81,14A8100,[V] Personal history DVT (deep vein thrombosis)
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1227369013,161508001,2547692019,^ESCTHO454053,,[V] Personal history DVT (deep vein thrombosis)
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1227369013,161508001,2547692019,^ESCTHI454055,,[V] Personal history DVT (deep vein thrombosis)
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1227369013,161508001,2547692019,14A81,ZV12811,[V] Personal history DVT (deep vein thrombosis)
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1227369013,161508001,2547692019,^ESCTHO454053,ZV12811,[V] Personal history DVT (deep vein thrombosis)
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",1227369013,161508001,2547692019,^ESCTHI454055,ZV12811,[V] Personal history DVT (deep vein thrombosis)
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",451479013,161512007,251693011,ZV129,ZV12900,[V] Personal history of pulmonary embolism
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",451479013,161512007,251693011,^ESCTHI454061,,[V] Personal history of pulmonary embolism
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",451479013,161512007,251693011,14AC,14AC.00,[V] Personal history of pulmonary embolism
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",451479013,161512007,251693011,^ESCTHI454061,ZV12900,[V] Personal history of pulmonary embolism
+"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",451479013,161512007,251693011,14AC,ZV12900,[V] Personal history of pulmonary embolism

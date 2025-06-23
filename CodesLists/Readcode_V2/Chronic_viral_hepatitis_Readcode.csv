@@ -1,44 +1,37 @@
 Condition,ReadCode,CleansedReadCode,Term
-Chronic viral hepatitis,,,Antigen Positive Viral Hepatitis B
-Chronic viral hepatitis,,,Hepatitis A total antibody test positive
-Chronic viral hepatitis,,,Hepatitis B surface antibody test positive
-Chronic viral hepatitis,,,Hepatitis C positive
-Chronic viral hepatitis,,,[SHHAPT] Viral hepatitis B (HbsAg positive) - first diagnosis
-Chronic viral hepatitis,,,hepatitis c pcr positive
-Chronic viral hepatitis,,,hepatitis c resolved
-Chronic viral hepatitis,2126700,,Hepatitis C resolved
-Chronic viral hepatitis,43B4.00,,Hepatitis B surface antig +ve
-Chronic viral hepatitis,43B5.00,,Hepatitis e antigen present
-Chronic viral hepatitis,43X3.00,,Hepatitis C antibody test positive
-Chronic viral hepatitis,43j5.00,,Hepatitis C nucleic acid detection
-Chronic viral hepatitis,43jG.00,,Hepatitis B nucleic acid detection
-Chronic viral hepatitis,4J3B.00,,Hepatitis C viral load
-Chronic viral hepatitis,4J3D.00,,Hepatitis B viral load
-Chronic viral hepatitis,4JQ3.00,,Hepatitis C virus genotype
-Chronic viral hepatitis,4JQD.00,,Hepatitis C viral ribonucleic acid PCR positive
-Chronic viral hepatitis,4JQD.11,,Hepatitis C PCR positive
-Chronic viral hepatitis,4JQF.00,,Hepatitis C antigen positive
-Chronic viral hepatitis,7Q05200,,Hepatitis B treatment drugs Band 1
-Chronic viral hepatitis,8BB5.00,,12 week virologic response to hepatitis C treatment
+Chronic viral hepatitis,2126700,2126700,Hepatitis C resolved
+Chronic viral hepatitis,43B4.00,43B4.00,Hepatitis B surface antig +ve
+Chronic viral hepatitis,43B5.00,43B5.00,Hepatitis e antigen present
+Chronic viral hepatitis,43X3.00,43X3.00,Hepatitis C antibody test positive
+Chronic viral hepatitis,43j5.00,43j5.00,Hepatitis C nucleic acid detection
+Chronic viral hepatitis,43jG.00,43jG.00,Hepatitis B nucleic acid detection
+Chronic viral hepatitis,4J3B.00,4J3B.00,Hepatitis C viral load
+Chronic viral hepatitis,4J3D.00,4J3D.00,Hepatitis B viral load
+Chronic viral hepatitis,4JQ3.00,4JQ3.00,Hepatitis C virus genotype
+Chronic viral hepatitis,4JQD.00,4JQD.00,Hepatitis C viral ribonucleic acid PCR positive
+Chronic viral hepatitis,4JQD.11,4JQD.11,Hepatitis C PCR positive
+Chronic viral hepatitis,4JQF.00,4JQF.00,Hepatitis C antigen positive
+Chronic viral hepatitis,7Q05200,7Q05200,Hepatitis B treatment drugs Band 1
+Chronic viral hepatitis,8BB5.00,8BB5.00,12 week virologic response to hepatitis C treatment
 Chronic viral hepatitis,9NgR.00,,On hepatitis C treatment plan
-Chronic viral hepatitis,9kR..00,,Chronic hepatitis annual review - enhanced services admin
-Chronic viral hepatitis,9kV..00,,Hepatitis C screening positive - enhanced services admin
-Chronic viral hepatitis,9kV..11,,Hepatitis C screening positive
-Chronic viral hepatitis,9kX..00,,Hepatitis status 6 months post treatment - enhanced serv adm
-Chronic viral hepatitis,9kZ..00,,Hepatitis B screening positive - enhanced services admin
-Chronic viral hepatitis,9kZ..11,,Hepatitis B screening positive
-Chronic viral hepatitis,A703.00,,Viral (serum) hepatitis B
-Chronic viral hepatitis,A705000,,Viral hepatitis C without mention of hepatic coma
-Chronic viral hepatitis,A707.00,,Chronic viral hepatitis
-Chronic viral hepatitis,A707000,,Chronic viral hepatitis B with delta-agent
-Chronic viral hepatitis,A707100,,Chronic viral hepatitis B without delta-agent
-Chronic viral hepatitis,A707200,,Chronic viral hepatitis C
-Chronic viral hepatitis,A707300,,Chronic viral hepatitis B
-Chronic viral hepatitis,A707X00,,"Chronic viral hepatitis, unspecified"
+Chronic viral hepatitis,9kR..00,9kR..00,Chronic hepatitis annual review - enhanced services admin
+Chronic viral hepatitis,9kV..00,9kV..00,Hepatitis C screening positive - enhanced services admin
+Chronic viral hepatitis,9kV..11,9kV..11,Hepatitis C screening positive
+Chronic viral hepatitis,9kX..00,9kX..00,Hepatitis status 6 months post treatment - enhanced serv adm
+Chronic viral hepatitis,9kZ..00,9kZ..00,Hepatitis B screening positive - enhanced services admin
+Chronic viral hepatitis,9kZ..11,9kZ..11,Hepatitis B screening positive
+Chronic viral hepatitis,A703.00,A703.00,Viral (serum) hepatitis B
+Chronic viral hepatitis,A705000,A705000,Viral hepatitis C without mention of hepatic coma
+Chronic viral hepatitis,A707.00,A707.00,Chronic viral hepatitis
+Chronic viral hepatitis,A707000,A707000,Chronic viral hepatitis B with delta-agent
+Chronic viral hepatitis,A707100,A707100,Chronic viral hepatitis B without delta-agent
+Chronic viral hepatitis,A707200,A707200,Chronic viral hepatitis C
+Chronic viral hepatitis,A707300,A707300,Chronic viral hepatitis B
+Chronic viral hepatitis,A707X00,A707X00,"Chronic viral hepatitis, unspecified"
 Chronic viral hepatitis,A70A.00,,Hepatitis C genotype 1
-Chronic viral hepatitis,A70B.00,,Hepatitis C genotype 2
-Chronic viral hepatitis,A70C.00,,Hepatitis C genotype 3
+Chronic viral hepatitis,A70B.00,A70B.00,Hepatitis C genotype 2
+Chronic viral hepatitis,A70C.00,A70C.00,Hepatitis C genotype 3
 Chronic viral hepatitis,A70D.00,,Hepatitis C genotype 4
-Chronic viral hepatitis,A70z000,,Hepatitis C
-Chronic viral hepatitis,AyuB100,,[X]Other chronic viral hepatitis
-Chronic viral hepatitis,AyuB200,,"[X]Chronic viral hepatitis, unspecified"
+Chronic viral hepatitis,A70z000,A70z000,Hepatitis C
+Chronic viral hepatitis,AyuB100,AyuB100,[X]Other chronic viral hepatitis
+Chronic viral hepatitis,AyuB200,AyuB200,"[X]Chronic viral hepatitis, unspecified"

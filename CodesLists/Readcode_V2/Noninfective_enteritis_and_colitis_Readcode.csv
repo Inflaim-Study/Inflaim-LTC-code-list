@@ -1,49 +1,46 @@
 Condition,ReadCode,CleansedReadCode,Term
-Noninfective enteritis and colitis,J41..00,,Idiopathic proctocolitis
-Noninfective enteritis and colitis,J41..11,,Mucous colitis and/or proctitis
-Noninfective enteritis and colitis,J41..12,,Ulcerative colitis and/or proctitis
-Noninfective enteritis and colitis,J410.00,,Ulcerative proctocolitis
-Noninfective enteritis and colitis,J410000,,Ulcerative ileocolitis
-Noninfective enteritis and colitis,J410100,,Ulcerative colitis
-Noninfective enteritis and colitis,J410200,,Ulcerative rectosigmoiditis
-Noninfective enteritis and colitis,J410300,,Ulcerative proctitis
-Noninfective enteritis and colitis,J410400,,Exacerbation of ulcerative colitis
-Noninfective enteritis and colitis,J410z00,,Ulcerative proctocolitis NOS
-Noninfective enteritis and colitis,J411.00,,Ulcerative (chronic) enterocolitis
-Noninfective enteritis and colitis,J412.00,,Ulcerative (chronic) ileocolitis
-Noninfective enteritis and colitis,J413.00,,Ulcerative pancolitis
-Noninfective enteritis and colitis,J41y.00,,Other idiopathic proctocolitis
-Noninfective enteritis and colitis,J41yz00,,Other idiopathic proctocolitis NOS
-Noninfective enteritis and colitis,J41z.00,,Idiopathic proctocolitis NOS
-Noninfective enteritis and colitis,Jyu4100,,[X]Other ulcerative colitis
-Noninfective enteritis and colitis,N031000,,Arthropathy in ulcerative colitis
-Noninfective enteritis and colitis,N045400,,Juvenile arthritis in ulcerative colitis
-Noninfective enteritis and colitis,,,Regional enteritis - Crohn
-Noninfective enteritis and colitis,,,[RFC] Crohns disease
-Noninfective enteritis and colitis,,,granulomatous enteritis
-Noninfective enteritis and colitis,J08z900,,Orofacial Crohn's disease
-Noninfective enteritis and colitis,J40..00,,Regional enteritis - Crohn's disease
-Noninfective enteritis and colitis,J40..11,,Crohn's disease
-Noninfective enteritis and colitis,J40..12,,Granulomatous enteritis
-Noninfective enteritis and colitis,J400.00,,Regional enteritis of the small bowel
-Noninfective enteritis and colitis,J400000,,Regional enteritis of the duodenum
-Noninfective enteritis and colitis,J400100,,Regional enteritis of the jejunum
-Noninfective enteritis and colitis,J400200,,Crohn's disease of the terminal ileum
-Noninfective enteritis and colitis,J400300,,Crohn's disease of the ileum unspecified
-Noninfective enteritis and colitis,J400400,,Crohn's disease of the ileum NOS
-Noninfective enteritis and colitis,J400500,,Exacerbation of Crohn's disease of small intestine
-Noninfective enteritis and colitis,J400z00,,Crohn's disease of the small bowel NOS
-Noninfective enteritis and colitis,J401.00,,Regional enteritis of the large bowel
-Noninfective enteritis and colitis,J401000,,Regional enteritis of the colon
-Noninfective enteritis and colitis,J401100,,Regional enteritis of the rectum
-Noninfective enteritis and colitis,J401200,,Exacerbation of Crohn's disease of large intestine
-Noninfective enteritis and colitis,J401z00,,Crohn's disease of the large bowel NOS
-Noninfective enteritis and colitis,J401z11,,Crohn's colitis
-Noninfective enteritis and colitis,J402.00,,Regional ileocolitis
-Noninfective enteritis and colitis,J40z.00,,Regional enteritis NOS
-Noninfective enteritis and colitis,J40z.11,,Crohn's disease NOS
-Noninfective enteritis and colitis,Jyu4000,,[X]Other Crohn's disease
-Noninfective enteritis and colitis,N031100,,Arthropathy in Crohn's disease
-Noninfective enteritis and colitis,N045300,,Juvenile arthritis in Crohn's disease
+Noninfective enteritis and colitis,J41..00,J41..00,Idiopathic proctocolitis
+Noninfective enteritis and colitis,J41..11,J41..11,Mucous colitis and/or proctitis
+Noninfective enteritis and colitis,J41..12,J41..12,Ulcerative colitis and/or proctitis
+Noninfective enteritis and colitis,J410.00,J410.00,Ulcerative proctocolitis
+Noninfective enteritis and colitis,J410000,J410000,Ulcerative ileocolitis
+Noninfective enteritis and colitis,J410100,J410100,Ulcerative colitis
+Noninfective enteritis and colitis,J410200,J410200,Ulcerative rectosigmoiditis
+Noninfective enteritis and colitis,J410300,J410300,Ulcerative proctitis
+Noninfective enteritis and colitis,J410400,J410400,Exacerbation of ulcerative colitis
+Noninfective enteritis and colitis,J410z00,J410z00,Ulcerative proctocolitis NOS
+Noninfective enteritis and colitis,J411.00,J411.00,Ulcerative (chronic) enterocolitis
+Noninfective enteritis and colitis,J412.00,J412.00,Ulcerative (chronic) ileocolitis
+Noninfective enteritis and colitis,J413.00,J413.00,Ulcerative pancolitis
+Noninfective enteritis and colitis,J41y.00,J41y.00,Other idiopathic proctocolitis
+Noninfective enteritis and colitis,J41yz00,J41yz00,Other idiopathic proctocolitis NOS
+Noninfective enteritis and colitis,J41z.00,J41z.00,Idiopathic proctocolitis NOS
+Noninfective enteritis and colitis,Jyu4100,Jyu4100,[X]Other ulcerative colitis
+Noninfective enteritis and colitis,N031000,N031000,Arthropathy in ulcerative colitis
+Noninfective enteritis and colitis,N045400,N045400,Juvenile arthritis in ulcerative colitis
+Noninfective enteritis and colitis,J08z900,J08z900,Orofacial Crohn's disease
+Noninfective enteritis and colitis,J40..00,J40..00,Regional enteritis - Crohn's disease
+Noninfective enteritis and colitis,J40..11,J40..11,Crohn's disease
+Noninfective enteritis and colitis,J40..12,J40..12,Granulomatous enteritis
+Noninfective enteritis and colitis,J400.00,J400.00,Regional enteritis of the small bowel
+Noninfective enteritis and colitis,J400000,J400000,Regional enteritis of the duodenum
+Noninfective enteritis and colitis,J400100,J400100,Regional enteritis of the jejunum
+Noninfective enteritis and colitis,J400200,J400200,Crohn's disease of the terminal ileum
+Noninfective enteritis and colitis,J400300,J400300,Crohn's disease of the ileum unspecified
+Noninfective enteritis and colitis,J400400,J400400,Crohn's disease of the ileum NOS
+Noninfective enteritis and colitis,J400500,J400500,Exacerbation of Crohn's disease of small intestine
+Noninfective enteritis and colitis,J400z00,J400z00,Crohn's disease of the small bowel NOS
+Noninfective enteritis and colitis,J401.00,J401.00,Regional enteritis of the large bowel
+Noninfective enteritis and colitis,J401000,J401000,Regional enteritis of the colon
+Noninfective enteritis and colitis,J401100,J401100,Regional enteritis of the rectum
+Noninfective enteritis and colitis,J401200,J401200,Exacerbation of Crohn's disease of large intestine
+Noninfective enteritis and colitis,J401z00,J401z00,Crohn's disease of the large bowel NOS
+Noninfective enteritis and colitis,J401z11,J401z11,Crohn's colitis
+Noninfective enteritis and colitis,J402.00,J402.00,Regional ileocolitis
+Noninfective enteritis and colitis,J40z.00,J40z.00,Regional enteritis NOS
+Noninfective enteritis and colitis,J40z.11,J40z.11,Crohn's disease NOS
+Noninfective enteritis and colitis,Jyu4000,Jyu4000,[X]Other Crohn's disease
+Noninfective enteritis and colitis,N031100,N031100,Arthropathy in Crohn's disease
+Noninfective enteritis and colitis,N045300,N045300,Juvenile arthritis in Crohn's disease
 Noninfective enteritis and colitis,ZR3S.00,,Crohn's disease activity index
 Noninfective enteritis and colitis,ZR3S.11,,CDAI - Crohn's disease activity index

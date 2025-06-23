@@ -1,4 +1,4 @@
-Condition,MedCode,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
+Condition,MedCodeId,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
 Other spirochaetal infections,299288010,95883001,158829010,Fyu00,Fyu0000,[X]Other bacterial meningitis
 Other spirochaetal infections,308710015,86735004,143838016,M15y,M15y.00,Other specified erythematous conditions
 Other spirochaetal infections,308718010,86735004,143838016,M15y4,M15y400,Other exfoliative erythema
@@ -33,7 +33,7 @@ Other spirochaetal infections,287474015,41116009,492887012,AAz,AAz..00,Spirochae
 Other spirochaetal infections,296780015,95883001,158829010,F007,F007.00,Meningitis in other bacterial disease classified elsewhere
 Other spirochaetal infections,296788010,95883001,158829010,F007z,F007z00,Unspecified meningitis in bacterial disease EC
 Other spirochaetal infections,296789019,95883001,158829010,F00y,F00y.00,Other specified bacterial meningitis
-Other spirochaetal infections,1927231000006112,715507005,3302870016,A8711,A871100,Lyme neuroborreliosis
+Other spirochaetal infections,1927231000006112,715507005,3302870016,A8711,,Lyme neuroborreliosis
 Other spirochaetal infections,91031000006110,171849009,266151011,70590-1,7059011,Transposition of ulnar nerve
 Other spirochaetal infections,1541151000006113,38663004,64337016,70595,7059500,Neurolysis peripheral nerve transposition peripher nerve NEC
 Other spirochaetal infections,288102011,41116009,492887012,Ayu57,Ayu5700,"[X]Spirochaetal infection, unspecified"

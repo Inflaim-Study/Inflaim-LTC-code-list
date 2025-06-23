@@ -1,50 +1,42 @@
 Condition,ReadCode,CleansedReadCode,Term
-Diverticular disease of the intestine,,,Diverticular disease NOS
-Diverticular disease of the intestine,,,Duodenal diverticulum
-Diverticular disease of the intestine,,,Jejunal diverticula
-Diverticular disease of the intestine,,,[RFC] Diverticulitis
-Diverticular disease of the intestine,,,diverticulosis of the colon
-Diverticular disease of the intestine,,,diverticulosis unspecified
-Diverticular disease of the intestine,,,perforated diverticulum
-Diverticular disease of the intestine,,,perforated diverticulum unspecified
-Diverticular disease of the intestine,J23z300,,Appendicular diverticulum
-Diverticular disease of the intestine,J51..00,,Diverticula of intestine
-Diverticular disease of the intestine,J51..11,,Diverticular disease
-Diverticular disease of the intestine,J510.00,,Diverticulosis
-Diverticular disease of the intestine,J510000,,Diverticulosis of the duodenum
-Diverticular disease of the intestine,J510100,,Diverticulosis of the jejunum
-Diverticular disease of the intestine,J510200,,Diverticulosis of the ileum
-Diverticular disease of the intestine,J510300,,Diverticulosis of the small intestine unspecified
-Diverticular disease of the intestine,J510400,,Diverticulosis of the small intestine NOS
-Diverticular disease of the intestine,J510500,,Diverticulosis of the colon
-Diverticular disease of the intestine,J510600,,Diverticulosis of the large intestine unspecified
-Diverticular disease of the intestine,J510700,,Diverticulosis of the large intestine NOS
-Diverticular disease of the intestine,J510800,,Divertic dis/both sml+lge intestin without perfor or abscess
-Diverticular disease of the intestine,J510900,,Bleeding diverticulosis
-Diverticular disease of the intestine,J510y00,,Diverticulosis unspecified
-Diverticular disease of the intestine,J510z00,,Diverticulosis NOS
-Diverticular disease of the intestine,J511.00,,Diverticulitis
-Diverticular disease of the intestine,J511000,,Diverticulitis of the duodenum
-Diverticular disease of the intestine,J511100,,Diverticulitis of the jejunum
-Diverticular disease of the intestine,J511200,,Diverticulitis of the ileum
-Diverticular disease of the intestine,J511300,,Diverticulitis of the small intestine unspecified
-Diverticular disease of the intestine,J511400,,Diverticulitis of the small intestine NOS
-Diverticular disease of the intestine,J511500,,Diverticulitis of the colon
-Diverticular disease of the intestine,J511600,,Diverticulitis of the large intestine unspecified
-Diverticular disease of the intestine,J511700,,Diverticulitis of the large intestine NOS
-Diverticular disease of the intestine,J511y00,,Diverticulitis unspecified
-Diverticular disease of the intestine,J511z00,,Diverticulitis NOS
-Diverticular disease of the intestine,J512.00,,Perforated diverticulum
-Diverticular disease of the intestine,J512000,,Perforated diverticulum of duodenum
-Diverticular disease of the intestine,J512100,,Perforated diverticulum of jejunum
-Diverticular disease of the intestine,J512200,,Perforated diverticulum of ileum
-Diverticular disease of the intestine,J512300,,Perforated diverticulum of small intestine unspecified
-Diverticular disease of the intestine,J512400,,Perforated diverticulum of small intestine NOS
-Diverticular disease of the intestine,J512500,,Perforated diverticulum of colon
-Diverticular disease of the intestine,J512600,,Perforated diverticulum of large intestine unspecified
-Diverticular disease of the intestine,J512700,,Perforated diverticulum of large intestine NOS
-Diverticular disease of the intestine,J512800,,Divertic disease/both sml+lge intestin with perforat+abscess
-Diverticular disease of the intestine,J512y00,,Perforated diverticulum unspecified
-Diverticular disease of the intestine,J512z00,,Perforated diverticulum of intestine NOS
-Diverticular disease of the intestine,J513.00,,Diverticular abscess
-Diverticular disease of the intestine,J51z.00,,Diverticula of the intestine NOS
+Diverticular disease of the intestine,J23z300,J23z300,Appendicular diverticulum
+Diverticular disease of the intestine,J51..00,J51..00,Diverticula of intestine
+Diverticular disease of the intestine,J51..11,J51..11,Diverticular disease
+Diverticular disease of the intestine,J510.00,J510.00,Diverticulosis
+Diverticular disease of the intestine,J510000,J510000,Diverticulosis of the duodenum
+Diverticular disease of the intestine,J510100,J510100,Diverticulosis of the jejunum
+Diverticular disease of the intestine,J510200,J510200,Diverticulosis of the ileum
+Diverticular disease of the intestine,J510300,J510300,Diverticulosis of the small intestine unspecified
+Diverticular disease of the intestine,J510400,J510400,Diverticulosis of the small intestine NOS
+Diverticular disease of the intestine,J510500,J510500,Diverticulosis of the colon
+Diverticular disease of the intestine,J510600,J510600,Diverticulosis of the large intestine unspecified
+Diverticular disease of the intestine,J510700,J510700,Diverticulosis of the large intestine NOS
+Diverticular disease of the intestine,J510800,J510800,Divertic dis/both sml+lge intestin without perfor or abscess
+Diverticular disease of the intestine,J510900,J510900,Bleeding diverticulosis
+Diverticular disease of the intestine,J510y00,J510y00,Diverticulosis unspecified
+Diverticular disease of the intestine,J510z00,J510z00,Diverticulosis NOS
+Diverticular disease of the intestine,J511.00,J511.00,Diverticulitis
+Diverticular disease of the intestine,J511000,J511000,Diverticulitis of the duodenum
+Diverticular disease of the intestine,J511100,J511100,Diverticulitis of the jejunum
+Diverticular disease of the intestine,J511200,J511200,Diverticulitis of the ileum
+Diverticular disease of the intestine,J511300,J511300,Diverticulitis of the small intestine unspecified
+Diverticular disease of the intestine,J511400,J511400,Diverticulitis of the small intestine NOS
+Diverticular disease of the intestine,J511500,J511500,Diverticulitis of the colon
+Diverticular disease of the intestine,J511600,J511600,Diverticulitis of the large intestine unspecified
+Diverticular disease of the intestine,J511700,J511700,Diverticulitis of the large intestine NOS
+Diverticular disease of the intestine,J511y00,J511y00,Diverticulitis unspecified
+Diverticular disease of the intestine,J511z00,J511z00,Diverticulitis NOS
+Diverticular disease of the intestine,J512.00,J512.00,Perforated diverticulum
+Diverticular disease of the intestine,J512000,J512000,Perforated diverticulum of duodenum
+Diverticular disease of the intestine,J512100,J512100,Perforated diverticulum of jejunum
+Diverticular disease of the intestine,J512200,J512200,Perforated diverticulum of ileum
+Diverticular disease of the intestine,J512300,J512300,Perforated diverticulum of small intestine unspecified
+Diverticular disease of the intestine,J512400,J512400,Perforated diverticulum of small intestine NOS
+Diverticular disease of the intestine,J512500,J512500,Perforated diverticulum of colon
+Diverticular disease of the intestine,J512600,J512600,Perforated diverticulum of large intestine unspecified
+Diverticular disease of the intestine,J512700,J512700,Perforated diverticulum of large intestine NOS
+Diverticular disease of the intestine,J512800,J512800,Divertic disease/both sml+lge intestin with perforat+abscess
+Diverticular disease of the intestine,J512y00,J512y00,Perforated diverticulum unspecified
+Diverticular disease of the intestine,J512z00,J512z00,Perforated diverticulum of intestine NOS
+Diverticular disease of the intestine,J513.00,J513.00,Diverticular abscess
+Diverticular disease of the intestine,J51z.00,J51z.00,Diverticula of the intestine NOS

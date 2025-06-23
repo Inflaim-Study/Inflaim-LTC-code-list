@@ -1,147 +1,124 @@
 Condition,ReadCode,CleansedReadCode,Term
-Arthrosis,,,OA - Osteoarthritis of ankle
-Arthrosis,,,Osteoarthritis - ankle/foot
-Arthrosis,,,Osteoarthritis - elbow joint
-Arthrosis,,,Osteoarthritis - hand joint
-Arthrosis,,,Osteoarthritis - hip joint
-Arthrosis,,,Osteoarthritis - knee joint
-Arthrosis,,,Osteoarthritis - other joint
-Arthrosis,,,Osteoarthritis - wrist joint
-Arthrosis,,,Osteoarthritis -multiple joint
-Arthrosis,,,Osteoarthritis -shoulder joint
-Arthrosis,,,Osteoarthritis of finger joint
-Arthrosis,,,Osteoarthritis of knee
-Arthrosis,,,[RFC] Osteoarthritis
-Arthrosis,,,"localised, primary osteoarthritis of the lower leg"
-Arthrosis,,,"osteoarthritis nos, of elbow"
-Arthrosis,,,"osteoarthritis nos, of hip"
-Arthrosis,,,"osteoarthritis nos, of knee"
-Arthrosis,,,"osteoarthritis nos, of shoulder region"
-Arthrosis,,,"osteoarthritis nos, of the lower leg"
-Arthrosis,,,"osteoarthritis nos, of wrist"
-Arthrosis,,,"osteoarthritis nos, other specified site"
-Arthrosis,,,osteoarthritis of spinal facet joint
-Arthrosis,,,primary generalized osteoarthrosis
-Arthrosis,2G26.00,,O/E - hands - Heberden's nodes
-Arthrosis,7P20400,,Delivery of rehabilitation for osteoarthritis
-Arthrosis,N05..00,,Osteoarthritis and allied disorders
-Arthrosis,N05..11,,Osteoarthritis
-Arthrosis,N050.00,,Generalised osteoarthritis - OA
-Arthrosis,N050000,,Generalised osteoarthritis of unspecified site
-Arthrosis,N050100,,Generalised osteoarthritis of the hand
-Arthrosis,N050111,,Heberdens' nodes
-Arthrosis,N050112,,Bouchards' nodes
-Arthrosis,N050200,,Generalised osteoarthritis of multiple sites
-Arthrosis,N050300,,Bouchard's nodes with arthropathy
-Arthrosis,N050400,,Primary generalized osteoarthrosis
-Arthrosis,N050500,,Secondary multiple arthrosis
-Arthrosis,N050600,,Erosive osteoarthrosis
-Arthrosis,N050700,,Heberden's nodes with arthropathy
-Arthrosis,N050z00,,Generalised osteoarthritis NOS
-Arthrosis,N051.00,,"Localised, primary osteoarthritis"
-Arthrosis,N051000,,"Localised, primary osteoarthritis of unspecified site"
-Arthrosis,N051100,,"Localised, primary osteoarthritis of the shoulder region"
-Arthrosis,N051200,,"Localised, primary osteoarthritis of the upper arm"
-Arthrosis,N051300,,"Localised, primary osteoarthritis of the forearm"
-Arthrosis,N051400,,"Localised, primary osteoarthritis of the hand"
-Arthrosis,N051500,,"Localised, primary osteoarthritis of the lower leg"
-Arthrosis,N051500,,"Localised, primary osteoarthritis of the pelvic region/thigh"
-Arthrosis,N051700,,"Localised, primary osteoarthritis of the ankle and foot"
-Arthrosis,N051800,,"Localised, primary osteoarthritis of other specified site"
-Arthrosis,N051900,,"Primary coxarthrosis, bilateral"
-Arthrosis,N051A00,,"Coxarthrosis resulting from dysplasia, bilateral"
-Arthrosis,N051B00,,"Primary gonarthrosis, bilateral"
-Arthrosis,N051C00,,"Primary arthrosis of first carpometacarpal joints, bilateral"
-Arthrosis,N051D00,,"Localised, primary osteoarthritis of the wrist"
-Arthrosis,N051E00,,"Localised, primary osteoarthritis of toe"
-Arthrosis,N051F00,,"Localised, primary osteoarthritis of elbow"
-Arthrosis,N051G00,,Osteoarthritis of spinal facet joint
-Arthrosis,N051z00,,"Localised, primary osteoarthritis NOS"
-Arthrosis,N052.00,,"Localised, secondary osteoarthritis"
-Arthrosis,N052000,,"Localised, secondary osteoarthritis of unspecified site"
-Arthrosis,N052100,,"Localised, secondary osteoarthritis of the shoulder region"
-Arthrosis,N052200,,"Localised, secondary osteoarthritis of the upper arm"
-Arthrosis,N052300,,"Localised, secondary osteoarthritis of the forearm"
-Arthrosis,N052400,,"Localised, secondary osteoarthritis of the hand"
-Arthrosis,N052500,,"Localised, secondary osteoarthritis of pelvic region/thigh"
-Arthrosis,N052511,,Coxae malum senilis
-Arthrosis,N052600,,"Localised, secondary osteoarthritis of the lower leg"
-Arthrosis,N052700,,"Localised, secondary osteoarthritis of the ankle and foot"
-Arthrosis,N052800,,"Localised, secondary osteoarthritis of other specified site"
-Arthrosis,N052z00,,"Localised, secondary osteoarthritis NOS"
-Arthrosis,N053.00,,"Localised osteoarthritis, unspecified"
-Arthrosis,N053000,,"Localised osteoarthritis, unspecified, of unspecified site"
-Arthrosis,N053100,,"Localised osteoarthritis, unspecified, of shoulder region"
-Arthrosis,N053200,,"Localised osteoarthritis, unspecified, of the upper arm"
-Arthrosis,N053300,,"Localised osteoarthritis, unspecified, of the forearm"
-Arthrosis,N053400,,"Localised osteoarthritis, unspecified, of the hand"
-Arthrosis,N053500,,"Localised osteoarthritis, unspecified, pelvic region/thigh"
-Arthrosis,N053512,,Hip osteoarthitis NOS
-Arthrosis,N053600,,"Localised osteoarthritis, unspecified, of the lower leg"
-Arthrosis,N053611,,Patellofemoral osteoarthritis
-Arthrosis,N053700,,"Localised osteoarthritis, unspecified, of the ankle and foot"
-Arthrosis,N053800,,"Localised osteoarthritis, unspecified, of other spec site"
-Arthrosis,N053900,,"Arthrosis of first carpometacarpal joint, unspecified"
-Arthrosis,N053z00,,"Localised osteoarthritis, unspecified, NOS"
-Arthrosis,N054.00,,"Oligoarticular osteoarthritis, unspecified"
-Arthrosis,N054000,,"Oligoarticular osteoarthritis, unspec, of unspecified sites"
-Arthrosis,N054100,,"Oligoarticular osteoarthritis, unspecified, of shoulder"
-Arthrosis,N054200,,"Oligoarticular osteoarthritis, unspecified, of upper arm"
-Arthrosis,N054400,,"Oligoarticular osteoarthritis, unspecified, of hand"
-Arthrosis,N054500,,"Oligoarticular osteoarthritis, unspecified, of pelvis/thigh"
-Arthrosis,N054600,,"Oligoarticular osteoarthritis, unspecified, of lower leg"
-Arthrosis,N054700,,"Oligoarticular osteoarthritis, unspecified, of ankle/foot"
-Arthrosis,N054800,,"Oligoarticular osteoarthritis, unspecified, other spec sites"
-Arthrosis,N054900,,"Oligoarticular osteoarthritis, unspecified, multiple sites"
-Arthrosis,N054z00,,"Osteoarthritis of more than one site, unspecified, NOS"
-Arthrosis,N05z.00,,Osteoarthritis NOS
-Arthrosis,N05z.11,,Joint degeneration
-Arthrosis,N05z000,,"Osteoarthritis NOS, of unspecified site"
-Arthrosis,N05z100,,"Osteoarthritis NOS, of shoulder region"
-Arthrosis,N05z400,,"Osteoarthritis NOS, of the hand"
-Arthrosis,N05z411,,Finger osteoarthritis NOS
-Arthrosis,N05z412,,Thumb osteoarthritis NOS
-Arthrosis,N05z500,,"Osteoarthritis NOS, pelvic region/thigh"
-Arthrosis,N05z511,,Hip osteoarthritis NOS
-Arthrosis,N05z600,,"Osteoarthritis NOS, of the lower leg"
-Arthrosis,N05z611,,Knee osteoarthritis NOS
-Arthrosis,N05z700,,"Osteoarthritis NOS, of ankle and foot"
-Arthrosis,N05z711,,Ankle osteoarthritis NOS
-Arthrosis,N05z712,,Foot osteoarthritis NOS
-Arthrosis,N05z713,,Toe osteoarthritis NOS
-Arthrosis,N05z800,,"Osteoarthritis NOS, other specified site"
-Arthrosis,N05z900,,"Osteoarthritis NOS, of shoulder"
-Arthrosis,N05zA00,,"Osteoarthritis NOS, of sternoclavicular joint"
-Arthrosis,N05zB00,,"Osteoarthritis NOS, of acromioclavicular joint"
-Arthrosis,N05zC00,,"Osteoarthritis NOS, of elbow"
-Arthrosis,N05zD00,,"Osteoarthritis NOS, of distal radio-ulnar joint"
-Arthrosis,N05zE00,,"Osteoarthritis NOS, of wrist"
-Arthrosis,N05zF00,,"Osteoarthritis NOS, of MCP joint"
-Arthrosis,N05zG00,,"Osteoarthritis NOS, of PIP joint of finger"
-Arthrosis,N05zH00,,"Osteoarthritis NOS, of DIP joint of finger"
-Arthrosis,N05zJ00,,"Osteoarthritis NOS, of hip"
-Arthrosis,N05zK00,,"Osteoarthritis NOS, of sacro-iliac joint"
-Arthrosis,N05zL00,,"Osteoarthritis NOS, of knee"
-Arthrosis,N05zM00,,"Osteoarthritis NOS, of tibio-fibular joint"
-Arthrosis,N05zN00,,"Osteoarthritis NOS, of ankle"
-Arthrosis,N05zP00,,"Osteoarthritis NOS, of subtalar joint"
-Arthrosis,N05zQ00,,"Osteoarthritis NOS, of talonavicular joint"
-Arthrosis,N05zR00,,"Osteoarthritis NOS, of other tarsal joint"
-Arthrosis,N05zS00,,"Osteoarthritis NOS, of 1st MTP joint"
-Arthrosis,N05zT00,,"Osteoarthritis NOS, of lesser MTP joint"
-Arthrosis,N05zU00,,"Osteoarthritis NOS, of IP joint of toe"
-Arthrosis,N05zz00,,Osteoarthritis NOS
-Arthrosis,Nyu2.00,,[X]Arthrosis
-Arthrosis,Nyu2000,,[X]Other polyarthrosis
-Arthrosis,Nyu2100,,[X]Other primary coxarthrosis
-Arthrosis,Nyu2200,,[X]Other dysplastic coxarthrosis
-Arthrosis,Nyu2400,,"[X]Other secondary coxarthrosis, bilateral"
-Arthrosis,Nyu2500,,[X]Other primary gonarthrosis
-Arthrosis,Nyu2511,,[X] Unilateral primary gonarthrosis
-Arthrosis,Nyu2700,,"[X]Other secondary gonarthrosis, bilateral"
-Arthrosis,Nyu2800,,[X]Other secondary gonarthrosis
-Arthrosis,Nyu2811,,[X] Unilateral secondary gonarthrosis
-Arthrosis,Nyu2900,,[X]Other primary arthrosis of first carpometacarpal joint
-Arthrosis,Nyu2D00,,[X]Other specified arthrosis
-Arthrosis,Nyu2E00,,[X]Other secondary coxarthrosis
-Arthrosis,Nyu2E11,,[X] Unilateral secondary coxarthrosis
+Arthrosis,2G26.00,2G26.00,O/E - hands - Heberden's nodes
+Arthrosis,7P20400,7P20400,Delivery of rehabilitation for osteoarthritis
+Arthrosis,N05..00,N05..00,Osteoarthritis and allied disorders
+Arthrosis,N05..11,N05..11,Osteoarthritis
+Arthrosis,N050.00,N050.00,Generalised osteoarthritis - OA
+Arthrosis,N050000,N050000,Generalised osteoarthritis of unspecified site
+Arthrosis,N050100,N050100,Generalised osteoarthritis of the hand
+Arthrosis,N050111,N050111,Heberdens' nodes
+Arthrosis,N050112,N050112,Bouchards' nodes
+Arthrosis,N050200,N050200,Generalised osteoarthritis of multiple sites
+Arthrosis,N050300,N050300,Bouchard's nodes with arthropathy
+Arthrosis,N050400,N050400,Primary generalized osteoarthrosis
+Arthrosis,N050500,N050500,Secondary multiple arthrosis
+Arthrosis,N050600,N050600,Erosive osteoarthrosis
+Arthrosis,N050700,N050700,Heberden's nodes with arthropathy
+Arthrosis,N050z00,N050z00,Generalised osteoarthritis NOS
+Arthrosis,N051.00,N051.00,"Localised, primary osteoarthritis"
+Arthrosis,N051000,N051000,"Localised, primary osteoarthritis of unspecified site"
+Arthrosis,N051100,N051100,"Localised, primary osteoarthritis of the shoulder region"
+Arthrosis,N051200,N051200,"Localised, primary osteoarthritis of the upper arm"
+Arthrosis,N051300,N051300,"Localised, primary osteoarthritis of the forearm"
+Arthrosis,N051400,N051400,"Localised, primary osteoarthritis of the hand"
+Arthrosis,N051500,N051500,"Localised, primary osteoarthritis of the lower leg"
+Arthrosis,N051500,N051500,"Localised, primary osteoarthritis of the pelvic region/thigh"
+Arthrosis,N051700,N051700,"Localised, primary osteoarthritis of the ankle and foot"
+Arthrosis,N051800,N051800,"Localised, primary osteoarthritis of other specified site"
+Arthrosis,N051900,N051900,"Primary coxarthrosis, bilateral"
+Arthrosis,N051A00,N051A00,"Coxarthrosis resulting from dysplasia, bilateral"
+Arthrosis,N051B00,N051B00,"Primary gonarthrosis, bilateral"
+Arthrosis,N051C00,N051C00,"Primary arthrosis of first carpometacarpal joints, bilateral"
+Arthrosis,N051D00,N051D00,"Localised, primary osteoarthritis of the wrist"
+Arthrosis,N051E00,N051E00,"Localised, primary osteoarthritis of toe"
+Arthrosis,N051F00,N051F00,"Localised, primary osteoarthritis of elbow"
+Arthrosis,N051G00,N051G00,Osteoarthritis of spinal facet joint
+Arthrosis,N051z00,N051z00,"Localised, primary osteoarthritis NOS"
+Arthrosis,N052.00,N052.00,"Localised, secondary osteoarthritis"
+Arthrosis,N052000,N052000,"Localised, secondary osteoarthritis of unspecified site"
+Arthrosis,N052100,N052100,"Localised, secondary osteoarthritis of the shoulder region"
+Arthrosis,N052200,N052200,"Localised, secondary osteoarthritis of the upper arm"
+Arthrosis,N052300,N052300,"Localised, secondary osteoarthritis of the forearm"
+Arthrosis,N052400,N052400,"Localised, secondary osteoarthritis of the hand"
+Arthrosis,N052500,N052500,"Localised, secondary osteoarthritis of pelvic region/thigh"
+Arthrosis,N052511,N052511,Coxae malum senilis
+Arthrosis,N052600,N052600,"Localised, secondary osteoarthritis of the lower leg"
+Arthrosis,N052700,N052700,"Localised, secondary osteoarthritis of the ankle and foot"
+Arthrosis,N052800,N052800,"Localised, secondary osteoarthritis of other specified site"
+Arthrosis,N052z00,N052z00,"Localised, secondary osteoarthritis NOS"
+Arthrosis,N053.00,N053.00,"Localised osteoarthritis, unspecified"
+Arthrosis,N053000,N053000,"Localised osteoarthritis, unspecified, of unspecified site"
+Arthrosis,N053100,N053100,"Localised osteoarthritis, unspecified, of shoulder region"
+Arthrosis,N053200,N053200,"Localised osteoarthritis, unspecified, of the upper arm"
+Arthrosis,N053300,N053300,"Localised osteoarthritis, unspecified, of the forearm"
+Arthrosis,N053400,N053400,"Localised osteoarthritis, unspecified, of the hand"
+Arthrosis,N053500,N053500,"Localised osteoarthritis, unspecified, pelvic region/thigh"
+Arthrosis,N053512,N053512,Hip osteoarthitis NOS
+Arthrosis,N053600,N053600,"Localised osteoarthritis, unspecified, of the lower leg"
+Arthrosis,N053611,N053611,Patellofemoral osteoarthritis
+Arthrosis,N053700,N053700,"Localised osteoarthritis, unspecified, of the ankle and foot"
+Arthrosis,N053800,N053800,"Localised osteoarthritis, unspecified, of other spec site"
+Arthrosis,N053900,N053900,"Arthrosis of first carpometacarpal joint, unspecified"
+Arthrosis,N053z00,N053z00,"Localised osteoarthritis, unspecified, NOS"
+Arthrosis,N054.00,N054.00,"Oligoarticular osteoarthritis, unspecified"
+Arthrosis,N054000,N054000,"Oligoarticular osteoarthritis, unspec, of unspecified sites"
+Arthrosis,N054100,N054100,"Oligoarticular osteoarthritis, unspecified, of shoulder"
+Arthrosis,N054200,N054200,"Oligoarticular osteoarthritis, unspecified, of upper arm"
+Arthrosis,N054400,N054400,"Oligoarticular osteoarthritis, unspecified, of hand"
+Arthrosis,N054500,N054500,"Oligoarticular osteoarthritis, unspecified, of pelvis/thigh"
+Arthrosis,N054600,N054600,"Oligoarticular osteoarthritis, unspecified, of lower leg"
+Arthrosis,N054700,N054700,"Oligoarticular osteoarthritis, unspecified, of ankle/foot"
+Arthrosis,N054800,N054800,"Oligoarticular osteoarthritis, unspecified, other spec sites"
+Arthrosis,N054900,N054900,"Oligoarticular osteoarthritis, unspecified, multiple sites"
+Arthrosis,N054z00,N054z00,"Osteoarthritis of more than one site, unspecified, NOS"
+Arthrosis,N05z.00,N05z.00,Osteoarthritis NOS
+Arthrosis,N05z.11,N05z.11,Joint degeneration
+Arthrosis,N05z000,N05z000,"Osteoarthritis NOS, of unspecified site"
+Arthrosis,N05z100,N05z100,"Osteoarthritis NOS, of shoulder region"
+Arthrosis,N05z400,N05z400,"Osteoarthritis NOS, of the hand"
+Arthrosis,N05z411,N05z411,Finger osteoarthritis NOS
+Arthrosis,N05z412,N05z412,Thumb osteoarthritis NOS
+Arthrosis,N05z500,N05z500,"Osteoarthritis NOS, pelvic region/thigh"
+Arthrosis,N05z511,N05z511,Hip osteoarthritis NOS
+Arthrosis,N05z600,N05z600,"Osteoarthritis NOS, of the lower leg"
+Arthrosis,N05z611,N05z611,Knee osteoarthritis NOS
+Arthrosis,N05z700,N05z700,"Osteoarthritis NOS, of ankle and foot"
+Arthrosis,N05z711,N05z711,Ankle osteoarthritis NOS
+Arthrosis,N05z712,N05z712,Foot osteoarthritis NOS
+Arthrosis,N05z713,N05z713,Toe osteoarthritis NOS
+Arthrosis,N05z800,N05z800,"Osteoarthritis NOS, other specified site"
+Arthrosis,N05z900,N05z900,"Osteoarthritis NOS, of shoulder"
+Arthrosis,N05zA00,N05zA00,"Osteoarthritis NOS, of sternoclavicular joint"
+Arthrosis,N05zB00,N05zB00,"Osteoarthritis NOS, of acromioclavicular joint"
+Arthrosis,N05zC00,N05zC00,"Osteoarthritis NOS, of elbow"
+Arthrosis,N05zD00,N05zD00,"Osteoarthritis NOS, of distal radio-ulnar joint"
+Arthrosis,N05zE00,N05zE00,"Osteoarthritis NOS, of wrist"
+Arthrosis,N05zF00,N05zF00,"Osteoarthritis NOS, of MCP joint"
+Arthrosis,N05zG00,N05zG00,"Osteoarthritis NOS, of PIP joint of finger"
+Arthrosis,N05zH00,N05zH00,"Osteoarthritis NOS, of DIP joint of finger"
+Arthrosis,N05zJ00,N05zJ00,"Osteoarthritis NOS, of hip"
+Arthrosis,N05zK00,N05zK00,"Osteoarthritis NOS, of sacro-iliac joint"
+Arthrosis,N05zL00,N05zL00,"Osteoarthritis NOS, of knee"
+Arthrosis,N05zM00,N05zM00,"Osteoarthritis NOS, of tibio-fibular joint"
+Arthrosis,N05zN00,N05zN00,"Osteoarthritis NOS, of ankle"
+Arthrosis,N05zP00,N05zP00,"Osteoarthritis NOS, of subtalar joint"
+Arthrosis,N05zQ00,N05zQ00,"Osteoarthritis NOS, of talonavicular joint"
+Arthrosis,N05zR00,N05zR00,"Osteoarthritis NOS, of other tarsal joint"
+Arthrosis,N05zS00,N05zS00,"Osteoarthritis NOS, of 1st MTP joint"
+Arthrosis,N05zT00,N05zT00,"Osteoarthritis NOS, of lesser MTP joint"
+Arthrosis,N05zU00,N05zU00,"Osteoarthritis NOS, of IP joint of toe"
+Arthrosis,N05zz00,N05zz00,Osteoarthritis NOS
+Arthrosis,Nyu2.00,Nyu2.00,[X]Arthrosis
+Arthrosis,Nyu2000,Nyu2000,[X]Other polyarthrosis
+Arthrosis,Nyu2100,Nyu2100,[X]Other primary coxarthrosis
+Arthrosis,Nyu2200,Nyu2200,[X]Other dysplastic coxarthrosis
+Arthrosis,Nyu2400,Nyu2400,"[X]Other secondary coxarthrosis, bilateral"
+Arthrosis,Nyu2500,Nyu2500,[X]Other primary gonarthrosis
+Arthrosis,Nyu2511,Nyu2511,[X] Unilateral primary gonarthrosis
+Arthrosis,Nyu2700,Nyu2700,"[X]Other secondary gonarthrosis, bilateral"
+Arthrosis,Nyu2800,Nyu2800,[X]Other secondary gonarthrosis
+Arthrosis,Nyu2811,Nyu2811,[X] Unilateral secondary gonarthrosis
+Arthrosis,Nyu2900,Nyu2900,[X]Other primary arthrosis of first carpometacarpal joint
+Arthrosis,Nyu2D00,Nyu2D00,[X]Other specified arthrosis
+Arthrosis,Nyu2E00,Nyu2E00,[X]Other secondary coxarthrosis
+Arthrosis,Nyu2E11,Nyu2E11,[X] Unilateral secondary coxarthrosis

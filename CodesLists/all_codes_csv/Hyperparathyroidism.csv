@@ -1,4 +1,4 @@
-Condition,MedCode,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
+Condition,MedCodeId,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
 Hyperparathyroidism,60663012,36348003,60663012,C1200,C120000,Primary hyperparathyroidism
 Hyperparathyroidism,129770011,78200003,129770011,C1202,C120200,Tertiary hyperparathyroidism
 Hyperparathyroidism,140466019,84727000,140466019,C1201-1,C120111,Osteitis fibrosa cystica

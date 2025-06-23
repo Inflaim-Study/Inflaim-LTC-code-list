@@ -1,19 +1,19 @@
-Condition,MedCode,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
+Condition,MedCodeId,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
 Arthrosis,5140621000006112,239874001,359422017,,,OA - Osteoarthritis of ankle
-Arthrosis,889931000006113,396275006,889931000006113,,,Osteoarthritis - ankle/foot
-Arthrosis,889881000006119,396275006,889881000006119,,,Osteoarthritis - elbow joint
-Arthrosis,889901000006117,396275006,889901000006117,,,Osteoarthritis - hand joint
-Arthrosis,889911000006119,396275006,889911000006119,,,Osteoarthritis - hip joint
-Arthrosis,889921000006110,637091000000105,889921000006110,,,Osteoarthritis - knee joint
-Arthrosis,889941000006115,666451000000100,889941000006115,,,Osteoarthritis - other joint
-Arthrosis,889891000006116,396275006,889891000006116,,,Osteoarthritis - wrist joint
-Arthrosis,889861000006112,201819000,889861000006112,,,Osteoarthritis -multiple joint
-Arthrosis,889871000006117,666441000000103,889871000006117,,,Osteoarthritis -shoulder joint
+Arthrosis,889931000006113,396275006,889931000006113,,N05z799,Osteoarthritis - ankle/foot
+Arthrosis,889881000006119,396275006,889881000006119,,N05z299,Osteoarthritis - elbow joint
+Arthrosis,889901000006117,396275006,889901000006117,,N05z499,Osteoarthritis - hand joint
+Arthrosis,889911000006119,396275006,889911000006119,,N05z599,Osteoarthritis - hip joint
+Arthrosis,889921000006110,637091000000105,889921000006110,,N05z699,Osteoarthritis - knee joint
+Arthrosis,889941000006115,666451000000100,889941000006115,,N05z899,Osteoarthritis - other joint
+Arthrosis,889891000006116,396275006,889891000006116,,N05z399,Osteoarthritis - wrist joint
+Arthrosis,889861000006112,201819000,889861000006112,,N050299,Osteoarthritis -multiple joint
+Arthrosis,889871000006117,666441000000103,889871000006117,,N05z199,Osteoarthritis -shoulder joint
 Arthrosis,5140431000006112,239868001,359414012,,,Osteoarthritis of finger joint
 Arthrosis,359420013,239873007,1954201000006110,,,Osteoarthritis of knee
 Arthrosis,905311000006112,905311000006108,905311000006112,,,[RFC] Osteoarthritis
 Arthrosis,909181000006117,909181000006101,909181000006117,,,[RFC] Osteoarthritis
-Arthrosis,309896011,201829007,309881012,,,"localised, primary osteoarthritis of the lower leg"
+Arthrosis,309896011,201829007,309881012,,N051600,"localised, primary osteoarthritis of the lower leg"
 Arthrosis,12732531000006116,576511000000100,1280421000000111,,,"osteoarthritis nos, of elbow"
 Arthrosis,12719521000006116,587231000000100,1302611000000114,,,"osteoarthritis nos, of hip"
 Arthrosis,12725011000006110,667531000000106,1464991000000114,,,"osteoarthritis nos, of knee"
@@ -23,126 +23,126 @@ Arthrosis,12729761000006114,653461000000100,1436531000000119,,,"osteoarthritis n
 Arthrosis,12724861000006116,666451000000100,1462821000000110,,,"osteoarthritis nos, other specified site"
 Arthrosis,1839121000006116,239863005,1839121000006116,,,osteoarthritis of spinal facet joint
 Arthrosis,5140281000006114,239862000,359399017,,,primary generalized osteoarthrosis
-Arthrosis,255924016,164455009,255924016,2G26.00,,O/E - hands - Heberden's nodes
-Arthrosis,370721000000116,230771000000108,370721000000116,7P20400,,Delivery of rehabilitation for osteoarthritis
-Arthrosis,41261000006115,396275006,1776248011,N05..00,,Osteoarthritis and allied disorders
-Arthrosis,1776248011,396275006,1776248011,N05..11,,Osteoarthritis
-Arthrosis,800731000006117,201819000,309860012,N050.00,,Generalised osteoarthritis - OA
-Arthrosis,309862016,201819000,309858010,N050000,,Generalised osteoarthritis of unspecified site
-Arthrosis,400175010,267889007,400175010,N050100,,Generalised osteoarthritis of the hand
-Arthrosis,819391000006114,371598009,1210227011,N050111,,Heberdens' nodes
-Arthrosis,523471000006111,20243008,480522017,N050112,,Bouchards' nodes
-Arthrosis,800751000006112,201819000,309854012,N050200,,Generalised osteoarthritis of multiple sites
-Arthrosis,523461000006116,20243008,480522017,N050300,,Bouchard's nodes with arthropathy
-Arthrosis,359399017,239862000,359394010,N050400,,Primary generalized osteoarthrosis
-Arthrosis,309876015,201825001,309876015,N050500,,Secondary multiple arthrosis
-Arthrosis,309877012,201826000,309877012,N050600,,Erosive osteoarthrosis
-Arthrosis,309878019,201827009,309878019,N050700,,Heberden's nodes with arthropathy
-Arthrosis,309880013,201819000,309860012,N050z00,,Generalised osteoarthritis NOS
-Arthrosis,309881012,201829007,309881012,N051.00,,"Localised, primary osteoarthritis"
-Arthrosis,309884016,201829007,309881012,N051000,,"Localised, primary osteoarthritis of unspecified site"
-Arthrosis,309885015,201831003,309885015,N051100,,"Localised, primary osteoarthritis of the shoulder region"
-Arthrosis,309888018,313259008,457122015,N051200,,"Localised, primary osteoarthritis of the upper arm"
-Arthrosis,309889014,313257005,457118013,N051300,,"Localised, primary osteoarthritis of the forearm"
-Arthrosis,309892013,201834006,309892013,N051400,,"Localised, primary osteoarthritis of the hand"
-Arthrosis,736911000006116,201835007,309893015,N051500,,"Localised, primary osteoarthritis of the lower leg"
-Arthrosis,736911000006116,201835007,309893015,N051500,,"Localised, primary osteoarthritis of the pelvic region/thigh"
-Arthrosis,309898012,201837004,309898012,N051700,,"Localised, primary osteoarthritis of the ankle and foot"
-Arthrosis,309899016,201829007,309881012,N051800,,"Localised, primary osteoarthritis of other specified site"
-Arthrosis,309901013,201839001,309901013,N051900,,"Primary coxarthrosis, bilateral"
-Arthrosis,309902018,201840004,309902018,N051A00,,"Coxarthrosis resulting from dysplasia, bilateral"
-Arthrosis,309903011,201841000,309903011,N051B00,,"Primary gonarthrosis, bilateral"
-Arthrosis,309904017,201842007,309904017,N051C00,,"Primary arthrosis of first carpometacarpal joints, bilateral"
-Arthrosis,457118013,313257005,457118013,N051D00,,"Localised, primary osteoarthritis of the wrist"
-Arthrosis,457121010,313258000,457121010,N051E00,,"Localised, primary osteoarthritis of toe"
-Arthrosis,457122015,313259008,457122015,N051F00,,"Localised, primary osteoarthritis of elbow"
-Arthrosis,359402016,239863005,359402016,N051G00,,Osteoarthritis of spinal facet joint
-Arthrosis,309911018,201829007,309881012,N051z00,,"Localised, primary osteoarthritis NOS"
-Arthrosis,309914014,201847001,309914014,N052.00,,"Localised, secondary osteoarthritis"
-Arthrosis,309915010,201847001,309913015,N052000,,"Localised, secondary osteoarthritis of unspecified site"
-Arthrosis,309918012,201849003,309918012,N052100,,"Localised, secondary osteoarthritis of the shoulder region"
-Arthrosis,309919016,201847001,309913015,N052200,,"Localised, secondary osteoarthritis of the upper arm"
-Arthrosis,309922019,201847001,309913015,N052300,,"Localised, secondary osteoarthritis of the forearm"
-Arthrosis,309923012,201852006,309923012,N052400,,"Localised, secondary osteoarthritis of the hand"
-Arthrosis,736171000006110,267890003,400176011,N052500,,"Localised, secondary osteoarthritis of pelvic region/thigh"
-Arthrosis,91728013,55176002,91728013,N052511,,Coxae malum senilis
-Arthrosis,309930018,201847001,309913015,N052600,,"Localised, secondary osteoarthritis of the lower leg"
-Arthrosis,309933016,201855008,309933016,N052700,,"Localised, secondary osteoarthritis of the ankle and foot"
-Arthrosis,309934010,201847001,309913015,N052800,,"Localised, secondary osteoarthritis of other specified site"
-Arthrosis,309941016,201847001,309914014,N052z00,,"Localised, secondary osteoarthritis NOS"
-Arthrosis,309942011,33952002,485689019,N053.00,,"Localised osteoarthritis, unspecified"
-Arthrosis,309945013,33952002,56680019,N053000,,"Localised osteoarthritis, unspecified, of unspecified site"
-Arthrosis,736711000006119,67315001,111849010,N053100,,"Localised osteoarthritis, unspecified, of shoulder region"
-Arthrosis,309949019,33952002,56680019,N053200,,"Localised osteoarthritis, unspecified, of the upper arm"
-Arthrosis,309950019,43270005,72194019,N053300,,"Localised osteoarthritis, unspecified, of the forearm"
-Arthrosis,309953017,22193007,37256012,N053400,,"Localised osteoarthritis, unspecified, of the hand"
-Arthrosis,736781000006114,267891004,400178012,N053500,,"Localised osteoarthritis, unspecified, pelvic region/thigh"
-Arthrosis,823951000006111,239872002,359419019,N053512,,Hip osteoarthitis NOS
-Arthrosis,400181019,33952002,56680019,N053600,,"Localised osteoarthritis, unspecified, of the lower leg"
-Arthrosis,240071000006115,450521003,2915470018,N053611,,Patellofemoral osteoarthritis
-Arthrosis,309965018,201837004,1476420018,N053700,,"Localised osteoarthritis, unspecified, of the ankle and foot"
-Arthrosis,736701000006117,33952002,56680019,N053800,,"Localised osteoarthritis, unspecified, of other spec site"
-Arthrosis,309969012,37895003,63223018,N053900,,"Arthrosis of first carpometacarpal joint, unspecified"
-Arthrosis,309971012,33952002,56680019,N053z00,,"Localised osteoarthritis, unspecified, NOS"
-Arthrosis,309972017,268054009,2692892014,N054.00,,"Oligoarticular osteoarthritis, unspecified"
-Arthrosis,265841000006115,268054009,2692892014,N054000,,"Oligoarticular osteoarthritis, unspec, of unspecified sites"
-Arthrosis,264481000006111,396275006,1776248011,N054100,,"Oligoarticular osteoarthritis, unspecified, of shoulder"
-Arthrosis,309975015,396275006,1776248011,N054200,,"Oligoarticular osteoarthritis, unspecified, of upper arm"
-Arthrosis,309977011,22193007,37256012,N054400,,"Oligoarticular osteoarthritis, unspecified, of hand"
-Arthrosis,264471000006113,396275006,1776248011,N054500,,"Oligoarticular osteoarthritis, unspecified, of pelvis/thigh"
-Arthrosis,309979014,396275006,1776248011,N054600,,"Oligoarticular osteoarthritis, unspecified, of lower leg"
-Arthrosis,265871000006111,396275006,1776248011,N054700,,"Oligoarticular osteoarthritis, unspecified, of ankle/foot"
-Arthrosis,264501000006118,396275006,1776248011,N054800,,"Oligoarticular osteoarthritis, unspecified, other spec sites"
-Arthrosis,265861000006116,268054009,2692892014,N054900,,"Oligoarticular osteoarthritis, unspecified, multiple sites"
-Arthrosis,309983014,268054009,2692892014,N054z00,,"Osteoarthritis of more than one site, unspecified, NOS"
-Arthrosis,41281000006113,396275006,1776248011,N05z.00,,Osteoarthritis NOS
-Arthrosis,757071000006113,396275006,1776248011,N05z.11,,Joint degeneration
-Arthrosis,309987010,396275006,1776248011,N05z000,,"Osteoarthritis NOS, of unspecified site"
-Arthrosis,309988017,67315001,111849010,N05z100,,"Osteoarthritis NOS, of shoulder region"
-Arthrosis,400185011,22193007,37256012,N05z400,,"Osteoarthritis NOS, of the hand"
-Arthrosis,359389010,239868001,2920945011,N05z411,,Finger osteoarthritis NOS
-Arthrosis,359388019,37895003,63223018,N05z412,,Thumb osteoarthritis NOS
-Arthrosis,400186012,445478004,2871421010,N05z500,,"Osteoarthritis NOS, pelvic region/thigh"
-Arthrosis,221511000000115,239872002,359419019,N05z511,,Hip osteoarthritis NOS
-Arthrosis,400187015,396275006,1776248011,N05z600,,"Osteoarthritis NOS, of the lower leg"
-Arthrosis,221521000000114,239873007,359420013,N05z611,,Knee osteoarthritis NOS
-Arthrosis,400188013,201837004,1476420018,N05z700,,"Osteoarthritis NOS, of ankle and foot"
-Arthrosis,359385016,239874001,359423010,N05z711,,Ankle osteoarthritis NOS
-Arthrosis,359384017,309246000,452614016,N05z712,,Foot osteoarthritis NOS
-Arthrosis,359383011,239878003,359429014,N05z713,,Toe osteoarthritis NOS
-Arthrosis,310010015,396275006,1776248011,N05z800,,"Osteoarthritis NOS, other specified site"
-Arthrosis,310011016,67315001,1232920019,N05z900,,"Osteoarthritis NOS, of shoulder"
-Arthrosis,310012011,850791000000102,2204391000000112,N05zA00,,"Osteoarthritis NOS, of sternoclavicular joint"
-Arthrosis,310013018,239865003,359408017,N05zB00,,"Osteoarthritis NOS, of acromioclavicular joint"
-Arthrosis,310014012,239866002,359409013,N05zC00,,"Osteoarthritis NOS, of elbow"
-Arthrosis,31041000006113,396275006,1776248011,N05zD00,,"Osteoarthritis NOS, of distal radio-ulnar joint"
-Arthrosis,310016014,239867006,359412011,N05zE00,,"Osteoarthritis NOS, of wrist"
-Arthrosis,31101000006110,275324008,411290018,N05zF00,,"Osteoarthritis NOS, of MCP joint"
-Arthrosis,18051000006110,239870005,359416014,N05zG00,,"Osteoarthritis NOS, of PIP joint of finger"
-Arthrosis,31031000006115,239869009,359415013,N05zH00,,"Osteoarthritis NOS, of DIP joint of finger"
-Arthrosis,310020013,239872002,359419019,N05zJ00,,"Osteoarthritis NOS, of hip"
-Arthrosis,18061000006112,55146009,91681011,N05zK00,,"Osteoarthritis NOS, of sacro-iliac joint"
-Arthrosis,310024016,239873007,359420013,N05zL00,,"Osteoarthritis NOS, of knee"
-Arthrosis,18121000006117,396275006,1776248011,N05zM00,,"Osteoarthritis NOS, of tibio-fibular joint"
-Arthrosis,310026019,239874001,359423010,N05zN00,,"Osteoarthritis NOS, of ankle"
-Arthrosis,310027011,239876004,359426019,N05zP00,,"Osteoarthritis NOS, of subtalar joint"
-Arthrosis,310028018,700324005,2989803011,N05zQ00,,"Osteoarthritis NOS, of talonavicular joint"
-Arthrosis,310029014,396275006,1776248011,N05zR00,,"Osteoarthritis NOS, of other tarsal joint"
-Arthrosis,41301000006112,239877008,2983768015,N05zS00,,"Osteoarthritis NOS, of 1st MTP joint"
-Arthrosis,31091000006116,239878003,359429014,N05zT00,,"Osteoarthritis NOS, of lesser MTP joint"
-Arthrosis,31071000006117,239878003,359429014,N05zU00,,"Osteoarthritis NOS, of IP joint of toe"
-Arthrosis,400182014,396275006,1776248011,N05zz00,,Osteoarthritis NOS
-Arthrosis,312535012,399269003,1778721018,Nyu2.00,,[X]Arthrosis
-Arthrosis,312536013,36186002,60385010,Nyu2000,,[X]Other polyarthrosis
-Arthrosis,312537016,399269003,1778721018,Nyu2100,,[X]Other primary coxarthrosis
-Arthrosis,312538014,399269003,1778721018,Nyu2200,,[X]Other dysplastic coxarthrosis
-Arthrosis,312540016,399269003,1778721018,Nyu2400,,"[X]Other secondary coxarthrosis, bilateral"
-Arthrosis,400355013,239873007,359420013,Nyu2500,,[X]Other primary gonarthrosis
-Arthrosis,359211000006118,239873007,359420013,Nyu2511,,[X] Unilateral primary gonarthrosis
-Arthrosis,312545014,399269003,1778721018,Nyu2700,,"[X]Other secondary gonarthrosis, bilateral"
-Arthrosis,400356014,399269003,1778721018,Nyu2800,,[X]Other secondary gonarthrosis
-Arthrosis,359231000006112,399269003,1778721018,Nyu2811,,[X] Unilateral secondary gonarthrosis
-Arthrosis,312549015,399269003,1778721018,Nyu2900,,[X]Other primary arthrosis of first carpometacarpal joint
-Arthrosis,312553018,399269003,1786778011,Nyu2D00,,[X]Other specified arthrosis
-Arthrosis,400357017,399269003,1778721018,Nyu2E00,,[X]Other secondary coxarthrosis
-Arthrosis,359221000006114,399269003,1778721018,Nyu2E11,,[X] Unilateral secondary coxarthrosis
+Arthrosis,255924016,164455009,255924016,2G26.00,2G26.00,O/E - hands - Heberden's nodes
+Arthrosis,370721000000116,230771000000108,370721000000116,7P20400,7P20400,Delivery of rehabilitation for osteoarthritis
+Arthrosis,41261000006115,396275006,1776248011,N05..00,N05..00,Osteoarthritis and allied disorders
+Arthrosis,1776248011,396275006,1776248011,N05..11,N05..11,Osteoarthritis
+Arthrosis,800731000006117,201819000,309860012,N050.00,N050.00,Generalised osteoarthritis - OA
+Arthrosis,309862016,201819000,309858010,N050000,N050000,Generalised osteoarthritis of unspecified site
+Arthrosis,400175010,267889007,400175010,N050100,N050100,Generalised osteoarthritis of the hand
+Arthrosis,819391000006114,371598009,1210227011,N050111,N050111,Heberdens' nodes
+Arthrosis,523471000006111,20243008,480522017,N050112,N050112,Bouchards' nodes
+Arthrosis,800751000006112,201819000,309854012,N050200,N050200,Generalised osteoarthritis of multiple sites
+Arthrosis,523461000006116,20243008,480522017,N050300,N050300,Bouchard's nodes with arthropathy
+Arthrosis,359399017,239862000,359394010,N050400,N050400,Primary generalized osteoarthrosis
+Arthrosis,309876015,201825001,309876015,N050500,N050500,Secondary multiple arthrosis
+Arthrosis,309877012,201826000,309877012,N050600,N050600,Erosive osteoarthrosis
+Arthrosis,309878019,201827009,309878019,N050700,N050700,Heberden's nodes with arthropathy
+Arthrosis,309880013,201819000,309860012,N050z00,N050z00,Generalised osteoarthritis NOS
+Arthrosis,309881012,201829007,309881012,N051.00,N051.00,"Localised, primary osteoarthritis"
+Arthrosis,309884016,201829007,309881012,N051000,N051000,"Localised, primary osteoarthritis of unspecified site"
+Arthrosis,309885015,201831003,309885015,N051100,N051100,"Localised, primary osteoarthritis of the shoulder region"
+Arthrosis,309888018,313259008,457122015,N051200,N051200,"Localised, primary osteoarthritis of the upper arm"
+Arthrosis,309889014,313257005,457118013,N051300,N051300,"Localised, primary osteoarthritis of the forearm"
+Arthrosis,309892013,201834006,309892013,N051400,N051400,"Localised, primary osteoarthritis of the hand"
+Arthrosis,736911000006116,201835007,309893015,N051500,N051500,"Localised, primary osteoarthritis of the lower leg"
+Arthrosis,736911000006116,201835007,309893015,N051500,N051500,"Localised, primary osteoarthritis of the pelvic region/thigh"
+Arthrosis,309898012,201837004,309898012,N051700,N051700,"Localised, primary osteoarthritis of the ankle and foot"
+Arthrosis,309899016,201829007,309881012,N051800,N051800,"Localised, primary osteoarthritis of other specified site"
+Arthrosis,309901013,201839001,309901013,N051900,N051900,"Primary coxarthrosis, bilateral"
+Arthrosis,309902018,201840004,309902018,N051A00,N051A00,"Coxarthrosis resulting from dysplasia, bilateral"
+Arthrosis,309903011,201841000,309903011,N051B00,N051B00,"Primary gonarthrosis, bilateral"
+Arthrosis,309904017,201842007,309904017,N051C00,N051C00,"Primary arthrosis of first carpometacarpal joints, bilateral"
+Arthrosis,457118013,313257005,457118013,N051D00,N051D00,"Localised, primary osteoarthritis of the wrist"
+Arthrosis,457121010,313258000,457121010,N051E00,N051E00,"Localised, primary osteoarthritis of toe"
+Arthrosis,457122015,313259008,457122015,N051F00,N051F00,"Localised, primary osteoarthritis of elbow"
+Arthrosis,359402016,239863005,359402016,N051G00,N051G00,Osteoarthritis of spinal facet joint
+Arthrosis,309911018,201829007,309881012,N051z00,N051z00,"Localised, primary osteoarthritis NOS"
+Arthrosis,309914014,201847001,309914014,N052.00,N052.00,"Localised, secondary osteoarthritis"
+Arthrosis,309915010,201847001,309913015,N052000,N052000,"Localised, secondary osteoarthritis of unspecified site"
+Arthrosis,309918012,201849003,309918012,N052100,N052100,"Localised, secondary osteoarthritis of the shoulder region"
+Arthrosis,309919016,201847001,309913015,N052200,N052200,"Localised, secondary osteoarthritis of the upper arm"
+Arthrosis,309922019,201847001,309913015,N052300,N052300,"Localised, secondary osteoarthritis of the forearm"
+Arthrosis,309923012,201852006,309923012,N052400,N052400,"Localised, secondary osteoarthritis of the hand"
+Arthrosis,736171000006110,267890003,400176011,N052500,N052500,"Localised, secondary osteoarthritis of pelvic region/thigh"
+Arthrosis,91728013,55176002,91728013,N052511,N052511,Coxae malum senilis
+Arthrosis,309930018,201847001,309913015,N052600,N052600,"Localised, secondary osteoarthritis of the lower leg"
+Arthrosis,309933016,201855008,309933016,N052700,N052700,"Localised, secondary osteoarthritis of the ankle and foot"
+Arthrosis,309934010,201847001,309913015,N052800,N052800,"Localised, secondary osteoarthritis of other specified site"
+Arthrosis,309941016,201847001,309914014,N052z00,N052z00,"Localised, secondary osteoarthritis NOS"
+Arthrosis,309942011,33952002,485689019,N053.00,N053.00,"Localised osteoarthritis, unspecified"
+Arthrosis,309945013,33952002,56680019,N053000,N053000,"Localised osteoarthritis, unspecified, of unspecified site"
+Arthrosis,736711000006119,67315001,111849010,N053100,N053100,"Localised osteoarthritis, unspecified, of shoulder region"
+Arthrosis,309949019,33952002,56680019,N053200,N053200,"Localised osteoarthritis, unspecified, of the upper arm"
+Arthrosis,309950019,43270005,72194019,N053300,N053300,"Localised osteoarthritis, unspecified, of the forearm"
+Arthrosis,309953017,22193007,37256012,N053400,N053400,"Localised osteoarthritis, unspecified, of the hand"
+Arthrosis,736781000006114,267891004,400178012,N053500,N053500,"Localised osteoarthritis, unspecified, pelvic region/thigh"
+Arthrosis,823951000006111,239872002,359419019,N053512,N053512,Hip osteoarthitis NOS
+Arthrosis,400181019,33952002,56680019,N053600,N053600,"Localised osteoarthritis, unspecified, of the lower leg"
+Arthrosis,240071000006115,450521003,2915470018,N053611,N053611,Patellofemoral osteoarthritis
+Arthrosis,309965018,201837004,1476420018,N053700,N053700,"Localised osteoarthritis, unspecified, of the ankle and foot"
+Arthrosis,736701000006117,33952002,56680019,N053800,N053800,"Localised osteoarthritis, unspecified, of other spec site"
+Arthrosis,309969012,37895003,63223018,N053900,N053900,"Arthrosis of first carpometacarpal joint, unspecified"
+Arthrosis,309971012,33952002,56680019,N053z00,N053z00,"Localised osteoarthritis, unspecified, NOS"
+Arthrosis,309972017,268054009,2692892014,N054.00,N054.00,"Oligoarticular osteoarthritis, unspecified"
+Arthrosis,265841000006115,268054009,2692892014,N054000,N054000,"Oligoarticular osteoarthritis, unspec, of unspecified sites"
+Arthrosis,264481000006111,396275006,1776248011,N054100,N054100,"Oligoarticular osteoarthritis, unspecified, of shoulder"
+Arthrosis,309975015,396275006,1776248011,N054200,N054200,"Oligoarticular osteoarthritis, unspecified, of upper arm"
+Arthrosis,309977011,22193007,37256012,N054400,N054400,"Oligoarticular osteoarthritis, unspecified, of hand"
+Arthrosis,264471000006113,396275006,1776248011,N054500,N054500,"Oligoarticular osteoarthritis, unspecified, of pelvis/thigh"
+Arthrosis,309979014,396275006,1776248011,N054600,N054600,"Oligoarticular osteoarthritis, unspecified, of lower leg"
+Arthrosis,265871000006111,396275006,1776248011,N054700,N054700,"Oligoarticular osteoarthritis, unspecified, of ankle/foot"
+Arthrosis,264501000006118,396275006,1776248011,N054800,N054800,"Oligoarticular osteoarthritis, unspecified, other spec sites"
+Arthrosis,265861000006116,268054009,2692892014,N054900,N054900,"Oligoarticular osteoarthritis, unspecified, multiple sites"
+Arthrosis,309983014,268054009,2692892014,N054z00,N054z00,"Osteoarthritis of more than one site, unspecified, NOS"
+Arthrosis,41281000006113,396275006,1776248011,N05z.00,N05z.00,Osteoarthritis NOS
+Arthrosis,757071000006113,396275006,1776248011,N05z.11,N05z.11,Joint degeneration
+Arthrosis,309987010,396275006,1776248011,N05z000,N05z000,"Osteoarthritis NOS, of unspecified site"
+Arthrosis,309988017,67315001,111849010,N05z100,N05z100,"Osteoarthritis NOS, of shoulder region"
+Arthrosis,400185011,22193007,37256012,N05z400,N05z400,"Osteoarthritis NOS, of the hand"
+Arthrosis,359389010,239868001,2920945011,N05z411,N05z411,Finger osteoarthritis NOS
+Arthrosis,359388019,37895003,63223018,N05z412,N05z412,Thumb osteoarthritis NOS
+Arthrosis,400186012,445478004,2871421010,N05z500,N05z500,"Osteoarthritis NOS, pelvic region/thigh"
+Arthrosis,221511000000115,239872002,359419019,N05z511,N05z511,Hip osteoarthritis NOS
+Arthrosis,400187015,396275006,1776248011,N05z600,N05z600,"Osteoarthritis NOS, of the lower leg"
+Arthrosis,221521000000114,239873007,359420013,N05z611,N05z611,Knee osteoarthritis NOS
+Arthrosis,400188013,201837004,1476420018,N05z700,N05z700,"Osteoarthritis NOS, of ankle and foot"
+Arthrosis,359385016,239874001,359423010,N05z711,N05z711,Ankle osteoarthritis NOS
+Arthrosis,359384017,309246000,452614016,N05z712,N05z712,Foot osteoarthritis NOS
+Arthrosis,359383011,239878003,359429014,N05z713,N05z713,Toe osteoarthritis NOS
+Arthrosis,310010015,396275006,1776248011,N05z800,N05z800,"Osteoarthritis NOS, other specified site"
+Arthrosis,310011016,67315001,1232920019,N05z900,N05z900,"Osteoarthritis NOS, of shoulder"
+Arthrosis,310012011,850791000000102,2204391000000112,N05zA00,N05zA00,"Osteoarthritis NOS, of sternoclavicular joint"
+Arthrosis,310013018,239865003,359408017,N05zB00,N05zB00,"Osteoarthritis NOS, of acromioclavicular joint"
+Arthrosis,310014012,239866002,359409013,N05zC00,N05zC00,"Osteoarthritis NOS, of elbow"
+Arthrosis,31041000006113,396275006,1776248011,N05zD00,N05zD00,"Osteoarthritis NOS, of distal radio-ulnar joint"
+Arthrosis,310016014,239867006,359412011,N05zE00,N05zE00,"Osteoarthritis NOS, of wrist"
+Arthrosis,31101000006110,275324008,411290018,N05zF00,N05zF00,"Osteoarthritis NOS, of MCP joint"
+Arthrosis,18051000006110,239870005,359416014,N05zG00,N05zG00,"Osteoarthritis NOS, of PIP joint of finger"
+Arthrosis,31031000006115,239869009,359415013,N05zH00,N05zH00,"Osteoarthritis NOS, of DIP joint of finger"
+Arthrosis,310020013,239872002,359419019,N05zJ00,N05zJ00,"Osteoarthritis NOS, of hip"
+Arthrosis,18061000006112,55146009,91681011,N05zK00,N05zK00,"Osteoarthritis NOS, of sacro-iliac joint"
+Arthrosis,310024016,239873007,359420013,N05zL00,N05zL00,"Osteoarthritis NOS, of knee"
+Arthrosis,18121000006117,396275006,1776248011,N05zM00,N05zM00,"Osteoarthritis NOS, of tibio-fibular joint"
+Arthrosis,310026019,239874001,359423010,N05zN00,N05zN00,"Osteoarthritis NOS, of ankle"
+Arthrosis,310027011,239876004,359426019,N05zP00,N05zP00,"Osteoarthritis NOS, of subtalar joint"
+Arthrosis,310028018,700324005,2989803011,N05zQ00,N05zQ00,"Osteoarthritis NOS, of talonavicular joint"
+Arthrosis,310029014,396275006,1776248011,N05zR00,N05zR00,"Osteoarthritis NOS, of other tarsal joint"
+Arthrosis,41301000006112,239877008,2983768015,N05zS00,N05zS00,"Osteoarthritis NOS, of 1st MTP joint"
+Arthrosis,31091000006116,239878003,359429014,N05zT00,N05zT00,"Osteoarthritis NOS, of lesser MTP joint"
+Arthrosis,31071000006117,239878003,359429014,N05zU00,N05zU00,"Osteoarthritis NOS, of IP joint of toe"
+Arthrosis,400182014,396275006,1776248011,N05zz00,N05zz00,Osteoarthritis NOS
+Arthrosis,312535012,399269003,1778721018,Nyu2.00,Nyu2.00,[X]Arthrosis
+Arthrosis,312536013,36186002,60385010,Nyu2000,Nyu2000,[X]Other polyarthrosis
+Arthrosis,312537016,399269003,1778721018,Nyu2100,Nyu2100,[X]Other primary coxarthrosis
+Arthrosis,312538014,399269003,1778721018,Nyu2200,Nyu2200,[X]Other dysplastic coxarthrosis
+Arthrosis,312540016,399269003,1778721018,Nyu2400,Nyu2400,"[X]Other secondary coxarthrosis, bilateral"
+Arthrosis,400355013,239873007,359420013,Nyu2500,Nyu2500,[X]Other primary gonarthrosis
+Arthrosis,359211000006118,239873007,359420013,Nyu2511,Nyu2511,[X] Unilateral primary gonarthrosis
+Arthrosis,312545014,399269003,1778721018,Nyu2700,Nyu2700,"[X]Other secondary gonarthrosis, bilateral"
+Arthrosis,400356014,399269003,1778721018,Nyu2800,Nyu2800,[X]Other secondary gonarthrosis
+Arthrosis,359231000006112,399269003,1778721018,Nyu2811,Nyu2811,[X] Unilateral secondary gonarthrosis
+Arthrosis,312549015,399269003,1778721018,Nyu2900,Nyu2900,[X]Other primary arthrosis of first carpometacarpal joint
+Arthrosis,312553018,399269003,1786778011,Nyu2D00,Nyu2D00,[X]Other specified arthrosis
+Arthrosis,400357017,399269003,1778721018,Nyu2E00,Nyu2E00,[X]Other secondary coxarthrosis
+Arthrosis,359221000006114,399269003,1778721018,Nyu2E11,Nyu2E11,[X] Unilateral secondary coxarthrosis

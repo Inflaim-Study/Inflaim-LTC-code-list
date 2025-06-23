@@ -1,8 +1,8 @@
-Condition,MedCode,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
-Irritable Bowel Sydrome,886361000006114,10743008,886361000006114,,,Irritable bowel - IBS
+Condition,MedCodeId,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
+Irritable Bowel Sydrome,886361000006114,10743008,886361000006114,,J521.99,Irritable bowel - IBS
 Irritable Bowel Sydrome,906181000006110,906181000006106,906181000006110,,,[RFC] Irritable bowel syndrome (IBS)
 Irritable Bowel Sydrome,2129721000000119,817511000000108,2129721000000119,8Cm..00,,Management of irritable bowel syndrome
-Irritable Bowel Sydrome,742351000006119,10743008,18666015,J521.00,,Irritable colon - Irritable bowel syndrome
-Irritable Bowel Sydrome,18666015,10743008,18666015,J521.11,,Irritable bowel syndrome
-Irritable Bowel Sydrome,18665016,10743008,18665016,J521.13,,Spastic colon
-Irritable Bowel Sydrome,303172010,197125005,303172010,J521000,,Irritable bowel syndrome with diarrhoea
+Irritable Bowel Sydrome,742351000006119,10743008,18666015,J521.00,J521.00,Irritable colon - Irritable bowel syndrome
+Irritable Bowel Sydrome,18666015,10743008,18666015,J521.11,J521.11,Irritable bowel syndrome
+Irritable Bowel Sydrome,18665016,10743008,18665016,J521.13,J521.13,Spastic colon
+Irritable Bowel Sydrome,303172010,197125005,303172010,J521000,J521000,Irritable bowel syndrome with diarrhoea

@@ -1,9 +1,9 @@
 Condition,ReadCode,CleansedReadCode,Term
-Sleep disorders,Fy03.00,,Sleep apnoea
-Sleep disorders,Fy03.11,,Obstructive sleep apnoea
-Sleep disorders,H5B..00,,Sleep apnoea
-Sleep disorders,H5B0.00,,Obstructive sleep apnoea
-Sleep disorders,R005100,,[D]Insomnia with sleep apnoea
-Sleep disorders,R005300,,[D]Hypersomnia with sleep apnoea
-Sleep disorders,R005311,,[D]Sleep apnoea syndrome
-Sleep disorders,R005312,,[D]Syndrome sleep apnoea
+Sleep disorders,Fy03.00,Fy03.00,Sleep apnoea
+Sleep disorders,Fy03.11,Fy03.11,Obstructive sleep apnoea
+Sleep disorders,H5B..00,H5B..00,Sleep apnoea
+Sleep disorders,H5B0.00,H5B0.00,Obstructive sleep apnoea
+Sleep disorders,R005100,R005100,[D]Insomnia with sleep apnoea
+Sleep disorders,R005300,R005300,[D]Hypersomnia with sleep apnoea
+Sleep disorders,R005311,R005311,[D]Sleep apnoea syndrome
+Sleep disorders,R005312,R005312,[D]Syndrome sleep apnoea

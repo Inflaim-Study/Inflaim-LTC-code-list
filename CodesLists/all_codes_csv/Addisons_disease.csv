@@ -1,42 +1,42 @@
-Condition,MedCode,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
+Condition,MedCodeId,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
 Addison's disease,266381013,172021003,266381013,71220,7122000,Bilateral adrenalectomy and transposition of adrenal tissue
 Addison's disease,266382018,302340005,443963019,71221,7122100,Bilateral adrenalectomy
-Addison's disease,286325014,186270000,286325014,^ESCTAD474131,,Tuberculosis of adrenal glands - Addison's disease
+Addison's disease,286325014,186270000,286325014,^ESCTAD474131,A176.00,Tuberculosis of adrenal glands - Addison's disease
 Addison's disease,286325014,186270000,286325014,A176,A176.00,Tuberculosis of adrenal glands - Addison's disease
-Addison's disease,286325014,186270000,286325014,^ESCTTU474132,,Tuberculosis of adrenal glands - Addison's disease
-Addison's disease,286325014,186270000,286325014,^ESCTTU474129,,Tuberculosis of adrenal glands - Addison's disease
-Addison's disease,1491626013,386584007,1491626013,C154z,C154z00,Corticoadrenal insufficiency
-Addison's disease,1491626013,386584007,1491626013,C154z-2,C154z12,Corticoadrenal insufficiency
-Addison's disease,1491626013,386584007,1491626013,^ESCTHY645770,,Corticoadrenal insufficiency
-Addison's disease,1491626013,386584007,1491626013,^ESCTAD645769,,Corticoadrenal insufficiency
-Addison's disease,1491626013,386584007,1491626013,^ESCTAD645768,,Corticoadrenal insufficiency
+Addison's disease,286325014,186270000,286325014,^ESCTTU474132,A176.00,Tuberculosis of adrenal glands - Addison's disease
+Addison's disease,286325014,186270000,286325014,^ESCTTU474129,A176.00,Tuberculosis of adrenal glands - Addison's disease
+Addison's disease,1491626013,386584007,1491626013,C154z,C154.00,Corticoadrenal insufficiency
+Addison's disease,1491626013,386584007,1491626013,C154z-2,C154.00,Corticoadrenal insufficiency
+Addison's disease,1491626013,386584007,1491626013,^ESCTHY645770,C154.00,Corticoadrenal insufficiency
+Addison's disease,1491626013,386584007,1491626013,^ESCTAD645769,C154.00,Corticoadrenal insufficiency
+Addison's disease,1491626013,386584007,1491626013,^ESCTAD645768,C154.00,Corticoadrenal insufficiency
 Addison's disease,1491626013,386584007,1491626013,C154,C154.00,Corticoadrenal insufficiency
 Addison's disease,485624014,363732003,485624014,C1541,C154100,Addison's disease
-Addison's disease,485624014,363732003,485624014,^ESCTAD625037,,Addison's disease
+Addison's disease,485624014,363732003,485624014,^ESCTAD625037,C154100,Addison's disease
 Addison's disease,398809019,386584007,1480726013,C154z,C154z00,Corticoadrenal insufficiency NOS
-Addison's disease,398809019,386584007,1480726013,C154z-2,C154z12,Corticoadrenal insufficiency NOS
-Addison's disease,398809019,386584007,1480726013,^ESCTHY645770,,Corticoadrenal insufficiency NOS
-Addison's disease,398809019,386584007,1480726013,^ESCTAD645769,,Corticoadrenal insufficiency NOS
-Addison's disease,398809019,386584007,1480726013,^ESCTAD645768,,Corticoadrenal insufficiency NOS
-Addison's disease,398809019,386584007,1480726013,C154,C154.00,Corticoadrenal insufficiency NOS
+Addison's disease,398809019,386584007,1480726013,C154z-2,C154z00,Corticoadrenal insufficiency NOS
+Addison's disease,398809019,386584007,1480726013,^ESCTHY645770,C154z00,Corticoadrenal insufficiency NOS
+Addison's disease,398809019,386584007,1480726013,^ESCTAD645769,C154z00,Corticoadrenal insufficiency NOS
+Addison's disease,398809019,386584007,1480726013,^ESCTAD645768,C154z00,Corticoadrenal insufficiency NOS
+Addison's disease,398809019,386584007,1480726013,C154,C154z00,Corticoadrenal insufficiency NOS
 Addison's disease,178805019,237785004,3506672018,C154z-1,C154z11,Adrenal hypofunction
-Addison's disease,178805019,237785004,3506672018,C155,C155.00,Adrenal hypofunction
-Addison's disease,178805019,237785004,3506672018,C155z,C155z00,Adrenal hypofunction
-Addison's disease,178805019,237785004,3506672018,^ESCTHY511239,,Adrenal hypofunction
-Addison's disease,356317017,386584007,1491625012,C154z,C154z00,Adrenal insufficiency
+Addison's disease,178805019,237785004,3506672018,C155,C154z11,Adrenal hypofunction
+Addison's disease,178805019,237785004,3506672018,C155z,C154z11,Adrenal hypofunction
+Addison's disease,178805019,237785004,3506672018,^ESCTHY511239,C154z11,Adrenal hypofunction
+Addison's disease,356317017,386584007,1491625012,C154z,C154z12,Adrenal insufficiency
 Addison's disease,356317017,386584007,1491625012,C154z-2,C154z12,Adrenal insufficiency
-Addison's disease,356317017,386584007,1491625012,^ESCTHY645770,,Adrenal insufficiency
-Addison's disease,356317017,386584007,1491625012,^ESCTAD645769,,Adrenal insufficiency
-Addison's disease,356317017,386584007,1491625012,^ESCTAD645768,,Adrenal insufficiency
-Addison's disease,356317017,386584007,1491625012,C154,C154.00,Adrenal insufficiency
-Addison's disease,292837019,237785004,356349017,C154z-1,C154z11,Hypoadrenalism
+Addison's disease,356317017,386584007,1491625012,^ESCTHY645770,C154z12,Adrenal insufficiency
+Addison's disease,356317017,386584007,1491625012,^ESCTAD645769,C154z12,Adrenal insufficiency
+Addison's disease,356317017,386584007,1491625012,^ESCTAD645768,C154z12,Adrenal insufficiency
+Addison's disease,356317017,386584007,1491625012,C154,C154z12,Adrenal insufficiency
+Addison's disease,292837019,237785004,356349017,C154z-1,C155.00,Hypoadrenalism
 Addison's disease,292837019,237785004,356349017,C155,C155.00,Hypoadrenalism
-Addison's disease,292837019,237785004,356349017,C155z,C155z00,Hypoadrenalism
-Addison's disease,292837019,237785004,356349017,^ESCTHY511239,,Hypoadrenalism
-Addison's disease,292838012,237785004,356349017,C154z-1,C154z11,Other adrenal hypofunction NOS
-Addison's disease,292838012,237785004,356349017,C155,C155.00,Other adrenal hypofunction NOS
+Addison's disease,292837019,237785004,356349017,C155z,C155.00,Hypoadrenalism
+Addison's disease,292837019,237785004,356349017,^ESCTHY511239,C155.00,Hypoadrenalism
+Addison's disease,292838012,237785004,356349017,C154z-1,C155z00,Other adrenal hypofunction NOS
+Addison's disease,292838012,237785004,356349017,C155,C155z00,Other adrenal hypofunction NOS
 Addison's disease,292838012,237785004,356349017,C155z,C155z00,Other adrenal hypofunction NOS
-Addison's disease,292838012,237785004,356349017,^ESCTHY511239,,Other adrenal hypofunction NOS
+Addison's disease,292838012,237785004,356349017,^ESCTHY511239,C155z00,Other adrenal hypofunction NOS
 Addison's disease,682621000006119,34253008,57198011,F3950,F395000,Myopathy due to Addison's disease
-Addison's disease,682621000006119,34253008,57198011,^ESCTMY305155,,Myopathy due to Addison's disease
-Addison's disease,682621000006119,34253008,57198011,^ESCTMY305156,,Myopathy due to Addison's disease
+Addison's disease,682621000006119,34253008,57198011,^ESCTMY305155,F395000,Myopathy due to Addison's disease
+Addison's disease,682621000006119,34253008,57198011,^ESCTMY305156,F395000,Myopathy due to Addison's disease

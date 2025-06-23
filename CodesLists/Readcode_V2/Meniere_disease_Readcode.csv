@@ -1,12 +1,10 @@
 Condition,ReadCode,CleansedReadCode,Term
-Meniere disease,,,lermoyez's syndrome
-Meniere disease,,,unspecified meniere's disease
-Meniere disease,F560.00,,Meniere's disease
-Meniere disease,F560.11,,Endolymphatic hydrops
-Meniere disease,F560.12,,Lermoyez's syndrome
-Meniere disease,F560000,,Unspecified Meniere's disease
-Meniere disease,F560100,,Active cochleovestibular Meniere's disease
-Meniere disease,F560200,,Active cochlear Meniere's disease
-Meniere disease,F560300,,Active vestibular Meniere's disease
-Meniere disease,F560400,,Inactive Meniere's disease
-Meniere disease,F560z00,,Meniere's disease NOS
+Meniere disease,F560.00,F560.00,Meniere's disease
+Meniere disease,F560.11,F560.11,Endolymphatic hydrops
+Meniere disease,F560.12,F560.12,Lermoyez's syndrome
+Meniere disease,F560000,F560000,Unspecified Meniere's disease
+Meniere disease,F560100,F560100,Active cochleovestibular Meniere's disease
+Meniere disease,F560200,F560200,Active cochlear Meniere's disease
+Meniere disease,F560300,F560300,Active vestibular Meniere's disease
+Meniere disease,F560400,F560400,Inactive Meniere's disease
+Meniere disease,F560z00,F560z00,Meniere's disease NOS

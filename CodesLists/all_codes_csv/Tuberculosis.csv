@@ -1,4 +1,4 @@
-Condition,MedCode,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
+Condition,MedCodeId,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
 Tuberculosis,7551011,4445009,1230097015,A16,A16..00,Tuberculosis of genitourinary system
 Tuberculosis,303573012,39621005,66448010,J65,J65..00,Other gallbladder disorders
 Tuberculosis,286297010,56717001,94320019,A17,A17..00,Tuberculosis of other organs

@@ -1,4 +1,4 @@
-Condition,MedCode,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
+Condition,MedCodeId,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
 "Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",203211000006115,9713002,16976011,K21,K21..00,Prostate inflammatory diseases
 "Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",53452019,31992008,53452019,G24,G24..00,Secondary hypertension
 "Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodeniti",1846941000006119,843821000000102,2189411000000111,G25,G25..00,Stage 1 hypertension (NICE - Nat Ins for Hth Clin Excl 2011)

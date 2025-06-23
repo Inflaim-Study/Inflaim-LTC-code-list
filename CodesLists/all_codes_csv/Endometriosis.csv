@@ -1,40 +1,40 @@
-Condition,MedCode,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
+Condition,MedCodeId,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
 Endometriosis,3545641000006112,64286001,106864016,,,endometriosis of the pouch of douglas
 Endometriosis,3742411000006119,76376003,126837014,,,internal endometriosis
-Endometriosis,2548653011,416155004,2548653011,7E0D800,,Laparoscopic laser destruction of endometriosis
-Endometriosis,317021000006116,128726006,207190013,BBL1.11,,[M]Stromal endometriosis
-Endometriosis,1784724014,129103003,1784724014,K50..00,,Endometriosis
-Endometriosis,126839012,76376003,126839012,K50..11,,Adenomyosis
-Endometriosis,126835018,76376003,126835018,K500.00,,Endometriosis of uterus
-Endometriosis,770611000006110,198247003,304789015,K500000,,Internal endometriosis
-Endometriosis,355411011,237115002,355411011,K500100,,Endometriosis of myometrium
-Endometriosis,461191000006115,237115002,355411011,K500111,,Adenomyosis of endometrium
-Endometriosis,102424012,61640006,102424012,K500200,,Endometriosis of cervix
-Endometriosis,304791011,76376003,126835018,K500z00,,Endometriosis of uterus NOS
-Endometriosis,396767017,266589005,396767017,K501.00,,Endometriosis of ovary
-Endometriosis,355412016,237116001,355412016,K501.11,,Chocolate cyst of ovary
-Endometriosis,642691000006110,22611009,37950010,K502.00,,Endometriosis of the fallopian tube
-Endometriosis,642741000006112,198251001,304795019,K503.00,,Endometriosis of the pelvic peritoneum
-Endometriosis,642671000006114,10535001,18314019,K503000,,Endometriosis of the broad ligament
-Endometriosis,106864016,64286001,1232545013,K503100,,Endometriosis of the pouch of Douglas
-Endometriosis,642731000006119,84305006,139827010,K503200,,Endometriosis of the parametrium
-Endometriosis,642811000006116,5327000,9929018,K503300,,Endometriosis of the round ligament
-Endometriosis,304796018,198251001,304795019,K503z00,,Endometriosis of the pelvic peritoneum NOS
-Endometriosis,642781000006118,52533003,87425018,K504.00,,Endometriosis of the rectovaginal septum and vagina
-Endometriosis,642771000006116,52533003,87425018,K504000,,Endometriosis of the rectovaginal septum
-Endometriosis,642831000006110,57493005,95606014,K504100,,Endometriosis of the vagina
-Endometriosis,304798017,52533003,87425018,K504z00,,Endometriosis of the rectovaginal septum and vagina NOS
-Endometriosis,642701000006110,5562006,10284014,K505.00,,Endometriosis of the intestine
-Endometriosis,642651000006116,8421002,14907015,K505000,,Endometriosis of the appendix
-Endometriosis,642681000006112,44601009,74408017,K505100,,Endometriosis of the colon
-Endometriosis,642801000006119,9563009,16732013,K505200,,Endometriosis of the rectum
-Endometriosis,304799013,5562006,10284014,K505z00,,Endometriosis of the intestine NOS
-Endometriosis,89618011,53913001,89618011,K506.00,,Endometriosis in scar of skin
-Endometriosis,304801011,129103003,1784724014,K50y.00,,Other endometriosis
-Endometriosis,642661000006119,65099004,108185013,K50y000,,Endometriosis of the bladder
-Endometriosis,642721000006117,50993001,84979012,K50y100,,Endometriosis of the lung
-Endometriosis,642821000006112,17829005,30125011,K50y200,,Endometriosis of the umbilicus
-Endometriosis,642841000006117,38780008,64543018,K50y300,,Endometriosis of the vulva
-Endometriosis,304802016,129103003,1784724014,K50yz00,,Other endometriosis NOS
-Endometriosis,304803014,129103003,1784724014,K50z.00,,Endometriosis NOS
-Endometriosis,305247015,129103003,1784724014,Kyu9000,,[X]Other endometriosis
+Endometriosis,2548653011,416155004,2548653011,7E0D800,7E0D800,Laparoscopic laser destruction of endometriosis
+Endometriosis,317021000006116,128726006,207190013,BBL1.11,BBL1.11,[M]Stromal endometriosis
+Endometriosis,1784724014,129103003,1784724014,K50..00,K50..00,Endometriosis
+Endometriosis,126839012,76376003,126839012,K50..11,K50..11,Adenomyosis
+Endometriosis,126835018,76376003,126835018,K500.00,K500.00,Endometriosis of uterus
+Endometriosis,770611000006110,198247003,304789015,K500000,K500000,Internal endometriosis
+Endometriosis,355411011,237115002,355411011,K500100,K500100,Endometriosis of myometrium
+Endometriosis,461191000006115,237115002,355411011,K500111,K500111,Adenomyosis of endometrium
+Endometriosis,102424012,61640006,102424012,K500200,K500200,Endometriosis of cervix
+Endometriosis,304791011,76376003,126835018,K500z00,K500z00,Endometriosis of uterus NOS
+Endometriosis,396767017,266589005,396767017,K501.00,K501.00,Endometriosis of ovary
+Endometriosis,355412016,237116001,355412016,K501.11,K501.11,Chocolate cyst of ovary
+Endometriosis,642691000006110,22611009,37950010,K502.00,K502.00,Endometriosis of the fallopian tube
+Endometriosis,642741000006112,198251001,304795019,K503.00,K503.00,Endometriosis of the pelvic peritoneum
+Endometriosis,642671000006114,10535001,18314019,K503000,K503000,Endometriosis of the broad ligament
+Endometriosis,106864016,64286001,1232545013,K503100,K503100,Endometriosis of the pouch of Douglas
+Endometriosis,642731000006119,84305006,139827010,K503200,K503200,Endometriosis of the parametrium
+Endometriosis,642811000006116,5327000,9929018,K503300,K503300,Endometriosis of the round ligament
+Endometriosis,304796018,198251001,304795019,K503z00,K503z00,Endometriosis of the pelvic peritoneum NOS
+Endometriosis,642781000006118,52533003,87425018,K504.00,K504.00,Endometriosis of the rectovaginal septum and vagina
+Endometriosis,642771000006116,52533003,87425018,K504000,K504000,Endometriosis of the rectovaginal septum
+Endometriosis,642831000006110,57493005,95606014,K504100,K504100,Endometriosis of the vagina
+Endometriosis,304798017,52533003,87425018,K504z00,K504z00,Endometriosis of the rectovaginal septum and vagina NOS
+Endometriosis,642701000006110,5562006,10284014,K505.00,K505.00,Endometriosis of the intestine
+Endometriosis,642651000006116,8421002,14907015,K505000,K505000,Endometriosis of the appendix
+Endometriosis,642681000006112,44601009,74408017,K505100,K505100,Endometriosis of the colon
+Endometriosis,642801000006119,9563009,16732013,K505200,K505200,Endometriosis of the rectum
+Endometriosis,304799013,5562006,10284014,K505z00,K505z00,Endometriosis of the intestine NOS
+Endometriosis,89618011,53913001,89618011,K506.00,K506.00,Endometriosis in scar of skin
+Endometriosis,304801011,129103003,1784724014,K50y.00,K50y.00,Other endometriosis
+Endometriosis,642661000006119,65099004,108185013,K50y000,K50y000,Endometriosis of the bladder
+Endometriosis,642721000006117,50993001,84979012,K50y100,K50y100,Endometriosis of the lung
+Endometriosis,642821000006112,17829005,30125011,K50y200,K50y200,Endometriosis of the umbilicus
+Endometriosis,642841000006117,38780008,64543018,K50y300,K50y300,Endometriosis of the vulva
+Endometriosis,304802016,129103003,1784724014,K50yz00,K50yz00,Other endometriosis NOS
+Endometriosis,304803014,129103003,1784724014,K50z.00,K50z.00,Endometriosis NOS
+Endometriosis,305247015,129103003,1784724014,Kyu9000,Kyu9000,[X]Other endometriosis

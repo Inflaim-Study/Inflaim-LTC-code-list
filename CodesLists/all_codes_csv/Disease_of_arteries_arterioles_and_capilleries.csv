@@ -1,746 +1,746 @@
-Condition,MedCode,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
+Condition,MedCodeId,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
 "Disease of arteries, arterioles and capilleries",251699010,161514008,251699010,14AE,14AE.00,H/O: aortic aneurysm
-"Disease of arteries, arterioles and capilleries",251699010,161514008,251699010,^ESCTHI454065,,H/O: aortic aneurysm
+"Disease of arteries, arterioles and capilleries",251699010,161514008,251699010,^ESCTHI454065,14AE.00,H/O: aortic aneurysm
 "Disease of arteries, arterioles and capilleries",1795071000000116,707265005,3029507018,66f3,66f3.00,Aortic aneurysm monitoring
 "Disease of arteries, arterioles and capilleries",639721000006114,123679006,192168019,7A134,7A13400,Emerg replace aneurysm abdom aorta by anast aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",639721000006114,123679006,192168019,^ESCTDI435459,,Emerg replace aneurysm abdom aorta by anast aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",639721000006114,123679006,192168019,^ESCTAR435458,,Emerg replace aneurysm abdom aorta by anast aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A47-4,7A47.14,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A47-3,7A47.13,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A47-2,7A47.12,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A47-5,7A47.15,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A47-1,7A47.11,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A142,7A14200,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",639721000006114,123679006,192168019,^ESCTDI435459,7A13400,Emerg replace aneurysm abdom aorta by anast aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",639721000006114,123679006,192168019,^ESCTAR435458,7A13400,Emerg replace aneurysm abdom aorta by anast aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A47-4,7A14000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A47-3,7A14000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A47-2,7A14000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A47-5,7A14000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A47-1,7A14000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A142,7A14000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
 "Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A140,7A14000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A409,7A40900,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A40D,7A40D00,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A40B,7A40B00,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A40C,7A40C00,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A141,7A14100,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A163,7A16300,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A162,7A16200,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A161,7A16100,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A419,7A41900,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A41A,7A41A00,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A41D,7A41D00,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A41B,7A41B00,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A150,7A15000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A414,7A41400,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A415,7A41500,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A416,7A41600,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A47D,7A47D00,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,^ESCTAR427147,,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,^ESCTCR427152,,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,^ESCTCR427149,,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,^ESCTCR427151,,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,^ESCTCR427148,,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A333,7A33300,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A40y,7A40y00,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A164,7A16400,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,^ESCTBY427150,,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A16,7A16.00,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A332,7A33200,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A41y,7A41y00,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A41z,7A41z00,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A330,7A33000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A331,7A33100,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A16y,7A16y00,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A16z,7A16z00,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A143,7A14300,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A40A,7A40A00,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A151,7A15100,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A40z,7A40z00,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A522,7A52200,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A523,7A52300,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A47z,7A47z00,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A160,7A16000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A47C,7A47C00,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A47-4,7A47.14,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A47-3,7A47.13,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A47-2,7A47.12,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A47-5,7A47.15,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A47-1,7A47.11,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A142,7A14200,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A140,7A14000,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A409,7A40900,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A40D,7A40D00,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A40B,7A40B00,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A40C,7A40C00,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A409,7A14000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A40D,7A14000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A40B,7A14000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A40C,7A14000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A141,7A14000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A163,7A14000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A162,7A14000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A161,7A14000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A419,7A14000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A41A,7A14000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A41D,7A14000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A41B,7A14000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A150,7A14000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A414,7A14000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A415,7A14000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A416,7A14000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A47D,7A14000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,^ESCTAR427147,7A14000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,^ESCTCR427152,7A14000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,^ESCTCR427149,7A14000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,^ESCTCR427151,7A14000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,^ESCTCR427148,7A14000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A333,7A14000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A40y,7A14000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A164,7A14000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,^ESCTBY427150,7A14000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A16,7A14000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A332,7A14000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A41y,7A14000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A41z,7A14000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A330,7A14000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A331,7A14000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A16y,7A14000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A16z,7A14000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A143,7A14000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A40A,7A14000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A151,7A14000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A40z,7A14000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A522,7A14000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A523,7A14000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A47z,7A14000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A160,7A14000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173451000006113,116360008,183983017,7A47C,7A14000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A47-4,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A47-3,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A47-2,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A47-5,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A47-1,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A142,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A140,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A409,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A40D,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A40B,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A40C,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
 "Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A141,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A163,7A16300,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A162,7A16200,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A161,7A16100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A419,7A41900,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A41A,7A41A00,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A41D,7A41D00,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A41B,7A41B00,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A150,7A15000,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A414,7A41400,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A415,7A41500,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A416,7A41600,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A47D,7A47D00,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,^ESCTAR427147,,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,^ESCTCR427152,,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,^ESCTCR427149,,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,^ESCTCR427151,,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,^ESCTCR427148,,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A333,7A33300,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A40y,7A40y00,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A164,7A16400,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,^ESCTBY427150,,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A16,7A16.00,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A332,7A33200,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A41y,7A41y00,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A41z,7A41z00,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A330,7A33000,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A331,7A33100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A16y,7A16y00,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A16z,7A16z00,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A143,7A14300,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A40A,7A40A00,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A151,7A15100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A40z,7A40z00,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A522,7A52200,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A523,7A52300,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A47z,7A47z00,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A160,7A16000,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A47C,7A47C00,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
-"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A47-4,7A47.14,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A47-3,7A47.13,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A47-2,7A47.12,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A47-5,7A47.15,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A47-1,7A47.11,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A163,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A162,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A161,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A419,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A41A,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A41D,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A41B,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A150,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A414,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A415,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A416,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A47D,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,^ESCTAR427147,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,^ESCTCR427152,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,^ESCTCR427149,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,^ESCTCR427151,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,^ESCTCR427148,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A333,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A40y,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A164,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,^ESCTBY427150,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A16,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A332,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A41y,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A41z,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A330,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A331,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A16y,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A16z,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A143,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A40A,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A151,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A40z,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A522,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A523,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A47z,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A160,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173651000006110,116360008,183983017,7A47C,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A47-4,7A14200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A47-3,7A14200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A47-2,7A14200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A47-5,7A14200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A47-1,7A14200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
 "Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A142,7A14200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A140,7A14000,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A409,7A40900,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A40D,7A40D00,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A40B,7A40B00,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A40C,7A40C00,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A141,7A14100,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A163,7A16300,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A162,7A16200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A161,7A16100,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A419,7A41900,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A41A,7A41A00,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A41D,7A41D00,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A41B,7A41B00,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A150,7A15000,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A414,7A41400,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A415,7A41500,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A416,7A41600,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A47D,7A47D00,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,^ESCTAR427147,,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,^ESCTCR427152,,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,^ESCTCR427149,,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,^ESCTCR427151,,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,^ESCTCR427148,,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A333,7A33300,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A40y,7A40y00,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A164,7A16400,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,^ESCTBY427150,,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A16,7A16.00,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A332,7A33200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A41y,7A41y00,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A41z,7A41z00,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A330,7A33000,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A331,7A33100,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A16y,7A16y00,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A16z,7A16z00,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A143,7A14300,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A40A,7A40A00,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A151,7A15100,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A40z,7A40z00,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A522,7A52200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A523,7A52300,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A47z,7A47z00,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A160,7A16000,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A47C,7A47C00,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A47-4,7A47.14,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A47-3,7A47.13,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A47-2,7A47.12,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A47-5,7A47.15,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A47-1,7A47.11,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A142,7A14200,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A140,7A14000,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A409,7A40900,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A40D,7A40D00,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A40B,7A40B00,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A40C,7A40C00,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A141,7A14100,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A163,7A16300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A162,7A16200,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A161,7A16100,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A419,7A41900,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A41A,7A41A00,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A41D,7A41D00,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A41B,7A41B00,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A150,7A15000,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A414,7A41400,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A415,7A41500,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A416,7A41600,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A47D,7A47D00,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,^ESCTAR427147,,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,^ESCTCR427152,,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,^ESCTCR427149,,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,^ESCTCR427151,,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,^ESCTCR427148,,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A333,7A33300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A40y,7A40y00,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A164,7A16400,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,^ESCTBY427150,,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A16,7A16.00,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A332,7A33200,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A41y,7A41y00,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A41z,7A41z00,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A330,7A33000,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A331,7A33100,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A16y,7A16y00,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A16z,7A16z00,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A140,7A14200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A409,7A14200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A40D,7A14200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A40B,7A14200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A40C,7A14200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A141,7A14200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A163,7A14200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A162,7A14200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A161,7A14200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A419,7A14200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A41A,7A14200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A41D,7A14200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A41B,7A14200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A150,7A14200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A414,7A14200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A415,7A14200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A416,7A14200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A47D,7A14200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,^ESCTAR427147,7A14200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,^ESCTCR427152,7A14200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,^ESCTCR427149,7A14200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,^ESCTCR427151,7A14200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,^ESCTCR427148,7A14200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A333,7A14200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A40y,7A14200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A164,7A14200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,^ESCTBY427150,7A14200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A16,7A14200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A332,7A14200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A41y,7A14200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A41z,7A14200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A330,7A14200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A331,7A14200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A16y,7A14200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A16z,7A14200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A143,7A14200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A40A,7A14200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A151,7A14200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A40z,7A14200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A522,7A14200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A523,7A14200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A47z,7A14200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A160,7A14200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173431000006118,116360008,183983017,7A47C,7A14200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A47-4,7A14300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A47-3,7A14300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A47-2,7A14300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A47-5,7A14300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A47-1,7A14300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A142,7A14300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A140,7A14300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A409,7A14300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A40D,7A14300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A40B,7A14300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A40C,7A14300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A141,7A14300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A163,7A14300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A162,7A14300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A161,7A14300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A419,7A14300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A41A,7A14300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A41D,7A14300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A41B,7A14300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A150,7A14300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A414,7A14300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A415,7A14300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A416,7A14300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A47D,7A14300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,^ESCTAR427147,7A14300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,^ESCTCR427152,7A14300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,^ESCTCR427149,7A14300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,^ESCTCR427151,7A14300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,^ESCTCR427148,7A14300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A333,7A14300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A40y,7A14300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A164,7A14300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,^ESCTBY427150,7A14300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A16,7A14300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A332,7A14300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A41y,7A14300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A41z,7A14300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A330,7A14300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A331,7A14300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A16y,7A14300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A16z,7A14300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
 "Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A143,7A14300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A40A,7A40A00,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A151,7A15100,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A40z,7A40z00,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A522,7A52200,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A523,7A52300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A47z,7A47z00,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A160,7A16000,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A47C,7A47C00,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A40A,7A14300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A151,7A14300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A40z,7A14300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A522,7A14300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A523,7A14300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A47z,7A14300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A160,7A14300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173411000006112,116360008,183983017,7A47C,7A14300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
 "Disease of arteries, arterioles and capilleries",173441000006111,448122008,2899751014,7A144,7A14400,Replace aneurysm abdominal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173441000006111,448122008,2899751014,7A154,7A15400,Replace aneurysm abdominal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",173441000006111,448122008,2899751014,^ESCTBY735020,,Replace aneurysm abdominal aorta by anast aorta to aorta NEC
-"Disease of arteries, arterioles and capilleries",488221000000111,307701005,451048019,7A1B4,7A1B400,Abdominal aortic aneurysm stenting
-"Disease of arteries, arterioles and capilleries",488221000000111,307701005,451048019,7A1BC,7A1BC00,Abdominal aortic aneurysm stenting
+"Disease of arteries, arterioles and capilleries",173441000006111,448122008,2899751014,7A154,7A14400,Replace aneurysm abdominal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",173441000006111,448122008,2899751014,^ESCTBY735020,7A14400,Replace aneurysm abdominal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",488221000000111,307701005,451048019,7A1B4,7A1B600,Abdominal aortic aneurysm stenting
+"Disease of arteries, arterioles and capilleries",488221000000111,307701005,451048019,7A1BC,7A1B600,Abdominal aortic aneurysm stenting
 "Disease of arteries, arterioles and capilleries",488221000000111,307701005,451048019,7A1B6,7A1B600,Abdominal aortic aneurysm stenting
-"Disease of arteries, arterioles and capilleries",1701731000006110,307701005,451048019,7A1B4,7A1B400,Endovas insert stent for aortic aneurysm of bifurcation NEC
+"Disease of arteries, arterioles and capilleries",1701731000006110,307701005,451048019,7A1B4,7A1BC00,Endovas insert stent for aortic aneurysm of bifurcation NEC
 "Disease of arteries, arterioles and capilleries",1701731000006110,307701005,451048019,7A1BC,7A1BC00,Endovas insert stent for aortic aneurysm of bifurcation NEC
-"Disease of arteries, arterioles and capilleries",1701731000006110,307701005,451048019,7A1B6,7A1B600,Endovas insert stent for aortic aneurysm of bifurcation NEC
-"Disease of arteries, arterioles and capilleries",470121011,12232008,470121011,G717,G717.00,Syphilitic aortic aneurysm
-"Disease of arteries, arterioles and capilleries",470121011,12232008,470121011,^ESCTLA269475,,Syphilitic aortic aneurysm
-"Disease of arteries, arterioles and capilleries",470121011,12232008,470121011,^ESCTSY269472,,Syphilitic aortic aneurysm
+"Disease of arteries, arterioles and capilleries",1701731000006110,307701005,451048019,7A1B6,7A1BC00,Endovas insert stent for aortic aneurysm of bifurcation NEC
+"Disease of arteries, arterioles and capilleries",470121011,12232008,470121011,G717,A930.00,Syphilitic aortic aneurysm
+"Disease of arteries, arterioles and capilleries",470121011,12232008,470121011,^ESCTLA269475,A930.00,Syphilitic aortic aneurysm
+"Disease of arteries, arterioles and capilleries",470121011,12232008,470121011,^ESCTSY269472,A930.00,Syphilitic aortic aneurysm
 "Disease of arteries, arterioles and capilleries",470121011,12232008,470121011,A930,A930.00,Syphilitic aortic aneurysm
-"Disease of arteries, arterioles and capilleries",470121011,12232008,470121011,^ESCTSY269473,,Syphilitic aortic aneurysm
-"Disease of arteries, arterioles and capilleries",111949011,67362008,111949011,G716,G716.00,Aortic aneurysm
-"Disease of arteries, arterioles and capilleries",111949011,67362008,111949011,G71z,G71z.00,Aortic aneurysm
-"Disease of arteries, arterioles and capilleries",111949011,67362008,111949011,^ESCTAA359596,,Aortic aneurysm
-"Disease of arteries, arterioles and capilleries",111949011,67362008,111949011,^ESCTAN359595,,Aortic aneurysm
-"Disease of arteries, arterioles and capilleries",111949011,67362008,111949011,Gyu71,Gyu7100,Aortic aneurysm
-"Disease of arteries, arterioles and capilleries",111949011,67362008,111949011,Gyu72,Gyu7200,Aortic aneurysm
+"Disease of arteries, arterioles and capilleries",470121011,12232008,470121011,^ESCTSY269473,A930.00,Syphilitic aortic aneurysm
+"Disease of arteries, arterioles and capilleries",111949011,67362008,111949011,G716,G71..00,Aortic aneurysm
+"Disease of arteries, arterioles and capilleries",111949011,67362008,111949011,G71z,G71..00,Aortic aneurysm
+"Disease of arteries, arterioles and capilleries",111949011,67362008,111949011,^ESCTAA359596,G71..00,Aortic aneurysm
+"Disease of arteries, arterioles and capilleries",111949011,67362008,111949011,^ESCTAN359595,G71..00,Aortic aneurysm
+"Disease of arteries, arterioles and capilleries",111949011,67362008,111949011,Gyu71,G71..00,Aortic aneurysm
+"Disease of arteries, arterioles and capilleries",111949011,67362008,111949011,Gyu72,G71..00,Aortic aneurysm
 "Disease of arteries, arterioles and capilleries",111949011,67362008,111949011,G71,G71..00,Aortic aneurysm
-"Disease of arteries, arterioles and capilleries",111949011,67362008,111949011,Gyu78,Gyu7800,Aortic aneurysm
-"Disease of arteries, arterioles and capilleries",2536174018,308546005,2536174018,^ESCTDI597984,,Dissecting aortic aneurysm
+"Disease of arteries, arterioles and capilleries",111949011,67362008,111949011,Gyu78,G71..00,Aortic aneurysm
+"Disease of arteries, arterioles and capilleries",2536174018,308546005,2536174018,^ESCTDI597984,G710.00,Dissecting aortic aneurysm
 "Disease of arteries, arterioles and capilleries",2536174018,308546005,2536174018,G710,G710.00,Dissecting aortic aneurysm
 "Disease of arteries, arterioles and capilleries",300437018,195258006,300437018,G711,G711.00,Thoracic aortic aneurysm which has ruptured
-"Disease of arteries, arterioles and capilleries",300437018,195258006,300437018,G711-1,G711.11,Thoracic aortic aneurysm which has ruptured
-"Disease of arteries, arterioles and capilleries",300438011,195258006,300438011,G711,G711.00,Ruptured thoracic aortic aneurysm
+"Disease of arteries, arterioles and capilleries",300437018,195258006,300437018,G711-1,G711.00,Thoracic aortic aneurysm which has ruptured
+"Disease of arteries, arterioles and capilleries",300438011,195258006,300438011,G711,G711.11,Ruptured thoracic aortic aneurysm
 "Disease of arteries, arterioles and capilleries",300438011,195258006,300438011,G711-1,G711.11,Ruptured thoracic aortic aneurysm
-"Disease of arteries, arterioles and capilleries",124373014,74883004,124373014,G712-99,G712.99,Thoracic aortic aneurysm without mention of rupture
+"Disease of arteries, arterioles and capilleries",124373014,74883004,124373014,G712-99,G712.00,Thoracic aortic aneurysm without mention of rupture
 "Disease of arteries, arterioles and capilleries",124373014,74883004,124373014,G712,G712.00,Thoracic aortic aneurysm without mention of rupture
-"Disease of arteries, arterioles and capilleries",124373014,74883004,124373014,^ESCTTH371732,,Thoracic aortic aneurysm without mention of rupture
-"Disease of arteries, arterioles and capilleries",1221083011,14336007,1221083011,^ESCTRU272712,,Abdominal aortic aneurysm which has ruptured
-"Disease of arteries, arterioles and capilleries",1221083011,14336007,1221083011,G713-1,G713.11,Abdominal aortic aneurysm which has ruptured
+"Disease of arteries, arterioles and capilleries",124373014,74883004,124373014,^ESCTTH371732,G712.00,Thoracic aortic aneurysm without mention of rupture
+"Disease of arteries, arterioles and capilleries",1221083011,14336007,1221083011,^ESCTRU272712,G713.00,Abdominal aortic aneurysm which has ruptured
+"Disease of arteries, arterioles and capilleries",1221083011,14336007,1221083011,G713-1,G713.00,Abdominal aortic aneurysm which has ruptured
 "Disease of arteries, arterioles and capilleries",1221083011,14336007,1221083011,G713,G713.00,Abdominal aortic aneurysm which has ruptured
-"Disease of arteries, arterioles and capilleries",24379014,14336007,24379014,^ESCTRU272712,,Ruptured abdominal aortic aneurysm
+"Disease of arteries, arterioles and capilleries",24379014,14336007,24379014,^ESCTRU272712,G713.11,Ruptured abdominal aortic aneurysm
 "Disease of arteries, arterioles and capilleries",24379014,14336007,24379014,G713-1,G713.11,Ruptured abdominal aortic aneurysm
-"Disease of arteries, arterioles and capilleries",24379014,14336007,24379014,G713,G713.00,Ruptured abdominal aortic aneurysm
+"Disease of arteries, arterioles and capilleries",24379014,14336007,24379014,G713,G713.11,Ruptured abdominal aortic aneurysm
 "Disease of arteries, arterioles and capilleries",458502011,314184006,458502011,G7130,G713000,Ruptured suprarenal aortic aneurysm
-"Disease of arteries, arterioles and capilleries",300441019,233985008,350580017,^ESCTAA505844,,Abdominal aortic aneurysm
+"Disease of arteries, arterioles and capilleries",300441019,233985008,350580017,^ESCTAA505844,G714.00,Abdominal aortic aneurysm
 "Disease of arteries, arterioles and capilleries",300441019,233985008,350580017,G714,G714.00,Abdominal aortic aneurysm
-"Disease of arteries, arterioles and capilleries",300441019,233985008,350580017,G714-1,G714.11,Abdominal aortic aneurysm
-"Disease of arteries, arterioles and capilleries",300442014,233985008,350580017,^ESCTAA505844,,AAA - Abdominal aortic aneurysm without mention of rupture
-"Disease of arteries, arterioles and capilleries",300442014,233985008,350580017,G714,G714.00,AAA - Abdominal aortic aneurysm without mention of rupture
+"Disease of arteries, arterioles and capilleries",300441019,233985008,350580017,G714-1,G714.00,Abdominal aortic aneurysm
+"Disease of arteries, arterioles and capilleries",300442014,233985008,350580017,^ESCTAA505844,G714.11,AAA - Abdominal aortic aneurysm without mention of rupture
+"Disease of arteries, arterioles and capilleries",300442014,233985008,350580017,G714,G714.11,AAA - Abdominal aortic aneurysm without mention of rupture
 "Disease of arteries, arterioles and capilleries",300442014,233985008,350580017,G714-1,G714.11,AAA - Abdominal aortic aneurysm without mention of rupture
 "Disease of arteries, arterioles and capilleries",458503018,314185007,458503018,G7140,G714000,Juxtarenal aortic aneurysm
 "Disease of arteries, arterioles and capilleries",458504012,314186008,458504012,G7141,G714100,Inflammatory abdominal aortic aneurysm
 "Disease of arteries, arterioles and capilleries",1756091000006111,444569004,2871141013,G7142,G714200,Aneurysm of infrarenal abdominal aorta
 "Disease of arteries, arterioles and capilleries",2674096019,426270006,2674096019,G7143,G714300,Aneurysm of suprarenal aorta
-"Disease of arteries, arterioles and capilleries",300445011,73067008,121362018,^ESCTRU368854,,Ruptured aortic aneurysm
+"Disease of arteries, arterioles and capilleries",300445011,73067008,121362018,^ESCTRU368854,G715.00,Ruptured aortic aneurysm
 "Disease of arteries, arterioles and capilleries",300445011,73067008,121362018,G715,G715.00,Ruptured aortic aneurysm
 "Disease of arteries, arterioles and capilleries",300446012,195265003,300446012,G7150,G715000,"Thoracoabdominal aortic aneurysm, ruptured"
 "Disease of arteries, arterioles and capilleries",300447015,67362008,111949011,G716,G716.00,Aortic aneurysm without mention of rupture NOS
-"Disease of arteries, arterioles and capilleries",300447015,67362008,111949011,G71z,G71z.00,Aortic aneurysm without mention of rupture NOS
-"Disease of arteries, arterioles and capilleries",300447015,67362008,111949011,^ESCTAA359596,,Aortic aneurysm without mention of rupture NOS
-"Disease of arteries, arterioles and capilleries",300447015,67362008,111949011,^ESCTAN359595,,Aortic aneurysm without mention of rupture NOS
-"Disease of arteries, arterioles and capilleries",300447015,67362008,111949011,Gyu71,Gyu7100,Aortic aneurysm without mention of rupture NOS
-"Disease of arteries, arterioles and capilleries",300447015,67362008,111949011,Gyu72,Gyu7200,Aortic aneurysm without mention of rupture NOS
-"Disease of arteries, arterioles and capilleries",300447015,67362008,111949011,G71,G71..00,Aortic aneurysm without mention of rupture NOS
-"Disease of arteries, arterioles and capilleries",300447015,67362008,111949011,Gyu78,Gyu7800,Aortic aneurysm without mention of rupture NOS
+"Disease of arteries, arterioles and capilleries",300447015,67362008,111949011,G71z,G716.00,Aortic aneurysm without mention of rupture NOS
+"Disease of arteries, arterioles and capilleries",300447015,67362008,111949011,^ESCTAA359596,G716.00,Aortic aneurysm without mention of rupture NOS
+"Disease of arteries, arterioles and capilleries",300447015,67362008,111949011,^ESCTAN359595,G716.00,Aortic aneurysm without mention of rupture NOS
+"Disease of arteries, arterioles and capilleries",300447015,67362008,111949011,Gyu71,G716.00,Aortic aneurysm without mention of rupture NOS
+"Disease of arteries, arterioles and capilleries",300447015,67362008,111949011,Gyu72,G716.00,Aortic aneurysm without mention of rupture NOS
+"Disease of arteries, arterioles and capilleries",300447015,67362008,111949011,G71,G716.00,Aortic aneurysm without mention of rupture NOS
+"Disease of arteries, arterioles and capilleries",300447015,67362008,111949011,Gyu78,G716.00,Aortic aneurysm without mention of rupture NOS
 "Disease of arteries, arterioles and capilleries",300448013,233984007,350579015,G7160,G716000,Thoracoabdominal aortic aneurysm
 "Disease of arteries, arterioles and capilleries",488301000006118,12232008,470121011,G717,G717.00,Aortic aneurysm - syphilitic
-"Disease of arteries, arterioles and capilleries",488301000006118,12232008,470121011,^ESCTLA269475,,Aortic aneurysm - syphilitic
-"Disease of arteries, arterioles and capilleries",488301000006118,12232008,470121011,^ESCTSY269472,,Aortic aneurysm - syphilitic
-"Disease of arteries, arterioles and capilleries",488301000006118,12232008,470121011,A930,A930.00,Aortic aneurysm - syphilitic
-"Disease of arteries, arterioles and capilleries",488301000006118,12232008,470121011,^ESCTSY269473,,Aortic aneurysm - syphilitic
+"Disease of arteries, arterioles and capilleries",488301000006118,12232008,470121011,^ESCTLA269475,G717.00,Aortic aneurysm - syphilitic
+"Disease of arteries, arterioles and capilleries",488301000006118,12232008,470121011,^ESCTSY269472,G717.00,Aortic aneurysm - syphilitic
+"Disease of arteries, arterioles and capilleries",488301000006118,12232008,470121011,A930,G717.00,Aortic aneurysm - syphilitic
+"Disease of arteries, arterioles and capilleries",488301000006118,12232008,470121011,^ESCTSY269473,G717.00,Aortic aneurysm - syphilitic
 "Disease of arteries, arterioles and capilleries",300449017,195268001,300449017,G718,G718.00,Leaking abdominal aortic aneurysm
-"Disease of arteries, arterioles and capilleries",300450017,67362008,111949011,G716,G716.00,Aortic aneurysm NOS
+"Disease of arteries, arterioles and capilleries",300450017,67362008,111949011,G716,G71z.00,Aortic aneurysm NOS
 "Disease of arteries, arterioles and capilleries",300450017,67362008,111949011,G71z,G71z.00,Aortic aneurysm NOS
-"Disease of arteries, arterioles and capilleries",300450017,67362008,111949011,^ESCTAA359596,,Aortic aneurysm NOS
-"Disease of arteries, arterioles and capilleries",300450017,67362008,111949011,^ESCTAN359595,,Aortic aneurysm NOS
-"Disease of arteries, arterioles and capilleries",300450017,67362008,111949011,Gyu71,Gyu7100,Aortic aneurysm NOS
-"Disease of arteries, arterioles and capilleries",300450017,67362008,111949011,Gyu72,Gyu7200,Aortic aneurysm NOS
-"Disease of arteries, arterioles and capilleries",300450017,67362008,111949011,G71,G71..00,Aortic aneurysm NOS
-"Disease of arteries, arterioles and capilleries",300450017,67362008,111949011,Gyu78,Gyu7800,Aortic aneurysm NOS
-"Disease of arteries, arterioles and capilleries",300960019,67362008,111949011,G716,G716.00,"[X]Aortic aneurysm of unspecified site, ruptured"
-"Disease of arteries, arterioles and capilleries",300960019,67362008,111949011,G71z,G71z.00,"[X]Aortic aneurysm of unspecified site, ruptured"
-"Disease of arteries, arterioles and capilleries",300960019,67362008,111949011,^ESCTAA359596,,"[X]Aortic aneurysm of unspecified site, ruptured"
-"Disease of arteries, arterioles and capilleries",300960019,67362008,111949011,^ESCTAN359595,,"[X]Aortic aneurysm of unspecified site, ruptured"
+"Disease of arteries, arterioles and capilleries",300450017,67362008,111949011,^ESCTAA359596,G71z.00,Aortic aneurysm NOS
+"Disease of arteries, arterioles and capilleries",300450017,67362008,111949011,^ESCTAN359595,G71z.00,Aortic aneurysm NOS
+"Disease of arteries, arterioles and capilleries",300450017,67362008,111949011,Gyu71,G71z.00,Aortic aneurysm NOS
+"Disease of arteries, arterioles and capilleries",300450017,67362008,111949011,Gyu72,G71z.00,Aortic aneurysm NOS
+"Disease of arteries, arterioles and capilleries",300450017,67362008,111949011,G71,G71z.00,Aortic aneurysm NOS
+"Disease of arteries, arterioles and capilleries",300450017,67362008,111949011,Gyu78,G71z.00,Aortic aneurysm NOS
+"Disease of arteries, arterioles and capilleries",300960019,67362008,111949011,G716,Gyu7100,"[X]Aortic aneurysm of unspecified site, ruptured"
+"Disease of arteries, arterioles and capilleries",300960019,67362008,111949011,G71z,Gyu7100,"[X]Aortic aneurysm of unspecified site, ruptured"
+"Disease of arteries, arterioles and capilleries",300960019,67362008,111949011,^ESCTAA359596,Gyu7100,"[X]Aortic aneurysm of unspecified site, ruptured"
+"Disease of arteries, arterioles and capilleries",300960019,67362008,111949011,^ESCTAN359595,Gyu7100,"[X]Aortic aneurysm of unspecified site, ruptured"
 "Disease of arteries, arterioles and capilleries",300960019,67362008,111949011,Gyu71,Gyu7100,"[X]Aortic aneurysm of unspecified site, ruptured"
-"Disease of arteries, arterioles and capilleries",300960019,67362008,111949011,Gyu72,Gyu7200,"[X]Aortic aneurysm of unspecified site, ruptured"
-"Disease of arteries, arterioles and capilleries",300960019,67362008,111949011,G71,G71..00,"[X]Aortic aneurysm of unspecified site, ruptured"
-"Disease of arteries, arterioles and capilleries",300960019,67362008,111949011,Gyu78,Gyu7800,"[X]Aortic aneurysm of unspecified site, ruptured"
-"Disease of arteries, arterioles and capilleries",300961015,67362008,111949011,G716,G716.00,"[X]Aortic aneurysm of unspecified site, nonruptured"
-"Disease of arteries, arterioles and capilleries",300961015,67362008,111949011,G71z,G71z.00,"[X]Aortic aneurysm of unspecified site, nonruptured"
-"Disease of arteries, arterioles and capilleries",300961015,67362008,111949011,^ESCTAA359596,,"[X]Aortic aneurysm of unspecified site, nonruptured"
-"Disease of arteries, arterioles and capilleries",300961015,67362008,111949011,^ESCTAN359595,,"[X]Aortic aneurysm of unspecified site, nonruptured"
-"Disease of arteries, arterioles and capilleries",300961015,67362008,111949011,Gyu71,Gyu7100,"[X]Aortic aneurysm of unspecified site, nonruptured"
+"Disease of arteries, arterioles and capilleries",300960019,67362008,111949011,Gyu72,Gyu7100,"[X]Aortic aneurysm of unspecified site, ruptured"
+"Disease of arteries, arterioles and capilleries",300960019,67362008,111949011,G71,Gyu7100,"[X]Aortic aneurysm of unspecified site, ruptured"
+"Disease of arteries, arterioles and capilleries",300960019,67362008,111949011,Gyu78,Gyu7100,"[X]Aortic aneurysm of unspecified site, ruptured"
+"Disease of arteries, arterioles and capilleries",300961015,67362008,111949011,G716,Gyu7200,"[X]Aortic aneurysm of unspecified site, nonruptured"
+"Disease of arteries, arterioles and capilleries",300961015,67362008,111949011,G71z,Gyu7200,"[X]Aortic aneurysm of unspecified site, nonruptured"
+"Disease of arteries, arterioles and capilleries",300961015,67362008,111949011,^ESCTAA359596,Gyu7200,"[X]Aortic aneurysm of unspecified site, nonruptured"
+"Disease of arteries, arterioles and capilleries",300961015,67362008,111949011,^ESCTAN359595,Gyu7200,"[X]Aortic aneurysm of unspecified site, nonruptured"
+"Disease of arteries, arterioles and capilleries",300961015,67362008,111949011,Gyu71,Gyu7200,"[X]Aortic aneurysm of unspecified site, nonruptured"
 "Disease of arteries, arterioles and capilleries",300961015,67362008,111949011,Gyu72,Gyu7200,"[X]Aortic aneurysm of unspecified site, nonruptured"
-"Disease of arteries, arterioles and capilleries",300961015,67362008,111949011,G71,G71..00,"[X]Aortic aneurysm of unspecified site, nonruptured"
-"Disease of arteries, arterioles and capilleries",300961015,67362008,111949011,Gyu78,Gyu7800,"[X]Aortic aneurysm of unspecified site, nonruptured"
-"Disease of arteries, arterioles and capilleries",300968014,67362008,111949011,G716,G716.00,[X]Aneurysm of aorta in diseases classified elsewhere
-"Disease of arteries, arterioles and capilleries",300968014,67362008,111949011,G71z,G71z.00,[X]Aneurysm of aorta in diseases classified elsewhere
-"Disease of arteries, arterioles and capilleries",300968014,67362008,111949011,^ESCTAA359596,,[X]Aneurysm of aorta in diseases classified elsewhere
-"Disease of arteries, arterioles and capilleries",300968014,67362008,111949011,^ESCTAN359595,,[X]Aneurysm of aorta in diseases classified elsewhere
-"Disease of arteries, arterioles and capilleries",300968014,67362008,111949011,Gyu71,Gyu7100,[X]Aneurysm of aorta in diseases classified elsewhere
-"Disease of arteries, arterioles and capilleries",300968014,67362008,111949011,Gyu72,Gyu7200,[X]Aneurysm of aorta in diseases classified elsewhere
-"Disease of arteries, arterioles and capilleries",300968014,67362008,111949011,G71,G71..00,[X]Aneurysm of aorta in diseases classified elsewhere
+"Disease of arteries, arterioles and capilleries",300961015,67362008,111949011,G71,Gyu7200,"[X]Aortic aneurysm of unspecified site, nonruptured"
+"Disease of arteries, arterioles and capilleries",300961015,67362008,111949011,Gyu78,Gyu7200,"[X]Aortic aneurysm of unspecified site, nonruptured"
+"Disease of arteries, arterioles and capilleries",300968014,67362008,111949011,G716,Gyu7800,[X]Aneurysm of aorta in diseases classified elsewhere
+"Disease of arteries, arterioles and capilleries",300968014,67362008,111949011,G71z,Gyu7800,[X]Aneurysm of aorta in diseases classified elsewhere
+"Disease of arteries, arterioles and capilleries",300968014,67362008,111949011,^ESCTAA359596,Gyu7800,[X]Aneurysm of aorta in diseases classified elsewhere
+"Disease of arteries, arterioles and capilleries",300968014,67362008,111949011,^ESCTAN359595,Gyu7800,[X]Aneurysm of aorta in diseases classified elsewhere
+"Disease of arteries, arterioles and capilleries",300968014,67362008,111949011,Gyu71,Gyu7800,[X]Aneurysm of aorta in diseases classified elsewhere
+"Disease of arteries, arterioles and capilleries",300968014,67362008,111949011,Gyu72,Gyu7800,[X]Aneurysm of aorta in diseases classified elsewhere
+"Disease of arteries, arterioles and capilleries",300968014,67362008,111949011,G71,Gyu7800,[X]Aneurysm of aorta in diseases classified elsewhere
 "Disease of arteries, arterioles and capilleries",300968014,67362008,111949011,Gyu78,Gyu7800,[X]Aneurysm of aorta in diseases classified elsewhere
-"Disease of arteries, arterioles and capilleries",2232441000000112,863401000000101,2232441000000112,^ESCTHO829882,,H/O: arterial lower limb ulcer
-"Disease of arteries, arterioles and capilleries",2232441000000112,863401000000101,2232441000000112,^ESCTHI829881,,H/O: arterial lower limb ulcer
+"Disease of arteries, arterioles and capilleries",2232441000000112,863401000000101,2232441000000112,^ESCTHO829882,14F7.00,H/O: arterial lower limb ulcer
+"Disease of arteries, arterioles and capilleries",2232441000000112,863401000000101,2232441000000112,^ESCTHI829881,14F7.00,H/O: arterial lower limb ulcer
 "Disease of arteries, arterioles and capilleries",2232441000000112,863401000000101,2232441000000112,14F7,14F7.00,H/O: arterial lower limb ulcer
 "Disease of arteries, arterioles and capilleries",450665015,307408003,450665015,2G63,2G63.00,Ischaemic toe
-"Disease of arteries, arterioles and capilleries",450665015,307408003,450665015,^ESCTIS596796,,Ischaemic toe
+"Disease of arteries, arterioles and capilleries",450665015,307408003,450665015,^ESCTIS596796,2G63.00,Ischaemic toe
 "Disease of arteries, arterioles and capilleries",216185010,134379001,216185010,662U,662U.00,Peripheral vascular disease monitoring
 "Disease of arteries, arterioles and capilleries",271509013,175348000,271509013,7A192,7A19200,Open embolectomy of bifurcation of aorta
-"Disease of arteries, arterioles and capilleries",394328011,265517007,394328011,7A420,7A42000,Iliac endarterectomy and patch
+"Disease of arteries, arterioles and capilleries",394328011,265517007,394328011,7A420,7A42012,Iliac endarterectomy and patch
 "Disease of arteries, arterioles and capilleries",394328011,265517007,394328011,7A420-2,7A42012,Iliac endarterectomy and patch
 "Disease of arteries, arterioles and capilleries",394329015,307800001,451173017,7A421,7A42100,Endarterectomy of iliac artery
 "Disease of arteries, arterioles and capilleries",410965018,233304004,349571019,7A421-1,7A42111,Endarterectomy of common iliac artery
-"Disease of arteries, arterioles and capilleries",410965018,233304004,349571019,^ESCTEN504887,,Endarterectomy of common iliac artery
+"Disease of arteries, arterioles and capilleries",410965018,233304004,349571019,^ESCTEN504887,7A42111,Endarterectomy of common iliac artery
 "Disease of arteries, arterioles and capilleries",394332017,265521000,394332017,7A431,7A43100,Open embolectomy of iliac artery
 "Disease of arteries, arterioles and capilleries",411214011,275254000,411214011,7A431-1,7A43111,Open embolectomy of common iliac artery
 "Disease of arteries, arterioles and capilleries",271900018,175612005,271900018,7A440,7A44000,Percutaneous transluminal angioplasty of iliac artery
 "Disease of arteries, arterioles and capilleries",271901019,175613000,271901019,7A441,7A44100,Percutaneous transluminal embolectomy of iliac artery
-"Disease of arteries, arterioles and capilleries",272013012,16589005,28064017,^ESCTEN276294,,Femoral endarterectomy
+"Disease of arteries, arterioles and capilleries",272013012,16589005,28064017,^ESCTEN276294,7A49200,Femoral endarterectomy
 "Disease of arteries, arterioles and capilleries",272013012,16589005,28064017,7A492,7A49200,Femoral endarterectomy
 "Disease of arteries, arterioles and capilleries",272014018,233310004,349583017,7A493,7A49300,Endarterectomy of popliteal artery
-"Disease of arteries, arterioles and capilleries",272017013,405376002,2157187018,^ESCTPR671320,,Profundoplasty of femoral artery NEC
-"Disease of arteries, arterioles and capilleries",272017013,405376002,2157187018,^ESCTRE671319,,Profundoplasty of femoral artery NEC
-"Disease of arteries, arterioles and capilleries",272017013,405376002,2157187018,7A497,7A49700,Profundoplasty of femoral artery NEC
-"Disease of arteries, arterioles and capilleries",272017013,405376002,2157187018,^ESCTPR671321,,Profundoplasty of femoral artery NEC
+"Disease of arteries, arterioles and capilleries",272017013,405376002,2157187018,^ESCTPR671320,7A49600,Profundoplasty of femoral artery NEC
+"Disease of arteries, arterioles and capilleries",272017013,405376002,2157187018,^ESCTRE671319,7A49600,Profundoplasty of femoral artery NEC
+"Disease of arteries, arterioles and capilleries",272017013,405376002,2157187018,7A497,7A49600,Profundoplasty of femoral artery NEC
+"Disease of arteries, arterioles and capilleries",272017013,405376002,2157187018,^ESCTPR671321,7A49600,Profundoplasty of femoral artery NEC
 "Disease of arteries, arterioles and capilleries",272017013,405376002,2157187018,7A496,7A49600,Profundoplasty of femoral artery NEC
-"Disease of arteries, arterioles and capilleries",272018015,405376002,2157187018,^ESCTPR671320,,Profundoplasty of popliteal artery NEC
-"Disease of arteries, arterioles and capilleries",272018015,405376002,2157187018,^ESCTRE671319,,Profundoplasty of popliteal artery NEC
+"Disease of arteries, arterioles and capilleries",272018015,405376002,2157187018,^ESCTPR671320,7A49700,Profundoplasty of popliteal artery NEC
+"Disease of arteries, arterioles and capilleries",272018015,405376002,2157187018,^ESCTRE671319,7A49700,Profundoplasty of popliteal artery NEC
 "Disease of arteries, arterioles and capilleries",272018015,405376002,2157187018,7A497,7A49700,Profundoplasty of popliteal artery NEC
-"Disease of arteries, arterioles and capilleries",272018015,405376002,2157187018,^ESCTPR671321,,Profundoplasty of popliteal artery NEC
-"Disease of arteries, arterioles and capilleries",272018015,405376002,2157187018,7A496,7A49600,Profundoplasty of popliteal artery NEC
-"Disease of arteries, arterioles and capilleries",272031013,175704008,272031013,7A4A2-1,7A4A211,Open embolectomy of femoral artery
+"Disease of arteries, arterioles and capilleries",272018015,405376002,2157187018,^ESCTPR671321,7A49700,Profundoplasty of popliteal artery NEC
+"Disease of arteries, arterioles and capilleries",272018015,405376002,2157187018,7A496,7A49700,Profundoplasty of popliteal artery NEC
+"Disease of arteries, arterioles and capilleries",272031013,175704008,272031013,7A4A2-1,7A4A200,Open embolectomy of femoral artery
 "Disease of arteries, arterioles and capilleries",272031013,175704008,272031013,7A4A2,7A4A200,Open embolectomy of femoral artery
-"Disease of arteries, arterioles and capilleries",272031013,175704008,272031013,7A4A2-2,7A4A212,Open embolectomy of femoral artery
+"Disease of arteries, arterioles and capilleries",272031013,175704008,272031013,7A4A2-2,7A4A200,Open embolectomy of femoral artery
 "Disease of arteries, arterioles and capilleries",272032018,175704008,272032018,7A4A2-1,7A4A211,Open thrombectomy of femoral artery
-"Disease of arteries, arterioles and capilleries",272032018,175704008,272032018,7A4A2,7A4A200,Open thrombectomy of femoral artery
-"Disease of arteries, arterioles and capilleries",272032018,175704008,272032018,7A4A2-2,7A4A212,Open thrombectomy of femoral artery
-"Disease of arteries, arterioles and capilleries",272033011,175704008,272033011,7A4A2-1,7A4A211,Open femoral embolectomy
-"Disease of arteries, arterioles and capilleries",272033011,175704008,272033011,7A4A2,7A4A200,Open femoral embolectomy
+"Disease of arteries, arterioles and capilleries",272032018,175704008,272032018,7A4A2,7A4A211,Open thrombectomy of femoral artery
+"Disease of arteries, arterioles and capilleries",272032018,175704008,272032018,7A4A2-2,7A4A211,Open thrombectomy of femoral artery
+"Disease of arteries, arterioles and capilleries",272033011,175704008,272033011,7A4A2-1,7A4A212,Open femoral embolectomy
+"Disease of arteries, arterioles and capilleries",272033011,175704008,272033011,7A4A2,7A4A212,Open femoral embolectomy
 "Disease of arteries, arterioles and capilleries",272033011,175704008,272033011,7A4A2-2,7A4A212,Open femoral embolectomy
-"Disease of arteries, arterioles and capilleries",272035016,175705009,272035016,7A4A3-1,7A4A311,Open embolectomy popliteal artery
+"Disease of arteries, arterioles and capilleries",272035016,175705009,272035016,7A4A3-1,7A4A300,Open embolectomy popliteal artery
 "Disease of arteries, arterioles and capilleries",272035016,175705009,272035016,7A4A3,7A4A300,Open embolectomy popliteal artery
 "Disease of arteries, arterioles and capilleries",272034017,175705009,272034017,7A4A3-1,7A4A311,Open thrombectomy of popliteal artery
-"Disease of arteries, arterioles and capilleries",272034017,175705009,272034017,7A4A3,7A4A300,Open thrombectomy of popliteal artery
-"Disease of arteries, arterioles and capilleries",272052017,175715003,272052017,7A4B0-99,7A4B099,Percutaneous transluminal angioplasty of femoral artery
+"Disease of arteries, arterioles and capilleries",272034017,175705009,272034017,7A4A3,7A4A311,Open thrombectomy of popliteal artery
+"Disease of arteries, arterioles and capilleries",272052017,175715003,272052017,7A4B0-99,7A4B000,Percutaneous transluminal angioplasty of femoral artery
 "Disease of arteries, arterioles and capilleries",272052017,175715003,272052017,7A4B0,7A4B000,Percutaneous transluminal angioplasty of femoral artery
 "Disease of arteries, arterioles and capilleries",239491000006117,175716002,272053010,7A4B1,7A4B100,Percutaneous angioplasty of popliteal artery
-"Disease of arteries, arterioles and capilleries",272055015,175717006,272055015,^ESCTPE466815,,Percutaneous transluminal embolectomy of femoral artery
+"Disease of arteries, arterioles and capilleries",272055015,175717006,272055015,^ESCTPE466815,7A4B200,Percutaneous transluminal embolectomy of femoral artery
 "Disease of arteries, arterioles and capilleries",272055015,175717006,272055015,7A4B2,7A4B200,Percutaneous transluminal embolectomy of femoral artery
-"Disease of arteries, arterioles and capilleries",272056019,175718001,272056019,^ESCTPE466817,,Percutaneous transluminal embolectomy of popliteal artery
-"Disease of arteries, arterioles and capilleries",272056019,175718001,272056019,^ESCTPC466819,,Percutaneous transluminal embolectomy of popliteal artery
+"Disease of arteries, arterioles and capilleries",272056019,175718001,272056019,^ESCTPE466817,7A4B300,Percutaneous transluminal embolectomy of popliteal artery
+"Disease of arteries, arterioles and capilleries",272056019,175718001,272056019,^ESCTPC466819,7A4B300,Percutaneous transluminal embolectomy of popliteal artery
 "Disease of arteries, arterioles and capilleries",272056019,175718001,272056019,7A4B3,7A4B300,Percutaneous transluminal embolectomy of popliteal artery
-"Disease of arteries, arterioles and capilleries",272059014,175719009,272059014,^ESCTPE466821,,Percutaneous transluminal embolisation of femoral artery
+"Disease of arteries, arterioles and capilleries",272059014,175719009,272059014,^ESCTPE466821,7A4B400,Percutaneous transluminal embolisation of femoral artery
 "Disease of arteries, arterioles and capilleries",272059014,175719009,272059014,7A4B4,7A4B400,Percutaneous transluminal embolisation of femoral artery
 "Disease of arteries, arterioles and capilleries",272061017,175720003,272061017,7A4B5,7A4B500,Percutaneous transluminal embolisation of popliteal artery
-"Disease of arteries, arterioles and capilleries",272061017,175720003,272061017,^ESCTPE466823,,Percutaneous transluminal embolisation of popliteal artery
-"Disease of arteries, arterioles and capilleries",286570019,186423003,286570019,^ESCTGA474189,,Gas gangrene-foot
+"Disease of arteries, arterioles and capilleries",272061017,175720003,272061017,^ESCTPE466823,7A4B500,Percutaneous transluminal embolisation of popliteal artery
+"Disease of arteries, arterioles and capilleries",286570019,186423003,286570019,^ESCTGA474189,A3A0F00,Gas gangrene-foot
 "Disease of arteries, arterioles and capilleries",286570019,186423003,286570019,A3A0F,A3A0F00,Gas gangrene-foot
-"Disease of arteries, arterioles and capilleries",616441000006113,421895002,3688501014,C10EG-2,C10EG12,Peripheral vascular disorder due to diabetes mellitus
-"Disease of arteries, arterioles and capilleries",616441000006113,421895002,3688501014,C108G,C108G00,Peripheral vascular disorder due to diabetes mellitus
+"Disease of arteries, arterioles and capilleries",616441000006113,421895002,3688501014,C10EG-2,C107.00,Peripheral vascular disorder due to diabetes mellitus
+"Disease of arteries, arterioles and capilleries",616441000006113,421895002,3688501014,C108G,C107.00,Peripheral vascular disorder due to diabetes mellitus
 "Disease of arteries, arterioles and capilleries",616441000006113,421895002,3688501014,C107,C107.00,Peripheral vascular disorder due to diabetes mellitus
-"Disease of arteries, arterioles and capilleries",616441000006113,421895002,3688501014,^ESCT1270441,,Peripheral vascular disorder due to diabetes mellitus
-"Disease of arteries, arterioles and capilleries",616441000006113,421895002,3688501014,^ESCTDI698004,,Peripheral vascular disorder due to diabetes mellitus
-"Disease of arteries, arterioles and capilleries",616441000006113,421895002,3688501014,^ESCT1233599,,Peripheral vascular disorder due to diabetes mellitus
-"Disease of arteries, arterioles and capilleries",616441000006113,421895002,3688501014,C107z,C107z00,Peripheral vascular disorder due to diabetes mellitus
-"Disease of arteries, arterioles and capilleries",616441000006113,421895002,3688501014,C107y,C107y00,Peripheral vascular disorder due to diabetes mellitus
-"Disease of arteries, arterioles and capilleries",616441000006113,421895002,3688501014,C1073,C107300,Peripheral vascular disorder due to diabetes mellitus
-"Disease of arteries, arterioles and capilleries",616441000006113,421895002,3688501014,^ESCT1233598,,Peripheral vascular disorder due to diabetes mellitus
-"Disease of arteries, arterioles and capilleries",616351000006115,422275004,2616612015,C107-2,C107.12,Diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",616441000006113,421895002,3688501014,^ESCT1270441,C107.00,Peripheral vascular disorder due to diabetes mellitus
+"Disease of arteries, arterioles and capilleries",616441000006113,421895002,3688501014,^ESCTDI698004,C107.00,Peripheral vascular disorder due to diabetes mellitus
+"Disease of arteries, arterioles and capilleries",616441000006113,421895002,3688501014,^ESCT1233599,C107.00,Peripheral vascular disorder due to diabetes mellitus
+"Disease of arteries, arterioles and capilleries",616441000006113,421895002,3688501014,C107z,C107.00,Peripheral vascular disorder due to diabetes mellitus
+"Disease of arteries, arterioles and capilleries",616441000006113,421895002,3688501014,C107y,C107.00,Peripheral vascular disorder due to diabetes mellitus
+"Disease of arteries, arterioles and capilleries",616441000006113,421895002,3688501014,C1073,C107.00,Peripheral vascular disorder due to diabetes mellitus
+"Disease of arteries, arterioles and capilleries",616441000006113,421895002,3688501014,^ESCT1233598,C107.00,Peripheral vascular disorder due to diabetes mellitus
+"Disease of arteries, arterioles and capilleries",616351000006115,422275004,2616612015,C107-2,C107.11,Diabetes mellitus with gangrene
 "Disease of arteries, arterioles and capilleries",616351000006115,422275004,2616612015,C107-1,C107.11,Diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",616351000006115,422275004,2616612015,^ESCTGA698701,,Diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",616351000006115,422275004,2616612015,C1086,C108600,Diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",616351000006115,422275004,2616612015,C10E6-2,C10E612,Diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",616351000006115,422275004,2616612015,C107-99,C107.99,Diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",616351000006115,422275004,2616612015,^ESCTGA698701,C107.11,Diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",616351000006115,422275004,2616612015,C1086,C107.11,Diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",616351000006115,422275004,2616612015,C10E6-2,C107.11,Diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",616351000006115,422275004,2616612015,C107-99,C107.11,Diabetes mellitus with gangrene
 "Disease of arteries, arterioles and capilleries",616831000006118,422275004,2616612015,C107-2,C107.12,Diabetes with gangrene
-"Disease of arteries, arterioles and capilleries",616831000006118,422275004,2616612015,C107-1,C107.11,Diabetes with gangrene
-"Disease of arteries, arterioles and capilleries",616831000006118,422275004,2616612015,^ESCTGA698701,,Diabetes with gangrene
-"Disease of arteries, arterioles and capilleries",616831000006118,422275004,2616612015,C1086,C108600,Diabetes with gangrene
-"Disease of arteries, arterioles and capilleries",616831000006118,422275004,2616612015,C10E6-2,C10E612,Diabetes with gangrene
-"Disease of arteries, arterioles and capilleries",616831000006118,422275004,2616612015,C107-99,C107.99,Diabetes with gangrene
-"Disease of arteries, arterioles and capilleries",616591000006117,421365002,2618205010,^ESCTPE697063,,"Diabetes mellitus, juvenile +peripheral circulatory disorder"
-"Disease of arteries, arterioles and capilleries",616591000006117,421365002,2618205010,^ESCTPE697062,,"Diabetes mellitus, juvenile +peripheral circulatory disorder"
+"Disease of arteries, arterioles and capilleries",616831000006118,422275004,2616612015,C107-1,C107.12,Diabetes with gangrene
+"Disease of arteries, arterioles and capilleries",616831000006118,422275004,2616612015,^ESCTGA698701,C107.12,Diabetes with gangrene
+"Disease of arteries, arterioles and capilleries",616831000006118,422275004,2616612015,C1086,C107.12,Diabetes with gangrene
+"Disease of arteries, arterioles and capilleries",616831000006118,422275004,2616612015,C10E6-2,C107.12,Diabetes with gangrene
+"Disease of arteries, arterioles and capilleries",616831000006118,422275004,2616612015,C107-99,C107.12,Diabetes with gangrene
+"Disease of arteries, arterioles and capilleries",616591000006117,421365002,2618205010,^ESCTPE697063,C107000,"Diabetes mellitus, juvenile +peripheral circulatory disorder"
+"Disease of arteries, arterioles and capilleries",616591000006117,421365002,2618205010,^ESCTPE697062,C107000,"Diabetes mellitus, juvenile +peripheral circulatory disorder"
 "Disease of arteries, arterioles and capilleries",616591000006117,421365002,2618205010,C1070,C107000,"Diabetes mellitus, juvenile +peripheral circulatory disorder"
 "Disease of arteries, arterioles and capilleries",616581000006115,422166005,2618204014,C1071,C107100,"Diabetes mellitus, adult, + peripheral circulatory disorder"
-"Disease of arteries, arterioles and capilleries",616581000006115,422166005,2618204014,^ESCTPE698501,,"Diabetes mellitus, adult, + peripheral circulatory disorder"
-"Disease of arteries, arterioles and capilleries",616581000006115,422166005,2618204014,C1074,C107400,"Diabetes mellitus, adult, + peripheral circulatory disorder"
-"Disease of arteries, arterioles and capilleries",616581000006115,422166005,2618204014,^ESCTPE698500,,"Diabetes mellitus, adult, + peripheral circulatory disorder"
-"Disease of arteries, arterioles and capilleries",616581000006115,422166005,2618204014,^ESCT1248544,,"Diabetes mellitus, adult, + peripheral circulatory disorder"
-"Disease of arteries, arterioles and capilleries",616561000006113,421631007,2618206011,^ESCTGA697521,,"Diabetes mellitus, adult with gangrene"
+"Disease of arteries, arterioles and capilleries",616581000006115,422166005,2618204014,^ESCTPE698501,C107100,"Diabetes mellitus, adult, + peripheral circulatory disorder"
+"Disease of arteries, arterioles and capilleries",616581000006115,422166005,2618204014,C1074,C107100,"Diabetes mellitus, adult, + peripheral circulatory disorder"
+"Disease of arteries, arterioles and capilleries",616581000006115,422166005,2618204014,^ESCTPE698500,C107100,"Diabetes mellitus, adult, + peripheral circulatory disorder"
+"Disease of arteries, arterioles and capilleries",616581000006115,422166005,2618204014,^ESCT1248544,C107100,"Diabetes mellitus, adult, + peripheral circulatory disorder"
+"Disease of arteries, arterioles and capilleries",616561000006113,421631007,2618206011,^ESCTGA697521,C107200,"Diabetes mellitus, adult with gangrene"
 "Disease of arteries, arterioles and capilleries",616561000006113,421631007,2618206011,C1072,C107200,"Diabetes mellitus, adult with gangrene"
-"Disease of arteries, arterioles and capilleries",616561000006113,421631007,2618206011,C10F5-1,C10F511,"Diabetes mellitus, adult with gangrene"
-"Disease of arteries, arterioles and capilleries",616561000006113,421631007,2618206011,C1095-2,C109512,"Diabetes mellitus, adult with gangrene"
-"Disease of arteries, arterioles and capilleries",616561000006113,421631007,2618206011,C1095-1,C109511,"Diabetes mellitus, adult with gangrene"
-"Disease of arteries, arterioles and capilleries",616561000006113,421631007,2618206011,C10F5,C10F500,"Diabetes mellitus, adult with gangrene"
-"Disease of arteries, arterioles and capilleries",616561000006113,421631007,2618206011,C1095,C109500,"Diabetes mellitus, adult with gangrene"
-"Disease of arteries, arterioles and capilleries",616561000006113,421631007,2618206011,^ESCTGA697522,,"Diabetes mellitus, adult with gangrene"
-"Disease of arteries, arterioles and capilleries",787101000006114,421895002,2618203015,C10EG-2,C10EG12,IDDM with peripheral circulatory disorder
-"Disease of arteries, arterioles and capilleries",787101000006114,421895002,2618203015,C108G,C108G00,IDDM with peripheral circulatory disorder
-"Disease of arteries, arterioles and capilleries",787101000006114,421895002,2618203015,C107,C107.00,IDDM with peripheral circulatory disorder
-"Disease of arteries, arterioles and capilleries",787101000006114,421895002,2618203015,^ESCT1270441,,IDDM with peripheral circulatory disorder
-"Disease of arteries, arterioles and capilleries",787101000006114,421895002,2618203015,^ESCTDI698004,,IDDM with peripheral circulatory disorder
-"Disease of arteries, arterioles and capilleries",787101000006114,421895002,2618203015,^ESCT1233599,,IDDM with peripheral circulatory disorder
-"Disease of arteries, arterioles and capilleries",787101000006114,421895002,2618203015,C107z,C107z00,IDDM with peripheral circulatory disorder
-"Disease of arteries, arterioles and capilleries",787101000006114,421895002,2618203015,C107y,C107y00,IDDM with peripheral circulatory disorder
+"Disease of arteries, arterioles and capilleries",616561000006113,421631007,2618206011,C10F5-1,C107200,"Diabetes mellitus, adult with gangrene"
+"Disease of arteries, arterioles and capilleries",616561000006113,421631007,2618206011,C1095-2,C107200,"Diabetes mellitus, adult with gangrene"
+"Disease of arteries, arterioles and capilleries",616561000006113,421631007,2618206011,C1095-1,C107200,"Diabetes mellitus, adult with gangrene"
+"Disease of arteries, arterioles and capilleries",616561000006113,421631007,2618206011,C10F5,C107200,"Diabetes mellitus, adult with gangrene"
+"Disease of arteries, arterioles and capilleries",616561000006113,421631007,2618206011,C1095,C107200,"Diabetes mellitus, adult with gangrene"
+"Disease of arteries, arterioles and capilleries",616561000006113,421631007,2618206011,^ESCTGA697522,C107200,"Diabetes mellitus, adult with gangrene"
+"Disease of arteries, arterioles and capilleries",787101000006114,421895002,2618203015,C10EG-2,C107300,IDDM with peripheral circulatory disorder
+"Disease of arteries, arterioles and capilleries",787101000006114,421895002,2618203015,C108G,C107300,IDDM with peripheral circulatory disorder
+"Disease of arteries, arterioles and capilleries",787101000006114,421895002,2618203015,C107,C107300,IDDM with peripheral circulatory disorder
+"Disease of arteries, arterioles and capilleries",787101000006114,421895002,2618203015,^ESCT1270441,C107300,IDDM with peripheral circulatory disorder
+"Disease of arteries, arterioles and capilleries",787101000006114,421895002,2618203015,^ESCTDI698004,C107300,IDDM with peripheral circulatory disorder
+"Disease of arteries, arterioles and capilleries",787101000006114,421895002,2618203015,^ESCT1233599,C107300,IDDM with peripheral circulatory disorder
+"Disease of arteries, arterioles and capilleries",787101000006114,421895002,2618203015,C107z,C107300,IDDM with peripheral circulatory disorder
+"Disease of arteries, arterioles and capilleries",787101000006114,421895002,2618203015,C107y,C107300,IDDM with peripheral circulatory disorder
 "Disease of arteries, arterioles and capilleries",787101000006114,421895002,2618203015,C1073,C107300,IDDM with peripheral circulatory disorder
-"Disease of arteries, arterioles and capilleries",787101000006114,421895002,2618203015,^ESCT1233598,,IDDM with peripheral circulatory disorder
-"Disease of arteries, arterioles and capilleries",674961000006118,422166005,2623039019,C1071,C107100,Peripheral circulatory disorder associated with type 2 diabetes mellitus
-"Disease of arteries, arterioles and capilleries",674961000006118,422166005,2623039019,^ESCTPE698501,,Peripheral circulatory disorder associated with type 2 diabetes mellitus
+"Disease of arteries, arterioles and capilleries",787101000006114,421895002,2618203015,^ESCT1233598,C107300,IDDM with peripheral circulatory disorder
+"Disease of arteries, arterioles and capilleries",674961000006118,422166005,2623039019,C1071,C107400,Peripheral circulatory disorder associated with type 2 diabetes mellitus
+"Disease of arteries, arterioles and capilleries",674961000006118,422166005,2623039019,^ESCTPE698501,C107400,Peripheral circulatory disorder associated with type 2 diabetes mellitus
 "Disease of arteries, arterioles and capilleries",674961000006118,422166005,2623039019,C1074,C107400,Peripheral circulatory disorder associated with type 2 diabetes mellitus
-"Disease of arteries, arterioles and capilleries",674961000006118,422166005,2623039019,^ESCTPE698500,,Peripheral circulatory disorder associated with type 2 diabetes mellitus
-"Disease of arteries, arterioles and capilleries",674961000006118,422166005,2623039019,^ESCT1248544,,Peripheral circulatory disorder associated with type 2 diabetes mellitus
-"Disease of arteries, arterioles and capilleries",292523015,421895002,2618203015,C10EG-2,C10EG12,Diabetes mellitus NOS with peripheral circulatory disorder
-"Disease of arteries, arterioles and capilleries",292523015,421895002,2618203015,C108G,C108G00,Diabetes mellitus NOS with peripheral circulatory disorder
-"Disease of arteries, arterioles and capilleries",292523015,421895002,2618203015,C107,C107.00,Diabetes mellitus NOS with peripheral circulatory disorder
-"Disease of arteries, arterioles and capilleries",292523015,421895002,2618203015,^ESCT1270441,,Diabetes mellitus NOS with peripheral circulatory disorder
-"Disease of arteries, arterioles and capilleries",292523015,421895002,2618203015,^ESCTDI698004,,Diabetes mellitus NOS with peripheral circulatory disorder
-"Disease of arteries, arterioles and capilleries",292523015,421895002,2618203015,^ESCT1233599,,Diabetes mellitus NOS with peripheral circulatory disorder
+"Disease of arteries, arterioles and capilleries",674961000006118,422166005,2623039019,^ESCTPE698500,C107400,Peripheral circulatory disorder associated with type 2 diabetes mellitus
+"Disease of arteries, arterioles and capilleries",674961000006118,422166005,2623039019,^ESCT1248544,C107400,Peripheral circulatory disorder associated with type 2 diabetes mellitus
+"Disease of arteries, arterioles and capilleries",292523015,421895002,2618203015,C10EG-2,C107z00,Diabetes mellitus NOS with peripheral circulatory disorder
+"Disease of arteries, arterioles and capilleries",292523015,421895002,2618203015,C108G,C107z00,Diabetes mellitus NOS with peripheral circulatory disorder
+"Disease of arteries, arterioles and capilleries",292523015,421895002,2618203015,C107,C107z00,Diabetes mellitus NOS with peripheral circulatory disorder
+"Disease of arteries, arterioles and capilleries",292523015,421895002,2618203015,^ESCT1270441,C107z00,Diabetes mellitus NOS with peripheral circulatory disorder
+"Disease of arteries, arterioles and capilleries",292523015,421895002,2618203015,^ESCTDI698004,C107z00,Diabetes mellitus NOS with peripheral circulatory disorder
+"Disease of arteries, arterioles and capilleries",292523015,421895002,2618203015,^ESCT1233599,C107z00,Diabetes mellitus NOS with peripheral circulatory disorder
 "Disease of arteries, arterioles and capilleries",292523015,421895002,2618203015,C107z,C107z00,Diabetes mellitus NOS with peripheral circulatory disorder
-"Disease of arteries, arterioles and capilleries",292523015,421895002,2618203015,C107y,C107y00,Diabetes mellitus NOS with peripheral circulatory disorder
-"Disease of arteries, arterioles and capilleries",292523015,421895002,2618203015,C1073,C107300,Diabetes mellitus NOS with peripheral circulatory disorder
-"Disease of arteries, arterioles and capilleries",292523015,421895002,2618203015,^ESCT1233598,,Diabetes mellitus NOS with peripheral circulatory disorder
-"Disease of arteries, arterioles and capilleries",771351000006111,422275004,2616612015,C107-2,C107.12,Insulin dependent diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",771351000006111,422275004,2616612015,C107-1,C107.11,Insulin dependent diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",771351000006111,422275004,2616612015,^ESCTGA698701,,Insulin dependent diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",292523015,421895002,2618203015,C107y,C107z00,Diabetes mellitus NOS with peripheral circulatory disorder
+"Disease of arteries, arterioles and capilleries",292523015,421895002,2618203015,C1073,C107z00,Diabetes mellitus NOS with peripheral circulatory disorder
+"Disease of arteries, arterioles and capilleries",292523015,421895002,2618203015,^ESCT1233598,C107z00,Diabetes mellitus NOS with peripheral circulatory disorder
+"Disease of arteries, arterioles and capilleries",771351000006111,422275004,2616612015,C107-2,C108600,Insulin dependent diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",771351000006111,422275004,2616612015,C107-1,C108600,Insulin dependent diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",771351000006111,422275004,2616612015,^ESCTGA698701,C108600,Insulin dependent diabetes mellitus with gangrene
 "Disease of arteries, arterioles and capilleries",771351000006111,422275004,2616612015,C1086,C108600,Insulin dependent diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",771351000006111,422275004,2616612015,C10E6-2,C10E612,Insulin dependent diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",771351000006111,422275004,2616612015,C107-99,C107.99,Insulin dependent diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",84331000006112,420825003,2618207019,C10E6-1,C10E611,Type 1 diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",84331000006112,420825003,2618207019,^ESCTGA696109,,Type 1 diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",84331000006112,420825003,2618207019,^ESCTGA696108,,Type 1 diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",84331000006112,420825003,2618207019,^ESCTDI696110,,Type 1 diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",84331000006112,420825003,2618207019,C10E6,C10E600,Type 1 diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",771351000006111,422275004,2616612015,C10E6-2,C108600,Insulin dependent diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",771351000006111,422275004,2616612015,C107-99,C108600,Insulin dependent diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",84331000006112,420825003,2618207019,C10E6-1,C108612,Type 1 diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",84331000006112,420825003,2618207019,^ESCTGA696109,C108612,Type 1 diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",84331000006112,420825003,2618207019,^ESCTGA696108,C108612,Type 1 diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",84331000006112,420825003,2618207019,^ESCTDI696110,C108612,Type 1 diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",84331000006112,420825003,2618207019,C10E6,C108612,Type 1 diabetes mellitus with gangrene
 "Disease of arteries, arterioles and capilleries",84331000006112,420825003,2618207019,C1086-2,C108612,Type 1 diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",84331000006112,420825003,2618207019,C1086-1,C108611,Type 1 diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",772141000006118,421895002,2618203015,C10EG-2,C10EG12,Insulin dependent diab mell with peripheral angiopathy
+"Disease of arteries, arterioles and capilleries",84331000006112,420825003,2618207019,C1086-1,C108612,Type 1 diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",772141000006118,421895002,2618203015,C10EG-2,C108G00,Insulin dependent diab mell with peripheral angiopathy
 "Disease of arteries, arterioles and capilleries",772141000006118,421895002,2618203015,C108G,C108G00,Insulin dependent diab mell with peripheral angiopathy
-"Disease of arteries, arterioles and capilleries",772141000006118,421895002,2618203015,C107,C107.00,Insulin dependent diab mell with peripheral angiopathy
-"Disease of arteries, arterioles and capilleries",772141000006118,421895002,2618203015,^ESCT1270441,,Insulin dependent diab mell with peripheral angiopathy
-"Disease of arteries, arterioles and capilleries",772141000006118,421895002,2618203015,^ESCTDI698004,,Insulin dependent diab mell with peripheral angiopathy
-"Disease of arteries, arterioles and capilleries",772141000006118,421895002,2618203015,^ESCT1233599,,Insulin dependent diab mell with peripheral angiopathy
-"Disease of arteries, arterioles and capilleries",772141000006118,421895002,2618203015,C107z,C107z00,Insulin dependent diab mell with peripheral angiopathy
-"Disease of arteries, arterioles and capilleries",772141000006118,421895002,2618203015,C107y,C107y00,Insulin dependent diab mell with peripheral angiopathy
-"Disease of arteries, arterioles and capilleries",772141000006118,421895002,2618203015,C1073,C107300,Insulin dependent diab mell with peripheral angiopathy
-"Disease of arteries, arterioles and capilleries",772141000006118,421895002,2618203015,^ESCT1233598,,Insulin dependent diab mell with peripheral angiopathy
-"Disease of arteries, arterioles and capilleries",281211000006117,421631007,2967779019,^ESCTGA697521,,Gangrene associated with type 2 diabetes mellitus
-"Disease of arteries, arterioles and capilleries",281211000006117,421631007,2967779019,C1072,C107200,Gangrene associated with type 2 diabetes mellitus
-"Disease of arteries, arterioles and capilleries",281211000006117,421631007,2967779019,C10F5-1,C10F511,Gangrene associated with type 2 diabetes mellitus
-"Disease of arteries, arterioles and capilleries",281211000006117,421631007,2967779019,C1095-2,C109512,Gangrene associated with type 2 diabetes mellitus
-"Disease of arteries, arterioles and capilleries",281211000006117,421631007,2967779019,C1095-1,C109511,Gangrene associated with type 2 diabetes mellitus
-"Disease of arteries, arterioles and capilleries",281211000006117,421631007,2967779019,C10F5,C10F500,Gangrene associated with type 2 diabetes mellitus
+"Disease of arteries, arterioles and capilleries",772141000006118,421895002,2618203015,C107,C108G00,Insulin dependent diab mell with peripheral angiopathy
+"Disease of arteries, arterioles and capilleries",772141000006118,421895002,2618203015,^ESCT1270441,C108G00,Insulin dependent diab mell with peripheral angiopathy
+"Disease of arteries, arterioles and capilleries",772141000006118,421895002,2618203015,^ESCTDI698004,C108G00,Insulin dependent diab mell with peripheral angiopathy
+"Disease of arteries, arterioles and capilleries",772141000006118,421895002,2618203015,^ESCT1233599,C108G00,Insulin dependent diab mell with peripheral angiopathy
+"Disease of arteries, arterioles and capilleries",772141000006118,421895002,2618203015,C107z,C108G00,Insulin dependent diab mell with peripheral angiopathy
+"Disease of arteries, arterioles and capilleries",772141000006118,421895002,2618203015,C107y,C108G00,Insulin dependent diab mell with peripheral angiopathy
+"Disease of arteries, arterioles and capilleries",772141000006118,421895002,2618203015,C1073,C108G00,Insulin dependent diab mell with peripheral angiopathy
+"Disease of arteries, arterioles and capilleries",772141000006118,421895002,2618203015,^ESCT1233598,C108G00,Insulin dependent diab mell with peripheral angiopathy
+"Disease of arteries, arterioles and capilleries",281211000006117,421631007,2967779019,^ESCTGA697521,C109500,Gangrene associated with type 2 diabetes mellitus
+"Disease of arteries, arterioles and capilleries",281211000006117,421631007,2967779019,C1072,C109500,Gangrene associated with type 2 diabetes mellitus
+"Disease of arteries, arterioles and capilleries",281211000006117,421631007,2967779019,C10F5-1,C109500,Gangrene associated with type 2 diabetes mellitus
+"Disease of arteries, arterioles and capilleries",281211000006117,421631007,2967779019,C1095-2,C109500,Gangrene associated with type 2 diabetes mellitus
+"Disease of arteries, arterioles and capilleries",281211000006117,421631007,2967779019,C1095-1,C109500,Gangrene associated with type 2 diabetes mellitus
+"Disease of arteries, arterioles and capilleries",281211000006117,421631007,2967779019,C10F5,C109500,Gangrene associated with type 2 diabetes mellitus
 "Disease of arteries, arterioles and capilleries",281211000006117,421631007,2967779019,C1095,C109500,Gangrene associated with type 2 diabetes mellitus
-"Disease of arteries, arterioles and capilleries",281211000006117,421631007,2967779019,^ESCTGA697522,,Gangrene associated with type 2 diabetes mellitus
-"Disease of arteries, arterioles and capilleries",84881000006119,421631007,2618206011,^ESCTGA697521,,Type II diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",84881000006119,421631007,2618206011,C1072,C107200,Type II diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",84881000006119,421631007,2618206011,C10F5-1,C10F511,Type II diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",84881000006119,421631007,2618206011,C1095-2,C109512,Type II diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",281211000006117,421631007,2967779019,^ESCTGA697522,C109500,Gangrene associated with type 2 diabetes mellitus
+"Disease of arteries, arterioles and capilleries",84881000006119,421631007,2618206011,^ESCTGA697521,C109511,Type II diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",84881000006119,421631007,2618206011,C1072,C109511,Type II diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",84881000006119,421631007,2618206011,C10F5-1,C109511,Type II diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",84881000006119,421631007,2618206011,C1095-2,C109511,Type II diabetes mellitus with gangrene
 "Disease of arteries, arterioles and capilleries",84881000006119,421631007,2618206011,C1095-1,C109511,Type II diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",84881000006119,421631007,2618206011,C10F5,C10F500,Type II diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",84881000006119,421631007,2618206011,C1095,C109500,Type II diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",84881000006119,421631007,2618206011,^ESCTGA697522,,Type II diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",84511000006112,421631007,2618206011,^ESCTGA697521,,Type 2 diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",84511000006112,421631007,2618206011,C1072,C107200,Type 2 diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",84511000006112,421631007,2618206011,C10F5-1,C10F511,Type 2 diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",84881000006119,421631007,2618206011,C10F5,C109511,Type II diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",84881000006119,421631007,2618206011,C1095,C109511,Type II diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",84881000006119,421631007,2618206011,^ESCTGA697522,C109511,Type II diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",84511000006112,421631007,2618206011,^ESCTGA697521,C109512,Type 2 diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",84511000006112,421631007,2618206011,C1072,C109512,Type 2 diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",84511000006112,421631007,2618206011,C10F5-1,C109512,Type 2 diabetes mellitus with gangrene
 "Disease of arteries, arterioles and capilleries",84511000006112,421631007,2618206011,C1095-2,C109512,Type 2 diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",84511000006112,421631007,2618206011,C1095-1,C109511,Type 2 diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",84511000006112,421631007,2618206011,C10F5,C10F500,Type 2 diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",84511000006112,421631007,2618206011,C1095,C109500,Type 2 diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",84511000006112,421631007,2618206011,^ESCTGA697522,,Type 2 diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",280561000006111,314902007,459307013,C109F-1,C109F11,Non-insulin-dependent diabetes mellitus with peripheral angiopathy
+"Disease of arteries, arterioles and capilleries",84511000006112,421631007,2618206011,C1095-1,C109512,Type 2 diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",84511000006112,421631007,2618206011,C10F5,C109512,Type 2 diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",84511000006112,421631007,2618206011,C1095,C109512,Type 2 diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",84511000006112,421631007,2618206011,^ESCTGA697522,C109512,Type 2 diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",280561000006111,314902007,459307013,C109F-1,C109F00,Non-insulin-dependent diabetes mellitus with peripheral angiopathy
 "Disease of arteries, arterioles and capilleries",280561000006111,314902007,459307013,C109F,C109F00,Non-insulin-dependent diabetes mellitus with peripheral angiopathy
-"Disease of arteries, arterioles and capilleries",280561000006111,314902007,459307013,C10FF,C10FF00,Non-insulin-dependent diabetes mellitus with peripheral angiopathy
-"Disease of arteries, arterioles and capilleries",280561000006111,314902007,459307013,C10FF-1,C10FF11,Non-insulin-dependent diabetes mellitus with peripheral angiopathy
-"Disease of arteries, arterioles and capilleries",280561000006111,314902007,459307013,C109F-2,C109F12,Non-insulin-dependent diabetes mellitus with peripheral angiopathy
+"Disease of arteries, arterioles and capilleries",280561000006111,314902007,459307013,C10FF,C109F00,Non-insulin-dependent diabetes mellitus with peripheral angiopathy
+"Disease of arteries, arterioles and capilleries",280561000006111,314902007,459307013,C10FF-1,C109F00,Non-insulin-dependent diabetes mellitus with peripheral angiopathy
+"Disease of arteries, arterioles and capilleries",280561000006111,314902007,459307013,C109F-2,C109F00,Non-insulin-dependent diabetes mellitus with peripheral angiopathy
 "Disease of arteries, arterioles and capilleries",84961000006116,314902007,459306016,C109F-1,C109F11,Type II diabetes mellitus with peripheral angiopathy
-"Disease of arteries, arterioles and capilleries",84961000006116,314902007,459306016,C109F,C109F00,Type II diabetes mellitus with peripheral angiopathy
-"Disease of arteries, arterioles and capilleries",84961000006116,314902007,459306016,C10FF,C10FF00,Type II diabetes mellitus with peripheral angiopathy
-"Disease of arteries, arterioles and capilleries",84961000006116,314902007,459306016,C10FF-1,C10FF11,Type II diabetes mellitus with peripheral angiopathy
-"Disease of arteries, arterioles and capilleries",84961000006116,314902007,459306016,C109F-2,C109F12,Type II diabetes mellitus with peripheral angiopathy
-"Disease of arteries, arterioles and capilleries",84591000006119,314902007,459308015,C109F-1,C109F11,Type 2 diabetes mellitus with peripheral angiopathy
-"Disease of arteries, arterioles and capilleries",84591000006119,314902007,459308015,C109F,C109F00,Type 2 diabetes mellitus with peripheral angiopathy
-"Disease of arteries, arterioles and capilleries",84591000006119,314902007,459308015,C10FF,C10FF00,Type 2 diabetes mellitus with peripheral angiopathy
-"Disease of arteries, arterioles and capilleries",84591000006119,314902007,459308015,C10FF-1,C10FF11,Type 2 diabetes mellitus with peripheral angiopathy
+"Disease of arteries, arterioles and capilleries",84961000006116,314902007,459306016,C109F,C109F11,Type II diabetes mellitus with peripheral angiopathy
+"Disease of arteries, arterioles and capilleries",84961000006116,314902007,459306016,C10FF,C109F11,Type II diabetes mellitus with peripheral angiopathy
+"Disease of arteries, arterioles and capilleries",84961000006116,314902007,459306016,C10FF-1,C109F11,Type II diabetes mellitus with peripheral angiopathy
+"Disease of arteries, arterioles and capilleries",84961000006116,314902007,459306016,C109F-2,C109F11,Type II diabetes mellitus with peripheral angiopathy
+"Disease of arteries, arterioles and capilleries",84591000006119,314902007,459308015,C109F-1,C109F12,Type 2 diabetes mellitus with peripheral angiopathy
+"Disease of arteries, arterioles and capilleries",84591000006119,314902007,459308015,C109F,C109F12,Type 2 diabetes mellitus with peripheral angiopathy
+"Disease of arteries, arterioles and capilleries",84591000006119,314902007,459308015,C10FF,C109F12,Type 2 diabetes mellitus with peripheral angiopathy
+"Disease of arteries, arterioles and capilleries",84591000006119,314902007,459308015,C10FF-1,C109F12,Type 2 diabetes mellitus with peripheral angiopathy
 "Disease of arteries, arterioles and capilleries",84591000006119,314902007,459308015,C109F-2,C109F12,Type 2 diabetes mellitus with peripheral angiopathy
-"Disease of arteries, arterioles and capilleries",292541011,420825003,2618207019,C10E6-1,C10E611,Type 1 diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",292541011,420825003,2618207019,^ESCTGA696109,,Type 1 diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",292541011,420825003,2618207019,^ESCTGA696108,,Type 1 diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",292541011,420825003,2618207019,^ESCTDI696110,,Type 1 diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",292541011,420825003,2618207019,C10E6-1,C10E600,Type 1 diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",292541011,420825003,2618207019,^ESCTGA696109,C10E600,Type 1 diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",292541011,420825003,2618207019,^ESCTGA696108,C10E600,Type 1 diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",292541011,420825003,2618207019,^ESCTDI696110,C10E600,Type 1 diabetes mellitus with gangrene
 "Disease of arteries, arterioles and capilleries",292541011,420825003,2618207019,C10E6,C10E600,Type 1 diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",292541011,420825003,2618207019,C1086-2,C108612,Type 1 diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",292541011,420825003,2618207019,C1086-1,C108611,Type 1 diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",292541011,420825003,2618207019,C1086-2,C10E600,Type 1 diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",292541011,420825003,2618207019,C1086-1,C10E600,Type 1 diabetes mellitus with gangrene
 "Disease of arteries, arterioles and capilleries",292543014,420825003,2618207019,C10E6-1,C10E611,Type I diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",292543014,420825003,2618207019,^ESCTGA696109,,Type I diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",292543014,420825003,2618207019,^ESCTGA696108,,Type I diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",292543014,420825003,2618207019,^ESCTDI696110,,Type I diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",292543014,420825003,2618207019,C10E6,C10E600,Type I diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",292543014,420825003,2618207019,C1086-2,C108612,Type I diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",292543014,420825003,2618207019,C1086-1,C108611,Type I diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",913621000006112,422275004,2616612015,C107-2,C107.12,Insulin dependent diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",913621000006112,422275004,2616612015,C107-1,C107.11,Insulin dependent diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",913621000006112,422275004,2616612015,^ESCTGA698701,,Insulin dependent diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",913621000006112,422275004,2616612015,C1086,C108600,Insulin dependent diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",292543014,420825003,2618207019,^ESCTGA696109,C10E611,Type I diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",292543014,420825003,2618207019,^ESCTGA696108,C10E611,Type I diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",292543014,420825003,2618207019,^ESCTDI696110,C10E611,Type I diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",292543014,420825003,2618207019,C10E6,C10E611,Type I diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",292543014,420825003,2618207019,C1086-2,C10E611,Type I diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",292543014,420825003,2618207019,C1086-1,C10E611,Type I diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",913621000006112,422275004,2616612015,C107-2,C10E612,Insulin dependent diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",913621000006112,422275004,2616612015,C107-1,C10E612,Insulin dependent diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",913621000006112,422275004,2616612015,^ESCTGA698701,C10E612,Insulin dependent diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",913621000006112,422275004,2616612015,C1086,C10E612,Insulin dependent diabetes mellitus with gangrene
 "Disease of arteries, arterioles and capilleries",913621000006112,422275004,2616612015,C10E6-2,C10E612,Insulin dependent diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",913621000006112,422275004,2616612015,C107-99,C107.99,Insulin dependent diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",913931000006116,31211000119101,3315042015,C108G-1,C108G11,Type 1 diabetes mellitus with peripheral angiopathy
+"Disease of arteries, arterioles and capilleries",913621000006112,422275004,2616612015,C107-99,C10E612,Insulin dependent diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",913931000006116,31211000119101,3315042015,C108G-1,C10EG00,Type 1 diabetes mellitus with peripheral angiopathy
 "Disease of arteries, arterioles and capilleries",913931000006116,31211000119101,3315042015,C10EG,C10EG00,Type 1 diabetes mellitus with peripheral angiopathy
-"Disease of arteries, arterioles and capilleries",913931000006116,31211000119101,3315042015,^ESCTPE801449,,Type 1 diabetes mellitus with peripheral angiopathy
-"Disease of arteries, arterioles and capilleries",913931000006116,31211000119101,3315042015,C10EG-1,C10EG11,Type 1 diabetes mellitus with peripheral angiopathy
-"Disease of arteries, arterioles and capilleries",913931000006116,31211000119101,3315042015,C108G-2,C108G12,Type 1 diabetes mellitus with peripheral angiopathy
-"Disease of arteries, arterioles and capilleries",292583018,421631007,2618206011,^ESCTGA697521,,Type 2 diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",292583018,421631007,2618206011,C1072,C107200,Type 2 diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",292583018,421631007,2618206011,C10F5-1,C10F511,Type 2 diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",292583018,421631007,2618206011,C1095-2,C109512,Type 2 diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",292583018,421631007,2618206011,C1095-1,C109511,Type 2 diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",913931000006116,31211000119101,3315042015,^ESCTPE801449,C10EG00,Type 1 diabetes mellitus with peripheral angiopathy
+"Disease of arteries, arterioles and capilleries",913931000006116,31211000119101,3315042015,C10EG-1,C10EG00,Type 1 diabetes mellitus with peripheral angiopathy
+"Disease of arteries, arterioles and capilleries",913931000006116,31211000119101,3315042015,C108G-2,C10EG00,Type 1 diabetes mellitus with peripheral angiopathy
+"Disease of arteries, arterioles and capilleries",292583018,421631007,2618206011,^ESCTGA697521,C10F500,Type 2 diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",292583018,421631007,2618206011,C1072,C10F500,Type 2 diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",292583018,421631007,2618206011,C10F5-1,C10F500,Type 2 diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",292583018,421631007,2618206011,C1095-2,C10F500,Type 2 diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",292583018,421631007,2618206011,C1095-1,C10F500,Type 2 diabetes mellitus with gangrene
 "Disease of arteries, arterioles and capilleries",292583018,421631007,2618206011,C10F5,C10F500,Type 2 diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",292583018,421631007,2618206011,C1095,C109500,Type 2 diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",292583018,421631007,2618206011,^ESCTGA697522,,Type 2 diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",292582011,421631007,2618206011,^ESCTGA697521,,Type II diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",292582011,421631007,2618206011,C1072,C107200,Type II diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",292583018,421631007,2618206011,C1095,C10F500,Type 2 diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",292583018,421631007,2618206011,^ESCTGA697522,C10F500,Type 2 diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",292582011,421631007,2618206011,^ESCTGA697521,C10F511,Type II diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",292582011,421631007,2618206011,C1072,C10F511,Type II diabetes mellitus with gangrene
 "Disease of arteries, arterioles and capilleries",292582011,421631007,2618206011,C10F5-1,C10F511,Type II diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",292582011,421631007,2618206011,C1095-2,C109512,Type II diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",292582011,421631007,2618206011,C1095-1,C109511,Type II diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",292582011,421631007,2618206011,C10F5,C10F500,Type II diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",292582011,421631007,2618206011,C1095,C109500,Type II diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",292582011,421631007,2618206011,^ESCTGA697522,,Type II diabetes mellitus with gangrene
-"Disease of arteries, arterioles and capilleries",459308015,314902007,459308015,C109F-1,C109F11,Type 2 diabetes mellitus with peripheral angiopathy
-"Disease of arteries, arterioles and capilleries",459308015,314902007,459308015,C109F,C109F00,Type 2 diabetes mellitus with peripheral angiopathy
+"Disease of arteries, arterioles and capilleries",292582011,421631007,2618206011,C1095-2,C10F511,Type II diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",292582011,421631007,2618206011,C1095-1,C10F511,Type II diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",292582011,421631007,2618206011,C10F5,C10F511,Type II diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",292582011,421631007,2618206011,C1095,C10F511,Type II diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",292582011,421631007,2618206011,^ESCTGA697522,C10F511,Type II diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",459308015,314902007,459308015,C109F-1,C10FF00,Type 2 diabetes mellitus with peripheral angiopathy
+"Disease of arteries, arterioles and capilleries",459308015,314902007,459308015,C109F,C10FF00,Type 2 diabetes mellitus with peripheral angiopathy
 "Disease of arteries, arterioles and capilleries",459308015,314902007,459308015,C10FF,C10FF00,Type 2 diabetes mellitus with peripheral angiopathy
-"Disease of arteries, arterioles and capilleries",459308015,314902007,459308015,C10FF-1,C10FF11,Type 2 diabetes mellitus with peripheral angiopathy
-"Disease of arteries, arterioles and capilleries",459308015,314902007,459308015,C109F-2,C109F12,Type 2 diabetes mellitus with peripheral angiopathy
-"Disease of arteries, arterioles and capilleries",223991000000116,233956002,350529018,^ESCTAO505793,,Aortoiliac disease
+"Disease of arteries, arterioles and capilleries",459308015,314902007,459308015,C10FF-1,C10FF00,Type 2 diabetes mellitus with peripheral angiopathy
+"Disease of arteries, arterioles and capilleries",459308015,314902007,459308015,C109F-2,C10FF00,Type 2 diabetes mellitus with peripheral angiopathy
+"Disease of arteries, arterioles and capilleries",223991000000116,233956002,350529018,^ESCTAO505793,G700.11,Aortoiliac disease
 "Disease of arteries, arterioles and capilleries",223991000000116,233956002,350529018,G700-1,G700.11,Aortoiliac disease
-"Disease of arteries, arterioles and capilleries",300433019,195254008,300433019,G702z,G702z00,Extremity artery atheroma
-"Disease of arteries, arterioles and capilleries",300433019,195254008,300433019,G702-99,G702.99,Extremity artery atheroma
+"Disease of arteries, arterioles and capilleries",300433019,195254008,300433019,G702z,G702.00,Extremity artery atheroma
+"Disease of arteries, arterioles and capilleries",300433019,195254008,300433019,G702-99,G702.00,Extremity artery atheroma
 "Disease of arteries, arterioles and capilleries",300433019,195254008,300433019,G702,G702.00,Extremity artery atheroma
 "Disease of arteries, arterioles and capilleries",300434013,195254008,300433019,G702z,G702z00,Extremity artery atheroma NOS
-"Disease of arteries, arterioles and capilleries",300434013,195254008,300433019,G702-99,G702.99,Extremity artery atheroma NOS
-"Disease of arteries, arterioles and capilleries",300434013,195254008,300433019,G702,G702.00,Extremity artery atheroma NOS
-"Disease of arteries, arterioles and capilleries",395791015,400047006,1779317016,Gyu74,Gyu7400,Other peripheral vascular disease
-"Disease of arteries, arterioles and capilleries",395791015,400047006,1779317016,Gyu7A,Gyu7A00,Other peripheral vascular disease
-"Disease of arteries, arterioles and capilleries",395791015,400047006,1779317016,G73y,G73y.00,Other peripheral vascular disease
-"Disease of arteries, arterioles and capilleries",395791015,400047006,1779317016,G73y1,G73y100,Other peripheral vascular disease
-"Disease of arteries, arterioles and capilleries",395791015,400047006,1779317016,G73yz,G73yz00,Other peripheral vascular disease
-"Disease of arteries, arterioles and capilleries",395791015,400047006,1779317016,G73z,G73z.00,Other peripheral vascular disease
-"Disease of arteries, arterioles and capilleries",395791015,400047006,1779317016,G73zz,G73zz00,Other peripheral vascular disease
-"Disease of arteries, arterioles and capilleries",395791015,400047006,1779317016,^ESCTPV663385,,Other peripheral vascular disease
+"Disease of arteries, arterioles and capilleries",300434013,195254008,300433019,G702-99,G702z00,Extremity artery atheroma NOS
+"Disease of arteries, arterioles and capilleries",300434013,195254008,300433019,G702,G702z00,Extremity artery atheroma NOS
+"Disease of arteries, arterioles and capilleries",395791015,400047006,1779317016,Gyu74,G73..00,Other peripheral vascular disease
+"Disease of arteries, arterioles and capilleries",395791015,400047006,1779317016,Gyu7A,G73..00,Other peripheral vascular disease
+"Disease of arteries, arterioles and capilleries",395791015,400047006,1779317016,G73y,G73..00,Other peripheral vascular disease
+"Disease of arteries, arterioles and capilleries",395791015,400047006,1779317016,G73y1,G73..00,Other peripheral vascular disease
+"Disease of arteries, arterioles and capilleries",395791015,400047006,1779317016,G73yz,G73..00,Other peripheral vascular disease
+"Disease of arteries, arterioles and capilleries",395791015,400047006,1779317016,G73z,G73..00,Other peripheral vascular disease
+"Disease of arteries, arterioles and capilleries",395791015,400047006,1779317016,G73zz,G73..00,Other peripheral vascular disease
+"Disease of arteries, arterioles and capilleries",395791015,400047006,1779317016,^ESCTPV663385,G73..00,Other peripheral vascular disease
 "Disease of arteries, arterioles and capilleries",395791015,400047006,1779317016,G73,G73..00,Other peripheral vascular disease
-"Disease of arteries, arterioles and capilleries",350535018,233958001,350535018,^ESCTPE505798,,Peripheral ischaemic vascular disease
-"Disease of arteries, arterioles and capilleries",350535018,233958001,350535018,G73-3,G73..13,Peripheral ischaemic vascular disease
+"Disease of arteries, arterioles and capilleries",350535018,233958001,350535018,^ESCTPE505798,G73..11,Peripheral ischaemic vascular disease
+"Disease of arteries, arterioles and capilleries",350535018,233958001,350535018,G73-3,G73..11,Peripheral ischaemic vascular disease
 "Disease of arteries, arterioles and capilleries",350535018,233958001,350535018,G73-1,G73..11,Peripheral ischaemic vascular disease
-"Disease of arteries, arterioles and capilleries",350535018,233958001,350535018,^ESCTPE505800,,Peripheral ischaemic vascular disease
-"Disease of arteries, arterioles and capilleries",742481000006118,233961000,350546015,^ESCTLO505807,,Ischaemic leg
-"Disease of arteries, arterioles and capilleries",742481000006118,233961000,350546015,^ESCTLO505808,,Ischaemic leg
-"Disease of arteries, arterioles and capilleries",742481000006118,233961000,350546015,^ESCTIS505809,,Ischaemic leg
+"Disease of arteries, arterioles and capilleries",350535018,233958001,350535018,^ESCTPE505800,G73..11,Peripheral ischaemic vascular disease
+"Disease of arteries, arterioles and capilleries",742481000006118,233961000,350546015,^ESCTLO505807,G73..12,Ischaemic leg
+"Disease of arteries, arterioles and capilleries",742481000006118,233961000,350546015,^ESCTLO505808,G73..12,Ischaemic leg
+"Disease of arteries, arterioles and capilleries",742481000006118,233961000,350546015,^ESCTIS505809,G73..12,Ischaemic leg
 "Disease of arteries, arterioles and capilleries",742481000006118,233961000,350546015,G73-2,G73..12,Ischaemic leg
-"Disease of arteries, arterioles and capilleries",350533013,233958001,350533013,^ESCTPE505798,,Peripheral ischaemia
+"Disease of arteries, arterioles and capilleries",350533013,233958001,350533013,^ESCTPE505798,G73..13,Peripheral ischaemia
 "Disease of arteries, arterioles and capilleries",350533013,233958001,350533013,G73-3,G73..13,Peripheral ischaemia
-"Disease of arteries, arterioles and capilleries",350533013,233958001,350533013,G73-1,G73..11,Peripheral ischaemia
-"Disease of arteries, arterioles and capilleries",350533013,233958001,350533013,^ESCTPE505800,,Peripheral ischaemia
-"Disease of arteries, arterioles and capilleries",87208017,52403007,87208017,G731z,G731z00,Thromboangiitis obliterans
+"Disease of arteries, arterioles and capilleries",350533013,233958001,350533013,G73-1,G73..13,Peripheral ischaemia
+"Disease of arteries, arterioles and capilleries",350533013,233958001,350533013,^ESCTPE505800,G73..13,Peripheral ischaemia
+"Disease of arteries, arterioles and capilleries",87208017,52403007,87208017,G731z,G731.00,Thromboangiitis obliterans
 "Disease of arteries, arterioles and capilleries",87208017,52403007,87208017,G731,G731.00,Thromboangiitis obliterans
-"Disease of arteries, arterioles and capilleries",87208017,52403007,87208017,G7310,G731000,Thromboangiitis obliterans
-"Disease of arteries, arterioles and capilleries",87210015,52403007,87210015,G731z,G731z00,Buerger's disease
-"Disease of arteries, arterioles and capilleries",87210015,52403007,87210015,G731,G731.00,Buerger's disease
+"Disease of arteries, arterioles and capilleries",87208017,52403007,87208017,G7310,G731.00,Thromboangiitis obliterans
+"Disease of arteries, arterioles and capilleries",87210015,52403007,87210015,G731z,G731000,Buerger's disease
+"Disease of arteries, arterioles and capilleries",87210015,52403007,87210015,G731,G731000,Buerger's disease
 "Disease of arteries, arterioles and capilleries",87210015,52403007,87210015,G7310,G731000,Buerger's disease
 "Disease of arteries, arterioles and capilleries",300503012,52403007,87208017,G731z,G731z00,Thromboangiitis obliterans NOS
-"Disease of arteries, arterioles and capilleries",300503012,52403007,87208017,G731,G731.00,Thromboangiitis obliterans NOS
-"Disease of arteries, arterioles and capilleries",300503012,52403007,87208017,G7310,G731000,Thromboangiitis obliterans NOS
+"Disease of arteries, arterioles and capilleries",300503012,52403007,87208017,G731,G731z00,Thromboangiitis obliterans NOS
+"Disease of arteries, arterioles and capilleries",300503012,52403007,87208017,G7310,G731z00,Thromboangiitis obliterans NOS
 "Disease of arteries, arterioles and capilleries",300504018,195301007,300504018,G732,G732.00,Peripheral gangrene
-"Disease of arteries, arterioles and capilleries",300505017,195302000,300505017,R0542,R054200,Gangrene of toe
+"Disease of arteries, arterioles and capilleries",300505017,195302000,300505017,R0542,G732000,Gangrene of toe
 "Disease of arteries, arterioles and capilleries",300505017,195302000,300505017,G7320,G732000,Gangrene of toe
-"Disease of arteries, arterioles and capilleries",300506016,195303005,300506016,R0543,R054300,Gangrene of foot
+"Disease of arteries, arterioles and capilleries",300506016,195303005,300506016,R0543,G732100,Gangrene of foot
 "Disease of arteries, arterioles and capilleries",300506016,195303005,300506016,G7321,G732100,Gangrene of foot
-"Disease of arteries, arterioles and capilleries",443199013,301755001,443199013,^ESCTIS589834,,Ischaemic foot
+"Disease of arteries, arterioles and capilleries",443199013,301755001,443199013,^ESCTIS589834,G733.00,Ischaemic foot
 "Disease of arteries, arterioles and capilleries",443199013,301755001,443199013,G733,G733.00,Ischaemic foot
-"Disease of arteries, arterioles and capilleries",300510018,400047006,1779317016,Gyu74,Gyu7400,Other specified peripheral vascular disease
-"Disease of arteries, arterioles and capilleries",300510018,400047006,1779317016,Gyu7A,Gyu7A00,Other specified peripheral vascular disease
+"Disease of arteries, arterioles and capilleries",300510018,400047006,1779317016,Gyu74,G73y.00,Other specified peripheral vascular disease
+"Disease of arteries, arterioles and capilleries",300510018,400047006,1779317016,Gyu7A,G73y.00,Other specified peripheral vascular disease
 "Disease of arteries, arterioles and capilleries",300510018,400047006,1779317016,G73y,G73y.00,Other specified peripheral vascular disease
-"Disease of arteries, arterioles and capilleries",300510018,400047006,1779317016,G73y1,G73y100,Other specified peripheral vascular disease
-"Disease of arteries, arterioles and capilleries",300510018,400047006,1779317016,G73yz,G73yz00,Other specified peripheral vascular disease
-"Disease of arteries, arterioles and capilleries",300510018,400047006,1779317016,G73z,G73z.00,Other specified peripheral vascular disease
-"Disease of arteries, arterioles and capilleries",300510018,400047006,1779317016,G73zz,G73zz00,Other specified peripheral vascular disease
-"Disease of arteries, arterioles and capilleries",300510018,400047006,1779317016,^ESCTPV663385,,Other specified peripheral vascular disease
-"Disease of arteries, arterioles and capilleries",300510018,400047006,1779317016,G73,G73..00,Other specified peripheral vascular disease
-"Disease of arteries, arterioles and capilleries",302011,127014009,302011,^ESCTPE439222,,Diabetic peripheral angiopathy
-"Disease of arteries, arterioles and capilleries",302011,127014009,302011,^ESCTDI439221,,Diabetic peripheral angiopathy
-"Disease of arteries, arterioles and capilleries",302011,127014009,302011,^ESCTDI439220,,Diabetic peripheral angiopathy
+"Disease of arteries, arterioles and capilleries",300510018,400047006,1779317016,G73y1,G73y.00,Other specified peripheral vascular disease
+"Disease of arteries, arterioles and capilleries",300510018,400047006,1779317016,G73yz,G73y.00,Other specified peripheral vascular disease
+"Disease of arteries, arterioles and capilleries",300510018,400047006,1779317016,G73z,G73y.00,Other specified peripheral vascular disease
+"Disease of arteries, arterioles and capilleries",300510018,400047006,1779317016,G73zz,G73y.00,Other specified peripheral vascular disease
+"Disease of arteries, arterioles and capilleries",300510018,400047006,1779317016,^ESCTPV663385,G73y.00,Other specified peripheral vascular disease
+"Disease of arteries, arterioles and capilleries",300510018,400047006,1779317016,G73,G73y.00,Other specified peripheral vascular disease
+"Disease of arteries, arterioles and capilleries",302011,127014009,302011,^ESCTPE439222,G73y000,Diabetic peripheral angiopathy
+"Disease of arteries, arterioles and capilleries",302011,127014009,302011,^ESCTDI439221,G73y000,Diabetic peripheral angiopathy
+"Disease of arteries, arterioles and capilleries",302011,127014009,302011,^ESCTDI439220,G73y000,Diabetic peripheral angiopathy
 "Disease of arteries, arterioles and capilleries",302011,127014009,302011,G73y0,G73y000,Diabetic peripheral angiopathy
-"Disease of arteries, arterioles and capilleries",300511019,400047006,1779317016,Gyu74,Gyu7400,Peripheral angiopathic disease EC NOS
-"Disease of arteries, arterioles and capilleries",300511019,400047006,1779317016,Gyu7A,Gyu7A00,Peripheral angiopathic disease EC NOS
-"Disease of arteries, arterioles and capilleries",300511019,400047006,1779317016,G73y,G73y.00,Peripheral angiopathic disease EC NOS
+"Disease of arteries, arterioles and capilleries",300511019,400047006,1779317016,Gyu74,G73y100,Peripheral angiopathic disease EC NOS
+"Disease of arteries, arterioles and capilleries",300511019,400047006,1779317016,Gyu7A,G73y100,Peripheral angiopathic disease EC NOS
+"Disease of arteries, arterioles and capilleries",300511019,400047006,1779317016,G73y,G73y100,Peripheral angiopathic disease EC NOS
 "Disease of arteries, arterioles and capilleries",300511019,400047006,1779317016,G73y1,G73y100,Peripheral angiopathic disease EC NOS
-"Disease of arteries, arterioles and capilleries",300511019,400047006,1779317016,G73yz,G73yz00,Peripheral angiopathic disease EC NOS
-"Disease of arteries, arterioles and capilleries",300511019,400047006,1779317016,G73z,G73z.00,Peripheral angiopathic disease EC NOS
-"Disease of arteries, arterioles and capilleries",300511019,400047006,1779317016,G73zz,G73zz00,Peripheral angiopathic disease EC NOS
-"Disease of arteries, arterioles and capilleries",300511019,400047006,1779317016,^ESCTPV663385,,Peripheral angiopathic disease EC NOS
-"Disease of arteries, arterioles and capilleries",300511019,400047006,1779317016,G73,G73..00,Peripheral angiopathic disease EC NOS
-"Disease of arteries, arterioles and capilleries",41903014,25003006,41903014,^ESCTCR289941,,Acrocyanosis
+"Disease of arteries, arterioles and capilleries",300511019,400047006,1779317016,G73yz,G73y100,Peripheral angiopathic disease EC NOS
+"Disease of arteries, arterioles and capilleries",300511019,400047006,1779317016,G73z,G73y100,Peripheral angiopathic disease EC NOS
+"Disease of arteries, arterioles and capilleries",300511019,400047006,1779317016,G73zz,G73y100,Peripheral angiopathic disease EC NOS
+"Disease of arteries, arterioles and capilleries",300511019,400047006,1779317016,^ESCTPV663385,G73y100,Peripheral angiopathic disease EC NOS
+"Disease of arteries, arterioles and capilleries",300511019,400047006,1779317016,G73,G73y100,Peripheral angiopathic disease EC NOS
+"Disease of arteries, arterioles and capilleries",41903014,25003006,41903014,^ESCTCR289941,G73y200,Acrocyanosis
 "Disease of arteries, arterioles and capilleries",41903014,25003006,41903014,G73y2,G73y200,Acrocyanosis
-"Disease of arteries, arterioles and capilleries",454901000006118,57105000,1216757012,^ESCTSC342807,,Acroparaesthesia - Schultze's type
+"Disease of arteries, arterioles and capilleries",454901000006118,57105000,1216757012,^ESCTSC342807,G73y400,Acroparaesthesia - Schultze's type
 "Disease of arteries, arterioles and capilleries",454901000006118,57105000,1216757012,G73y4,G73y400,Acroparaesthesia - Schultze's type
-"Disease of arteries, arterioles and capilleries",454901000006118,57105000,1216757012,^ESCTSC342804,,Acroparaesthesia - Schultze's type
-"Disease of arteries, arterioles and capilleries",454901000006118,57105000,1216757012,^ESCTSI342802,,Acroparaesthesia - Schultze's type
-"Disease of arteries, arterioles and capilleries",454901000006118,57105000,1216757012,G73y4-1,G73y411,Acroparaesthesia - Schultze's type
-"Disease of arteries, arterioles and capilleries",454901000006118,57105000,1216757012,^ESCTSC342805,,Acroparaesthesia - Schultze's type
-"Disease of arteries, arterioles and capilleries",454901000006118,57105000,1216757012,^ESCTSI342803,,Acroparaesthesia - Schultze's type
-"Disease of arteries, arterioles and capilleries",454891000006117,77788005,503681010,^ESCTNO376565,,Acroparaesthesia - Nothnagel's type
+"Disease of arteries, arterioles and capilleries",454901000006118,57105000,1216757012,^ESCTSC342804,G73y400,Acroparaesthesia - Schultze's type
+"Disease of arteries, arterioles and capilleries",454901000006118,57105000,1216757012,^ESCTSI342802,G73y400,Acroparaesthesia - Schultze's type
+"Disease of arteries, arterioles and capilleries",454901000006118,57105000,1216757012,G73y4-1,G73y400,Acroparaesthesia - Schultze's type
+"Disease of arteries, arterioles and capilleries",454901000006118,57105000,1216757012,^ESCTSC342805,G73y400,Acroparaesthesia - Schultze's type
+"Disease of arteries, arterioles and capilleries",454901000006118,57105000,1216757012,^ESCTSI342803,G73y400,Acroparaesthesia - Schultze's type
+"Disease of arteries, arterioles and capilleries",454891000006117,77788005,503681010,^ESCTNO376565,G73y500,Acroparaesthesia - Nothnagel's type
 "Disease of arteries, arterioles and capilleries",454891000006117,77788005,503681010,G73y5,G73y500,Acroparaesthesia - Nothnagel's type
-"Disease of arteries, arterioles and capilleries",454891000006117,77788005,503681010,^ESCTVA376564,,Acroparaesthesia - Nothnagel's type
-"Disease of arteries, arterioles and capilleries",454891000006117,77788005,503681010,^ESCTNO376567,,Acroparaesthesia - Nothnagel's type
-"Disease of arteries, arterioles and capilleries",454891000006117,77788005,503681010,^ESCTVA376563,,Acroparaesthesia - Nothnagel's type
-"Disease of arteries, arterioles and capilleries",454891000006117,77788005,503681010,^ESCTNO376566,,Acroparaesthesia - Nothnagel's type
-"Disease of arteries, arterioles and capilleries",454891000006117,77788005,503681010,G73y5-1,G73y511,Acroparaesthesia - Nothnagel's type
-"Disease of arteries, arterioles and capilleries",503681010,77788005,503681010,^ESCTNO376565,,Nothnagel's vasomotor acroparaesthesia
-"Disease of arteries, arterioles and capilleries",503681010,77788005,503681010,G73y5,G73y500,Nothnagel's vasomotor acroparaesthesia
-"Disease of arteries, arterioles and capilleries",503681010,77788005,503681010,^ESCTVA376564,,Nothnagel's vasomotor acroparaesthesia
-"Disease of arteries, arterioles and capilleries",503681010,77788005,503681010,^ESCTNO376567,,Nothnagel's vasomotor acroparaesthesia
-"Disease of arteries, arterioles and capilleries",503681010,77788005,503681010,^ESCTVA376563,,Nothnagel's vasomotor acroparaesthesia
-"Disease of arteries, arterioles and capilleries",503681010,77788005,503681010,^ESCTNO376566,,Nothnagel's vasomotor acroparaesthesia
+"Disease of arteries, arterioles and capilleries",454891000006117,77788005,503681010,^ESCTVA376564,G73y500,Acroparaesthesia - Nothnagel's type
+"Disease of arteries, arterioles and capilleries",454891000006117,77788005,503681010,^ESCTNO376567,G73y500,Acroparaesthesia - Nothnagel's type
+"Disease of arteries, arterioles and capilleries",454891000006117,77788005,503681010,^ESCTVA376563,G73y500,Acroparaesthesia - Nothnagel's type
+"Disease of arteries, arterioles and capilleries",454891000006117,77788005,503681010,^ESCTNO376566,G73y500,Acroparaesthesia - Nothnagel's type
+"Disease of arteries, arterioles and capilleries",454891000006117,77788005,503681010,G73y5-1,G73y500,Acroparaesthesia - Nothnagel's type
+"Disease of arteries, arterioles and capilleries",503681010,77788005,503681010,^ESCTNO376565,G73y511,Nothnagel's vasomotor acroparaesthesia
+"Disease of arteries, arterioles and capilleries",503681010,77788005,503681010,G73y5,G73y511,Nothnagel's vasomotor acroparaesthesia
+"Disease of arteries, arterioles and capilleries",503681010,77788005,503681010,^ESCTVA376564,G73y511,Nothnagel's vasomotor acroparaesthesia
+"Disease of arteries, arterioles and capilleries",503681010,77788005,503681010,^ESCTNO376567,G73y511,Nothnagel's vasomotor acroparaesthesia
+"Disease of arteries, arterioles and capilleries",503681010,77788005,503681010,^ESCTVA376563,G73y511,Nothnagel's vasomotor acroparaesthesia
+"Disease of arteries, arterioles and capilleries",503681010,77788005,503681010,^ESCTNO376566,G73y511,Nothnagel's vasomotor acroparaesthesia
 "Disease of arteries, arterioles and capilleries",503681010,77788005,503681010,G73y5-1,G73y511,Nothnagel's vasomotor acroparaesthesia
-"Disease of arteries, arterioles and capilleries",300512014,79256006,131501015,^ESCTAC378892,,Acroparaesthesia - unspecified
-"Disease of arteries, arterioles and capilleries",300512014,79256006,131501015,^ESCTAC378891,,Acroparaesthesia - unspecified
+"Disease of arteries, arterioles and capilleries",300512014,79256006,131501015,^ESCTAC378892,G73y600,Acroparaesthesia - unspecified
+"Disease of arteries, arterioles and capilleries",300512014,79256006,131501015,^ESCTAC378891,G73y600,Acroparaesthesia - unspecified
 "Disease of arteries, arterioles and capilleries",300512014,79256006,131501015,G73y6,G73y600,Acroparaesthesia - unspecified
 "Disease of arteries, arterioles and capilleries",124092018,74725000,124092018,G73y7,G73y700,Erythrocyanosis
-"Disease of arteries, arterioles and capilleries",61977017,37151006,61977017,^ESCTWE309838,,Erythromelalgia
-"Disease of arteries, arterioles and capilleries",61977017,37151006,61977017,^ESCTER309840,,Erythromelalgia
-"Disease of arteries, arterioles and capilleries",61977017,37151006,61977017,G73y8-1,G73y811,Erythromelalgia
+"Disease of arteries, arterioles and capilleries",61977017,37151006,61977017,^ESCTWE309838,G73y800,Erythromelalgia
+"Disease of arteries, arterioles and capilleries",61977017,37151006,61977017,^ESCTER309840,G73y800,Erythromelalgia
+"Disease of arteries, arterioles and capilleries",61977017,37151006,61977017,G73y8-1,G73y800,Erythromelalgia
 "Disease of arteries, arterioles and capilleries",61977017,37151006,61977017,G73y8,G73y800,Erythromelalgia
-"Disease of arteries, arterioles and capilleries",300514010,400047006,1779317016,Gyu74,Gyu7400,Other specified peripheral vascular disease NOS
-"Disease of arteries, arterioles and capilleries",300514010,400047006,1779317016,Gyu7A,Gyu7A00,Other specified peripheral vascular disease NOS
-"Disease of arteries, arterioles and capilleries",300514010,400047006,1779317016,G73y,G73y.00,Other specified peripheral vascular disease NOS
-"Disease of arteries, arterioles and capilleries",300514010,400047006,1779317016,G73y1,G73y100,Other specified peripheral vascular disease NOS
+"Disease of arteries, arterioles and capilleries",300514010,400047006,1779317016,Gyu74,G73yz00,Other specified peripheral vascular disease NOS
+"Disease of arteries, arterioles and capilleries",300514010,400047006,1779317016,Gyu7A,G73yz00,Other specified peripheral vascular disease NOS
+"Disease of arteries, arterioles and capilleries",300514010,400047006,1779317016,G73y,G73yz00,Other specified peripheral vascular disease NOS
+"Disease of arteries, arterioles and capilleries",300514010,400047006,1779317016,G73y1,G73yz00,Other specified peripheral vascular disease NOS
 "Disease of arteries, arterioles and capilleries",300514010,400047006,1779317016,G73yz,G73yz00,Other specified peripheral vascular disease NOS
-"Disease of arteries, arterioles and capilleries",300514010,400047006,1779317016,G73z,G73z.00,Other specified peripheral vascular disease NOS
-"Disease of arteries, arterioles and capilleries",300514010,400047006,1779317016,G73zz,G73zz00,Other specified peripheral vascular disease NOS
-"Disease of arteries, arterioles and capilleries",300514010,400047006,1779317016,^ESCTPV663385,,Other specified peripheral vascular disease NOS
-"Disease of arteries, arterioles and capilleries",300514010,400047006,1779317016,G73,G73..00,Other specified peripheral vascular disease NOS
-"Disease of arteries, arterioles and capilleries",235911000006116,400047006,1779317016,Gyu74,Gyu7400,Peripheral vascular disease
-"Disease of arteries, arterioles and capilleries",235911000006116,400047006,1779317016,Gyu7A,Gyu7A00,Peripheral vascular disease
-"Disease of arteries, arterioles and capilleries",235911000006116,400047006,1779317016,G73y,G73y.00,Peripheral vascular disease
-"Disease of arteries, arterioles and capilleries",235911000006116,400047006,1779317016,G73y1,G73y100,Peripheral vascular disease
-"Disease of arteries, arterioles and capilleries",235911000006116,400047006,1779317016,G73yz,G73yz00,Peripheral vascular disease
+"Disease of arteries, arterioles and capilleries",300514010,400047006,1779317016,G73z,G73yz00,Other specified peripheral vascular disease NOS
+"Disease of arteries, arterioles and capilleries",300514010,400047006,1779317016,G73zz,G73yz00,Other specified peripheral vascular disease NOS
+"Disease of arteries, arterioles and capilleries",300514010,400047006,1779317016,^ESCTPV663385,G73yz00,Other specified peripheral vascular disease NOS
+"Disease of arteries, arterioles and capilleries",300514010,400047006,1779317016,G73,G73yz00,Other specified peripheral vascular disease NOS
+"Disease of arteries, arterioles and capilleries",235911000006116,400047006,1779317016,Gyu74,G73z.00,Peripheral vascular disease
+"Disease of arteries, arterioles and capilleries",235911000006116,400047006,1779317016,Gyu7A,G73z.00,Peripheral vascular disease
+"Disease of arteries, arterioles and capilleries",235911000006116,400047006,1779317016,G73y,G73z.00,Peripheral vascular disease
+"Disease of arteries, arterioles and capilleries",235911000006116,400047006,1779317016,G73y1,G73z.00,Peripheral vascular disease
+"Disease of arteries, arterioles and capilleries",235911000006116,400047006,1779317016,G73yz,G73z.00,Peripheral vascular disease
 "Disease of arteries, arterioles and capilleries",235911000006116,400047006,1779317016,G73z,G73z.00,Peripheral vascular disease
-"Disease of arteries, arterioles and capilleries",235911000006116,400047006,1779317016,G73zz,G73zz00,Peripheral vascular disease
-"Disease of arteries, arterioles and capilleries",235911000006116,400047006,1779317016,^ESCTPV663385,,Peripheral vascular disease
-"Disease of arteries, arterioles and capilleries",235911000006116,400047006,1779317016,G73,G73..00,Peripheral vascular disease
-"Disease of arteries, arterioles and capilleries",105536013,63491006,105536013,^ESCTIC353266,,Intermittent claudication
-"Disease of arteries, arterioles and capilleries",105536013,63491006,105536013,^ESCTMY353265,,Intermittent claudication
-"Disease of arteries, arterioles and capilleries",105536013,63491006,105536013,^ESCTCH353264,,Intermittent claudication
+"Disease of arteries, arterioles and capilleries",235911000006116,400047006,1779317016,G73zz,G73z.00,Peripheral vascular disease
+"Disease of arteries, arterioles and capilleries",235911000006116,400047006,1779317016,^ESCTPV663385,G73z.00,Peripheral vascular disease
+"Disease of arteries, arterioles and capilleries",235911000006116,400047006,1779317016,G73,G73z.00,Peripheral vascular disease
+"Disease of arteries, arterioles and capilleries",105536013,63491006,105536013,^ESCTIC353266,G73z000,Intermittent claudication
+"Disease of arteries, arterioles and capilleries",105536013,63491006,105536013,^ESCTMY353265,G73z000,Intermittent claudication
+"Disease of arteries, arterioles and capilleries",105536013,63491006,105536013,^ESCTCH353264,G73z000,Intermittent claudication
 "Disease of arteries, arterioles and capilleries",105536013,63491006,105536013,G73z0,G73z000,Intermittent claudication
-"Disease of arteries, arterioles and capilleries",105536013,63491006,105536013,G73z0-2,G73z012,Intermittent claudication
-"Disease of arteries, arterioles and capilleries",105536013,63491006,105536013,G73z0-1,G73z011,Intermittent claudication
-"Disease of arteries, arterioles and capilleries",411512011,63491006,3559347018,^ESCTIC353266,,Claudication
-"Disease of arteries, arterioles and capilleries",411512011,63491006,3559347018,^ESCTMY353265,,Claudication
-"Disease of arteries, arterioles and capilleries",411512011,63491006,3559347018,^ESCTCH353264,,Claudication
-"Disease of arteries, arterioles and capilleries",411512011,63491006,3559347018,G73z0,G73z000,Claudication
-"Disease of arteries, arterioles and capilleries",411512011,63491006,3559347018,G73z0-2,G73z012,Claudication
+"Disease of arteries, arterioles and capilleries",105536013,63491006,105536013,G73z0-2,G73z000,Intermittent claudication
+"Disease of arteries, arterioles and capilleries",105536013,63491006,105536013,G73z0-1,G73z000,Intermittent claudication
+"Disease of arteries, arterioles and capilleries",411512011,63491006,3559347018,^ESCTIC353266,G73z011,Claudication
+"Disease of arteries, arterioles and capilleries",411512011,63491006,3559347018,^ESCTMY353265,G73z011,Claudication
+"Disease of arteries, arterioles and capilleries",411512011,63491006,3559347018,^ESCTCH353264,G73z011,Claudication
+"Disease of arteries, arterioles and capilleries",411512011,63491006,3559347018,G73z0,G73z011,Claudication
+"Disease of arteries, arterioles and capilleries",411512011,63491006,3559347018,G73z0-2,G73z011,Claudication
 "Disease of arteries, arterioles and capilleries",411512011,63491006,3559347018,G73z0-1,G73z011,Claudication
-"Disease of arteries, arterioles and capilleries",300515011,400047006,1779317016,Gyu74,Gyu7400,Peripheral vascular disease NOS
-"Disease of arteries, arterioles and capilleries",300515011,400047006,1779317016,Gyu7A,Gyu7A00,Peripheral vascular disease NOS
-"Disease of arteries, arterioles and capilleries",300515011,400047006,1779317016,G73y,G73y.00,Peripheral vascular disease NOS
-"Disease of arteries, arterioles and capilleries",300515011,400047006,1779317016,G73y1,G73y100,Peripheral vascular disease NOS
-"Disease of arteries, arterioles and capilleries",300515011,400047006,1779317016,G73yz,G73yz00,Peripheral vascular disease NOS
-"Disease of arteries, arterioles and capilleries",300515011,400047006,1779317016,G73z,G73z.00,Peripheral vascular disease NOS
+"Disease of arteries, arterioles and capilleries",300515011,400047006,1779317016,Gyu74,G73zz00,Peripheral vascular disease NOS
+"Disease of arteries, arterioles and capilleries",300515011,400047006,1779317016,Gyu7A,G73zz00,Peripheral vascular disease NOS
+"Disease of arteries, arterioles and capilleries",300515011,400047006,1779317016,G73y,G73zz00,Peripheral vascular disease NOS
+"Disease of arteries, arterioles and capilleries",300515011,400047006,1779317016,G73y1,G73zz00,Peripheral vascular disease NOS
+"Disease of arteries, arterioles and capilleries",300515011,400047006,1779317016,G73yz,G73zz00,Peripheral vascular disease NOS
+"Disease of arteries, arterioles and capilleries",300515011,400047006,1779317016,G73z,G73zz00,Peripheral vascular disease NOS
 "Disease of arteries, arterioles and capilleries",300515011,400047006,1779317016,G73zz,G73zz00,Peripheral vascular disease NOS
-"Disease of arteries, arterioles and capilleries",300515011,400047006,1779317016,^ESCTPV663385,,Peripheral vascular disease NOS
-"Disease of arteries, arterioles and capilleries",300515011,400047006,1779317016,G73,G73..00,Peripheral vascular disease NOS
-"Disease of arteries, arterioles and capilleries",350564010,233972005,350564010,G740-1,G740.11,Aortoiliac obstruction
-"Disease of arteries, arterioles and capilleries",350564010,233972005,350564010,^ESCTAO505829,,Aortoiliac obstruction
-"Disease of arteries, arterioles and capilleries",350564010,233972005,350564010,^ESCTAO505825,,Aortoiliac obstruction
-"Disease of arteries, arterioles and capilleries",350564010,233972005,350564010,^ESCTSA505828,,Aortoiliac obstruction
-"Disease of arteries, arterioles and capilleries",350564010,233972005,350564010,G740-4,G740.14,Aortoiliac obstruction
+"Disease of arteries, arterioles and capilleries",300515011,400047006,1779317016,^ESCTPV663385,G73zz00,Peripheral vascular disease NOS
+"Disease of arteries, arterioles and capilleries",300515011,400047006,1779317016,G73,G73zz00,Peripheral vascular disease NOS
+"Disease of arteries, arterioles and capilleries",350564010,233972005,350564010,G740-1,G740.12,Aortoiliac obstruction
+"Disease of arteries, arterioles and capilleries",350564010,233972005,350564010,^ESCTAO505829,G740.12,Aortoiliac obstruction
+"Disease of arteries, arterioles and capilleries",350564010,233972005,350564010,^ESCTAO505825,G740.12,Aortoiliac obstruction
+"Disease of arteries, arterioles and capilleries",350564010,233972005,350564010,^ESCTSA505828,G740.12,Aortoiliac obstruction
+"Disease of arteries, arterioles and capilleries",350564010,233972005,350564010,G740-4,G740.12,Aortoiliac obstruction
 "Disease of arteries, arterioles and capilleries",350564010,233972005,350564010,G740-2,G740.12,Aortoiliac obstruction
 "Disease of arteries, arterioles and capilleries",300539018,195323006,300539018,G7424,G742400,Embolism and thrombosis of the femoral artery
 "Disease of arteries, arterioles and capilleries",300540016,195324000,300540016,G7425,G742500,Embolism and thrombosis of the popliteal artery
 "Disease of arteries, arterioles and capilleries",300541017,195325004,300541017,G7426,G742600,Embolism and thrombosis of the anterior tibial artery
 "Disease of arteries, arterioles and capilleries",300542012,195326003,300542012,G7427,G742700,Embolism and thrombosis of the dorsalis pedis artery
-"Disease of arteries, arterioles and capilleries",300547018,195318006,300534011,G7423,G742300,Embolism and thrombosis of a leg artery NOS
+"Disease of arteries, arterioles and capilleries",300547018,195318006,300534011,G7423,G742900,Embolism and thrombosis of a leg artery NOS
 "Disease of arteries, arterioles and capilleries",300547018,195318006,300534011,G7429,G742900,Embolism and thrombosis of a leg artery NOS
-"Disease of arteries, arterioles and capilleries",300547018,195318006,300534011,G742z,G742z00,Embolism and thrombosis of a leg artery NOS
-"Disease of arteries, arterioles and capilleries",300547018,195318006,300534011,G742,G742.00,Embolism and thrombosis of a leg artery NOS
-"Disease of arteries, arterioles and capilleries",300550015,195318006,300534011,G7423,G742300,Peripheral arterial embolism and thrombosis NOS
-"Disease of arteries, arterioles and capilleries",300550015,195318006,300534011,G7429,G742900,Peripheral arterial embolism and thrombosis NOS
+"Disease of arteries, arterioles and capilleries",300547018,195318006,300534011,G742z,G742900,Embolism and thrombosis of a leg artery NOS
+"Disease of arteries, arterioles and capilleries",300547018,195318006,300534011,G742,G742900,Embolism and thrombosis of a leg artery NOS
+"Disease of arteries, arterioles and capilleries",300550015,195318006,300534011,G7423,G742z00,Peripheral arterial embolism and thrombosis NOS
+"Disease of arteries, arterioles and capilleries",300550015,195318006,300534011,G7429,G742z00,Peripheral arterial embolism and thrombosis NOS
 "Disease of arteries, arterioles and capilleries",300550015,195318006,300534011,G742z,G742z00,Peripheral arterial embolism and thrombosis NOS
-"Disease of arteries, arterioles and capilleries",300550015,195318006,300534011,G742,G742.00,Peripheral arterial embolism and thrombosis NOS
+"Disease of arteries, arterioles and capilleries",300550015,195318006,300534011,G742,G742z00,Peripheral arterial embolism and thrombosis NOS
 "Disease of arteries, arterioles and capilleries",300553018,195335005,300553018,G74y0,G74y000,Embolism and/or thrombosis of the common iliac artery
 "Disease of arteries, arterioles and capilleries",300554012,734298005,3503835018,G74y1,G74y100,Embolism and/or thrombosis of the internal iliac artery
-"Disease of arteries, arterioles and capilleries",300554012,734298005,3503835018,^ESCT1164290,,Embolism and/or thrombosis of the internal iliac artery
+"Disease of arteries, arterioles and capilleries",300554012,734298005,3503835018,^ESCT1164290,G74y100,Embolism and/or thrombosis of the internal iliac artery
 "Disease of arteries, arterioles and capilleries",300555013,734299002,3503839012,G74y2,G74y200,Embolism and/or thrombosis of the external iliac artery
-"Disease of arteries, arterioles and capilleries",300555013,734299002,3503839012,^ESCT1164291,,Embolism and/or thrombosis of the external iliac artery
+"Disease of arteries, arterioles and capilleries",300555013,734299002,3503839012,^ESCT1164291,G74y200,Embolism and/or thrombosis of the external iliac artery
 "Disease of arteries, arterioles and capilleries",300556014,266262004,395794011,G74y3,G74y300,Embolism and thrombosis of the iliac artery unspecified
-"Disease of arteries, arterioles and capilleries",300556014,266262004,395794011,Gyu75,Gyu7500,Embolism and thrombosis of the iliac artery unspecified
-"Disease of arteries, arterioles and capilleries",300556014,266262004,395794011,G74z,G74z.00,Embolism and thrombosis of the iliac artery unspecified
-"Disease of arteries, arterioles and capilleries",300556014,266262004,395794011,G74yz,G74yz00,Embolism and thrombosis of the iliac artery unspecified
-"Disease of arteries, arterioles and capilleries",300556014,266262004,395794011,G74-1,G74..11,Embolism and thrombosis of the iliac artery unspecified
-"Disease of arteries, arterioles and capilleries",300556014,266262004,395794011,G74,G74..00,Embolism and thrombosis of the iliac artery unspecified
-"Disease of arteries, arterioles and capilleries",300556014,266262004,395794011,G74-3,G74..13,Embolism and thrombosis of the iliac artery unspecified
-"Disease of arteries, arterioles and capilleries",300556014,266262004,395794011,G74y,G74y.00,Embolism and thrombosis of the iliac artery unspecified
-"Disease of arteries, arterioles and capilleries",300556014,266262004,395794011,G74-99,G74..99,Embolism and thrombosis of the iliac artery unspecified
+"Disease of arteries, arterioles and capilleries",300556014,266262004,395794011,Gyu75,G74y300,Embolism and thrombosis of the iliac artery unspecified
+"Disease of arteries, arterioles and capilleries",300556014,266262004,395794011,G74z,G74y300,Embolism and thrombosis of the iliac artery unspecified
+"Disease of arteries, arterioles and capilleries",300556014,266262004,395794011,G74yz,G74y300,Embolism and thrombosis of the iliac artery unspecified
+"Disease of arteries, arterioles and capilleries",300556014,266262004,395794011,G74-1,G74y300,Embolism and thrombosis of the iliac artery unspecified
+"Disease of arteries, arterioles and capilleries",300556014,266262004,395794011,G74,G74y300,Embolism and thrombosis of the iliac artery unspecified
+"Disease of arteries, arterioles and capilleries",300556014,266262004,395794011,G74-3,G74y300,Embolism and thrombosis of the iliac artery unspecified
+"Disease of arteries, arterioles and capilleries",300556014,266262004,395794011,G74y,G74y300,Embolism and thrombosis of the iliac artery unspecified
+"Disease of arteries, arterioles and capilleries",300556014,266262004,395794011,G74-99,G74y300,Embolism and thrombosis of the iliac artery unspecified
 "Disease of arteries, arterioles and capilleries",300963017,400047006,1779317016,Gyu74,Gyu7400,[X]Other specified peripheral vascular diseases
-"Disease of arteries, arterioles and capilleries",300963017,400047006,1779317016,Gyu7A,Gyu7A00,[X]Other specified peripheral vascular diseases
-"Disease of arteries, arterioles and capilleries",300963017,400047006,1779317016,G73y,G73y.00,[X]Other specified peripheral vascular diseases
-"Disease of arteries, arterioles and capilleries",300963017,400047006,1779317016,G73y1,G73y100,[X]Other specified peripheral vascular diseases
-"Disease of arteries, arterioles and capilleries",300963017,400047006,1779317016,G73yz,G73yz00,[X]Other specified peripheral vascular diseases
-"Disease of arteries, arterioles and capilleries",300963017,400047006,1779317016,G73z,G73z.00,[X]Other specified peripheral vascular diseases
-"Disease of arteries, arterioles and capilleries",300963017,400047006,1779317016,G73zz,G73zz00,[X]Other specified peripheral vascular diseases
-"Disease of arteries, arterioles and capilleries",300963017,400047006,1779317016,^ESCTPV663385,,[X]Other specified peripheral vascular diseases
-"Disease of arteries, arterioles and capilleries",300963017,400047006,1779317016,G73,G73..00,[X]Other specified peripheral vascular diseases
-"Disease of arteries, arterioles and capilleries",357895013,238793001,357895013,^ESCTIS512644,,Ischaemic leg ulcer
-"Disease of arteries, arterioles and capilleries",357895013,238793001,357895013,M2713,M271300,Ischaemic leg ulcer
+"Disease of arteries, arterioles and capilleries",300963017,400047006,1779317016,Gyu7A,Gyu7400,[X]Other specified peripheral vascular diseases
+"Disease of arteries, arterioles and capilleries",300963017,400047006,1779317016,G73y,Gyu7400,[X]Other specified peripheral vascular diseases
+"Disease of arteries, arterioles and capilleries",300963017,400047006,1779317016,G73y1,Gyu7400,[X]Other specified peripheral vascular diseases
+"Disease of arteries, arterioles and capilleries",300963017,400047006,1779317016,G73yz,Gyu7400,[X]Other specified peripheral vascular diseases
+"Disease of arteries, arterioles and capilleries",300963017,400047006,1779317016,G73z,Gyu7400,[X]Other specified peripheral vascular diseases
+"Disease of arteries, arterioles and capilleries",300963017,400047006,1779317016,G73zz,Gyu7400,[X]Other specified peripheral vascular diseases
+"Disease of arteries, arterioles and capilleries",300963017,400047006,1779317016,^ESCTPV663385,Gyu7400,[X]Other specified peripheral vascular diseases
+"Disease of arteries, arterioles and capilleries",300963017,400047006,1779317016,G73,Gyu7400,[X]Other specified peripheral vascular diseases
+"Disease of arteries, arterioles and capilleries",357895013,238793001,357895013,^ESCTIS512644,M271.12,Ischaemic leg ulcer
+"Disease of arteries, arterioles and capilleries",357895013,238793001,357895013,M2713,M271.12,Ischaemic leg ulcer
 "Disease of arteries, arterioles and capilleries",357895013,238793001,357895013,M271-2,M271.12,Ischaemic leg ulcer
 "Disease of arteries, arterioles and capilleries",309177010,201250006,309177010,M2710,M271000,Ischaemic ulcer diabetic foot
-"Disease of arteries, arterioles and capilleries",309177010,201250006,309177010,^ESCTIS480757,,Ischaemic ulcer diabetic foot
-"Disease of arteries, arterioles and capilleries",357894012,238793001,357894012,^ESCTIS512644,,Arterial leg ulcer
+"Disease of arteries, arterioles and capilleries",309177010,201250006,309177010,^ESCTIS480757,M271000,Ischaemic ulcer diabetic foot
+"Disease of arteries, arterioles and capilleries",357894012,238793001,357894012,^ESCTIS512644,M271300,Arterial leg ulcer
 "Disease of arteries, arterioles and capilleries",357894012,238793001,357894012,M2713,M271300,Arterial leg ulcer
-"Disease of arteries, arterioles and capilleries",357894012,238793001,357894012,M271-2,M271.12,Arterial leg ulcer
-"Disease of arteries, arterioles and capilleries",357893018,238792006,357893018,^ESCTMI512640,,Mixed venous and arterial leg ulcer
+"Disease of arteries, arterioles and capilleries",357894012,238793001,357894012,M271-2,M271300,Arterial leg ulcer
+"Disease of arteries, arterioles and capilleries",357893018,238792006,357893018,^ESCTMI512640,M271400,Mixed venous and arterial leg ulcer
 "Disease of arteries, arterioles and capilleries",357893018,238792006,357893018,M2714,M271400,Mixed venous and arterial leg ulcer
 "Disease of arteries, arterioles and capilleries",317347010,195302000,300505017,R0542,R054200,[D]Gangrene of toe in diabetic
-"Disease of arteries, arterioles and capilleries",317347010,195302000,300505017,G7320,G732000,[D]Gangrene of toe in diabetic
+"Disease of arteries, arterioles and capilleries",317347010,195302000,300505017,G7320,R054200,[D]Gangrene of toe in diabetic
 "Disease of arteries, arterioles and capilleries",317348017,195303005,300506016,R0543,R054300,[D]Widespread diabetic foot gangrene
-"Disease of arteries, arterioles and capilleries",317348017,195303005,300506016,G7321,G732100,[D]Widespread diabetic foot gangrene
-"Disease of arteries, arterioles and capilleries",317351012,27942005,46780018,Ryu72,Ryu7200,Shock
-"Disease of arteries, arterioles and capilleries",317351012,27942005,46780018,^ESCTPE294852,,Shock
-"Disease of arteries, arterioles and capilleries",317351012,27942005,46780018,^ESCTPE294851,,Shock
-"Disease of arteries, arterioles and capilleries",317351012,27942005,46780018,^ESCTAC294854,,Shock
-"Disease of arteries, arterioles and capilleries",317351012,27942005,46780018,^ESCTPE294853,,Shock
-"Disease of arteries, arterioles and capilleries",317351012,27942005,46780018,^ESCTSH294855,,Shock
-"Disease of arteries, arterioles and capilleries",317351012,27942005,46780018,^ESCTCI294850,,Shock
-"Disease of arteries, arterioles and capilleries",317351012,27942005,46780018,R055z,R055z00,Shock
-"Disease of arteries, arterioles and capilleries",317351012,27942005,46780018,R0550-1,R055011,Shock
-"Disease of arteries, arterioles and capilleries",317351012,27942005,46780018,R055,R055.00,Shock
+"Disease of arteries, arterioles and capilleries",317348017,195303005,300506016,G7321,R054300,[D]Widespread diabetic foot gangrene
+"Disease of arteries, arterioles and capilleries",317351012,27942005,46780018,Ryu72,R055000,Shock
+"Disease of arteries, arterioles and capilleries",317351012,27942005,46780018,^ESCTPE294852,R055000,Shock
+"Disease of arteries, arterioles and capilleries",317351012,27942005,46780018,^ESCTPE294851,R055000,Shock
+"Disease of arteries, arterioles and capilleries",317351012,27942005,46780018,^ESCTAC294854,R055000,Shock
+"Disease of arteries, arterioles and capilleries",317351012,27942005,46780018,^ESCTPE294853,R055000,Shock
+"Disease of arteries, arterioles and capilleries",317351012,27942005,46780018,^ESCTSH294855,R055000,Shock
+"Disease of arteries, arterioles and capilleries",317351012,27942005,46780018,^ESCTCI294850,R055000,Shock
+"Disease of arteries, arterioles and capilleries",317351012,27942005,46780018,R055z,R055000,Shock
+"Disease of arteries, arterioles and capilleries",317351012,27942005,46780018,R0550-1,R055000,Shock
+"Disease of arteries, arterioles and capilleries",317351012,27942005,46780018,R055,R055000,Shock
 "Disease of arteries, arterioles and capilleries",317351012,27942005,46780018,R0550,R055000,Shock
-"Disease of arteries, arterioles and capilleries",1222508013,27942005,46780018,Ryu72,Ryu7200,[D]Peripheral circulatory failure
-"Disease of arteries, arterioles and capilleries",1222508013,27942005,46780018,^ESCTPE294852,,[D]Peripheral circulatory failure
-"Disease of arteries, arterioles and capilleries",1222508013,27942005,46780018,^ESCTPE294851,,[D]Peripheral circulatory failure
-"Disease of arteries, arterioles and capilleries",1222508013,27942005,46780018,^ESCTAC294854,,[D]Peripheral circulatory failure
-"Disease of arteries, arterioles and capilleries",1222508013,27942005,46780018,^ESCTPE294853,,[D]Peripheral circulatory failure
-"Disease of arteries, arterioles and capilleries",1222508013,27942005,46780018,^ESCTSH294855,,[D]Peripheral circulatory failure
-"Disease of arteries, arterioles and capilleries",1222508013,27942005,46780018,^ESCTCI294850,,[D]Peripheral circulatory failure
-"Disease of arteries, arterioles and capilleries",1222508013,27942005,46780018,R055z,R055z00,[D]Peripheral circulatory failure
+"Disease of arteries, arterioles and capilleries",1222508013,27942005,46780018,Ryu72,R055011,[D]Peripheral circulatory failure
+"Disease of arteries, arterioles and capilleries",1222508013,27942005,46780018,^ESCTPE294852,R055011,[D]Peripheral circulatory failure
+"Disease of arteries, arterioles and capilleries",1222508013,27942005,46780018,^ESCTPE294851,R055011,[D]Peripheral circulatory failure
+"Disease of arteries, arterioles and capilleries",1222508013,27942005,46780018,^ESCTAC294854,R055011,[D]Peripheral circulatory failure
+"Disease of arteries, arterioles and capilleries",1222508013,27942005,46780018,^ESCTPE294853,R055011,[D]Peripheral circulatory failure
+"Disease of arteries, arterioles and capilleries",1222508013,27942005,46780018,^ESCTSH294855,R055011,[D]Peripheral circulatory failure
+"Disease of arteries, arterioles and capilleries",1222508013,27942005,46780018,^ESCTCI294850,R055011,[D]Peripheral circulatory failure
+"Disease of arteries, arterioles and capilleries",1222508013,27942005,46780018,R055z,R055011,[D]Peripheral circulatory failure
 "Disease of arteries, arterioles and capilleries",1222508013,27942005,46780018,R0550-1,R055011,[D]Peripheral circulatory failure
-"Disease of arteries, arterioles and capilleries",1222508013,27942005,46780018,R055,R055.00,[D]Peripheral circulatory failure
-"Disease of arteries, arterioles and capilleries",1222508013,27942005,46780018,R0550,R055000,[D]Peripheral circulatory failure
+"Disease of arteries, arterioles and capilleries",1222508013,27942005,46780018,R055,R055011,[D]Peripheral circulatory failure
+"Disease of arteries, arterioles and capilleries",1222508013,27942005,46780018,R0550,R055011,[D]Peripheral circulatory failure

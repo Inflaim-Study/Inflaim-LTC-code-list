@@ -1,44 +1,28 @@
 Condition,ReadCode,CleansedReadCode,Term
-Glaucoma,,,COAG - Chronic open-angle glaucoma
-Glaucoma,,,CSG - Chronic simple glaucoma
-Glaucoma,,,Chronic angle-closure glaucoma
-Glaucoma,,,Glaucoma left eye
-Glaucoma,,,Glaucoma right eye
-Glaucoma,,,Intermittent angle-closure glaucoma
-Glaucoma,,,Normal tension glaucoma
-Glaucoma,,,POAG - Primary open-angle glaucoma
-Glaucoma,,,Phacomorphic glaucoma
-Glaucoma,,,Primary closed-angle glaucoma
-Glaucoma,,,Primary open angle glaucoma
-Glaucoma,,,Secondary angle-closure glaucoma with pupil block
-Glaucoma,,,Secondary/other glaucoma
-Glaucoma,,,Steroid-induced glaucoma glaucomatous stage
-Glaucoma,,,[RFC] Glaucoma
-Glaucoma,,,other specified forms of glaucoma
-Glaucoma,7275,,Pan retinal photocoagulation for glaucoma
-Glaucoma,F404211,,Glaucoma - absolute
-Glaucoma,F45..00,,Glaucoma
-Glaucoma,F450100,,Open angle glaucoma with borderline intraocular pressure
-Glaucoma,F451.00,,Open-angle glaucoma
-Glaucoma,F451000,,Unspecified open-angle glaucoma
-Glaucoma,F451100,,Primary open-angle glaucoma
-Glaucoma,F451111,,Simple chronic glaucoma
-Glaucoma,F451200,,Low tension glaucoma
-Glaucoma,F451211,,Normal pressure glaucoma
-Glaucoma,F451500,,Open-angle glaucoma residual stage
-Glaucoma,F451z00,,Open-angle glaucoma NOS
-Glaucoma,F452.00,,Primary angle-closure glaucoma
-Glaucoma,F452.11,,Closed angle glaucoma
-Glaucoma,F452000,,Unspecified primary angle-closure glaucoma
-Glaucoma,F452100,,Intermittent primary angle-closure glaucoma
-Glaucoma,F452300,,Chronic primary angle-closure glaucoma
-Glaucoma,F452400,,Primary angle-closure glaucoma residual stage
-Glaucoma,F452500,,Plateau iris
-Glaucoma,F452z00,,Primary angle-closure glaucoma NOS
-Glaucoma,F45y.00,,Other specified forms of glaucoma
-Glaucoma,F45y200,,Low tension glaucoma
-Glaucoma,F45yz00,,Other specified glaucoma NOS
-Glaucoma,F45z.00,,Glaucoma NOS
-Glaucoma,F463100,,Glaucomatous subcapsular flecks
-Glaucoma,F4H1400,,Optic disc glaucomatous atrophy
-Glaucoma,FyuG.00,,[X]Glaucoma
+Glaucoma,7275,7275.00,Pan retinal photocoagulation for glaucoma
+Glaucoma,F404211,F404211,Glaucoma - absolute
+Glaucoma,F45..00,F45..00,Glaucoma
+Glaucoma,F450100,F450100,Open angle glaucoma with borderline intraocular pressure
+Glaucoma,F451.00,F451.00,Open-angle glaucoma
+Glaucoma,F451000,F451000,Unspecified open-angle glaucoma
+Glaucoma,F451100,F451100,Primary open-angle glaucoma
+Glaucoma,F451111,F451111,Simple chronic glaucoma
+Glaucoma,F451200,F451200,Low tension glaucoma
+Glaucoma,F451211,F451211,Normal pressure glaucoma
+Glaucoma,F451500,F451500,Open-angle glaucoma residual stage
+Glaucoma,F451z00,F451z00,Open-angle glaucoma NOS
+Glaucoma,F452.00,F452.00,Primary angle-closure glaucoma
+Glaucoma,F452.11,F452.11,Closed angle glaucoma
+Glaucoma,F452000,F452000,Unspecified primary angle-closure glaucoma
+Glaucoma,F452100,F452100,Intermittent primary angle-closure glaucoma
+Glaucoma,F452300,F452300,Chronic primary angle-closure glaucoma
+Glaucoma,F452400,F452400,Primary angle-closure glaucoma residual stage
+Glaucoma,F452500,F452500,Plateau iris
+Glaucoma,F452z00,F452z00,Primary angle-closure glaucoma NOS
+Glaucoma,F45y.00,F45y.00,Other specified forms of glaucoma
+Glaucoma,F45y200,F45y200,Low tension glaucoma
+Glaucoma,F45yz00,F45yz00,Other specified glaucoma NOS
+Glaucoma,F45z.00,F45z.00,Glaucoma NOS
+Glaucoma,F463100,F463100,Glaucomatous subcapsular flecks
+Glaucoma,F4H1400,F4H1400,Optic disc glaucomatous atrophy
+Glaucoma,FyuG.00,FyuG.00,[X]Glaucoma

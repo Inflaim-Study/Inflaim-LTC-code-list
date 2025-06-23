@@ -1,4 +1,4 @@
-Condition,MedCode,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
+Condition,MedCodeId,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
 Hypoparathyroidism,297635015,57958006,96350012,F395,F395.00,Myopathy due to endocrine disease EC
 Hypoparathyroidism,3441491000006113,57958006,96353014,^ESCTMU344149,,Muscle disease related to endocrine disease
 Hypoparathyroidism,3095731000006119,36976004,61681019,^ESCTDE309573,,Deficiency of parathyrin

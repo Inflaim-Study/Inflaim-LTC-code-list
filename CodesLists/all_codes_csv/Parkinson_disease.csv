@@ -1,10 +1,10 @@
-Condition,MedCode,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
+Condition,MedCodeId,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
 Parkinson disease,3293631000006118,49049000,1230677014,,,Idiopathic Parkinson's disease
 Parkinson disease,905821000006112,905821000006108,905821000006112,,,[RFC] Parkinson's disease
 Parkinson disease,909021000006117,909021000006101,909021000006117,,,[RFC] Parkinson's disease
 Parkinson disease,3293611000006112,49049000,81719014,,,paralysis agitans
-Parkinson disease,295688010,425390006,2921040013,Eu02300,,[X]Dementia in Parkinson's disease
-Parkinson disease,636681000000117,341551000000108,636681000000117,F11x900,,Cerebral degeneration in Parkinson's disease
-Parkinson disease,81717011,49049000,81717011,F12..00,,Parkinson's disease
-Parkinson disease,81719014,49049000,81717011,F120.00,,Paralysis agitans
-Parkinson disease,297037012,49049000,81717011,F12z.00,,Parkinson's disease NOS
+Parkinson disease,295688010,425390006,2921040013,Eu02300,Eu02300,[X]Dementia in Parkinson's disease
+Parkinson disease,636681000000117,341551000000108,636681000000117,F11x900,F11x900,Cerebral degeneration in Parkinson's disease
+Parkinson disease,81717011,49049000,81717011,F12..00,F12..00,Parkinson's disease
+Parkinson disease,81719014,49049000,81717011,F120.00,F120.00,Paralysis agitans
+Parkinson disease,297037012,49049000,81717011,F12z.00,F12z.00,Parkinson's disease NOS

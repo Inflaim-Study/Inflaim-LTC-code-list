@@ -1,71 +1,10 @@
 Condition,ReadCode,CleansedReadCode,Term
-Chronic kidney disease,,,CKD (chronic kidney disease) stage 3 with proteinuria
-Chronic kidney disease,,,CKD (chronic kidney disease) stage 3 without proteinuria
-Chronic kidney disease,,,CKD (chronic kidney disease) stage 3A with proteinuria
-Chronic kidney disease,,,CKD (chronic kidney disease) stage 3A without proteinuria
-Chronic kidney disease,,,CKD (chronic kidney disease) stage 3B with proteinuria
-Chronic kidney disease,,,CKD (chronic kidney disease) stage 3B without proteinuria
-Chronic kidney disease,,,CKD (chronic kidney disease) stage 4 with proteinuria
-Chronic kidney disease,,,CKD (chronic kidney disease) stage 4 without proteinuria
-Chronic kidney disease,,,CKD (chronic kidney disease) stage 5 with proteinuria
-Chronic kidney disease,,,CKD (chronic kidney disease) stage 5 without proteinuria
-Chronic kidney disease,,,CKD stage 3
-Chronic kidney disease,,,CKD stage 3 with proteinuria
-Chronic kidney disease,,,CKD stage 3 without proteinuria
-Chronic kidney disease,,,CKD stage 3A with proteinuria
-Chronic kidney disease,,,CKD stage 3A without proteinuria
-Chronic kidney disease,,,CKD stage 3B with proteinuria
-Chronic kidney disease,,,CKD stage 3B without proteinuria
-Chronic kidney disease,,,CKD stage 4
-Chronic kidney disease,,,CKD stage 4 with proteinuria
-Chronic kidney disease,,,CKD stage 4 without proteinuria
-Chronic kidney disease,,,CKD stage 5
-Chronic kidney disease,,,CKD stage 5 with proteinuria
-Chronic kidney disease,,,CKD with GFR category G3a & albuminuria category A1
-Chronic kidney disease,,,CKD with GFR category G3a & albuminuria category A2
-Chronic kidney disease,,,CKD with GFR category G3a & albuminuria category A3
-Chronic kidney disease,,,CKD with GFR category G3b & albuminuria category A1
-Chronic kidney disease,,,CKD with GFR category G3b & albuminuria category A2
-Chronic kidney disease,,,CKD with GFR category G3b & albuminuria category A3
-Chronic kidney disease,,,CKD with GFR category G4 & albuminuria category A1
-Chronic kidney disease,,,CKD with GFR category G4 & albuminuria category A2
-Chronic kidney disease,,,CKD with GFR category G4 & albuminuria category A3
-Chronic kidney disease,,,CKD with GFR category G5 & albuminuria category A1
-Chronic kidney disease,,,CKD with GFR category G5 & albuminuria category A2
-Chronic kidney disease,,,CKD with GFR category G5 & albuminuria category A3
-Chronic kidney disease,,,Chronic kidney disease stage 3
-Chronic kidney disease,,,Chronic kidney disease stage 3 with proteinuria
-Chronic kidney disease,,,Chronic kidney disease stage 3 without proteinuria
-Chronic kidney disease,,,Chronic kidney disease stage 3A
-Chronic kidney disease,,,Chronic kidney disease stage 3A with proteinuria
-Chronic kidney disease,,,Chronic kidney disease stage 3A without proteinuria
-Chronic kidney disease,,,Chronic kidney disease stage 3B
-Chronic kidney disease,,,Chronic kidney disease stage 3B with proteinuria
-Chronic kidney disease,,,Chronic kidney disease stage 3B without proteinuria
-Chronic kidney disease,,,Chronic kidney disease stage 4
-Chronic kidney disease,,,Chronic kidney disease stage 4 with proteinuria
-Chronic kidney disease,,,Chronic kidney disease stage 4 without proteinuria
-Chronic kidney disease,,,Chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A1
-Chronic kidney disease,,,Chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A2
-Chronic kidney disease,,,Chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A3
-Chronic kidney disease,,,Chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A1
-Chronic kidney disease,,,Chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A2
-Chronic kidney disease,,,Chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A3
-Chronic kidney disease,,,Chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A1
-Chronic kidney disease,,,Chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A2
-Chronic kidney disease,,,Chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A3
-Chronic kidney disease,,,Chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A1
-Chronic kidney disease,,,Chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A2
-Chronic kidney disease,,,Chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A3
-Chronic kidney disease,,,MCKD - Multicystic kidney disease
-Chronic kidney disease,,,chronic kidney disease stage 5
-Chronic kidney disease,,,end-stage renal disease
-Chronic kidney disease,1Z14.00,,Chronic kidney disease stage 5
-Chronic kidney disease,1Z1K.00,,Chronic kidney disease stage 5 with proteinuria
-Chronic kidney disease,1Z1L.00,,Chronic kidney disease stage 5 without proteinuria
-Chronic kidney disease,1Z1L.11,,CKD stage 5 without proteinuria
-Chronic kidney disease,K05..12,,End stage renal failure
-Chronic kidney disease,K050.00,,End stage renal failure
-Chronic kidney disease,K0D..00,,End-stage renal disease
-Chronic kidney disease,SP08D00,,Acute-on-chronic rejection of renal transplant
-Chronic kidney disease,SP08J00,,Chronic rejection of renal transplant
+Chronic kidney disease,1Z14.00,1Z14.00,Chronic kidney disease stage 5
+Chronic kidney disease,1Z1K.00,1Z1K.00,Chronic kidney disease stage 5 with proteinuria
+Chronic kidney disease,1Z1L.00,1Z1L.00,Chronic kidney disease stage 5 without proteinuria
+Chronic kidney disease,1Z1L.11,1Z1L.11,CKD stage 5 without proteinuria
+Chronic kidney disease,K05..12,K05..12,End stage renal failure
+Chronic kidney disease,K050.00,K050.00,End stage renal failure
+Chronic kidney disease,K0D..00,K0D..00,End-stage renal disease
+Chronic kidney disease,SP08D00,SP08D00,Acute-on-chronic rejection of renal transplant
+Chronic kidney disease,SP08J00,SP08J00,Chronic rejection of renal transplant

@@ -1,4 +1,4 @@
-Condition,MedCode,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
+Condition,MedCodeId,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
 In situ neoplasms,4006901000006117,92605003,1235747011,^ESCTCA400690,,Carcinoma in situ of gingiva
 In situ neoplasms,4007771000006112,92668003,1235757012,^ESCTCA400777,,Carcinoma in situ of mesopharynx
 In situ neoplasms,4007711000006115,92664001,510063016,^ESCTCA400771,,Carcinoma in situ of epipharynx
@@ -83,7 +83,7 @@ In situ neoplasms,153141016,92575005,153141016,B8032,B803200,Carcinoma in situ o
 In situ neoplasms,153187010,92608001,153187010,B8030,B803000,Carcinoma in situ of hepatic flexure of colon
 In situ neoplasms,201638010,92559007,201638010,B8034,B803400,Carcinoma in situ of caecum
 In situ neoplasms,153313014,92708008,153313014,B8033,B803300,Carcinoma in situ of sigmoid colon
-In situ neoplasms,2200621000000112,849091000000106,2200621000000112,B8038,B803800,High grade dysplasia of colon
+In situ neoplasms,2200621000000112,849091000000106,2200621000000112,B8038,,High grade dysplasia of colon
 In situ neoplasms,531861000006117,92600008,153176019,B80-1,B80..11,Ca-in-situ of G.I. tract
 In situ neoplasms,4006821000006119,92600008,3036558010,^ESCTCA400682,,Cancer in situ of gastrointestinal tract
 In situ neoplasms,290749015,189229003,290749015,B8037,B803700,Carcinoma in situ of splenic flexure of colon
