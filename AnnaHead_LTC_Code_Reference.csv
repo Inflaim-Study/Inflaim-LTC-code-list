@@ -1,0 +1,45 @@
+ICD-10 Chapter,Condition,listed_name,Code,Reference
+Certain infectious and parasitic diseases,HIV disease,HIV,B20-B24,Anna Head
+Certain infectious and parasitic diseases,Chronic viral hepatitis,Chronic viral hepatitis,B18-B19,Anna Head
+Neoplasms,Malignant neoplasms ,"Primary Malignancy_Oropharyngeal, Primary Malignancy_Oesophageal,Primary Malignancy_Stomach,Primary Malignancy_Bowel, Primary Malignancy_Brain,Primary Malignancy_Pancreas,Primary Malignancy_Liver,Primary Malignancy_Breast,Malignancy_Cervix,Primary Malignancy_Kidney,Primary Malignancy_Liver,Primary Malignancy_Lung,Primary Malignancy_Melanom,PrimaryMalignancy_Mesothelioma,Primary Malignancy_Multiple Sites,Primary Malignancy_Prostate, Primary Malignancy_Skin,Primary,Primary Malignancy_Mesothelioma,Primary Malignancy_Testis, Primary Malignancy_Thyroid,Primary Malignancy_Uterus,Primary Malignancy_Biliary Tract,Primary Malignancy_Melanoma,Primary Malignancy_other,Primary Malignancy_Ovary,Primary Malignancy_Bladder,","C00-C80, C97, D37-D44, D47, D48",Anna Head
+,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue","Hodgkin Lymphoma, Plasma Cell Malignancy,Non-Hodgkin Lymphoma,Leukaemia,",C81-C96,Anna Head
+"Endocrine, nutritional and metabolic disorders",Disorders of thryoid gland,Thyroid Disease,E00-E07,Anna Head
+"Endocrine, nutritional and metabolic disorders",Diabetes,"Type 2 Diabetes Mellitus, Diabetes Mellitus_other or not specified, Type 1 Diabetes Mellitus",E10-E14,Anna Head
+Mental and behavioural disorders,Dementia,Dementia,F00-F03,Anna Head
+Mental and behavioural disorders,Drug or alcohol misuse,Substance Misuse,F10-F19,Anna Head
+Mental and behavioural disorders,Schizophrenia,Schizophrenia,F20-F29,Anna Head
+Mental and behavioural disorders,Mood disorders ,"Bipolar affective disorder and mania, Depression",F30-F39,Anna Head
+Mental and behavioural disorders,"Neurotic, stress-related and somatoform disorders",Anxiety disorders,F40-F48,Anna Head
+Mental and behavioural disorders,Eating disorders,Eating Disorders,F50,Anna Head
+Diseases of the nervous system,Parkinson disease,Parkinson's disease,G20-G21,Anna Head
+Diseases of the nervous system,Multiple sclerosis (and optic neuritis),Multiple sclerosis,"G35, H46",Anna Head
+Diseases of the nervous system,Epilepsy,Epilepsy,G40,Anna Head
+Diseases of the nervous system,Migraine,Migraine,G43,Anna Head
+Diseases of the nervous system,Sleep disorders,Sleep apnoea,G47,Anna Head
+Diseases of the nervous system,polyneuropathies,Peripheral Neuropathy,G61-G64,Anna Head
+Diseases of the nervous system,Sjogre's syndrome/Sicca syndrome,Sjogren's Syndrome,G73,Anna Head
+Diseases of the eye and adnexa,Cataract,Cataract,H25,Anna Head
+Diseases of the eye and adnexa,Other reintal disorders (Macular degeneration),Macular degeneration,H35,Anna Head
+Diseases of the eye and adnexa,Glaucoma,Glaucoma,H40-H42,Anna Head
+Diseases of the eye and adnexa,Visual disturbances and blindness,Visual impairment and blindness,H53-H54,Anna Head
+Diseases of the ear and mastoid process,Meniere disease,Meniere's Disease,H81,Anna Head
+Diseases of the ear and mastoid process,Conductive and sensorineural hearing loss,Hearing loss,H90-H91,Anna Head
+Diseases of the circulatory system,Chronic rheumatic heart diseases,Rheumatic Valve Disorder,I05-I09,Anna Head
+Diseases of the circulatory system,Hypertensive diseases,Hypertension,I10-I15,Anna Head
+Diseases of the respiratory system,Rhinitis and Sinusitis,"Chronic sinusitis, Allergic and chronic rhinitis",J30-J32,Anna Head
+Diseases of the respiratory system,Chronic lower respiratory diseases,"COPD, Asthma, Bronchiectasis",J40-J47,Anna Head
+Diseases of the respiratory system,Fibrosing alveolitis/unspecified alveolitis,Pulmonary Fibrosis,J84,Anna Head
+Diseases of the digestive system,Noninfective enteritis and colitis,"Ulcerative colitis,Crohn's disease",K50-K52,Anna Head
+Diseases of the digestive system,Diverticular disease of the intestine,Diverticular Disease,K57,Anna Head
+Diseases of the digestive system,Irritable Bowel Sydrome,Irritable bowel syndrome,K58,Anna Head
+Diseases of the digestive system,Diseases of the liver,"Hepatic failure,Alcoholic liver disease,Fatty Liver,Cirrhosis,Autoimmune liver disease	",K70-K77,Anna Head
+Diseases of the skin and subcutaneous tissue,Dermatitis and eczema,Dermatitis,L20-L30,Anna Head
+Diseases of the skin and subcutaneous tissue,Psoriasis,Psoriasis,L40,Anna Head
+Diseases of musculoskeletal system and connective tissue,Inflammatory polyarthropathies,"Rheumatoid Arthritis,Enteropathic arthropathy,Gout, Psoriatic Arthritis",M05-M14,Anna Head
+Diseases of musculoskeletal system and connective tissue,Arthrosis,Osteoarthritis (excl spine),M15-M19,Anna Head
+Diseases of musculoskeletal system and connective tissue,Spinal degenerative disease ,"Spondylosis,Intervertebral disc disorders","M47, M51",Anna Head
+Diseases of musculoskeletal system and connective tissue,Disorders of bone density and structure,Osteoporosis,M80-M85,Anna Head
+Diseases of the genitourinary system,Chronic kidney disease,Chronic Kidney Disease,N18-N19,Anna Head
+Diseases of the genitourinary system,Disorders of the prostate,Benign Prostatic Hyperplasia,N40-N42,Anna Head
+Diseases of musculoskeletal system and connective tissue,Ankylosing spondylitis,Ankylosing spondylitis,M45,Anna Head
+Diseases of the genitourinary system,Endometriosis,Endometriosis,N80,Anna Head
