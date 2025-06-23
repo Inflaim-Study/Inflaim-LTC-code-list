@@ -50,8 +50,8 @@ A detailed manuscript describing the methodology used to generate and clinically
 │   └── SnomedCT/                               # Contains [ConditionName]_SnomedCT.csv for each condition
 │       ├── [ConditionName1]_SnomedCT.csv       # E.g., Diabetes_SnomedCT.csv
 │       └── ...
-├── Inflaim_Conditions_CodeList.csv # Master curated codelist (all conditions, all systems) - at root
-├── Inflaim_LTCs__mapping_reference.csv       # Codelist source/methodology reference (all conditions) - at root
-├── AnnaHead_LTC_Code_Reference.csv       # Codelist sourceAnnaHead / https://github.com/annalhead/CPRD_multimorbidity_codelists
+├── Inflaim_Conditions_CodeList.csv # Master curated codelist (all conditions, all systems) 
+├── Inflaim_LTCs__mapping_reference.csv       # Codelist source/methodology reference (all conditions) 
+├── AnnaHead_LTC_Code_Reference.csv       # Codelist source AnnaHead / https://github.com/annalhead/CPRD_multimorbidity_codelists
 ├── MULTIPLY-Initiative_LTC_Code_Reference.csv   # Codelist MULTIPLY-Initiative / https://github.com/Fabiola-Eto/MULTIPLY-Initiative   
-├── README.md                                 # This README file - at root
+├── README.md                                 
