@@ -1,6 +1,4 @@
 Condition,SNOMED_Code,SnomedCTDescriptionId,Term
-Cataract,385468004,928811000006119,Cataract extract + lens implant
-Cataract,385468004,859791000006115,Cataract extract +lens implant
 Cataract,193600001,883311000006115,Secondary cataract
 Cataract,172532006,859751000006114,YAG laser post capsulotomy
 Cataract,857711000006100,857711000006116,Yag laser capsulotomy
@@ -14,7 +12,6 @@ Cataract,308088006,451393017,O/E - Right cataract present
 Cataract,308089003,451394011,O/E - Left cataract present
 Cataract,5130002,495988011,Needling of lens for cataract
 Cataract,5130002,495989015,Discission of cataract
-Cataract,415266006,2533421012,Referral to cataract clinic
 Cataract,43959009,73294018,Insulin dependent diabetes mellitus with diabetic cataract
 Cataract,421920002,3688521010,Type I diabetes mellitus with diabetic cataract
 Cataract,421920002,2618234016,Type 1 diabetes mellitus with diabetic cataract

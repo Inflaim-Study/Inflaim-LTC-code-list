@@ -1,6 +1,4 @@
 Condition,MedCodeId,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
-Retinal detachments and breaks,251652015,161487006,251652015,^ESCTHI454026,1481.00,H/O: retinal detachment
-Retinal detachments and breaks,251652015,161487006,251652015,1481,1481.00,H/O: retinal detachment
 Retinal detachments and breaks,503951016,78917001,503951016,^ESCTRE378357,7271.00,Photocoagulation of retina for detachment
 Retinal detachments and breaks,503951016,78917001,503951016,^ESCTRE378356,7271.00,Photocoagulation of retina for detachment
 Retinal detachments and breaks,503951016,78917001,503951016,7271-98,7271.00,Photocoagulation of retina for detachment

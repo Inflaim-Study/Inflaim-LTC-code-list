@@ -1,24 +1,9 @@
 Condition,SNOMED_Code,SnomedCTDescriptionId,Term
 Cerebrovascular disease,275526006,2986886017,History of cerebrovascular accident
-Cerebrovascular disease,275526006,411518010,H/O: CVA
-Cerebrovascular disease,275526006,2476091017,H/O: stroke
-Cerebrovascular disease,161511000,251692018,H/O: TIA
-Cerebrovascular disease,13016361000119100,2713751000000114,H/O amaurosis fugax
-Cerebrovascular disease,308067002,451371010,H/O: Stroke in last year
 Cerebrovascular disease,230736007,345718011,Transient global amnesia
 Cerebrovascular disease,277286006,413750011,Central post-stroke pain
-Cerebrovascular disease,812041000000104,2118011000000114,Stroke self-management plan agreed
-Cerebrovascular disease,810991000000109,2115821000000118,Stroke self-management plan review
-Cerebrovascular disease,699270006,2983515011,CVA annual review
-Cerebrovascular disease,699270006,2983500010,Stroke annual review
 Cerebrovascular disease,170600009,264499015,Stroke monitoring
-Cerebrovascular disease,519751000000106,1160471000000111,Stroke 6 month review
-Cerebrovascular disease,816561000000108,2127781000000110,Stroke initial post discharge review
 Cerebrovascular disease,231231000000107,371641000000112,Delivery of rehabilitation for stroke
-Cerebrovascular disease,736288002,3517033016,Transient ischaemic attack clinical management plan
-Cerebrovascular disease,112901000000108,199461000000113,Referral to multidisciplinary stroke function improvement service
-Cerebrovascular disease,781731000000103,1747751000000110,Referral for multidisciplinary stroke function improvement declined
-Cerebrovascular disease,716331000000108,1568881000000119,Exception reporting - stroke quality indicators
 Cerebrovascular disease,716581000000101,1569131000000118,Excepted from stroke quality indicators - patient unsuitable
 Cerebrovascular disease,716021000000109,1568581000000116,Excepted from stroke quality indicators - informed dissent
 Cerebrovascular disease,88032003,145925010,Amaurosis fugax

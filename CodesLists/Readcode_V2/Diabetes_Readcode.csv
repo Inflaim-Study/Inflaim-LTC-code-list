@@ -13,8 +13,6 @@ Diabetes,C109511,C109511,Type II diabetes mellitus with gangrene
 Diabetes,C109512,C109512,Type 2 diabetes mellitus with gangrene
 Diabetes,C109611,C109611,Type II diabetes mellitus with retinopathy
 Diabetes,C109612,C109612,Type 2 diabetes mellitus with retinopathy
-Diabetes,C109711,C109711,Type II diabetes mellitus - poor control
-Diabetes,C109712,C109712,Type 2 diabetes mellitus - poor control
 Diabetes,C109A11,C109A11,Type II diabetes mellitus with mononeuropathy
 Diabetes,C109B11,C109B11,Type II diabetes mellitus with polyneuropathy
 Diabetes,C109C11,C109C11,Type II diabetes mellitus with nephropathy
@@ -46,8 +44,6 @@ Diabetes,C10F411,C10F411,Type II diabetes mellitus with ulcer
 Diabetes,C10F500,C10F500,Type 2 diabetes mellitus with gangrene
 Diabetes,C10F600,C10F600,Type 2 diabetes mellitus with retinopathy
 Diabetes,C10F611,C10F611,Type II diabetes mellitus with retinopathy
-Diabetes,C10F700,C10F700,Type 2 diabetes mellitus - poor control
-Diabetes,C10F711,C10F711,Type II diabetes mellitus - poor control
 Diabetes,C10F900,C10F900,Type 2 diabetes mellitus without complication
 Diabetes,C10F911,C10F911,Type II diabetes mellitus without complication
 Diabetes,C10FA00,C10FA00,Type 2 diabetes mellitus with mononeuropathy
@@ -112,20 +108,12 @@ Diabetes,66A9.00,66A9.00,Understands diet - diabetes
 Diabetes,66AD.00,66AD.00,Fundoscopy - diabetic check
 Diabetes,66AG.00,66AG.00,Diabetic drug side effects
 Diabetes,66AH.00,66AH.00,Diabetic treatment changed
-Diabetes,66AI.00,66AI.00,Diabetic - good control
-Diabetes,66AJ.00,66AJ.00,Diabetic - poor control
 Diabetes,66AJ.11,66AJ.11,Unstable diabetes
 Diabetes,66AJ100,66AJ100,Brittle diabetes
-Diabetes,66AJz00,66AJz00,Diabetic - poor control NOS
 Diabetes,66AK.00,66AK.00,Diabetic - cooperative patient
 Diabetes,66AL.00,66AL.00,Diabetic-uncooperative patient
 Diabetes,66AN.00,66AN.00,Date diabetic treatment start
 Diabetes,66AO.00,66AO.00,Date diabetic treatment stopp.
-Diabetes,66AP.00,66AP.00,Diabetes: practice programme
-Diabetes,66AQ.00,66AQ.00,Diabetes: shared care programme
-Diabetes,66AR.00,66AR.00,Diabetes management plan given
-Diabetes,66AS.00,66AS.00,Diabetic annual review
-Diabetes,66AT.00,66AT.00,Annual diabetic blood test
 Diabetes,66AU.00,66AU.00,Diabetes care by hospital only
 Diabetes,66AV.00,66AV.00,Diabetic on insulin and oral treatment
 Diabetes,66AW.00,66AW.00,Diabetic foot risk assessment
@@ -135,11 +123,8 @@ Diabetes,66Aa.00,66Aa.00,Diabetic diet - poor compliance
 Diabetes,66Ab.00,66Ab.00,Diabetic foot examination
 Diabetes,66Ac.00,66Ac.00,Diabetic peripheral neuropathy screening
 Diabetes,66Ag.00,66Ag.00,Insulin needles changed daily
-Diabetes,66Ai.00,66Ai.00,Diabetic 6 month review
 Diabetes,66Aj.00,66Aj.00,Insulin needles changed less than once a day
 Diabetes,66Am.00,66Am.00,Insulin dose changed
-Diabetes,66An.00,66An.00,Diabetes type 1 review
-Diabetes,66Ao.00,66Ao.00,Diabetes type 2 review
 Diabetes,66Ap.00,66Ap.00,Insulin treatment initiated
 Diabetes,66Aq.00,66Aq.00,Diabetic foot screen
 Diabetes,6761,6761.00,Diabetic pre-pregnancy counselling
@@ -148,19 +133,12 @@ Diabetes,68A9.00,68A9.00,Diabetic retinopathy screening offered
 Diabetes,68AB.00,68AB.00,Diabetic digital retinopathy screening offered
 Diabetes,7276,7276.00,Pan retinal photocoagulation for diabetes
 Diabetes,8A13.00,8A13.00,Diabetic stabilisation
-Diabetes,8B3l.00,8B3l.00,Diabetes medication review
-Diabetes,8BL2.00,8BL2.00,Patient on maximal tolerated therapy for diabetes
 Diabetes,8CA4100,8CA4100,Pt advised re diabetic diet
-Diabetes,8CAQ.00,8CAQ.00,Advice about blood glucose control
 Diabetes,8CP2.00,8CP2.00,Transition of diabetes care options discussed
 Diabetes,8H7r.00,8H7r.00,Refer to diabetic foot screener
-Diabetes,8HBG.00,8HBG.00,Diabetic retinopathy 12 month review
-Diabetes,8HBH.00,8HBH.00,Diabetic retinopathy 6 month review
 Diabetes,8HLE.00,8HLE.00,Diabetology D.V. done
-Diabetes,8Hl1.00,8Hl1.00,Referral for diabetic retinopathy screening
 Diabetes,8I3W.00,8I3W.00,Diabetic foot examination declined
 Diabetes,8I3X.00,8I3X.00,Diabetic retinopathy screening refused
-Diabetes,8I3k.00,8I3k.00,Insulin therapy declined
 Diabetes,8I57.00,8I57.00,Patient held diabetic record declined
 Diabetes,9360,9360.00,Patient held diabetic record issued
 Diabetes,9OLD.00,9OLD.00,Diabetic patient unsuitable for digital retinal photography
@@ -236,9 +214,6 @@ Diabetes,C108600,C108600,Insulin dependent diabetes mellitus with gangrene
 Diabetes,C108700,C108700,Insulin dependent diabetes mellitus with retinopathy
 Diabetes,C108711,C108711,Type I diabetes mellitus with retinopathy
 Diabetes,C108712,C108712,Type 1 diabetes mellitus with retinopathy
-Diabetes,C108800,C108800,Insulin dependant diabetes mellitus - poor control
-Diabetes,C108811,C108811,Type I diabetes mellitus - poor control
-Diabetes,C108812,C108812,Type 1 diabetes mellitus - poor control
 Diabetes,C108900,C108900,Insulin dependant diabetes maturity onset
 Diabetes,C108911,C108911,Type I diabetes mellitus maturity onset
 Diabetes,C108912,C108912,Type 1 diabetes mellitus maturity onset
@@ -270,7 +245,6 @@ Diabetes,C109300,C109300,Non-insulin-dependent diabetes mellitus with multiple c
 Diabetes,C109400,C109400,Non-insulin dependent diabetes mellitus with ulcer
 Diabetes,C109500,C109500,Non-insulin dependent diabetes mellitus with gangrene
 Diabetes,C109600,C109600,Non-insulin-dependent diabetes mellitus with retinopathy
-Diabetes,C109700,C109700,Non-insulin dependant diabetes mellitus - poor control
 Diabetes,C109900,C109900,Non-insulin-dependent diabetes mellitus without complication
 Diabetes,C109A00,C109A00,Non-insulin dependent diabetes mellitus with mononeuropathy
 Diabetes,C109B00,C109B00,Non-insulin dependent diabetes mellitus with polyneuropathy
@@ -311,8 +285,6 @@ Diabetes,C10E600,C10E600,Type 1 diabetes mellitus with gangrene
 Diabetes,C10E700,C10E700,Type 1 diabetes mellitus with retinopathy
 Diabetes,C10E711,C10E711,Type I diabetes mellitus with retinopathy
 Diabetes,C10E712,C10E712,Insulin dependent diabetes mellitus with retinopathy
-Diabetes,C10E800,C10E800,Type 1 diabetes mellitus - poor control
-Diabetes,C10E812,C10E812,Insulin dependent diabetes mellitus - poor control
 Diabetes,C10E900,C10E900,Type 1 diabetes mellitus maturity onset
 Diabetes,C10E911,C10E911,Type I diabetes mellitus maturity onset
 Diabetes,C10E912,C10E912,Insulin dependent diabetes maturity onset
@@ -406,5 +378,4 @@ Diabetes,U602311,U602311,[X] Adverse reaction to insulins and antidiabetic agent
 Diabetes,ZC2C800,,Dietary advice for diabetes mellitus
 Diabetes,ZC2C900,,Dietary advice for type I diabetes
 Diabetes,ZC2CA00,,Dietary advice for type II diabetes
-Diabetes,ZRbH.00,,Perceived control of insulin-dependent diabetes
 Diabetes,ZV65312,ZV65312,[V]Dietary counselling in diabetes mellitus

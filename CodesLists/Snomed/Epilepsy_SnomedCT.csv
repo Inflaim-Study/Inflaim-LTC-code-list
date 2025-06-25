@@ -1,11 +1,8 @@
 Condition,SNOMED_Code,SnomedCTDescriptionId,Term
-Epilepsy,1013181000006106,1013181000006110,Adverse reaction to Drugs Used In Control Of Epilepsy
 Epilepsy,2014871000006103,2014871000006119,Contraceptive advice for patients on valproate for epilepsy
-Epilepsy,1855731000006100,1855731000006116,Epilepsy monitoring administration
 Epilepsy,1856791000006107,1856791000006111,Epilepsy monitoring default
 Epilepsy,1855741000006104,1855741000006114,Epilepsy monitoring in primary care
 Epilepsy,810161000000101,2114081000000110,Epilepsy monitoring in secondary care
-Epilepsy,248371000000106,1164611000000112,Epilepsy monitoring telephone invitation
 Epilepsy,1856771000006106,1856771000006110,Epilepsy treatment compliance good
 Epilepsy,1856781000006108,1856781000006112,Epilepsy treatment compliance poor
 Epilepsy,1673671000006100,1673671000006116,Epilepsy treatment continued
@@ -15,7 +12,6 @@ Epilepsy,851121000006101,851121000006117,Partial epilepsy
 Epilepsy,509341000000107,883041000006118,Petit mal epilepsy
 Epilepsy,509341000000107,1132501000000111,Petit-mal epilepsy
 Epilepsy,75023009,897431000006113,Post traumatic epilepsy
-Epilepsy,1776671000006100,1776671000006116,Reason for referral: Epilepsy
 Epilepsy,905881000006107,905881000006111,[RFC] Epilepsy/convulsion
 Epilepsy,230437002,3513043019,dravet syndrome
 Epilepsy,918561000006107,918561000006111,epilepsy associated problems
@@ -42,16 +38,12 @@ Epilepsy,170710006,264638016,Epilepsy treatment changed
 Epilepsy,170711005,264639012,Epilepsy treatment started
 Epilepsy,170712003,264640014,Epilepsy treatment stopped
 Epilepsy,230445007,345323014,Nocturnal epilepsy
-Epilepsy,314827004,459233015,Epilepsy control good
-Epilepsy,314828009,459234014,Epilepsy control poor
 Epilepsy,401178003,1780375016,Epilepsy care arrangement
 Epilepsy,407585000,2159186017,Seizure free >12 months
 Epilepsy,93141000000105,141981000000118,Epilepsy restricts employment
 Epilepsy,93151000000108,141991000000116,Epilepsy prevents employment
-Epilepsy,108211000000104,154851000000115,Epilepsy impairs education
 Epilepsy,88491000000102,137801000000112,Epilepsy limits activities
 Epilepsy,93211000000101,142041000000115,Epilepsy does not limit activities
-Epilepsy,840261000000103,2180511000000116,Epilepsy management plan given
 Epilepsy,407616001,2159216019,Epilepsy severity
 Epilepsy,407617005,2159217011,No seizures on treatment
 Epilepsy,407618000,2159218018,1 to 12 seizures a year
@@ -63,7 +55,6 @@ Epilepsy,414860000,2533403014,No epilepsy drug side effects
 Epilepsy,170702005,264629018,Epilepsy monitoring NOS
 Epilepsy,526961000000105,1176071000000111,Pregnancy advice for patients with epilepsy
 Epilepsy,526941000000109,1176031000000114,Pre-conception advice for patients with epilepsy
-Epilepsy,401062003,1780267013,Epilepsy medication review
 Epilepsy,416090009,2548491016,Epilepsy monitoring verbal invite
 Epilepsy,248371000000106,406781000000119,Epilepsy monitoring telephone invite
 Epilepsy,202061000000107,307861000000113,Epilepsy monitoring call first letter

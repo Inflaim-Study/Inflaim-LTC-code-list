@@ -15,9 +15,7 @@ Ischaemic heart diseases,496991000006111,72092001,119795011,G342,G342.00,Atheros
 Ischaemic heart diseases,119481012,71908006,119481012,G5740,G574000,Ventricular fibrillation
 Ischaemic heart diseases,256460011,164865005,256452010,323Z,323Z.00,ECG: myocardial infarct NOS
 Ischaemic heart diseases,299742017,194821006,299742017,G312,G312.00,Coronary thrombosis not resulting in myocardial infarction
-Ischaemic heart diseases,460133017,315614006,460133017,6A2,6A2..00,Coronary heart disease annual review
 Ischaemic heart diseases,7845011,4557003,7845011,G3111,G311100,Unstable angina
-Ischaemic heart diseases,2117731000000119,811901000000107,2117731000000119,661M0,661M000,Angina self-management plan agreed
 Ischaemic heart diseases,627951000006112,232720001,348649014,79260,7926000,Double anastom thoracic arteries to coronary arteries NEC
 Ischaemic heart diseases,212061000006119,311792005,455418016,G380,G380.00,Postoperative transmural myocardial infarction anterior wall
 Ischaemic heart diseases,456190010,1012701000000104,2574481000000119,44h3,44h3.00,Blood bicarbonate level
@@ -36,7 +34,6 @@ Ischaemic heart diseases,1232666014,65340007,1232666014,G341-1,G341.11,Cardiac a
 Ischaemic heart diseases,350354017,233823002,350354017,G344,G344.00,Silent myocardial ischaemia
 Ischaemic heart diseases,484402013,29843007,484402013,79290,7929000,Percutaneous transluminal laser coronary angioplasty
 Ischaemic heart diseases,813961000006116,194862000,299816014,G360,G360.00,Haemopericardium/current comp folow acut myocard infarct
-Ischaemic heart diseases,1654891000000110,698377004,2974242014,8L41,8L41.00,Coronary angioplasty planned
 Ischaemic heart diseases,1547671000006119,429639007,2694928017,793G3,793G300,Percutaneous cor balloon angiop 3 more stents cor art NEC
 Ischaemic heart diseases,2675882017,426674009,2675882017,7A564,7A56400,Percutaneous transluminal balloon angioplasty of artery
 Ischaemic heart diseases,238641000006117,68466008,1233048011,79280,7928000,Percut transluminal balloon angioplasty one coronary artery
@@ -45,13 +42,9 @@ Ischaemic heart diseases,494261017,4557003,494261017,G3114,G311400,Worsening ang
 Ischaemic heart diseases,7847015,4557003,7847015,G311-1,G311.11,Crescendo angina
 Ischaemic heart diseases,7844010,4557003,494262012,G311,G311.00,Preinfarction syndrome
 Ischaemic heart diseases,299871010,56265001,93561011,G5,G5...00,Other forms of heart disease
-Ischaemic heart diseases,264493019,170594001,264493019,662K0,662K000,Angina control - good
-Ischaemic heart diseases,251679016,161504004,251679016,14A5,14A5.00,H/O: angina pectoris
 Ischaemic heart diseases,256510015,24607002,41258019,32BZ,32BZ.00,ECG: Q wave NOS
-Ischaemic heart diseases,238581000006112,175071008,271151013,79291-1,7929111,Percut translum coronary thrombolytic therapy- streptokinase
 Ischaemic heart diseases,72571000006115,4557003,7845011,G311-3,G311.13,Unstable angina
 Ischaemic heart diseases,453269016,105501005,169590017,ZV45L,ZV45L00,[V]Status following coronary angioplasty NOS
-Ischaemic heart diseases,451425016,308117007,451425016,8B27,8B27.00,Antianginal therapy
 Ischaemic heart diseases,230021000006115,399211009,2986492018,G32-2,G32..12,Personal history of myocardial infarction
 Ischaemic heart diseases,401516015,268509003,401516015,662-1,662..11,Heart disease monitoring
 Ischaemic heart diseases,1548361000006119,415071007,2533528016,7A548,7A54800,Percutaneous transluminal atherectomy
@@ -59,14 +52,11 @@ Ischaemic heart diseases,1786197015,398274000,1786197015,G30-2,G30..12,Coronary 
 Ischaemic heart diseases,299710011,233838001,350371016,G304,G304.00,Posterior myocardial infarction NOS
 Ischaemic heart diseases,1489352010,395697009,1489352010,8F91,8F91.00,Cardiac rehabilitation - phase 2
 Ischaemic heart diseases,977771000006119,166711000000108,226781000000114,662k,662k.00,JBS cardiovascular disease risk <10% over next 10 years
-Ischaemic heart diseases,264492012,170593007,264492012,662K,662K.00,Angina control
 Ischaemic heart diseases,395755010,65340007,108561012,G3411,G341100,Other cardiac wall aneurysm
 Ischaemic heart diseases,1786198013,398274000,1786198013,G30-6,G30..16,Thrombosis - coronary
 Ischaemic heart diseases,223951000000112,56265001,93561011,G-3,G....13,Heart diseases
 Ischaemic heart diseases,2536395017,53741008,2536395017,G340-2,G340.12,Coronary artery disease
-Ischaemic heart diseases,810821000006112,161503005,251678012,14A4,14A4.00,H/O: myocardial infarct >60
 Ischaemic heart diseases,350376014,233843008,350376014,G30-7,G30..17,Silent myocardial infarction
-Ischaemic heart diseases,251691013,275544003,411538011,14AA,14AA.00,H/O: heart disease NOS
 Ischaemic heart diseases,264505019,268509003,401515016,662Z,662Z.00,Cardiac disease monitoring NOS
 Ischaemic heart diseases,299707016,54329005,1231324017,G301,G301.00,Other specified anterior myocardial infarction
 Ischaemic heart diseases,109915012,66189004,500341014,G310,G310.00,Postmyocardial infarction syndrome
@@ -81,28 +71,21 @@ Ischaemic heart diseases,299783019,194843003,299783019,G3401,G340100,Double coro
 Ischaemic heart diseases,1547651000006112,936451000000108,2398371000000113,793G1,793G100,Perc tran ball angio ins 3 or more drug elut stents cor art
 Ischaemic heart diseases,2534664018,414545008,2534664018,G3,G3...00,Ischaemic heart disease
 Ischaemic heart diseases,314321000000119,205011000000103,314321000000119,1J61,1J61.00,Suspected ischaemic heart disease
-Ischaemic heart diseases,264494013,170595000,264494013,662K1,662K100,Angina control - poor
 Ischaemic heart diseases,299712015,194802003,299712015,G306,G306.00,True posterior myocardial infarction
-Ischaemic heart diseases,628021000006118,175047001,271120018,79251,7925100,Double implant of mammary arteries into coronary arteries
 Ischaemic heart diseases,109916013,66189004,109916013,G310-1,G310.11,Dressler's syndrome
 Ischaemic heart diseases,1235573016,90539001,1235573016,G3410,G341000,Ventricular cardiac aneurysm
-Ischaemic heart diseases,451370011,308066006,451370011,14AJ,14AJ.00,H/O: Angina in last year
 Ischaemic heart diseases,498031000006112,194863005,299818010,G361,G361.00,Atrial septal defect/curr comp folow acut myocardal infarct
 Ischaemic heart diseases,2537480011,414545008,2537480011,G3-3,G3...13,IHD - Ischaemic heart disease
 Ischaemic heart diseases,2535824013,165084003,2535824013,32131-1,3213111,Positive exercise ECG test
 Ischaemic heart diseases,256508017,164917005,256508017,32B2,32B2.00,ECG: Q wave abnormal
 Ischaemic heart diseases,37443015,22298006,37443015,G30-4,G30..14,Heart attack
-Ischaemic heart diseases,2210191000000118,853561000000109,2210191000000118,8T04,8T04.00,Referral to Angina Plan self-management programme
 Ischaemic heart diseases,682481000006118,194821006,2619484018,G3110,G311000,Myocardial infarction aborted
 Ischaemic heart diseases,238571000006114,85053006,506356013,79281,7928100,Percut translum balloon angioplasty mult coronary arteries
 Ischaemic heart diseases,158601000006116,194865003,299821012,G363,G363.00,Ruptur cardiac wall w'out haemopericard/cur comp fol ac MI
 Ischaemic heart diseases,212071000006114,311793000,455419012,G381,G381.00,Postoperative transmural myocardial infarction inferior wall
-Ischaemic heart diseases,264496010,170597008,264496010,662K3,662K300,Angina control - worsening
 Ischaemic heart diseases,1547641000006110,936451000000108,2398371000000113,793G0,793G000,Perc translum ball angio insert 1-2 drug elut stents cor art
 Ischaemic heart diseases,459483011,315021005,459483011,8I37,8I37.00,Coronary heart disease monitoring refused
-Ischaemic heart diseases,451369010,308065005,451369010,14AH,14AH.00,H/O: Myocardial infarction in last year
 Ischaemic heart diseases,401515016,268509003,401515016,662,662..00,Cardiac disease monitoring
-Ischaemic heart diseases,451372015,308068007,451372015,14AL,14AL.00,H/O: Treatment for ischaemic heart disease
 Ischaemic heart diseases,299711010,58612006,1231860015,G305,G305.00,Lateral myocardial infarction NOS
 Ischaemic heart diseases,1235655012,91335003,1235655012,G30A,G30A.00,Mural thrombosis
 Ischaemic heart diseases,299714019,73795002,122557015,G308,G308.00,Inferior myocardial infarction NOS
@@ -118,9 +101,7 @@ Ischaemic heart diseases,634751000006116,164861001,1205556017,322,322..00,ECG: m
 Ischaemic heart diseases,1489353017,395698004,1489353017,8F92,8F92.00,Cardiac rehabilitation - phase 3
 Ischaemic heart diseases,1489351015,395696000,1489351015,8F90,8F90.00,Cardiac rehabilitation - phase 1
 Ischaemic heart diseases,299782012,194842008,299782012,G3400,G340000,Single coronary vessel disease
-Ischaemic heart diseases,1564021000000118,698376008,2974077015,8LF,8LF..00,Coronary angiography planned
 Ischaemic heart diseases,595731000006114,443502000,2842265012,G340,G340.00,Coronary atherosclerosis
-Ischaemic heart diseases,1484833014,390799004,1484833014,6A4,6A4..00,Coronary heart disease review
 Ischaemic heart diseases,635021000006110,24607002,41258019,32B,32B..00,ECG: Q wave
 Ischaemic heart diseases,350346019,233817007,350346019,G340-1,G340.11,Triple vessel disease of the heart
 Ischaemic heart diseases,272295013,175882004,272295013,7A6G1,7A6G100,Peroperative angioplasty
@@ -130,7 +111,6 @@ Ischaemic heart diseases,238651000006115,175071008,271150014,79291,7929100,Percu
 Ischaemic heart diseases,2619484018,194821006,2619484018,G3110-1,G311011,MI - Myocardial infarction aborted
 Ischaemic heart diseases,460925019,414531000000101,1001321000000115,ZV579,ZV57900,[V]Cardiac rehabilitation
 Ischaemic heart diseases,238821000006111,11101003,19234014,7928-1,7928.11,Percutaneous balloon coronary angioplasty
-Ischaemic heart diseases,264495014,170596004,264495014,662K2,662K200,Angina control - improving
 Ischaemic heart diseases,1785743019,397193006,1785743019,79293,7929300,Rotary blade coronary angioplasty
 Ischaemic heart diseases,358041000000114,276985008,413389019,7A6S3,7A6S300,Percutaneous transluminal venous thrombolysis NEC
 Ischaemic heart diseases,272117011,175764006,272117011,7A545,7A54500,Rotary blade angioplasty
@@ -153,7 +133,6 @@ Ischaemic heart diseases,2474304012,412747004,2474304012,5C11,5C11.00,Radionucli
 Ischaemic heart diseases,457285013,313395003,457285013,8F9,8F9..00,Cardiac rehabilitation
 Ischaemic heart diseases,1547311000006116,707828002,3032475016,79283,7928300,Percut translum cutting balloon angioplasty coronary artery
 Ischaemic heart diseases,2159819017,1026411000000101,2603861000000111,44HJ,44HJ.00,Plasma creatinine phosphokinase MB isoenzyme level
-Ischaemic heart diseases,810811000006116,161502000,251675010,14A3,14A3.00,H/O: myocardial infarct <60
 Ischaemic heart diseases,1548401000006112,428068004,2696045014,7A560,7A56000,Percutaneous transluminal arterial thrombolysis reconstruct
 Ischaemic heart diseases,494260016,25106000,42087013,G311-2,G311.12,Impending infarction
 Ischaemic heart diseases,537751000006115,233847009,350383019,G30-3,G30..13,Cardiac rupture following myocardial infarction (MI)
@@ -163,7 +142,6 @@ Ischaemic heart diseases,1547631000006117,429639007,2694928017,793G,793G.00,Perc
 Ischaemic heart diseases,1547691000006118,429639007,2694928017,793Gz,793Gz00,Perc translum balloon angioplasty stenting coronary art NOS
 Ischaemic heart diseases,350350014,233821000,350350014,G33z6,G33z600,New onset angina
 Ischaemic heart diseases,299834013,414545008,2534664018,G3y,G3y..00,Other specified ischaemic heart disease
-Ischaemic heart diseases,216191012,134385008,216191012,8I3A,8I3A.00,Referral to dietician declined
 Ischaemic heart diseases,2534218019,413756001,2534218019,8I3a,8I3a.00,Cardiac rehabilitation declined
 Ischaemic heart diseases,299709018,54329005,1231324017,G301z,G301z00,Anterior myocardial infarction NOS
 Ischaemic heart diseases,299765010,194828000,299757012,G33zz,G33zz00,Angina pectoris NOS
@@ -173,15 +151,11 @@ Ischaemic heart diseases,300886011,56265001,93561011,Gyu5,Gyu5.00,[X]Other forms
 Ischaemic heart diseases,1780444014,401250009,1780444014,9Ob3,9Ob3.00,Coronary heart disease monitoring 1st letter
 Ischaemic heart diseases,268001000006119,185647009,285636017,9OB3,9OB3.00,OC check - 3rd call
 Ischaemic heart diseases,1658331000000113,705024000,3015227013,8BPC,8BPC.00,On psychotropic medication
-Ischaemic heart diseases,305121000000119,200861000000101,305121000000119,8BAc,8BAc.00,Substance misuse management stopped - self withdrawal
-Ischaemic heart diseases,420056011,281897000,420056011,8BAC,8BAC.00,Helicobacter eradication therapy
 Ischaemic heart diseases,2159923012,408359002,2159923012,8BIc,8BIc.00,Drug monitoring done
 Ischaemic heart diseases,2533409013,1052871000000109,2649991000000115,8BCC,8BCC.00,Oral vitamin K prophylaxis given by health visitor
 Ischaemic heart diseases,2339611000000110,910111000000106,2339611000000110,8BPc,8BPc.00,Mixed strength methotrexate prescribing warning
 Ischaemic heart diseases,2155381000000118,829101000000101,2155381000000118,8BMc,8BMc.00,Needs assistance with medication regimen adherence
-Ischaemic heart diseases,1596601000000114,698985001,2982117018,8BGC,8BGC.00,Long term dual antiplatelet drug therapy indicated
 Ischaemic heart diseases,2548858016,416349001,2548858016,8BMC,8BMC.00,Prescription collected by pharmacy
-Ischaemic heart diseases,1488739013,719329004,3316004018,8BIC,8BIC.00,Medication review done by pharmacist
 Ischaemic heart diseases,300874013,194828000,299757012,Gyu30,Gyu3000,[X]Other forms of angina pectoris
 Ischaemic heart diseases,406961000000113,248461000000107,406961000000113,9Ob9,9Ob9.00,Coronary heart disease monitoring telephone invite
 Ischaemic heart diseases,732801000000119,372851000000101,732801000000119,44p2,44p2.00,Cardiac troponin positive
@@ -192,22 +166,18 @@ Ischaemic heart diseases,458410010,314116003,458410010,G33z5,G33z500,Post infarc
 Ischaemic heart diseases,2534674015,413844008,2534674015,G34y1,G34y100,Chronic myocardial ischaemia
 Ischaemic heart diseases,338974012,225566008,338974012,G33z4,G33z400,Ischaemic chest pain
 Ischaemic heart diseases,241791000006111,182891003,282733010,8B3K,8B3K.00,Patient misunderstood treatment instuctions
-Ischaemic heart diseases,1488440011,394724007,1488440011,8B3k,8B3k.00,Coronary heart disease medication review
 Ischaemic heart diseases,36036010,21470009,36036010,G33z2,G33z200,Syncope anginosa
 Ischaemic heart diseases,459859010,315348000,459859010,G34z0,G34z000,Asymptomatic coronary heart disease
 Ischaemic heart diseases,299804015,413838009,2534671011,G34yz,G34yz00,Other specified chronic ischaemic heart disease NOS
 Ischaemic heart diseases,1780518012,401332000,1780518012,9Ob8,9Ob8.00,Coronary heart disease monitoring check done
 Ischaemic heart diseases,299800012,413838009,2534671011,G34y,G34y.00,Other specified chronic ischaemic heart disease
-Ischaemic heart diseases,264497018,170593007,264492012,662Kz,662Kz00,Angina control NOS
 Ischaemic heart diseases,1229885017,42531007,1229885017,G31y1,G31y100,Microinfarction of heart
 Ischaemic heart diseases,455423016,129574000,208365015,G38z,G38z.00,"Postoperative myocardial infarction, unspecified"
 Ischaemic heart diseases,1780446011,401252001,1780446011,9Ob5,9Ob5.00,Coronary heart disease monitoring 3rd letter
 Ischaemic heart diseases,299805019,413838009,2534672016,G34z,G34z.00,Other chronic ischaemic heart disease NOS
 Ischaemic heart diseases,21591000000117,714891000000106,1567151000000119,9OB,9OB..00,Oral contracept. check admin.
-Ischaemic heart diseases,1484939014,390907003,1484939014,9Ob,9Ob..00,Coronary heart disease monitoring administration
 Ischaemic heart diseases,299763015,59021001,98087016,G330z,G330z00,Angina decubitus NOS
 Ischaemic heart diseases,459488019,315026000,459488019,G31y3,G31y300,Transient myocardial ischaemia
-Ischaemic heart diseases,449302011,306322009,449302011,8H7v,8H7v.00,Referral to cardiac rehabilitation nurse
 Ischaemic heart diseases,451799015,308456006,451799015,8H7V,8H7V.00,Refer to audiologist
 Ischaemic heart diseases,300239017,56265001,93561011,G5z,G5z..00,Heart disease NOS
 Ischaemic heart diseases,1547681000006116,429639007,2694928017,793Gy,793Gy00,OS perc translumina balloon angioplast stenting coronary art
@@ -221,7 +191,6 @@ Ischaemic heart diseases,300879015,413838009,2534671011,Gyu33,Gyu3300,[X]Other f
 Ischaemic heart diseases,300959012,72092001,119795011,Gyu70,Gyu7000,[X]Atherosclerosis of other arteries
 Ischaemic heart diseases,271128013,175045009,271114019,7925z,7925z00,Connection of mammary artery to coronary artery NOS
 Ischaemic heart diseases,299790012,65340007,108561012,G341z,G341z00,Aneurysm of heart NOS
-Ischaemic heart diseases,1780447019,401253006,1780447019,9Ob6,9Ob6.00,Coronary heart disease monitoring verbal invitation
 Ischaemic heart diseases,300197013,56265001,93561011,G5y,G5y..00,Other specified heart disease
 Ischaemic heart diseases,517391000006119,170829009,264791018,66F1,66F1.00,Blood dis.- initial assessment
 Ischaemic heart diseases,2548238014,417287002,2548238014,66f1,66f1.00,Cardiovascular disease interim monitoring
@@ -235,8 +204,6 @@ Ischaemic heart diseases,271135017,232717009,348640013,7926z,7926z00,Connection 
 Ischaemic heart diseases,264790017,170828001,264790017,66F,66F..00,Blood disorder monitoring
 Ischaemic heart diseases,2549758019,417206009,2549758019,66f,66f..00,Cardiovascular disease monitoring
 Ischaemic heart diseases,300238013,56265001,93561011,G5yz,G5yz.00,Other heart disease NOS
-Ischaemic heart diseases,1885981000006112,857811000000102,2219921000000111,8IEy,8IEy.00,Chronic obstructive pulmon dis wr self managem plan declined
-Ischaemic heart diseases,2210251000000115,853591000000103,2210251000000115,8IEY,8IEY.00,Referral to Angina Plan self-management programme declined
 Ischaemic heart diseases,1676741000000119,759291000000104,1676741000000119,8IAy,8IAy.00,Tuberculosis screening chest X-ray declined
 Ischaemic heart diseases,1741251000006118,511571000000106,1137691000000118,8IAY,8IAY.00,DTaP/IPV/Hib immunisation declined
 Ischaemic heart diseases,394541000006112,414545008,2534664018,Gyu3,Gyu3.00,[X]Ischaemic heart diseases
@@ -244,7 +211,6 @@ Ischaemic heart diseases,285637014,185648004,285637014,9OB4,9OB4.00,OC check - c
 Ischaemic heart diseases,1780445010,401251008,1780445010,9Ob4,9Ob4.00,Coronary heart disease monitoring 2nd letter
 Ischaemic heart diseases,299835014,414545008,2534664018,G3z,G3z..00,Ischaemic heart disease NOS
 Ischaemic heart diseases,442204010,300995000,442204010,G33z3,G33z300,Angina on effort
-Ischaemic heart diseases,1774801000000114,736368003,3517259010,8CMP,8CMP.00,Coronary heart disease care plan
 Ischaemic heart diseases,1780184010,400976006,1780184010,8CAP,8CAP.00,Head injury advice given
 Ischaemic heart diseases,307741000000117,202001000000108,307741000000117,8CEP,8CEP.00,Health care services information leaflet given
 Ischaemic heart diseases,482941000006119,194828000,299757012,G33z,G33z.00,Angina pectoris NOS

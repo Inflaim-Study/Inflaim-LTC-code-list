@@ -180,7 +180,6 @@ Condition,MedCodeId,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,
 "Disorders of gallbladder, biliary tract and pancreas",303645015,3855007,7494016,J67y,J67y.00,Other diseases of pancreas
 "Disorders of gallbladder, biliary tract and pancreas",303793019,235494005,352985010,Jyu84,Jyu8400,[X]Other chronic pancreatitis
 "Disorders of gallbladder, biliary tract and pancreas",5081061000006116,235494005,352986011,^ESCTCP508106,,CP - Chronic pancreatitis
-"Disorders of gallbladder, biliary tract and pancreas",5087751000006113,235952002,3078939011,^ESCTCH508775,,Chronic pancreatitis due to acute alcohol intoxication
 "Disorders of gallbladder, biliary tract and pancreas",352985010,235494005,352985010,J671,J671.00,Chronic pancreatitis
 "Disorders of gallbladder, biliary tract and pancreas",353698013,235952002,353698013,J6710,J671000,Alcohol-induced chronic pancreatitis
 "Disorders of gallbladder, biliary tract and pancreas",303644016,197464001,303643010,J672z,J672z00,Pancreatic cyst and pseudocyst NOS

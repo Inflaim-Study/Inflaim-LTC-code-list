@@ -1,5 +1,4 @@
 Condition,SNOMED_Code,SnomedCTDescriptionId,Term
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",161509009,251690014,H/O: varicose veins
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",163052007,254104013,O/E - varicose veins
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",705031001,2463941000000119,LYMQOL (Lymphoedema Quality of Life Tool) - leg
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",302357009,443996017,Cockett subfascial ligation of perforating varicose vein
@@ -10,7 +9,6 @@ Condition,SNOMED_Code,SnomedCTDescriptionId,Term
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",265543008,394358017,Linton ligation of perforating varicose vein of leg
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",15617002,26472016,Other specified ligation of varicose vein of leg
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",15617002,1221208011,Ligation of varicose vein of leg NOS
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",425542000,2675890017,Ultrasound guided foam sclerotherapy for varicose vein of leg
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",429623000,2900604011,Transilluminated powered phlebectomy for varicose vein of leg
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",9365003,16429014,Stripping of lower limb varicose veins
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",265855005,394888016,Mayo stripping of varicose vein
@@ -25,8 +23,6 @@ Condition,SNOMED_Code,SnomedCTDescriptionId,Term
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",234307002,351014016,Homan correction for lymphoedema
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",234305005,351008011,Kondoleon correction for lymphoedema
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",445710004,2882783018,Lymphoedema care
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",518161000000100,1156251000000114,Referral to community lymphoedema service
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",183858000,284064017,Referral to varicose vein clinic
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",185189000,285169016,Seen in varicose vein clinic
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",904571000000103,2326351000000113,Seen in lymphoedema clinic
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",892341000000102,2297741000000112,Seen in community lymphoedema clinic
@@ -104,16 +100,9 @@ Condition,SNOMED_Code,SnomedCTDescriptionId,Term
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",229510000,344053018,Lymphoedema bandaging
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",229488002,344025018,Lymphoedema massage
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",305565001,448025011,Under care of lymphoedema care nurse
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",306327003,449308010,Referral to lymphoedema care nurse
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",305742009,448266017,Seen by lymphoedema care nurse
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",306501004,449543012,Discharge by lymphoedema care nurse
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",161508001,251689017,H/O: Deep Vein Thrombosis
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",869611000000104,2247661000000111,On deep vein thrombosis care pathway
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",492161000000109,1152491000000116,Deep vein thrombosis enhanced services administration
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",503421000000105,1152451000000112,Deep vein thrombosis enhanced services administration stage 1 service level
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",503421000000105,1152451000000112,DVT enhanced services administration stage 1 service level
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",503451000000100,1152471000000115,Deep vein thrombosis enhanced services administration stage 2 service level
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",503481000000106,1152431000000117,Deep vein thrombosis enhanced services administration stage 3 service level
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",192753009,296931015,Phlebitis and thrombophlebitis of intracranial sinuses
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",14246007,1221072019,Embolism of central nervous system venous sinus
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",192754003,296932010,Embolism cavernous sinus
@@ -169,6 +158,5 @@ Condition,SNOMED_Code,SnomedCTDescriptionId,Term
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",195394007,300649013,[X]Phlebitis+thrombophlebitis/oth deep vessls/low extremites
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",197001004,302981012,Superior mesenteric vein thrombosis
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",213220000,325066018,Postoperative deep vein thrombosis
-"Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",161508001,2547692019,H/O: Deep vein thrombosis
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",161508001,2547692019,[V] Personal history DVT (deep vein thrombosis)
 "Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",161512007,251693011,[V] Personal history of pulmonary embolism

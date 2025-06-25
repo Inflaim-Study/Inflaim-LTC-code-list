@@ -55,9 +55,6 @@ Drug or alcohol misuse,2548434014,Persistent substance misuse
 Drug or alcohol misuse,2548992019,Previously injecting drug user
 Drug or alcohol misuse,406071000000119,Current non recreational drug user
 Drug or alcohol misuse,1627491000006112,Substance misuse
-Drug or alcohol misuse,2548888013,Abstinent from drug misuse when receiving blocking therapy
-Drug or alcohol misuse,512651000000113,Uses heroin on top of substitution therapy
-Drug or alcohol misuse,512661000000111,Does not use heroin on top of substitution therapy
 Drug or alcohol misuse,1216143019,Drug misuse behaviour
 Drug or alcohol misuse,477158014,Misuses drugs
 Drug or alcohol misuse,297031000000117,Occasional drug user
@@ -90,24 +87,9 @@ Drug or alcohol misuse,2292761000000111,Urine buprenorphine positive
 Drug or alcohol misuse,531051000000115,Substance misuse structured counselling
 Drug or alcohol misuse,371621000000117,Delivery of rehabilitation for drug addiction
 Drug or alcohol misuse,405581000000116,Drug abuse monitoring
-Drug or alcohol misuse,397153012,Drug addiction therapy
 Drug or alcohol misuse,630131000006118,Drug addictn therap-methadone
-Drug or alcohol misuse,630361000006113,Drug dependence therapy
-Drug or alcohol misuse,298101000000113,Buprenorphine maintenance therapy
-Drug or alcohol misuse,302981000000113,Drug addiction detoxification therapy - methadone
-Drug or alcohol misuse,303011000000111,Drug addiction maintenance therapy - methadone
-Drug or alcohol misuse,316901000000118,Drug addiction maintenance therapy - buprenorphine
-Drug or alcohol misuse,316931000000112,Drug addiction detoxification therapy - buprenorphine
-Drug or alcohol misuse,541451000000111,Opioid agonist substitution therapy
-Drug or alcohol misuse,541541000000112,Opioid antagonist therapy
 Drug or alcohol misuse,615701000006114,Detoxification dependence drug
-Drug or alcohol misuse,305121000000119,Substance misuse management stopped - self withdrawal
 Drug or alcohol misuse,314821000000113,Opiate dependence detoxification
-Drug or alcohol misuse,495611000000112,Reinduction to methadone maintenance therapy
-Drug or alcohol misuse,495671000000119,Reinduction to buprenorphine maintenance therapy
-Drug or alcohol misuse,1780455014,Referral to drug abuse counsellor
-Drug or alcohol misuse,540681000000110,Self referral to substance misuse service
-Drug or alcohol misuse,540591000000111,Referral to substance misuse service
 Drug or alcohol misuse,1550291000000111,Admission to substance misuse detoxification centre
 Drug or alcohol misuse,405031011,Drug addiction notification
 Drug or alcohol misuse,630051000006114,Drug addict notific admin
@@ -119,23 +101,18 @@ Drug or alcohol misuse,285119012,Drug addiction notif NOS
 Drug or alcohol misuse,2533634017,Substance misuse monitoring
 Drug or alcohol misuse,2533642016,Initial substance misuse assessment
 Drug or alcohol misuse,2533651012,Follow up substance misuse assessment
-Drug or alcohol misuse,2533726015,Substance misuse clinical management plan agreed
-Drug or alcohol misuse,300081000000111,Substance misuse clinical management plan reviewed
 Drug or alcohol misuse,305701000000112,Substance misuse treatment withdrawn
-Drug or alcohol misuse,305731000000118,Substance misuse treatment programme completed
 Drug or alcohol misuse,530931000000116,Substance misuse treatment declined
 Drug or alcohol misuse,1716731000006118,SMR25a drug misuse initial assessment form
 Drug or alcohol misuse,2264491000000115,Seen in drug misuse clinic
 Drug or alcohol misuse,2537051014,DNA - Did not attend substance misuse clinic
 Drug or alcohol misuse,1063801000000119,Seen in substance misuse clinic
-Drug or alcohol misuse,235741000000110,Drug misuse - enhanced services administration
 Drug or alcohol misuse,237641000000113,Drug misuse - enhanced service completed
 Drug or alcohol misuse,1704461000006111,Shared care drug misuse treatment - enhanced services admin
 Drug or alcohol misuse,1153451000000115,Shared care drug misuse treatment
 Drug or alcohol misuse,1704471000006116,Drug misuse treatment primary care - enhanced services admin
 Drug or alcohol misuse,1714461000006113,Pharmacy attended for drug misuse - enhanced services admin
 Drug or alcohol misuse,1680621000006115,Drug misuse assessment declined - enhanced services administ
-Drug or alcohol misuse,2246691000000115,Drug misuse clinic administration
 Drug or alcohol misuse,630831000006113,Drug psychoses
 Drug or alcohol misuse,2670794016,Drug withdrawal syndrome
 Drug or alcohol misuse,294679011,Drug-induced paranoia or hallucinatory states
@@ -380,8 +357,5 @@ Drug or alcohol misuse,2164309017,Adverse reaction to methadone
 Drug or alcohol misuse,2164310010,Adverse reaction to buprenorphine
 Drug or alcohol misuse,355481000006114,[X] Adverse reaction to methadone
 Drug or alcohol misuse,352141000006117,[X] Adverse reaction to buprenorphine
-Drug or alcohol misuse,0,Methadone maintenance
-Drug or alcohol misuse,0,Methadone therapy
-Drug or alcohol misuse,0,Heroin maintenance
 Drug or alcohol misuse,0,Substance abuse counselling
 Drug or alcohol misuse,461113010,[V]Drug abuse counselling and surveillance

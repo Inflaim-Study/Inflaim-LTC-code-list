@@ -1,7 +1,4 @@
 Condition,MedCodeId,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
-Iron deficiency anaemia,251611012,161456009,251611012,^ESCTHI453969,1451.00,H/O: anaemia - iron deficient
-Iron deficiency anaemia,251611012,161456009,251611012,^ESCTHO453968,1451.00,H/O: anaemia - iron deficient
-Iron deficiency anaemia,251611012,161456009,251611012,1451,1451.00,H/O: anaemia - iron deficient
 Iron deficiency anaemia,507619019,87522002,507616014,D0-1,D0...11,Asiderotic anaemia
 Iron deficiency anaemia,507619019,87522002,507616014,D0-2,D0...11,Asiderotic anaemia
 Iron deficiency anaemia,507619019,87522002,507616014,D00yz,D0...11,Asiderotic anaemia

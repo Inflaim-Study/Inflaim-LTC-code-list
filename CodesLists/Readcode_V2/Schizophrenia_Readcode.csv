@@ -10,27 +10,21 @@ Schizophrenia,E100.11,E100.11,Schizophrenia simplex
 Schizophrenia,E100000,E100000,Unspecified schizophrenia
 Schizophrenia,E100100,E100100,Subchronic schizophrenia
 Schizophrenia,E100200,E100200,Chronic schizophrenic
-Schizophrenia,E100300,E100300,Acute exacerbation of subchronic schizophrenia
-Schizophrenia,E100400,E100400,Acute exacerbation of chronic schizophrenia
 Schizophrenia,E100500,E100500,Schizophrenia in remission
 Schizophrenia,E100z00,E100z00,Simple schizophrenia NOS
 Schizophrenia,E101.00,E101.00,Hebephrenic schizophrenia
 Schizophrenia,E101000,E101000,Unspecified hebephrenic schizophrenia
-Schizophrenia,E101400,E101400,Acute exacerbation of chronic hebephrenic schizophrenia
 Schizophrenia,E101500,E101500,Hebephrenic schizophrenia in remission
 Schizophrenia,E101z00,E101z00,Hebephrenic schizophrenia NOS
 Schizophrenia,E102.00,E102.00,Catatonic schizophrenia
 Schizophrenia,E102000,E102000,Unspecified catatonic schizophrenia
 Schizophrenia,E102100,E102100,Subchronic catatonic schizophrenia
-Schizophrenia,E102400,E102400,Acute exacerbation of chronic catatonic schizophrenia
 Schizophrenia,E102500,E102500,Catatonic schizophrenia in remission
 Schizophrenia,E102z00,E102z00,Catatonic schizophrenia NOS
 Schizophrenia,E103.00,E103.00,Paranoid schizophrenia
 Schizophrenia,E103000,E103000,Unspecified paranoid schizophrenia
 Schizophrenia,E103100,E103100,Subchronic paranoid schizophrenia
 Schizophrenia,E103200,E103200,Chronic paranoid schizophrenia
-Schizophrenia,E103300,E103300,Acute exacerbation of subchronic paranoid schizophrenia
-Schizophrenia,E103400,E103400,Acute exacerbation of chronic paranoid schizophrenia
 Schizophrenia,E103500,E103500,Paranoid schizophrenia in remission
 Schizophrenia,E103z00,E103z00,Paranoid schizophrenia NOS
 Schizophrenia,E105.00,E105.00,Latent schizophrenia
@@ -44,8 +38,6 @@ Schizophrenia,E107.11,E107.11,Cyclic schizophrenia
 Schizophrenia,E107000,E107000,Unspecified schizo-affective schizophrenia
 Schizophrenia,E107100,E107100,Subchronic schizo-affective schizophrenia
 Schizophrenia,E107200,E107200,Chronic schizo-affective schizophrenia
-Schizophrenia,E107300,E107300,Acute exacerbation subchronic schizo-affective schizophrenia
-Schizophrenia,E107400,E107400,Acute exacerbation of chronic schizo-affective schizophrenia
 Schizophrenia,E107500,E107500,Schizo-affective schizophrenia in remission
 Schizophrenia,E107z00,E107z00,Schizo-affective schizophrenia NOS
 Schizophrenia,E10y.00,E10y.00,Other schizophrenia

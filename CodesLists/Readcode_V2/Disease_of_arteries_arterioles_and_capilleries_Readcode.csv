@@ -1,6 +1,4 @@
 Condition,ReadCode,CleansedReadCode,Term
-"Disease of arteries, arterioles and capilleries",14AE,14AE.00,H/O: aortic aneurysm
-"Disease of arteries, arterioles and capilleries",^ESCTHI454065,14AE.00,H/O: aortic aneurysm
 "Disease of arteries, arterioles and capilleries",66f3,66f3.00,Aortic aneurysm monitoring
 "Disease of arteries, arterioles and capilleries",7A134,7A13400,Emerg replace aneurysm abdom aorta by anast aorta/aorta NEC
 "Disease of arteries, arterioles and capilleries",^ESCTDI435459,7A13400,Emerg replace aneurysm abdom aorta by anast aorta/aorta NEC
@@ -303,9 +301,6 @@ Condition,ReadCode,CleansedReadCode,Term
 "Disease of arteries, arterioles and capilleries",Gyu72,Gyu7800,[X]Aneurysm of aorta in diseases classified elsewhere
 "Disease of arteries, arterioles and capilleries",G71,Gyu7800,[X]Aneurysm of aorta in diseases classified elsewhere
 "Disease of arteries, arterioles and capilleries",Gyu78,Gyu7800,[X]Aneurysm of aorta in diseases classified elsewhere
-"Disease of arteries, arterioles and capilleries",^ESCTHO829882,14F7.00,H/O: arterial lower limb ulcer
-"Disease of arteries, arterioles and capilleries",^ESCTHI829881,14F7.00,H/O: arterial lower limb ulcer
-"Disease of arteries, arterioles and capilleries",14F7,14F7.00,H/O: arterial lower limb ulcer
 "Disease of arteries, arterioles and capilleries",2G63,2G63.00,Ischaemic toe
 "Disease of arteries, arterioles and capilleries",^ESCTIS596796,2G63.00,Ischaemic toe
 "Disease of arteries, arterioles and capilleries",662U,662U.00,Peripheral vascular disease monitoring

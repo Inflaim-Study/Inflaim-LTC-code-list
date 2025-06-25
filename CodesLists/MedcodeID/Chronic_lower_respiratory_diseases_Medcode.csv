@@ -2,32 +2,21 @@ Condition,MedCodeId,Term
 Chronic lower respiratory diseases,1882421000006112,1 COPD exacerbation in past year
 Chronic lower respiratory diseases,1882441000006118,2 COPD exacerbations in past year
 Chronic lower respiratory diseases,1882431000006111,3+ COPD exacerbations in past year
-Chronic lower respiratory diseases,424365019,Acute infective exacerbation of chronic obstructive airways disease
-Chronic lower respiratory diseases,8287171000006115,Acute non-infective exacerbation of COPD (chronic obstructive pulmonary disease)
-Chronic lower respiratory diseases,2010061000006112,Acute non-infective exacerbation of chronic obstructive pulmonary disease
-Chronic lower respiratory diseases,8260631000006112,COPD (chronic obstructive pulmonary disease) self-management plan review
 Chronic lower respiratory diseases,2716321000006116,COPD - Chronic obstructive pulmonary disease
 Chronic lower respiratory diseases,11932331000006116,COPD GOLD group A
 Chronic lower respiratory diseases,11932341000006112,COPD GOLD group B
 Chronic lower respiratory diseases,11932351000006110,COPD GOLD group C
 Chronic lower respiratory diseases,11932361000006112,COPD GOLD group D
-Chronic lower respiratory diseases,1877361000006116,COPD clinical management plan no longer in place
 Chronic lower respiratory diseases,1771441000006118,COPD patient experience discussed
 Chronic lower respiratory diseases,885311000006116,Chronic obst. pulm. dis. NOS
 Chronic lower respiratory diseases,990641000006110,Chronic obst. pulm. dis. NOS
 Chronic lower respiratory diseases,2716231000006114,Chronic obstructive lung disease
 Chronic lower respiratory diseases,1823851000006119,Chronic obstructive pulmonary disease confirmed
-Chronic lower respiratory diseases,1856591000006115,Chronic obstructive pulmonary disease follow-up assessment
-Chronic lower respiratory diseases,2009451000006112,Chronic obstructive pulmonary disease post discharge review
 Chronic lower respiratory diseases,1856571000006116,Chronic obstructive pulmonary disease severity
 Chronic lower respiratory diseases,8034781000006114,Did not attend chronic obstructive pulmonary disease clinic
 Chronic lower respiratory diseases,12623621000006118,Excepted from COPD (chronic obstructive pulmonary disease) quality indicators - service unavailable
 Chronic lower respiratory diseases,1882451000006116,No COPD exacerbations in past year
-Chronic lower respiratory diseases,2009511000006112,Not suitable for step down change in COPD management plan
-Chronic lower respiratory diseases,8249051000006110,Referral to COPD (chronic obstructive pulmonary disease) community nursing team
 Chronic lower respiratory diseases,8294561000006110,Seen in COPD (chronic obstructive pulmonary disease) clinic
-Chronic lower respiratory diseases,3011135010,Step down change in chronic obstructive pulmonary disease management plan
-Chronic lower respiratory diseases,2009501000006110,Suitable for step down change in COPD management plan
 Chronic lower respiratory diseases,909711000006111,[RFC] Chronic obstructive pulmonary disease (COPD)
 Chronic lower respiratory diseases,12728161000006116,chronic obstructive airways disease nos
 Chronic lower respiratory diseases,12759361000006112,chronic obstructive pulmonary disease nos
@@ -47,7 +36,6 @@ Chronic lower respiratory diseases,285104011,Obstructive chronic bronchitis
 Chronic lower respiratory diseases,301450011,Chronic asthmatic bronchitis
 Chronic lower respiratory diseases,301451010,Chronic wheezy bronchitis
 Chronic lower respiratory diseases,285100019,Emphysematous bronchitis
-Chronic lower respiratory diseases,301453013,Acute exacerbation of chronic obstructive airways disease
 Chronic lower respiratory diseases,492443010,Bronchiolitis obliterans
 Chronic lower respiratory diseases,301455018,Obstructive chronic bronchitis NOS
 Chronic lower respiratory diseases,301456017,Mixed simple and mucopurulent chronic bronchitis
@@ -76,7 +64,6 @@ Chronic lower respiratory diseases,516801000000112,Very severe chronic obstructi
 Chronic lower respiratory diseases,216596014,End stage chronic obstructive airways disease
 Chronic lower respiratory diseases,301539010,Other specified chronic obstructive airways disease
 Chronic lower respiratory diseases,1222334016,Other specified chronic obstructive pulmonary disease
-Chronic lower respiratory diseases,555461000006119,Chronic obstruct pulmonary dis with acute lower resp infectn
 Chronic lower respiratory diseases,301545019,Chronic obstructive airways disease NOS
 Chronic lower respiratory diseases,1222335015,Chronic obstructive pulmonary disease NOS
 Chronic lower respiratory diseases,301572010,Chronic emphysema due to chemical fumes
@@ -85,8 +72,6 @@ Chronic lower respiratory diseases,2240631000000119,Eosinophilic bronchitis
 Chronic lower respiratory diseases,301835010,[X]Other emphysema
 Chronic lower respiratory diseases,301836011,[X]Other specified chronic obstructive pulmonary disease
 Chronic lower respiratory diseases,1012731000006119,Adverse reaction to Drugs For Prophylaxis Of Asthma
-Chronic lower respiratory diseases,1877351000006118,Asthma clinical management plan no longer in place
-Chronic lower respiratory diseases,856051000006115,Asthma control unsatisfactory
 Chronic lower respiratory diseases,1855521000006111,Asthma monitoring in primary care
 Chronic lower respiratory diseases,1855531000006114,Asthma monitoring in secondary care
 Chronic lower respiratory diseases,856031000006110,Asthma stable < 3 months
@@ -95,8 +80,6 @@ Chronic lower respiratory diseases,2131281000000114,Asthma trigger - perfume
 Chronic lower respiratory diseases,6720721000006111,Asthmatic bronchitis
 Chronic lower respiratory diseases,1859261000006116,Date of asthma diagnosis
 Chronic lower respiratory diseases,885291000006115,Extrinsic asthma - atopy
-Chronic lower respiratory diseases,1856351000006118,Follow-up asthma assessment
-Chronic lower respiratory diseases,1880001000006114,No change in asthma management plan
 Chronic lower respiratory diseases,1769451000000116,Seen in school asthma clinic
 Chronic lower respiratory diseases,905331000006118,[RFC] Asthma
 Chronic lower respiratory diseases,908841000006111,[RFC] Asthma

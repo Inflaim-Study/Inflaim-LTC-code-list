@@ -1,6 +1,4 @@
 Condition,MedCodeId,Term
-Cataract,928811000006119,Cataract extract + lens implant
-Cataract,859791000006115,Cataract extract +lens implant
 Cataract,883311000006115,Secondary cataract
 Cataract,859751000006114,YAG laser post capsulotomy
 Cataract,857711000006116,Yag laser capsulotomy
@@ -14,7 +12,6 @@ Cataract,451393017,O/E - Right cataract present
 Cataract,451394011,O/E - Left cataract present
 Cataract,495988011,Needling of lens for cataract
 Cataract,495989015,Discission of cataract
-Cataract,2533421012,Referral to cataract clinic
 Cataract,771341000006114,Insulin dependent diabetes mellitus with diabetic cataract
 Cataract,84691000006115,Type I diabetes mellitus with diabetic cataract
 Cataract,84321000006114,Type 1 diabetes mellitus with diabetic cataract

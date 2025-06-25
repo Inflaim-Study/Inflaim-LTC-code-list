@@ -11,16 +11,12 @@ Epilepsy,6678,6678.00,Epilepsy treatment changed
 Epilepsy,6679,6679.00,Epilepsy treatment started
 Epilepsy,667A.00,667A.00,Epilepsy treatment stopped
 Epilepsy,667B.00,667B.00,Nocturnal epilepsy
-Epilepsy,667C.00,667C.00,Epilepsy control good
-Epilepsy,667D.00,667D.00,Epilepsy control poor
 Epilepsy,667E.00,667E.00,Epilepsy care arrangement
 Epilepsy,667F.00,667F.00,Seizure free >12 months
 Epilepsy,667G.00,667G.00,Epilepsy restricts employment
 Epilepsy,667H.00,667H.00,Epilepsy prevents employment
-Epilepsy,667J.00,667J.00,Epilepsy impairs education
 Epilepsy,667K.00,667K.00,Epilepsy limits activities
 Epilepsy,667L.00,667L.00,Epilepsy does not limit activities
-Epilepsy,667M.00,667M.00,Epilepsy management plan given
 Epilepsy,667N.00,667N.00,Epilepsy severity
 Epilepsy,667P.00,667P.00,No seizures on treatment
 Epilepsy,667Q.00,667Q.00,1 to 12 seizures a year
@@ -32,7 +28,6 @@ Epilepsy,667X.00,667X.00,No epilepsy drug side effects
 Epilepsy,667Z.00,667Z.00,Epilepsy monitoring NOS
 Epilepsy,67AF.00,67AF.00,Pregnancy advice for patients with epilepsy
 Epilepsy,67IJ000,67IJ000,Pre-conception advice for patients with epilepsy
-Epilepsy,8BIF.00,8BIF.00,Epilepsy medication review
 Epilepsy,9Of3.00,9Of3.00,Epilepsy monitoring verbal invite
 Epilepsy,9Of4.00,9Of4.00,Epilepsy monitoring telephone invite
 Epilepsy,9Of5.00,9Of5.00,Epilepsy monitoring call first letter

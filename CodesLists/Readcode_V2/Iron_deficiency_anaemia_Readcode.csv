@@ -1,7 +1,4 @@
 Condition,ReadCode,CleansedReadCode,Term
-Iron deficiency anaemia,^ESCTHI453969,1451.00,H/O: anaemia - iron deficient
-Iron deficiency anaemia,^ESCTHO453968,1451.00,H/O: anaemia - iron deficient
-Iron deficiency anaemia,1451,1451.00,H/O: anaemia - iron deficient
 Iron deficiency anaemia,D0-1,D0...11,Asiderotic anaemia
 Iron deficiency anaemia,D0-2,D0...11,Asiderotic anaemia
 Iron deficiency anaemia,D00yz,D0...11,Asiderotic anaemia

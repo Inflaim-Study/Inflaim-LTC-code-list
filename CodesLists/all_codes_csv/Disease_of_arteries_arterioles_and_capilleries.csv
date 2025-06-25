@@ -1,6 +1,4 @@
 Condition,MedCodeId,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
-"Disease of arteries, arterioles and capilleries",251699010,161514008,251699010,14AE,14AE.00,H/O: aortic aneurysm
-"Disease of arteries, arterioles and capilleries",251699010,161514008,251699010,^ESCTHI454065,14AE.00,H/O: aortic aneurysm
 "Disease of arteries, arterioles and capilleries",1795071000000116,707265005,3029507018,66f3,66f3.00,Aortic aneurysm monitoring
 "Disease of arteries, arterioles and capilleries",639721000006114,123679006,192168019,7A134,7A13400,Emerg replace aneurysm abdom aorta by anast aorta/aorta NEC
 "Disease of arteries, arterioles and capilleries",639721000006114,123679006,192168019,^ESCTDI435459,7A13400,Emerg replace aneurysm abdom aorta by anast aorta/aorta NEC
@@ -303,9 +301,6 @@ Condition,MedCodeId,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,
 "Disease of arteries, arterioles and capilleries",300968014,67362008,111949011,Gyu72,Gyu7800,[X]Aneurysm of aorta in diseases classified elsewhere
 "Disease of arteries, arterioles and capilleries",300968014,67362008,111949011,G71,Gyu7800,[X]Aneurysm of aorta in diseases classified elsewhere
 "Disease of arteries, arterioles and capilleries",300968014,67362008,111949011,Gyu78,Gyu7800,[X]Aneurysm of aorta in diseases classified elsewhere
-"Disease of arteries, arterioles and capilleries",2232441000000112,863401000000101,2232441000000112,^ESCTHO829882,14F7.00,H/O: arterial lower limb ulcer
-"Disease of arteries, arterioles and capilleries",2232441000000112,863401000000101,2232441000000112,^ESCTHI829881,14F7.00,H/O: arterial lower limb ulcer
-"Disease of arteries, arterioles and capilleries",2232441000000112,863401000000101,2232441000000112,14F7,14F7.00,H/O: arterial lower limb ulcer
 "Disease of arteries, arterioles and capilleries",450665015,307408003,450665015,2G63,2G63.00,Ischaemic toe
 "Disease of arteries, arterioles and capilleries",450665015,307408003,450665015,^ESCTIS596796,2G63.00,Ischaemic toe
 "Disease of arteries, arterioles and capilleries",216185010,134379001,216185010,662U,662U.00,Peripheral vascular disease monitoring

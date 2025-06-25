@@ -1,11 +1,8 @@
 Condition,MedCodeId,Term
-Epilepsy,1013181000006110,Adverse reaction to Drugs Used In Control Of Epilepsy
 Epilepsy,2014871000006119,Contraceptive advice for patients on valproate for epilepsy
-Epilepsy,1855731000006116,Epilepsy monitoring administration
 Epilepsy,1856791000006111,Epilepsy monitoring default
 Epilepsy,1855741000006114,Epilepsy monitoring in primary care
 Epilepsy,1855761000006112,Epilepsy monitoring in secondary care
-Epilepsy,8079791000006114,Epilepsy monitoring telephone invitation
 Epilepsy,1856771000006110,Epilepsy treatment compliance good
 Epilepsy,1856781000006112,Epilepsy treatment compliance poor
 Epilepsy,1673671000006116,Epilepsy treatment continued
@@ -15,7 +12,6 @@ Epilepsy,851121000006117,Partial epilepsy
 Epilepsy,883041000006118,Petit mal epilepsy
 Epilepsy,8191681000006117,Petit-mal epilepsy
 Epilepsy,897431000006113,Post traumatic epilepsy
-Epilepsy,1776671000006116,Reason for referral: Epilepsy
 Epilepsy,905881000006111,[RFC] Epilepsy/convulsion
 Epilepsy,11778041000006120,dravet syndrome
 Epilepsy,918561000006111,epilepsy associated problems
@@ -43,16 +39,12 @@ Epilepsy,264638016,Epilepsy treatment changed
 Epilepsy,264639012,Epilepsy treatment started
 Epilepsy,264640014,Epilepsy treatment stopped
 Epilepsy,345323014,Nocturnal epilepsy
-Epilepsy,459233015,Epilepsy control good
-Epilepsy,459234014,Epilepsy control poor
 Epilepsy,1780375016,Epilepsy care arrangement
 Epilepsy,930341000006113,Seizure free >12 months
 Epilepsy,141981000000118,Epilepsy restricts employment
 Epilepsy,141991000000116,Epilepsy prevents employment
-Epilepsy,154851000000115,Epilepsy impairs education
 Epilepsy,137801000000112,Epilepsy limits activities
 Epilepsy,142041000000115,Epilepsy does not limit activities
-Epilepsy,142051000000117,Epilepsy management plan given
 Epilepsy,2159216019,Epilepsy severity
 Epilepsy,2159217011,No seizures on treatment
 Epilepsy,2159218018,1 to 12 seizures a year
@@ -64,7 +56,6 @@ Epilepsy,2533403014,No epilepsy drug side effects
 Epilepsy,264645016,Epilepsy monitoring NOS
 Epilepsy,1176071000000111,Pregnancy advice for patients with epilepsy
 Epilepsy,1176031000000114,Pre-conception advice for patients with epilepsy
-Epilepsy,1780267013,Epilepsy medication review
 Epilepsy,2548491016,Epilepsy monitoring verbal invite
 Epilepsy,406781000000119,Epilepsy monitoring telephone invite
 Epilepsy,307861000000113,Epilepsy monitoring call first letter

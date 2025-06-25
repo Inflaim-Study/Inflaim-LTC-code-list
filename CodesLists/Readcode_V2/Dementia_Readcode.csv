@@ -1,14 +1,10 @@
 Condition,ReadCode,CleansedReadCode,Term
 Dementia,66h..00,66h..00,Dementia monitoring
-Dementia,6AB..00,6AB..00,Dementia annual review
-Dementia,8CMZ.00,8CMZ.00,Dementia care plan
-Dementia,9Ou..00,9Ou..00,Dementia monitoring administration
 Dementia,9Ou1.00,9Ou1.00,Dementia monitoring first letter
 Dementia,9Ou2.00,9Ou2.00,Dementia monitoring second letter
 Dementia,9Ou3.00,9Ou3.00,Dementia monitoring third letter
 Dementia,9Ou4.00,9Ou4.00,Dementia monitoring verbal invite
 Dementia,9Ou5.00,9Ou5.00,Dementia monitoring telephone invite
-Dementia,9hD..00,9hD..00,Exception reporting: dementia quality indicators
 Dementia,9hD0.00,9hD0.00,Excepted from dementia quality indicators: Patient unsuitabl
 Dementia,9hD1.00,9hD1.00,Excepted from dementia quality indicators: Informed dissent
 Dementia,E00..00,E00..00,Senile and presenile organic psychotic conditions

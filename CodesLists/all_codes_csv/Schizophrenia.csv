@@ -17,27 +17,21 @@ Schizophrenia,294726014,191527001,294726014,E100.11,E100.11,Schizophrenia simple
 Schizophrenia,294728010,58214004,96745016,E100000,E100000,Unspecified schizophrenia
 Schizophrenia,28758018,16990005,28758018,E100100,E100100,Subchronic schizophrenia
 Schizophrenia,1234861017,83746006,1234861017,E100200,E100200,Chronic schizophrenic
-Schizophrenia,294730012,111482003,178722014,E100300,E100300,Acute exacerbation of subchronic schizophrenia
-Schizophrenia,294731011,191531007,294731011,E100400,E100400,Acute exacerbation of chronic schizophrenia
 Schizophrenia,9225016,4926007,9225016,E100500,E100500,Schizophrenia in remission
 Schizophrenia,294734015,191527001,294727017,E100z00,E100z00,Simple schizophrenia NOS
 Schizophrenia,819351000006115,35252006,2881679010,E101.00,E101.00,Hebephrenic schizophrenia
 Schizophrenia,294735019,35252006,2881679010,E101000,E101000,Unspecified hebephrenic schizophrenia
-Schizophrenia,294739013,191539009,294739013,E101400,E101400,Acute exacerbation of chronic hebephrenic schizophrenia
 Schizophrenia,294740010,31373002,3425623018,E101500,E101500,Hebephrenic schizophrenia in remission
 Schizophrenia,294741014,35252006,2881679010,E101z00,E101z00,Hebephrenic schizophrenia NOS
 Schizophrenia,294742019,191542003,294742019,E102.00,E102.00,Catatonic schizophrenia
 Schizophrenia,294744018,191542003,294742019,E102000,E102000,Unspecified catatonic schizophrenia
 Schizophrenia,71539017,42868002,71539017,E102100,E102100,Subchronic catatonic schizophrenia
-Schizophrenia,294751010,191548004,294751010,E102400,E102400,Acute exacerbation of chronic catatonic schizophrenia
 Schizophrenia,178723016,111483008,178723016,E102500,E102500,Catatonic schizophrenia in remission
 Schizophrenia,294753013,191542003,294742019,E102z00,E102z00,Catatonic schizophrenia NOS
 Schizophrenia,107878010,64905009,107878010,E103.00,E103.00,Paranoid schizophrenia
 Schizophrenia,294754019,64905009,107878010,E103000,E103000,Unspecified paranoid schizophrenia
 Schizophrenia,132503015,79866005,132503015,E103100,E103100,Subchronic paranoid schizophrenia
 Schizophrenia,52897013,31658008,52897013,E103200,E103200,Chronic paranoid schizophrenia
-Schizophrenia,294757014,191554003,294757014,E103300,E103300,Acute exacerbation of subchronic paranoid schizophrenia
-Schizophrenia,294758016,191555002,294758016,E103400,E103400,Acute exacerbation of chronic paranoid schizophrenia
 Schizophrenia,105029017,63181006,105029017,E103500,E103500,Paranoid schizophrenia in remission
 Schizophrenia,294760019,64905009,107878010,E103z00,E103z00,Paranoid schizophrenia NOS
 Schizophrenia,294764011,191559008,294764011,E105.00,E105.00,Latent schizophrenia
@@ -51,8 +45,6 @@ Schizophrenia,294773015,191567000,294773015,E107.11,E107.11,Cyclic schizophrenia
 Schizophrenia,78531000006116,191567000,294772013,E107000,E107000,Unspecified schizo-affective schizophrenia
 Schizophrenia,123611000006110,191569002,294775010,E107100,E107100,Subchronic schizo-affective schizophrenia
 Schizophrenia,556631000006116,191570001,294776011,E107200,E107200,Chronic schizo-affective schizophrenia
-Schizophrenia,456801000006115,191571002,294777019,E107300,E107300,Acute exacerbation subchronic schizo-affective schizophrenia
-Schizophrenia,456731000006115,191572009,294778012,E107400,E107400,Acute exacerbation of chronic schizo-affective schizophrenia
 Schizophrenia,155151000006119,191574005,294780018,E107500,E107500,Schizo-affective schizophrenia in remission
 Schizophrenia,155161000006117,191567000,294772013,E107z00,E107z00,Schizo-affective schizophrenia NOS
 Schizophrenia,401764014,58214004,96745016,E10y.00,E10y.00,Other schizophrenia

@@ -1,5 +1,4 @@
 Condition,SNOMED_Code,SnomedCTDescriptionId,Term
-"Disease of arteries, arterioles and capilleries",161514008,251699010,H/O: aortic aneurysm
 "Disease of arteries, arterioles and capilleries",707265005,3029507018,Aortic aneurysm monitoring
 "Disease of arteries, arterioles and capilleries",123679006,192168019,Emerg replace aneurysm abdom aorta by anast aorta/aorta NEC
 "Disease of arteries, arterioles and capilleries",116360008,183983017,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
@@ -34,7 +33,6 @@ Condition,SNOMED_Code,SnomedCTDescriptionId,Term
 "Disease of arteries, arterioles and capilleries",67362008,111949011,"[X]Aortic aneurysm of unspecified site, ruptured"
 "Disease of arteries, arterioles and capilleries",67362008,111949011,"[X]Aortic aneurysm of unspecified site, nonruptured"
 "Disease of arteries, arterioles and capilleries",67362008,111949011,[X]Aneurysm of aorta in diseases classified elsewhere
-"Disease of arteries, arterioles and capilleries",863401000000101,2232441000000112,H/O: arterial lower limb ulcer
 "Disease of arteries, arterioles and capilleries",307408003,450665015,Ischaemic toe
 "Disease of arteries, arterioles and capilleries",134379001,216185010,Peripheral vascular disease monitoring
 "Disease of arteries, arterioles and capilleries",175348000,271509013,Open embolectomy of bifurcation of aorta

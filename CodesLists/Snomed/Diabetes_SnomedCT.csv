@@ -25,8 +25,6 @@ Diabetes,421631007,2618206011,Type II diabetes mellitus with gangrene
 Diabetes,421631007,2618206011,Type 2 diabetes mellitus with gangrene
 Diabetes,422034002,3699410014,Type II diabetes mellitus with retinopathy
 Diabetes,422034002,3699410014,Type 2 diabetes mellitus with retinopathy
-Diabetes,443694000,2921019012,Type II diabetes mellitus - poor control
-Diabetes,443694000,2921019012,Type 2 diabetes mellitus - poor control
 Diabetes,420436000,3697667019,Type II diabetes mellitus with mononeuropathy
 Diabetes,713706002,3297353013,Type II diabetes mellitus with polyneuropathy
 Diabetes,420279001,3013392012,Type II diabetes mellitus with nephropathy
@@ -58,44 +56,29 @@ Diabetes,421750000,2967754017,Type 2 diabetes mellitus with ketoacidosis
 Diabetes,421847006,2618218019,Type 2 diabetes mellitus with ketoacidotic coma
 Diabetes,421779007,2618237011,Type 2 diabetes mellitus with exudative maculopathy
 Diabetes,713703005,3698412014,Type 2 diabetes mellitus with gastroparesis
-Diabetes,276651000000107,1676151000000117,Attended DESMOND (diabetes education and self management for ongoing and newly diagnosed) structured programme
-Diabetes,276651000000107,474071000000116,Attended diabetes education and self management for ongoing and newly diagnosed structured programme
 Diabetes,1873301000006104,1873301000006114,Care contact service: diabetes
-Diabetes,306501000000105,1678371000000113,DESMOND (diabetes education and self management for ongoing and newly diagnosed) structured programme completed
 Diabetes,420422005,3303994013,DKA - diabetic ketoacidosis
 Diabetes,230572002,881501000006110,Diabetes + neuropathy
-Diabetes,1918361000006100,1918361000006116,Diabetes care planning test results sent to patient
-Diabetes,1877371000006107,1877371000006111,Diabetes clinical management plan no longer in place
 Diabetes,73211009,881441000006111,Diabetes mellitus - juvenile
 Diabetes,532411000000102,881451000006113,Diabetes mellitus -adult onset
 Diabetes,1823921000006103,1823921000006119,Diabetes mellitus confirmed
-Diabetes,1823471000006106,1823471000006110,Diabetes mellitus high risk review
 Diabetes,420422005,881461000006110,Diabetes+ketoacidosis -no coma
 Diabetes,856531000006103,856531000006119,Diabetic - GP eye check
 Diabetes,856551000006105,856551000006114,Diabetic - hospital eye check
-Diabetes,616891000006103,616891000006119,Diabetic - moderate control
-Diabetes,1876341000006100,1876341000006116,Diabetic 3 month review
-Diabetes,1842001000006102,1842001000006118,Diabetic annual review by practice nurse
 Diabetes,50620007,84344019,Diabetic autonomic neuropathy
-Diabetes,1841461000006102,1841461000006118,Diabetic foot screening invitation letter
 Diabetes,420422005,2616611010,Diabetic ketoacidosis
 Diabetes,111556005,178798017,Diabetic ketoacidosis without coma
 Diabetes,201724008,309740011,Diabetic neuropathic arthropathy
 Diabetes,1780981000006104,1780981000006115,Diabetic on non-insulin injectable
 Diabetes,1804191000006104,1804191000006114,Diabetic retinopathy screen done by optician
-Diabetes,1839671000006108,1839671000006112,Diabetic short review
 Diabetes,1682801000006109,1682801000006113,Diabetic sick day rules advice
-Diabetes,307171000000108,548011000000114,Did not attend diabetes education and self management for ongoing and newly diagnosed structured programme
 Diabetes,870761000000105,2249991000000118,Discharge from in-house diabetic foot screening
-Diabetes,1994041000006106,1994041000006110,High risk of diabetes mellitus annual review declined
 Diabetes,870701000000106,2249871000000112,In-house diabetic foot screening first appointment
-Diabetes,870741000000109,2249951000000114,In-house diabetic foot screening follow-up appointment
 Diabetes,1673591000006103,1673591000006119,Ineligib for diab. eye screening: Learning or mental disability
 Diabetes,1583901000006104,1583901000006115,Ineligibility for diab. eye screen: Blind (screening contraind)
 Diabetes,1583851000006109,1583851000006113,Ineligibility for diab. eye screen: Discharged for other reason
 Diabetes,1583881000006101,1583881000006117,Ineligibility for diab. eye screening: Declined to participate
 Diabetes,851051000006106,851051000006110,Ins-treat non-ins-dep diab mel
-Diabetes,956921000000109,2439751000000110,Joint consultation GP & community diabetes specialist nurse
 Diabetes,856611000006105,856611000006114,Laser treated diabetic retinopathy
 Diabetes,856661000006108,856661000006112,Left diabetic foot active ulceration
 Diabetes,856671000006101,856671000006117,Left diabetic foot high risk
@@ -111,7 +94,6 @@ Diabetes,199223000,887971000006115,Preg.+ diabetes mellitus
 Diabetes,312907002,456707011,Proliferative diabetic retinopathy - high risk
 Diabetes,293190009,902201000006112,Reaction: insulin/antidiabetic
 Diabetes,1850931000006107,1850931000006111,Reason for influenza vaccine - diabetes mellitus
-Diabetes,306741000000104,546911000000114,Referral to diabetes education and self management for ongoing and newly diagnosed diabetes structured programme
 Diabetes,1775381000006102,1775381000006118,Referred to Diabetes Service
 Diabetes,857691000006103,857691000006119,Right diabetic foot active ulceration
 Diabetes,857721000006108,857721000006112,Right diabetic foot high risk
@@ -124,7 +106,6 @@ Diabetes,857411000006106,857411000006110,Right proliferative diabetic retinopath
 Diabetes,237601000,356078011,Secondary endocrine diabetes mellitus
 Diabetes,720685006,3320858019,Seen by diabetes specialist nurse
 Diabetes,1773381000006103,1773381000006119,Seen in in-house nurse-led diabetic clinic
-Diabetes,987441000006109,987441000006113,Six month diabetic review
 Diabetes,1024571000000100,2586731000000110,Under care of community-based diabetes specialist nurse
 Diabetes,1024551000000109,2586691000000116,Under care of hospital-based diabetes specialist nurse
 Diabetes,980351000000105,2493341000000118,Young Townson FootSkin Scale for Diabetic Neuropathy
@@ -157,7 +138,6 @@ Diabetes,284449005,1495355018,lipoatrophic diabetes mellitus
 Diabetes,422166005,674961000006118,niddm with peripheral circulatory disorder
 Diabetes,630521000000101,1390421000000119,other specified diabetes mellitus with coma
 Diabetes,918281000006100,918281000006116,pt advised re diabetic diet
-Diabetes,1539131000006104,1539131000006115,referral for diabetic retinopathy screening
 Diabetes,314893005,459292011,type 1 diabetes mellitus with arthropathy
 Diabetes,420825003,2618207019,type 1 diabetes mellitus with gangrene
 Diabetes,420918009,2618199015,type 1 diabetes mellitus with mononeuropathy
@@ -166,7 +146,6 @@ Diabetes,421893009,2623054013,type 1 diabetes mellitus with nephropathy
 Diabetes,31211000119101,3315042015,type 1 diabetes mellitus with peripheral angiopathy
 Diabetes,713705003,3297342019,type 1 diabetes mellitus with polyneuropathy
 Diabetes,313435000,457326014,type 1 diabetes mellitus without complication
-Diabetes,444073006,2872487013,type i diabetes mellitus - poor control
 Diabetes,314893005,459294012,type i diabetes mellitus with arthropathy
 Diabetes,421920002,3688521010,type i diabetes mellitus with diabetic cataract
 Diabetes,314771006,459163017,type i diabetes mellitus with hypoglycaemic coma
@@ -214,20 +193,12 @@ Diabetes,170753006,264695015,Understands diet - diabetes
 Diabetes,170757007,264701014,Fundoscopy - diabetic check
 Diabetes,170760000,264704018,Diabetic drug side effects
 Diabetes,170761001,264705017,Diabetic treatment changed
-Diabetes,170763003,264707013,Diabetic - good control
-Diabetes,268519009,401531012,Diabetic - poor control
 Diabetes,11530004,19931010,Unstable diabetes
 Diabetes,11530004,19931010,Brittle diabetes
-Diabetes,268519009,401531012,Diabetic - poor control NOS
 Diabetes,170769004,264717015,Diabetic - cooperative patient
 Diabetes,170770003,264718013,Diabetic-uncooperative patient
 Diabetes,170772006,264720011,Date diabetic treatment start
 Diabetes,170773001,264721010,Date diabetic treatment stopp.
-Diabetes,170774007,264723013,Diabetes: practice programme
-Diabetes,170775008,264724019,Diabetes: shared care programme
-Diabetes,170742000,264676010,Diabetes management plan given
-Diabetes,170777000,264727014,Diabetic annual review
-Diabetes,170778005,264728016,Annual diabetic blood test
 Diabetes,243860001,364695019,Diabetes care by hospital only
 Diabetes,314194001,458512016,Diabetic on insulin and oral treatment
 Diabetes,394683006,1488405010,Diabetic foot risk assessment
@@ -237,11 +208,8 @@ Diabetes,25361000000103,1749271000000117,Diabetic diet - poor compliance
 Diabetes,401191002,1780386019,Diabetic foot examination
 Diabetes,401081006,1780286017,Diabetic peripheral neuropathy screening
 Diabetes,198471000000107,299191000000110,Insulin needles changed daily
-Diabetes,198501000000100,299261000000111,Diabetic 6 month review
 Diabetes,199291000000104,301161000000113,Insulin needles changed less than once a day
 Diabetes,703972004,3012379017,Insulin dose changed
-Diabetes,279291000000109,479511000000117,Diabetes type 1 review
-Diabetes,279321000000104,479571000000110,Diabetes type 2 review
 Diabetes,345041000000101,646031000000112,Insulin treatment initiated
 Diabetes,367011000000100,692951000000111,Diabetic foot screen
 Diabetes,394684000,1488406011,Diabetic pre-pregnancy counselling
@@ -250,19 +218,12 @@ Diabetes,1103701000000102,2763011000000112,Diabetic retinopathy screening offere
 Diabetes,247771000000108,405561000000113,Diabetic digital retinopathy screening offered
 Diabetes,413180006,2474726011,Pan retinal photocoagulation for diabetes
 Diabetes,182781000,282570016,Diabetic stabilisation
-Diabetes,394725008,1488441010,Diabetes medication review
-Diabetes,407569005,2159170012,Patient on maximal tolerated therapy for diabetes
 Diabetes,284350006,2575925018,Pt advised re diabetic diet
-Diabetes,401069007,1780274015,Advice about blood glucose control
 Diabetes,415744000,2532974016,Transition of diabetes care options discussed
 Diabetes,390890005,1484923019,Refer to diabetic foot screener
-Diabetes,408384004,2159948010,Diabetic retinopathy 12 month review
-Diabetes,408385003,2159949019,Diabetic retinopathy 6 month review
 Diabetes,183751004,283938017,Diabetology D.V. done
-Diabetes,248161000000101,406351000000114,Referral for diabetic retinopathy screening
 Diabetes,412752009,2474309019,Diabetic foot examination declined
 Diabetes,413122001,2474671011,Diabetic retinopathy screening refused
-Diabetes,198321000000100,298811000000118,Insulin therapy declined
 Diabetes,763782001,3643843012,Patient held diabetic record declined
 Diabetes,408405001,2159969012,Patient held diabetic record issued
 Diabetes,417681008,2549901010,Diabetic patient unsuitable for digital retinal photography
@@ -337,9 +298,6 @@ Diabetes,422275004,2616612015,Insulin dependent diabetes mellitus with gangrene
 Diabetes,4855003,9093013,Insulin dependent diabetes mellitus with retinopathy
 Diabetes,420789003,3699407019,Type I diabetes mellitus with retinopathy
 Diabetes,420789003,3699407019,Type 1 diabetes mellitus with retinopathy
-Diabetes,268519009,401531012,Insulin dependant diabetes mellitus - poor control
-Diabetes,444073006,2872487013,Type I diabetes mellitus - poor control
-Diabetes,444073006,2872487013,Type 1 diabetes mellitus - poor control
 Diabetes,73211009,121589010,Insulin dependant diabetes maturity onset
 Diabetes,190372001,292551012,Type I diabetes mellitus maturity onset
 Diabetes,190372001,292553010,Type 1 diabetes mellitus maturity onset
@@ -370,7 +328,6 @@ Diabetes,190388001,292578014,Non-insulin-dependent diabetes mellitus with multip
 Diabetes,190389009,292580015,Non-insulin dependent diabetes mellitus with ulcer
 Diabetes,421631007,2967779019,Non-insulin dependent diabetes mellitus with gangrene
 Diabetes,422034002,3035295017,Non-insulin-dependent diabetes mellitus with retinopathy
-Diabetes,443694000,2842387018,Non-insulin dependant diabetes mellitus - poor control
 Diabetes,313436004,457328010,Non-insulin-dependent diabetes mellitus without complication
 Diabetes,420436000,3697667019,Non-insulin dependent diabetes mellitus with mononeuropathy
 Diabetes,713706002,3297353013,Non-insulin dependent diabetes mellitus with polyneuropathy
@@ -397,7 +354,6 @@ Diabetes,422228004,2967771016,Type I diabetes mellitus with multiple complicatio
 Diabetes,385041000000108,760111000000115,Insulin dependent diabetes mellitus with multiple complicat
 Diabetes,11530004,19931010,Unstable insulin dependent diabetes mellitus
 Diabetes,420825003,2618207019,Type 1 diabetes mellitus with gangrene
-Diabetes,268519009,401531012,Insulin dependent diabetes mellitus - poor control
 Diabetes,73211009,121589010,Insulin dependent diabetes maturity onset
 Diabetes,313435000,457326014,Type 1 diabetes mellitus without complication
 Diabetes,420918009,2618199015,Type 1 diabetes mellitus with mononeuropathy
@@ -485,7 +441,6 @@ Diabetes,430400006,2708697011,[X] Adverse reaction to insulins and antidiabetic 
 Diabetes,0,0,Dietary advice for diabetes mellitus
 Diabetes,0,0,Dietary advice for type I diabetes
 Diabetes,0,0,Dietary advice for type II diabetes
-Diabetes,0,0,Perceived control of insulin-dependent diabetes
 Diabetes,284350006,2575925018,[V]Dietary counselling in diabetes mellitus
 Diabetes,199223000,306106018,Pre-existing type 1 diabetes mellitus in pregnancy
 Diabetes,31211000119101,3315042015,Type I diabetes mellitus with peripheral angiopathy

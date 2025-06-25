@@ -2,23 +2,17 @@ Condition,SNOMED_Code,SnomedCTDescriptionId,Term
 Dementia,268612007,882171000006115,Dementia
 Dementia,1856601000006107,1856601000006111,Dementia monitoring in primary care
 Dementia,1856611000006104,1856611000006114,Dementia monitoring in secondary care
-Dementia,915111000006108,915111000006112,Dementia review
 Dementia,914941000006108,914941000006112,[D] Dementia
 Dementia,914951000006105,914951000006114,[D] Dementia in Alzheimer's disease
 Dementia,914931000006103,914931000006119,[D] Dementia with Lewy bodies
 Dementia,914921000006101,914921000006117,[D] Vascular dementia
-Dementia,1834091000006100,1834091000006116,dementia care plan
 Dementia,56267009,2921000019,multi infarct dementia
 Dementia,248711000000102,407461000000119,Dementia monitoring
-Dementia,249181000000100,408401000000119,Dementia annual review
-Dementia,736371006,3517265010,Dementia care plan
-Dementia,713821000000106,1565061000000113,Dementia monitoring administration
 Dementia,715821000000107,1568381000000110,Dementia monitoring first letter
 Dementia,717471000000101,1570011000000111,Dementia monitoring second letter
 Dementia,716671000000102,1569221000000112,Dementia monitoring third letter
 Dementia,716221000000104,1568781000000111,Dementia monitoring verbal invite
 Dementia,716991000000108,1569541000000119,Dementia monitoring telephone invite
-Dementia,715881000000108,1568441000000113,Exception reporting: dementia quality indicators
 Dementia,716341000000104,1568891000000117,Excepted from dementia quality indicators: Patient unsuitabl
 Dementia,716131000000105,1568691000000118,Excepted from dementia quality indicators: Informed dissent
 Dementia,268612007,401757012,Senile and presenile organic psychotic conditions

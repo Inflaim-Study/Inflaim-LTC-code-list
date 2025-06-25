@@ -1,6 +1,4 @@
 Condition,MedCodeId,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
-Cataract,928811000006119,385468004,928811000006119,,7267399,Cataract extract + lens implant
-Cataract,859791000006115,385468004,859791000006115,,7267299,Cataract extract +lens implant
 Cataract,883311000006115,193600001,883311000006115,,F463.99,Secondary cataract
 Cataract,859751000006114,172532006,859751000006114,,7265499,YAG laser post capsulotomy
 Cataract,857711000006116,857711000006100,857711000006116,,,Yag laser capsulotomy
@@ -14,7 +12,6 @@ Cataract,451393017,308088006,451393017,2BT0.00,2BT0.00,O/E - Right cataract pres
 Cataract,451394011,308089003,451394011,2BT1.00,2BT1.00,O/E - Left cataract present
 Cataract,495988011,5130002,495988011,7263011,7263011,Needling of lens for cataract
 Cataract,495989015,5130002,495989015,7266100,7266100,Discission of cataract
-Cataract,2533421012,415266006,2533421012,8HTV.00,8HTV.00,Referral to cataract clinic
 Cataract,771341000006114,43959009,73294018,C108F00,C108F00,Insulin dependent diabetes mellitus with diabetic cataract
 Cataract,84691000006115,421920002,3688521010,C108F11,C108F11,Type I diabetes mellitus with diabetic cataract
 Cataract,84321000006114,421920002,2618234016,C108F12,C108F12,Type 1 diabetes mellitus with diabetic cataract

@@ -14,9 +14,6 @@ Drug or alcohol misuse,13cH.00,13cH.00,Persistent substance misuse
 Drug or alcohol misuse,13cJ.00,13cJ.00,Previously injecting drug user
 Drug or alcohol misuse,13cK.00,13cK.00,Current non recreational drug user
 Drug or alcohol misuse,13cM.00,13cM.00,Substance misuse
-Drug or alcohol misuse,13r4.00,13r4.00,Abstinent from drug misuse when receiving blocking therapy
-Drug or alcohol misuse,1TE..00,1TE..00,Uses heroin on top of substitution therapy
-Drug or alcohol misuse,1TF..00,1TF..00,Does not use heroin on top of substitution therapy
 Drug or alcohol misuse,1V...00,1V...00,Drug misuse behaviour
 Drug or alcohol misuse,1V0..00,1V0..00,Misuses drugs
 Drug or alcohol misuse,1V00.00,1V00.00,Occasional drug user
@@ -49,24 +46,9 @@ Drug or alcohol misuse,46Qr000,46Qr000,Urine buprenorphine positive
 Drug or alcohol misuse,677T.00,677T.00,Substance misuse structured counselling
 Drug or alcohol misuse,7P22000,7P22000,Delivery of rehabilitation for drug addiction
 Drug or alcohol misuse,8AA..00,8AA..00,Drug abuse monitoring
-Drug or alcohol misuse,8B23.00,8B23.00,Drug addiction therapy
 Drug or alcohol misuse,8B23.11,8B23.11,Drug addictn therap-methadone
-Drug or alcohol misuse,8B23.13,8B23.13,Drug dependence therapy
-Drug or alcohol misuse,8B2M.00,8B2M.00,Buprenorphine maintenance therapy
-Drug or alcohol misuse,8B2N.00,8B2N.00,Drug addiction detoxification therapy - methadone
-Drug or alcohol misuse,8B2P.00,8B2P.00,Drug addiction maintenance therapy - methadone
-Drug or alcohol misuse,8B2Q.00,8B2Q.00,Drug addiction maintenance therapy - buprenorphine
-Drug or alcohol misuse,8B2R.00,8B2R.00,Drug addiction detoxification therapy - buprenorphine
-Drug or alcohol misuse,8B2S.00,8B2S.00,Opioid agonist substitution therapy
-Drug or alcohol misuse,8B2T.00,8B2T.00,Opioid antagonist therapy
 Drug or alcohol misuse,8BA9.00,8BA9.00,Detoxification dependence drug
-Drug or alcohol misuse,8BAc.00,8BAc.00,Substance misuse management stopped - self withdrawal
 Drug or alcohol misuse,8BAd.00,8BAd.00,Opiate dependence detoxification
-Drug or alcohol misuse,8BE0.00,8BE0.00,Reinduction to methadone maintenance therapy
-Drug or alcohol misuse,8BE1.00,8BE1.00,Reinduction to buprenorphine maintenance therapy
-Drug or alcohol misuse,8H7x.00,8H7x.00,Referral to drug abuse counsellor
-Drug or alcohol misuse,8Hh1.00,8Hh1.00,Self referral to substance misuse service
-Drug or alcohol misuse,8HkF.00,8HkF.00,Referral to substance misuse service
 Drug or alcohol misuse,8Hq..00,8Hq..00,Admission to substance misuse detoxification centre
 Drug or alcohol misuse,9G2..00,9G2..00,Drug addiction notification
 Drug or alcohol misuse,9G2..11,9G2..11,Drug addict notific admin
@@ -78,23 +60,18 @@ Drug or alcohol misuse,9G2Z.00,9G2Z.00,Drug addiction notif NOS
 Drug or alcohol misuse,9HC..00,9HC..00,Substance misuse monitoring
 Drug or alcohol misuse,9HC0.00,9HC0.00,Initial substance misuse assessment
 Drug or alcohol misuse,9HC1.00,9HC1.00,Follow up substance misuse assessment
-Drug or alcohol misuse,9HC2.00,9HC2.00,Substance misuse clinical management plan agreed
-Drug or alcohol misuse,9HC3.00,9HC3.00,Substance misuse clinical management plan reviewed
 Drug or alcohol misuse,9HC4.00,9HC4.00,Substance misuse treatment withdrawn
-Drug or alcohol misuse,9HC5.00,9HC5.00,Substance misuse treatment programme completed
 Drug or alcohol misuse,9HC6.00,9HC6.00,Substance misuse treatment declined
 Drug or alcohol misuse,9K4..00,9K4..00,SMR25a drug misuse initial assessment form
 Drug or alcohol misuse,9N1yJ00,9N1yJ00,Seen in drug misuse clinic
 Drug or alcohol misuse,9N4i.00,9N4i.00,DNA - Did not attend substance misuse clinic
 Drug or alcohol misuse,9No5.00,9No5.00,Seen in substance misuse clinic
-Drug or alcohol misuse,9k5..00,9k5..00,Drug misuse - enhanced services administration
 Drug or alcohol misuse,9k50.00,9k50.00,Drug misuse - enhanced service completed
 Drug or alcohol misuse,9k51.00,9k51.00,Shared care drug misuse treatment - enhanced services admin
 Drug or alcohol misuse,9k51.11,9k51.11,Shared care drug misuse treatment
 Drug or alcohol misuse,9k52.00,9k52.00,Drug misuse treatment primary care - enhanced services admin
 Drug or alcohol misuse,9k53.00,9k53.00,Pharmacy attended for drug misuse - enhanced services admin
 Drug or alcohol misuse,9kS..00,9kS..00,Drug misuse assessment declined - enhanced services administ
-Drug or alcohol misuse,9s...00,,Drug misuse clinic administration
 Drug or alcohol misuse,E02..00,E02..00,Drug psychoses
 Drug or alcohol misuse,E020.00,E020.00,Drug withdrawal syndrome
 Drug or alcohol misuse,E021.00,E021.00,Drug-induced paranoia or hallucinatory states
@@ -339,8 +316,5 @@ Drug or alcohol misuse,TJ51.00,TJ51.00,Adverse reaction to methadone
 Drug or alcohol misuse,TJ52100,TJ52100,Adverse reaction to buprenorphine
 Drug or alcohol misuse,U605012,U605012,[X] Adverse reaction to methadone
 Drug or alcohol misuse,U605015,U605015,[X] Adverse reaction to buprenorphine
-Drug or alcohol misuse,Z1Q6200,,Methadone maintenance
-Drug or alcohol misuse,Z1Q6212,,Methadone therapy
-Drug or alcohol misuse,Z1Q6214,,Heroin maintenance
 Drug or alcohol misuse,Z416.00,,Substance abuse counselling
 Drug or alcohol misuse,ZV6D700,ZV6D700,[V]Drug abuse counselling and surveillance
