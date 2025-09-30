@@ -1,0 +1,62 @@
+Condition,MedCodeId,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
+Cerebrovascular disease,345718011.0,230736007,345718011.0,1B1S,1B1S.00,Transient global amnesia
+Cerebrovascular disease,413750011.0,277286006,413750011.0,1M4,1M4..00,Central post-stroke pain
+Cerebrovascular disease,371641000000112.0,231231000000107,371641000000112.0,7P242,7P24200,Delivery of rehabilitation for stroke
+Cerebrovascular disease,966981000006112.0,112901000000108,199461000000113.0,8HHM,8HHM.00,Ref to multidisciplinary stroke function improvement service
+Cerebrovascular disease,1784651000006110.0,781731000000103,1747751000000110.0,8IEC,8IEC.00,Ref multidisciplinary stroke function improvement declined
+Cerebrovascular disease,139081000000117.0,716581000000101,1569131000000118.0,9h21,9h21.00,Excepted from stroke quality indicators: Patient unsuitable
+Cerebrovascular disease,139091000000115.0,716021000000109,1568581000000116.0,9h22,9h22.00,Excepted from stroke quality indicators: Informed dissent
+Cerebrovascular disease,145925010.0,88032003,145925010.0,F4236,F423600,Amaurosis fugax
+Cerebrovascular disease,299342019.0,230698000,345651012.0,Fyu56,Fyu5600,[X]Other lacunar syndromes
+Cerebrovascular disease,345639010.0,230692004,345639010.0,G63-1,G63..11,Infarction - precerebral
+Cerebrovascular disease,300312010.0,195185009,300312010.0,G63y0,G63y000,Cerebral infarct due to thrombosis of precerebral arteries
+Cerebrovascular disease,300313017.0,195186005,300313017.0,G63y1,G63y100,Cerebral infarction due to embolism of precerebral arteries
+Cerebrovascular disease,1222398015.0,20059004,1222398015.0,G64,G64..00,Cerebral arterial occlusion
+Cerebrovascular disease,605461000006117.0,230691006,345638019.0,G64-1,G64..11,CVA - cerebral artery occlusion
+Cerebrovascular disease,218511000000117.0,432504007,2770034014.0,G64-2,G64..12,Infarction - cerebral
+Cerebrovascular disease,122361000006113.0,230691006,345638019.0,G64-3,G64..13,Stroke due to cerebral arterial occlusion
+Cerebrovascular disease,118689010.0,71444005,118689010.0,G640,G640.00,Cerebral thrombosis
+Cerebrovascular disease,300321011.0,195189003,300321011.0,G6400,G640000,Cerebral infarction due to thrombosis of cerebral arteries
+Cerebrovascular disease,125470015.0,75543006,125470015.0,G641,G641.00,Cerebral embolism
+Cerebrovascular disease,542831000006116.0,75543006,125470015.0,G641-1,G641.11,Cerebral embolus
+Cerebrovascular disease,300322016.0,195190007,300322016.0,G6410,G641000,Cerebral infarction due to embolism of cerebral arteries
+Cerebrovascular disease,395780010.0,432504007,2770034014.0,G64z,G64z.00,Cerebral infarction NOS
+Cerebrovascular disease,345650013.0,95457000,158113017.0,G64z-1,G64z.11,Brainstem infarction NOS
+Cerebrovascular disease,158118014.0,95460007,158118014.0,G64z-2,G64z.12,Cerebellar infarction
+Cerebrovascular disease,524541000006117.0,95457000,158113017.0,G64z0,G64z000,Brainstem infarction
+Cerebrovascular disease,57341000006119.0,78569004,130374019.0,G64z1,G64z100,Wallenberg syndrome
+Cerebrovascular disease,130375018.0,78569004,130375018.0,G64z1-1,G64z111,Lateral medullary syndrome
+Cerebrovascular disease,451133011.0,307766002,451133011.0,G64z2,G64z200,Left sided cerebral infarction
+Cerebrovascular disease,451134017.0,307767006,451134017.0,G64z3,G64z300,Right sided cerebral infarction
+Cerebrovascular disease,2474651019.0,413102000,2474651019.0,G64z4,G64z400,Infarction of basal ganglia
+Cerebrovascular disease,395788015.0,266257000,395788015.0,G65,G65..00,Transient cerebral ischaemia
+Cerebrovascular disease,67511000006117.0,64009001,106394016.0,G65-3,G65..13,Vertebro-basilar insufficiency
+Cerebrovascular disease,499739014.0,64009001,499739014.0,G650-1,G650.11,Insufficiency - basilar artery
+Cerebrovascular disease,95961000006119.0,230736007,345718011.0,G655,G655.00,Transient global amnesia
+Cerebrovascular disease,106394016.0,64009001,106394016.0,G656,G656.00,Vertebrobasilar insufficiency
+Cerebrovascular disease,300348012.0,266257000,395788015.0,G65y,G65y.00,Other transient cerebral ischaemia
+Cerebrovascular disease,95931000006111.0,266257000,395788015.0,G65z,G65z.00,Transient cerebral ischaemia NOS
+Cerebrovascular disease,300353019.0,195206000,300353019.0,G65z1,G65z100,Intermittent cerebral ischaemia
+Cerebrovascular disease,300349016.0,266257000,395788015.0,G65zz,G65zz00,Transient cerebral ischaemia NOS
+Cerebrovascular disease,405339016.0,230690007,345637012.0,G66,G66..00,Stroke and cerebrovascular accident unspecified
+Cerebrovascular disease,605501000006117.0,230690007,345637012.0,G66-1,G66..11,CVA unspecified
+Cerebrovascular disease,122401000006115.0,230690007,345637012.0,G66-2,G66..12,Stroke unspecified
+Cerebrovascular disease,605491000006113.0,230690007,345635016.0,G66-3,G66..13,CVA - Cerebrovascular accident unspecified
+Cerebrovascular disease,524511000006116.0,195212005,300365015.0,G663,G663.00,Brain stem stroke syndrome
+Cerebrovascular disease,300366019.0,195213000,300366019.0,G664,G664.00,Cerebellar stroke syndrome
+Cerebrovascular disease,345655015.0,230699008,345655015.0,G665,G665.00,Pure motor lacunar syndrome
+Cerebrovascular disease,345658018.0,230700009,345658018.0,G666,G666.00,Pure sensory lacunar syndrome
+Cerebrovascular disease,300370010.0,195216008,300370010.0,G667,G667.00,Left sided CVA
+Cerebrovascular disease,300371014.0,195217004,300371014.0,G668,G668.00,Right sided CVA
+Cerebrovascular disease,300411016.0,195243003,300411016.0,G683,G683.00,Sequelae of cerebral infarction
+Cerebrovascular disease,149571000006118.0,195239002,300403014.0,G68X,G68X.00,"Sequelae of stroke,not specfd as h'morrhage or infarction"
+Cerebrovascular disease,542261000006114.0,125081000119106,3042974014.0,G6W,G6W..00,Cereb infarct due unsp occlus/stenos precerebr arteries
+Cerebrovascular disease,543141000006110.0,20059004,33759015.0,G6X,G6X..00,Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+Cerebrovascular disease,370701000006118.0,20059004,33759015.0,Gyu63,Gyu6300,[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+Cerebrovascular disease,300941014.0,432504007,2770034014.0,Gyu64,Gyu6400,[X]Other cerebral infarction
+Cerebrovascular disease,426321000006116.0,195239002,300403014.0,Gyu6C,Gyu6C00,"[X]Sequelae of stroke,not specfd as h'morrhage or infarction"
+Cerebrovascular disease,370661000006114.0,125081000119106,3042974014.0,Gyu6G,Gyu6G00,[X]Cereb infarct due unsp occlus/stenos precerebr arteries
+Cerebrovascular disease,605481000006110.0,275434003,411416011.0,L440-1,L440.11,CVA - cerebrovascular accident in the puerperium
+Cerebrovascular disease,411416011.0,275434003,411416011.0,L440-2,L440.12,Stroke in the puerperium
+Cerebrovascular disease,1227591017.0,275526006,2476091017.0,ZV125-1,ZV12511,[V]Personal history of stroke
+Cerebrovascular disease,1227592012.0,266995000,397829016.0,ZV125-2,ZV12512,[V]Personal history of cerebrovascular accident (CVA)

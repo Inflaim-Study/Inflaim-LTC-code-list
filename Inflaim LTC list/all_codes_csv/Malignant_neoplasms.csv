@@ -1,0 +1,1586 @@
+Condition,MedCodeId,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
+Malignant neoplasms,1.1989701000006112e+16,363346000,829211000006116.0,^ESCT1198970,,Human immunodeficiency virus with secondary cancers
+Malignant neoplasms,825771000006119.0,420524008,2617386013.0,A7895,A789500,HIV disease resulting in Kaposi's sarcoma
+Malignant neoplasms,1814931000006110.0,420524008,2614767011.0,A7895-1,A789511,HIV disease resulting in Kaposi sarcoma
+Malignant neoplasms,879691000006112.0,363375006,879691000006112.0,B01-99,B01..99,Tongue carcinoma
+Malignant neoplasms,1.1925691000006116e+16,363348004,724921000006119.0,^ESCT1192569,,"Malignant neoplasm of lip unspecified, inner aspect"
+Malignant neoplasms,1.271908100000611e+16,534791000000107,1193831000000115.0,^ESCT1271908,,"Malignant neoplasm of lip, oral cavity and pharynx NOS"
+Malignant neoplasms,1.1925701000006116e+16,363348004,725001000006112.0,^ESCT1192570,,"Malignant neoplasm of lip, unspecified, lipstick area"
+Malignant neoplasms,1.1925531000006118e+16,363375006,720321000006110.0,^ESCT1192553,,Malignant neoplasm of ventral tongue surface NOS
+Malignant neoplasms,406052010.0,271323007,406052010.0,B0,B0...00,"Malignant neoplasm of lip, oral cavity and pharynx"
+Malignant neoplasms,380095017.0,255069008,380095017.0,B0-1,B0...11,"Carcinoma of lip, oral cavity and pharynx"
+Malignant neoplasms,724891000006113.0,363348004,482495016.0,B00,B00..00,Malignant neoplasm of lip
+Malignant neoplasms,403771011.0,269515006,403771011.0,B00-1,B00..11,Carcinoma of lip
+Malignant neoplasms,1228504019.0,363372009,1228504019.0,B000,B000.00,"Malignant neoplasm of upper lip, vermilion border"
+Malignant neoplasms,720801000006112.0,421249001,2618242015.0,B0000,B000000,"Malignant neoplasm of upper lip, external"
+Malignant neoplasms,288350019.0,187601000,288350019.0,B0001,B000100,"Malignant neoplasm of upper lip, lipstick area"
+Malignant neoplasms,288351015.0,363372009,482541011.0,B000z,B000z00,"Malignant neoplasm of upper lip, vermilion border NOS"
+Malignant neoplasms,724421000006114.0,363373004,1228505018.0,B001,B001.00,"Malignant neoplasm of lower lip, vermilion border"
+Malignant neoplasms,288354011.0,187604008,288354011.0,B0010,B001000,"Malignant neoplasm of lower lip, external"
+Malignant neoplasms,1228506017.0,363373004,1228506017.0,B0011,B001100,"Malignant neoplasm of lower lip, lipstick area"
+Malignant neoplasms,288355012.0,363373004,482542016.0,B001z,B001z00,"Malignant neoplasm of lower lip, vermilion border NOS"
+Malignant neoplasms,288363013.0,187606005,288363013.0,B002,B002.00,"Malignant neoplasm of upper lip, inner aspect"
+Malignant neoplasms,288372017.0,187608006,288372017.0,B0021,B002100,"Malignant neoplasm of upper lip, frenulum"
+Malignant neoplasms,288364019.0,187606005,288364019.0,B0022,B002200,"Malignant neoplasm of upper lip, mucosa"
+Malignant neoplasms,288362015.0,187606005,288362015.0,B0023,B002300,"Malignant neoplasm of upper lip, oral aspect"
+Malignant neoplasms,288377011.0,187606005,288356013.0,B002z,B002z00,"Malignant neoplasm of upper lip, inner aspect NOS"
+Malignant neoplasms,406399011.0,271568003,406399011.0,B003,B003.00,"Malignant neoplasm of lower lip, inner aspect"
+Malignant neoplasms,288380012.0,187613005,288380012.0,B0030,B003000,"Malignant neoplasm of lower lip, buccal aspect"
+Malignant neoplasms,288382016.0,187614004,288382016.0,B0031,B003100,"Malignant neoplasm of lower lip, frenulum"
+Malignant neoplasms,724401000006116.0,271568003,406400016.0,B0032,B003200,"Malignant neoplasm of lower lip, mucosa"
+Malignant neoplasms,724411000006118.0,271568003,406398015.0,B0033,B003300,"Malignant neoplasm of lower lip, oral aspect"
+Malignant neoplasms,288387010.0,271568003,406398015.0,B003z,B003z00,"Malignant neoplasm of lower lip, inner aspect NOS"
+Malignant neoplasms,288388017.0,187622006,288402019.0,B004,B004.00,"Malignant neoplasm of lip unspecified, inner aspect"
+Malignant neoplasms,724901000006112.0,187622006,288392012.0,B0040,B004000,"Malignant neoplasm of lip unspecified, buccal aspect"
+Malignant neoplasms,288391017.0,187622006,288392012.0,B0042,B004200,"Malignant neoplasm of lip unspecified, mucosa"
+Malignant neoplasms,288393019.0,187622006,288393019.0,B0043,B004300,"Malignant neoplasm of lip, oral aspect"
+Malignant neoplasms,726351000006116.0,363374005,482544015.0,B005,B005.00,Malignant neoplasm of commissure of lip
+Malignant neoplasms,453301018.0,363348004,482495016.0,B007,B007.00,"Malignant neoplasm of lip, unspecified"
+Malignant neoplasms,288408015.0,363348004,482495016.0,B00z0,B00z000,"Malignant neoplasm of lip, unspecified, external"
+Malignant neoplasms,288409011.0,275399006,411376018.0,B00z1,B00z100,"Malignant neoplasm of lip, unspecified, lipstick area"
+Malignant neoplasms,288410018.0,421249001,2618242015.0,B00zz,B00zz00,"Malignant neoplasm of lip, vermilion border NOS"
+Malignant neoplasms,721311000006114.0,363375006,482546018.0,B01,B01..00,Malignant neoplasm of tongue
+Malignant neoplasms,727381000006110.0,363376007,482549013.0,B010,B010.00,Malignant neoplasm of base of tongue
+Malignant neoplasms,1228509012.0,363376007,1228509012.0,B010-1,B010.11,Malignant neoplasm of posterior third of tongue
+Malignant neoplasms,288411019.0,187631006,288411019.0,B0100,B010000,Malignant neoplasm of base of tongue dorsal surface
+Malignant neoplasms,288412014.0,363376007,482548017.0,B010z,B010z00,Malignant neoplasm of fixed part of tongue NOS
+Malignant neoplasms,155211011.0,187633009,288413016.0,B011,B011.00,Malignant neoplasm of dorsal surface of tongue
+Malignant neoplasms,288417015.0,187635002,288417015.0,B0111,B011100,Malignant neoplasm of midline of tongue
+Malignant neoplasms,288418013.0,187633009,288413016.0,B011z,B011z00,Malignant neoplasm of dorsum of tongue NOS
+Malignant neoplasms,288419017.0,187637005,288419017.0,B012,B012.00,"Malignant neoplasm of tongue, tip and lateral border"
+Malignant neoplasms,155669014.0,94134006,155669014.0,B013,B013.00,Malignant neoplasm of ventral surface of tongue
+Malignant neoplasms,288423013.0,187640005,288423013.0,B0130,B013000,Malignant neoplasm of anterior 2/3 of tongue ventral surface
+Malignant neoplasms,288427014.0,187641009,288427014.0,B0131,B013100,Malignant neoplasm of frenulum linguae
+Malignant neoplasms,288429012.0,1090271000000101,2731401000000113.0,B013z,B013z00,Malignant neoplasm of ventral tongue surface NOS
+Malignant neoplasms,288430019.0,363360003,482519011.0,B014,B014.00,Malignant neoplasm of anterior 2/3 of tongue unspecified
+Malignant neoplasms,288433017.0,187644001,288433017.0,B015,B015.00,"Malignant neoplasm of tongue, junctional zone"
+Malignant neoplasms,724881000006110.0,363377003,482550013.0,B016,B016.00,Malignant neoplasm of lingual tonsil
+Malignant neoplasms,288434011.0,363375006,482546018.0,B01y,B01y.00,Malignant neoplasm of other sites of tongue
+Malignant neoplasms,288435012.0,363375006,482546018.0,B01z,B01z.00,Malignant neoplasm of tongue NOS
+Malignant neoplasms,1228510019.0,363378008,1228510019.0,B02,B02..00,Malignant neoplasm of major salivary glands
+Malignant neoplasms,723501000006117.0,363379000,482554016.0,B020,B020.00,Malignant neoplasm of parotid gland
+Malignant neoplasms,1228513017.0,363380002,1228513017.0,B021,B021.00,Malignant neoplasm of submandibular gland
+Malignant neoplasms,721881000006113.0,363381003,482558018.0,B022,B022.00,Malignant neoplasm of sublingual gland
+Malignant neoplasms,288437016.0,363378008,482552017.0,B02y,B02y.00,Malignant neoplasm of other major salivary glands
+Malignant neoplasms,288438014.0,363378008,482553010.0,B02z,B02z.00,Malignant neoplasm of major salivary gland NOS
+Malignant neoplasms,725861000006118.0,363382005,482560016.0,B03,B03..00,Malignant neoplasm of gum
+Malignant neoplasms,720761000006115.0,363383000,482562012.0,B030,B030.00,Malignant neoplasm of upper gum
+Malignant neoplasms,724311000006111.0,363384006,482567018.0,B031,B031.00,Malignant neoplasm of lower gum
+Malignant neoplasms,288439018.0,363382005,482560016.0,B03y,B03y.00,Malignant neoplasm of other sites of gum
+Malignant neoplasms,288440016.0,363382005,482560016.0,B03z,B03z.00,Malignant neoplasm of gum NOS
+Malignant neoplasms,725611000006117.0,363385007,2969212012.0,B04,B04..00,Malignant neoplasm of floor of mouth
+Malignant neoplasms,288443019.0,187652003,288443019.0,B040,B040.00,Malignant neoplasm of anterior portion of floor of mouth
+Malignant neoplasms,288444013.0,187653008,288444013.0,B041,B041.00,Malignant neoplasm of lateral portion of floor of mouth
+Malignant neoplasms,288448011.0,363385007,482569015.0,B04y,B04y.00,Malignant neoplasm of other sites of floor of mouth
+Malignant neoplasms,288449015.0,363385007,482570019.0,B04z,B04z.00,Malignant neoplasm of floor of mouth NOS
+Malignant neoplasms,288450015.0,363505006,482796019.0,B05,B05..00,Malignant neoplasm of other and unspecified parts of mouth
+Malignant neoplasms,727151000006117.0,363386008,482571015.0,B050,B050.00,Malignant neoplasm of cheek mucosa
+Malignant neoplasms,727561000006112.0,363386008,482571015.0,B050-1,B050.11,Malignant neoplasm of buccal mucosa
+Malignant neoplasms,288453018.0,187658004,288453018.0,B051,B051.00,Malignant neoplasm of vestibule of mouth
+Malignant neoplasms,288454012.0,187659007,288454012.0,B0510,B051000,Malignant neoplasm of upper buccal sulcus
+Malignant neoplasms,288459019.0,187660002,288459019.0,B0511,B051100,Malignant neoplasm of lower buccal sulcus
+Malignant neoplasms,725101000006111.0,363387004,482573017.0,B052,B052.00,Malignant neoplasm of hard palate
+Malignant neoplasms,721621000006110.0,363388009,482575012.0,B053,B053.00,Malignant neoplasm of soft palate
+Malignant neoplasms,721041000006111.0,363389001,482577016.0,B054,B054.00,Malignant neoplasm of uvula
+Malignant neoplasms,288469013.0,363390005,482579018.0,B055,B055.00,Malignant neoplasm of palate unspecified
+Malignant neoplasms,288470014.0,187666008,288470014.0,B0550,B055000,Malignant neoplasm of junction of hard and soft palate
+Malignant neoplasms,1228523014.0,363390005,1228523014.0,B0551,B055100,Malignant neoplasm of roof of mouth
+Malignant neoplasms,288471013.0,363390005,482579018.0,B055z,B055z00,Malignant neoplasm of palate NOS
+Malignant neoplasms,722541000006111.0,363391009,482581016.0,B056,B056.00,Malignant neoplasm of retromolar area
+Malignant neoplasms,288473011.0,363505006,482796019.0,B05y,B05y.00,Malignant neoplasm of other specified mouth parts
+Malignant neoplasms,288474017.0,363505006,482796019.0,B05z,B05z.00,Malignant neoplasm of mouth NOS
+Malignant neoplasms,723571000006111.0,363392002,482583018.0,B06,B06..00,Malignant neoplasm of oropharynx
+Malignant neoplasms,721351000006110.0,363393007,482586014.0,B060,B060.00,Malignant neoplasm of tonsil
+Malignant neoplasms,1228530015.0,363393007,1228530015.0,B0600,B060000,Malignant neoplasm of faucial tonsil
+Malignant neoplasms,1228529013.0,363393007,1228529013.0,B0601,B060100,Malignant neoplasm of palatine tonsil
+Malignant neoplasms,288478019.0,363393007,482585013.0,B060z,B060z00,Malignant neoplasm tonsil NOS
+Malignant neoplasms,721361000006112.0,363394001,482587017.0,B061,B061.00,Malignant neoplasm of tonsillar fossa
+Malignant neoplasms,288486019.0,187675005,288486019.0,B062,B062.00,Malignant neoplasm of tonsillar pillar
+Malignant neoplasms,288485015.0,187675005,288485015.0,B0620,B062000,Malignant neoplasm of faucial pillar
+Malignant neoplasms,725811000006116.0,254459004,378845014.0,B0621,B062100,Malignant neoplasm of glossopalatine fold
+Malignant neoplasms,2475984012.0,254459004,2475984012.0,B0622,B062200,Malignant neoplasm of palatoglossal arch
+Malignant neoplasms,723391000006115.0,187675005,288479010.0,B0623,B062300,Malignant neoplasm of palatopharyngeal arch
+Malignant neoplasms,288505015.0,363394001,482587017.0,B062z,B062z00,Malignant neoplasm of tonsillar fossa NOS
+Malignant neoplasms,721481000006111.0,363395000,482589019.0,B063,B063.00,Malignant neoplasm of vallecula
+Malignant neoplasms,288506019.0,187681002,288506019.0,B064,B064.00,Malignant neoplasm of anterior epiglottis
+Malignant neoplasms,288507011.0,187682009,288507011.0,B0640,B064000,"Malignant neoplasm of epiglottis, free border"
+Malignant neoplasms,288508018.0,187683004,288508018.0,B0641,B064100,Malignant neoplasm of glossoepiglottic fold
+Malignant neoplasms,288509014.0,187681002,288506019.0,B064z,B064z00,Malignant neoplasm of anterior epiglottis NOS
+Malignant neoplasms,288510016.0,187685006,288510016.0,B065,B065.00,Malignant neoplasm of junctional region of epiglottis
+Malignant neoplasms,155332018.0,448868009,2901613017.0,B066,B066.00,Malignant neoplasm of lateral wall of oropharynx
+Malignant neoplasms,288515014.0,187688008,288515014.0,B067,B067.00,Malignant neoplasm of posterior wall of oropharynx
+Malignant neoplasms,288516010.0,363392002,482583018.0,B06y,B06y.00,"Malignant neoplasm of oropharynx, other specified sites"
+Malignant neoplasms,288517018.0,363392002,482583018.0,B06yz,B06yz00,Malignant neoplasm of other specified site of oropharynx NOS
+Malignant neoplasms,288518011.0,363392002,482583018.0,B06z,B06z.00,Malignant neoplasm of oropharynx NOS
+Malignant neoplasms,288522018.0,187692001,288522018.0,B07,B07..00,Malignant neoplasm of nasopharynx
+Malignant neoplasms,1228532011.0,363397008,1228532011.0,B070,B070.00,Malignant neoplasm of roof of nasopharynx
+Malignant neoplasms,288529010.0,187693006,288529010.0,B071,B071.00,Malignant neoplasm of posterior wall of nasopharynx
+Malignant neoplasms,288533015.0,187694000,288533015.0,B0710,B071000,Malignant neoplasm of adenoid
+Malignant neoplasms,288532013.0,187694000,288532013.0,B0711,B071100,Malignant neoplasm of pharyngeal tonsil
+Malignant neoplasms,288541015.0,187693006,288528019.0,B071z,B071z00,Malignant neoplasm of posterior wall of nasopharynx NOS
+Malignant neoplasms,724841000006116.0,363398003,482595018.0,B072,B072.00,Malignant neoplasm of lateral wall of nasopharynx
+Malignant neoplasms,288546013.0,187697007,288546013.0,B0720,B072000,Malignant neoplasm of pharyngeal recess
+Malignant neoplasms,288550018.0,363398003,482595018.0,B072z,B072z00,Malignant neoplasm of lateral wall of nasopharynx NOS
+Malignant neoplasms,288552014.0,187700006,288552014.0,B073,B073.00,Malignant neoplasm of anterior wall of nasopharynx
+Malignant neoplasms,288556012.0,187702003,288556012.0,B0731,B073100,Malignant neoplasm of nasopharyngeal soft palate surface
+Malignant neoplasms,720491000006119.0,254484001,378896011.0,B0732,B073200,Malignant neoplasm posterior margin nasal septum and choanae
+Malignant neoplasms,288561014.0,187700006,288553016.0,B073z,B073z00,Malignant neoplasm of anterior wall of nasopharynx NOS
+Malignant neoplasms,288563012.0,187692001,288519015.0,B07y,B07y.00,Malignant neoplasm of other specified site of nasopharynx
+Malignant neoplasms,288564018.0,187692001,288526015.0,B07z,B07z.00,Malignant neoplasm of nasopharynx NOS
+Malignant neoplasms,725241000006116.0,363399006,482598016.0,B08,B08..00,Malignant neoplasm of hypopharynx
+Malignant neoplasms,723031000006117.0,363400004,482599012.0,B080,B080.00,Malignant neoplasm of postcricoid region
+Malignant neoplasms,722421000006115.0,363401000,482602019.0,B081,B081.00,Malignant neoplasm of pyriform sinus
+Malignant neoplasms,727761000006116.0,187708004,288566016.0,B082,B082.00,"Malignant neoplasm aryepiglottic fold, hypopharyngeal aspect"
+Malignant neoplasms,288568015.0,187709007,288568015.0,B083,B083.00,Malignant neoplasm of posterior pharynx
+Malignant neoplasms,288570012.0,363399006,482597014.0,B08y,B08y.00,Malignant neoplasm of other specified hypopharyngeal site
+Malignant neoplasms,288571011.0,363399006,482598016.0,B08z,B08z.00,Malignant neoplasm of hypopharynx NOS
+Malignant neoplasms,729591000006114.0,271323007,406052010.0,B0z,B0z..00,"Malig neop other/ill-defined sites lip, oral cavity, pharynx"
+Malignant neoplasms,288573014.0,363507003,482800013.0,B0z0,B0z0.00,Malignant neoplasm of pharynx unspecified
+Malignant neoplasms,288578017.0,187716008,288578017.0,B0z1,B0z1.00,Malignant neoplasm of Waldeyer's ring
+Malignant neoplasms,724781000006117.0,363399006,1228533018.0,B0z2,B0z2.00,Malignant neoplasm of laryngopharynx
+Malignant neoplasms,723801000006115.0,271323007,406052010.0,B0zy,B0zy.00,"Malignant neoplasm of other sites lip, oral cavity, pharynx"
+Malignant neoplasms,288582015.0,271323007,406052010.0,B0zz,B0zz.00,"Malignant neoplasm of lip, oral cavity and pharynx NOS"
+Malignant neoplasms,1228188010.0,34603009,57743014.0,BB5y0,BB5y000,[M]Basal cell adenocarcinoma
+Malignant neoplasms,396301000006110.0,271323007,406052010.0,Byu0,Byu0.00,"[X]Malignant neoplasm of lip, oral cavity and pharynx"
+Malignant neoplasms,4746821000006110.0,187727005,288609015.0,^ESCTMA474682,,Malignant tumour of lower third of oesophagus
+Malignant neoplasms,6244811000006110.0,363402007,482603012.0,^ESCTMA624481,,Malignant tumour of oesophagus
+Malignant neoplasms,1216488012.0,363402007,1216488012.0,B10,B10..00,Malignant neoplasm of oesophagus
+Malignant neoplasms,288589012.0,187722004,288589012.0,B100,B100.00,Malignant neoplasm of cervical oesophagus
+Malignant neoplasms,288594012.0,187723009,288594012.0,B101,B101.00,Malignant neoplasm of thoracic oesophagus
+Malignant neoplasms,288597017.0,187724003,288597017.0,B102,B102.00,Malignant neoplasm of abdominal oesophagus
+Malignant neoplasms,288602012.0,187725002,288602012.0,B103,B103.00,Malignant neoplasm of upper third of oesophagus
+Malignant neoplasms,288607018.0,187726001,288607018.0,B104,B104.00,Malignant neoplasm of middle third of oesophagus
+Malignant neoplasms,288608011.0,187727005,288608011.0,B105,B105.00,Malignant neoplasm of lower third of oesophagus
+Malignant neoplasms,638841000000113.0,342571000000109,638841000000113.0,B107,B107.00,Siewert type I adenocarcinoma
+Malignant neoplasms,288614016.0,363402007,482603012.0,B10y,B10y.00,Malignant neoplasm of other specified part of oesophagus
+Malignant neoplasms,403674011.0,363402007,1216488012.0,B10z,B10z.00,Malignant neoplasm of oesophagus NOS
+Malignant neoplasms,1216486011.0,363402007,1216486011.0,B10z-1,B10z.11,Oesophageal cancer
+Malignant neoplasms,1.1925901000006116e+16,363349007,728021000006114.0,^ESCT1192590,,Malignant neoplasm of anterior wall of stomach NEC
+Malignant neoplasms,1.271910100000612e+16,534851000000107,1193941000000115.0,^ESCT1271910,,Malignant neoplasm of greater curve of stomach unspecified
+Malignant neoplasms,1.2719091000006112e+16,534841000000109,1193921000000110.0,^ESCT1271909,,Malignant neoplasm of lesser curve of stomach unspecified
+Malignant neoplasms,1.192563100000612e+16,363349007,723101000006112.0,^ESCT1192563,,Malignant neoplasm of posterior wall of stomach NEC
+Malignant neoplasms,1.1925611000006112e+16,187738005,722341000006119.0,^ESCT1192561,,Malignant neoplasm of prepylorus of stomach
+Malignant neoplasms,1.192559100000612e+16,363349007,1.192559100000612e+16,^ESCT1192559,,Malignant neoplasm of stomach NOS
+Malignant neoplasms,721851000006117.0,363349007,482498019.0,B11,B11..00,Malignant neoplasm of stomach
+Malignant neoplasms,288625013.0,187732006,288625013.0,B110,B110.00,Malignant neoplasm of cardia of stomach
+Malignant neoplasms,288628010.0,187733001,288628010.0,B1100,B110000,Malignant neoplasm of cardiac orifice of stomach
+Malignant neoplasms,288632016.0,187734007,288632016.0,B1101,B110100,Malignant neoplasm of cardio-oesophageal junction of stomach
+Malignant neoplasms,288631011.0,187734007,288631011.0,B1101-1,B110111,Malignant neoplasm of gastro-oesophageal junction
+Malignant neoplasms,288633014.0,187732006,288625013.0,B110z,B110z00,Malignant neoplasm of cardia of stomach NOS
+Malignant neoplasms,288635019.0,187736009,288635019.0,B111,B111.00,Malignant neoplasm of pylorus of stomach
+Malignant neoplasms,722341000006119.0,1090291000000102,2731441000000111.0,B1110,B111000,Malignant neoplasm of prepylorus of stomach
+Malignant neoplasms,288638017.0,187738005,288638017.0,B1111,B111100,Malignant neoplasm of pyloric canal of stomach
+Malignant neoplasms,288639013.0,187736009,288634015.0,B111z,B111z00,Malignant neoplasm of pylorus of stomach NOS
+Malignant neoplasms,288641014.0,187740000,288641014.0,B112,B112.00,Malignant neoplasm of pyloric antrum of stomach
+Malignant neoplasms,288644018.0,187741001,288644018.0,B113,B113.00,Malignant neoplasm of fundus of stomach
+Malignant neoplasms,288647013.0,187742008,288647013.0,B114,B114.00,Malignant neoplasm of body of stomach
+Malignant neoplasms,288649011.0,269459004,403678014.0,B115,B115.00,Malignant neoplasm of lesser curve of stomach unspecified
+Malignant neoplasms,288650011.0,269460009,403680015.0,B116,B116.00,Malignant neoplasm of greater curve of stomach unspecified
+Malignant neoplasms,638721000000113.0,342511000000104,638721000000113.0,B118,B118.00,Siewert type II adenocarcinoma
+Malignant neoplasms,638821000000118.0,342561000000102,638821000000118.0,B119,B119.00,Siewert type III adenocarcinoma
+Malignant neoplasms,288652015.0,363349007,482497012.0,B11y,B11y.00,Malignant neoplasm of other specified site of stomach
+Malignant neoplasms,288653013.0,1090981000000107,2732841000000117.0,B11y0,B11y000,Malignant neoplasm of anterior wall of stomach NEC
+Malignant neoplasms,288654019.0,1090971000000105,2732821000000112.0,B11y1,B11y100,Malignant neoplasm of posterior wall of stomach NEC
+Malignant neoplasms,288655018.0,363349007,482497012.0,B11yz,B11yz00,Malignant neoplasm of other specified site of stomach NOS
+Malignant neoplasms,288656017.0,363349007,482498019.0,B11z,B11z.00,Malignant neoplasm of stomach NOS
+Malignant neoplasms,1228541018.0,363412000,879871000006110.0,B136-99,B136.99,Ca ascending colon
+Malignant neoplasms,1228539019.0,363409003,879851000006117.0,B132-99,B132.99,Ca descending colon
+Malignant neoplasms,1228537017.0,363407001,1228537017.0,B130-99,B130.99,Ca hepatic flexure - colon
+Malignant neoplasms,1228540017.0,363410008,879861000006115.0,B133-99,B133.99,Ca sigmoid colon
+Malignant neoplasms,1228542013.0,363413005,1228542013.0,B137-99,B137.99,Ca splenic flexure - colon
+Malignant neoplasms,1228538010.0,363408006,1228538010.0,B131-99,B131.99,Ca transverse colon
+Malignant neoplasms,6242981000006116.0,363351006,6242981000006116.0,^ESCTMA624298,,Malignant tumour of rectum
+Malignant neoplasms,1.1923481000006116e+16,254582000,379088010.0,^ESCT1192348,,Carcinoma of rectum
+Malignant neoplasms,1.2724541000006118e+16,663651000000108,1457191000000114.0,^ESCT1272454,,Malignant neoplasm of anus unspecified
+Malignant neoplasms,1.190453100000611e+16,254582000,379089019.0,^ESCT1190453,,Rectal carcinoma
+Malignant neoplasms,726331000006111.0,363406005,3446619012.0,B13,B13..00,Malignant neoplasm of colon
+Malignant neoplasms,725191000006116.0,363407001,482614010.0,B130,B130.00,Malignant neoplasm of hepatic flexure of colon
+Malignant neoplasms,721421000006112.0,363408006,482615011.0,B131,B131.00,Malignant neoplasm of transverse colon
+Malignant neoplasms,725951000006112.0,363409003,482618013.0,B132,B132.00,Malignant neoplasm of descending colon
+Malignant neoplasms,721991000006115.0,363410008,482619017.0,B133,B133.00,Malignant neoplasm of sigmoid colon
+Malignant neoplasms,1216464010.0,363350007,1216464010.0,B134,B134.00,Malignant neoplasm of caecum
+Malignant neoplasms,380129018.0,255081007,380129018.0,B134-1,B134.11,Carcinoma of caecum
+Malignant neoplasms,727281000006117.0,363411007,482621010.0,B135,B135.00,Malignant neoplasm of appendix
+Malignant neoplasms,727321000006111.0,363412000,482623013.0,B136,B136.00,Malignant neoplasm of ascending colon
+Malignant neoplasms,721821000006114.0,363413005,482625018.0,B137,B137.00,Malignant neoplasm of splenic flexure of colon
+Malignant neoplasms,288671018.0,363406005,482611019.0,B13y,B13y.00,Malignant neoplasm of other specified sites of colon
+Malignant neoplasms,403682011.0,363406005,482611019.0,B13z,B13z.00,Malignant neoplasm of colon NOS
+Malignant neoplasms,573611000006118.0,363406005,482611019.0,B13z-1,B13z.11,Colonic cancer
+Malignant neoplasms,288675010.0,187760008,288675010.0,B14,B14..00,"Malignant neoplasm of rectum, rectosigmoid junction and anus"
+Malignant neoplasms,722441000006110.0,363414004,482627014.0,B140,B140.00,Malignant neoplasm of rectosigmoid junction
+Malignant neoplasms,155488014.0,363351006,482502014.0,B141,B141.00,Malignant neoplasm of rectum
+Malignant neoplasms,379088010.0,254582000,379090011.0,B141-1,B141.11,Carcinoma of rectum
+Malignant neoplasms,379089019.0,254582000,379090011.0,B141-2,B141.12,Rectal carcinoma
+Malignant neoplasms,155076015.0,363352004,482503016.0,B142,B142.00,Malignant neoplasm of anal canal
+Malignant neoplasms,380137014.0,363352004,482503016.0,B142-1,B142.11,Anal carcinoma
+Malignant neoplasms,174518012.0,363491008,482769017.0,B1420,B142000,Malignant neoplasm of cloacogenic zone
+Malignant neoplasms,288685011.0,363490009,482768013.0,B143,B143.00,Malignant neoplasm of anus unspecified
+Malignant neoplasms,729581000006111.0,187760008,288675010.0,B14y,B14y.00,"Malig neop other site rectum, rectosigmoid junction and anus"
+Malignant neoplasms,720501000006110.0,187760008,288675010.0,B14z,B14z.00,"Malignant neoplasm rectum,rectosigmoid junction and anus NOS"
+Malignant neoplasms,841331000006115.0,363508008,1228620018.0,B1z0-1,B1z0.11,Cancer of bowel
+Malignant neoplasms,309261000006112.0,74532006,2552865010.0,BBb0-1,BBb0.11,[M]Glioma NOS
+Malignant neoplasms,2692069010.0,428061005,2692069010.0,B51,B51..00,Malignant neoplasm of brain
+Malignant neoplasms,543111000006111.0,428061005,2692069010.0,B51-1,B51..11,Cerebral tumour - malignant
+Malignant neoplasms,727771000006111.0,188280007,289336015.0,B510,B510.00,Malignant neoplasm cerebrum (excluding lobes and ventricles)
+Malignant neoplasms,289337012.0,188281006,289337012.0,B5100,B510000,Malignant neoplasm of basal ganglia
+Malignant neoplasms,289338019.0,188282004,289338019.0,B5101,B510100,Malignant neoplasm of cerebral cortex
+Malignant neoplasms,289341011.0,188285002,289341011.0,B5103,B510300,Malignant neoplasm of globus pallidus
+Malignant neoplasms,289343014.0,188286001,289343014.0,B5104,B510400,Malignant neoplasm of hypothalamus
+Malignant neoplasms,289345019.0,188287005,289345019.0,B5105,B510500,Malignant neoplasm of thalamus
+Malignant neoplasms,289346018.0,188280007,289336015.0,B510z,B510z00,Malignant neoplasm of cerebrum NOS
+Malignant neoplasms,482730011.0,363467004,482730011.0,B511,B511.00,Malignant neoplasm of frontal lobe
+Malignant neoplasms,482731010.0,363468009,482731010.0,B512,B512.00,Malignant neoplasm of temporal lobe
+Malignant neoplasms,289347010.0,188289008,289347010.0,B5120,B512000,Malignant neoplasm of hippocampus
+Malignant neoplasms,289349013.0,363468009,482731010.0,B512z,B512z00,Malignant neoplasm of temporal lobe NOS
+Malignant neoplasms,482732015.0,363469001,482732015.0,B513,B513.00,Malignant neoplasm of parietal lobe
+Malignant neoplasms,482733013.0,363470000,482733013.0,B514,B514.00,Malignant neoplasm of occipital lobe
+Malignant neoplasms,482734019.0,363471001,482734019.0,B515,B515.00,Malignant neoplasm of cerebral ventricles
+Malignant neoplasms,289352017.0,188292007,289352017.0,B5150,B515000,Malignant neoplasm of choroid plexus
+Malignant neoplasms,155175018.0,449420002,2899889012.0,B516,B516.00,Malignant neoplasm of cerebellum
+Malignant neoplasms,727511000006114.0,363473003,482736017.0,B517,B517.00,Malignant neoplasm of brain stem
+Malignant neoplasms,289355015.0,188295009,289355015.0,B5170,B517000,Malignant neoplasm of cerebral peduncle
+Malignant neoplasms,289356019.0,188296005,289356019.0,B5171,B517100,Malignant neoplasm of medulla oblongata
+Malignant neoplasms,289357011.0,188297001,289357011.0,B5172,B517200,Malignant neoplasm of midbrain
+Malignant neoplasms,289358018.0,188298006,289358018.0,B5173,B517300,Malignant neoplasm of pons
+Malignant neoplasms,727521000006118.0,363473003,482736017.0,B517z,B517z00,Malignant neoplasm of brain stem NOS
+Malignant neoplasms,289360016.0,428061005,2692069010.0,B51y,B51y.00,Malignant neoplasm of other parts of brain
+Malignant neoplasms,289361017.0,188301005,289361017.0,B51y0,B51y000,Malignant neoplasm of corpus callosum
+Malignant neoplasms,289364013.0,428061005,2692069010.0,B51yz,B51yz00,Malignant neoplasm of other part of brain NOS
+Malignant neoplasms,289365014.0,428061005,2692069010.0,B51z,B51z.00,Malignant neoplasm of brain NOS
+Malignant neoplasms,726641000006111.0,188307009,289367018.0,B520,B520.00,Malignant neoplasm of cranial nerves
+Malignant neoplasms,289369015.0,188308004,289369015.0,B5200,B520000,Malignant neoplasm of olfactory bulb
+Malignant neoplasms,155425014.0,363498002,482783015.0,B5201,B520100,Malignant neoplasm of optic nerve
+Malignant neoplasms,727841000006110.0,254980001,379934019.0,B5202,B520200,Malignant neoplasm of acoustic nerve
+Malignant neoplasms,289374011.0,188307009,289367018.0,B520z,B520z00,Malignant neoplasm of cranial nerves NOS
+Malignant neoplasms,482737014.0,363474009,482737014.0,B521,B521.00,Malignant neoplasm of cerebral meninges
+Malignant neoplasms,289378014.0,188315007,289378014.0,B5212,B521200,Malignant neoplasm of cerebral pia mater
+Malignant neoplasms,289379018.0,363474009,482737014.0,B521z,B521z00,Malignant neoplasm of cerebral meninges NOS
+Malignant neoplasms,721751000006111.0,363475005,482738016.0,B522,B522.00,Malignant neoplasm of spinal cord
+Malignant neoplasms,482740014.0,363476006,482740014.0,B523,B523.00,Malignant neoplasm of spinal meninges
+Malignant neoplasms,289383018.0,363497007,482781018.0,B523z,B523z00,Malignant neoplasm of spinal meninges NOS
+Malignant neoplasms,482741013.0,363477002,482741013.0,B525,B525.00,Malignant neoplasm of cauda equina
+Malignant neoplasms,728471000006117.0,109911004,174604014.0,B52W,B52W.00,"Malig neopl, overlap lesion brain & other part of CNS"
+Malignant neoplasms,724681000006111.0,363497007,482781018.0,B52X,B52X.00,"Malignant neoplasm of meninges, unspecified"
+Malignant neoplasms,720481000006117.0,188339002,289407019.0,B542,B542.00,Malignant neoplasm pituitary gland and craniopharyngeal duct
+Malignant neoplasms,722981000006114.0,363482009,482750010.0,B5420,B542000,Malignant neoplasm of pituitary gland
+Malignant neoplasms,289409016.0,188340000,289409016.0,B5421,B542100,Malignant neoplasm of craniopharyngeal duct
+Malignant neoplasms,730041000006115.0,188339002,289407019.0,B542z,B542z00,Malig neop pituitary gland or craniopharyngeal duct NOS
+Malignant neoplasms,722961000006116.0,363483004,482752019.0,B543,B543.00,Malignant neoplasm of pineal gland
+Malignant neoplasms,155168019.0,447883002,2900052019.0,B544,B544.00,Malignant neoplasm of carotid body
+Malignant neoplasms,289413011.0,93941005,510894017.0,B545,B545.00,Malignant neoplasm of aortic body and other paraganglia
+Malignant neoplasms,155269017.0,93814004,155269017.0,B5450,B545000,Malignant neoplasm of glomus jugulare
+Malignant neoplasms,155085015.0,93677000,155085015.0,B5451,B545100,Malignant neoplasm of aortic body
+Malignant neoplasms,155193017.0,93759001,155193017.0,B5452,B545200,Malignant neoplasm of coccygeal body
+Malignant neoplasms,289419010.0,93941005,510894017.0,B545z,B545z00,Malignant neoplasm of aortic body or paraganglia NOS
+Malignant neoplasms,1229453012.0,38713004,1229453012.0,BBbB,BBbB.00,[M]Astrocytoma NOS
+Malignant neoplasms,305681000006115.0,38713004,64413017.0,BBbB-1,BBbB.11,[M]Astrocytic glioma
+Malignant neoplasms,305701000006117.0,55353007,1231460011.0,BBbC,BBbC.00,"[M]Astrocytoma, anaplastic type"
+Malignant neoplasms,308961000006113.0,73982001,122858018.0,BBbE,BBbE.00,[M]Gemistocytic astrocytoma
+Malignant neoplasms,308461000006115.0,71314006,118456018.0,BBbF,BBbF.00,[M]Fibrillary astrocytoma
+Malignant neoplasms,315291000006116.0,128854008,207484016.0,BBbG,BBbG.00,[M]Pilocytic astrocytoma
+Malignant neoplasms,315301000006115.0,128854008,207484016.0,BBbG-2,BBbG.12,[M]Piloid astrocytoma
+Malignant neoplasms,291828016.0,63634009,105759017.0,BBbH,BBbH.00,[M]Spongioblastoma NOS
+Malignant neoplasms,305671000006118.0,48952003,81561018.0,BBbK,BBbK.00,[M]Astroblastoma
+Malignant neoplasms,403757015.0,63634009,105759017.0,BBbL,BBbL.00,[M]Glioblastoma NOS
+Malignant neoplasms,309231000006115.0,63634009,105761014.0,BBbL-1,BBbL.11,[M]Glioblastoma multiforme
+Malignant neoplasms,309091000006112.0,44529004,74269012.0,BBbM,BBbM.00,[M]Giant cell glioblastoma
+Malignant neoplasms,291835012.0,443565000,2840882012.0,BBbQ,BBbQ.00,[M]Oligodendroglioma NOS
+Malignant neoplasms,314281000006115.0,3102004,1227417016.0,BBbR,BBbR.00,"[M]Oligodendroglioma, anaplastic type"
+Malignant neoplasms,314261000006113.0,80061003,132826019.0,BBbS,BBbS.00,[M]Oligodendroblastoma
+Malignant neoplasms,291836013.0,83217000,138016017.0,BBbT,BBbT.00,[M]Medulloblastoma NOS
+Malignant neoplasms,307571000006110.0,32456001,54190011.0,BBbU,BBbU.00,[M]Desmoplastic medulloblastoma
+Malignant neoplasms,312201000006117.0,24604009,41255016.0,BBbV,BBbV.00,[M]Medullomyoblastoma
+Malignant neoplasms,291837016.0,17302008,29245013.0,BBbW,BBbW.00,[M]Cerebellar sarcoma NOS
+Malignant neoplasms,1234296013.0,78838008,1234295012.0,BBbZ,BBbZ.00,[M]Pleomorphic xanthoastrocytoma
+Malignant neoplasms,2552865010.0,74532006,2552865010.0,BBbz,BBbz.00,[M]Glioma NOS
+Malignant neoplasms,291852011.0,39005004,65429019.0,BBc2,BBc2.00,[M]Medulloepithelioma NOS
+Malignant neoplasms,309311000006117.0,89880005,148993014.0,BBc6-1,BBc6.11,[M]Glioneuroma
+Malignant neoplasms,313831000006118.0,128858006,207494014.0,BBc7-1,BBc7.11,[M]Neuroastrocytoma
+Malignant neoplasms,314251000006111.0,53968002,198477011.0,BBcA,BBcA.00,[M]Olfactory neurogenic tumour
+Malignant neoplasms,312361000006114.0,78303004,129936017.0,BBd2,BBd2.00,"[M]Meningioma, malignant"
+Malignant neoplasms,312391000006118.0,78303004,129936017.0,BBd2-2,BBd2.12,[M]Meningothelial sarcoma
+Malignant neoplasms,314911000006119.0,57606003,95785015.0,BBdA,BBdA.00,[M]Papillary meningioma
+Malignant neoplasms,396521000006110.0,188307009,289367018.0,ByuA0,ByuA000,[X]Malignant neoplasm/other and unspecified cranial nerves
+Malignant neoplasms,396491000006113.0,372062007,1210640010.0,ByuA1,ByuA100,"[X]Malignant neoplasm/central nervous system, unspecified"
+Malignant neoplasms,292152012.0,363497007,482781018.0,ByuA2,ByuA200,"[X]Malignant neoplasm of meninges, unspecified"
+Malignant neoplasms,396161000006113.0,109911004,174604014.0,ByuA3,ByuA300,"[X]Malig neopl, overlap lesion brain & other part of CNS"
+Malignant neoplasms,723401000006118.0,363418001,482635012.0,B17,B17..00,Malignant neoplasm of pancreas
+Malignant neoplasms,725121000006118.0,363419009,482638014.0,B170,B170.00,Malignant neoplasm of head of pancreas
+Malignant neoplasms,288717016.0,187791002,288717016.0,B171,B171.00,Malignant neoplasm of body of pancreas
+Malignant neoplasms,288720012.0,187792009,288720012.0,B172,B172.00,Malignant neoplasm of tail of pancreas
+Malignant neoplasms,288723014.0,187793004,288723014.0,B173,B173.00,Malignant neoplasm of pancreatic duct
+Malignant neoplasms,288727010.0,187794005,288727010.0,B174,B174.00,Malignant neoplasm of Islets of Langerhans
+Malignant neoplasms,288731016.0,363418001,482635012.0,B17y,B17y.00,Malignant neoplasm of other specified sites of pancreas
+Malignant neoplasms,288734012.0,187798008,288734012.0,B17y0,B17y000,Malignant neoplasm of ectopic pancreatic tissue
+Malignant neoplasms,288735013.0,363418001,482635012.0,B17yz,B17yz00,Malignant neoplasm of specified site of pancreas NOS
+Malignant neoplasms,288736014.0,363418001,482635012.0,B17z,B17z.00,Malignant neoplasm of pancreas NOS
+Malignant neoplasms,310661000006117.0,60346004,100246011.0,BB5B1,BB5B100,[M]Islet cell carcinoma
+Malignant neoplasms,310361000006113.0,20955008,1222592015.0,BB5B3,BB5B300,"[M]Insulinoma, malignant"
+Malignant neoplasms,309401000006112.0,66515009,1232802010.0,BB5B5,BB5B500,"[M]Glucagonoma, malignant"
+Malignant neoplasms,312881000006110.0,999000,2755014.0,BB5B6,BB5B600,[M]Mixed islet cell and exocrine adenocarcinoma
+Malignant neoplasms,308941000006114.0,19756007,1222357010.0,BB5C1,BB5C100,"[M]Gastrinoma, malignant"
+Malignant neoplasms,2905761000006112.0,25370001,42540010.0,^ESCTHE290576,,Hepatocellular carcinoma
+Malignant neoplasms,157732017.0,95214007,157732017.0,B150,B150.00,Primary malignant neoplasm of liver
+Malignant neoplasms,288690014.0,187769009,288690014.0,B1500,B150000,Primary carcinoma of liver
+Malignant neoplasms,342834014.0,109843000,342834014.0,B1501,B150100,Hepatoblastoma of liver
+Malignant neoplasms,342851019.0,109844006,342851019.0,B1502,B150200,Primary angiosarcoma of liver
+Malignant neoplasms,342807011.0,109841003,342807011.0,B1503,B150300,Hepatocellular carcinoma
+Malignant neoplasms,288692018.0,95214007,157732017.0,B150z,B150z00,Primary malignant neoplasm of liver NOS
+Malignant neoplasms,288700011.0,93870000,155343014.0,B152,B152.00,Malignant neoplasm of liver unspecified
+Malignant neoplasms,1224870013.0,25370001,1224870013.0,BB5D5,BB5D500,[M]Hepatocellular carcinoma NOS
+Malignant neoplasms,309871000006116.0,25370001,1224870013.0,BB5D5-1,BB5D511,[M]Hepatoma NOS
+Malignant neoplasms,309891000006115.0,25370001,1224870013.0,BB5D5-2,BB5D512,"[M]Hepatoma, malignant"
+Malignant neoplasms,311211000006112.0,25370001,1224870013.0,BB5D5-3,BB5D513,[M]Liver cell carcinoma
+Malignant neoplasms,1231089017.0,52178006,1231089017.0,BB5D7,BB5D700,[M]Combined hepatocellular carcinoma and cholangiocarcinoma
+Malignant neoplasms,309851000006114.0,52178006,1231089017.0,BB5D7-1,BB5D711,[M]Hepatocholangiocarcinoma
+Malignant neoplasms,1221209015.0,15619004,1221210013.0,BB5D8,BB5D800,"[M]Hepatocellular carcinoma, fibrolamellar"
+Malignant neoplasms,292101010.0,109841003,342812012.0,Byu11,Byu1100,[X]Other specified carcinomas of liver
+Malignant neoplasms,880331000006115.0,549521000000102,880331000006115.0,B34z-99,B34z.99,Ca breast - NOS
+Malignant neoplasms,880321000006118.0,188156001,880321000006118.0,B346-99,B346.99,Ca breast - axillary tail
+Malignant neoplasms,880341000006113.0,93884005,880341000006113.0,B35-99,B35..99,Ca breast - male
+Malignant neoplasms,880271000006114.0,188147009,880271000006114.0,B340-99,B340.99,Ca breast - nipple/central
+Malignant neoplasms,880291000006110.0,188153009,880291000006110.0,B343-99,B343.99,"Ca breast-lower,inner quadrant"
+Malignant neoplasms,880311000006114.0,188155002,880311000006114.0,B345-99,B345.99,"Ca breast-lower,outer quadrant"
+Malignant neoplasms,880281000006112.0,188152004,880281000006112.0,B342-99,B342.99,"Ca breast-upper,inner quadrant"
+Malignant neoplasms,880301000006111.0,188154003,880301000006111.0,B344-99,B344.99,"Ca breast-upper,outer quadrant"
+Malignant neoplasms,880261000006119.0,372064008,880261000006119.0,B34-99,B34..99,Carcinoma breast
+Malignant neoplasms,3387071000006114.0,54666007,90843010.0,^ESCTPA338707,,Paget's disease and intraductal carcinoma of breast
+Malignant neoplasms,907341000006116.0,907341000006100,907341000006116.0,HNG0190,,[RFC] Breast cancer
+Malignant neoplasms,1.1918121000006112e+16,254837009,396211000006116.0,^ESCT1191812,,[X]Malignant neoplasm of breast
+Malignant neoplasms,1803781000006110.0,314955001,1803781000006110.0,EMISNQLO13,,Local recurrence of malignant tumour of breast
+Malignant neoplasms,1.2723471000006112e+16,549521000000102,1224211000000116.0,^ESCT1272347,,Malignant neoplasm of female breast NOS
+Malignant neoplasms,1210642019.0,372064008,1210642019.0,B34,B34..00,Malignant neoplasm of female breast
+Malignant neoplasms,531851000006119.0,372064008,1210642019.0,B34-1,B34..11,Ca female breast
+Malignant neoplasms,289137018.0,188147009,289137018.0,B340,B340.00,Malignant neoplasm of nipple and areola of female breast
+Malignant neoplasms,155417012.0,93924008,155417012.0,B3400,B340000,Malignant neoplasm of nipple of female breast
+Malignant neoplasms,155089014.0,93680004,155089014.0,B3401,B340100,Malignant neoplasm of areola of female breast
+Malignant neoplasms,289140018.0,188147009,289137018.0,B340z,B340z00,Malignant neoplasm of nipple or areola of female breast NOS
+Malignant neoplasms,289141019.0,188151006,289141019.0,B341,B341.00,Malignant neoplasm of central part of female breast
+Malignant neoplasms,289142014.0,188152004,289142014.0,B342,B342.00,Malignant neoplasm of upper-inner quadrant of female breast
+Malignant neoplasms,289143016.0,188153009,289143016.0,B343,B343.00,Malignant neoplasm of lower-inner quadrant of female breast
+Malignant neoplasms,289144010.0,188154003,289144010.0,B344,B344.00,Malignant neoplasm of upper-outer quadrant of female breast
+Malignant neoplasms,289145011.0,188155002,289145011.0,B345,B345.00,Malignant neoplasm of lower-outer quadrant of female breast
+Malignant neoplasms,289146012.0,188156001,289146012.0,B346,B346.00,Malignant neoplasm of axillary tail of female breast
+Malignant neoplasms,289148013.0,372064008,1210642019.0,B34y,B34y.00,Malignant neoplasm of other site of female breast
+Malignant neoplasms,289149017.0,188159008,289149017.0,B34y0,B34y000,Malignant neoplasm of ectopic site of female breast
+Malignant neoplasms,289150017.0,372064008,1210642019.0,B34yz,B34yz00,Malignant neoplasm of other site of female breast NOS
+Malignant neoplasms,289151018.0,372064008,1210642019.0,B34z,B34z.00,Malignant neoplasm of female breast NOS
+Malignant neoplasms,155364013.0,372095001,1210673015.0,B35,B35..00,Malignant neoplasm of male breast
+Malignant neoplasms,289153015.0,188163001,289153015.0,B350,B350.00,Malignant neoplasm of nipple and areola of male breast
+Malignant neoplasms,155418019.0,93925009,155418019.0,B3500,B350000,Malignant neoplasm of nipple of male breast
+Malignant neoplasms,155090017.0,93681000,155090017.0,B3501,B350100,Malignant neoplasm of areola of male breast
+Malignant neoplasms,289157019.0,372095001,1210673015.0,B35z,B35z.00,Malignant neoplasm of other site of male breast
+Malignant neoplasms,289158012.0,188168005,289158012.0,B35z0,B35z000,Malignant neoplasm of ectopic site of male breast
+Malignant neoplasms,289159016.0,372095001,1210673015.0,B35zz,B35zz00,Malignant neoplasm of male breast NOS
+Malignant neoplasms,459378019.0,314955001,459378019.0,B36,B36..00,Local recurrence of malignant tumour of breast
+Malignant neoplasms,174576019.0,109888004,174576019.0,B8300,B830000,Lobular carcinoma in situ of breast
+Malignant neoplasms,174577011.0,109889007,174577011.0,B8301,B830100,Intraductal carcinoma in situ of breast
+Malignant neoplasms,310311000006110.0,82711006,137203014.0,BB91,BB91.00,[M]Infiltrating duct carcinoma
+Malignant neoplasms,307631000006111.0,82711006,137210015.0,BB91-1,BB91.11,[M]Duct carcinoma NOS
+Malignant neoplasms,1232564019.0,64524002,1232565018.0,BB910,BB91000,[M]Intraductal papillary adenocarcinoma with invasion
+Malignant neoplasms,1228259019.0,35232005,1228260012.0,BB911,BB91100,[M]Infiltrating duct and lobular carcinoma
+Malignant neoplasms,307131000006115.0,78197004,1234227011.0,BB92,BB92.00,"[M]Comedocarcinoma, noninfiltrating"
+Malignant neoplasms,291536017.0,722237009,3331293018.0,BB93,BB93.00,[M]Comedocarcinoma NOS
+Malignant neoplasms,316311000006112.0,41919003,69948016.0,BB94-1,BB94.11,[M]Secretory breast carcinoma
+Malignant neoplasms,314091000006113.0,30566004,1227274015.0,BB96,BB96.00,[M]Noninfiltrating intraductal papillary adenocarcinoma
+Malignant neoplasms,314711000006117.0,2985005,1226519014.0,BB9J,BB9J.00,"[M]Paget's disease, mammary"
+Malignant neoplasms,314691000006115.0,2985005,6068012.0,BB9J-1,BB9J.11,"[M]Paget's disease, breast"
+Malignant neoplasms,314671000006116.0,82591005,137011013.0,BB9K,BB9K.00,[M]Paget's disease and infiltrating breast duct carcinoma
+Malignant neoplasms,1231363012.0,54666007,1231364018.0,BB9K0,BB9K000,[M]Paget's disease and intraductal carcinoma of breast
+Malignant neoplasms,310411000006117.0,703545003,3008905015.0,BB9M,BB9M.00,[M]Intracystic carcinoma NOS
+Malignant neoplasms,292137017.0,254837009,379664012.0,Byu6,Byu6.00,[X]Malignant neoplasm of breast
+Malignant neoplasms,3170661000006111.0,41607009,69408018.0,^ESCTHY317066,,Hypernephroma
+Malignant neoplasms,177051000006111.0,363518003,482823011.0,B4A-1,B4A..11,Renal malignant neoplasm
+Malignant neoplasms,289285010.0,188250002,289285010.0,B4A0,B4A0.00,Malignant neoplasm of kidney parenchyma
+Malignant neoplasms,289288012.0,702391001,3648998018.0,B4A00,B4A0000,Hypernephroma
+Malignant neoplasms,722481000006116.0,363457009,482710012.0,B4A1,B4A1.00,Malignant neoplasm of renal pelvis
+Malignant neoplasms,722471000006119.0,188252005,289289016.0,B4A10,B4A1000,Malignant neoplasm of renal calyces
+Malignant neoplasms,289294016.0,188253000,289294016.0,B4A11,B4A1100,Malignant neoplasm of ureteropelvic junction
+Malignant neoplasms,289296019.0,363457009,482710012.0,B4A1z,B4A1z00,Malignant neoplasm of renal pelvis NOS
+Malignant neoplasms,720961000006117.0,363458004,482713014.0,B4A2,B4A2.00,Malignant neoplasm of ureter
+Malignant neoplasms,315861000006111.0,41607009,1229779019.0,BB5a0,BB5a000,[M]Renal cell carcinoma
+Malignant neoplasms,309571000006119.0,41607009,1229779019.0,BB5a0-1,BB5a011,[M]Grawitz tumour
+Malignant neoplasms,310241000006119.0,41607009,1229779019.0,BB5a0-2,BB5a012,[M]Hypernephroma
+Malignant neoplasms,1773151000006112.0,254626006,379172013.0,EMISNQAD45,,Adenocarcinoma of lung
+Malignant neoplasms,1773131000006117.0,254637007,379195016.0,EMISNQNO51,,Non-small cell lung cancer
+Malignant neoplasms,1773111000006111.0,93880001,510792012.0,EMISNQPR69,,Primary malignant neoplasm of lung
+Malignant neoplasms,1773121000006115.0,254632001,379181019.0,EMISNQSM10,,Small cell lung cancer
+Malignant neoplasms,1773141000006110.0,254634000,379184010.0,EMISNQSQ1,,Squamous cell carcinoma of lung
+Malignant neoplasms,907111000006118.0,907111000006102,907111000006118.0,HNG0207,,[RFC] Lung cancer
+Malignant neoplasms,1.191813100000611e+16,363358000,396221000006112.0,^ESCT1191813,,"[X]Malignant neoplasm of bronchus or lung, unspecified"
+Malignant neoplasms,288808013.0,430621000,2765453013.0,B22,B22..00,"Malignant neoplasm of trachea, bronchus and lung"
+Malignant neoplasms,721391000006116.0,363432004,482662016.0,B220,B220.00,Malignant neoplasm of trachea
+Malignant neoplasms,288810010.0,187854004,288810010.0,B2201,B220100,Malignant neoplasm of mucosa of trachea
+Malignant neoplasms,288811014.0,363432004,482662016.0,B220z,B220z00,Malignant neoplasm of trachea NOS
+Malignant neoplasms,155361017.0,372065009,1210643012.0,B221,B221.00,Malignant neoplasm of main bronchus
+Malignant neoplasms,288813012.0,187857006,288813012.0,B2210,B221000,Malignant neoplasm of carina of bronchus
+Malignant neoplasms,155287019.0,93827000,155287019.0,B2211,B221100,Malignant neoplasm of hilus of lung
+Malignant neoplasms,288815017.0,372065009,1210643012.0,B221z,B221z00,Malignant neoplasm of main bronchus NOS
+Malignant neoplasms,403688010.0,269464000,403688010.0,B222,B222.00,"Malignant neoplasm of upper lobe, bronchus or lung"
+Malignant neoplasms,414849013.0,278065000,414849013.0,B222-1,B222.11,Pancoast's syndrome
+Malignant neoplasms,288819011.0,187861000,288819011.0,B2220,B222000,Malignant neoplasm of upper lobe bronchus
+Malignant neoplasms,288820017.0,187862007,288820017.0,B2221,B222100,Malignant neoplasm of upper lobe of lung
+Malignant neoplasms,288821018.0,269464000,403688010.0,B222z,B222z00,"Malignant neoplasm of upper lobe, bronchus or lung NOS"
+Malignant neoplasms,288822013.0,187864008,288822013.0,B223,B223.00,"Malignant neoplasm of middle lobe, bronchus or lung"
+Malignant neoplasms,288823015.0,187865009,288823015.0,B2230,B223000,Malignant neoplasm of middle lobe bronchus
+Malignant neoplasms,288824014.0,187866005,288824014.0,B2231,B223100,Malignant neoplasm of middle lobe of lung
+Malignant neoplasms,288825010.0,187864008,288822013.0,B223z,B223z00,"Malignant neoplasm of middle lobe, bronchus or lung NOS"
+Malignant neoplasms,288826011.0,187868006,288826011.0,B224,B224.00,"Malignant neoplasm of lower lobe, bronchus or lung"
+Malignant neoplasms,288827019.0,187869003,288827019.0,B2240,B224000,Malignant neoplasm of lower lobe bronchus
+Malignant neoplasms,288828012.0,187870002,288828012.0,B2241,B224100,Malignant neoplasm of lower lobe of lung
+Malignant neoplasms,288829016.0,187868006,288826011.0,B224z,B224z00,"Malignant neoplasm of lower lobe, bronchus or lung NOS"
+Malignant neoplasms,288832018.0,363358000,482516016.0,B22y,B22y.00,Malignant neoplasm of other sites of bronchus or lung
+Malignant neoplasms,403689019.0,363358000,482516016.0,B22z,B22z.00,Malignant neoplasm of bronchus or lung NOS
+Malignant neoplasms,733371000006119.0,93880001,3288586014.0,B22z-1,B22z.11,Lung cancer
+Malignant neoplasms,1219789016.0,112677002,1219789016.0,BB5S2,BB5S200,[M]Bronchiolo-alveolar adenocarcinoma
+Malignant neoplasms,305201000006114.0,112677002,1219789016.0,BB5S2-1,BB5S211,[M]Alveolar cell carcinoma
+Malignant neoplasms,306131000006118.0,112677002,1219789016.0,BB5S2-2,BB5S212,[M]Bronchiolar carcinoma
+Malignant neoplasms,305181000006113.0,36310008,60606019.0,BB5S4,BB5S400,[M]Alveolar adenocarcinoma
+Malignant neoplasms,292105018.0,1090881000000100,2732641000000116.0,Byu20,Byu2000,"[X]Malignant neoplasm of bronchus or lung, unspecified"
+Malignant neoplasms,289566011.0,188478004,289566011.0,B592,B592.00,Malignant neoplasms of independent (primary) multiple sites
+Malignant neoplasms,396631000006112.0,188478004,289566011.0,ByuE,ByuE.00,[X]Malignant neoplasms/independent (primary) multiple sites
+Malignant neoplasms,396641000006119.0,188478004,289566011.0,ByuE0,ByuE000,[X]Malignant neoplasms/independent(primary)multiple sites
+Malignant neoplasms,6616761000006119.0,399068003,1786665019.0,^ESCTCA661676,,Cancer of prostate
+Malignant neoplasms,906971000006110.0,906971000006106,906971000006110.0,HNG0200,,[RFC] Cancer of the prostate
+Malignant neoplasms,844951000006111.0,385377005,1479600014.0,4M0,4M0..00,Gleason grading of prostate cancer
+Malignant neoplasms,1490806016.0,369775001,1490806016.0,4M00,4M00.00,Gleason prostate grade 2-4 (low)
+Malignant neoplasms,1488634012.0,394932008,1488634012.0,4M01,4M01.00,Gleason prostate grade 5-7 (medium)
+Malignant neoplasms,1490807013.0,369777009,1490807013.0,4M02,4M02.00,Gleason prostate grade 8-10 (high)
+Malignant neoplasms,272628011.0,176106009,272628011.0,7B200,7B20000,Radical cystoprostatourethrectomy
+Malignant neoplasms,134770016.0,81232004,134770016.0,7B202,7B20200,Radical cystoprostatectomy
+Malignant neoplasms,272890012.0,176261008,272890012.0,7B365,7B36500,Radical prostatectomy without pelvic node excision
+Malignant neoplasms,272891011.0,176262001,272891011.0,7B366,7B36600,Radical prostatectomy with pelvic node sampling
+Malignant neoplasms,272892016.0,176263006,272892016.0,7B367,7B36700,Radical prostatectomy with pelvic lymphadenectomy
+Malignant neoplasms,722361000006115.0,399068003,1773293010.0,B46,B46..00,Malignant neoplasm of prostate
+Malignant neoplasms,880561000006117.0,372122006,880561000006117.0,B550-99,B550.99,Ca skin - head/neck
+Malignant neoplasms,880241000006118.0,188127001,880241000006118.0,B337-99,B337.99,Ca skin - lower limb
+Malignant neoplasms,880211000006117.0,573501000000108,880211000006117.0,B33-99,B33..99,Ca skin - other
+Malignant neoplasms,880251000006116.0,540311000000106,880251000006116.0,B33z-99,B33z.99,Ca skin - other NOS
+Malignant neoplasms,880221000006113.0,531581000000101,880221000006113.0,B335-99,B335.99,Ca skin - trunk
+Malignant neoplasms,880231000006111.0,188119005,880231000006111.0,B336-99,B336.99,Ca skin - upper limb
+Malignant neoplasms,1.2455781000006112e+16,127570002,305821000006115.0,^ESCT1245578,,[M]Basal cell neoplasms
+Malignant neoplasms,853151000006113.0,853151000006109,853151000006113.0,EGTON1107,,Basal cell carcinoma
+Malignant neoplasms,3745771000006113.0,76594008,3745771000006113.0,^ESCTDE374577,,Dermatofibrosarcoma protuberans
+Malignant neoplasms,1.2721241000006118e+16,540311000000106,1205251000000113.0,^ESCT1272124,,Malignant neoplasm of skin NOS
+Malignant neoplasms,1.2718821000006112e+16,531581000000101,1187061000000112.0,^ESCT1271882,,"Malignant neoplasm of skin of trunk, excluding scrotum"
+Malignant neoplasms,1.2704591000006116e+16,363346000,720521000006117.0,^ESCT1270459,,Malignant neoplasm skin of other and unspecified parts face
+Malignant neoplasms,1.2732221000006116e+16,573501000000108,1274111000000111.0,^ESCT1273222,,Other malignant neoplasm of skin
+Malignant neoplasms,2519761000006119.0,1338007,3349012.0,^ESCTRO251976,,Rodent ulcer
+Malignant neoplasms,853821000006110.0,853821000006106,853821000006110.0,EGTON300,,Rodent ulcer
+Malignant neoplasms,1.2759251000006116e+16,540311000000106,1205241000000110.0,^ESCT1275925,,Squamous cell carcinoma of skin NOS
+Malignant neoplasms,403700013.0,372130007,1210707014.0,B33,B33..00,Other malignant neoplasm of skin
+Malignant neoplasms,215751000000116.0,254701007,379314010.0,B33-1,B33..11,Basal cell carcinoma
+Malignant neoplasms,379315011.0,254701007,379315011.0,B33-3,B33..13,Rodent ulcer
+Malignant neoplasms,289066018.0,94000008,155506013.0,B33-4,B33..14,Malignant neoplasm of sebaceous gland
+Malignant neoplasms,721091000006119.0,94081005,155602015.0,B33-5,B33..15,Malignant neoplasm of sweat gland
+Malignant neoplasms,411225019.0,275265005,411225019.0,B33-6,B33..16,Epithelioma basal cell
+Malignant neoplasms,155542017.0,94032008,155542017.0,B330,B330.00,Malignant neoplasm of skin of lip
+Malignant neoplasms,726261000006112.0,231829006,347398012.0,B331,B331.00,Malignant neoplasm of eyelid including canthus
+Malignant neoplasms,454201010.0,310599006,454201010.0,B3310,B331000,Malignant neoplasm of canthus
+Malignant neoplasms,457110018.0,313249007,457110018.0,B3311,B331100,Malignant neoplasm of upper eyelid
+Malignant neoplasms,457111019.0,313250007,457111019.0,B3312,B331200,Malignant neoplasm of lower eyelid
+Malignant neoplasms,720511000006113.0,188089003,289077012.0,B332,B332.00,Malignant neoplasm skin of ear and external auricular canal
+Malignant neoplasms,289079010.0,188090007,289079010.0,B3320,B332000,Malignant neoplasm of skin of auricle (ear)
+Malignant neoplasms,289080013.0,188091006,289080013.0,B3321,B332100,Malignant neoplasm of skin of external auditory meatus
+Malignant neoplasms,455404011.0,277156006,413589015.0,B3322,B332200,Malignant neoplasm of pinna NEC
+Malignant neoplasms,729611000006115.0,126488004,82493010.0,B332z,B332z00,Malig neop skin of ear and external auricular canal NOS
+Malignant neoplasms,720521000006117.0,443136000,2838688010.0,B333,B333.00,Malignant neoplasm skin of other and unspecified parts face
+Malignant neoplasms,289084016.0,188095002,289084016.0,B3330,B333000,"Malignant neoplasm of skin of cheek, external"
+Malignant neoplasms,155525011.0,94016005,155525011.0,B3331,B333100,Malignant neoplasm of skin of chin
+Malignant neoplasms,155536016.0,94026003,155536016.0,B3333,B333300,Malignant neoplasm of skin of forehead
+Malignant neoplasms,289088018.0,188099008,289088018.0,B3334,B333400,Malignant neoplasm of skin of nose (external)
+Malignant neoplasms,289089014.0,188100000,289089014.0,B3335,B333500,Malignant neoplasm of skin of temple
+Malignant neoplasms,720531000006119.0,443136000,2838688010.0,B333z,B333z00,Malignant neoplasm skin other and unspec part of face NOS
+Malignant neoplasms,289091018.0,188102008,289091018.0,B334,B334.00,Malignant neoplasm of scalp and skin of neck
+Malignant neoplasms,289092013.0,188103003,289092013.0,B3340,B334000,Malignant neoplasm of scalp
+Malignant neoplasms,155545015.0,94034009,155545015.0,B3341,B334100,Malignant neoplasm of skin of neck
+Malignant neoplasms,289094014.0,188102008,1775486011.0,B334z,B334z00,Malignant neoplasm of scalp or skin of neck NOS
+Malignant neoplasms,289095010.0,372126009,1210703013.0,B335,B335.00,"Malignant neoplasm of skin of trunk, excluding scrotum"
+Malignant neoplasms,289096011.0,188107002,289096011.0,B3350,B335000,Malignant neoplasm of skin of axillary fold
+Malignant neoplasms,289097019.0,372126009,1210703013.0,B3351,B335100,"Malignant neoplasm of skin of chest, excluding breast"
+Malignant neoplasms,155521019.0,94012007,155521019.0,B3352,B335200,Malignant neoplasm of skin of breast
+Malignant neoplasms,289099016.0,188110009,289099016.0,B3353,B335300,Malignant neoplasm of skin of abdominal wall
+Malignant neoplasms,155556015.0,94044006,155556015.0,B3354,B335400,Malignant neoplasm of skin of umbilicus
+Malignant neoplasms,155537013.0,94027007,155537013.0,B3355,B335500,Malignant neoplasm of skin of groin
+Malignant neoplasms,155547011.0,94036006,155547011.0,B3356,B335600,Malignant neoplasm of skin of perineum
+Malignant neoplasms,155520018.0,94011000,155520018.0,B3357,B335700,Malignant neoplasm of skin of back
+Malignant neoplasms,155522014.0,94013002,155522014.0,B3358,B335800,Malignant neoplasm of skin of buttock
+Malignant neoplasms,155458017.0,93956001,155458017.0,B3359,B335900,Malignant neoplasm of perianal skin
+Malignant neoplasms,455405012.0,311779007,455405012.0,B335A,B335A00,Malignant neoplasm of skin of scapular region
+Malignant neoplasms,289107010.0,372126009,1210703013.0,B335z,B335z00,"Malignant neoplasm of skin of trunk, excluding scrotum, NOS"
+Malignant neoplasms,289108017.0,188119005,289108017.0,B336,B336.00,Malignant neoplasm of skin of upper limb and shoulder
+Malignant neoplasms,155550014.0,94039004,155550014.0,B3360,B336000,Malignant neoplasm of skin of shoulder
+Malignant neoplasms,289110015.0,188121000,289110015.0,B3361,B336100,Malignant neoplasm of skin of upper arm
+Malignant neoplasms,289111016.0,188122007,289111016.0,B3362,B336200,Malignant neoplasm of skin of fore-arm
+Malignant neoplasms,155538015.0,94028002,155538015.0,B3363,B336300,Malignant neoplasm of skin of hand
+Malignant neoplasms,155533012.0,94023006,155533012.0,B3364,B336400,Malignant neoplasm of skin of finger
+Malignant neoplasms,289114012.0,188125009,289114012.0,B3365,B336500,Malignant neoplasm of skin of thumb
+Malignant neoplasms,289115013.0,188119005,289108017.0,B336z,B336z00,Malignant neoplasm of skin of upper limb or shoulder NOS
+Malignant neoplasms,289116014.0,188127001,289116014.0,B337,B337.00,Malignant neoplasm of skin of lower limb and hip
+Malignant neoplasms,155539011.0,94029005,155539011.0,B3370,B337000,Malignant neoplasm of skin of hip
+Malignant neoplasms,155552018.0,94041003,155552018.0,B3371,B337100,Malignant neoplasm of skin of thigh
+Malignant neoplasms,155540013.0,94030000,155540013.0,B3372,B337200,Malignant neoplasm of skin of knee
+Malignant neoplasms,289121012.0,188132000,289121012.0,B3373,B337300,Malignant neoplasm of skin of popliteal fossa area
+Malignant neoplasms,289122017.0,188133005,289122017.0,B3374,B337400,Malignant neoplasm of skin of lower leg
+Malignant neoplasms,155517014.0,94008001,155517014.0,B3375,B337500,Malignant neoplasm of skin of ankle
+Malignant neoplasms,289124016.0,188135003,289124016.0,B3376,B337600,Malignant neoplasm of skin of heel
+Malignant neoplasms,155534018.0,94024000,155534018.0,B3377,B337700,Malignant neoplasm of skin of foot
+Malignant neoplasms,155553011.0,94042005,155553011.0,B3378,B337800,Malignant neoplasm of skin of toe
+Malignant neoplasms,289127011.0,188138001,289127011.0,B3379,B337900,Malignant neoplasm of skin of great toe
+Malignant neoplasms,289128018.0,188127001,289116014.0,B337z,B337z00,Malignant neoplasm of skin of lower limb or hip NOS
+Malignant neoplasms,379223011.0,254651007,379223011.0,B338,B338.00,Squamous cell carcinoma of skin
+Malignant neoplasms,413089014.0,276799004,413089014.0,B339,B339.00,Dermatofibrosarcoma protuberans
+Malignant neoplasms,289131017.0,372130007,1210707014.0,B33y,B33y.00,Malignant neoplasm of other specified skin sites
+Malignant neoplasms,289132012.0,372130007,1210707014.0,B33z,B33z.00,Malignant neoplasm of skin NOS
+Malignant neoplasms,556501000000116.0,254651007,379223011.0,B33z-1,B33z.11,Squamous cell carcinoma of skin NOS
+Malignant neoplasms,556511000000119.0,400155002,1779409013.0,BB2A-3,BB2A.13,[M]Squamous cell carcinoma of skin NOS
+Malignant neoplasms,291359010.0,127570002,2664014019.0,BB3,BB3..00,[M]Basal cell neoplasms
+Malignant neoplasms,305831000006117.0,30649006,196804015.0,BB30,BB30.00,[M]Basal cell tumour
+Malignant neoplasms,291360017.0,1338007,3345018.0,BB31,BB31.00,[M]Basal cell carcinoma NOS
+Malignant neoplasms,313221000006117.0,61098004,101531010.0,BB32,BB32.00,[M]Multicentric basal cell carcinoma
+Malignant neoplasms,305801000006113.0,134152008,215881011.0,BB33,BB33.00,"[M]Basal cell carcinoma, morphoea type"
+Malignant neoplasms,305791000006112.0,43369006,1229982018.0,BB34,BB34.00,"[M]Basal cell carcinoma, fibroepithelial type"
+Malignant neoplasms,305901000006119.0,37304002,62234010.0,BB35,BB35.00,[M]Basosquamous carcinoma
+Malignant neoplasms,312631000006110.0,6641007,12009016.0,BB36,BB36.00,[M]Metatypical carcinoma
+Malignant neoplasms,1770481000006118.0,61098004,199020010.0,BB3C,BB3C.00,[M]Superficial basal cell carcinoma
+Malignant neoplasms,1770491000006115.0,128636006,207028011.0,BB3D,BB3D.00,"[M]Basal cell carcinoma, nodular"
+Malignant neoplasms,1770501000006111.0,402529002,1781655012.0,BB3E,BB3E.00,"[M]Basal cell carcinoma, micronodular"
+Malignant neoplasms,1770511000006114.0,56665009,198684014.0,BB3F,BB3F.00,"[M]Basal cell carcinoma, infiltrative"
+Malignant neoplasms,1770521000006118.0,403909004,1782913015.0,BB3G,BB3G.00,[M]Pigmented basal cell carcinoma
+Malignant neoplasms,291361018.0,127570002,857018.0,BB3z,BB3z.00,[M]Basal cell neoplasm NOS
+Malignant neoplasms,291474011.0,64000002,106379015.0,BB601,BB60100,[M]Skin appendage carcinoma
+Malignant neoplasms,291480015.0,32272007,53910019.0,BB612,BB61200,[M]Sweat gland adenocarcinoma
+Malignant neoplasms,305571000006117.0,57141000,95032016.0,BB621,BB62100,[M]Apocrine adenocarcinoma
+Malignant neoplasms,1231370012.0,54734006,1231370012.0,BB691,BB69100,[M]Sebaceous adenocarcinoma
+Malignant neoplasms,404801000006116.0,94047004,155560017.0,Byu42,Byu4200,[X]Oth malignant neoplasm/skin of oth+unspecfd parts of face
+Malignant neoplasms,292120012.0,372130007,1210707014.0,Byu43,Byu4300,"[X]Malignant neoplasm of skin, unspecified"
+Malignant neoplasms,312601000006119.0,62064005,103178011.0,BBP1,BBP1.00,"[M]Mesothelioma, malignant"
+Malignant neoplasms,1785811000006114.0,54443001,90491019.0,BBP3-1,BBP3.11,[M]Sarcomatoid mesothelioma
+Malignant neoplasms,308261000006116.0,65278006,1232663018.0,BBP5,BBP5.00,"[M]Epithelioid mesothelioma, malignant"
+Malignant neoplasms,312591000006110.0,30383009,1227226015.0,BBP7,BBP7.00,"[M]Mesothelioma, biphasic type, malignant"
+Malignant neoplasms,1.2450991000006116e+16,417554000,109371000006115.0,^ESCT1245099,,Teratoma of descended testis
+Malignant neoplasms,721171000006119.0,363449006,482694014.0,B47,B47..00,Malignant neoplasm of testis
+Malignant neoplasms,289223017.0,188219004,289223017.0,B470,B470.00,Malignant neoplasm of undescended testis
+Malignant neoplasms,457318018.0,313428008,457318018.0,B4702,B470200,Seminoma of undescended testis
+Malignant neoplasms,109391000006119.0,417417007,2548377014.0,B4703,B470300,Teratoma of undescended testis
+Malignant neoplasms,289234019.0,188219004,289220019.0,B470z,B470z00,Malignant neoplasm of undescended testis NOS
+Malignant neoplasms,174562015.0,109876001,174562015.0,B471,B471.00,Malignant neoplasm of descended testis
+Malignant neoplasms,457319014.0,313429000,457319014.0,B4710,B471000,Seminoma of descended testis
+Malignant neoplasms,109371000006115.0,417554000,2548606013.0,B4711,B471100,Teratoma of descended testis
+Malignant neoplasms,473991000000119.0,1090261000000108,2731381000000113.0,B471z,B471z00,Malignant neoplasm of descended testis NOS
+Malignant neoplasms,403702017.0,363449006,482694014.0,B47z,B47z.00,Malignant neoplasm of testis NOS
+Malignant neoplasms,380180017.0,255107005,380180017.0,B47z-1,B47z.11,Seminoma of testis
+Malignant neoplasms,109381000006117.0,416769008,2549298016.0,B47z-2,B47z.12,Teratoma of testis
+Malignant neoplasms,880531000006114.0,363478007,880531000006114.0,B53-99,B53..99,Ca thyroid
+Malignant neoplasms,907351000006119.0,907351000006103,907351000006119.0,HNG0191,,[RFC] Cancer of the thyroid
+Malignant neoplasms,721291000006110.0,363478007,482743011.0,B53,B53..00,Malignant neoplasm of thyroid gland
+Malignant neoplasms,1.273204100000612e+16,570591000000106,1267991000000117.0,^ESCT1273204,,Malignant neoplasm of body of uterus NOS
+Malignant neoplasms,289166015.0,371973000,1210562019.0,B40,B40..00,"Malignant neoplasm of uterus, part unspecified"
+Malignant neoplasms,1210561014.0,371972005,1210561014.0,B43,B43..00,Malignant neoplasm of body of uterus
+Malignant neoplasms,289187013.0,188189001,289187013.0,B430,B430.00,"Malignant neoplasm of corpus uteri, excluding isthmus"
+Malignant neoplasms,289188015.0,188190005,289188015.0,B4300,B430000,Malignant neoplasm of cornu of corpus uteri
+Malignant neoplasms,289189011.0,188191009,289189011.0,B4301,B430100,Malignant neoplasm of fundus of corpus uteri
+Malignant neoplasms,289190019.0,188192002,289190019.0,B4302,B430200,Malignant neoplasm of endometrium of corpus uteri
+Malignant neoplasms,980021000006113.0,188192002,289190019.0,B4302-1,B430211,Malignant neoplasm of endometrium
+Malignant neoplasms,289191015.0,188193007,289191015.0,B4303,B430300,Malignant neoplasm of myometrium of corpus uteri
+Malignant neoplasms,289192010.0,188189001,289187013.0,B430z,B430z00,Malignant neoplasm of corpus uteri NOS
+Malignant neoplasms,289193017.0,188195000,289193017.0,B431,B431.00,Malignant neoplasm of isthmus of uterine body
+Malignant neoplasms,289194011.0,188195000,3491683016.0,B4310,B431000,Malignant neoplasm of lower uterine segment
+Malignant neoplasms,289195012.0,188195000,289193017.0,B431z,B431z00,Malignant neoplasm of isthmus of uterine body NOS
+Malignant neoplasms,289197016.0,371972005,1210561014.0,B43y,B43y.00,Malignant neoplasm of other site of uterine body
+Malignant neoplasms,289198014.0,371972005,1210561014.0,B43z,B43z.00,Malignant neoplasm of body of uterus NOS
+Malignant neoplasms,155305011.0,187777008,288698019.0,B151,B151.00,Malignant neoplasm of intrahepatic bile ducts
+Malignant neoplasms,288694017.0,187773007,288694017.0,B1510,B151000,Malignant neoplasm of interlobular bile ducts
+Malignant neoplasms,2619456011.0,187777008,2619456011.0,B1512,B151200,Malignant neoplasm of intrahepatic biliary passages
+Malignant neoplasms,288698019.0,187777008,288698019.0,B1514,B151400,Malignant neoplasm of intrahepatic gall duct
+Malignant neoplasms,288699010.0,187777008,288698019.0,B151z,B151z00,Malignant neoplasm of intrahepatic bile ducts NOS
+Malignant neoplasms,726201000006111.0,363416002,482631015.0,B161,B161.00,Malignant neoplasm of extrahepatic bile ducts
+Malignant neoplasms,155207017.0,93770008,155207017.0,B1610,B161000,Malignant neoplasm of cystic duct
+Malignant neoplasms,288707014.0,187784000,288707014.0,B1611,B161100,Malignant neoplasm of hepatic duct
+Malignant neoplasms,726361000006119.0,93763008,155198014.0,B1612,B161200,Malignant neoplasm of common bile duct
+Malignant neoplasms,380139012.0,255086002,380139012.0,B1612-1,B161211,Carcinoma common bile duct
+Malignant neoplasms,288711015.0,187786003,288711015.0,B1613,B161300,Malignant neoplasm of sphincter of Oddi
+Malignant neoplasms,288712010.0,363416002,482631015.0,B161z,B161z00,Malignant neoplasm of extrahepatic bile ducts NOS
+Malignant neoplasms,727911000006116.0,363417006,482633017.0,B162,B162.00,Malignant neoplasm of ampulla of Vater
+Malignant neoplasms,306641000006116.0,70179006,116557016.0,BB5D1,BB5D100,[M]Cholangiocarcinoma
+Malignant neoplasms,305941000006117.0,70179006,116558014.0,BB5D1-1,BB5D111,[M]Bile duct carcinoma
+Malignant neoplasms,305951000006115.0,50422007,84004017.0,BB5D3,BB5D300,[M]Bile duct cystadenocarcinoma
+Malignant neoplasms,1.2723281000006112e+16,546881000000105,1218841000000118.0,^ESCT1272328,,Malignant melanoma of skin NOS
+Malignant neoplasms,170673014.0,106243009,170673014.0,4M3,4M3..00,Breslow depth staging for melanoma
+Malignant neoplasms,138122012.0,83284001,138122012.0,4M70,4M70.00,Clark melanoma level 1
+Malignant neoplasms,84190018.0,50542000,84190018.0,4M71,4M71.00,Clark melanoma level 2
+Malignant neoplasms,35572018.0,21165006,35572018.0,4M72,4M72.00,Clark melanoma level 3
+Malignant neoplasms,3704012.0,1556006,3704012.0,4M73,4M73.00,Clark melanoma level 4
+Malignant neoplasms,27148012.0,16034002,27148012.0,4M74,4M74.00,Clark melanoma level 5
+Malignant neoplasms,155060012.0,93655004,155060012.0,B32,B32..00,Malignant melanoma of skin
+Malignant neoplasms,289009011.0,188030005,289009011.0,B320,B320.00,Malignant melanoma of lip
+Malignant neoplasms,728201000006110.0,231834005,347406017.0,B321,B321.00,Malignant melanoma of eyelid including canthus
+Malignant neoplasms,289011019.0,188032002,289011019.0,B322,B322.00,Malignant melanoma of ear and external auricular canal
+Malignant neoplasms,289012014.0,188033007,289012014.0,B3220,B322000,Malignant melanoma of auricle (ear)
+Malignant neoplasms,289013016.0,188034001,289013016.0,B3221,B322100,Malignant melanoma of external auditory meatus
+Malignant neoplasms,289014010.0,188032002,289011019.0,B322z,B322z00,Malignant melanoma of ear and external auricular canal NOS
+Malignant neoplasms,289015011.0,93225001,154247017.0,B323,B323.00,Malignant melanoma of other and unspecified parts of face
+Malignant neoplasms,1235785014.0,93217003,1235785014.0,B3230,B323000,Malignant melanoma of external surface of cheek
+Malignant neoplasms,289017015.0,188038003,289017015.0,B3231,B323100,Malignant melanoma of chin
+Malignant neoplasms,289019017.0,188040008,289019017.0,B3233,B323300,Malignant melanoma of forehead
+Malignant neoplasms,1235798017.0,93643005,1235798017.0,B3234,B323400,Malignant melanoma of external surface of nose
+Malignant neoplasms,289021010.0,188042000,289021010.0,B3235,B323500,Malignant melanoma of temple
+Malignant neoplasms,289022015.0,93225001,154247017.0,B323z,B323z00,Malignant melanoma of face NOS
+Malignant neoplasms,289023013.0,188044004,289023013.0,B324,B324.00,Malignant melanoma of scalp and neck
+Malignant neoplasms,289024019.0,188045003,289024019.0,B3240,B324000,Malignant melanoma of scalp
+Malignant neoplasms,289025018.0,188046002,289025018.0,B3241,B324100,Malignant melanoma of neck
+Malignant neoplasms,289026017.0,188044004,1775484014.0,B324z,B324z00,Malignant melanoma of scalp and neck NOS
+Malignant neoplasms,289027014.0,93651008,155054012.0,B325,B325.00,Malignant melanoma of trunk (excluding scrotum)
+Malignant neoplasms,289028016.0,188049009,289028016.0,B3250,B325000,Malignant melanoma of axilla
+Malignant neoplasms,289029012.0,188050009,289029012.0,B3251,B325100,Malignant melanoma of breast
+Malignant neoplasms,289030019.0,188051008,289030019.0,B3252,B325200,Malignant melanoma of buttock
+Malignant neoplasms,289031015.0,188052001,289031015.0,B3253,B325300,Malignant melanoma of groin
+Malignant neoplasms,154231019.0,93209006,154231019.0,B3254,B325400,Malignant melanoma of perianal skin
+Malignant neoplasms,289033017.0,188054000,289033017.0,B3255,B325500,Malignant melanoma of perineum
+Malignant neoplasms,289034011.0,188055004,289034011.0,B3256,B325600,Malignant melanoma of umbilicus
+Malignant neoplasms,454085011.0,310498001,454085011.0,B3257,B325700,Malignant melanoma of back
+Malignant neoplasms,457109011.0,313248004,457109011.0,B3258,B325800,Malignant melanoma of chest wall
+Malignant neoplasms,289037016.0,269579005,403893010.0,B325z,B325z00,"Malignant melanoma of trunk, excluding scrotum, NOS"
+Malignant neoplasms,727731000006113.0,269580008,403894016.0,B326,B326.00,Malignant melanoma of upper limb and shoulder
+Malignant neoplasms,289039018.0,188060000,289039018.0,B3260,B326000,Malignant melanoma of shoulder
+Malignant neoplasms,289040016.0,188061001,289040016.0,B3261,B326100,Malignant melanoma of upper arm
+Malignant neoplasms,289041017.0,188062008,289041017.0,B3262,B326200,Malignant melanoma of fore-arm
+Malignant neoplasms,289042012.0,188063003,289042012.0,B3263,B326300,Malignant melanoma of hand
+Malignant neoplasms,289043019.0,188064009,289043019.0,B3264,B326400,Malignant melanoma of finger
+Malignant neoplasms,289044013.0,188065005,289044013.0,B3265,B326500,Malignant melanoma of thumb
+Malignant neoplasms,289045014.0,269580008,403894016.0,B326z,B326z00,Malignant melanoma of upper limb or shoulder NOS
+Malignant neoplasms,289046010.0,188067002,289046010.0,B327,B327.00,Malignant melanoma of lower limb and hip
+Malignant neoplasms,289047018.0,188068007,289047018.0,B3270,B327000,Malignant melanoma of hip
+Malignant neoplasms,289048011.0,188069004,289048011.0,B3271,B327100,Malignant melanoma of thigh
+Malignant neoplasms,289049015.0,188070003,289049015.0,B3272,B327200,Malignant melanoma of knee
+Malignant neoplasms,289050015.0,188071004,289050015.0,B3273,B327300,Malignant melanoma of popliteal fossa area
+Malignant neoplasms,289051016.0,188072006,289051016.0,B3274,B327400,Malignant melanoma of lower leg
+Malignant neoplasms,289052011.0,188073001,289052011.0,B3275,B327500,Malignant melanoma of ankle
+Malignant neoplasms,289053018.0,188074007,289053018.0,B3276,B327600,Malignant melanoma of heel
+Malignant neoplasms,289054012.0,188075008,289054012.0,B3277,B327700,Malignant melanoma of foot
+Malignant neoplasms,289055013.0,188076009,289055013.0,B3278,B327800,Malignant melanoma of toe
+Malignant neoplasms,289056014.0,188077000,289056014.0,B3279,B327900,Malignant melanoma of great toe
+Malignant neoplasms,289057017.0,188067002,289046010.0,B327z,B327z00,Malignant melanoma of lower limb or hip NOS
+Malignant neoplasms,289060012.0,93655004,155060012.0,B32y,B32y.00,Malignant melanoma of other specified skin site
+Malignant neoplasms,173816012.0,109267002,173816012.0,B32y0,B32y000,Overlapping malignant melanoma of skin
+Malignant neoplasms,289063014.0,93655004,155060012.0,B32z,B32z.00,Malignant melanoma of skin NOS
+Malignant neoplasms,403754010.0,2092003,4601016.0,BBE1,BBE1.00,[M]Malignant melanoma NOS
+Malignant neoplasms,312251000006118.0,2092003,4601016.0,BBE1-1,BBE1.11,[M]Melanocarcinoma
+Malignant neoplasms,312281000006114.0,115223002,1784646013.0,BBE1-2,BBE1.12,[M]Melanoma NOS
+Malignant neoplasms,312291000006112.0,2092003,4601016.0,BBE1-3,BBE1.13,[M]Melanosarcoma NOS
+Malignant neoplasms,1229572014.0,39896009,1229573016.0,BBE10,BBE1000,"[M]Malignant melanoma, regressing"
+Malignant neoplasms,1231028010.0,51757004,1231030012.0,BBE11,BBE1100,"[M]Desmoplastic melanoma, malignant"
+Malignant neoplasms,314051000006119.0,2142002,4703012.0,BBE2,BBE2.00,[M]Nodular melanoma
+Malignant neoplasms,305741000006115.0,39274007,65865017.0,BBE4,BBE4.00,[M]Balloon cell melanoma
+Malignant neoplasms,305231000006118.0,70594002,117272014.0,BBEA,BBEA.00,[M]Amelanotic melanoma
+Malignant neoplasms,311971000006113.0,915007,199323019.0,BBEC,BBEC.00,[M]Malignant melanoma in junctional naevus
+Malignant neoplasms,1232189017.0,61217001,1232189017.0,BBEF,BBEF.00,[M]Hutchinson's melanotic freckle
+Malignant neoplasms,1230100013.0,44474009,1230099017.0,BBEG,BBEG.00,[M]Malignant melanoma in Hutchinson's melanotic freckle
+Malignant neoplasms,1221446018.0,16974005,1221445019.0,BBEG0,BBEG000,"[M]Acral lentiginous melanoma, malignant"
+Malignant neoplasms,317201000006115.0,55320002,91969014.0,BBEH,BBEH.00,[M]Superficial spreading melanoma
+Malignant neoplasms,311951000006115.0,75931002,200557018.0,BBEM,BBEM.00,[M]Malignant melanoma in giant pigmented naevus
+Malignant neoplasms,1235301017.0,88082008,1235301017.0,BBEN-1,BBEN.11,[M]Juvenila melanoma
+Malignant neoplasms,308181000006118.0,37138001,61959010.0,BBEP,BBEP.00,[M]Epithelioid cell melanoma
+Malignant neoplasms,291607010.0,68827007,114326019.0,BBEQ,BBEQ.00,[M]Spindle cell melanoma NOS
+Malignant neoplasms,316801000006119.0,40244008,1229623012.0,BBES,BBES.00,"[M]Spindle cell melanoma, type B"
+Malignant neoplasms,312851000006119.0,50813003,84682017.0,BBET,BBET.00,[M]Mixed epithelioid and spindle melanoma
+Malignant neoplasms,396171000006118.0,93225001,154247017.0,Byu40,Byu4000,[X]Malignant melanoma of other+unspecified parts of face
+Malignant neoplasms,292118014.0,93655004,155060012.0,Byu41,Byu4100,"[X]Malignant melanoma of skin, unspecified"
+Malignant neoplasms,880781000006115.0,269475001,880781000006115.0,B6-99,B6...99,Lymphatic tissue carcinoma
+Malignant neoplasms,6243051000006118.0,363353009,6243051000006118.0,^ESCTMA624305,,Malignant tumour of gallbladder
+Malignant neoplasms,1.191808100000611e+16,372063002,396111000006110.0,^ESCT1191808,,[X]Mal neoplasm/overlap les/periph nerv+autonomic nerv systm
+Malignant neoplasms,1.1919601000006116e+16,269475001,411571000006113.0,^ESCT1191960,,[X]Other malignant immunoproliferative diseases
+Malignant neoplasms,289184018.0,188188009,289184018.0,B9110-3,B911013,Choriocarcinoma
+Malignant neoplasms,3221981000006119.0,44769000,74681016.0,^ESCTCH322198,,Choriocarcinoma
+Malignant neoplasms,4416081000006119.0,128812005,207348010.0,^ESCTLE441608,,Letterer-Siwe disease
+Malignant neoplasms,1.1926011000006112e+16,269469005,729461000006119.0,^ESCT1192601,,Malig neop of connective and soft tissue trunk unspecified
+Malignant neoplasms,1.2724421000006114e+16,662481000000107,1454841000000119.0,^ESCT1272442,,Malignant neoplasm lymphatic or haematopoietic tissue NOS
+Malignant neoplasms,1.1925861000006112e+16,363346000,727361000006117.0,^ESCT1192586,,Malignant neoplasm of back NOS
+Malignant neoplasms,1.1925821000006118e+16,188361007,727171000006110.0,^ESCT1192582,,Malignant neoplasm of chest wall NOS
+Malignant neoplasms,1.1925781000006112e+16,363346000,725591000006111.0,^ESCT1192578,,Malignant neoplasm of flank NOS
+Malignant neoplasms,1.1925741000006118e+16,363484005,725291000006113.0,^ESCT1192574,,Malignant neoplasm of inguinal region NOS
+Malignant neoplasms,1.192576100000612e+16,255056009,725441000006115.0,^ESCT1192576,,Malignant neoplasm of jaw NOS
+Malignant neoplasms,1.2732731000006114e+16,578371000000102,1284231000000118.0,^ESCT1273273,,Malignant neoplasm of kidney or urinary organs NOS
+Malignant neoplasms,4750651000006115.0,188274004,2579145017.0,^ESCTMA475065,,Malignant neoplasm of lacrimal duct
+Malignant neoplasms,1.272352100000611e+16,550091000000101,1225361000000110.0,^ESCT1272352,,Malignant neoplasm of larynx NOS
+Malignant neoplasms,1.2730141000006116e+16,620441000000107,1370101000000112.0,^ESCT1273014,,Malignant neoplasm of liver and intrahepatic bile ducts NOS
+Malignant neoplasms,1.272138100000612e+16,541861000000107,1208571000000112.0,^ESCT1272138,,Malignant neoplasm of other and unspecified site NOS
+Malignant neoplasms,1.271897100000612e+16,533411000000108,1190911000000114.0,^ESCT1271897,,Malignant neoplasm of ovary and other uterine adnexa
+Malignant neoplasms,1.2732791000006112e+16,579211000000109,1285971000000114.0,^ESCT1273279,,"Malignant neoplasm of penis, part unspecified"
+Malignant neoplasms,1.192560100000611e+16,255056009,722311000006118.0,^ESCT1192560,,Malignant neoplasm of supraclavicular fossa NOS
+Malignant neoplasms,1.1925571000006116e+16,363346000,721441000006117.0,^ESCT1192557,,Malignant neoplasm of trunk NOS
+Malignant neoplasms,1.2726631000006118e+16,640541000000109,1410561000000117.0,^ESCT1272663,,Malignant neoplasm of unspecified site
+Malignant neoplasms,1.273223100000612e+16,573671000000104,1274441000000115.0,^ESCT1273223,,Malignant neoplasm of uterine adnexa NOS
+Malignant neoplasms,1.2726641000006112e+16,640551000000107,1410571000000112.0,^ESCT1272664,,Other malignant neoplasm NOS
+Malignant neoplasms,3891081000006116.0,85583005,141870011.0,^ESCTPH389108,,Phaeochromocytoma
+Malignant neoplasms,4416171000006116.0,128813000,1220819010.0,^ESCTTR441617,,True histiocytic lymphoma
+Malignant neoplasms,50949017.0,30440004,50949017.0,4M20,4M20.00,Lymphoma stage I
+Malignant neoplasms,126918018.0,76422004,126918018.0,4M21,4M21.00,Lymphoma stage II
+Malignant neoplasms,94699019.0,56944001,94699019.0,4M22,4M22.00,Lymphoma stage III
+Malignant neoplasms,110346017.0,66445009,110346017.0,4M23,4M23.00,Lymphoma stage IV
+Malignant neoplasms,721601000006117.0,363509000,482805015.0,B12,B12..00,Malignant neoplasm of small intestine and duodenum
+Malignant neoplasms,726021000006110.0,363403002,482606016.0,B120,B120.00,Malignant neoplasm of duodenum
+Malignant neoplasms,725451000006118.0,363404008,482607013.0,B121,B121.00,Malignant neoplasm of jejunum
+Malignant neoplasms,725271000006112.0,363405009,482610018.0,B122,B122.00,Malignant neoplasm of ileum
+Malignant neoplasms,288659012.0,187752007,288659012.0,B123,B123.00,Malignant neoplasm of Meckel's diverticulum
+Malignant neoplasms,723221000006112.0,363509000,482804016.0,B12y,B12y.00,Malignant neoplasm of other specified site small intestine
+Malignant neoplasms,288663017.0,363509000,482804016.0,B12z,B12z.00,Malignant neoplasm of small intestine NOS
+Malignant neoplasms,288688013.0,187767006,288688013.0,B15,B15..00,Malignant neoplasm of liver and intrahepatic bile ducts
+Malignant neoplasms,288702015.0,187767006,288688013.0,B15z,B15z.00,Malignant neoplasm of liver and intrahepatic bile ducts NOS
+Malignant neoplasms,727781000006114.0,363415003,482629012.0,B16,B16..00,Malignant neoplasm gallbladder and extrahepatic bile ducts
+Malignant neoplasms,725711000006113.0,363353009,482506012.0,B160,B160.00,Malignant neoplasm of gallbladder
+Malignant neoplasms,535221000006113.0,372140005,1210716013.0,B160-1,B160.11,Carcinoma gallbladder
+Malignant neoplasms,720451000006113.0,363415003,482629012.0,B16y,B16y.00,Malignant neoplasm other gallbladder/extrahepatic bile duct
+Malignant neoplasms,727791000006112.0,363415003,482629012.0,B16z,B16z.00,Malignant neoplasm gallbladder/extrahepatic bile ducts NOS
+Malignant neoplasms,288739019.0,187801002,288739019.0,B18,B18..00,Malignant neoplasm of retroperitoneum and peritoneum
+Malignant neoplasms,1228549016.0,363420003,1228549016.0,B180,B180.00,Malignant neoplasm of retroperitoneum
+Malignant neoplasms,288741018.0,187803004,288741018.0,B1801,B180100,Malignant neoplasm of perinephric tissue
+Malignant neoplasms,288742013.0,187804005,288742013.0,B1802,B180200,Malignant neoplasm of retrocaecal tissue
+Malignant neoplasms,288744014.0,363420003,482639018.0,B180z,B180z00,Malignant neoplasm of retroperitoneum NOS
+Malignant neoplasms,288747019.0,187808008,288747019.0,B18y,B18y.00,Malignant neoplasm of specified parts of peritoneum
+Malignant neoplasms,288749016.0,187810005,288749016.0,B18y1,B18y100,Malignant neoplasm of mesocaecum
+Malignant neoplasms,288751017.0,187811009,288751017.0,B18y2,B18y200,Malignant neoplasm of mesorectum
+Malignant neoplasms,482641017.0,363421004,482641017.0,B18y3,B18y300,Malignant neoplasm of omentum
+Malignant neoplasms,155446017.0,93947009,155446017.0,B18y4,B18y400,Malignant neoplasm of parietal peritoneum
+Malignant neoplasms,155452016.0,449377002,2901085015.0,B18y5,B18y500,Malignant neoplasm of pelvic peritoneum
+Malignant neoplasms,288754013.0,187814001,288754013.0,B18y6,B18y600,Malignant neoplasm of the pouch of Douglas
+Malignant neoplasms,482537012.0,363370001,482537012.0,B18y7,B18y700,Malignant neoplasm of mesentery
+Malignant neoplasms,288756010.0,187808008,288747019.0,B18yz,B18yz00,Malignant neoplasm of specified parts of peritoneum NOS
+Malignant neoplasms,288757018.0,187801002,288737017.0,B18z,B18z.00,Malignant neoplasm of retroperitoneum and peritoneum NOS
+Malignant neoplasms,729561000006118.0,255077007,380111011.0,B1z,B1z..00,Malig neop oth/ill-defined sites digestive tract/peritoneum
+Malignant neoplasms,288759015.0,363508008,482802017.0,B1z0,B1z0.00,"Malignant neoplasm of intestinal tract, part unspecified"
+Malignant neoplasms,288760013.0,363499005,482785010.0,B1z1,B1z1.00,Malignant neoplasm of spleen NEC
+Malignant neoplasms,288761012.0,187821001,288761012.0,B1z10,B1z1000,Angiosarcoma of spleen
+Malignant neoplasms,288762017.0,187822008,288762017.0,B1z11,B1z1100,Fibrosarcoma of spleen
+Malignant neoplasms,288763010.0,363499005,482785010.0,B1z1z,B1z1z00,Malignant neoplasm of spleen NOS
+Malignant neoplasms,720461000006110.0,255077007,380111011.0,B1zy,B1zy.00,Malignant neoplasm other spec digestive tract and peritoneum
+Malignant neoplasms,288766019.0,255077007,380111011.0,B1zz,B1zz.00,Malignant neoplasm of digestive tract and peritoneum NOS
+Malignant neoplasms,729321000006119.0,187828007,288770010.0,B20,B20..00,"Malig neop nasal cavities, middle ear and accessory sinuses"
+Malignant neoplasms,1228552012.0,363422006,1228552012.0,B200,B200.00,Malignant neoplasm of nasal cavities
+Malignant neoplasms,288771014.0,187829004,288771014.0,B2000,B200000,Malignant neoplasm of cartilage of nose
+Malignant neoplasms,288772019.0,187830009,288772019.0,B2001,B200100,Malignant neoplasm of nasal conchae
+Malignant neoplasms,721961000006111.0,363423001,482644013.0,B2002,B200200,Malignant neoplasm of septum of nose
+Malignant neoplasms,288775017.0,187831008,288775017.0,B2003,B200300,Malignant neoplasm of vestibule of nose
+Malignant neoplasms,288776016.0,363422006,482642012.0,B200z,B200z00,Malignant neoplasm of nasal cavities NOS
+Malignant neoplasms,730011000006119.0,187833006,288777013.0,B201,B201.00,"Malig neop auditory tube, middle ear and mastoid air cells"
+Malignant neoplasms,288779011.0,187834000,288779011.0,B2010,B201000,Malignant neoplasm of auditory (Eustachian) tube
+Malignant neoplasms,288784017.0,187835004,288784017.0,B2011,B201100,Malignant neoplasm of tympanic cavity
+Malignant neoplasms,288787012.0,187836003,288787012.0,B2012,B201200,Malignant neoplasm of tympanic antrum
+Malignant neoplasms,724621000006112.0,363424007,482646010.0,B2013,B201300,Malignant neoplasm of mastoid air cells
+Malignant neoplasms,730021000006110.0,187833006,288777013.0,B201z,B201z00,"Malig neop auditory tube, middle ear, mastoid air cells NOS"
+Malignant neoplasms,724641000006117.0,363425008,482648011.0,B202,B202.00,Malignant neoplasm of maxillary sinus
+Malignant neoplasms,1228553019.0,363426009,1228553019.0,B203,B203.00,Malignant neoplasm of ethmoid sinus
+Malignant neoplasms,719021000006111.0,363427000,482652011.0,B204,B204.00,Malignant neoplasm of frontal sinus
+Malignant neoplasms,721721000006119.0,363428005,482654012.0,B205,B205.00,Malignant neoplasm of sphenoidal sinus
+Malignant neoplasms,729571000006113.0,187828007,288770010.0,B20y,B20y.00,"Malig neop other site nasal cavity, middle ear and sinuses"
+Malignant neoplasms,288792014.0,363506007,482798018.0,B20z,B20z.00,Malignant neoplasm of accessory sinus NOS
+Malignant neoplasms,724791000006119.0,363429002,482656014.0,B21,B21..00,Malignant neoplasm of larynx
+Malignant neoplasms,288794010.0,187841006,288794010.0,B210,B210.00,Malignant neoplasm of glottis
+Malignant neoplasms,288797015.0,187842004,288797015.0,B211,B211.00,Malignant neoplasm of supraglottis
+Malignant neoplasms,721871000006110.0,363430007,482658010.0,B212,B212.00,Malignant neoplasm of subglottis
+Malignant neoplasms,724761000006110.0,363431006,482660012.0,B213,B213.00,Malignant neoplasm of laryngeal cartilage
+Malignant neoplasms,288799017.0,187843009,288799017.0,B2130,B213000,Malignant neoplasm of arytenoid cartilage
+Malignant neoplasms,288800018.0,187844003,288800018.0,B2131,B213100,Malignant neoplasm of cricoid cartilage
+Malignant neoplasms,288801019.0,187845002,288801019.0,B2132,B213200,Malignant neoplasm of cuneiform cartilage
+Malignant neoplasms,288802014.0,187846001,288802014.0,B2133,B213300,Malignant neoplasm of thyroid cartilage
+Malignant neoplasms,288803016.0,363431006,482660012.0,B213z,B213z00,Malignant neoplasm of laryngeal cartilage NOS
+Malignant neoplasms,451428019.0,187842004,288796012.0,B215,B215.00,Malignant neoplasm of epiglottis NOS
+Malignant neoplasms,288806012.0,363429002,482656014.0,B21y,B21y.00,"Malignant neoplasm of larynx, other specified site"
+Malignant neoplasms,288807015.0,363429002,482656014.0,B21z,B21z.00,Malignant neoplasm of larynx NOS
+Malignant neoplasms,723001000006113.0,363433009,482664015.0,B23,B23..00,Malignant neoplasm of pleura
+Malignant neoplasms,155447014.0,449067008,2901158012.0,B230,B230.00,Malignant neoplasm of parietal pleura
+Malignant neoplasms,155675017.0,449308006,2901116014.0,B231,B231.00,Malignant neoplasm of visceral pleura
+Malignant neoplasms,288839010.0,363433009,482664015.0,B23y,B23y.00,Malignant neoplasm of other specified pleura
+Malignant neoplasms,288840012.0,363433009,482664015.0,B23z,B23z.00,Malignant neoplasm of pleura NOS
+Malignant neoplasms,288841011.0,187881004,288841011.0,B24,B24..00,"Malignant neoplasm of thymus, heart and mediastinum"
+Malignant neoplasms,721271000006114.0,363434003,482666018.0,B240,B240.00,Malignant neoplasm of thymus
+Malignant neoplasms,725151000006110.0,363435002,482668017.0,B241,B241.00,Malignant neoplasm of heart
+Malignant neoplasms,726071000006111.0,363436001,482670014.0,B2410,B241000,Malignant neoplasm of endocardium
+Malignant neoplasms,724051000006110.0,363437005,482672018.0,B2412,B241200,Malignant neoplasm of myocardium
+Malignant neoplasms,155459013.0,93957005,155459013.0,B2413,B241300,Malignant neoplasm of pericardium
+Malignant neoplasms,288847010.0,363435002,482668017.0,B241z,B241z00,Malignant neoplasm of heart NOS
+Malignant neoplasms,155078019.0,449224009,2901920014.0,B242,B242.00,Malignant neoplasm of anterior mediastinum
+Malignant neoplasms,155473016.0,448670003,2901476012.0,B243,B243.00,Malignant neoplasm of posterior mediastinum
+Malignant neoplasms,724671000006113.0,363494000,482776010.0,B24X,B24X.00,"Malignant neoplasm of mediastinum, part unspecified"
+Malignant neoplasms,729521000006112.0,187881004,288841011.0,B24y,B24y.00,"Malig neop of other site of heart, thymus and mediastinum"
+Malignant neoplasms,288852017.0,187881004,288841011.0,B24z,B24z.00,"Malignant neoplasm of heart, thymus and mediastinum NOS"
+Malignant neoplasms,729601000006118.0,428100006,2691955010.0,B2z,B2z..00,Malig neop other/ill-defined sites resp/intrathoracic organs
+Malignant neoplasms,729551000006115.0,187833006,288777013.0,B2z0,B2z0.00,"Malig neop of upper respiratory tract, part unspecified"
+Malignant neoplasms,288857011.0,93986008,155490010.0,B2zy,B2zy.00,Malignant neoplasm of other site of respiratory tract
+Malignant neoplasms,288858018.0,449096009,2899758015.0,B2zz,B2zz.00,Malignant neoplasm of respiratory tract NOS
+Malignant neoplasms,729361000006113.0,302816009,444723017.0,B310,B310.00,"Malig neop of connective and soft tissue head, face and neck"
+Malignant neoplasms,1228565015.0,363439008,1228565015.0,B3100,B310000,Malignant neoplasm of soft tissue of head
+Malignant neoplasms,1228566019.0,363440005,1228566019.0,B3101,B310100,Malignant neoplasm of soft tissue of face
+Malignant neoplasms,1228567011.0,363441009,1228567011.0,B3102,B310200,Malignant neoplasm of soft tissue of neck
+Malignant neoplasms,288962013.0,187987001,288962013.0,B3103,B310300,Malignant neoplasm of cartilage of ear
+Malignant neoplasms,288963015.0,187988006,288963015.0,B3104,B310400,Malignant neoplasm of tarsus of eyelid
+Malignant neoplasms,288964014.0,187989003,288964014.0,B3105,B310500,Malignant neoplasm soft tissues of cervical spine
+Malignant neoplasms,730031000006113.0,302816009,444723017.0,B310z,B310z00,"Malig neop connective and soft tissue head, face, neck NOS"
+Malignant neoplasms,729291000006111.0,187991006,288966011.0,B311,B311.00,Malig neop connective and soft tissue upper limb/shoulder
+Malignant neoplasms,288967019.0,187992004,288967019.0,B3110,B311000,Malignant neoplasm of connective and soft tissue of shoulder
+Malignant neoplasms,288968012.0,187993009,288968012.0,B3111,B311100,"Malignant neoplasm of connective and soft tissue, upper arm"
+Malignant neoplasms,288969016.0,187994003,288969016.0,B3112,B311200,Malignant neoplasm of connective and soft tissue of fore-arm
+Malignant neoplasms,288970015.0,187995002,288970015.0,B3113,B311300,Malignant neoplasm of connective and soft tissue of hand
+Malignant neoplasms,288971016.0,187996001,288971016.0,B3114,B311400,Malignant neoplasm of connective and soft tissue of finger
+Malignant neoplasms,288972011.0,187997005,288972011.0,B3115,B311500,Malignant neoplasm of connective and soft tissue of thumb
+Malignant neoplasms,729301000006112.0,187991006,288966011.0,B311z,B311z00,Malig neop connective soft tissue upper limb/shoulder NOS
+Malignant neoplasms,729401000006115.0,187999008,288974012.0,B312,B312.00,Malig neop of connective and soft tissue of hip and leg
+Malignant neoplasms,288975013.0,188000002,288975013.0,B3120,B312000,Malignant neoplasm of connective and soft tissue of hip
+Malignant neoplasms,729451000006116.0,188001003,288976014.0,B3121,B312100,Malig neop of connective and soft tissue thigh and upper leg
+Malignant neoplasms,730251000006110.0,188002005,288977017.0,B3122,B312200,Malig neop connective and soft tissue of popliteal space
+Malignant neoplasms,729421000006113.0,188003000,288978010.0,B3123,B312300,Malig neop of connective and soft tissue of lower leg
+Malignant neoplasms,288979019.0,188004006,288979019.0,B3124,B312400,Malignant neoplasm of connective and soft tissue of foot
+Malignant neoplasms,288980016.0,188005007,288980016.0,B3125,B312500,Malignant neoplasm of connective and soft tissue of toe
+Malignant neoplasms,730241000006113.0,187999008,288974012.0,B312z,B312z00,Malig neop connective and soft tissue hip and leg NOS
+Malignant neoplasms,288985014.0,188009001,288985014.0,B313,B313.00,Malignant neoplasm of connective and soft tissue of thorax
+Malignant neoplasms,288986010.0,188010006,288986010.0,B3130,B313000,Malignant neoplasm of connective and soft tissue of axilla
+Malignant neoplasms,155209019.0,93772000,155209019.0,B3131,B313100,Malignant neoplasm of diaphragm
+Malignant neoplasms,155272012.0,93817006,155272012.0,B3132,B313200,Malignant neoplasm of great vessels
+Malignant neoplasms,728491000006116.0,188013008,288989015.0,B3133,B313300,Malig neoplasm of connective and soft tissues of thor spine
+Malignant neoplasms,729441000006118.0,363365008,482529016.0,B313z,B313z00,Malig neop of connective and soft tissue of thorax NOS
+Malignant neoplasms,288991011.0,188015001,288991011.0,B314,B314.00,Malignant neoplasm of connective and soft tissue of abdomen
+Malignant neoplasms,729381000006115.0,188016000,288992016.0,B3140,B314000,Malig neop of connective and soft tissue of abdominal wall
+Malignant neoplasms,728481000006119.0,188017009,288993014.0,B3141,B314100,Malig neoplasm of connective and soft tissues of lumb spine
+Malignant neoplasms,729371000006118.0,188015001,288991011.0,B314z,B314z00,Malig neop of connective and soft tissue of abdomen NOS
+Malignant neoplasms,288995019.0,188019007,288995019.0,B315,B315.00,Malignant neoplasm of connective and soft tissue of pelvis
+Malignant neoplasms,288999013.0,188020001,288999013.0,B3150,B315000,Malignant neoplasm of connective and soft tissue of buttock
+Malignant neoplasms,729411000006117.0,188021002,289000010.0,B3151,B315100,Malig neop of connective and soft tissue of inguinal region
+Malignant neoplasms,289001014.0,188022009,289001014.0,B3152,B315200,Malignant neoplasm of connective and soft tissue of perineum
+Malignant neoplasms,728451000006110.0,188023004,289002019.0,B3153,B315300,Malig neopl of connective and soft tissue - sacrum or coccyx
+Malignant neoplasms,729431000006111.0,363366009,482531013.0,B315z,B315z00,Malig neop of connective and soft tissue of pelvis NOS
+Malignant neoplasms,729461000006119.0,1090891000000103,2732661000000115.0,B316,B316.00,Malig neop of connective and soft tissue trunk unspecified
+Malignant neoplasms,729281000006113.0,269469005,403699012.0,B31y,B31y.00,Malig neop connective and soft tissue other specified site
+Malignant neoplasms,289007013.0,269469005,403699012.0,B31z,B31z.00,"Malignant neoplasm of connective and soft tissue, site NOS"
+Malignant neoplasms,289008015.0,188029000,289008015.0,B31z0,B31z000,Kaposi's sarcoma of soft tissue
+Malignant neoplasms,155468010.0,721567004,3325477011.0,B42,B42..00,Malignant neoplasm of placenta
+Malignant neoplasms,552661000006114.0,188188009,289184018.0,B420,B420.00,Choriocarcinoma
+Malignant neoplasms,289199018.0,428322007,2694321016.0,B44,B44..00,Malignant neoplasm of ovary and other uterine adnexa
+Malignant neoplasms,726271000006117.0,363444001,482686019.0,B441,B441.00,Malignant neoplasm of fallopian tube
+Malignant neoplasms,155155010.0,93728003,155155010.0,B442,B442.00,Malignant neoplasm of broad ligament
+Malignant neoplasms,155441010.0,448674007,2901968015.0,B443,B443.00,Malignant neoplasm of parametrium
+Malignant neoplasms,289203018.0,428322007,2694321016.0,B44y,B44y.00,Malignant neoplasm of other site of uterine adnexa
+Malignant neoplasms,289204012.0,428322007,2694321016.0,B44z,B44z.00,Malignant neoplasm of uterine adnexa NOS
+Malignant neoplasms,729491000006110.0,363514001,482815014.0,B45,B45..00,Malig neop of other and unspecified female genital organs
+Malignant neoplasms,721051000006113.0,363445000,482688018.0,B450,B450.00,Malignant neoplasm of vagina
+Malignant neoplasms,289207017.0,188209005,289207017.0,B4501,B450100,Malignant neoplasm of vaginal vault
+Malignant neoplasms,289208010.0,363445000,482688018.0,B450z,B450z00,Malignant neoplasm of vagina NOS
+Malignant neoplasms,482690017.0,363446004,482690017.0,B451,B451.00,Malignant neoplasm of labia majora
+Malignant neoplasms,289209019.0,188211001,289209019.0,B4510,B451000,Malignant neoplasm of greater vestibular (Bartholin's) gland
+Malignant neoplasms,289210012.0,363446004,482690017.0,B451z,B451z00,Malignant neoplasm of labia majora NOS
+Malignant neoplasms,482691018.0,363447008,482691018.0,B452,B452.00,Malignant neoplasm of labia minora
+Malignant neoplasms,1210566016.0,371979001,1210566016.0,B453,B453.00,Malignant neoplasm of clitoris
+Malignant neoplasms,403701012.0,363367000,482534017.0,B454,B454.00,Malignant neoplasm of vulva unspecified
+Malignant neoplasms,411399019.0,275419009,411399019.0,B454-1,B454.11,Primary vulval cancer
+Malignant neoplasms,720041000006117.0,109878000,174564019.0,B45X,B45X.00,Malignant neoplasm/overlapping lesion/feml genital organs
+Malignant neoplasms,289217010.0,363514001,482815014.0,B45y,B45y.00,Malignant neoplasm of other specified female genital organ
+Malignant neoplasms,289219013.0,363514001,482815014.0,B45z,B45z.00,Malignant neoplasm of female genital organ NOS
+Malignant neoplasms,1228575017.0,363450006,1228575017.0,B480,B480.00,Malignant neoplasm of prepuce (foreskin)
+Malignant neoplasms,725771000006116.0,363451005,482698012.0,B481,B481.00,Malignant neoplasm of glans penis
+Malignant neoplasms,289246015.0,188230001,289246015.0,B482,B482.00,Malignant neoplasm of body of penis
+Malignant neoplasms,289249010.0,363516004,482819015.0,B483,B483.00,"Malignant neoplasm of penis, part unspecified"
+Malignant neoplasms,726141000006116.0,363452003,482700015.0,B484,B484.00,Malignant neoplasm of epididymis
+Malignant neoplasms,721701000006112.0,363453008,482702011.0,B485,B485.00,Malignant neoplasm of spermatic cord
+Malignant neoplasms,723111000006110.0,363454002,482704012.0,B486,B486.00,Malignant neoplasm of scrotum
+Malignant neoplasms,289251014.0,363515000,482817018.0,B48y,B48y.00,Malignant neoplasm of other male genital organ
+Malignant neoplasms,289252019.0,188234005,289252019.0,B48y0,B48y000,Malignant neoplasm of seminal vesicle
+Malignant neoplasms,289257013.0,188235006,289257013.0,B48y1,B48y100,Malignant neoplasm of tunica vaginalis
+Malignant neoplasms,720591000006115.0,109874003,1219539010.0,B48y2,B48y200,"Malignant neoplasm, overlapping lesion male genital orgs"
+Malignant neoplasms,289259011.0,363515000,482817018.0,B48yz,B48yz00,Malignant neoplasm of other male genital organ NOS
+Malignant neoplasms,289260018.0,363515000,482817018.0,B48z,B48z.00,Malignant neoplasm of penis and other male genital organ NOS
+Malignant neoplasms,729481000006112.0,419052002,2577717014.0,B4A,B4A..00,Malig neop of kidney and other unspecified urinary organs
+Malignant neoplasms,720991000006113.0,363459007,482714015.0,B4A3,B4A3.00,Malignant neoplasm of urethra
+Malignant neoplasms,723451000006119.0,363460002,1228591019.0,B4A4,B4A4.00,Malignant neoplasm of paraurethral glands
+Malignant neoplasms,289297011.0,419052002,2577717014.0,B4Ay,B4Ay.00,Malignant neoplasm of other urinary organs
+Malignant neoplasms,289299014.0,419052002,2577717014.0,B4Az,B4Az.00,Malignant neoplasm of kidney or urinary organs NOS
+Malignant neoplasms,406265010.0,363346000,1208875016.0,B5,B5...00,Malignant neoplasm of other and unspecified sites
+Malignant neoplasms,380211016.0,363346000,1228478017.0,B5-1,B5...11,Carcinoma of other and unspecified sites
+Malignant neoplasms,1208876015.0,363461003,1208876015.0,B50,B50..00,Malignant neoplasm of eye
+Malignant neoplasms,729311000006110.0,188261005,289305011.0,B500,B500.00,"Malig neop eyeball excl conjunctiva, cornea, retina, choroid"
+Malignant neoplasms,289308013.0,188263008,289308013.0,B5000,B500000,Malignant neoplasm of ciliary body
+Malignant neoplasms,289311014.0,188264002,289311014.0,B5001,B500100,Malignant neoplasm of iris
+Malignant neoplasms,289314018.0,188265001,289314018.0,B5002,B500200,Malignant neoplasm of crystalline lens
+Malignant neoplasms,289316016.0,188261005,289305011.0,B500z,B500z00,Malignant neoplasm of eyeball NOS
+Malignant neoplasms,723541000006115.0,363462005,482720019.0,B501,B501.00,Malignant neoplasm of orbit
+Malignant neoplasms,289317013.0,188268004,289317013.0,B5010,B501000,Malignant neoplasm of connective tissue of orbit
+Malignant neoplasms,289319011.0,363462005,482720019.0,B501z,B501z00,Malignant neoplasm of orbit NOS
+Malignant neoplasms,726371000006114.0,363463000,482722010.0,B503,B503.00,Malignant neoplasm of conjunctiva
+Malignant neoplasms,726561000006114.0,363464006,482724011.0,B504,B504.00,Malignant neoplasm of cornea
+Malignant neoplasms,722521000006116.0,363465007,482726013.0,B505,B505.00,Malignant neoplasm of retina
+Malignant neoplasms,727181000006113.0,363466008,482728014.0,B506,B506.00,Malignant neoplasm of choroid
+Malignant neoplasms,724721000006116.0,188272000,289322013.0,B507,B507.00,Malignant neoplasm of lacrimal duct
+Malignant neoplasms,289325010.0,188273005,289325010.0,B5070,B507000,Malignant neoplasm of lacrimal sac
+Malignant neoplasms,289326011.0,188274004,289326011.0,B5071,B507100,Malignant neoplasm of nasolacrimal duct
+Malignant neoplasms,289329016.0,363461003,1208876015.0,B50y,B50y.00,Malignant neoplasm of other specified site of eye
+Malignant neoplasms,289330014.0,363461003,1208876015.0,B50z,B50z.00,Malignant neoplasm of eye NOS
+Malignant neoplasms,729501000006119.0,372063002,1210641014.0,B52,B52..00,Malig neop of other and unspecified parts of nervous system
+Malignant neoplasms,728461000006112.0,188321006,289384012.0,B524,B524.00,Malig neopl peripheral nerves and autonomic nervous system
+Malignant neoplasms,722911000006119.0,188322004,289385013.0,B5240,B524000,"Malignant neoplasm of peripheral nerves of head, face & neck"
+Malignant neoplasms,722901000006117.0,188323009,289386014.0,B5241,B524100,"Malignant neoplasm of peripheral nerve,upp limb,incl should"
+Malignant neoplasms,722871000006117.0,188324003,289387017.0,B5242,B524200,"Malignant neoplasm of peripheral nerve of low limb, incl hip"
+Malignant neoplasms,289388010.0,188325002,289388010.0,B5243,B524300,Malignant neoplasm of peripheral nerve of thorax
+Malignant neoplasms,289389019.0,188326001,289389019.0,B5244,B524400,Malignant neoplasm of peripheral nerve of abdomen
+Malignant neoplasms,289390011.0,188327005,289390011.0,B5245,B524500,Malignant neoplasm of peripheral nerve of pelvis
+Malignant neoplasms,720001000006119.0,109919002,1219543014.0,B5246,B524600,"Malignant neoplasm,overlap lesion periph nerve & auton ns"
+Malignant neoplasms,730491000006117.0,188321006,289384012.0,B524W,B524W00,"Mal neoplasm/periph nerves+autonomic nervous system,unspc"
+Malignant neoplasms,289396017.0,372063002,1210641014.0,B52y,B52y.00,Malignant neoplasm of other specified part of nervous system
+Malignant neoplasms,289397014.0,372063002,1210641014.0,B52z,B52z.00,Malignant neoplasm of nervous system NOS
+Malignant neoplasms,155072018.0,363355002,482509017.0,B540,B540.00,Malignant neoplasm of adrenal gland
+Malignant neoplasms,444773019.0,302835009,444773019.0,B540-1,B540.11,Phaeochromocytoma
+Malignant neoplasms,1210553016.0,371964008,1210553016.0,B5400,B540000,Malignant neoplasm of adrenal cortex
+Malignant neoplasms,1210554010.0,371965009,1210554010.0,B5401,B540100,Malignant neoplasm of adrenal medulla
+Malignant neoplasms,289406011.0,363355002,482510010.0,B540z,B540z00,Malignant neoplasm of adrenal gland NOS
+Malignant neoplasms,723441000006116.0,363481002,482748019.0,B541,B541.00,Malignant neoplasm of parathyroid gland
+Malignant neoplasms,720011000006116.0,1090931000000108,2732741000000112.0,B54X,B54X.00,"Malignant neoplasm-pluriglandular involvement,unspecified"
+Malignant neoplasms,289421017.0,371982006,1210569011.0,B54y,B54y.00,Malignant neoplasm of other specified endocrine gland
+Malignant neoplasms,729471000006114.0,371982006,1210569011.0,B54z,B54z.00,Malig neop of endocrine gland or related structure NOS
+Malignant neoplasms,289424013.0,188353002,289424013.0,B550,B550.00,"Malignant neoplasm of head, neck and face"
+Malignant neoplasms,289425014.0,255056009,380072014.0,B5500,B550000,Malignant neoplasm of head NOS
+Malignant neoplasms,289426010.0,447949005,2900962011.0,B5501,B550100,Malignant neoplasm of cheek NOS
+Malignant neoplasms,289427018.0,1090251000000105,2731361000000116.0,B5502,B550200,Malignant neoplasm of nose NOS
+Malignant neoplasms,289428011.0,1090921000000106,2732721000000117.0,B5503,B550300,Malignant neoplasm of jaw NOS
+Malignant neoplasms,289429015.0,363489000,482765011.0,B5504,B550400,Malignant neoplasm of neck NOS
+Malignant neoplasms,289430013.0,1090951000000101,2732781000000116.0,B5505,B550500,Malignant neoplasm of supraclavicular fossa NOS
+Malignant neoplasms,289431012.0,188353002,289424013.0,B550z,B550z00,"Malignant neoplasm of head, neck and face NOS"
+Malignant neoplasms,289432017.0,188361007,289432017.0,B551,B551.00,Malignant neoplasm of thorax
+Malignant neoplasms,289435015.0,363502009,482790013.0,B5510,B551000,Malignant neoplasm of axilla NOS
+Malignant neoplasms,289436019.0,712750007,3285316016.0,B5511,B551100,Malignant neoplasm of chest wall NOS
+Malignant neoplasms,289437011.0,428100006,2691955010.0,B5512,B551200,Malignant neoplasm of intrathoracic site NOS
+Malignant neoplasms,289438018.0,188361007,289432017.0,B551z,B551z00,Malignant neoplasm of thorax NOS
+Malignant neoplasms,289441010.0,188366002,289441010.0,B552,B552.00,Malignant neoplasm of abdomen
+Malignant neoplasms,722761000006119.0,363484005,482755017.0,B553,B553.00,Malignant neoplasm of pelvis
+Malignant neoplasms,289442015.0,1090941000000104,2732761000000113.0,B5530,B553000,Malignant neoplasm of inguinal region NOS
+Malignant neoplasms,155477015.0,93973004,155477015.0,B5531,B553100,Malignant neoplasm of presacral region
+Malignant neoplasms,155501015.0,93995000,155501015.0,B5532,B553200,Malignant neoplasm of sacrococcygeal region
+Malignant neoplasms,289445018.0,363484005,482755017.0,B553z,B553z00,Malignant neoplasm of pelvis NOS
+Malignant neoplasms,289446017.0,363503004,482792017.0,B554,B554.00,Malignant neoplasm of upper limb NOS
+Malignant neoplasms,289447014.0,363504005,482794016.0,B555,B555.00,Malignant neoplasm of lower limb NOS
+Malignant neoplasms,289448016.0,363346000,482491013.0,B55y,B55y.00,Malignant neoplasm of other specified sites
+Malignant neoplasms,289449012.0,1090321000000107,2731501000000112.0,B55y0,B55y000,Malignant neoplasm of back NOS
+Malignant neoplasms,289450012.0,1090311000000101,2731481000000115.0,B55y1,B55y100,Malignant neoplasm of trunk NOS
+Malignant neoplasms,289451011.0,1090301000000103,2731461000000112.0,B55y2,B55y200,Malignant neoplasm of flank NOS
+Malignant neoplasms,289452016.0,363346000,482491013.0,B55yz,B55yz00,Malignant neoplasm of specified site NOS
+Malignant neoplasms,723601000006116.0,302817000,444727016.0,B55z,B55z.00,Malignant neoplasm of other and ill defined site NOS
+Malignant neoplasms,289561018.0,302817000,444727016.0,B59,B59..00,Malignant neoplasm of unspecified site
+Malignant neoplasms,289565010.0,363346000,1228480011.0,B591,B591.00,Other malignant neoplasm NOS
+Malignant neoplasms,755631000006110.0,109392002,173951015.0,B592X,B592X00,Kaposi's sarcoma of multiple organs
+Malignant neoplasms,454091013.0,310504009,454091013.0,B593,B593.00,Primary malignant neoplasm of unknown site
+Malignant neoplasms,380059013.0,255052006,380059013.0,B595,B595.00,Malignant tumour of unknown origin
+Malignant neoplasms,289571016.0,363346000,482491013.0,B59z,B59z.00,Malignant neoplasm of unspecified site NOS
+Malignant neoplasms,755671000006113.0,109385007,202818010.0,B59zX,B59zX00,"Kaposi's sarcoma, unspecified"
+Malignant neoplasms,723641000006119.0,363346000,482491013.0,B5y,B5y..00,Malignant neoplasm of other and unspecified site OS
+Malignant neoplasms,289574012.0,363346000,1208875016.0,B5z,B5z..00,Malignant neoplasm of other and unspecified site NOS
+Malignant neoplasms,728571000006118.0,188640007,289751010.0,B6231,B623100,"Malignant histiocytosis of lymph nodes head, face and neck"
+Malignant neoplasms,154183017.0,93182006,154183017.0,B6233,B623300,Malignant histiocytosis of intra-abdominal lymph nodes
+Malignant neoplasms,745971000006116.0,118614007,177033017.0,B625,B625.00,Letterer-Siwe disease
+Malignant neoplasms,289776011.0,118614007,177033017.0,B6250,B625000,Letterer-Siwe disease of unspecified sites
+Malignant neoplasms,154082012.0,93135004,154082012.0,B6252,B625200,Letterer-Siwe disease of intrathoracic lymph nodes
+Malignant neoplasms,154089015.0,93139005,154089015.0,B6258,B625800,Letterer-Siwe disease of lymph nodes of multiple sites
+Malignant neoplasms,289780018.0,118614007,177033017.0,B625z,B625z00,Letterer-Siwe disease NOS
+Malignant neoplasms,289781019.0,188660004,289781019.0,B626,B626.00,Malignant mast cell tumours
+Malignant neoplasms,289783016.0,397009000,1776745013.0,B6260,B626000,Mast cell malignancy of unspecified site
+Malignant neoplasms,716911000006110.0,188666005,289788013.0,B6265,B626500,Mast cell malignancy of lymph nodes inguinal region and leg
+Malignant neoplasms,289791013.0,188669003,289791013.0,B6268,B626800,Mast cell malignancy of lymph nodes of multiple sites
+Malignant neoplasms,289793011.0,118615008,177034011.0,B626z,B626z00,Malignant mast cell tumour NOS
+Malignant neoplasms,289826016.0,188691005,289826016.0,B62x5,B62x500,Malignant immunoproliferative small intestinal disease
+Malignant neoplasms,344806015.0,109988003,344806015.0,B62x6,B62x600,True histiocytic lymphoma
+Malignant neoplasms,403710016.0,269475001,403706019.0,B62zz,B62zz00,Lymphoid and histiocytic malignancy NOS
+Malignant neoplasms,727811000006111.0,269475001,403705015.0,B6y,B6y..00,Malignant neoplasm lymphatic or haematopoietic tissue OS
+Malignant neoplasms,289987014.0,269475001,403705015.0,B6z,B6z..00,Malignant neoplasm lymphatic or haematopoietic tissue NOS
+Malignant neoplasms,173950019.0,109391009,173950019.0,B6z0,B6z0.00,Kaposi's sarcoma of lymph nodes
+Malignant neoplasms,304661000006114.0,25190001,1224772013.0,BB57,BB57.00,"[M]Adenocarcinoma, intestinal type"
+Malignant neoplasms,305011000006117.0,2227007,4846017.0,BB5h1,BB5h100,[M]Adrenal cortical carcinoma
+Malignant neoplasms,309741000006117.0,39000009,491878017.0,BBT1,BBT1.00,[M]Haemangiosarcoma
+Malignant neoplasms,309641000006111.0,33176006,1216413014.0,BBT71,BBT7100,"[M]Haemangioendothelioma, malignant"
+Malignant neoplasms,305081000006112.0,76060004,1788158015.0,BBcC,BBcC.00,[M]Aesthesioneuroblastoma
+Malignant neoplasms,314231000006116.0,76060004,126335013.0,BBcC-1,BBcC.11,[M]Olfactory neuroblastoma
+Malignant neoplasms,314241000006114.0,68614005,501064013.0,BBcD-1,BBcD.11,[M]Olfactory neuroepithelioma
+Malignant neoplasms,1220820016.0,128813000,1220820016.0,BBm4,BBm4.00,[M]True histiocytic lymphoma
+Malignant neoplasms,292102015.0,363508008,482802017.0,Byu12,Byu1200,"[X]Malignant neoplasm of intestinal tract, part unspecified"
+Malignant neoplasms,396651000006117.0,428905002,2693067015.0,Byu13,Byu1300,[X]Malignant neoplsm/ill-defin sites within digestive system
+Malignant neoplasms,396511000006119.0,449096009,2899758015.0,Byu24,Byu2400,[X]Malignant neoplasm/ill-defined sites within resp system
+Malignant neoplasms,292110019.0,363494000,482776010.0,Byu25,Byu2500,"[X]Malignant neoplasm of mediastinum, part unspecified"
+Malignant neoplasms,292116013.0,372130007,1210707014.0,Byu4,Byu4.00,[X]Melanoma and other malignant neoplasms of skin
+Malignant neoplasms,292128017.0,109385007,202818010.0,Byu53,Byu5300,"[X]Kaposi's sarcoma, unspecified"
+Malignant neoplasms,396601000006116.0,1090901000000102,2732681000000112.0,Byu54,Byu5400,"[X]Malignant neoplasm/peripheral nerves of trunk,unspecified"
+Malignant neoplasms,396111000006110.0,109919002,174612018.0,Byu55,Byu5500,[X]Mal neoplasm/overlap les/periph nerv+autonomic nerv systm
+Malignant neoplasms,292132011.0,363492001,482771017.0,Byu57,Byu5700,"[X]Malignant neoplasm of peritoneum, unspecified"
+Malignant neoplasms,396091000006118.0,269469005,403699012.0,Byu58,Byu5800,"[X]Mal neoplasm/connective+soft tissue of trunk,unspecified"
+Malignant neoplasms,396501000006117.0,269469005,403699012.0,Byu59,Byu5900,"[X]Malignant neoplasm/connective + soft tissue,unspecified"
+Malignant neoplasms,292136014.0,109385007,202818010.0,Byu5B,Byu5B00,[X]Kaposi's sarcoma of other sites
+Malignant neoplasms,292139019.0,428322007,2694321016.0,Byu70,Byu7000,"[X]Malignant neoplasm of uterine adnexa, unspecified"
+Malignant neoplasms,396531000006113.0,363514001,482815014.0,Byu71,Byu7100,[X]Malignant neoplasm/other specified female genital organs
+Malignant neoplasms,292142013.0,363514001,482815014.0,Byu73,Byu7300,"[X]Malignant neoplasm of female genital organ, unspecified"
+Malignant neoplasms,396541000006115.0,363515000,482817018.0,Byu80,Byu8000,[X]Malignant neoplasm/other specified male genital organs
+Malignant neoplasms,292146011.0,363515000,482817018.0,Byu82,Byu8200,"[X]Malignant neoplasm of male genital organ, unspecified"
+Malignant neoplasms,292148012.0,448233000,2899410013.0,Byu90,Byu9000,"[X]Malignant neoplasm of urinary organ, unspecified"
+Malignant neoplasms,292154013.0,371982006,1210569011.0,ByuB,ByuB.00,[X]Malignant neoplasm of thyroid and other endocrine glands
+Malignant neoplasms,292156010.0,371982006,1210569011.0,ByuB1,ByuB100,"[X]Malignant neoplasm of endocrine gland, unspecified"
+Malignant neoplasms,396281000006111.0,363346000,482491013.0,ByuC,ByuC.00,"[X]Malignant neoplasm of ill-defined, secondary and unspeci"
+Malignant neoplasms,292158011.0,363346000,1208875016.0,ByuC0,ByuC000,[X]Malignant neoplasm of other specified sites
+Malignant neoplasms,396571000006111.0,109358000,173910017.0,ByuC1,ByuC100,[X]Malignant neoplasm/overlap lesion/other+ill-defined sites
+Malignant neoplasms,359281000006113.0,94442001,156461011.0,ByuC6,ByuC600,[X]2ndry malignant neoplasm/oth+unspec parts/nervous system
+Malignant neoplasms,292166019.0,302817000,444727016.0,ByuC8,ByuC800,[X]Malignant neoplasm without specification of site
+Malignant neoplasms,292175017.0,109980005,174676012.0,ByuD4,ByuD400,[X]Other malignant immunoproliferative diseases
+Malignant neoplasms,405081000006118.0,269475001,403705015.0,ByuDA,ByuDA00,"[X]Oth spcf mal neoplsm/lymphoid,haematopoietic+rltd tissue"
+Malignant neoplasms,396101000006112.0,269475001,403706019.0,ByuDB,ByuDB00,"[X]Mal neoplasm/lymphoid,haematopoietic+related tissu,unspcf"
+Malignant neoplasms,815441000006111.0,39795003,67100012.0,C37y0,C37y000,Hand - Schuller - Christian disease
+Malignant neoplasms,474703011.0,129000002,474703011.0,C37y1,C37y100,Eosinophilic granuloma
+Malignant neoplasms,824251000006116.0,190955000,293616019.0,C37y5,C37y500,"Histiocytosis X , chronic"
+Malignant neoplasms,293617011.0,65399007,108660017.0,C37y6,C37y600,"Histiocytosis X , unspecified"
+Malignant neoplasms,723281000006111.0,363443007,482684016.0,B440,B440.00,Malignant neoplasm of ovary
+Malignant neoplasms,1228570010.0,363443007,1228570010.0,B440-1,B440.11,Cancer of ovary
+Malignant neoplasms,307971000006119.0,30289006,50697019.0,BB5j2,BB5j200,[M]Endometrioid carcinoma
+Malignant neoplasms,307921000006115.0,18105004,1221668019.0,BB5j5,BB5j500,"[M]Endometrioid adenofibroma, malignant"
+Malignant neoplasms,317041000006111.0,18854008,1222203017.0,BBQA1,BBQA100,"[M]Struma ovarii, malignant"
+Malignant neoplasms,451077018.0,307726001,451077018.0,D2120,D212000,Anaemia in ovarian carcinoma
+Malignant neoplasms,880461000006118.0,399326009,880461000006118.0,B49-99,B49..99,Carcinoma bladder
+Malignant neoplasms,6620961000006112.0,399326009,1773307015.0,^ESCTMA662096,,Malignant tumour of urinary bladder
+Malignant neoplasms,1803771000006112.0,314968009,1803771000006112.0,EMISNQLO12,,Local recurrence of malignant tumour of urinary bladder
+Malignant neoplasms,1786811017.0,399326009,1786811017.0,B49,B49..00,Malignant neoplasm of urinary bladder
+Malignant neoplasms,289262014.0,188239000,289262014.0,B490,B490.00,Malignant neoplasm of trigone of urinary bladder
+Malignant neoplasms,289267015.0,188240003,289267015.0,B491,B491.00,Malignant neoplasm of dome of urinary bladder
+Malignant neoplasms,289270016.0,188241004,289270016.0,B492,B492.00,Malignant neoplasm of lateral wall of urinary bladder
+Malignant neoplasms,289271017.0,188242006,289271017.0,B493,B493.00,Malignant neoplasm of anterior wall of urinary bladder
+Malignant neoplasms,289272012.0,188243001,289272012.0,B494,B494.00,Malignant neoplasm of posterior wall of urinary bladder
+Malignant neoplasms,289275014.0,188244007,289275014.0,B495,B495.00,Malignant neoplasm of bladder neck
+Malignant neoplasms,289276010.0,188245008,289276010.0,B496,B496.00,Malignant neoplasm of ureteric orifice
+Malignant neoplasms,720951000006119.0,363456000,482708010.0,B497,B497.00,Malignant neoplasm of urachus
+Malignant neoplasms,459399016.0,314968009,459399016.0,B498,B498.00,Local recurrence of malignant tumour of urinary bladder
+Malignant neoplasms,289279015.0,399326009,1773307015.0,B49y,B49y.00,Malignant neoplasm of other site of urinary bladder
+Malignant neoplasms,289281018.0,399326009,1786811017.0,B49z,B49z.00,Malignant neoplasm of urinary bladder NOS
+Malignant neoplasms,511747013.0,94989005,511747013.0,B9000,B900000,Neoplasm of uncertain behaviour of parotid gland
+Malignant neoplasms,511765012.0,95001001,511765012.0,B901-2,B901.12,Neoplasm of uncertain behaviour of pharynx
+Malignant neoplasms,4047901000006111.0,94959003,157413012.0,^ESCTNE404790,,Neoplasm of uncertain behavior of nasopharyngeal wall
+Malignant neoplasms,5344791000006116.0,254463006,378852011.0,^ESCTMI534479,,Mixed parotid tumor
+Malignant neoplasms,4756391000006115.0,189371000,2475176014.0,^ESCTNE475639,,Neoplasm of uncertain behavior of gum
+Malignant neoplasms,4756371000006116.0,189371000,290935016.0,^ESCTNE475637,,Neoplasm of uncertain behavior of gums
+Malignant neoplasms,680011000006118.0,271326004,406055012.0,B901,B901.00,"Neop of uncertain behaviour of lip, oral cavity and pharynx"
+Malignant neoplasms,4048811000006119.0,95001001,157467018.0,^ESCTNE404881,,Neoplasm of uncertain behavior of pharynx
+Malignant neoplasms,4756381000006118.0,189371000,2474971013.0,^ESCTNE475638,,Neoplasm of uncertain behaviour of gum
+Malignant neoplasms,4045751000006116.0,94851001,511570015.0,^ESCTNE404575,,Neoplasm of uncertain behaviour of gastrointestinal tract
+Malignant neoplasms,4048551000006119.0,94989005,157452017.0,^ESCTNE404855,,Neoplasm of uncertain behavior of parotid gland
+Malignant neoplasms,4309941000006111.0,118616009,4309941000006111.0,^ESCTNE430994,,Neoplastic disease of uncertain behaviour
+Malignant neoplasms,4756341000006112.0,189365006,2474970014.0,^ESCTNE475634,,Neoplasm of uncertain behaviour of submaxillary gland
+Malignant neoplasms,4048271000006113.5,94975000,157434017.0,^ESCTNE404827,,Neoplasm of uncertain behavior of palate
+Malignant neoplasms,4045561000006111.0,94842009,157255018.0,^ESCTNE404556,,Neoplasm of uncertain behavior of floor of mouth
+Malignant neoplasms,4048231000006111.0,94973007,157431013.0,^ESCTNE404823,,Neoplasm of uncertain behavior of oropharynx
+Malignant neoplasms,4047911000006113.5,94959003,511707018.0,^ESCTNE404791,,Neoplasm of uncertain behaviour of nasopharyngeal wall
+Malignant neoplasms,4051651000006111.0,95141008,157630016.0,^ESCTNE405165,,Neoplasm of uncertain behavior of tongue
+Malignant neoplasms,4051131000006111.0,95116001,157600012.0,^ESCTNE405113,,Neoplasm of uncertain behavior of sublingual gland
+Malignant neoplasms,4047411000006117.0,94936009,157382012.0,^ESCTNE404741,,Neoplasm of uncertain behavior of minor salivary gland
+Malignant neoplasms,4046901000006113.5,94909007,157344016.0,^ESCTNE404690,,Neoplasm of uncertain behavior of lip
+Malignant neoplasms,5523461000006115.0,271326004,3084113014.0,^ESCTNE552346,,"Neoplasm of uncertain behavior of lip, oral cavity and/or pharynx"
+Malignant neoplasms,5523451000006117.0,271326004,406056013.0,^ESCTNE552345,,"Neoplasm of uncertain behavior of lip, oral cavity and pharynx"
+Malignant neoplasms,4756331000006119.0,189365006,290917013.0,^ESCTNE475633,,Neoplasm of uncertain behavior of submandibular gland
+Malignant neoplasms,680041000006119.0,118616009,177035012.0,B907z,B907z00,"Neop of uncertain behaviour of trachea, bronchus or lung NOS"
+Malignant neoplasms,680091000006111.0,118616009,177035012.0,B902z,B902z00,"Neop of uncertain behaviour stomach, intestine or rectum NOS"
+Malignant neoplasms,511939016.0,95141008,511939016.0,B9011,B901100,Neoplasm of uncertain behaviour of tongue
+Malignant neoplasms,290907015.0,189362009,290907015.0,B900,B900.00,Neoplasm of uncertain behaviour of major salivary glands
+Malignant neoplasms,4044471000006115.0,94793009,157189012.0,^ESCTNE404447,,Neoplasm of uncertain behavior of cheek
+Malignant neoplasms,4046141000006113.5,94871005,157294017.0,^ESCTNE404614,,Neoplasm of uncertain behavior of hypopharynx
+Malignant neoplasms,290916016.0,189365006,290916016.0,B9002,B900200,Neoplasm of uncertain behaviour of submandibular gland
+Malignant neoplasms,290934017.0,189371000,290934017.0,B9013,B901300,Neoplasm of uncertain behaviour of gums
+Malignant neoplasms,378851016.0,254463006,378851016.0,B9000-1,B900011,Mixed parotid tumour
+Malignant neoplasms,511557012.0,94842009,511557012.0,B9014,B901400,Neoplasm of uncertain behaviour of floor of mouth
+Malignant neoplasms,511640017.0,94909007,511640017.0,B9010,B901000,Neoplasm of uncertain behaviour of lip
+Malignant neoplasms,511680014.0,94936009,511680014.0,B9012,B901200,Neoplasm of uncertain behaviour of minor salivary gland
+Malignant neoplasms,511727017.0,94973007,511727017.0,B9018,B901800,Neoplasm of uncertain behaviour of oropharynx
+Malignant neoplasms,511729019.0,94975000,511729019.0,B9016,B901600,Neoplasm of uncertain behaviour of palate
+Malignant neoplasms,290919011.0,189362009,2469009012.0,B900z,B900z00,Neoplasm of uncertain behaviour of major salivary gland NOS
+Malignant neoplasms,511491014.0,94793009,511491014.0,B9015,B901500,Neoplasm of uncertain behaviour of cheek
+Malignant neoplasms,511708011.0,94959003,511708011.0,B9017,B901700,Neoplasm of uncertain behaviour of nasopharynx
+Malignant neoplasms,380084011.0,255062004,380084011.0,B901-1,B901.11,Neoplasm of uncertain behaviour of oral cavity
+Malignant neoplasms,4047891000006112.0,94959003,157410010.0,^ESCTNE404789,,Neoplasm of uncertain behavior of nasopharynx
+Malignant neoplasms,4756311000006113.0,189362009,2469433011.0,^ESCTNE475631,,Neoplasm of uncertain behavior of major salivary gland
+Malignant neoplasms,511594015.0,94871005,511594015.0,B9019,B901900,Neoplasm of uncertain behaviour of hypopharynx
+Malignant neoplasms,511904016.0,95116001,511904016.0,B9001,B900100,Neoplasm of uncertain behaviour of sublingual gland
+Malignant neoplasms,679981000006112.0,271326004,406055012.0,B901z,B901z00,"Neop of uncertain behaviour lip, oral cavity and pharynx NOS"
+Malignant neoplasms,5355521000006113.0,255062004,380083017.0,^ESCTNE535552,,Neoplasm of uncertain behavior of oral cavity
+Malignant neoplasms,4756351000006114.0,189365006,2475175013.0,^ESCTNE475635,,Neoplasm of uncertain behavior of submaxillary gland
+Malignant neoplasms,799181000006112.0,126824007,473860014.0,B11-1,B11..11,Gastric neoplasm
+Malignant neoplasms,4388411000006112.0,126824007,473861013.0,^ESCTTU438841,,Tumor of stomach
+Malignant neoplasms,6632431000006114.0,399967006,1774765015.0,^ESCTNE663243,,Neoplasm of uncertain behavior of stomach
+Malignant neoplasms,1773479017.0,399967006,1773479017.0,B9020,B902000,Neoplasm of uncertain behaviour of stomach
+Malignant neoplasms,4388391000006112.0,126824007,112013.0,^ESCTNE438839,,Neoplasm of stomach
+Malignant neoplasms,4046161000006113.0,94872003,157296015.0,^ESCTNE404616,,Neoplasm of uncertain behavior of ileum
+Malignant neoplasms,4046461000006117.0,94886004,157316017.0,^ESCTNE404646,,Neoplasm of uncertain behavior of jejunum
+Malignant neoplasms,4044961000006117.0,94815008,157218018.0,^ESCTNE404496,,Neoplasm of uncertain behavior of duodenum
+Malignant neoplasms,511595019.0,94872003,511595019.0,B9023,B902300,Neoplasm of uncertain behaviour of ileum
+Malignant neoplasms,511612010.0,94886004,511612010.0,B9022,B902200,Neoplasm of uncertain behaviour of jejunum
+Malignant neoplasms,511520018.0,94815008,511520018.0,B9021,B902100,Neoplasm of uncertain behaviour of duodenum
+Malignant neoplasms,4043461000006113.0,94744004,1218791018.0,^ESCTNE404346,,Neoplasm of uncertain or unknown behavior of appendix
+Malignant neoplasms,4043431000006116.0,94744004,511430013.0,^ESCTNE404343,,Neoplasm of uncertain behaviour of appendix
+Malignant neoplasms,4043441000006113.5,94744004,157121013.0,^ESCTNE404344,,Neoplasm of uncertain behavior of appendix
+Malignant neoplasms,1217303013.0,94744004,1217303013.0,B9026,B902600,Neoplasm of uncertain or unknown behaviour of appendix
+Malignant neoplasms,4044631000006115.0,94801006,157199019.0,^ESCTNE404463,,Neoplasm of uncertain behavior of colon
+Malignant neoplasms,511501015.0,94801006,511501015.0,B9024,B902400,Neoplasm of uncertain behaviour of colon
+Malignant neoplasms,4049271000006115.0,95024008,157492015.0,^ESCTNE404927,,Neoplasm of uncertain behavior of rectum
+Malignant neoplasms,511792018.0,95024008,511792018.0,B9025,B902500,Neoplasm of uncertain behaviour of rectum
+Malignant neoplasms,291383019.0,126853008,141016.0,BB5Dz,BB5Dz00,[M]Hepatobiliary adenoma or carcinoma NOS
+Malignant neoplasms,4756461000006117.0,189397006,290992015.0,^ESCTNE475646,,Neoplasm of uncertain behavior of sphincter of Oddi
+Malignant neoplasms,4046331000006119.0,94880005,511606017.0,^ESCTNE404633,,Neoplasm of uncertain behaviour of intrahepatic bile ducts
+Malignant neoplasms,679121000006110.0,94850000,511569016.0,B9033,B903300,Neoplasm of uncertain behaviour of gall bladder
+Malignant neoplasms,679211000006113.0,94880005,511606017.0,B9031,B903100,Neoplasm of uncertain behaviour of intra-hepatic bile ducts
+Malignant neoplasms,4046341000006112.0,94880005,157308014.0,^ESCTNE404634,,Neoplasm of uncertain behavior of intrahepatic bile ducts
+Malignant neoplasms,5355541000006118.0,255064003,380087016.0,^ESCTNE535554,,Neoplasm of uncertain behavior of biliary system
+Malignant neoplasms,4045741000006119.0,94850000,157267016.0,^ESCTNE404574,,Neoplasm of uncertain behavior of gallbladder
+Malignant neoplasms,4389291000006113.5,126853008,4389291000006113.5,^ESCTNE438929,,Neoplasm of biliary tract
+Malignant neoplasms,4045731000006111.0,94850000,511569016.0,^ESCTNE404573,,Neoplasm of uncertain behaviour of gallbladder
+Malignant neoplasms,4389311000006113.0,126853008,473896013.0,^ESCTTU438931,,Tumour of biliary tract
+Malignant neoplasms,4044841000006113.5,94810003,157211012.0,^ESCTNE404484,,Neoplasm of uncertain behavior of cystic duct
+Malignant neoplasms,680021000006114.0,271482000,1476437013.0,B903z,B903z00,Neop of uncertain behaviour of liver or biliary passages NOS
+Malignant neoplasms,4044671000006117.0,94803009,157202012.0,^ESCTNE404467,,Neoplasm of uncertain behavior of common bile duct
+Malignant neoplasms,4389301000006111.0,126853008,473895012.0,^ESCTTU438930,,Tumor of biliary tract
+Malignant neoplasms,290981016.0,189392000,290981016.0,B9032,B903200,Neoplasm of uncertain behaviour of hepatic duct
+Malignant neoplasms,290993013.0,189397006,290993013.0,B9037,B903700,Neoplasm of uncertain behaviour of sphincter of Oddi
+Malignant neoplasms,511503017.0,94803009,511503017.0,B9035,B903500,Neoplasm of uncertain behaviour of common bile duct
+Malignant neoplasms,511513013.0,94810003,511513013.0,B9034,B903400,Neoplasm of uncertain behaviour of cystic duct
+Malignant neoplasms,511643015.0,94910002,511643015.0,B9030,B903000,Neoplasm of uncertain behaviour of liver
+Malignant neoplasms,511416015.0,94733007,511416015.0,B9036,B903600,Neoplasm of uncertain behaviour of ampulla of Vater
+Malignant neoplasms,679281000006118.0,271482000,406280016.0,B903,B903.00,Neoplasm of uncertain behaviour of liver and biliary passage
+Malignant neoplasms,5525091000006115.0,271482000,1477400011.0,^ESCTNE552509,,Neoplasm of uncertain behavior of liver and/or biliary passages
+Malignant neoplasms,4046921000006116.0,94910002,157346019.0,^ESCTNE404692,,Neoplasm of uncertain behavior of liver
+Malignant neoplasms,4043221000006119.0,94733007,157108018.0,^ESCTNE404322,,Neoplasm of uncertain behavior of ampulla of Vater
+Malignant neoplasms,380088014.0,255064003,380088014.0,B903-1,B903.11,Neoplasm of uncertain behaviour of biliary system
+Malignant neoplasms,4756441000006116.0,189392000,290982011.0,^ESCTNE475644,,Neoplasm of uncertain behavior of hepatic duct
+Malignant neoplasms,399741000006115.0,448908007,2901664016.0,ByuH0,ByuH000,[X]Neoplasm/uncertain+unknown behaviour/oth digestive organs
+Malignant neoplasms,4756521000006110.0,189406008,291011015.0,^ESCTNE475652,,Neoplasm of uncertain behavior of anal canal and sphincter
+Malignant neoplasms,7361781000006110.0,448908007,7361781000006110.0,^ESCTNE736178,,Neoplasm of uncertain behaviour of digestive organ
+Malignant neoplasms,4045161000006119.0,94825003,157230012.0,^ESCTNE404516,,Neoplasm of uncertain behavior of esophagus
+Malignant neoplasms,4048351000006111.0,94978003,157439010.0,^ESCTNE404835,,Neoplasm of uncertain behavior of pancreas
+Malignant neoplasms,4389451000006119.0,126859007,473905018.0,^ESCTTU438945,,Tumour of pancreas
+Malignant neoplasms,4389431000006113.5,126859007,147017.0,^ESCTNE438943,,Neoplasm of pancreas
+Malignant neoplasms,5109381000006116.0,237596009,356069017.0,^ESCTPA510938,,Pancreatic endocrine tumour
+Malignant neoplasms,5109371000006119.0,237596009,356068013.0,^ESCTTU510937,,Tumor of endocrine pancreas
+Malignant neoplasms,511733014.0,94978003,511733014.0,B9051,B905100,Neoplasm of uncertain behaviour of pancreas
+Malignant neoplasms,511899015.0,95111006,511899015.0,B9053,B905300,Neoplasm of uncertain behaviour of spleen
+Malignant neoplasms,4389441000006116.0,126859007,473904019.0,^ESCTTU438944,,Tumor of pancreas
+Malignant neoplasms,5109391000006118.0,237596009,356070016.0,^ESCTPA510939,,Pancreatic endocrine tumor
+Malignant neoplasms,4051051000006115.0,95111006,157594016.0,^ESCTNE405105,,Neoplasm of uncertain behavior of spleen
+Malignant neoplasms,1.1918701000006116e+16,448908007,2901663010.0,^ESCT1191870,,Neoplasm of uncertain behavior of digestive organ
+Malignant neoplasms,511535017.0,94825003,511535017.0,B9050,B905000,Neoplasm of uncertain behaviour of oesophagus
+Malignant neoplasms,291010019.0,189406008,291010019.0,B9052,B905200,Neoplasm of uncertain behaviour of anal canal and sphincter
+Malignant neoplasms,291377017.0,126859007,147017.0,BB5Bz,BB5Bz00,[M]Pancreatic adenoma or carcinoma NOS
+Malignant neoplasms,6948591000006114.0,420120006,2579797016.0,^ESCTGI694859,,GIST - Gastrointestinal stromal tumor
+Malignant neoplasms,6948581000006111.0,420120006,2576874013.0,^ESCTGA694858,,Gastrointestinal stromal tumor
+Malignant neoplasms,2576875014.0,420120006,2576875014.0,B9054,B905400,Gastrointestinal stromal tumour
+Malignant neoplasms,6948601000006118.0,420120006,2841097017.0,^ESCTGI694860,,GIST - Gastrointestinal stromal tumour
+Malignant neoplasms,4756571000006111.0,189412003,291021011.0,^ESCTNE475657,,Neoplasm of uncertain behavior of cricoid cartilage
+Malignant neoplasms,4756631000006112.0,189416000,291029013.0,^ESCTNE475663,,Neoplasm of uncertain behavior of cuneiform cartilage
+Malignant neoplasms,4052521000006112.0,95181001,1217309012.0,^ESCTTU405252,,Tumour of vocal cord
+Malignant neoplasms,4045391000006111.0,94835009,1217304019.0,^ESCTTU404539,,Tumour of false cord
+Malignant neoplasms,7271091000006114.0,443042003,2837670017.0,^ESCTNE727109,,Neoplasm of uncertain behaviour of skeletal system
+Malignant neoplasms,4756611000006118.0,189415001,291028017.0,^ESCTNE475661,,Neoplasm of uncertain behavior of corniculate cartilage
+Malignant neoplasms,4045141000006117.0,94824004,157228010.0,^ESCTNE404514,,Neoplasm of uncertain behavior of epiglottis
+Malignant neoplasms,4756541000006115.0,189410006,291019018.0,^ESCTNE475654,,Neoplasm of uncertain behavior of thyroid cartilage
+Malignant neoplasms,4045381000006113.0,94835009,511547011.0,^ESCTNE404538,,Neoplasm of uncertain behaviour of ventricular bands of larynx
+Malignant neoplasms,4045371000006111.0,94835009,157245017.0,^ESCTNE404537,,Neoplasm of uncertain behavior of ventricular bands of larynx
+Malignant neoplasms,4052531000006111.0,95181001,1218797019.0,^ESCTTU405253,,Tumor of vocal cord
+Malignant neoplasms,4046721000006119.0,94899001,157331014.0,^ESCTNE404672,,Neoplasm of uncertain behavior of larynx
+Malignant neoplasms,4045401000006113.0,94835009,1218792013.0,^ESCTTU404540,,Tumor of false cord
+Malignant neoplasms,4756591000006112.0,189414002,291025019.0,^ESCTNE475659,,Neoplasm of uncertain behavior of arytenoid cartilage
+Malignant neoplasms,679371000006113.0,443042003,2837669018.0,B930z,B930z00,Neop uncertain behaviour of bone or articular cartilage NOS
+Malignant neoplasms,1490304011.0,94835009,1490304011.0,B9067,B906700,Neoplasm of uncertain behaviour of vestibular fold
+Malignant neoplasms,4045361000006115.0,94835009,157244018.0,^ESCTNE404536,,Neoplasm of uncertain behavior of false vocal cord
+Malignant neoplasms,291022016.0,189412003,291022016.0,B9061,B906100,Neoplasm of uncertain behaviour of cricoid cartilage
+Malignant neoplasms,291026018.0,189414002,291026018.0,B9063,B906300,Neoplasm of uncertain behaviour of arytenoid cartilage
+Malignant neoplasms,291027010.0,189415001,291027010.0,B9064,B906400,Neoplasm of uncertain behaviour of corniculate cartilage
+Malignant neoplasms,291030015.0,189416000,291030015.0,B9065,B906500,Neoplasm of uncertain behaviour of cuneiform cartilage
+Malignant neoplasms,291031016.0,189417009,291031016.0,B9066,B906600,Neoplasm of uncertain behaviour of aryepiglottic fold
+Malignant neoplasms,511627010.0,94899001,511627010.0,B906,B906.00,Neoplasm of uncertain behaviour of larynx
+Malignant neoplasms,291038010.0,94899001,511627010.0,B906z,B906z00,Neoplasm of uncertain behaviour of larynx NOS
+Malignant neoplasms,511989012.0,95181001,511989012.0,B9068,B906800,Neoplasm of uncertain behaviour of vocal cord
+Malignant neoplasms,4756651000006117.0,189417009,291032011.0,^ESCTNE475665,,Neoplasm of uncertain behavior of aryepiglottic fold
+Malignant neoplasms,4045421000006115.0,94835009,1490535018.0,^ESCTNE404542,,Neoplasm of uncertain behavior of vestibular fold
+Malignant neoplasms,511534018.0,94824004,511534018.0,B9062,B906200,Neoplasm of uncertain behaviour of epiglottis
+Malignant neoplasms,291018014.0,189410006,291018014.0,B9060,B906000,Neoplasm of uncertain behaviour of thyroid cartilage
+Malignant neoplasms,4045351000006117.0,94835009,511548018.0,^ESCTNE404535,,Neoplasm of uncertain behaviour of false vocal cord
+Malignant neoplasms,4052511000006116.0,95181001,157680010.0,^ESCTNE405251,,Neoplasm of uncertain behavior of vocal cord
+Malignant neoplasms,4044061000006119.0,94774007,157165017.0,^ESCTNE404406,,Neoplasm of uncertain behavior of bronchus
+Malignant neoplasms,511663010.0,94920007,511663010.0,B9072,B907200,Neoplasm of uncertain behaviour of lung
+Malignant neoplasms,511467017.0,94774007,511467017.0,B9071,B907100,Neoplasm of uncertain behaviour of bronchus
+Malignant neoplasms,511942010.0,95144000,511942010.0,B9070,B907000,Neoplasm of uncertain behaviour of trachea
+Malignant neoplasms,4051711000006119.0,95144000,157634013.0,^ESCTNE405171,,Neoplasm of uncertain behavior of trachea
+Malignant neoplasms,4047121000006116.0,94920007,157360017.0,^ESCTNE404712,,Neoplasm of uncertain behavior of lung
+Malignant neoplasms,511770017.0,95006006,511770017.0,B9080,B908000,Neoplasm of uncertain behaviour of pleura
+Malignant neoplasms,4048911000006113.0,95006006,157473017.0,^ESCTNE404891,,Neoplasm of uncertain behavior of pleura
+Malignant neoplasms,680061000006115.0,94931004,157376014.0,B908,B908.00,"Neop of uncertain behaviour pleura, thymus and mediastinum"
+Malignant neoplasms,4047311000006111.0,94931004,157376014.0,^ESCTNE404731,,Neoplasm of uncertain behavior of mediastinum
+Malignant neoplasms,511675017.0,94931004,511675017.0,B9082,B908200,Neoplasm of uncertain behaviour of mediastinum
+Malignant neoplasms,4051531000006119.0,95136000,157625015.0,^ESCTNE405153,,Neoplasm of uncertain behavior of thymus
+Malignant neoplasms,511929010.0,95136000,511929010.0,B9081,B908100,Neoplasm of uncertain behaviour of thymus
+Malignant neoplasms,4045701000006115.0,94848008,157265012.0,^ESCTNE404570,,Neoplasm of uncertain behavior of frontal sinus
+Malignant neoplasms,4050951000006113.5,95107000,157587019.0,^ESCTNE405095,,Neoplasm of uncertain behavior of sphenoidal sinus
+Malignant neoplasms,4756711000006114.0,189432002,291061012.0,^ESCTNE475671,,Neoplasm of uncertain behavior of tympanic cavity
+Malignant neoplasms,4045221000006119.0,94828001,157234015.0,^ESCTNE404522,,Neoplasm of uncertain behavior of eustachian tube
+Malignant neoplasms,4756751000006110.0,189435000,291068018.0,^ESCTNE475675,,Neoplasm of uncertain behavior of mastoid air cells
+Malignant neoplasms,4756731000006115.0,189433007,291064016.0,^ESCTNE475673,,Neoplasm of uncertain behavior of tympanic antrum
+Malignant neoplasms,4047851000006119.0,94957001,157407015.0,^ESCTNE404785,,Neoplasm of uncertain behavior of nasal cavity
+Malignant neoplasms,4045201000006112.0,94827006,157233014.0,^ESCTNE404520,,Neoplasm of uncertain behavior of ethmoidal sinus
+Malignant neoplasms,511892012.0,95107000,511892012.0,B90z8,B90z800,Neoplasm of uncertain behaviour of sphenoidal sinus
+Malignant neoplasms,291063010.0,189433007,291063010.0,B90z2,B90z200,Neoplasm of uncertain behaviour of tympanic antrum
+Malignant neoplasms,4047261000006115.0,94929008,157374012.0,^ESCTNE404726,,Neoplasm of uncertain behavior of maxillary sinus
+Malignant neoplasms,291067011.0,189435000,291067011.0,B90z4,B90z400,Neoplasm of uncertain behaviour of mastoid air cells
+Malignant neoplasms,511537013.0,94827006,511537013.0,B90z6,B90z600,Neoplasm of uncertain behaviour of ethmoidal sinus
+Malignant neoplasms,511538015.0,94828001,511538015.0,B90z3,B90z300,Neoplasm of uncertain behaviour of eustachian tube
+Malignant neoplasms,511564014.0,94848008,511564014.0,B90z7,B90z700,Neoplasm of uncertain behaviour of frontal sinus
+Malignant neoplasms,511672019.0,94929008,511672019.0,B90z5,B90z500,Neoplasm of uncertain behaviour of maxillary sinus
+Malignant neoplasms,511705014.0,94957001,511705014.0,B90z0,B90z000,Neoplasm of uncertain behaviour of nasal cavity
+Malignant neoplasms,291062017.0,189432002,291062017.0,B90z1,B90z100,Neoplasm of uncertain behaviour of tympanic cavity
+Malignant neoplasms,4049321000006111.0,95026005,4049321000006111.0,^ESCTNE404932,,Neoplasm of uncertain behaviour of respiratory tract
+Malignant neoplasms,1.1918671000006116e+16,95026005,157494019.0,^ESCT1191867,,Neoplasm of uncertain behavior of respiratory tract
+Malignant neoplasms,678461000006119.0,95026005,157494019.0,B907,B907.00,"Neoplasm of uncertain behaviour trachea, bronchus and lung"
+Malignant neoplasms,399711000006119.0,95026005,511794017.0,ByuH1,ByuH100,[X]Neoplasm/uncertain+unknown behavior/oth respirtory organs
+Malignant neoplasms,511971011.0,95167003,511971011.0,B910,B910.00,Neoplasm of uncertain behaviour of uterus
+Malignant neoplasms,4052191000006119.0,95167003,157664017.0,^ESCTNE405219,,Neoplasm of uncertain behavior of uterus
+Malignant neoplasms,4048251000006116.0,94974001,157433011.0,^ESCTNE404825,,Neoplasm of uncertain behavior of ovary
+Malignant neoplasms,511728010.0,94974001,511728010.0,B912,B912.00,Neoplasm of uncertain behaviour of ovary
+Malignant neoplasms,291092014.0,95005005,157472010.0,B911z,B911z00,Uncertain neoplasm of placenta NOS
+Malignant neoplasms,6895481000006115.0,416669000,2553898011.0,^ESCTIN689548,,Invasive mole
+Malignant neoplasms,6895471000006118.0,416669000,2553897018.0,^ESCTIM689547,,IM - Invasive mole
+Malignant neoplasms,4048891000006111.0,95005005,157472010.0,^ESCTNE404889,,Neoplasm of uncertain behavior of placenta
+Malignant neoplasms,511769018.0,95005005,511769018.0,B911,B911.00,Neoplasm of uncertain behaviour of placenta
+Malignant neoplasms,6895461000006113.0,416669000,2553896010.0,^ESCTCH689546,,Chorioadenoma destruens
+Malignant neoplasms,6895451000006111.0,416669000,2553895014.0,^ESCTCH689545,,Chorioadenoma
+Malignant neoplasms,2553899015.0,416669000,2553899015.0,B9110-2,B911012,Invasive mole - placenta
+Malignant neoplasms,291475012.0,126488004,82493010.0,BB60z,BB60z00,[M]Skin appendage adenoma or carcinoma NOS
+Malignant neoplasms,399701000006117.0,94837001,511550014.0,ByuH2,ByuH200,[X]Neoplasm/uncertain+unknown behavior/oth fem genital organ
+Malignant neoplasms,4383101000006111.0,126488004,473696010.0,^ESCTTU438310,,Tumor of skin
+Malignant neoplasms,4383091000006116.0,126488004,473695014.0,^ESCTSK438309,,Skin tumor
+Malignant neoplasms,4383061000006112.0,126488004,473692012.0,^ESCTTU438306,,Tumour of skin
+Malignant neoplasms,4383071000006117.0,126488004,473693019.0,^ESCTSK438307,,Skin tumour
+Malignant neoplasms,4383051000006111.0,126488004,473691017.0,^ESCTCU438305,,Cutaneous tumour
+Malignant neoplasms,4045451000006112.0,94837001,4045451000006112.0,^ESCTNE404545,,Neoplasm of uncertain behaviour of female genital organ
+Malignant neoplasms,1.1918661000006112e+16,94837001,157248015.0,^ESCT1191866,,Neoplasm of uncertain behavior of female genital organ
+Malignant neoplasms,4383081000006119.0,126488004,473694013.0,^ESCTCU438308,,Cutaneous tumor
+Malignant neoplasms,291297012.0,126488004,82493010.0,BA022,BA02200,Neoplasm of unspecified nature of skin
+Malignant neoplasms,511991016.0,95183003,511991016.0,B9131,B913100,Neoplasm of uncertain behaviour of vulva
+Malignant neoplasms,399681000006115.0,94837001,511550014.0,ByuHB,ByuHB00,"[X]Neoplasm of uncert/unkn behav female genit organs, unspec"
+Malignant neoplasms,4052571000006113.0,95183003,157682019.0,^ESCTNE405257,,Neoplasm of uncertain behavior of vulva
+Malignant neoplasms,4052271000006111.0,95170004,157668019.0,^ESCTNE405227,,Neoplasm of uncertain behavior of vagina
+Malignant neoplasms,511976018.0,95170004,511976018.0,B9130,B913000,Neoplasm of uncertain behaviour of vagina
+Malignant neoplasms,511780018.0,95014000,511780018.0,B915,B915.00,Neoplasm of uncertain behaviour of prostate
+Malignant neoplasms,4049071000006113.5,95014000,157482011.0,^ESCTNE404907,,Neoplasm of uncertain behavior of prostate
+Malignant neoplasms,4051331000006113.0,95127004,157613018.0,^ESCTNE405133,,Neoplasm of uncertain behavior of testis
+Malignant neoplasms,511918011.0,95127004,511918011.0,B914,B914.00,Neoplasm of uncertain behaviour of testis
+Malignant neoplasms,399781000006114.0,94925002,511668018.0,ByuH3,ByuH300,[X]Neoplsm/uncertain+unknown behavior/oth male genital organ
+Malignant neoplasms,4048651000006119.0,94994005,157459014.0,^ESCTNE404865,,Neoplasm of uncertain behavior of penis
+Malignant neoplasms,4045121000006112.0,94823005,157227017.0,^ESCTNE404512,,Neoplasm of uncertain behavior of epididymis
+Malignant neoplasms,4049591000006116.0,95039009,157509019.0,^ESCTNE404959,,Neoplasm of uncertain behavior of scrotum
+Malignant neoplasms,511809010.0,95039009,511809010.0,B9162,B916200,Neoplasm of uncertain behaviour of scrotum
+Malignant neoplasms,511533012.0,94823005,511533012.0,B9161,B916100,Neoplasm of uncertain behaviour of epididymis
+Malignant neoplasms,511754019.0,94994005,511754019.0,B9160,B916000,Neoplasm of uncertain behaviour of penis
+Malignant neoplasms,1.1918731000006112e+16,94925002,157369016.0,^ESCT1191873,,Neoplasm of uncertain behavior of male genital organ
+Malignant neoplasms,4047191000006119.0,94925002,4047191000006119.0,^ESCTNE404719,,Neoplasm of uncertain behaviour of male genital organ
+Malignant neoplasms,291675018.0,126880001,168016.0,BBL7z,BBL7z00,[M]Mixed or stromal renal neoplasm NOS
+Malignant neoplasms,4046541000006115.0,94889006,1218793015.0,^ESCTRE404654,,Renal neoplasm of uncertain behavior
+Malignant neoplasms,4389831000006111.0,126880001,1215973016.0,^ESCTRE438983,,Renal tumour
+Malignant neoplasms,4389841000006119.0,126880001,1215974010.0,^ESCTTU438984,,Tumour of kidney
+Malignant neoplasms,4389821000006113.0,126880001,168016.0,^ESCTNE438982,,Neoplasm of kidney
+Malignant neoplasms,4046521000006111.0,94889006,157319012.0,^ESCTNE404652,,Neoplasm of uncertain behavior of kidney
+Malignant neoplasms,399731000006113.0,95165006,511969011.0,ByuH4,ByuH400,[X]Neoplasm/uncertain+unknown behavior/other urinary organs
+Malignant neoplasms,4052141000006111.0,95165006,4052141000006111.0,^ESCTNE405214,,Neoplasm of uncertain behaviour of urinary system
+Malignant neoplasms,4389861000006119.0,126880001,1217477014.0,^ESCTRE438986,,Renal tumor
+Malignant neoplasms,511615012.0,94889006,511615012.0,B91z1,B91z100,Neoplasm of uncertain behaviour of kidney
+Malignant neoplasms,1217305018.0,94889006,1217305018.0,B91z1-1,B91z111,Renal neoplasm of uncertain behaviour
+Malignant neoplasms,291446018.0,126880001,168016.0,BB5az,BB5az00,[M]Renal adenoma or carcinoma NOS
+Malignant neoplasms,1.1918691000006116e+16,95165006,157660014.0,^ESCT1191869,,Neoplasm of uncertain behavior of urinary system
+Malignant neoplasms,4389851000006116.0,126880001,1217476017.0,^ESCTTU438985,,Tumor of kidney
+Malignant neoplasms,4049311000006115.0,95025009,1218795010.0,^ESCTNE404931,,Neoplasm of uncertain or unknown behavior of renal pelvis
+Malignant neoplasms,4049281000006117.0,95025009,511793011.0,^ESCTNE404928,,Neoplasm of uncertain behaviour of renal pelvis
+Malignant neoplasms,4049291000006119.0,95025009,157493013.0,^ESCTNE404929,,Neoplasm of uncertain behavior of renal pelvis
+Malignant neoplasms,1217307014.0,95025009,1217307014.0,B91z3,B91z300,Neoplasm of uncertain or unknown behaviour of renal pelvis
+Malignant neoplasms,79811000006119.0,95161002,511965017.0,B91z2,B91z200,Uncertain neoplasm ureter
+Malignant neoplasms,4052061000006111.0,95161002,4052061000006111.0,^ESCTNE405206,,Neoplasm of uncertain behaviour of ureter
+Malignant neoplasms,1.1902931000006112e+16,95161002,157656011.0,^ESCT1190293,,Neoplasm of uncertain behavior of ureter
+Malignant neoplasms,79821000006110.0,95163004,511967013.0,B91z0,B91z000,Uncertain neoplasm urethra
+Malignant neoplasms,1.190294100000612e+16,95163004,157658012.0,^ESCT1190294,,Neoplasm of uncertain behavior of urethra
+Malignant neoplasms,4052101000006113.5,95163004,4052101000006113.5,^ESCTNE405210,,Neoplasm of uncertain behaviour of urethra
+Malignant neoplasms,4390031000006113.5,126885006,1217480010.0,^ESCTTU439003,,Tumor of urinary bladder
+Malignant neoplasms,4390041000006116.0,126885006,1784709017.0,^ESCTNG439004,,NGB - New growth of bladder
+Malignant neoplasms,511442015.0,94754000,511442015.0,B917,B917.00,Neoplasm of uncertain behaviour of bladder
+Malignant neoplasms,291300019.0,126885006,173010.0,BA04,BA04.00,Neoplasm of unspecified nature of bladder
+Malignant neoplasms,4043641000006111.0,94754000,157135010.0,^ESCTNE404364,,Neoplasm of uncertain behavior of bladder
+Malignant neoplasms,4390021000006111.0,126885006,1215977015.0,^ESCTTU439002,,Tumour of urinary bladder
+Malignant neoplasms,511482010.0,94787001,511482010.0,B9260,B926000,Neoplasm of uncertain behaviour of cerebral meninges
+Malignant neoplasms,4044331000006113.0,94787001,157181010.0,^ESCTNE404433,,Neoplasm of uncertain behavior of cerebral meninges
+Malignant neoplasms,4050991000006115.0,95109002,157589016.0,^ESCTNE405099,,Neoplasm of uncertain behavior of spinal meninges
+Malignant neoplasms,511894013.0,95109002,511894013.0,B9261,B926100,Neoplasm of uncertain behaviour of spinal meninges
+Malignant neoplasms,4171681000006111.0,109914007,174607019.0,^ESCTNE417168,,Neoplasm of uncertain behavior of meninges
+Malignant neoplasms,291198010.0,109914007,202844010.0,B926z,B926z00,Neoplasm of uncertain behaviour of meninges NOS
+Malignant neoplasms,202844010.0,109914007,202844010.0,B926,B926.00,Neoplasm of uncertain behaviour of meninges
+Malignant neoplasms,399751000006118.0,94784008,511479017.0,ByuH5,ByuH500,[X]Neoplasm/uncertain+unknown behaviour/other parts/CNS
+Malignant neoplasms,4044261000006113.5,94784008,4044261000006113.5,^ESCTNE404426,,Neoplasm of uncertain behaviour of central nervous system
+Malignant neoplasms,4756891000006110.0,189487001,291185018.0,^ESCTNE475689,,"Neoplasm of uncertain or unknown behavior of brain, supratentorial"
+Malignant neoplasms,678471000006114.0,189487001,291186017.0,B9252,B925200,"Neoplasm of uncertain or unknown behav brain, supratentorial"
+Malignant neoplasms,1.1918711000006116e+16,94784008,157176018.0,^ESCT1191871,,Neoplasm of uncertain behavior of central nervous system
+Malignant neoplasms,677871000006112.0,189488006,291187014.0,B9253,B925300,"Neoplasm uncert / unkn behav brain, infratentorial"
+Malignant neoplasms,4756911000006112.0,189488006,291188016.0,^ESCTNE475691,,"Neoplasm of uncertain or unknown behavior of brain, infratentorial"
+Malignant neoplasms,5353161000006112.0,254935002,1224887010.0,^ESCTIN535316,,Intracranial neoplasm
+Malignant neoplasms,5353121000006118.0,254935002,379839011.0,^ESCTIN535312,,Intracranial tumor
+Malignant neoplasms,5353131000006115.0,254935002,379840013.0,^ESCTBR535313,,Brain tumor
+Malignant neoplasms,5353101000006111.0,254935002,379837013.0,^ESCTBT535310,,BT - Brain tumour
+Malignant neoplasms,5353091000006117.0,254935002,379836016.0,^ESCTIC535309,,ICT - Intracranial tumour
+Malignant neoplasms,5353081000006115.0,254935002,379835017.0,^ESCTIN535308,,Intracranial tumour
+Malignant neoplasms,5353111000006114.0,254935002,379838015.0,^ESCTBR535311,,Brain tumour
+Malignant neoplasms,5353151000006110.0,254935002,379842017.0,^ESCTIC535315,,ICT - Intracranial tumor
+Malignant neoplasms,5353141000006113.0,254935002,379841012.0,^ESCTBT535314,,BT - Brain tumor
+Malignant neoplasms,511458017.0,94767002,511458017.0,B9250,B925000,Neoplasm of uncertain behaviour of brain
+Malignant neoplasms,4043901000006116.0,94767002,157157015.0,^ESCTNE404390,,Neoplasm of uncertain behavior of brain
+Malignant neoplasms,4044761000006115.0,94807005,511508014.0,^ESCTNE404476,,Neoplasm of uncertain behaviour of cranial nerve
+Malignant neoplasms,4044771000006111.0,94807005,157207018.0,^ESCTNE404477,,Neoplasm of uncertain behavior of cranial nerve
+Malignant neoplasms,1490303017.0,94807005,1490303017.0,B92z0,B92z000,Neoplasm of uncertain behaviour of cranial nerves
+Malignant neoplasms,4050971000006116.0,95108005,157588012.0,^ESCTNE405097,,Neoplasm of uncertain behavior of spinal cord
+Malignant neoplasms,511893019.0,95108005,511893019.0,B9251,B925100,Neoplasm of uncertain behaviour of spinal cord
+Malignant neoplasms,4048011000006112.0,94963005,157419011.0,^ESCTNE404801,,Neoplasm of uncertain behavior of nervous system
+Malignant neoplasms,511715015.0,94963005,511715015.0,B92-1,B92..11,Neoplasm of uncertain behaviour of nervous system
+Malignant neoplasms,4051571000006116.0,95138004,157627011.0,^ESCTNE405157,,Neoplasm of uncertain behavior of thyroid gland
+Malignant neoplasms,6481051000006114.0,387922007,1490218018.0,^ESCTTU648105,,Tumour of endocrine gland
+Malignant neoplasms,6481041000006112.0,387922007,1481992018.0,^ESCTNE648104,,Neoplasm of endocrine gland
+Malignant neoplasms,6481061000006111.0,387922007,1490447010.0,^ESCTTU648106,,Tumor of endocrine gland
+Malignant neoplasms,511931018.0,95138004,511931018.0,B9240,B924000,Neoplasm of uncertain behaviour of thyroid gland
+Malignant neoplasms,4392361000006119.0,127021009,474003018.0,^ESCTAD439236,,Adrenal tumour
+Malignant neoplasms,4392351000006116.0,127021009,309019.0,^ESCTNE439235,,Neoplasm of adrenal gland
+Malignant neoplasms,4392381000006112.0,127021009,474005013.0,^ESCTAD439238,,Adrenal tumor
+Malignant neoplasms,4392391000006111.0,127021009,474006014.0,^ESCTTU439239,,Tumor of adrenal gland
+Malignant neoplasms,511412018.0,94730005,511412018.0,B922,B922.00,Neoplasm of uncertain behaviour of adrenal gland
+Malignant neoplasms,4043161000006117.0,94730005,2921004011.0,^ESCTNE404316,,Neoplasm of uncertain behavior of adrenal
+Malignant neoplasms,4392371000006113.5,127021009,474004012.0,^ESCTTU439237,,Tumour of adrenal gland
+Malignant neoplasms,4043151000006119.0,94730005,157105015.0,^ESCTNE404315,,Neoplasm of uncertain behavior of adrenal gland
+Malignant neoplasms,4048431000006111.0,94983006,157446018.0,^ESCTNE404843,,Neoplasm of uncertain behavior of parathyroid gland
+Malignant neoplasms,511741014.0,94983006,511741014.0,B9241,B924100,Neoplasm of uncertain behaviour of parathyroid gland
+Malignant neoplasms,291439010.0,127024001,312016.0,BB5Vz,BB5Vz00,[M]Pituitary adenoma or carcinoma NOS
+Malignant neoplasms,4392481000006115.0,127024001,1215993012.0,^ESCTTU439248,,Tumour of pituitary gland
+Malignant neoplasms,4392471000006119.0,127024001,1215992019.0,^ESCTPI439247,,Pituitary tumour
+Malignant neoplasms,679441000006113.0,95004009,157471015.0,B920z,B920z00,Neop uncertain behaviour pituitary and craniopharyngeal NOS
+Malignant neoplasms,511768014.0,95004009,511768014.0,B9200,B920000,Neoplasm of uncertain behaviour of pituitary gland
+Malignant neoplasms,679431000006115.0,95004009,157471015.0,B920,B920.00,Neop uncertain behaviour pituitary and craniopharyngeal duct
+Malignant neoplasms,4048871000006111.0,95004009,157471015.0,^ESCTNE404887,,Neoplasm of uncertain behavior of pituitary gland
+Malignant neoplasms,4392491000006117.0,127024001,1217495012.0,^ESCTPI439249,,Pituitary tumor
+Malignant neoplasms,4044801000006112.0,94808000,157209015.0,^ESCTNE404480,,Neoplasm of uncertain behavior of craniopharyngeal duct
+Malignant neoplasms,511509018.0,94808000,511509018.0,B9201,B920100,Neoplasm of uncertain behaviour of craniopharyngeal duct
+Malignant neoplasms,4048831000006112.0,95002008,157469015.0,^ESCTNE404883,,Neoplasm of uncertain behavior of pineal gland
+Malignant neoplasms,511766013.0,95002008,511766013.0,B921,B921.00,Neoplasm of uncertain behaviour of pineal gland
+Malignant neoplasms,4044171000006113.5,94779002,157171011.0,^ESCTNE404417,,Neoplasm of uncertain behavior of carotid body
+Malignant neoplasms,511472014.0,94779002,511472014.0,B9230,B923000,Neoplasm of uncertain behaviour of carotid body
+Malignant neoplasms,2666041000006116.0,10438002,18166016.0,^ESCTGL266604,,Glomus tumor
+Malignant neoplasms,4045821000006119.0,94854009,157272013.0,^ESCTNE404582,,Neoplasm of uncertain behavior of glomus jugulare
+Malignant neoplasms,511427018.0,94742000,511427018.0,B9232,B923200,Neoplasm of uncertain behaviour of aortic body
+Malignant neoplasms,195278019.0,10438002,195278019.0,B7J0-1,B7J0.11,Glomus tumour
+Malignant neoplasms,291158013.0,189473001,291158013.0,B923,B923.00,Neoplasm of uncertain behaviour of paraganglia
+Malignant neoplasms,511573018.0,94854009,511573018.0,B9231,B923100,Neoplasm of uncertain behaviour of glomus jugulare
+Malignant neoplasms,291167013.0,189473001,291158013.0,B923z,B923z00,Neoplasm of uncertain behaviour of paraganglia NOS
+Malignant neoplasms,4043401000006112.0,94742000,157118011.0,^ESCTNE404340,,Neoplasm of uncertain behavior of aortic body
+Malignant neoplasms,4756811000006117.0,189473001,291157015.0,^ESCTNE475681,,Neoplasm of uncertain behavior of paraganglia
+Malignant neoplasms,4756831000006111.0,189473001,2475177017.0,^ESCTNE475683,,Neoplasm of uncertain behavior of paraganglion
+Malignant neoplasms,4756821000006113.0,189473001,2474972018.0,^ESCTNE475682,,Neoplasm of uncertain behaviour of paraganglion
+Malignant neoplasms,3504361000006110.0,61808009,102732015.0,^ESCTMU350436,,"Multiple endocrine adenomatosis, type 2"
+Malignant neoplasms,3254881000006110.0,46724008,1230389015.0,^ESCTMU325488,,Multiple endocrine tumasia
+Malignant neoplasms,3254861000006117.0,46724008,77874017.0,^ESCTMU325486,,Multiple endocrine neoplasia
+Malignant neoplasms,2994171000006119.0,30664006,51326018.0,^ESCTME299417,,"MEN, type 1"
+Malignant neoplasms,2994211000006117.0,30664006,1227293018.0,^ESCTME299421,,MEN 1 - Multiple endocrine neoplasia syndrome type 1
+Malignant neoplasms,3504371000006115.0,61808009,499128019.0,^ESCTSI350437,,Sipple's syndrome
+Malignant neoplasms,2994201000006115.0,30664006,51329013.0,^ESCTMU299420,,"Multiple endocrine adenomatosis, type 1"
+Malignant neoplasms,3504351000006113.0,61808009,102731010.0,^ESCTME350435,,"MEA, type 2"
+Malignant neoplasms,102726013.0,61808009,102726013.0,ESCTMU2,,"Multiple endocrine neoplasia, type 2"
+Malignant neoplasms,3254891000006113.0,46724008,1230390012.0,^ESCTME325489,,MEA - Multiple endocrine adenomatosis
+Malignant neoplasms,3504331000006118.0,61808009,102729018.0,^ESCTPT350433,,PTC syndrome
+Malignant neoplasms,3504321000006116.0,61808009,102728014.0,^ESCTSI350432,,Sipple syndrome
+Malignant neoplasms,2994191000006118.0,30664006,51328017.0,^ESCTME299419,,"MEA, type 1"
+Malignant neoplasms,51325019.0,30664006,51325019.0,ESCTMU1,,"Multiple endocrine neoplasia, type 1"
+Malignant neoplasms,1227295013.0,30664006,1227295013.0,C184,C184.00,Multiple endocrine neoplasia syndrome type 1
+Malignant neoplasms,2994181000006116.0,30664006,51327010.0,^ESCTWE299418,,Wermer syndrome
+Malignant neoplasms,3254871000006112.0,46724008,1230388011.0,^ESCTME325487,,MEN - Multiple endocrine neoplasia
+Malignant neoplasms,2994221000006113.0,30664006,1227294012.0,^ESCTME299422,,MEN 1 syndrome
+Malignant neoplasms,695991000006116.0,46724008,77872018.0,C180,C180.00,Multiple endocrine adenomatosis
+Malignant neoplasms,3254841000006116.0,46724008,77872018.0,^ESCTPO325484,,Polyglandular activity in multiple endocrine adenomatosis
+Malignant neoplasms,824221000006113.0,414653009,2534495019.0,B935-1,B935.11,Histiocytic tumour NOS
+Malignant neoplasms,3959671000006111.0,89796001,201477015.0,^ESCTMA395967,,Mast cell tumour
+Malignant neoplasms,399621000006119.0,255048006,380048016.0,ByuH8,ByuH800,"[X]Neo/uncertn+unknwn behav/lymph,h'matopetc+rel tiss,unspcf"
+Malignant neoplasms,679181000006114.0,414653009,2534495019.0,B935,B935.00,Neoplasm of uncertain behaviour of histiocytic and mast cell
+Malignant neoplasms,680761000006117.0,255048006,380048016.0,B93X,B93X.00,"Neo/uncertn+unknwn behav/lymph,h'matopetc+rel tiss,unspcf"
+Malignant neoplasms,717021000006115.0,89796001,148867018.0,B935-2,B935.12,Mastocytoma NOS
+Malignant neoplasms,6861851000006110.0,414653009,2534495019.0,^ESCTMA686185,,Mast cell neoplasm
+Malignant neoplasms,5355131000006119.0,255048006,380048016.0,^ESCTTU535513,,"Tumour of lymphoid, haemopoietic and related tissue"
+Malignant neoplasms,5355141000006112.0,255048006,380049012.0,^ESCTTU535514,,"Tumor of lymphoid, hemopoietic and related tissue"
+Malignant neoplasms,3959661000006116.0,89796001,148870019.0,^ESCTMA395966,,Mast cell tumor
+Malignant neoplasms,291976019.0,89796001,148867018.0,BBp0,BBp0.00,[M]Mastocytoma NOS
+Malignant neoplasms,312121000006117.0,89796001,201477015.0,BBp,BBp..00,[M]Mast cell tumours
+Malignant neoplasms,306981000006119.0,128842008,207443019.0,BBs2,BBs2.00,[M]Chronic myeloproliferative disease
+Malignant neoplasms,4417741000006113.0,128842008,2973036013.0,^ESCTCH441774,,"Chronic myeloproliferative disease, no International Classification of Diseases for Oncology subtype"
+Malignant neoplasms,683351000006111.0,425333006,2645960018.0,B6y0-1,B6y0.11,Myeloproliferative disease
+Malignant neoplasms,4417731000006115.0,128842008,2770290011.0,^ESCTCH441773,,"Chronic myeloproliferative disease, no ICD-O subtype"
+Malignant neoplasms,4417751000006111.0,128842008,3009091014.0,^ESCTMY441775,,"Myeloproliferative neoplasm, no ICD-O subtype"
+Malignant neoplasms,4417721000006119.0,128842008,207442012.0,^ESCTCH441772,,Chronic myeloproliferative disorder
+Malignant neoplasms,2645960018.0,425333006,2645960018.0,B6y0,B6y0.00,Myeloproliferative disorder
+Malignant neoplasms,2659691014.0,267440005,398873019.0,C331-1,C331.11,Monoclonal gammopathy
+Malignant neoplasms,678881000006114.0,277577000,414174013.0,B936,B936.00,Neoplasm of uncertain behaviour of plasma cells
+Malignant neoplasms,5601531000006114.0,277577000,414175014.0,^ESCTMG560153,,MGUS - Monoclonal gammopathy of uncertain significance
+Malignant neoplasms,5601541000006116.0,277577000,2536062015.0,^ESCTMO560154,,Monoclonal gammopathy of undetermined significance
+Malignant neoplasms,4315011000006111.0,119247004,452758011.0,^ESCTHY431501,,Hypoalbuminaemia
+Malignant neoplasms,414174013.0,277577000,414174013.0,C3310,C331000,Monoclonal gammopathy of uncertain significance
+Malignant neoplasms,2475440015.0,119247004,2475440015.0,44M41,44M4100,Serum albumin low
+Malignant neoplasms,398873019.0,267440005,398873019.0,C331,C331.00,Monoclonal paraproteinaemia
+Malignant neoplasms,5500611000006115.0,267440005,398874013.0,^ESCTMO550061,,Monoclonal paraproteinemia
+Malignant neoplasms,4172801000006113.0,109983007,2659691014.0,^ESCTMO417280,,Monoclonal gammopathy
+Malignant neoplasms,293376019.0,109983007,174679017.0,C332z,C332z00,Paraproteinaemia NOS
+Malignant neoplasms,4173211000006119.0,109994006,2535664010.0,^ESCTID417321,,Idiopathic thrombocythemia
+Malignant neoplasms,4173191000006119.0,109994006,344890016.0,^ESCTES417319,,Essential thrombocythemia (clinical disorder)
+Malignant neoplasms,2605921000006117.0,6631009,2536436018.0,^ESCTTH260592,,Thrombocythemia
+Malignant neoplasms,2605901000006110.0,6631009,11995017.0,^ESCTIN260590,,Increased platelets
+Malignant neoplasms,2535665011.0,109994006,2535665011.0,D3y0,D3y0.00,Essential thrombocytosis
+Malignant neoplasms,786661000006115.0,109994006,2535666012.0,B937-2,B937.12,Idiopathic thrombocythaemia
+Malignant neoplasms,2535666012.0,109994006,2535666012.0,B9375,B937500,Idiopathic thrombocythaemia
+Malignant neoplasms,2536435019.0,6631009,2536435019.0,42P3,42P3.00,Thrombocythaemia
+Malignant neoplasms,648841000006119.0,109994006,1476449014.0,B9374,B937400,Essential (haemorrhagic) thrombocythaemia
+Malignant neoplasms,1.1907251000006112e+16,109994006,310251000006117.0,^ESCT1190725,,[M]Idiopathic thrombocythaemia
+Malignant neoplasms,4173201000006116.0,109994006,2532081013.0,^ESCTES417320,,Essential thrombocythemia
+Malignant neoplasms,206411000006114.0,109994006,1476449014.0,B9374-1,B937411,Primary thrombocythaemia
+Malignant neoplasms,5971121000006114.0,307651005,2870705011.0,^ESCTPR597112,,Primary myelofibrosis
+Malignant neoplasms,4838981000006116.0,207036003,1784850016.0,^ESCTAN483898,,Angiomatous lymphoid hamartoma
+Malignant neoplasms,4838931000006117.0,207036003,317362012.0,^ESCTAN483893,,Angiofollicular lymph node hyperplasia
+Malignant neoplasms,698821000006119.0,307651005,450988016.0,B6y1-1,B6y1.11,Megakaryocytic myelosclerosis
+Malignant neoplasms,4838941000006110.0,207036003,317363019.0,^ESCTBE483894,,Benign angiofollicular hyperplasia
+Malignant neoplasms,3358901000006111.0,52967002,496504011.0,^ESCTMF335890,,MF - Myelofibrosis
+Malignant neoplasms,4838961000006114.0,207036003,317365014.0,^ESCTAN483896,,Angiolymphoid hyperplasia
+Malignant neoplasms,4838991000006118.0,207036003,2838122012.0,^ESCTCA483899,,Castleman disease
+Malignant neoplasms,88121017.0,52967002,88121017.0,D41y1,D41y100,Myelofibrosis
+Malignant neoplasms,2870704010.0,307651005,2870704010.0,B6y1-2,B6y1.12,Osteomyelofibrosis
+Malignant neoplasms,450988016.0,307651005,450988016.0,B937-3,B937.13,Megakaryocytic myelosclerosis
+Malignant neoplasms,293951000006114.0,207036003,317366010.0,R0562,R056200,[D]Castleman's disease
+Malignant neoplasms,3358911000006114.0,52967002,496505012.0,^ESCTMY335891,,Myelosclerosis
+Malignant neoplasms,289895014.0,188733003,289895014.0,B6510,B651000,Chronic eosinophilic leukaemia
+Malignant neoplasms,2995691000006113.0,30746006,1227330019.0,^ESCTLY299569,,Lymphadenopathy - swelling
+Malignant neoplasms,2995661000006117.0,30746006,1227327014.0,^ESCTSW299566,,Swelling of lymph node
+Malignant neoplasms,2995671000006112.0,30746006,1227328016.0,^ESCTSW299567,,Swollen lymph glands
+Malignant neoplasms,2995651000006119.0,30746006,1227325018.0,^ESCTLN299565,,LN - Lymphadenopathy
+Malignant neoplasms,2995681000006110.0,30746006,1227329012.0,^ESCTSW299568,,Swollen lymph nodes
+Malignant neoplasms,2995621000006111.0,30746006,51457019.0,^ESCTSW299562,,Swelling of lymph nodes
+Malignant neoplasms,255528012.0,30746006,51456011.0,2C3,2C3..00,O/E - lymphadenopathy
+Malignant neoplasms,1227323013.0,30746006,1227323013.0,1692,1692.00,Swollen glands
+Malignant neoplasms,255529016.0,30746006,51456011.0,2C3-2,2C3..12,O/E - enlarged lymph nodes
+Malignant neoplasms,255530014.0,30746006,51456011.0,2C3-1,2C3..11,O/E - adenopathy
+Malignant neoplasms,317359014.0,30746006,51452013.0,R056,R056.00,[D]Lymph node enlargement
+Malignant neoplasms,317360016.0,30746006,51456011.0,R0560,R056000,[D]Lymphadenopathy
+Malignant neoplasms,317371015.0,30746006,51452013.0,R056z,R056z00,[D]Lymph node enlargement NOS
+Malignant neoplasms,2995641000006116.0,30746006,1227324019.0,^ESCTLA299564,,LA - Lymphadenopathy
+Malignant neoplasms,5602071000006112.0,277606000,414231017.0,^ESCTLY560207,,Lymphoreticular tumour
+Malignant neoplasms,289713010.0,277606000,414231017.0,B62,B62..00,Other malignant neoplasm of lymphoid and histiocytic tissue
+Malignant neoplasms,5602081000006110.0,277606000,414232012.0,^ESCTLY560208,,Lymphoreticular tumor
+Malignant neoplasms,310976015.0,202574006,310959019.0,N098G,N098G00,Synovial osteochondromatosis of other tarsal joint
+Malignant neoplasms,4409621000006115.0,128467002,206789018.0,^ESCTNE440962,,Neoplasm of uncertain behavior of articular cartilage
+Malignant neoplasms,4043861000006111.0,94765005,157154010.0,^ESCTNE404386,,Neoplasm of uncertain behavior of bone
+Malignant neoplasms,474428019.0,128467002,474428019.0,B9301,B930100,Neoplasm of uncertain behaviour of articular cartilage
+Malignant neoplasms,310959019.0,202574006,310959019.0,N098,N098.00,Synovial osteochondromatosis
+Malignant neoplasms,511456018.0,94765005,511456018.0,B9300,B930000,Neoplasm of uncertain behaviour of bone
+Malignant neoplasms,2548453016.0,416053008,2548453016.0,4KJ0,4KJ0.00,Oestrogen receptor positive tumour
+Malignant neoplasms,2549077010.0,416561008,2549077010.0,4KJ1,4KJ1.00,Progesterone receptor positive tumour
+Malignant neoplasms,291748016.0,66229009,500353013.0,BBT7z,BBT7z00,[M]Haemangioendothelioma NOS
+Malignant neoplasms,305371000006112.0,66229009,500353013.0,BBT7z-1,BBT7z11,[M]Angioendothelioma
+Malignant neoplasms,113291000006114.0,202592003,310977012.0,N098H,N098H00,Synovial osteochondromatosis of 1st MTP joint
+Malignant neoplasms,113331000006119.0,202579001,310964015.0,N0984,N098400,Synovial osteochondromatosis of distal radio-ulnar joint
+Malignant neoplasms,113361000006111.0,202595001,310981012.0,N098K,N098K00,Synovial osteochondromatosis of IP joint of toe
+Malignant neoplasms,113381000006118.0,202593008,310978019.0,N098J,N098J00,Synovial osteochondromatosis of lesser MTP joint
+Malignant neoplasms,113411000006115.0,202582006,310967010.0,N0987,N098700,Synovial osteochondromatosis of PIP joint of finger
+Malignant neoplasms,113421000006111.0,202585008,310970014.0,N098A,N098A00,Synovial osteochondromatosis of sacro-iliac joint
+Malignant neoplasms,304211000006113.0,45187003,75350013.0,BBGB-1,BBGB.11,[M]Abdominal desmoid
+Malignant neoplasms,4044591000006115.0,94799008,157197017.0,^ESCTNE404459,,Neoplasm of uncertain behavior of coccygeal body
+Malignant neoplasms,3577061000006112.0,66229009,109987012.0,^ESCTAN357706,,Angioendothelioma
+Malignant neoplasms,1.198953100000611e+16,66229009,309621000006116.0,^ESCT1198953,,Hemangioendothelioma
+Malignant neoplasms,3228851000006114.0,45187003,75351012.0,^ESCTME322885,,Mesenteric fibromatosis
+Malignant neoplasms,3228861000006111.0,45187003,75352017.0,^ESCTRE322886,,Retroperitoneal fibromatosis
+Malignant neoplasms,3577041000006113.0,66229009,3577041000006113.0,^ESCTHA357704,,Haemangioendothelioma
+Malignant neoplasms,3228871000006116.0,45187003,75353010.0,^ESCTMU322887,,Musculo-aponeurotic fibromatosis
+Malignant neoplasms,3437891000006118.0,57723004,95994019.0,^ESCTAN343789,,Angiomyxoma
+Malignant neoplasms,113471000006112.0,202587000,310972018.0,N098C,N098C00,Synovial osteochondromatosis of tibio-fibular joint
+Malignant neoplasms,3577081000006119.0,66229009,500352015.0,^ESCTKA357708,,Kaposiform haemangioendothelioma
+Malignant neoplasms,1.1907071000006112e+16,66229009,109985016.0,^ESCT1190707,,Hemangioendothelioma
+Malignant neoplasms,4814531000006114.0,202585008,310970014.0,^ESCTSY481453,,Synovial osteochondromatosis of sacroiliac joint
+Malignant neoplasms,3577071000006117.0,66229009,199640016.0,^ESCTKA357707,,Kaposiform hemangioendothelioma
+Malignant neoplasms,310962016.0,202577004,310962016.0,N0982,N098200,Synovial osteochondromatosis of acromioclavicular joint
+Malignant neoplasms,310963014.0,202578009,310963014.0,N0983,N098300,Synovial osteochondromatosis of elbow
+Malignant neoplasms,310965019.0,202580003,310965019.0,N0985,N098500,Synovial osteochondromatosis of wrist
+Malignant neoplasms,310971013.0,202586009,310971013.0,N098B,N098B00,Synovial osteochondromatosis of knee
+Malignant neoplasms,310973011.0,202588005,310973011.0,N098D,N098D00,Synovial osteochondromatosis of ankle
+Malignant neoplasms,310974017.0,202589002,310974017.0,N098E,N098E00,Synovial osteochondromatosis of subtalar joint
+Malignant neoplasms,310975016.0,202590006,310975016.0,N098F,N098F00,Synovial osteochondromatosis of talonavicular joint
+Malignant neoplasms,511497013.0,94799008,511497013.0,B9233,B923300,Neoplasm of uncertain behaviour of coccygeal body
+Malignant neoplasms,1216834013.0,66229009,1216834013.0,BBT7,BBT7.00,[M]Haemangioendothelioma
+Malignant neoplasms,1231760012.0,57723004,1231760012.0,BBHZ,BBHZ.00,[M]Angiomyxoma
+Malignant neoplasms,4814601000006117.0,202592003,2973582012.0,^ESCTSY481460,,Synovial osteochondromatosis of first metatarsophalangeal joint
+Malignant neoplasms,310969013.0,202584007,310969013.0,N0989,N098900,Synovial osteochondromatosis of hip
+Malignant neoplasms,3437901000006119.0,57723004,198784016.0,^ESCTAG343790,,Aggressive angiomyxoma
+Malignant neoplasms,310960012.0,202575007,310960012.0,N0980,N098000,Synovial osteochondromatosis of shoulder
+Malignant neoplasms,310961011.0,202576008,310961011.0,N0981,N098100,Synovial osteochondromatosis of sternoclavicular joint
+Malignant neoplasms,113321000006117.0,202583001,310968017.0,N0988,N098800,Synovial osteochondromatosis of DIP joint of finger
+Malignant neoplasms,113391000006115.0,202581004,310966018.0,N0986,N098600,Synovial osteochondromatosis of MCP joint
+Malignant neoplasms,304221000006117.0,45187003,75349013.0,BBGB,BBGB.00,[M]Abdominal fibromatosis
+Malignant neoplasms,4814551000006119.0,202587000,310972018.0,^ESCTSY481455,,Synovial osteochondromatosis of tibiofibular joint
+Malignant neoplasms,679471000006117.0,189494003,291201017.0,B928,B928.00,Neopl uncert/unkn behav of periph nerves & autonom nerv sys
+Malignant neoplasms,4756931000006118.0,189494003,291200016.0,^ESCTNE475693,,Neoplasm of uncertain or unknown behavior of peripheral nerves and autonomic nervous system
+Malignant neoplasms,679451000006110.0,189399009,290997014.0,B904z,B904z00,Neop uncertain behaviour retroperitoneum or peritoneum NOS
+Malignant neoplasms,4051441000006111.0,95132003,511925016.0,^ESCTNE405144,,Neoplasm of uncertain behaviour of the retroperitoneum
+Malignant neoplasms,4051451000006113.0,95132003,1208610015.0,^ESCTNE405145,,Neoplasm of uncertain behavior of retroperitoneum
+Malignant neoplasms,4051431000006119.0,95132003,157620013.0,^ESCTNE405143,,Neoplasm of uncertain behavior of the retroperitoneum
+Malignant neoplasms,1207842014.0,95132003,1207842014.0,B9040,B904000,Neoplasm of uncertain behaviour of retroperitoneum
+Malignant neoplasms,680081000006113.0,189399009,290997014.0,B904,B904.00,Neop of uncertain behaviour retroperitoneum and peritoneum
+Malignant neoplasms,4756481000006110.0,189399009,290996017.0,^ESCTNE475648,,Neoplasm of uncertain behavior of retroperitoneum and peritoneum
+Malignant neoplasms,291001010.0,189401003,291001010.0,B9041,B904100,Neoplasm of uncertain behaviour of peritoneum
+Malignant neoplasms,4756501000006117.0,189401003,291000011.0,^ESCTNE475650,,Neoplasm of uncertain behavior of peritoneum
+Malignant neoplasms,4390841000006113.0,126926005,473942013.0,^ESCTBR439084,,Breast tumor
+Malignant neoplasms,4390851000006111.0,126926005,473943015.0,^ESCTTU439085,,Tumor of breast
+Malignant neoplasms,4390821000006119.0,126926005,473940017.0,^ESCTTU439082,,Tumour of breast
+Malignant neoplasms,4050551000006119.0,95087004,157564010.0,^ESCTNE405055,,Neoplasm of uncertain behavior of skin
+Malignant neoplasms,511868016.0,95087004,511868016.0,B932,B932.00,Neoplasm of uncertain behaviour of skin
+Malignant neoplasms,291299010.0,126926005,214017.0,BA03,BA03.00,Neoplasm of unspecified nature of breast
+Malignant neoplasms,4390831000006115.0,126926005,473941018.0,^ESCTBR439083,,Breast tumour
+Malignant neoplasms,5511951000006117.0,269497004,403745012.0,^ESCTNE551195,,Neoplasm of uncertain behavior of breast
+Malignant neoplasms,403744011.0,269497004,403744011.0,B933,B933.00,Neoplasm of uncertain behaviour of breast
+Malignant neoplasms,4045281000006115.0,94831000,157238017.0,^ESCTNE404528,,Neoplasm of uncertain behavior of eye
+Malignant neoplasms,3882451000006111.0,84999002,1235002017.0,^ESCTSC388245,,SCC - Intraepidermal squamous cell carcinoma - Bowen's type
+Malignant neoplasms,3882431000006115.0,84999002,140928014.0,^ESCTIN388243,,"Intraepidermal squamous cell carcinoma, Bowen's type"
+Malignant neoplasms,3882441000006113.0,84999002,1235001012.0,^ESCTBD388244,,BD - Bowen's disease
+Malignant neoplasms,511586010.0,94865004,511586010.0,B93y1,B93y100,Neoplasm of uncertain behaviour of heart
+Malignant neoplasms,4046021000006115.0,94865004,157287015.0,^ESCTNE404602,,Neoplasm of uncertain behavior of heart
+Malignant neoplasms,511543010.0,94831000,511543010.0,B93y0,B93y000,Neoplasm of uncertain behaviour of eye
+Malignant neoplasms,291356015.0,84999002,140927016.0,BB2L,BB2L.00,[M]Bowen's disease
+Malignant neoplasms,1781996012.0,402913004,1781996012.0,B829,B829.00,Bowenoid papulosis
+Malignant neoplasms,292094013.0,55342001,92007014.0,BByz,BByz.00,"[M]No microscopic confirmation of tumour, clinically NOS"
+Malignant neoplasms,292097018.0,55342001,92007014.0,Byu,Byu..00,[X]Additional neoplasm classification terms
+Malignant neoplasms,3398621000006116.0,55342001,1231456013.0,^ESCTNE339862,,New growth
+Malignant neoplasms,678521000006112.0,55342001,92007014.0,BA0z,BA0z.00,Neoplasm of unspecified nature NOS
+Malignant neoplasms,679391000006114.0,55342001,92007014.0,B93,B93..00,Neop uncertain behaviour other and unspec sites and tissues
+Malignant neoplasms,679421000006118.0,55342001,92007014.0,B93z,B93z.00,Neop uncertain behaviour other unspec site and tissue NOS
+Malignant neoplasms,679581000006115.0,55342001,92007014.0,B937-1,B937.11,Neoplasm of uncertain behaviour of blood
+Malignant neoplasms,4769111000006114.0,192877007,297116019.0,^ESCTPA476911,,Paraneoplastic cerebellar degeneration
+Malignant neoplasms,3398611000006112.0,55342001,1231455012.0,^ESCTNE339861,,Neoplastic growth
+Malignant neoplasms,3398601000006114.0,55342001,1231454011.0,^ESCTNG339860,,NG - Neoplastic growth
+Malignant neoplasms,297000018.0,52522001,87406016.0,F11,F11..00,Other cerebral degenerations
+Malignant neoplasms,35741000006114.0,52522001,87406016.0,F11y,F11y.00,Other cerebral degeneration
+Malignant neoplasms,291280018.0,55342001,92007014.0,B93yz,B93yz00,Neop of uncertain behaviour of other specified sites NOS
+Malignant neoplasms,291288013.0,55342001,92007014.0,BA,BA...00,Unspecified nature neoplasm
+Malignant neoplasms,291290014.0,55342001,92007014.0,BA00,BA00.00,Neoplasm of unspecified nature of digestive system
+Malignant neoplasms,291293011.0,55342001,92007014.0,BA01,BA01.00,Neoplasm of unspecified nature of respiratory system
+Malignant neoplasms,678501000006119.0,55342001,92007014.0,BA02z,BA02z00,"Neoplasm of unspec nature of bone, skin or soft tissue NOS"
+Malignant neoplasms,3398631000006118.0,55342001,1231457016.0,^ESCTNG339863,,NG - New growth
+Malignant neoplasms,297015017.0,192815006,297015017.0,F11x4,F11x400,Cerebral degeneration due to neoplastic disease
+Malignant neoplasms,297149011.0,192906003,297149011.0,F1631,F163100,Myelopathy due to neoplastic disease
+Malignant neoplasms,292275013.0,55342001,2984293012.0,Bz,Bz...00,Neoplasms NOS
+Malignant neoplasms,291275010.0,55342001,92007014.0,B93y,B93y.00,Neoplasm of uncertain behaviour of other specified sites
+Malignant neoplasms,291284010.0,55342001,92007014.0,B9y,B9y..00,Neoplasm of uncertain behaviour otherwise specified
+Malignant neoplasms,291287015.0,55342001,92007014.0,B9z,B9z..00,Neoplasm of uncertain behaviour NOS
+Malignant neoplasms,291289017.0,55342001,92007014.0,BA0,BA0..00,Neoplasm of unspecified nature
+Malignant neoplasms,291294017.0,55342001,92007014.0,BA02,BA02.00,"Neoplasm of unspecified nature of bone, skin and soft tissue"
+Malignant neoplasms,291295016.0,55342001,92007014.0,BA020,BA02000,Neoplasm of unspecified nature of bone
+Malignant neoplasms,291296015.0,55342001,92007014.0,BA021,BA02100,Neoplasm of unspecified nature of soft tissue
+Malignant neoplasms,291301015.0,55342001,92007014.0,BA05,BA05.00,Neoplasm of unspecified nature of other genitourinary organs
+Malignant neoplasms,291304011.0,55342001,92007014.0,BA0y,BA0y.00,Neoplasm of unspecified nature of other specified sites
+Malignant neoplasms,291306013.0,55342001,92007014.0,BAz,BAz..00,Neoplasm of unspecified nature NOS
+Malignant neoplasms,292096010.0,55342001,92007014.0,By,By...00,Neoplasms otherwise specified
+Malignant neoplasms,297117011.0,192877007,297117011.0,F1442,F144200,Cerebellar ataxia due to neoplasia
+Malignant neoplasms,679401000006111.0,55342001,92007014.0,B937,B937.00,Neop uncertain behaviour other lymphatic/haematopoietic tiss
+Malignant neoplasms,679461000006112.0,55342001,92007014.0,BA07,BA07.00,"Neop unspec nature of endocrine glands, other nervous system"
+Malignant neoplasms,3398591000006118.0,55342001,1231453017.0,^ESCTNE339859,,Neoplasia
+Malignant neoplasms,677881000006110.0,55342001,2984293012.0,B,B....00,Neoplasms
+Malignant neoplasms,679971000006114.0,55342001,92007014.0,B931,B931.00,Neop of uncertain behaviour connective and other soft tissue
+Malignant neoplasms,292086018.0,55342001,92007014.0,BBy,BBy..00,[M]No microscopic confirmation of tumour

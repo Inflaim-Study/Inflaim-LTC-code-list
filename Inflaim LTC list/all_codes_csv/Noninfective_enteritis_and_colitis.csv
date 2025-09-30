@@ -1,0 +1,43 @@
+Condition,MedCodeId,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
+Noninfective enteritis and colitis,2579429013.0,64766004,2579429013.0,J41,J41..00,Idiopathic proctocolitis
+Noninfective enteritis and colitis,696071000006114.0,43752006,72962011.0,J41-1,J41..11,Mucous colitis and/or proctitis
+Noninfective enteritis and colitis,85931000006112.0,295046003,435370011.0,J41-2,J41..12,Ulcerative colitis and/or proctitis
+Noninfective enteritis and colitis,435370011.0,295046003,435370011.0,J410,J410.00,Ulcerative proctocolitis
+Noninfective enteritis and colitis,302953018.0,196987008,302953018.0,J4100,J410000,Ulcerative ileocolitis
+Noninfective enteritis and colitis,107644019.0,64766004,107644019.0,J4101,J410100,Ulcerative colitis
+Noninfective enteritis and colitis,496332018.0,52506002,496332018.0,J4102,J410200,Ulcerative rectosigmoiditis
+Noninfective enteritis and colitis,496249010.0,52231000,496249010.0,J4103,J410300,Ulcerative proctitis
+Noninfective enteritis and colitis,2532953017.0,414156000,2532953017.0,J4104,J410400,Exacerbation of ulcerative colitis
+Noninfective enteritis and colitis,302956014.0,295046003,435370011.0,J410z,J410z00,Ulcerative proctocolitis NOS
+Noninfective enteritis and colitis,85891000006115.0,235714007,353357011.0,J411,J411.00,Ulcerative (chronic) enterocolitis
+Noninfective enteritis and colitis,85901000006116.0,196987008,302953018.0,J412,J412.00,Ulcerative (chronic) ileocolitis
+Noninfective enteritis and colitis,2872721013.0,444548001,2872721013.0,J413,J413.00,Ulcerative pancolitis
+Noninfective enteritis and colitis,302959019.0,418130002,2576688010.0,J41y,J41y.00,Other idiopathic proctocolitis
+Noninfective enteritis and colitis,302961011.0,418130002,2576688010.0,J41yz,J41yz00,Other idiopathic proctocolitis NOS
+Noninfective enteritis and colitis,302962016.0,64766004,2579429013.0,J41z,J41z.00,Idiopathic proctocolitis NOS
+Noninfective enteritis and colitis,303762015.0,64766004,107644019.0,Jyu41,Jyu4100,[X]Other ulcerative colitis
+Noninfective enteritis and colitis,886291000006112.0,34000006,886291000006112.0,J40-99,J40..99,Regional enteritis - Crohn
+Noninfective enteritis and colitis,906051000006118.0,906051000006102,906051000006118.0,HNG0087,,[RFC] Crohns disease
+Noninfective enteritis and colitis,3047381000006117.0,34000006,56770011.0,^ESCTGR304738,,Granulomatous enteritis
+Noninfective enteritis and colitis,302322010.0,196578009,302322010.0,J08z9,J08z900,Orofacial Crohn's disease
+Noninfective enteritis and colitis,179501000006113.0,34000006,485713019.0,J40,J40..00,Regional enteritis - Crohn's disease
+Noninfective enteritis and colitis,56765016.0,34000006,56765016.0,J40-1,J40..11,Crohn's disease
+Noninfective enteritis and colitis,56770011.0,34000006,56765016.0,J40-2,J40..12,Granulomatous enteritis
+Noninfective enteritis and colitis,179571000006119.0,56689002,94270018.0,J400,J400.00,Regional enteritis of the small bowel
+Noninfective enteritis and colitis,497569010.0,56287005,497569010.0,J4000,J400000,Regional enteritis of the duodenum
+Noninfective enteritis and colitis,302937016.0,196976000,302937016.0,J4001,J400100,Regional enteritis of the jejunum
+Noninfective enteritis and colitis,601091000006115.0,196977009,302938014.0,J4002,J400200,Crohn's disease of the terminal ileum
+Noninfective enteritis and colitis,302939018.0,38106008,64705019.0,J4003,J400300,Crohn's disease of the ileum unspecified
+Noninfective enteritis and colitis,302940016.0,38106008,64705019.0,J4004,J400400,Crohn's disease of the ileum NOS
+Noninfective enteritis and colitis,2532958014.0,414154002,2532958014.0,J4005,J400500,Exacerbation of Crohn's disease of small intestine
+Noninfective enteritis and colitis,302941017.0,56689002,94270018.0,J400z,J400z00,Crohn's disease of the small bowel NOS
+Noninfective enteritis and colitis,1495442018.0,7620006,1495442018.0,J401,J401.00,Regional enteritis of the large bowel
+Noninfective enteritis and colitis,179521000006115.0,50440006,1230866018.0,J4010,J401000,Regional enteritis of the colon
+Noninfective enteritis and colitis,488238014.0,3815005,488238014.0,J4011,J401100,Regional enteritis of the rectum
+Noninfective enteritis and colitis,2532950019.0,414153008,2532950019.0,J4012,J401200,Exacerbation of Crohn's disease of large intestine
+Noninfective enteritis and colitis,396357012.0,7620006,13585013.0,J401z,J401z00,Crohn's disease of the large bowel NOS
+Noninfective enteritis and colitis,601031000006119.0,50440006,1230866018.0,J401z-1,J401z11,Crohn's colitis
+Noninfective enteritis and colitis,302946010.0,196983007,302946010.0,J402,J402.00,Regional ileocolitis
+Noninfective enteritis and colitis,302947018.0,34000006,56765016.0,J40z,J40z.00,Regional enteritis NOS
+Noninfective enteritis and colitis,1222351011.0,34000006,56765016.0,J40z-1,J40z.11,Crohn's disease NOS
+Noninfective enteritis and colitis,303761010.0,34000006,56765016.0,Jyu40,Jyu4000,[X]Other Crohn's disease

@@ -1,0 +1,13 @@
+Condition,MedCodeId,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
+Hyperparathyroidism,60663012.0,36348003,60663012.0,C1200,C120000,Primary hyperparathyroidism
+Hyperparathyroidism,129770011.0,78200003,129770011.0,C1202,C120200,Tertiary hyperparathyroidism
+Hyperparathyroidism,140466019.0,84727000,140466019.0,C1201-1,C120111,Osteitis fibrosa cystica
+Hyperparathyroidism,111289013.0,66999008,111289013.0,C120,C120.00,Hyperparathyroidism
+Hyperparathyroidism,312190010.0,203471008,312190010.0,N3325,N332500,Brown tumour of hyperparathyroidism
+Hyperparathyroidism,830981000006111.0,84727000,140459015.0,C1201,C120100,Hyperparathyroid bone disease
+Hyperparathyroidism,63791000006110.0,84727000,1234973018.0,C120-2,C120.12,Von Recklinghausen's bone disease
+Hyperparathyroidism,1234973018.0,84727000,1234973018.0,C1201-2,C120112,von Recklinghausen's bone disease
+Hyperparathyroidism,41211000006118.0,84727000,140466019.0,C120-1,C120.11,Osteitis fibrosa cystica
+Hyperparathyroidism,293766019.0,66999008,111289013.0,Cyu41,Cyu4100,[X]Other hyperparathyroidism
+Hyperparathyroidism,151534010.0,91478007,151534010.0,K08y1,K08y100,Secondary hyperparathyroidism
+Hyperparathyroidism,49080014.0,29326002,49080014.0,C1z31,C1z3100,Ectopic hyperparathyroidism

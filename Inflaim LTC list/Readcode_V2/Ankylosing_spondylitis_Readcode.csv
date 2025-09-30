@@ -1,0 +1,7 @@
+Condition,ReadCode,CleansedReadCode,Term
+Ankylosing spondylitis,N0401,N040100,Other rheumatoid arthritis of spine
+Ankylosing spondylitis,^ESCT1245458,,O/E - ankyl.spondyl.chest def.
+Ankylosing spondylitis,2377,2377.00,O/E - ankyl.spondyl.chest def.
+Ankylosing spondylitis,388p,388p.00,BASDAI - Bath ankylosing spondylitis disease activity index
+Ankylosing spondylitis,N100,N100.00,Ankylosing spondylitis
+Ankylosing spondylitis,N100-1,N100.11,Marie - Strumpell spondylitis

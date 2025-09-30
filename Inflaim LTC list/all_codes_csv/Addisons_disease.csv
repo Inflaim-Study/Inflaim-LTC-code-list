@@ -1,0 +1,11 @@
+Condition,MedCodeId,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
+Addison's disease,266381013.0,172021003,266381013.0,71220,7122000,Bilateral adrenalectomy and transposition of adrenal tissue
+Addison's disease,266382018.0,302340005,443963019.0,71221,7122100,Bilateral adrenalectomy NEC
+Addison's disease,1491626013.0,386584007,1491626013.0,C154,C154.00,Corticoadrenal insufficiency
+Addison's disease,485624014.0,363732003,485624014.0,C1541,C154100,Addison's disease
+Addison's disease,398809019.0,386584007,1480726013.0,C154z,C154z00,Corticoadrenal insufficiency NOS
+Addison's disease,178805019.0,237785004,3506672018.0,C154z-1,C154z11,Adrenal hypofunction
+Addison's disease,356317017.0,386584007,1491625012.0,C154z-2,C154z12,Adrenal insufficiency NEC
+Addison's disease,292837019.0,237785004,356349017.0,C155,C155.00,Other adrenal hypofunction
+Addison's disease,292838012.0,237785004,356349017.0,C155z,C155z00,Other adrenal hypofunction NOS
+Addison's disease,682621000006119.0,34253008,57198011.0,F3950,F395000,Myopathy due to Addison's disease

@@ -1,0 +1,175 @@
+Condition,MedCodeId,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
+Other forms of heart disease,635591000006118.0,164901004,256490016.0,3293,3293.00,ECG:complete sinu-atrial block
+Other forms of heart disease,634991000006112.0,164903001,256492012.0,3295,3295.00,ECG: partial A-V block - 2:1
+Other forms of heart disease,635001000006117.0,164904007,256493019.0,3296,3296.00,ECG: partial A-V block - 3:1
+Other forms of heart disease,256494013.0,164905008,256494013.0,3297,3297.00,ECG: Wenckebach phenomenon
+Other forms of heart disease,1765921000006112.0,164905008,1739491000000118.0,3297-1,3297.11,Electrocardiogram: Mobitz type 1 second degree AV block
+Other forms of heart disease,634591000006119.0,164906009,256495014.0,3298,3298.00,ECG: complete A-V block
+Other forms of heart disease,256496010.0,164907000,256496010.0,3299,3299.00,ECG: right bundle branch block
+Other forms of heart disease,256500012.0,164909002,256500012.0,329A,329A.00,ECG: left bundle branch block
+Other forms of heart disease,1738951000006119.0,445309007,2871902010.0,329B,329B.00,ECG: trifascicular block
+Other forms of heart disease,1765931000006110.0,426183003,1689181000000114.0,329H,329H.00,Electrocardiogram: Mobitz type 2 second degree AV block
+Other forms of heart disease,46670010.0,27885002,46670010.0,G560,G560.00,Complete atrioventricular block
+Other forms of heart disease,46671014.0,27885002,46671014.0,G560-1,G560.11,Third degree atrioventricular block
+Other forms of heart disease,47191011.0,28189009,47191011.0,G5612,G561200,Mobitz type II atrioventricular block
+Other forms of heart disease,699951000006113.0,54016002,1231274018.0,G5613,G561300,Mobitz type I (Wenckebach) atrioventricular block
+Other forms of heart disease,1231273012.0,54016002,1231273012.0,G5613-1,G561311,Mobitz type 1 second degree atrioventricular block
+Other forms of heart disease,300073018.0,195042002,300073018.0,G5614,G561400,Second degree atrioventricular block
+Other forms of heart disease,105498014.0,63467002,105498014.0,G562-1,G562.11,Left bundle branch block
+Other forms of heart disease,300079019.0,195046004,300079019.0,G563,G563.00,Left main stem bundle branch block
+Other forms of heart disease,98239015.0,59118001,98239015.0,G564,G564.00,Right bundle branch block
+Other forms of heart disease,300080016.0,6374002,11568018.0,G565,G565.00,Other bundle branch block
+Other forms of heart disease,300081017.0,6374002,11568018.0,G5650,G565000,Bundle branch block unspecified
+Other forms of heart disease,300084013.0,20143001,33890011.0,G5653,G565300,Other bilateral bundle branch block
+Other forms of heart disease,142607010.0,86014007,142607010.0,G5654,G565400,Trifascicular block
+Other forms of heart disease,300086010.0,6374002,11568018.0,G565z,G565z00,Other bundle branch block NOS
+Other forms of heart disease,1488804017.0,395105005,1488804017.0,1O1,1O1..00,Heart failure confirmed
+Other forms of heart disease,1165041000000115.0,521691000000100,1165041000000115.0,21264,2126400,Heart failure resolved
+Other forms of heart disease,833381000006119.0,762994006,3637504017.0,388D,388D.00,New York Heart Assoc classification heart failure symptoms
+Other forms of heart disease,2616470012.0,420300004,2616470012.0,662f,662f.00,New York Heart Association Classification - Class I
+Other forms of heart disease,2616471011.0,421704003,2616471011.0,662g,662g.00,New York Heart Association Classification - Class II
+Other forms of heart disease,2616472016.0,420913000,2616472016.0,662h,662h.00,New York Heart Association Classification - Class III
+Other forms of heart disease,2616473014.0,422293003,2616473014.0,662i,662i.00,New York Heart Association Classification - Class IV
+Other forms of heart disease,1784061000006118.0,789621000000105,1765351000000114.0,8CeC,8CeC.00,Preferred place of care for next exacerbation heart failure
+Other forms of heart disease,2205951000000116.8,851521000000102,2205951000000116.8,8CMW8,8CMW800,Heart failure clinical pathway
+Other forms of heart disease,139061000000114.0,717181000000106,1569721000000116.0,9h11,9h11.00,Excepted from LVD quality indicators: Patient unsuitable
+Other forms of heart disease,139071000000119.0,717281000000100,1569821000000111.0,9h12,9h12.00,Excepted from LVD quality indicators: Informed dissent
+Other forms of heart disease,1561941000006119.0,717481000000104,1570021000000117.0,9hH0,9hH0.00,Excepted heart failure quality indicators: Patient unsuitabl
+Other forms of heart disease,1561951000006117.0,717491000000102,1570031000000115.0,9hH1,9hH1.00,Excepted heart failure quality indicators: Informed dissent
+Other forms of heart disease,2548316014.0,417359009,2548316014.0,9N2p,9N2p.00,Seen by community heart failure nurse
+Other forms of heart disease,303361000000111.0,200171000000102,303361000000111.0,9N6T,9N6T.00,Referred by heart failure nurse specialist
+Other forms of heart disease,72934016.0,43736008,72934016.0,G1yz1,G1yz100,Rheumatic left ventricular failure
+Other forms of heart disease,741681000006111.0,64715009,107545013.0,G21z1,G21z100,Hypertensive heart disease NOS with CCF
+Other forms of heart disease,741701000006114.0,194779001,299672017.0,G232,G232.00,Hypertensive heart&renal dis wth (congestive) heart failure
+Other forms of heart disease,789941000006117.0,194781004,299674016.0,G234,G234.00,Hyperten heart&renal dis+both(congestv)heart and renal fail
+Other forms of heart disease,132655012.0,79955004,132655012.0,G41z-1,G41z.11,Chronic cor pulmonale
+Other forms of heart disease,1778488011.0,399020009,1778488011.0,G5540,G554000,Congestive cardiomyopathy
+Other forms of heart disease,350413012.0,233871002,350413012.0,G5540-1,G554011,Congestive obstructive cardiomyopathy
+Other forms of heart disease,139475013.0,84114007,139475013.0,G58,G58..00,Heart failure
+Other forms of heart disease,139482012.0,84114007,139482012.0,G58-1,G58..11,Cardiac failure
+Other forms of heart disease,70653017.0,42343007,70653017.0,G580,G580.00,Congestive heart failure
+Other forms of heart disease,493287011.0,42343007,70653017.0,G580-1,G580.11,Congestive cardiac failure
+Other forms of heart disease,206703015.0,128404006,206703015.0,G580-2,G580.12,Right heart failure
+Other forms of heart disease,490972013.0,367363000,490972013.0,G580-3,G580.13,Right ventricular failure
+Other forms of heart disease,510016018.0,92506005,153058012.0,G580-4,G580.14,Biventricular failure
+Other forms of heart disease,147247018.0,88805009,147247018.0,G5801,G580100,Chronic congestive heart failure
+Other forms of heart disease,300179017.0,195111005,300179017.0,G5802,G580200,Decompensated cardiac failure
+Other forms of heart disease,300180019.0,195112003,300180019.0,G5803,G580300,Compensated cardiac failure
+Other forms of heart disease,2675255018.0,426611007,2675255018.0,G5804,G580400,Congestive heart failure due to valvular disease
+Other forms of heart disease,141306010.0,85232009,141306010.0,G581,G581.00,Left ventricular failure
+Other forms of heart disease,1495417010.0,71892000,119456014.0,G581-1,G581.11,Asthma - cardiac
+Other forms of heart disease,411506018.0,275514001,411506018.0,G581-3,G581.13,Impaired left ventricular function
+Other forms of heart disease,1816101000006112.8,367363000,490972013.0,G584,G584.00,Right ventricular failure
+Other forms of heart disease,395772015.0,84114007,139475013.0,G58z,G58z.00,Heart failure NOS
+Other forms of heart disease,223981000000118.0,84114007,139482012.0,G58z-2,G58z.12,Cardiac failure NOS
+Other forms of heart disease,216207010.0,134401001,216207010.0,G5yy9,G5yy900,Left ventricular systolic dysfunction
+Other forms of heart disease,1489358014.0,395704004,1489358014.0,G5yyA,G5yyA00,Left ventricular diastolic dysfunction
+Other forms of heart disease,1478969019.0,384642005,1478969019.0,7910-1,7910.11,Mitral valvuloplasty
+Other forms of heart disease,270933016.0,384642005,1478969019.0,79104,7910400,Mitral valvuloplasty NEC
+Other forms of heart disease,465571000000117.0,384641003,1478968010.0,79104-1,7910411,Mitral valve repair NEC
+Other forms of heart disease,270950019.0,112816004,188662011.0,79114,7911400,Aortic valvuloplasty NEC
+Other forms of heart disease,2536641017.0,384643000,2536641017.0,7912-2,7912.12,Tricuspid valvuloplasty
+Other forms of heart disease,270966017.0,384643000,1478970018.0,79125,7912500,Tricuspid valvuloplasty NEC
+Other forms of heart disease,465521000000116.0,384643000,1478970018.0,79125-1,7912511,Tricuspid valve repair NEC
+Other forms of heart disease,271010013.0,174967004,271010013.0,79160,7916000,Open mitral valvotomy
+Other forms of heart disease,271011012.0,174968009,271011012.0,79161,7916100,Open aortic valvotomy
+Other forms of heart disease,271012017.0,174969001,271012017.0,79162,7916200,Open tricuspid valvotomy
+Other forms of heart disease,499818013.0,6433003,499818013.0,79170,7917000,Closed mitral valvotomy
+Other forms of heart disease,1219795015.0,112814001,1219795015.0,79171,7917100,Closed aortic valvotomy
+Other forms of heart disease,474766017.0,129243001,474766017.0,79172,7917200,Closed tricuspid valvotomy
+Other forms of heart disease,271030012.0,174980001,271030012.0,79180,7918000,Annuloplasty of mitral valve
+Other forms of heart disease,394285014.0,265480000,394285014.0,79181,7918100,Annuloplasty of tricuspid valve
+Other forms of heart disease,348762015.0,232783002,348762015.0,79181-1,7918111,De Vega tricuspid annuloplasty
+Other forms of heart disease,348798011.0,232808000,348798011.0,79184,7918400,Closure of tricuspid valve
+Other forms of heart disease,271043012.0,174987003,271043012.0,79190,7919000,Percutaneous transluminal mitral valvotomy
+Other forms of heart disease,271044018.0,174988008,271044018.0,79191,7919100,Percutaneous transluminal aortic valvotomy
+Other forms of heart disease,271045017.0,174989000,271045017.0,79192,7919200,Percutaneous transluminal tricuspid valvotomy
+Other forms of heart disease,348801017.0,232811004,348801017.0,791D0,791D000,Tricuspid valvectomy
+Other forms of heart disease,219511000000113.0,11851006,444757013.0,G11,G11..00,Mitral valve diseases
+Other forms of heart disease,1234383014.0,79619009,1234383014.0,G110,G110.00,Mitral stenosis
+Other forms of heart disease,299593012.0,194726006,299593012.0,G112-2,G112.12,Mitral stenosis with incompetence
+Other forms of heart disease,299592019.0,194726006,299592019.0,G112-3,G112.13,Mitral stenosis with regurgitation
+Other forms of heart disease,159271000006119.0,251003004,374137013.0,G114,G114.00,Ruptured mitral valve cusp
+Other forms of heart disease,299596016.0,11851006,444757013.0,G11z,G11z.00,Mitral valve disease NOS
+Other forms of heart disease,299602018.0,194732001,299602018.0,G13,G13..00,Diseases of mitral and aortic valves
+Other forms of heart disease,299603011.0,194733006,299603011.0,G130,G130.00,Mitral and aortic stenosis
+Other forms of heart disease,299604017.0,194734000,299604017.0,G131,G131.00,Mitral stenosis and aortic insufficiency
+Other forms of heart disease,299606015.0,194734000,299606015.0,G131-3,G131.13,Mitral stenosis and aortic incompetence
+Other forms of heart disease,299605016.0,194734000,299605016.0,G131-4,G131.14,Mitral stenosis and aortic regurgitation
+Other forms of heart disease,299609010.0,194735004,299609010.0,G132,G132.00,Mitral insufficiency and aortic stenosis
+Other forms of heart disease,299607012.0,194735004,299607012.0,G132-2,G132.12,Mitral incompetence and aortic stenosis
+Other forms of heart disease,299608019.0,194735004,299608019.0,G132-3,G132.13,Mitral regurgitation and aortic stenosis
+Other forms of heart disease,299610017.0,194736003,299610017.0,G133,G133.00,Mitral and aortic incompetence
+Other forms of heart disease,299611018.0,194736003,299611018.0,G133-1,G133.11,Mitral and aortic insufficiency
+Other forms of heart disease,299612013.0,194736003,299612013.0,G133-2,G133.12,Mitral and aortic regurgitation
+Other forms of heart disease,299613015.0,194732001,299602018.0,G13y,G13y.00,Multiple mitral and aortic valve involvement
+Other forms of heart disease,299614014.0,194732001,299602018.0,G13z,G13z.00,Mitral and aortic valve disease NOS
+Other forms of heart disease,299616011.0,20721001,1222524014.0,G140,G140.00,Tricuspid valve disease NEC
+Other forms of heart disease,299621014.0,49915006,83138015.0,G1403,G140300,"Tricuspid stenosis, cause unspecified"
+Other forms of heart disease,299622019.0,111287006,178507019.0,G1404,G140400,"Tricuspid insufficiency, cause unspecified"
+Other forms of heart disease,1222306011.0,111287006,178507019.0,G1404-2,G140412,"Tricuspid incompetence, cause unspecified"
+Other forms of heart disease,1222307019.0,111287006,178507019.0,G1404-3,G140413,"Tricuspid regurgitation, cause unspecified"
+Other forms of heart disease,299623012.0,49915006,83138015.0,G1405,G140500,"Tricuspid stenosis and insufficiency, cause unspecified"
+Other forms of heart disease,1222308012.0,49915006,83138015.0,G1405-4,G140514,"Tricuspid stenosis and regurgitation, cause unspecified"
+Other forms of heart disease,81191015.0,48724000,81193017.0,G540,G540.00,Mitral valve incompetence
+Other forms of heart disease,81192010.0,48724000,81192010.0,G540-2,G540.12,Mitral valve insufficiency
+Other forms of heart disease,81186016.0,48724000,81186016.0,G540-4,G540.14,Mitral valve regurgitation
+Other forms of heart disease,700891000006114.0,409712001,2471474013.0,G540-5,G540.15,Mitral valve prolapse
+Other forms of heart disease,81193017.0,48724000,81193017.0,G540-6,G540.16,Mitral regurgitation
+Other forms of heart disease,299980014.0,194978002,299980014.0,G5400,G540000,"Mitral incompetence, non-rheumatic"
+Other forms of heart disease,299981013.0,48724000,81186016.0,G5401,G540100,"Mitral incompetence, cause unspecified"
+Other forms of heart disease,2471474013.0,409712001,2471474013.0,G5402,G540200,Mitral valve prolapse
+Other forms of heart disease,374120018.0,250989005,374120018.0,G5403,G540300,Mitral valve leaf prolapse
+Other forms of heart disease,299984017.0,11851006,20449013.0,G540z,G540z00,Mitral valve disorders NOS
+Other forms of heart disease,488521000006118.0,8722008,1235209017.0,G541,G541.00,Aortic valve disorders
+Other forms of heart disease,299985016.0,194983005,299985016.0,G5410,G541000,"Aortic incompetence, non-rheumatic"
+Other forms of heart disease,299987012.0,194983005,299987012.0,G5410-1,G541011,"Aortic insufficiency, non-rheumatic"
+Other forms of heart disease,299986015.0,194983005,299986015.0,G5410-2,G541012,"Aortic regurgitation, non-rheumatic"
+Other forms of heart disease,299988019.0,194984004,299988019.0,G5411,G541100,"Aortic stenosis, non-rheumatic"
+Other forms of heart disease,299989010.0,60234000,100055018.0,G5412,G541200,"Aortic incompetence alone, cause unspecified"
+Other forms of heart disease,1222314017.0,60234000,100055018.0,G5412-1,G541211,"Aortic insufficiency alone, cause unspecified"
+Other forms of heart disease,1222315016.0,60234000,100055018.0,G5412-2,G541212,"Aortic regurgitation alone, cause unspecified"
+Other forms of heart disease,299990018.0,60573004,100633013.0,G5413,G541300,"Aortic stenosis alone, cause unspecified"
+Other forms of heart disease,299991019.0,194987006,299991019.0,G5414,G541400,Aortic valve stenosis with insufficiency
+Other forms of heart disease,1232103019.0,60573004,100633013.0,G5415,G541500,Aortic stenosis
+Other forms of heart disease,112523010.0,67754003,112523010.0,G5416,G541600,Aortic valve sclerosis
+Other forms of heart disease,374104011.0,250978003,374104011.0,G5417,G541700,Aortic valve calcification
+Other forms of heart disease,299992014.0,8722008,15387019.0,G541z,G541z00,Aortic valve disorders NOS
+Other forms of heart disease,299993016.0,194989009,299993016.0,G542,G542.00,"Tricuspid valve disorders, non-rheumatic"
+Other forms of heart disease,299994010.0,194990000,299994010.0,G5420,G542000,"Tricuspid incompetence, non-rheumatic"
+Other forms of heart disease,299995011.0,194990000,299995011.0,G5420-1,G542011,"Tricuspid insufficiency, non-rheumatic"
+Other forms of heart disease,299996012.0,194990000,299996012.0,G5420-2,G542012,"Tricuspid regurgitation, non-rheumatic"
+Other forms of heart disease,299997015.0,194991001,299997015.0,G5421,G542100,"Tricuspid stenosis, non-rheumatic"
+Other forms of heart disease,297501000006112.0,194992008,299998013.0,G5422,G542200,Nonrheumatic tricuspid valve stenosis with insufficiency
+Other forms of heart disease,297491000006116.0,194989009,2957051016.0,G542X,G542X00,"Nonrheumatic tricuspid valve disorder, unspecified"
+Other forms of heart disease,300000019.0,20721001,34866017.0,G542z,G542z00,Tricuspid valve disorders NOS
+Other forms of heart disease,694371000006117.0,195002007,300013013.0,G544,G544.00,Multiple valve diseases
+Other forms of heart disease,300014019.0,195003002,300014019.0,G5440,G544000,Disorders of both aortic and tricuspid valves
+Other forms of heart disease,300015018.0,195004008,300015018.0,G5441,G544100,Disorders of both mitral and tricuspid valves
+Other forms of heart disease,300016017.0,195005009,300016017.0,G5442,G544200,"Combined disorders of mitral, aortic and tricuspid valves"
+Other forms of heart disease,694361000006112.0,195002007,300013013.0,G544X,G544X00,"Multiple valve disease, unspecified"
+Other forms of heart disease,300863016.0,11851006,20449013.0,Gyu10,Gyu1000,[X]Other mitral valve diseases
+Other forms of heart disease,300865011.0,20721001,34866017.0,Gyu12,Gyu1200,[X]Other tricuspid valve diseases
+Other forms of heart disease,412241000006110.0,11851006,20449013.0,Gyu55,Gyu5500,[X]Other nonrheumatic mitral valve disorders
+Other forms of heart disease,300893010.0,8722008,15387019.0,Gyu56,Gyu5600,[X]Other aortic valve disorders
+Other forms of heart disease,300897011.0,8722008,15387019.0,Gyu5A,Gyu5A00,[X]Aortic valve disorders in diseases classified elsewhere
+Other forms of heart disease,429571000006116.0,20721001,34866017.0,Gyu5B,Gyu5B00,[X]Tricuspid valve disorders/diseases CE
+Other forms of heart disease,399141000006119.0,195002007,300013013.0,Gyu5D,Gyu5D00,[X]Multiple valve disorders/diseases CE
+Other forms of heart disease,303131000000116.0,200071000000101,303131000000116.0,14AQ,14AQ.00,History of supraventricular tachycardia
+Other forms of heart disease,256480012.0,164891006,256480012.0,3274,3274.00,ECG: paroxysmal atrial tachy.
+Other forms of heart disease,123539010.0,74390002,123539010.0,G5674,G567400,Wolff-Parkinson-White syndrome
+Other forms of heart disease,111643014.0,67198005,111643014.0,G570,G570.00,Paroxysmal supraventricular tachycardia
+Other forms of heart disease,300106011.0,195069001,300106011.0,G5700,G570000,Paroxysmal atrial tachycardia
+Other forms of heart disease,300110014.0,195070000,300110014.0,G5701,G570100,Paroxysmal atrioventricular tachycardia
+Other forms of heart disease,300111013.0,195071001,300111013.0,G5702,G570200,Paroxysmal junctional tachycardia
+Other forms of heart disease,300114017.0,195072008,300114017.0,G5703,G570300,Paroxysmal nodal tachycardia
+Other forms of heart disease,300119010.0,67198005,111643014.0,G570z,G570z00,Paroxysmal supraventricular tachycardia NOS
+Other forms of heart disease,300167017.0,6456007,11705016.0,G57y9,G57y900,Supraventricular tachycardia NOS
+Other forms of heart disease,299591014.0,194726006,299591014.0,G112,G112.00,Mitral stenosis with insufficiency
+Other forms of heart disease,107545013.0,64715009,107545013.0,G21,G21..00,Hypertensive heart disease
+Other forms of heart disease,741661000006118.0,64715009,107545013.0,G21z,G21z.00,Hypertensive heart disease NOS
+Other forms of heart disease,741691000006114.0,64715009,107545013.0,G21z0,G21z000,Hypertensive heart disease NOS without CCF
+Other forms of heart disease,299655012.0,64715009,107545013.0,G21zz,G21zz00,Hypertensive heart disease NOS
+Other forms of heart disease,6426391000006116.0,384643000,2536640016.0,^ESCTTR642639,,Tricuspid valvoplasty
+Other forms of heart disease,6426381000006119.0,384643000,2536639018.0,^ESCTTV642638,,TVP - Tricuspid valve plasty
+Other forms of heart disease,6426371000006117.0,384643000,1490909010.0,^ESCTTV642637,,TVR - Tricuspid valve repair

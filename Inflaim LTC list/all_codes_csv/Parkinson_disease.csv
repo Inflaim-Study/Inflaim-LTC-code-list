@@ -1,0 +1,10 @@
+Condition,MedCodeId,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
+Parkinson disease,3293631000006118.0,49049000,1230677014.0,^ESCTID329363,,Idiopathic Parkinson's disease
+Parkinson disease,905821000006112.0,905821000006108,905821000006112.0,HNG0054,,[RFC] Parkinson's disease
+Parkinson disease,909021000006117.0,909021000006101,909021000006117.0,HNG0633,,[RFC] Parkinson's disease
+Parkinson disease,3293611000006112.0,49049000,81719014.0,^ESCTPA329361,,Paralysis agitans
+Parkinson disease,295688010.0,425390006,2921040013.0,Eu023,Eu02300,[X]Dementia in Parkinson's disease
+Parkinson disease,636681000000117.0,341551000000108,636681000000117.0,F11x9,F11x900,Cerebral degeneration in Parkinson's disease
+Parkinson disease,81717011.0,49049000,81717011.0,F12,F12..00,Parkinson's disease
+Parkinson disease,81719014.0,49049000,81717011.0,F120,F120.00,Paralysis agitans
+Parkinson disease,297037012.0,49049000,81717011.0,F12z,F12z.00,Parkinson's disease NOS

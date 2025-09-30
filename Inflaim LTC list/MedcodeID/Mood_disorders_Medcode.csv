@@ -1,0 +1,105 @@
+Condition,MedCodeId,Term
+Mood disorders,423041000006119.0,[X]Post-schizophrenic depression
+Mood disorders,851691000006114.0,Hypomanic
+Mood disorders,882321000006119.0,Mania/hypomania
+Mood disorders,882311000006110.0,Manic-depressive psychoses
+Mood disorders,2157096015.0,Manic mood
+Mood disorders,492761000000114.0,Bipolar affective disorder resolved
+Mood disorders,513871000006118.0,Bipolar psychoses
+Mood disorders,223601000000119.0,Manic psychoses
+Mood disorders,789221000006116.0,Hypomanic psychoses
+Mood disorders,513801000006112.0,"Bipolar affective disorder, currently manic"
+Mood disorders,294847017.0,Manic-depressive - now manic
+Mood disorders,294848010.0,"Bipolar affective disorder, currently manic, unspecified"
+Mood disorders,294849019.0,"Bipolar affective disorder, currently manic, mild"
+Mood disorders,294850019.0,"Bipolar affective disorder, currently manic, moderate"
+Mood disorders,513741000006119.0,"Bipolar affect disord,currently manic, part/unspec remission"
+Mood disorders,513811000006110.0,"Bipolar affective disorder, currently manic, full remission"
+Mood disorders,294858014.0,"Bipolar affective disorder, currently manic, NOS"
+Mood disorders,513751000006117.0,"Bipolar affective disorder, currently depressed"
+Mood disorders,294860011.0,Manic-depressive - now depressed
+Mood disorders,294861010.0,"Bipolar affective disorder, currently depressed, unspecified"
+Mood disorders,294862015.0,"Bipolar affective disorder, currently depressed, mild"
+Mood disorders,294863013.0,"Bipolar affective disorder, currently depressed, moderate"
+Mood disorders,513711000006118.0,"Bipolar affect disord, now depressed, part/unspec remission"
+Mood disorders,513861000006113.0,"Bipolar affective disorder, now depressed, in full remission"
+Mood disorders,294868016.0,"Bipolar affective disorder, currently depressed, NOS"
+Mood disorders,294869012.0,Mixed bipolar affective disorder
+Mood disorders,294870013.0,"Mixed bipolar affective disorder, unspecified"
+Mood disorders,294871012.0,"Mixed bipolar affective disorder, mild"
+Mood disorders,294872017.0,"Mixed bipolar affective disorder, moderate"
+Mood disorders,701051000006118.0,"Mixed bipolar affective disorder, partial/unspec remission"
+Mood disorders,294876019.0,"Mixed bipolar affective disorder, in full remission"
+Mood disorders,294877011.0,"Mixed bipolar affective disorder, NOS"
+Mood disorders,294880012.0,Unspecified bipolar affective disorder
+Mood disorders,294881011.0,"Unspecified bipolar affective disorder, unspecified"
+Mood disorders,294882016.0,"Unspecified bipolar affective disorder, mild"
+Mood disorders,294883014.0,"Unspecified bipolar affective disorder, moderate"
+Mood disorders,82091000006116.0,"Unspecified bipolar affect disord, partial/unspec remission"
+Mood disorders,294887010.0,"Unspecified bipolar affective disorder, in full remission"
+Mood disorders,294888017.0,"Unspecified bipolar affective disorder, NOS"
+Mood disorders,294891017.0,Other and unspecified manic-depressive psychoses
+Mood disorders,294892012.0,Unspecified manic-depressive psychoses
+Mood disorders,294893019.0,Atypical manic disorder
+Mood disorders,294895014.0,Other mixed manic-depressive psychoses
+Mood disorders,294896010.0,Other and unspecified manic-depressive psychoses NOS
+Mood disorders,389401000006111.0,[X]Hypomania
+Mood disorders,296110017.0,[X]Mania without psychotic symptoms
+Mood disorders,401863011.0,[X]Mania with psychotic symptoms
+Mood disorders,396701000006111.0,[X]Mania with mood-congruent psychotic symptoms
+Mood disorders,396711000006114.0,[X]Mania with mood-incongruent psychotic symptoms
+Mood disorders,396691000006111.0,[X]Mania NOS
+Mood disorders,367101000006112.0,[X]Bipolar affective disorder
+Mood disorders,396791000006116.0,[X]Manic-depressive illness
+Mood disorders,396801000006115.0,[X]Manic-depressive psychosis
+Mood disorders,396071000006119.0,[X]Manic-depressive reaction
+Mood disorders,367081000006116.0,[X]Bipolar affect disorder cur epi manic wout psychotic symp
+Mood disorders,367071000006119.0,[X]Bipolar affect disorder cur epi manic with psychotic symp
+Mood disorders,367091000006118.0,[X]Bipolar affect disorder cur epi mild or moderate depressn
+Mood disorders,367051000006112.0,"[X]Bipol aff disord, curr epis sev depress, no psychot symp"
+Mood disorders,296130018.0,"[X]Bipolar affective disorder, currently in remission"
+Mood disorders,1785851000006110.0,[X]Bipolar affective disorder type I
+Mood disorders,1785861000006112.0,[X]Bipolar affective disorder type II
+Mood disorders,1785871000006117.0,[X]Bipolar II disorder
+Mood disorders,401865016.0,[X]Other bipolar affective disorders
+Mood disorders,367161000006113.0,[X]Bipolar II disorder
+Mood disorders,296135011.0,"[X]Bipolar affective disorder, unspecified"
+Mood disorders,396771000006117.0,"[X]Manic-depress psychosis,depressd,no psychotic symptoms"
+Mood disorders,396781000006119.0,"[X]Manic-depress psychosis,depressed type+psychotic symptoms"
+Mood disorders,1.272793100000611e+16,Depressive disorder NEC
+Mood disorders,294621000000118.0,Depression resolved
+Mood disorders,2474715017.0,On depression register
+Mood disorders,226581000000119.0,Depression - enhanced service completed
+Mood disorders,1680571000006118.0,On full dose long term treatment depression - enh serv admin
+Mood disorders,613791000006115.0,Depressive psychoses
+Mood disorders,474171000006112.0,Agitated depression
+Mood disorders,441826016.0,Endogenous depression
+Mood disorders,410861011.0,Endogenous depression - recurrent
+Mood disorders,294844012.0,Recurrent depression
+Mood disorders,369982012.0,Seasonal affective disorder
+Mood disorders,294894013.0,Atypical depressive disorder
+Mood disorders,346973011.0,Masked depression
+Mood disorders,294917018.0,Reactive depressive psychosis
+Mood disorders,294918011.0,Psychotic reactive depression
+Mood disorders,138421012.0,Agitated depression
+Mood disorders,202561000006114.0,Prolonged depressive reaction
+Mood disorders,295535012.0,Depressive disorder NEC
+Mood disorders,295537016.0,Chronic depression
+Mood disorders,213641000000111.0,[X]Mild depression
+Mood disorders,1715771000006112.0,"[X]Major depression, mild"
+Mood disorders,366561000006119.0,[X]Atypical depression
+Mood disorders,376691000006116.0,[X]Depression NOS
+Mood disorders,376711000006118.0,[X]Depressive disorder NOS
+Mood disorders,359121000006116.0,[X] Reactive depression NOS
+Mood disorders,401873013.0,[X]Recurrent depressive disorder
+Mood disorders,425751000006115.0,[X]Seasonal depressive disorder
+Mood disorders,425411000006110.0,[X]SAD - Seasonal affective disorder
+Mood disorders,379781000006118.0,[X]Endogenous depression without psychotic symptoms
+Mood disorders,396081000006116.0,"[X]Major depression, recurrent without psychotic symptoms"
+Mood disorders,432511000006119.0,"[X]Vital depression, recurrent without psychotic symptoms"
+Mood disorders,379771000006116.0,[X]Endogenous depression with psychotic symptoms
+Mood disorders,296198011.0,"[X]Recurrent depressive disorder, currently in remission"
+Mood disorders,296199015.0,[X]Other recurrent depressive disorders
+Mood disorders,401876017.0,"[X]Recurrent depressive disorder, unspecified"
+Mood disorders,398841000006119.0,[X]Monopolar depression NOS
+Mood disorders,376751000006117.0,[X]Depressive personality disorder
