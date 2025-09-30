@@ -1,0 +1,22 @@
+Condition,MedCodeId,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
+Hypoparathyroidism,3095731000006119.0,36976004,61681019.0,^ESCTDE309573,,Deficiency of parathyrin
+Hypoparathyroidism,3095741000006112.0,36976004,61682014.0,^ESCTDE309574,,Deficiency of PTH
+Hypoparathyroidism,356185013.0,237654002,356185013.0,C1212,C121200,Idiopathic hypoparathyroidism
+Hypoparathyroidism,297636019.0,57958006,96350012.0,F395z,F395z00,Myopathy due to endocrine disease NOS
+Hypoparathyroidism,61678012.0,36976004,61678012.0,C121,C121.00,Hypoparathyroidism
+Hypoparathyroidism,292683010.0,36976004,61678012.0,C121z,C121z00,Hypoparathyroidism NOS
+Hypoparathyroidism,293765015.0,36976004,61678012.0,Cyu40,Cyu4000,[X]Other hypoparathyroidism
+Hypoparathyroidism,3095721000006117.0,36976004,61680018.0,^ESCTDE309572,,Deficiency of parathyroid hormone
+Hypoparathyroidism,3458111000006115.0,58976002,98010014.0,^ESCTPA345811,,Parathyroid hormone resistant hypoparathyroidism
+Hypoparathyroidism,4321831000006116.0,119954001,184317011.0,^ESCTAD432183,,Adenoid excision
+Hypoparathyroidism,3091221000006113.0,36681006,486521016.0,^ESCTAD309122,,Adenoid operation
+Hypoparathyroidism,4321861000006113.0,119954001,460599011.0,^ESCTAD432186,,Ads - Adenoidectomy
+Hypoparathyroidism,3458121000006111.0,58976002,498307013.0,^ESCTCO345812,,Constitutional chronic hypocalcaemia
+Hypoparathyroidism,4312091000006113.0,118784006,183468015.0,^ESCTPR431209,,Procedure on pharynx
+Hypoparathyroidism,4312101000006119.0,118784006,447450015.0,^ESCTPH431210,,Pharyngeal procedure
+Hypoparathyroidism,268497014.0,173431009,268497014.0,75309,7530900,Guillotine tonsillectomy and adenoidectomy
+Hypoparathyroidism,498253016.0,58976002,98005010.0,C3543,C354300,Pseudohypoparathyroidism
+Hypoparathyroidism,267827011.0,118784006,183468015.0,742z,742z.00,Pharynx operations NOS
+Hypoparathyroidism,3458091000006112.0,58976002,98008012.0,^ESCTCO345809,,Constitutional chronic hypocalcemia
+Hypoparathyroidism,862271000006112.0,28913000,862271000006112.0,75306-99,7530699,Tonsillectomy + adenoidectomy
+Hypoparathyroidism,317141019.0,10629009,18466010.0,R017z,R017z00,[D]Tetany NOS

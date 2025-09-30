@@ -1,0 +1,13 @@
+Condition,MedCodeId,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
+Disorders of the prostate,279031000006110.0,279031000006106,279031000006110.0,EMISHGT108,,O/E - PR - Diffusely enlarged prostate
+Disorders of the prostate,909491000006110.0,909491000006106,909491000006110.0,HNGZ021,,[RFC] Enlarged prostate
+Disorders of the prostate,5493351000006113.0,266569009,396742015.0,^ESCTBP549335,,BPH - Benign prostatic hypertrophy
+Disorders of the prostate,203421000006110.0,11441004,19794011.0,1AA,1AA..00,Prostatism
+Disorders of the prostate,396738018.0,266569009,396738018.0,K20,K20..00,Benign prostatic hypertrophy
+Disorders of the prostate,645331000006112.0,266569009,396731012.0,K20-4,K20..14,Enlarged prostate - benign
+Disorders of the prostate,396742015.0,266569009,396738018.0,K20-5,K20..15,BPH - Benign prostatic hypertrophy
+Disorders of the prostate,19794011.0,11441004,19794011.0,K20-6,K20..16,Prostatism
+Disorders of the prostate,304382014.0,433234005,2769992019.0,K200,K200.00,Prostatic hyperplasia unspecified
+Disorders of the prostate,304383016.0,197959008,304383016.0,K201,K201.00,Prostatic hyperplasia of the lateral lobe
+Disorders of the prostate,304384010.0,197960003,304384010.0,K202,K202.00,Prostatic hyperplasia of the medial lobe
+Disorders of the prostate,304385011.0,433234005,2769992019.0,K20z,K20z.00,Prostatic hyperplasia NOS

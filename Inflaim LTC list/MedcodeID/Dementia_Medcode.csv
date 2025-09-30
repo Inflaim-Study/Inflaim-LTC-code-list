@@ -1,0 +1,61 @@
+Condition,MedCodeId,Term
+Dementia,882171000006115.0,Dementia
+Dementia,914941000006112.0,[D] Dementia
+Dementia,914951000006114.0,[D] Dementia in Alzheimer's disease
+Dementia,914931000006119.0,[D] Dementia with Lewy bodies
+Dementia,914921000006117.0,[D] Vascular dementia
+Dementia,3414261000006114.0,Multi infarct dementia
+Dementia,999961000006114.0,Excepted from dementia quality indicators: Patient unsuitabl
+Dementia,294321000000111.0,Excepted from dementia quality indicators: Informed dissent
+Dementia,401757012.0,Senile and presenile organic psychotic conditions
+Dementia,26545010.0,Senile dementia
+Dementia,148381000006115.0,Senile/presenile dementia
+Dementia,294635013.0,Uncomplicated senile dementia
+Dementia,21256010.0,Presenile dementia
+Dementia,294637017.0,Uncomplicated presenile dementia
+Dementia,294638010.0,Presenile dementia with delirium
+Dementia,294641018.0,Presenile dementia with paranoia
+Dementia,294642013.0,Presenile dementia with depression
+Dementia,294643015.0,Presenile dementia NOS
+Dementia,294644014.0,Senile dementia with depressive or paranoid features
+Dementia,294645010.0,Senile dementia with paranoia
+Dementia,294646011.0,Senile dementia with depression
+Dementia,294647019.0,Senile dementia with depressive or paranoid features NOS
+Dementia,294648012.0,Senile dementia with delirium
+Dementia,497559016.0,Arteriosclerotic dementia
+Dementia,696161000006115.0,Multi infarct dementia
+Dementia,294652012.0,Uncomplicated arteriosclerotic dementia
+Dementia,294653019.0,Arteriosclerotic dementia with delirium
+Dementia,294654013.0,Arteriosclerotic dementia with paranoia
+Dementia,294655014.0,Arteriosclerotic dementia with depression
+Dementia,294656010.0,Arteriosclerotic dementia NOS
+Dementia,401759010.0,Other senile and presenile organic psychoses
+Dementia,346897015.0,Presbyophrenic psychosis
+Dementia,294660013.0,Senile or presenile psychoses NOS
+Dementia,294718018.0,Dementia in conditions EC
+Dementia,295668011.0,[X]Dementia in Alzheimer's disease
+Dementia,423351000006115.0,"[X]Presenile dementia,Alzheimer's type"
+Dementia,363041000006118.0,[X]Alzheimer's disease type 2
+Dementia,363031000006111.0,[X]Alzheimer's disease type 1
+Dementia,425901000006116.0,"[X]Senile dementia,Alzheimer's type"
+Dementia,295671015.0,"[X]Dementia in Alzheimer's dis, atypical or mixed type"
+Dementia,295672010.0,"[X]Dementia in Alzheimer's disease, unspecified"
+Dementia,363021000006113.0,[X]Alzheimer's dementia unspec
+Dementia,431681000006117.0,[X]Vascular dementia
+Dementia,363791000006112.0,[X]Arteriosclerotic dementia
+Dementia,399031000006111.0,[X]Multi-infarct dementia
+Dementia,423221000006117.0,[X]Predominantly cortical dementia
+Dementia,428201000006119.0,[X]Subcortical vascular dementia
+Dementia,398571000006112.0,[X]Mixed cortical and subcortical vascular dementia
+Dementia,295680015.0,[X]Other vascular dementia
+Dementia,295681016.0,"[X]Vascular dementia, unspecified"
+Dementia,359241000006119.0,[X] Unspecified dementia
+Dementia,359081000006118.0,[X] Presenile dementia NOS
+Dementia,359091000006115.0,[X] Presenile psychosis NOS
+Dementia,359101000006114.0,[X] Primary degenerative dementia NOS
+Dementia,359141000006111.0,[X] Senile dementia NOS
+Dementia,359161000006110.0,[X] Senile psychosis NOS
+Dementia,359151000006113.0,"[X] Senile dementia, depressed or paranoid type"
+Dementia,295714013.0,[X]Delirium superimposed on dementia
+Dementia,45046017.0,Alzheimer's disease
+Dementia,299325013.0,[X]Other Alzheimer's disease

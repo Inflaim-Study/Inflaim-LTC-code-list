@@ -1,0 +1,45 @@
+Condition,SNOMED_Code,SnomedCTDescriptionId,Term
+HIV disease,825891000006108,825891000006112.0,"HIV Infection With Symptoms, Not AIDS - Subsequent Presentation"
+HIV disease,854381000006102,854381000006118.0,HIV infection
+HIV disease,925451000006109,925451000006113.0,AIDS carrier
+HIV disease,88415009,825821000006110.0,HIV disease resulting in mycobacterial infection
+HIV disease,925771000006106,925771000006110.0,Notification of AIDS
+HIV disease,165816005,257855012.0,HIV positive
+HIV disease,998701000000106,2581941000000113.0,HIV viral load
+HIV disease,998171000000102,2571361000000118.0,Human immunodeficiency virus viral load by log rank
+HIV disease,699433000,2984517011.0,AIDS carrier
+HIV disease,170530008,264418012.0,Notification of AIDS
+HIV disease,504931000000103,1154521000000111.0,HIV pos gen health check serv declind - enhanc service admin
+HIV disease,86406008,143288017.0,Human immunodeficiency virus infection
+HIV disease,91947003,152322017.0,Asymptomatic human immunodeficiency virus infection
+HIV disease,95892003,512343012.0,HIV infection with persistent generalised lymphadenopathy
+HIV disease,186706006,287010012.0,Human immunodeficiency virus with constitutional disease
+HIV disease,186707002,287012016.0,Human immunodeficiency virus with neurological disease
+HIV disease,186708007,287013014.0,Human immunodeficiency virus with secondary infection
+HIV disease,713572001,3290189011.0,Human immunodeficiency virus with secondary cancers
+HIV disease,943041000000105,2412691000000112.0,"HIV disease result/haematological+immunologic abnorms,NEC"
+HIV disease,86406008,143288017.0,HIV disease resulting in unspecified malignant neoplasm
+HIV disease,186708007,287013014.0,HIV disease resulting/unspcf infectious+parasitic disease
+HIV disease,86406008,143288017.0,Human immunodeficiency virus with other clinical findings
+HIV disease,86406008,143288017.0,Acquired human immunodeficiency virus infection syndrome NOS
+HIV disease,81000119104,2967570018.0,Human immunodef virus resulting in other disease
+HIV disease,420818005,2617389018.0,HIV disease resulting in mycobacterial infection
+HIV disease,81000119104,2967570018.0,HIV disease resulting in cytomegaloviral disease
+HIV disease,81000119104,2967570018.0,HIV disease resulting in candidiasis
+HIV disease,420403001,2617400016.0,HIV disease resulting in Pneumocystis carinii pneumonia
+HIV disease,420403001,2617400016.0,HIV disease resulting in Pneumocystis jirovecii pneumonia
+HIV disease,186708007,287013014.0,HIV disease resulting in multiple infections
+HIV disease,713572001,3290189011.0,HIV disease resulting in multiple malignant neoplasms
+HIV disease,421671002,2614782018.0,HIV disease resulting in lymphoid interstitial pneumonitis
+HIV disease,422003001,2622348012.0,HIV disease resulting in wasting syndrome
+HIV disease,86406008,143288017.0,"HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu"
+HIV disease,86406008,143288017.0,[X]Human immunodeficiency virus disease
+HIV disease,186708007,287013014.0,[X]HIV disease resulting in other viral infections
+HIV disease,186708007,287013014.0,[X]HIV disease resulting in multiple infections
+HIV disease,186708007,287013014.0,[X]HIV disease resulting/other infectious+parasitic diseases
+HIV disease,943041000000105,2412691000000112.0,"[X]HIV disease result/haematological+immunologic abnorms,NEC"
+HIV disease,86406008,143288017.0,[X]HIV disease resulting in other specified conditions
+HIV disease,86406008,143288017.0,[X]Unspecified human immunodeficiency virus [HIV] disease
+HIV disease,421529006,2622767013.0,[X]Dementia in human immunodef virus [HIV] disease
+HIV disease,165816005,257855012.0,[D]Laboratory evidence of human immunodeficiency virus [HIV]
+HIV disease,427921000000108,938141000000118.0,[V]Asymptomatic human immunodeficency virus infection status

@@ -1,0 +1,127 @@
+Condition,MedCodeId,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
+Schizophrenia,1974511000006112.8,1974511000006109,1974511000006112.8,EMISICD10|F2005,,"Paranoid schizophrenia, complete remission"
+Schizophrenia,8232521000006118.0,755301000000102,1662001000000113.0,^ESCTPA823252,,Paranoid state in remission
+Schizophrenia,882291000006111.0,191526005,882291000006111.0,E10-99,E10..99,Schizophrenic psychoses
+Schizophrenia,882281000006113.0,191526005,882281000006113.0,E10-98,E10..98,Schizophrenic psychoses NOS
+Schizophrenia,1.2759121000006116e+16,480111000000107,885271000000111.0,^ESCT1275912,,[X]Chronic hallucinatory psychosis
+Schizophrenia,1.2759131000006116e+16,480111000000107,996461000000115.0,^ESCT1275913,,[X]Other nonorganic psychotic disorders
+Schizophrenia,1.2480451000006112e+16,417601000000102,939641000000117.0,^ESCT1248045,,"[X]Schizophrenia, schizotypal and delusional disorders"
+Schizophrenia,492821000000113.0,285521000000103,492821000000113.0,212W,212W.00,Schizophrenia resolved
+Schizophrenia,492881000000114.0,285551000000108,492881000000114.0,212X,212X.00,Psychosis resolved
+Schizophrenia,215691000006112.0,12200008,21006010.0,286-1,286..11,Poor insight into psychotic condition
+Schizophrenia,294724012.0,191525009,294724012.0,E1,E1...00,Non-organic psychoses
+Schizophrenia,294725013.0,191526005,294725013.0,E10,E10..00,Schizophrenic disorders
+Schizophrenia,294727017.0,191527001,294727017.0,E100,E100.00,Simple schizophrenia
+Schizophrenia,294726014.0,191527001,294726014.0,E100-1,E100.11,Schizophrenia simplex
+Schizophrenia,294728010.0,58214004,96745016.0,E1000,E100000,Unspecified schizophrenia
+Schizophrenia,28758018.0,16990005,28758018.0,E1001,E100100,Subchronic schizophrenia
+Schizophrenia,1234861017.0,83746006,1234861017.0,E1002,E100200,Chronic schizophrenic
+Schizophrenia,9225016.0,4926007,9225016.0,E1005,E100500,Schizophrenia in remission
+Schizophrenia,294734015.0,191527001,294727017.0,E100z,E100z00,Simple schizophrenia NOS
+Schizophrenia,819351000006115.0,35252006,2881679010.0,E101,E101.00,Hebephrenic schizophrenia
+Schizophrenia,294735019.0,35252006,2881679010.0,E1010,E101000,Unspecified hebephrenic schizophrenia
+Schizophrenia,294740010.0,31373002,3425623018.0,E1015,E101500,Hebephrenic schizophrenia in remission
+Schizophrenia,294741014.0,35252006,2881679010.0,E101z,E101z00,Hebephrenic schizophrenia NOS
+Schizophrenia,294742019.0,191542003,294742019.0,E102,E102.00,Catatonic schizophrenia
+Schizophrenia,294744018.0,191542003,294742019.0,E1020,E102000,Unspecified catatonic schizophrenia
+Schizophrenia,71539017.0,42868002,71539017.0,E1021,E102100,Subchronic catatonic schizophrenia
+Schizophrenia,178723016.0,111483008,178723016.0,E1025,E102500,Catatonic schizophrenia in remission
+Schizophrenia,294753013.0,191542003,294742019.0,E102z,E102z00,Catatonic schizophrenia NOS
+Schizophrenia,107878010.0,64905009,107878010.0,E103,E103.00,Paranoid schizophrenia
+Schizophrenia,294754019.0,64905009,107878010.0,E1030,E103000,Unspecified paranoid schizophrenia
+Schizophrenia,132503015.0,79866005,132503015.0,E1031,E103100,Subchronic paranoid schizophrenia
+Schizophrenia,52897013.0,31658008,52897013.0,E1032,E103200,Chronic paranoid schizophrenia
+Schizophrenia,105029017.0,63181006,105029017.0,E1035,E103500,Paranoid schizophrenia in remission
+Schizophrenia,294760019.0,64905009,107878010.0,E103z,E103z00,Paranoid schizophrenia NOS
+Schizophrenia,294764011.0,191559008,294764011.0,E105,E105.00,Latent schizophrenia
+Schizophrenia,294765012.0,191559008,294764011.0,E1050,E105000,Unspecified latent schizophrenia
+Schizophrenia,294767016.0,191562006,294767016.0,E1052,E105200,Chronic latent schizophrenia
+Schizophrenia,294770017.0,191565008,294770017.0,E1055,E105500,Latent schizophrenia in remission
+Schizophrenia,294771018.0,191559008,294764011.0,E105z,E105z00,Latent schizophrenia NOS
+Schizophrenia,43595011.0,26025008,43595011.0,E106,E106.00,Residual schizophrenia
+Schizophrenia,155141000006116.0,191567000,294772013.0,E107,E107.00,Schizo-affective schizophrenia
+Schizophrenia,294773015.0,191567000,294773015.0,E107-1,E107.11,Cyclic schizophrenia
+Schizophrenia,78531000006116.0,191567000,294772013.0,E1070,E107000,Unspecified schizo-affective schizophrenia
+Schizophrenia,123611000006110.0,191569002,294775010.0,E1071,E107100,Subchronic schizo-affective schizophrenia
+Schizophrenia,556631000006116.0,191570001,294776011.0,E1072,E107200,Chronic schizo-affective schizophrenia
+Schizophrenia,155151000006119.0,191574005,294780018.0,E1075,E107500,Schizo-affective schizophrenia in remission
+Schizophrenia,155161000006117.0,191567000,294772013.0,E107z,E107z00,Schizo-affective schizophrenia NOS
+Schizophrenia,401764014.0,58214004,96745016.0,E10y,E10y.00,Other schizophrenia
+Schizophrenia,294788013.0,191577003,294788013.0,E10y-1,E10y.11,Cenesthopathic schizophrenia
+Schizophrenia,1219653018.0,111484002,1219653018.0,E10y0,E10y000,Atypical schizophrenia
+Schizophrenia,294787015.0,191577003,294787015.0,E10y1,E10y100,Coenesthopathic schizophrenia
+Schizophrenia,294789017.0,58214004,96745016.0,E10yz,E10yz00,Other schizophrenia NOS
+Schizophrenia,294790014.0,58214004,96745016.0,E10z,E10z.00,Schizophrenia NOS
+Schizophrenia,243361000006117.0,191667009,294903010.0,E12,E12..00,Paranoid states
+Schizophrenia,294904016.0,191668004,294904016.0,E120,E120.00,Simple paranoid state
+Schizophrenia,401768012.0,268622001,401768012.0,E121,E121.00,Chronic paranoid psychosis
+Schizophrenia,161371000006118.0,268622001,401768012.0,E121-1,E121.11,Sander's disease
+Schizophrenia,44335019.0,26472000,44335019.0,E122,E122.00,Paraphrenia
+Schizophrenia,294910016.0,191667009,294903010.0,E12y,E12y.00,Other paranoid states
+Schizophrenia,294911017.0,191672000,294911017.0,E12y0,E12y000,Paranoia querulans
+Schizophrenia,294912012.0,191667009,294903010.0,E12yz,E12yz00,Other paranoid states NOS
+Schizophrenia,294913019.0,191667009,3012206013.0,E12z,E12z.00,Paranoid psychosis NOS
+Schizophrenia,294949018.0,191525009,294724012.0,E1y,E1y..00,Other specified non-organic psychoses
+Schizophrenia,401771016.0,191525009,2575698010.0,E1z,E1z..00,Non-organic psychosis NOS
+Schizophrenia,296022017.0,417601000000102,939641000000117.0,Eu2,Eu2..00,"[X]Schizophrenia, schizotypal and delusional disorders"
+Schizophrenia,425601000006114.0,58214004,96745016.0,Eu20,Eu20.00,[X]Schizophrenia
+Schizophrenia,418221000006118.0,64905009,107878010.0,Eu200,Eu20000,[X]Paranoid schizophrenia
+Schizophrenia,418261000006112.0,64905009,1232626010.0,Eu200-1,Eu20011,[X]Paraphrenic schizophrenia
+Schizophrenia,388741000006110.0,35252006,2881679010.0,Eu201,Eu20100,[X]Hebephrenic schizophrenia
+Schizophrenia,378051000006119.0,35252006,486103011.0,Eu201-1,Eu20111,[X]Disorganised schizophrenia
+Schizophrenia,370451000006110.0,191542003,294742019.0,Eu202,Eu20200,[X]Catatonic schizophrenia
+Schizophrenia,370461000006112.0,191542003,294742019.0,Eu202-1,Eu20211,[X]Catatonic stupor
+Schizophrenia,425641000006111.0,191542003,294742019.0,Eu202-2,Eu20212,[X]Schizophrenic catalepsy
+Schizophrenia,425651000006113.0,191542003,294742019.0,Eu202-3,Eu20213,[X]Schizophrenic catatonia
+Schizophrenia,294743012.0,191542003,294743012.0,Eu202-4,Eu20214,[X]Schizophrenic flexibilatis cerea
+Schizophrenia,296031017.0,111484002,178724010.0,Eu203,Eu20300,[X]Undifferentiated schizophrenia
+Schizophrenia,366571000006114.0,111484002,1219653018.0,Eu203-1,Eu20311,[X]Atypical schizophrenia
+Schizophrenia,424841000006113.0,26025008,43595011.0,Eu205,Eu20500,[X]Residual schizophrenia
+Schizophrenia,371031000006115.0,111484002,178724010.0,Eu205-1,Eu20511,[X]Chronic undifferentiated schizophrenia
+Schizophrenia,426881000006111.0,191527001,294727017.0,Eu206,Eu20600,[X]Simple schizophrenia
+Schizophrenia,401855010.0,58214004,96745016.0,Eu20y,Eu20y00,[X]Other schizophrenia
+Schizophrenia,425681000006117.0,58214004,96745016.0,Eu20y-2,Eu20y12,[X]Schizophreniform disord NOS
+Schizophrenia,425711000006116.0,58214004,96745016.0,Eu20y-3,Eu20y13,[X]Schizophrenifrm psychos NOS
+Schizophrenia,296040018.0,58214004,96745016.0,Eu20z,Eu20z00,"[X]Schizophrenia, unspecified"
+Schizophrenia,401856011.0,31027006,51933014.0,Eu21,Eu21.00,[X]Schizotypal disorder
+Schizophrenia,395031000006114.0,191559008,294764011.0,Eu21-1,Eu21.11,[X]Latent schizophrenic reaction
+Schizophrenia,367951000006113.0,274952002,410869013.0,Eu21-2,Eu21.12,[X]Borderline schizophrenia
+Schizophrenia,395021000006111.0,191559008,294764011.0,Eu21-3,Eu21.13,[X]Latent schizophrenia
+Schizophrenia,423271000006116.0,247804008,369984013.0,Eu21-4,Eu21.14,[X]Prepsychotic schizophrenia
+Schizophrenia,423471000006117.0,247804008,369985014.0,Eu21-5,Eu21.15,[X]Prodromal schizophrenia
+Schizophrenia,423731000006114.0,31027006,51933014.0,Eu21-6,Eu21.16,[X]Pseudoneurotic schizophrenia
+Schizophrenia,423741000006116.0,31027006,51933014.0,Eu21-7,Eu21.17,[X]Pseudopsychopathic schizophrenia
+Schizophrenia,419861000006117.0,231487004,346958010.0,Eu22,Eu22.00,[X]Persistent delusional disorders
+Schizophrenia,215841000000114.0,48500005,80801017.0,Eu220,Eu22000,[X]Delusional disorder
+Schizophrenia,215851000000112.0,191667009,3012206013.0,Eu220-1,Eu22011,[X]Paranoid psychosis
+Schizophrenia,418231000006115.0,191667009,294903010.0,Eu220-2,Eu22012,[X]Paranoid state
+Schizophrenia,418251000006110.0,38295006,1229409019.0,Eu220-3,Eu22013,[X]Paraphrenia - late
+Schizophrenia,425921000006114.0,41189006,492910018.0,Eu220-4,Eu22014,[X]Sensitiver Beziehungswahn
+Schizophrenia,215871000000115.0,417233008,2548181016.0,Eu220-5,Eu22015,[X]Paranoia
+Schizophrenia,914471000006113.0,44906001,1230157015.0,Eu221,Eu22100,[X]Delusional misidentification syndrome
+Schizophrenia,914461000006118.0,44906001,1230158013.0,Eu221-1,Eu22111,[X]Capgras syndrome
+Schizophrenia,967791000006111.0,357705009,2840462017.0,Eu222,Eu22200,[X]Cotard syndrome
+Schizophrenia,1667581000000114.0,755301000000102,1667581000000114.0,Eu223,Eu22300,[X]Paranoid state in remission
+Schizophrenia,401857019.0,231487004,346958010.0,Eu22y,Eu22y00,[X]Other persistent delusional disorders
+Schizophrenia,376501000006110.0,231487004,346958010.0,Eu22y-1,Eu22y11,[X]Delusional dysmorphophobia
+Schizophrenia,394461000006110.0,231487004,346958010.0,Eu22y-2,Eu22y12,[X]Involutional paranoid state
+Schizophrenia,418181000006110.0,231487004,346958010.0,Eu22y-3,Eu22y13,[X]Paranoia querulans
+Schizophrenia,296066015.0,231487004,346958010.0,Eu22z,Eu22z00,"[X]Persistent delusional disorder, unspecified"
+Schizophrenia,425541000006110.0,68890003,114425016.0,Eu25,Eu25.00,[X]Schizoaffective disorders
+Schizophrenia,425511000006111.0,271428004,406210011.0,Eu250,Eu25000,"[X]Schizoaffective disorder, manic type"
+Schizophrenia,425571000006119.0,271428004,406210011.0,Eu250-1,Eu25011,"[X]Schizoaffective psychosis, manic type"
+Schizophrenia,425701000006119.0,271428004,406211010.0,Eu250-2,Eu25012,"[X]Schizophreniform psychosis, manic type"
+Schizophrenia,425501000006113.0,84760002,140519016.0,Eu251,Eu25100,"[X]Schizoaffective disorder, depressive type"
+Schizophrenia,425561000006114.0,84760002,140519016.0,Eu251-1,Eu25111,"[X]Schizoaffective psychosis, depressive type"
+Schizophrenia,425691000006119.0,84760002,1234980016.0,Eu251-2,Eu25112,"[X]Schizophreniform psychosis, depressive type"
+Schizophrenia,425521000006115.0,270901009,405368015.0,Eu252,Eu25200,"[X]Schizoaffective disorder, mixed type"
+Schizophrenia,376251000006112.0,270901009,405368015.0,Eu252-1,Eu25211,[X]Cyclic schizophrenia
+Schizophrenia,398631000006113.0,270901009,405369011.0,Eu252-2,Eu25212,[X]Mixed schizophrenic and affective psychosis
+Schizophrenia,296095012.0,68890003,114425016.0,Eu25y,Eu25y00,[X]Other schizoaffective disorders
+Schizophrenia,296096013.0,68890003,114425016.0,Eu25z,Eu25z00,"[X]Schizoaffective disorder, unspecified"
+Schizophrenia,425551000006112.0,68890003,114425016.0,Eu25z-1,Eu25z11,[X]Schizoaffective psychosis NOS
+Schizophrenia,1667591000000111.0,755311000000100,1667591000000111.0,Eu26,Eu26.00,[X]Nonorganic psychosis in remission
+Schizophrenia,412201000006113.0,191525009,2575698010.0,Eu2y,Eu2y.00,[X]Other nonorganic psychotic disorders
+Schizophrenia,370981000006112.0,480111000000107,885251000000119.0,Eu2y-1,Eu2y.11,[X]Chronic hallucinatory psychosis
+Schizophrenia,401862018.0,191525009,2575698010.0,Eu2z,Eu2z.00,[X]Unspecified nonorganic psychosis
+Schizophrenia,424231000006116.0,69322001,2920943016.0,Eu2z-1,Eu2z.11,[X]Psychosis NOS

@@ -1,0 +1,61 @@
+Condition,MedCodeId,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
+Dementia,882171000006115.0,268612007,882171000006115.0,E00-97,E00..97,Dementia
+Dementia,914941000006112.0,914941000006108,914941000006112.0,EMISNQDD2,,[D] Dementia
+Dementia,914951000006114.0,914951000006105,914951000006114.0,EMISNQDD3,,[D] Dementia in Alzheimer's disease
+Dementia,914931000006119.0,914931000006103,914931000006119.0,EMISNQDD1,,[D] Dementia with Lewy bodies
+Dementia,914921000006117.0,914921000006101,914921000006117.0,EMISNQDV1,,[D] Vascular dementia
+Dementia,3414261000006114.0,56267009,2921000019.0,^ESCTMU341426,,Multi infarct dementia
+Dementia,999961000006114.0,716341000000104,1568891000000117.0,9hD0,9hD0.00,Excepted from dementia quality indicators: Patient unsuitabl
+Dementia,294321000000111.0,716131000000105,1568691000000118.0,9hD1,9hD1.00,Excepted from dementia quality indicators: Informed dissent
+Dementia,401757012.0,268612007,401757012.0,E00,E00..00,Senile and presenile organic psychotic conditions
+Dementia,26545010.0,15662003,26545010.0,E00-1,E00..11,Senile dementia
+Dementia,148381000006115.0,52448006,87274019.0,E00-2,E00..12,Senile/presenile dementia
+Dementia,294635013.0,191449005,294635013.0,E000,E000.00,Uncomplicated senile dementia
+Dementia,21256010.0,12348006,21256010.0,E001,E001.00,Presenile dementia
+Dementia,294637017.0,191451009,294637017.0,E0010,E001000,Uncomplicated presenile dementia
+Dementia,294638010.0,191452002,294638010.0,E0011,E001100,Presenile dementia with delirium
+Dementia,294641018.0,191454001,294641018.0,E0012,E001200,Presenile dementia with paranoia
+Dementia,294642013.0,191455000,294642013.0,E0013,E001300,Presenile dementia with depression
+Dementia,294643015.0,12348006,21256010.0,E001z,E001z00,Presenile dementia NOS
+Dementia,294644014.0,191457008,294644014.0,E002,E002.00,Senile dementia with depressive or paranoid features
+Dementia,294645010.0,191458003,294645010.0,E0020,E002000,Senile dementia with paranoia
+Dementia,294646011.0,191459006,294646011.0,E0021,E002100,Senile dementia with depression
+Dementia,294647019.0,191457008,294644014.0,E002z,E002z00,Senile dementia with depressive or paranoid features NOS
+Dementia,294648012.0,191461002,294648012.0,E003,E003.00,Senile dementia with delirium
+Dementia,497559016.0,56267009,497559016.0,E004,E004.00,Arteriosclerotic dementia
+Dementia,696161000006115.0,56267009,93568017.0,E004-1,E004.11,Multi infarct dementia
+Dementia,294652012.0,191463004,294652012.0,E0040,E004000,Uncomplicated arteriosclerotic dementia
+Dementia,294653019.0,191464005,294653019.0,E0041,E004100,Arteriosclerotic dementia with delirium
+Dementia,294654013.0,191465006,294654013.0,E0042,E004200,Arteriosclerotic dementia with paranoia
+Dementia,294655014.0,191466007,294655014.0,E0043,E004300,Arteriosclerotic dementia with depression
+Dementia,294656010.0,56267009,497559016.0,E004z,E004z00,Arteriosclerotic dementia NOS
+Dementia,401759010.0,268612007,401757012.0,E00y,E00y.00,Other senile and presenile organic psychoses
+Dementia,346897015.0,231438001,346897015.0,E00y-1,E00y.11,Presbyophrenic psychosis
+Dementia,294660013.0,268612007,401757012.0,E00z,E00z.00,Senile or presenile psychoses NOS
+Dementia,294718018.0,191519005,294718018.0,E041,E041.00,Dementia in conditions EC
+Dementia,295668011.0,26929004,45046017.0,Eu00,Eu00.00,[X]Dementia in Alzheimer's disease
+Dementia,423351000006115.0,416780008,2957138011.0,Eu000-1,Eu00011,"[X]Presenile dementia,Alzheimer's type"
+Dementia,363041000006118.0,416780008,2957119019.0,Eu000-3,Eu00013,[X]Alzheimer's disease type 2
+Dementia,363031000006111.0,416975007,2957137018.0,Eu001-1,Eu00111,[X]Alzheimer's disease type 1
+Dementia,425901000006116.0,416975007,2957124016.0,Eu001-2,Eu00112,"[X]Senile dementia,Alzheimer's type"
+Dementia,295671015.0,26929004,45046017.0,Eu002,Eu00200,"[X]Dementia in Alzheimer's dis, atypical or mixed type"
+Dementia,295672010.0,26929004,45046017.0,Eu00z,Eu00z00,"[X]Dementia in Alzheimer's disease, unspecified"
+Dementia,363021000006113.0,26929004,45046017.0,Eu00z-1,Eu00z11,[X]Alzheimer's dementia unspec
+Dementia,431681000006117.0,429998004,2770951017.0,Eu01,Eu01.00,[X]Vascular dementia
+Dementia,363791000006112.0,56267009,497559016.0,Eu01-1,Eu01.11,[X]Arteriosclerotic dementia
+Dementia,399031000006111.0,56267009,93568017.0,Eu011,Eu01100,[X]Multi-infarct dementia
+Dementia,423221000006117.0,56267009,93568017.0,Eu011-1,Eu01111,[X]Predominantly cortical dementia
+Dementia,428201000006119.0,230286002,345111013.0,Eu012,Eu01200,[X]Subcortical vascular dementia
+Dementia,398571000006112.0,230287006,345112018.0,Eu013,Eu01300,[X]Mixed cortical and subcortical vascular dementia
+Dementia,295680015.0,429998004,2770951017.0,Eu01y,Eu01y00,[X]Other vascular dementia
+Dementia,295681016.0,429998004,2770951017.0,Eu01z,Eu01z00,"[X]Vascular dementia, unspecified"
+Dementia,359241000006119.0,52448006,87274019.0,Eu02z,Eu02z00,[X] Unspecified dementia
+Dementia,359081000006118.0,12348006,21256010.0,Eu02z-1,Eu02z11,[X] Presenile dementia NOS
+Dementia,359091000006115.0,268612007,401757012.0,Eu02z-2,Eu02z12,[X] Presenile psychosis NOS
+Dementia,359101000006114.0,279982005,417465012.0,Eu02z-3,Eu02z13,[X] Primary degenerative dementia NOS
+Dementia,359141000006111.0,15662003,26545010.0,Eu02z-4,Eu02z14,[X] Senile dementia NOS
+Dementia,359161000006110.0,268612007,401757012.0,Eu02z-5,Eu02z15,[X] Senile psychosis NOS
+Dementia,359151000006113.0,191457008,294644014.0,Eu02z-6,Eu02z16,"[X] Senile dementia, depressed or paranoid type"
+Dementia,295714013.0,2776000,5694012.0,Eu041,Eu04100,[X]Delirium superimposed on dementia
+Dementia,45046017.0,26929004,45046017.0,F110,F110.00,Alzheimer's disease
+Dementia,299325013.0,26929004,45046017.0,Fyu30,Fyu3000,[X]Other Alzheimer's disease

@@ -1,0 +1,114 @@
+Condition,ReadCode,CleansedReadCode,Term
+Chronic lower respiratory diseases,H330-3,H330.13,Hay fever with asthma
+Chronic lower respiratory diseases,H3300-1,H330011,Hay fever with asthma
+Chronic lower respiratory diseases,EMISNQ1C1,,1 COPD exacerbation in past year
+Chronic lower respiratory diseases,EMISNQ2C1,,2 COPD exacerbations in past year
+Chronic lower respiratory diseases,EMISNQ3C1,,3+ COPD exacerbations in past year
+Chronic lower respiratory diseases,^ESCTCO271632,,COPD - Chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,EMISNQCO295,,COPD GOLD group A
+Chronic lower respiratory diseases,EMISNQCO296,,COPD GOLD group B
+Chronic lower respiratory diseases,EMISNQCO297,,COPD GOLD group C
+Chronic lower respiratory diseases,EMISNQCO298,,COPD GOLD group D
+Chronic lower respiratory diseases,EMISNQCO114,,COPD patient experience discussed
+Chronic lower respiratory diseases,H3z-99,H3z..99,Chronic obst. pulm. dis. NOS
+Chronic lower respiratory diseases,H3-99,H3...99,Chronic obst. pulm. dis. NOS
+Chronic lower respiratory diseases,^ESCTCH271623,,Chronic obstructive lung disease
+Chronic lower respiratory diseases,EMISNQCH102,,Chronic obstructive pulmonary disease confirmed
+Chronic lower respiratory diseases,EMISNQCH160,,Chronic obstructive pulmonary disease severity
+Chronic lower respiratory diseases,^ESCTDI803478,,Did not attend chronic obstructive pulmonary disease clinic
+Chronic lower respiratory diseases,^ESCT1262362,,Excepted from COPD (chronic obstructive pulmonary disease) quality indicators - service unavailable
+Chronic lower respiratory diseases,EMISNQNO109,,No COPD exacerbations in past year
+Chronic lower respiratory diseases,^ESCTSE829456,,Seen in COPD (chronic obstructive pulmonary disease) clinic
+Chronic lower respiratory diseases,HNGNQRF16,,[RFC] Chronic obstructive pulmonary disease (COPD)
+Chronic lower respiratory diseases,^ESCT1272816,,Chronic obstructive airways disease NOS
+Chronic lower respiratory diseases,^ESCT1275936,,Chronic obstructive pulmonary disease NOS
+Chronic lower respiratory diseases,^ESCTFE387319,,Fetid chronic bronchitis
+Chronic lower respiratory diseases,^ESCTOB473302,,Obstructive chronic bronchitis
+Chronic lower respiratory diseases,H3,H3...00,Chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,H3-1,H3...11,Chronic obstructive airways disease
+Chronic lower respiratory diseases,H31,H31..00,Chronic bronchitis
+Chronic lower respiratory diseases,H310,H310.00,Simple chronic bronchitis
+Chronic lower respiratory diseases,H3100,H310000,Chronic catarrhal bronchitis
+Chronic lower respiratory diseases,H310z,H310z00,Simple chronic bronchitis NOS
+Chronic lower respiratory diseases,H311,H311.00,Mucopurulent chronic bronchitis
+Chronic lower respiratory diseases,H3110,H311000,Purulent chronic bronchitis
+Chronic lower respiratory diseases,H3111,H311100,Fetid chronic bronchitis
+Chronic lower respiratory diseases,H311z,H311z00,Mucopurulent chronic bronchitis NOS
+Chronic lower respiratory diseases,H312,H312.00,Obstructive chronic bronchitis
+Chronic lower respiratory diseases,H3120,H312000,Chronic asthmatic bronchitis
+Chronic lower respiratory diseases,H3120-1,H312011,Chronic wheezy bronchitis
+Chronic lower respiratory diseases,H3121,H312100,Emphysematous bronchitis
+Chronic lower respiratory diseases,H3123,H312300,Bronchiolitis obliterans
+Chronic lower respiratory diseases,H312z,H312z00,Obstructive chronic bronchitis NOS
+Chronic lower respiratory diseases,H313,H313.00,Mixed simple and mucopurulent chronic bronchitis
+Chronic lower respiratory diseases,H31y,H31y.00,Other chronic bronchitis
+Chronic lower respiratory diseases,H31y1,H31y100,Chronic tracheobronchitis
+Chronic lower respiratory diseases,H31yz,H31yz00,Other chronic bronchitis NOS
+Chronic lower respiratory diseases,H31z,H31z.00,Chronic bronchitis NOS
+Chronic lower respiratory diseases,H32,H32..00,Emphysema
+Chronic lower respiratory diseases,H320,H320.00,Chronic bullous emphysema
+Chronic lower respiratory diseases,H3200,H320000,Segmental bullous emphysema
+Chronic lower respiratory diseases,H3201,H320100,Zonal bullous emphysema
+Chronic lower respiratory diseases,H3202,H320200,Giant bullous emphysema
+Chronic lower respiratory diseases,H320z,H320z00,Chronic bullous emphysema NOS
+Chronic lower respiratory diseases,H321,H321.00,Panlobular emphysema
+Chronic lower respiratory diseases,H322,H322.00,Centrilobular emphysema
+Chronic lower respiratory diseases,H32y,H32y.00,Other emphysema
+Chronic lower respiratory diseases,H32y1,H32y100,Atrophic (senile) emphysema
+Chronic lower respiratory diseases,H32y2,H32y200,MacLeod's unilateral emphysema
+Chronic lower respiratory diseases,H32yz,H32yz00,Other emphysema NOS
+Chronic lower respiratory diseases,H32z,H32z.00,Emphysema NOS
+Chronic lower respiratory diseases,H36,H36..00,Mild chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,H37,H37..00,Moderate chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,H3A,H3A..00,End stage chronic obstructive airways disease
+Chronic lower respiratory diseases,H3y,H3y..00,Other specified chronic obstructive airways disease
+Chronic lower respiratory diseases,H3y-1,H3y..11,Other specified chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,H3z,H3z..00,Chronic obstructive airways disease NOS
+Chronic lower respiratory diseases,H3z-1,H3z..11,Chronic obstructive pulmonary disease NOS
+Chronic lower respiratory diseases,H4640,H464000,Chronic emphysema due to chemical fumes
+Chronic lower respiratory diseases,H4641,H464100,Obliterative bronchiolitis due to chemical fumes
+Chronic lower respiratory diseases,H5832,H583200,Eosinophilic bronchitis
+Chronic lower respiratory diseases,Hyu30,Hyu3000,[X]Other emphysema
+Chronic lower respiratory diseases,Hyu31,Hyu3100,[X]Other specified chronic obstructive pulmonary disease
+Chronic lower respiratory diseases,ALLERGY3.3,,Adverse reaction to Drugs For Prophylaxis Of Asthma
+Chronic lower respiratory diseases,EMISASC1,,Asthma stable < 3 months
+Chronic lower respiratory diseases,EMISASC2,,Asthma stable > 3 months
+Chronic lower respiratory diseases,ESCTAS6,,Asthma trigger - perfume
+Chronic lower respiratory diseases,^ESCTAS672072,,Asthmatic bronchitis
+Chronic lower respiratory diseases,EMISNQDA36,,Date of asthma diagnosis
+Chronic lower respiratory diseases,9N1d0,9N1d000,Seen in school asthma clinic
+Chronic lower respiratory diseases,HNG0007,,[RFC] Asthma
+Chronic lower respiratory diseases,HNG0606,,[RFC] Asthma
+Chronic lower respiratory diseases,^ESCTEX300581,,Exercise induced asthma
+Chronic lower respiratory diseases,TRIQQOC1,,Occupational asthma
+Chronic lower respiratory diseases,173A,173A.00,Exercise induced asthma
+Chronic lower respiratory diseases,173c,173c.00,Occupational asthma
+Chronic lower respiratory diseases,173d,173d.00,Work aggravated asthma
+Chronic lower respiratory diseases,1780,1780.00,Aspirin induced asthma
+Chronic lower respiratory diseases,1O2,1O2..00,Asthma confirmed
+Chronic lower respiratory diseases,21262,2126200,Asthma resolved
+Chronic lower respiratory diseases,212G,212G.00,Asthma resolved
+Chronic lower respiratory diseases,H33,H33..00,Asthma
+Chronic lower respiratory diseases,H33-1,H33..11,Bronchial asthma
+Chronic lower respiratory diseases,H330-2,H330.12,Childhood asthma
+Chronic lower respiratory diseases,H330-4,H330.14,Pollen asthma
+Chronic lower respiratory diseases,H3300,H330000,Extrinsic asthma without status asthmaticus
+Chronic lower respiratory diseases,H3301,H330100,Extrinsic asthma with status asthmaticus
+Chronic lower respiratory diseases,H330z,H330z00,Extrinsic asthma NOS
+Chronic lower respiratory diseases,H331,H331.00,Intrinsic asthma
+Chronic lower respiratory diseases,H3310,H331000,Intrinsic asthma without status asthmaticus
+Chronic lower respiratory diseases,H3311,H331100,Intrinsic asthma with status asthmaticus
+Chronic lower respiratory diseases,H331z,H331z00,Intrinsic asthma NOS
+Chronic lower respiratory diseases,H332,H332.00,Mixed asthma
+Chronic lower respiratory diseases,H334,H334.00,Brittle asthma
+Chronic lower respiratory diseases,H335,H335.00,Chronic asthma with fixed airflow obstruction
+Chronic lower respiratory diseases,H33z,H33z.00,Asthma unspecified
+Chronic lower respiratory diseases,H33z-1,H33z.11,Hyperreactive airways disease
+Chronic lower respiratory diseases,H33z0,H33z000,Status asthmaticus NOS
+Chronic lower respiratory diseases,H33zz,H33zz00,Asthma NOS
+Chronic lower respiratory diseases,H33zz-1,H33zz11,Exercise induced asthma
+Chronic lower respiratory diseases,H33zz-3,H33zz13,Allergic bronchitis NEC
+Chronic lower respiratory diseases,H34,H34..00,Bronchiectasis
+Chronic lower respiratory diseases,H340,H340.00,Recurrent bronchiectasis
+Chronic lower respiratory diseases,H341,H341.00,Post-infective bronchiectasis
+Chronic lower respiratory diseases,H34z,H34z.00,Bronchiectasis NOS

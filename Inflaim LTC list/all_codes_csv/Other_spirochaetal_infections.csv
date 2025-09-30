@@ -1,0 +1,38 @@
+Condition,MedCodeId,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
+Other spirochaetal infections,309521015.0,111212009,178441013.0,N014z,N014z00,Arthropathy associated with other bacterial disease NOS
+Other spirochaetal infections,3280481000006114.0,48245008,80380010.0,^ESCTBA328048,,Bacterial arthritis
+Other spirochaetal infections,2875141000006113.0,23502006,481637018.0,^ESCTST287514,,Steere's disease
+Other spirochaetal infections,493141000006114.0,111212009,178441013.0,N0147,N014700,"Arthropathy with other bacterial disease, of ankle and foot"
+Other spirochaetal infections,493161000006113.0,111212009,178441013.0,N0144,N014400,"Arthropathy with other bacterial disease, of hand"
+Other spirochaetal infections,493201000006119.0,111212009,178441013.0,N0145,N014500,"Arthropathy with other bacterial disease, of pelvic/thigh"
+Other spirochaetal infections,493211000006116.0,111212009,178441013.0,N0141,N014100,"Arthropathy with other bacterial disease, of shoulder region"
+Other spirochaetal infections,493221000006112.0,111212009,178441013.0,N0140,N014000,"Arthropathy with other bacterial disease, of unspec site"
+Other spirochaetal infections,493231000006110.0,111212009,178441013.0,N0142,N014200,"Arthropathy with other bacterial disease, of upper arm"
+Other spirochaetal infections,533231000006112.0,171838003,266125014.0,70561,7056100,Canal of Guyon release
+Other spirochaetal infections,648201000006115.0,69588003,1233178016.0,AA41,AA41.00,Erythema chronicum migrans
+Other spirochaetal infections,7733351000006110.0,715507005,3302869017.0,^ESCTIN773335,,Infection of central nervous system caused by Borrelia burgdorferi
+Other spirochaetal infections,3631811000006115.0,69588003,115616014.0,^ESCTER363181,,Erythema chronica migrans
+Other spirochaetal infections,7771461000006117.0,718373005,3312536018.0,^ESCTCU777146,,Cutaneous B-cell pseudolymphoma caused by Borrelia
+Other spirochaetal infections,3631841000006116.0,69588003,3028124013.0,^ESCTER363184,,Erythema chronicum migrans skin condition
+Other spirochaetal infections,3280501000006116.0,48245008,495039014.0,^ESCTAR328050,,Arthritis due to bacterial infection
+Other spirochaetal infections,266189018.0,24723005,41436018.0,705z,705z.00,Peripheral nerve operations NOS
+Other spirochaetal infections,296802015.0,95883001,158829010.0,F00yz,F00yz00,Other specified bacterial meningitis NOS
+Other spirochaetal infections,493151000006111.0,111212009,178441013.0,N0143,N014300,"Arthropathy with other bacterial disease, of forearm"
+Other spirochaetal infections,493171000006118.0,111212009,178441013.0,N0146,N014600,"Arthropathy with other bacterial disease, of lower leg"
+Other spirochaetal infections,4646201000006110.0,171838003,266123019.0,^ESCTGU464620,,Guyon's canal decompression
+Other spirochaetal infections,2875161000006112.0,23502006,2923214018.0,^ESCTIN287516,,Infection due to Borrelia burgdorferi sensu lato
+Other spirochaetal infections,39462014.0,23502006,39462014.0,A8710,A871000,Lyme disease
+Other spirochaetal infections,129217018.0,77863005,129217018.0,A8712,A871200,Lyme carditis
+Other spirochaetal infections,485678014.0,33937009,485678014.0,N010A,N010A00,Arthritis in Lyme disease
+Other spirochaetal infections,2955528012.0,69588003,2955528012.0,AA41-1,AA41.11,Erythema migrans
+Other spirochaetal infections,2390131000000110.0,718373005,3312055010.0,A8713,A871300,Borrelial lymphocytoma
+Other spirochaetal infections,287470012.0,41116009,492887012.0,AA4z,AA4z.00,Other spirochaetal infection NOS
+Other spirochaetal infections,1927231000006112.8,715507005,3302870016.0,A8711,A871100,Lyme neuroborreliosis
+Other spirochaetal infections,3266171000006116.0,47388000,494816014.0,^ESCTTA326617,,Tarsal tunnel decompression
+Other spirochaetal infections,296803013.0,95883001,158829010.0,F00z,F00z.00,Bacterial meningitis NOS
+Other spirochaetal infections,308724016.0,86735004,143838016.0,M15z,M15z.00,Erythematous conditions NOS
+Other spirochaetal infections,309505013.0,111212009,178441013.0,N014,N014.00,Arthropathy associated with other bacterial diseases
+Other spirochaetal infections,481640018.0,23502006,481640018.0,A8710-1,A871011,Lyme borreliosis
+Other spirochaetal infections,56659013.0,33937009,56659013.0,N010A-1,N010A11,Lyme arthritis
+Other spirochaetal infections,80383012.0,48245008,80383012.0,N010-1,N010.11,Septic arthritis
+Other spirochaetal infections,399921010.0,86735004,143838016.0,M15yz,M15yz00,Other erythematous conditions NOS

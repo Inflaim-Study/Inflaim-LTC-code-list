@@ -1,0 +1,7 @@
+Condition,MedCodeId,SNOMED_Code,SnomedCTDescriptionId,ReadCode,CleansedReadCode,Term
+Ankylosing spondylitis,309788014.0,9631008,16840014.0,N0401,N040100,Other rheumatoid arthritis of spine
+Ankylosing spondylitis,1.2454581000006118e+16,162930007,253940015.0,^ESCT1245458,,O/E - ankyl.spondyl.chest def.
+Ankylosing spondylitis,253940015.0,162930007,2668362011.0,2377,2377.00,O/E - ankyl.spondyl.chest def.
+Ankylosing spondylitis,2692996011.0,441562009,2817026019.0,388p,388p.00,BASDAI - Bath ankylosing spondylitis disease activity index
+Ankylosing spondylitis,16833013.0,9631008,16833013.0,N100,N100.00,Ankylosing spondylitis
+Ankylosing spondylitis,718001000006112.0,9631008,1235977013.0,N100-1,N100.11,Marie - Strumpell spondylitis

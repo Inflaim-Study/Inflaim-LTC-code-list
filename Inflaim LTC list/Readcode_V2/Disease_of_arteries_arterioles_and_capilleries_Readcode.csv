@@ -1,0 +1,186 @@
+Condition,ReadCode,CleansedReadCode,Term
+"Disease of arteries, arterioles and capilleries",7A110,7A11000,Emerg repl aneurysm bifurc aorta by anast aorta to fem art
+"Disease of arteries, arterioles and capilleries",7A111,7A11100,Replace aneurysm bifurc aorta by anast aorta to femoral art
+"Disease of arteries, arterioles and capilleries",7A112,7A11200,Emerg repl aneurysm bifurc aorta by anast aorta to iliac a
+"Disease of arteries, arterioles and capilleries",7A113,7A11300,Replace aneurysm bifurc aorta by anast aorta to iliac artery
+"Disease of arteries, arterioles and capilleries",7A113-1,7A11311,Y graft abdominal Aortic aneurysm
+"Disease of arteries, arterioles and capilleries",7A130,7A13000,Emerg replace aneurysm asc aorta by anastom aorta to aorta
+"Disease of arteries, arterioles and capilleries",7A131,7A13100,Emerg replace aneurysm thor aorta by anastom aorta to aorta
+"Disease of arteries, arterioles and capilleries",7A133,7A13300,Emerg replace aneurysm infrarenal aorta by anast aorta/aorta
+"Disease of arteries, arterioles and capilleries",7A134,7A13400,Emerg replace aneurysm abdom aorta by anast aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",7A14-1,7A14.11,Aortic aneurysm repair
+"Disease of arteries, arterioles and capilleries",7A140,7A14000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",7A141,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC
+"Disease of arteries, arterioles and capilleries",7A142,7A14200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",7A143,7A14300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",7A144,7A14400,Replace aneurysm abdominal aorta by anast aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",7A144-1,7A14411,Tube graft of Abdominal aortic aneurysm
+"Disease of arteries, arterioles and capilleries",7A154,7A15400,Emerg bypass abdominal aorta by anastom aorta to aorta NEC
+"Disease of arteries, arterioles and capilleries",7A1B0,7A1B000,Endovascular stenting infrarenal abdominal aortic aneurysm
+"Disease of arteries, arterioles and capilleries",7A1B1,7A1B100,Endovascular stenting of suprarenal aortic aneurysm
+"Disease of arteries, arterioles and capilleries",7A1B2,7A1B200,Endovascular stenting of thoracic aortic aneurysm
+"Disease of arteries, arterioles and capilleries",7A1B6,7A1B600,Endovascular stenting for aortic aneurysm of bifurcation NEC
+"Disease of arteries, arterioles and capilleries",7A1B8,7A1B800,Endovascul insert stent infrarenal abdominal aortic aneurysm
+"Disease of arteries, arterioles and capilleries",7A1B9,7A1B900,Endovascular insertion stent for suprarenal aortic aneurysm
+"Disease of arteries, arterioles and capilleries",7A1BC,7A1BC00,Endovas insert stent for aortic aneurysm of bifurcation NEC
+"Disease of arteries, arterioles and capilleries",7A1C,7A1C.00,Translum insert stent graft for aneurysmal segment of aorta
+"Disease of arteries, arterioles and capilleries",7A1C0,7A1C000,Endovas ins stent graft for infrarenal abdom aortic aneurysm
+"Disease of arteries, arterioles and capilleries",7A1C1,7A1C100,Endovas insert of stent graft for suprarenal aortic aneurysm
+"Disease of arteries, arterioles and capilleries",7A1Cy,7A1Cy00,OS translum ins stent graft for aneurysmal segment of aorta
+"Disease of arteries, arterioles and capilleries",7A1Cz,7A1Cz00,Translum ins stent graft for aneurysmal segment of aorta NOS
+"Disease of arteries, arterioles and capilleries",A930,A930.00,Syphilitic aortic aneurysm
+"Disease of arteries, arterioles and capilleries",G71,G71..00,Aortic aneurysm
+"Disease of arteries, arterioles and capilleries",G710,G710.00,Dissecting aortic aneurysm
+"Disease of arteries, arterioles and capilleries",G711,G711.00,Thoracic aortic aneurysm which has ruptured
+"Disease of arteries, arterioles and capilleries",G711-1,G711.11,Ruptured thoracic aortic aneurysm
+"Disease of arteries, arterioles and capilleries",G712,G712.00,Thoracic aortic aneurysm without mention of rupture
+"Disease of arteries, arterioles and capilleries",G713,G713.00,Abdominal aortic aneurysm which has ruptured
+"Disease of arteries, arterioles and capilleries",G713-1,G713.11,Ruptured abdominal aortic aneurysm
+"Disease of arteries, arterioles and capilleries",G7130,G713000,Ruptured suprarenal aortic aneurysm
+"Disease of arteries, arterioles and capilleries",G714,G714.00,Abdominal aortic aneurysm without mention of rupture
+"Disease of arteries, arterioles and capilleries",G714-1,G714.11,AAA - Abdominal aortic aneurysm without mention of rupture
+"Disease of arteries, arterioles and capilleries",G7140,G714000,Juxtarenal aortic aneurysm
+"Disease of arteries, arterioles and capilleries",G7141,G714100,Inflammatory abdominal aortic aneurysm
+"Disease of arteries, arterioles and capilleries",G7142,G714200,Infrarenal abdominal aortic aneurysm
+"Disease of arteries, arterioles and capilleries",G7143,G714300,Aneurysm of suprarenal aorta
+"Disease of arteries, arterioles and capilleries",G715,G715.00,Ruptured aortic aneurysm NOS
+"Disease of arteries, arterioles and capilleries",G7150,G715000,"Thoracoabdominal aortic aneurysm, ruptured"
+"Disease of arteries, arterioles and capilleries",G716,G716.00,Aortic aneurysm without mention of rupture NOS
+"Disease of arteries, arterioles and capilleries",G7160,G716000,"Thoracoabdominal aortic aneurysm, without mention of rupture"
+"Disease of arteries, arterioles and capilleries",G717,G717.00,Aortic aneurysm - syphilitic
+"Disease of arteries, arterioles and capilleries",G718,G718.00,Leaking abdominal aortic aneurysm
+"Disease of arteries, arterioles and capilleries",G71z,G71z.00,Aortic aneurysm NOS
+"Disease of arteries, arterioles and capilleries",Gyu71,Gyu7100,"[X]Aortic aneurysm of unspecified site, ruptured"
+"Disease of arteries, arterioles and capilleries",Gyu72,Gyu7200,"[X]Aortic aneurysm of unspecified site, nonruptured"
+"Disease of arteries, arterioles and capilleries",Gyu78,Gyu7800,[X]Aneurysm of aorta in diseases classified elsewhere
+"Disease of arteries, arterioles and capilleries",2G63,2G63.00,Ischaemic toe
+"Disease of arteries, arterioles and capilleries",7A100,7A10000,Emerg aortic bypass by anastomosis axillary to femoral art
+"Disease of arteries, arterioles and capilleries",7A102,7A10200,Axillo-bifemoral bypass graft
+"Disease of arteries, arterioles and capilleries",7A103,7A10300,Axillo-unifemoral PTFE bypass graft
+"Disease of arteries, arterioles and capilleries",7A120,7A12000,Emerg bypass bifurc aorta by anast aorta to femoral artery
+"Disease of arteries, arterioles and capilleries",7A121-1,7A12111,Aorto bifemoral graft
+"Disease of arteries, arterioles and capilleries",7A121-2,7A12112,Dacron aortofemoral Y graft
+"Disease of arteries, arterioles and capilleries",7A123-1,7A12311,Aorto biiliac graft
+"Disease of arteries, arterioles and capilleries",7A123-2,7A12312,Dacron aortoiliac Y graft
+"Disease of arteries, arterioles and capilleries",7A192,7A19200,Open embolectomy of bifurcation of aorta
+"Disease of arteries, arterioles and capilleries",7A410,7A41000,Emerg bypass iliac art by iliac/femoral art anastomosis NEC
+"Disease of arteries, arterioles and capilleries",7A412,7A41200,Emerg bypass iliac artery by femoral/femoral art anast NEC
+"Disease of arteries, arterioles and capilleries",7A413-1,7A41311,Femoro-femoral prosthetic cross over graft
+"Disease of arteries, arterioles and capilleries",7A414,7A41400,Emerg bypass comm iliac art by aorta/com iliac art anast NEC
+"Disease of arteries, arterioles and capilleries",7A416,7A41600,Emerg bypass leg artery by aorta/com fem art anastomosis NEC
+"Disease of arteries, arterioles and capilleries",7A41F,7A41F00,Ilio-femoral prosthetic cross over graft
+"Disease of arteries, arterioles and capilleries",7A420-2,7A42012,Iliac endarterectomy and patch
+"Disease of arteries, arterioles and capilleries",7A421,7A42100,Endarterectomy of iliac artery NEC
+"Disease of arteries, arterioles and capilleries",7A421-1,7A42111,Endarterectomy of common iliac artery NEC
+"Disease of arteries, arterioles and capilleries",7A431,7A43100,Open embolectomy of iliac artery
+"Disease of arteries, arterioles and capilleries",7A431-1,7A43111,Open embolectomy of common iliac artery
+"Disease of arteries, arterioles and capilleries",7A440,7A44000,Percutaneous transluminal angioplasty of iliac artery
+"Disease of arteries, arterioles and capilleries",7A441,7A44100,Percutaneous transluminal embolectomy of iliac artery
+"Disease of arteries, arterioles and capilleries",7A47-1,7A47.11,Other emerg bypass femoral or popliteal art by anastomosis
+"Disease of arteries, arterioles and capilleries",7A470,7A47000,Emerg bypass femoral art by fem/pop art anast c prosth NEC
+"Disease of arteries, arterioles and capilleries",7A471,7A47100,Emerg bypass popliteal art by pop/pop art anast c prosth NEC
+"Disease of arteries, arterioles and capilleries",7A472,7A47200,Emerg bypass femoral art by fem/pop a anast c vein graft NEC
+"Disease of arteries, arterioles and capilleries",7A473,7A47300,Emerg bypass pop art by pop/pop art anast c vein graft NEC
+"Disease of arteries, arterioles and capilleries",7A474,7A47400,Emerg bypass femoral art by fem/tib art anast c prosth NEC
+"Disease of arteries, arterioles and capilleries",7A476,7A47600,Emerg bypass femoral art by fem/tib a anast c vein graft NEC
+"Disease of arteries, arterioles and capilleries",7A477,7A47700,Emerg bypass pop art by pop/tib art anast c vein graft NEC
+"Disease of arteries, arterioles and capilleries",7A47B,7A47B00,Emerg bypass pop art by pop/peron art anast c vein graft NEC
+"Disease of arteries, arterioles and capilleries",7A47C,7A47C00,Emerg bypass femoral artery by fem/fem art anastomosis NEC
+"Disease of arteries, arterioles and capilleries",7A47D,7A47D00,Emerg bypass popliteal artery by pop/fem art anastomosis NEC
+"Disease of arteries, arterioles and capilleries",7A48E,7A48E00,Femoro-femoral prosthetic cross over graft
+"Disease of arteries, arterioles and capilleries",7A492,7A49200,Endarterectomy of femoral artery NEC
+"Disease of arteries, arterioles and capilleries",7A493,7A49300,Endarterectomy of popliteal artery NEC
+"Disease of arteries, arterioles and capilleries",7A494,7A49400,Profundoplasty femoral artery & patch repair deep fem artery
+"Disease of arteries, arterioles and capilleries",7A496,7A49600,Profundoplasty of femoral artery NEC
+"Disease of arteries, arterioles and capilleries",7A497,7A49700,Profundoplasty of popliteal artery NEC
+"Disease of arteries, arterioles and capilleries",7A4A2,7A4A200,Open embolectomy of femoral artery
+"Disease of arteries, arterioles and capilleries",7A4A2-1,7A4A211,Open thrombectomy of femoral artery
+"Disease of arteries, arterioles and capilleries",7A4A2-2,7A4A212,Open femoral embolectomy
+"Disease of arteries, arterioles and capilleries",7A4A3,7A4A300,Open embolectomy popliteal artery
+"Disease of arteries, arterioles and capilleries",7A4A3-1,7A4A311,Open thrombectomy of popliteal artery
+"Disease of arteries, arterioles and capilleries",7A4B0,7A4B000,Percutaneous transluminal angioplasty of femoral artery
+"Disease of arteries, arterioles and capilleries",7A4B1,7A4B100,Percutaneous transluminal angioplasty of popliteal artery
+"Disease of arteries, arterioles and capilleries",7A4B2,7A4B200,Percutaneous transluminal embolectomy of femoral artery
+"Disease of arteries, arterioles and capilleries",7A4B3,7A4B300,Percutaneous transluminal embolectomy of popliteal artery
+"Disease of arteries, arterioles and capilleries",7A4B4,7A4B400,Percutaneous transluminal embolisation of femoral artery
+"Disease of arteries, arterioles and capilleries",7A4B5,7A4B500,Percutaneous transluminal embolisation of popliteal artery
+"Disease of arteries, arterioles and capilleries",A3A0F,A3A0F00,Gas gangrene-foot
+"Disease of arteries, arterioles and capilleries",C107,C107.00,Diabetes mellitus with peripheral circulatory disorder
+"Disease of arteries, arterioles and capilleries",C107-1,C107.11,Diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",C107-2,C107.12,Diabetes with gangrene
+"Disease of arteries, arterioles and capilleries",C1071,C107100,"Diabetes mellitus, adult, + peripheral circulatory disorder"
+"Disease of arteries, arterioles and capilleries",C1072,C107200,"Diabetes mellitus, adult with gangrene"
+"Disease of arteries, arterioles and capilleries",C1073,C107300,IDDM with peripheral circulatory disorder
+"Disease of arteries, arterioles and capilleries",C1074,C107400,NIDDM with peripheral circulatory disorder
+"Disease of arteries, arterioles and capilleries",C107z,C107z00,Diabetes mellitus NOS with peripheral circulatory disorder
+"Disease of arteries, arterioles and capilleries",C1086,C108600,Insulin dependent diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",C1086-2,C108612,Type 1 diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",C108G,C108G00,Insulin dependent diab mell with peripheral angiopathy
+"Disease of arteries, arterioles and capilleries",C1095,C109500,Non-insulin dependent diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",C1095-1,C109511,Type II diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",C1095-2,C109512,Type 2 diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",C109F,C109F00,Non-insulin-dependent d m with peripheral angiopath
+"Disease of arteries, arterioles and capilleries",C109F-1,C109F11,Type II diabetes mellitus with peripheral angiopathy
+"Disease of arteries, arterioles and capilleries",C109F-2,C109F12,Type 2 diabetes mellitus with peripheral angiopathy
+"Disease of arteries, arterioles and capilleries",C10E6,C10E600,Type 1 diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",C10E6-1,C10E611,Type I diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",C10E6-2,C10E612,Insulin dependent diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",C10EG,C10EG00,Type 1 diabetes mellitus with peripheral angiopathy
+"Disease of arteries, arterioles and capilleries",C10F5,C10F500,Type 2 diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",C10F5-1,C10F511,Type II diabetes mellitus with gangrene
+"Disease of arteries, arterioles and capilleries",C10FF,C10FF00,Type 2 diabetes mellitus with peripheral angiopathy
+"Disease of arteries, arterioles and capilleries",G700-1,G700.11,Aorto-iliac disease
+"Disease of arteries, arterioles and capilleries",G702,G702.00,Extremity artery atheroma
+"Disease of arteries, arterioles and capilleries",G702z,G702z00,Extremity artery atheroma NOS
+"Disease of arteries, arterioles and capilleries",G73,G73..00,Other peripheral vascular disease
+"Disease of arteries, arterioles and capilleries",G73-1,G73..11,Peripheral ischaemic vascular disease
+"Disease of arteries, arterioles and capilleries",G73-2,G73..12,Ischaemia of legs
+"Disease of arteries, arterioles and capilleries",G73-3,G73..13,Peripheral ischaemia
+"Disease of arteries, arterioles and capilleries",G731,G731.00,Thromboangiitis obliterans
+"Disease of arteries, arterioles and capilleries",G7310,G731000,Buerger's disease
+"Disease of arteries, arterioles and capilleries",G731z,G731z00,Thromboangiitis obliterans NOS
+"Disease of arteries, arterioles and capilleries",G732,G732.00,Peripheral gangrene
+"Disease of arteries, arterioles and capilleries",G7320,G732000,Gangrene of toe
+"Disease of arteries, arterioles and capilleries",G7321,G732100,Gangrene of foot
+"Disease of arteries, arterioles and capilleries",G733,G733.00,Ischaemic foot
+"Disease of arteries, arterioles and capilleries",G73y,G73y.00,Other specified peripheral vascular disease
+"Disease of arteries, arterioles and capilleries",G73y0,G73y000,Diabetic peripheral angiopathy
+"Disease of arteries, arterioles and capilleries",G73y1,G73y100,Peripheral angiopathic disease EC NOS
+"Disease of arteries, arterioles and capilleries",G73y2,G73y200,Acrocyanosis
+"Disease of arteries, arterioles and capilleries",G73y4,G73y400,Acroparaesthesia - Schultze's type
+"Disease of arteries, arterioles and capilleries",G73y5,G73y500,Acroparaesthesia - Nothnagel's type
+"Disease of arteries, arterioles and capilleries",G73y5-1,G73y511,Nothnagel's vasomotor acroparaesthesia
+"Disease of arteries, arterioles and capilleries",G73y6,G73y600,Acroparaesthesia - unspecified
+"Disease of arteries, arterioles and capilleries",G73y7,G73y700,Erythrocyanosis
+"Disease of arteries, arterioles and capilleries",G73y8,G73y800,Erythromelalgia
+"Disease of arteries, arterioles and capilleries",G73yz,G73yz00,Other specified peripheral vascular disease NOS
+"Disease of arteries, arterioles and capilleries",G73z,G73z.00,Peripheral vascular disease NOS
+"Disease of arteries, arterioles and capilleries",G73z0,G73z000,Intermittent claudication
+"Disease of arteries, arterioles and capilleries",G73z0-1,G73z011,Claudication
+"Disease of arteries, arterioles and capilleries",G73zz,G73zz00,Peripheral vascular disease NOS
+"Disease of arteries, arterioles and capilleries",G740-2,G740.12,Aortoiliac obstruction
+"Disease of arteries, arterioles and capilleries",G7424,G742400,Embolism and thrombosis of the femoral artery
+"Disease of arteries, arterioles and capilleries",G7425,G742500,Embolism and thrombosis of the popliteal artery
+"Disease of arteries, arterioles and capilleries",G7426,G742600,Embolism and thrombosis of the anterior tibial artery
+"Disease of arteries, arterioles and capilleries",G7427,G742700,Embolism and thrombosis of the dorsalis pedis artery
+"Disease of arteries, arterioles and capilleries",G7429,G742900,Embolism and thrombosis of a leg artery NOS
+"Disease of arteries, arterioles and capilleries",G742z,G742z00,Peripheral arterial embolism and thrombosis NOS
+"Disease of arteries, arterioles and capilleries",G74y0,G74y000,Embolism and/or thrombosis of the common iliac artery
+"Disease of arteries, arterioles and capilleries",G74y1,G74y100,Embolism and/or thrombosis of the internal iliac artery
+"Disease of arteries, arterioles and capilleries",G74y2,G74y200,Embolism and/or thrombosis of the external iliac artery
+"Disease of arteries, arterioles and capilleries",G74y3,G74y300,Embolism and thrombosis of the iliac artery unspecified
+"Disease of arteries, arterioles and capilleries",Gyu74,Gyu7400,[X]Other specified peripheral vascular diseases
+"Disease of arteries, arterioles and capilleries",M271-2,M271.12,Ischaemic leg ulcer
+"Disease of arteries, arterioles and capilleries",M2710,M271000,Ischaemic ulcer diabetic foot
+"Disease of arteries, arterioles and capilleries",M2713,M271300,Arterial leg ulcer
+"Disease of arteries, arterioles and capilleries",M2714,M271400,Mixed venous and arterial leg ulcer
+"Disease of arteries, arterioles and capilleries",R0542,R054200,[D]Gangrene of toe in diabetic
+"Disease of arteries, arterioles and capilleries",R0543,R054300,[D]Widespread diabetic foot gangrene
+"Disease of arteries, arterioles and capilleries",R0550,R055000,[D]Failure of peripheral circulation
+"Disease of arteries, arterioles and capilleries",R0550-1,R055011,[D]Peripheral circulatory failure
+"Disease of arteries, arterioles and capilleries",C10FF-1,C10FF11,Type II diabetes mellitus with peripheral angiopathy
+"Disease of arteries, arterioles and capilleries",C10EG-2,C10EG12,Insulin dependent diab mell with peripheral angiopathy
+"Disease of arteries, arterioles and capilleries",^ESCT1248544,,NIDDM with peripheral circulatory disorder
+"Disease of arteries, arterioles and capilleries",C108G-2,C108G12,Type 1 diabetes mellitus with peripheral angiopathy
+"Disease of arteries, arterioles and capilleries",C108G-1,C108G11,Type I diabetes mellitus with peripheral angiopathy
+"Disease of arteries, arterioles and capilleries",C10EG-1,C10EG11,Type I diabetes mellitus with peripheral angiopathy

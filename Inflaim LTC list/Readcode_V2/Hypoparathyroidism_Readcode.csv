@@ -1,0 +1,22 @@
+Condition,ReadCode,CleansedReadCode,Term
+Hypoparathyroidism,^ESCTDE309573,,Deficiency of parathyrin
+Hypoparathyroidism,^ESCTDE309574,,Deficiency of PTH
+Hypoparathyroidism,C1212,C121200,Idiopathic hypoparathyroidism
+Hypoparathyroidism,F395z,F395z00,Myopathy due to endocrine disease NOS
+Hypoparathyroidism,C121,C121.00,Hypoparathyroidism
+Hypoparathyroidism,C121z,C121z00,Hypoparathyroidism NOS
+Hypoparathyroidism,Cyu40,Cyu4000,[X]Other hypoparathyroidism
+Hypoparathyroidism,^ESCTDE309572,,Deficiency of parathyroid hormone
+Hypoparathyroidism,^ESCTPA345811,,Parathyroid hormone resistant hypoparathyroidism
+Hypoparathyroidism,^ESCTAD432183,,Adenoid excision
+Hypoparathyroidism,^ESCTAD309122,,Adenoid operation
+Hypoparathyroidism,^ESCTAD432186,,Ads - Adenoidectomy
+Hypoparathyroidism,^ESCTCO345812,,Constitutional chronic hypocalcaemia
+Hypoparathyroidism,^ESCTPR431209,,Procedure on pharynx
+Hypoparathyroidism,^ESCTPH431210,,Pharyngeal procedure
+Hypoparathyroidism,75309,7530900,Guillotine tonsillectomy and adenoidectomy
+Hypoparathyroidism,C3543,C354300,Pseudohypoparathyroidism
+Hypoparathyroidism,742z,742z.00,Pharynx operations NOS
+Hypoparathyroidism,^ESCTCO345809,,Constitutional chronic hypocalcemia
+Hypoparathyroidism,75306-99,7530699,Tonsillectomy + adenoidectomy
+Hypoparathyroidism,R017z,R017z00,[D]Tetany NOS

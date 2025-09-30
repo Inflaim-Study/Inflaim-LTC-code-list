@@ -1,0 +1,38 @@
+Condition,SNOMED_Code,SnomedCTDescriptionId,Term
+Chronic viral hepatitis,487571000006100,487571000006116.0,Antigen Positive Viral Hepatitis B
+Chronic viral hepatitis,1976991000006103,1976991000006119.2,Hepatitis A total antibody test positive
+Chronic viral hepatitis,1977011000006109,1977011000006112.8,Hepatitis B surface antibody test positive
+Chronic viral hepatitis,994021000006104,994021000006115.0,Hepatitis C positive
+Chronic viral hepatitis,1761241000006105,1761241000006114.0,[SHHAPT] Viral hepatitis B (HbsAg positive) - first diagnosis
+Chronic viral hepatitis,1676391000006100,1676391000006116.0,Hepatitis C PCR positive
+Chronic viral hepatitis,1756531000006100,1756531000006116.0,Hepatitis C resolved
+Chronic viral hepatitis,761381000000102,1686831000000111.0,Hepatitis C resolved
+Chronic viral hepatitis,165806002,257840015.0,Hepatitis B surface antig +ve
+Chronic viral hepatitis,165807006,257841016.0,Hepatitis e antigen present
+Chronic viral hepatitis,314706002,459095018.0,Hepatitis C antibody test positive
+Chronic viral hepatitis,1030511000000102,2595451000000116.0,Hepatitis C nucleic acid detection
+Chronic viral hepatitis,1031571000000101,2595441000000119.0,Hepatitis B nucleic acid detection
+Chronic viral hepatitis,992751000000109,2576171000000118.0,Hepatitis C viral load
+Chronic viral hepatitis,222531000000101,354081000000114.0,Hepatitis B viral load
+Chronic viral hepatitis,992771000000100,2581311000000111.0,Hepatitis C virus genotype
+Chronic viral hepatitis,760421000000100,1681741000000116.0,Hepatitis C viral ribonucleic acid PCR positive
+Chronic viral hepatitis,760421000000100,1739601000000111.0,Hepatitis C PCR positive
+Chronic viral hepatitis,812181000000106,2118321000000118.0,Hepatitis C antigen positive
+Chronic viral hepatitis,221021000000103,350841000000119.0,Hepatitis B treatment drugs Band 1
+Chronic viral hepatitis,829241000000108,2155841000000118.0,12 week virologic response to hepatitis C treatment
+Chronic viral hepatitis,355741000000101,1154311000000113.0,Hepatitis status 6 months post treatment - enhanced serv adm
+Chronic viral hepatitis,66071002,109733012.0,Viral (serum) hepatitis B
+Chronic viral hepatitis,50711007,84513012.0,Viral hepatitis C without mention of hepatic coma
+Chronic viral hepatitis,10295004,17930015.0,Chronic viral hepatitis
+Chronic viral hepatitis,235869004,353580016.0,Chronic viral hepatitis B with delta-agent
+Chronic viral hepatitis,186639003,286879013.0,Chronic viral hepatitis B without delta-agent
+Chronic viral hepatitis,128302006,206586011.0,Chronic viral hepatitis C
+Chronic viral hepatitis,61977001,1232261014.0,Chronic viral hepatitis B
+Chronic viral hepatitis,10295004,17930015.0,"Chronic viral hepatitis, unspecified"
+Chronic viral hepatitis,824841000000105,2146441000000112.8,Hepatitis C genotype 1
+Chronic viral hepatitis,824851000000108,2146461000000114.0,Hepatitis C genotype 2
+Chronic viral hepatitis,824871000000104,2146501000000114.0,Hepatitis C genotype 3
+Chronic viral hepatitis,824881000000102,2146521000000116.8,Hepatitis C genotype 4
+Chronic viral hepatitis,50711007,84516016.0,Hepatitis C
+Chronic viral hepatitis,10295004,17930015.0,[X]Other chronic viral hepatitis
+Chronic viral hepatitis,10295004,17930015.0,"[X]Chronic viral hepatitis, unspecified"

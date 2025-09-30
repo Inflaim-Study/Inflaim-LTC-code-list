@@ -1,0 +1,127 @@
+Condition,ReadCode,CleansedReadCode,Term
+"Diseases of oesophagus, stomach and duodenum",K21,K21..00,Prostate inflammatory diseases
+"Diseases of oesophagus, stomach and duodenum",G25,G25..00,Stage 1 hypertension (NICE - Nat Ins for Hth Clin Excl 2011)
+"Diseases of oesophagus, stomach and duodenum",J157,J157.00,Duodenitis
+"Diseases of oesophagus, stomach and duodenum",J1544,J154400,Helicobacter gastritis
+"Diseases of oesophagus, stomach and duodenum",J1540,J154000,Allergic gastritis
+"Diseases of oesophagus, stomach and duodenum",A0743-3,A074313,Helicobacter gastritis
+"Diseases of oesophagus, stomach and duodenum",J156,J156.00,Gastroduodenitis unspecified
+"Diseases of oesophagus, stomach and duodenum",J151,J151.00,Chronic gastritis
+"Diseases of oesophagus, stomach and duodenum",J1510,J151000,Chronic atrophic gastritis
+"Diseases of oesophagus, stomach and duodenum",J15,J15..00,Gastritis and duodenitis
+"Diseases of oesophagus, stomach and duodenum",J1542,J154200,Irritant gastritis
+"Diseases of oesophagus, stomach and duodenum",J1543,J154300,Corrosive gastritis
+"Diseases of oesophagus, stomach and duodenum",J155,J155.00,Gastritis unspecified
+"Diseases of oesophagus, stomach and duodenum",J153,J153.00,Alcoholic gastritis
+"Diseases of oesophagus, stomach and duodenum",J152,J152.00,Gastric mucosal hypertrophy
+"Diseases of oesophagus, stomach and duodenum",J1511,J151100,Chronic inflammatory gastritis
+"Diseases of oesophagus, stomach and duodenum",J1541,J154100,Bile induced gastritis
+"Diseases of oesophagus, stomach and duodenum",J123,J123.00,Duodenal erosion
+"Diseases of oesophagus, stomach and duodenum",J154,J154.00,Other specified gastritis
+"Diseases of oesophagus, stomach and duodenum",J1512,J151200,Chronic superficial gastritis
+"Diseases of oesophagus, stomach and duodenum",1957,1957.00,Gastric reflux
+"Diseases of oesophagus, stomach and duodenum",J1011-2,J101112,Gastro-oesophageal reflux with oesophagitis
+"Diseases of oesophagus, stomach and duodenum",J1011,J101100,Reflux oesophagitis
+"Diseases of oesophagus, stomach and duodenum",J1011-1,J101111,Acid reflux
+"Diseases of oesophagus, stomach and duodenum",760L1-1,760L111,Antireflux procedure using thoracic approach NEC
+"Diseases of oesophagus, stomach and duodenum",171J,171J.00,Reflux cough
+"Diseases of oesophagus, stomach and duodenum",760L3-1,760L311,Antireflux gastroplasty
+"Diseases of oesophagus, stomach and duodenum",760L3,760L300,Antireflux gastropexy
+"Diseases of oesophagus, stomach and duodenum",760L-1,760L.11,Oesophageal reflux operations
+"Diseases of oesophagus, stomach and duodenum",760L1,760L100,Antireflux operation using thoracic approach NEC
+"Diseases of oesophagus, stomach and duodenum",760L0,760L000,Antireflux fundoplication using thoracic approach
+"Diseases of oesophagus, stomach and duodenum",J1011-3,J101113,Oesophageal reflux with oesophagitis
+"Diseases of oesophagus, stomach and duodenum",760L4,760L400,Antireflux procedure and gastroplasty HFQ
+"Diseases of oesophagus, stomach and duodenum",760L,760L.00,Antireflux operations
+"Diseases of oesophagus, stomach and duodenum",760L2,760L200,Antireflux fundoplication using abdominal approach
+"Diseases of oesophagus, stomach and duodenum",J11z-1,J11z.11,Gastric erosions
+"Diseases of oesophagus, stomach and duodenum",Jyu13,Jyu1300,[X]Other gastritis
+"Diseases of oesophagus, stomach and duodenum",J4z0,J4z0.00,Non-infective gastritis NOS
+"Diseases of oesophagus, stomach and duodenum",J15z,J15z.00,Gastritis and duodenitis NOS
+"Diseases of oesophagus, stomach and duodenum",J151z,J151z00,Chronic gastritis NOS
+"Diseases of oesophagus, stomach and duodenum",J154z,J154z00,Other specified gastritis NOS
+"Diseases of oesophagus, stomach and duodenum",760Lz,760Lz00,Antireflux operation NOS
+"Diseases of oesophagus, stomach and duodenum",J10y5,J10y500,Laryngopharyngeal reflux
+"Diseases of oesophagus, stomach and duodenum",J10y4-2,J10y412,Gastro-oesophageal reflux
+"Diseases of oesophagus, stomach and duodenum",J10y4-3,J10y413,Acid reflux
+"Diseases of oesophagus, stomach and duodenum",J10y4,J10y400,Oesopheal reflux without mention of oesophagitis
+"Diseases of oesophagus, stomach and duodenum",J10y4-1,J10y411,Oesophageal reflux
+"Diseases of oesophagus, stomach and duodenum",760Ly,760Ly00,Other specified antireflux operation
+"Diseases of oesophagus, stomach and duodenum",J13y0,J13y000,Unspecified peptic ulcer without mention of complication
+"Diseases of oesophagus, stomach and duodenum",J13y3,J13y300,Unspecified peptic ulcer with haemorrhage and perforation
+"Diseases of oesophagus, stomach and duodenum",J13yz,J13yz00,Unspecified peptic ulcer NOS
+"Diseases of oesophagus, stomach and duodenum",J13,J13..00,Peptic ulcer - (PU) site unspecified
+"Diseases of oesophagus, stomach and duodenum",791-98,791..98,Heart valve operation NOS
+"Diseases of oesophagus, stomach and duodenum",793y,793y.00,Other parts of heart or pericardium operations OS
+"Diseases of oesophagus, stomach and duodenum",J13yy,J13yy00,Unspec peptic ulcer; unspec haemorrhage and/or perforation
+"Diseases of oesophagus, stomach and duodenum",J13-1,J13..11,Stress ulcer NOS
+"Diseases of oesophagus, stomach and duodenum",J681-3,J681.13,Blood in stools altered
+"Diseases of oesophagus, stomach and duodenum",^ESCTPU270952,,PUD - Peptic ulcer disease
+"Diseases of oesophagus, stomach and duodenum",^ESCTBL671771,,Bloody stool
+"Diseases of oesophagus, stomach and duodenum",^ESCTUP310219,,Upper GI haemorrhage
+"Diseases of oesophagus, stomach and duodenum",^ESCTGA270949,,Gastroduodenal ulcer
+"Diseases of oesophagus, stomach and duodenum",^ESCTTV290330,,TVR - Tricuspid valve replacement
+"Diseases of oesophagus, stomach and duodenum",J681-1,J681.11,Blood in stool
+"Diseases of oesophagus, stomach and duodenum",79-1,79...11,Cardiac operations
+"Diseases of oesophagus, stomach and duodenum",^ESCTBR671773,,Bright red blood per rectum
+"Diseases of oesophagus, stomach and duodenum",^ESCTUP310218,,Upper GI bleeding
+"Diseases of oesophagus, stomach and duodenum",^ESCTTA254516,,Tarry stools
+"Diseases of oesophagus, stomach and duodenum",^ESCTUP310220,,Upper GI - gastrointestinal haemorrhage
+"Diseases of oesophagus, stomach and duodenum",^ESCTOP369570,,Operative procedure on heart valve
+"Diseases of oesophagus, stomach and duodenum",^ESCTFA671778,,Faeces: blood
+"Diseases of oesophagus, stomach and duodenum",^ESCTBL671777,,Blood in feces
+"Diseases of oesophagus, stomach and duodenum",^ESCTAL254517,,Altered blood passed per rectum
+"Diseases of oesophagus, stomach and duodenum",^ESCTHE671770,,Hematochezia
+"Diseases of oesophagus, stomach and duodenum",^ESCTPE270951,,Peptic ulceration
+"Diseases of oesophagus, stomach and duodenum",^ESCTBR671775,,BRBPR - Bright red blood per rectum
+"Diseases of oesophagus, stomach and duodenum",^ESCTBL527442,,Blood in feces symptom
+"Diseases of oesophagus, stomach and duodenum",^ESCT1177678,,Fresh blood passed per rectum
+"Diseases of oesophagus, stomach and duodenum",^ESCTOP355585,,Operative procedure on heart
+"Diseases of oesophagus, stomach and duodenum",^ESCTCH329662,,Chronic peptic ulcer with hemorrhage
+"Diseases of oesophagus, stomach and duodenum",^ESCTFE671776,,Feces: blood
+"Diseases of oesophagus, stomach and duodenum",^ESCTUP310216,,Upper gastrointestinal bleeding
+"Diseases of oesophagus, stomach and duodenum",79182,7918200,Annuloplasty of valve of heart NEC
+"Diseases of oesophagus, stomach and duodenum",791y,791y.00,Heart valve or adjacent structures operations OS
+"Diseases of oesophagus, stomach and duodenum",J1311,J131100,Chronic peptic ulcer with haemorrhage
+"Diseases of oesophagus, stomach and duodenum",1994-1,1994.11,Blood in vomit - symptom
+"Diseases of oesophagus, stomach and duodenum",4737-1,4737.11,Melaena - O/E of faeces
+"Diseases of oesophagus, stomach and duodenum",79z,79z..00,Heart operations NOS
+"Diseases of oesophagus, stomach and duodenum",19E6-1,19E6.11,Blood in faeces symptom
+"Diseases of oesophagus, stomach and duodenum",J68z2,J68z200,Upper gastrointestinal haemorrhage
+"Diseases of oesophagus, stomach and duodenum",4762-1,4762.11,Blood in faeces
+"Diseases of oesophagus, stomach and duodenum",J1311-99,J131199,PU - chronic + haemorrhage
+"Diseases of oesophagus, stomach and duodenum",J680-1,J680.11,Vomiting of blood
+"Diseases of oesophagus, stomach and duodenum",^ESCTPU270953,,PU - Peptic ulcer
+"Diseases of oesophagus, stomach and duodenum",^ESCTPA671774,,Passage of bloody stools
+"Diseases of oesophagus, stomach and duodenum",^ESCTBR671772,,Bright red blood in stool
+"Diseases of oesophagus, stomach and duodenum",^ESCTUP310221,,Upper GI - gastrointestinal hemorrhage
+"Diseases of oesophagus, stomach and duodenum",J13z,J13z.00,Peptic ulcer NOS
+"Diseases of oesophagus, stomach and duodenum",19E6-2,19E6.12,Haematochezia
+"Diseases of oesophagus, stomach and duodenum",791z,791z.00,Heart valve and adjacent structures operations NOS
+"Diseases of oesophagus, stomach and duodenum",19E6,19E6.00,Blood in faeces
+"Diseases of oesophagus, stomach and duodenum",^ESCTUP310217,,Upper GI hemorrhage
+"Diseases of oesophagus, stomach and duodenum",^ESCTME557666,,Melaena on examination of faeces
+"Diseases of oesophagus, stomach and duodenum",793,793..00,Other parts of heart and pericardium operations
+"Diseases of oesophagus, stomach and duodenum",793z,793z.00,Other parts of heart and pericardium operations NOS
+"Diseases of oesophagus, stomach and duodenum",J13y,J13y.00,Unspecified peptic ulcer
+"Diseases of oesophagus, stomach and duodenum",^ESCTME254515,,Melena
+"Diseases of oesophagus, stomach and duodenum",^ESCTME557664,,Melena - O/E of feces
+"Diseases of oesophagus, stomach and duodenum",J13-99,J13..99,Peptic ulcer NOS = PU
+"Diseases of oesophagus, stomach and duodenum",^ESCTPE270950,,Peptic ulcer disease
+"Diseases of oesophagus, stomach and duodenum",^ESCTME557665,,Melena on examination of feces
+"Diseases of oesophagus, stomach and duodenum",^ESCTCA355586,,Cardiac surgery procedure
+"Diseases of oesophagus, stomach and duodenum",^ESCTVO263983,,Vomiting of blood
+"Diseases of oesophagus, stomach and duodenum",^ESCTBL254519,,"Black, tarry stool"
+"Diseases of oesophagus, stomach and duodenum",J1312-99,J131299,PU - chronic + perforation
+"Diseases of oesophagus, stomach and duodenum",^ESCTPE361988,,Percutaneous valvuloplasty
+"Diseases of oesophagus, stomach and duodenum",^ESCTPE361991,,Percutaneous cardiac valvuloplasty
+"Diseases of oesophagus, stomach and duodenum",79124,7912400,Repositioning of tricuspid valve
+"Diseases of oesophagus, stomach and duodenum",J1313,J131300,Chronic peptic ulcer with haemorrhage AND perforation
+"Diseases of oesophagus, stomach and duodenum",J1313-99,J131399,PU - chronic + h'ge + perf.
+"Diseases of oesophagus, stomach and duodenum",^ESCTCH349602,,Chronic peptic ulcer with hemorrhage AND perforation
+"Diseases of oesophagus, stomach and duodenum",79194,7919400,Percutaneous transluminal valvuloplasty
+"Diseases of oesophagus, stomach and duodenum",J1310,J131000,Chronic peptic ulcer without mention of complication
+"Diseases of oesophagus, stomach and duodenum",J131y,J131y00,Chronic peptic ulcer unspecified
+"Diseases of oesophagus, stomach and duodenum",J131z,J131z00,Chronic peptic ulcer NOS
+"Diseases of oesophagus, stomach and duodenum",J1314,J131400,Chronic peptic ulcer with obstruction
+"Diseases of oesophagus, stomach and duodenum",J131,J131.00,Chronic peptic ulcer
