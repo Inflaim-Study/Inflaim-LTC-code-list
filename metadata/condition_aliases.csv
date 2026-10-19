@@ -1,0 +1,13 @@
+condition_id,condition_name,alias,alias_type,used_in
+ltc_004,Cerebrovascular disease,CVD,abbreviation,Previous version of this repository (v2.0)
+ltc_004,Cerebrovascular disease,CVD,condition_name,Previous version of this repository (v2.0)
+ltc_013,"Diseases of arteries, arterioles and capillaries","Disease of arteries, arterioles and capilleries",condition_name,Previous version of this repository (v2.0)
+ltc_013,"Diseases of arteries, arterioles and capillaries","Disease of arteries, arterioles and capillaries",condition_name,"Paper, Table 1"
+ltc_014,"Diseases of oesophagus, stomach and duodenum","Gastro-oesophageal reflux, peptic ulcer disease, gastritis and duodenitis",condition_name,Previous version of this repository (v2.0)
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified","Diseases of veins, lymphatic vessels and lymph nodes, note eslewhere classified",condition_name,Previous version of this repository (v2.0)
+ltc_020,Disorders of thyroid gland,Disorders of thryoid gland,condition_name,Previous version of this repository (v2.0)
+ltc_035,Irritable bowel syndrome,Irritable Bowel Sydrome,condition_name,Previous version of this repository (v2.0)
+ltc_045,Osteoarthritis,Arthrosis,condition_name,"Paper, Table 1"
+ltc_047,Other interstitial pulmonary diseases,Fibrosing alveolitis/unspecified alveolitis,condition_name,Previous version of this repository (v2.0)
+ltc_048,Other retinal disorders (Macular degeneration),Other reintal disorders (Macular degeneration),condition_name,Previous version of this repository (v2.0)
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,Polyneuropathies,condition_name,Previous version of this repository (v2.0)

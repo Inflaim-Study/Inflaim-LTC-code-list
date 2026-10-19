@@ -1,0 +1,12 @@
+condition_id,condition_name,icd10_block,icd10_code,hes_code,description
+ltc_060,Visual disturbances and blindness,H53-H54,H53.2,H532,Diplopia
+ltc_060,Visual disturbances and blindness,H53-H54,H53.3,H533,Other disorders of binocular vision
+ltc_060,Visual disturbances and blindness,H53-H54,H53.4,H534,Visual field defects
+ltc_060,Visual disturbances and blindness,H53-H54,H53.5,H535,Colour vision deficiencies
+ltc_060,Visual disturbances and blindness,H53-H54,H53.6,H536,Night blindness
+ltc_060,Visual disturbances and blindness,H53-H54,H54.0,H540,"Blindness, binocular"
+ltc_060,Visual disturbances and blindness,H53-H54,H54.1,H541,"Severe visual impairment, binocular"
+ltc_060,Visual disturbances and blindness,H53-H54,H54.2,H542,"Moderate visual impairment, binocular"
+ltc_060,Visual disturbances and blindness,H53-H54,H54.4,H544,"Blindness, monocular"
+ltc_060,Visual disturbances and blindness,H53-H54,H54.5,H545,"Severe visual impairment, monocular"
+ltc_060,Visual disturbances and blindness,H53-H54,H54.6,H546,"Moderate visual impairment, monocular"

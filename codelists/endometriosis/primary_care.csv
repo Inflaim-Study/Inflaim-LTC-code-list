@@ -1,0 +1,39 @@
+condition_id,condition_name,MedCodeId,SnomedCTConceptId,SnomedCTDescriptionId,OriginalReadCode,CleansedReadCode,Term
+ltc_024,Endometriosis,3545641000006112,64286001,106864016,^ESCTEN354564,,Endometriosis of the pouch of Douglas
+ltc_024,Endometriosis,2548653011,416155004,2548653011,7E0D8,7E0D800,Laparoscopic laser destruction of endometriosis
+ltc_024,Endometriosis,317021000006116,128726006,207190013,BBL1-1,BBL1.11,[M]Stromal endometriosis
+ltc_024,Endometriosis,1784724014,129103003,1784724014,K50,K50..00,Endometriosis
+ltc_024,Endometriosis,126839012,76376003,126839012,K50-1,K50..11,Adenomyosis
+ltc_024,Endometriosis,126835018,76376003,126835018,K500,K500.00,Endometriosis of uterus
+ltc_024,Endometriosis,770611000006110,198247003,304789015,K5000,K500000,Internal endometriosis
+ltc_024,Endometriosis,355411011,237115002,355411011,K5001,K500100,Endometriosis of myometrium
+ltc_024,Endometriosis,461191000006115,237115002,355411011,K5001-1,K500111,Adenomyosis of endometrium
+ltc_024,Endometriosis,102424012,61640006,102424012,K5002,K500200,Endometriosis of cervix
+ltc_024,Endometriosis,304791011,76376003,126835018,K500z,K500z00,Endometriosis of uterus NOS
+ltc_024,Endometriosis,396767017,266589005,396767017,K501,K501.00,Endometriosis of ovary
+ltc_024,Endometriosis,355412016,237116001,355412016,K501-1,K501.11,Chocolate cyst of ovary
+ltc_024,Endometriosis,642691000006110,22611009,37950010,K502,K502.00,Endometriosis of the fallopian tube
+ltc_024,Endometriosis,642741000006112,198251001,304795019,K503,K503.00,Endometriosis of pelvic peritoneum
+ltc_024,Endometriosis,642671000006114,10535001,18314019,K5030,K503000,Endometriosis of the broad ligament
+ltc_024,Endometriosis,106864016,64286001,1232545013,K5031,K503100,Endometriosis of pouch of Douglas
+ltc_024,Endometriosis,642731000006119,84305006,139827010,K5032,K503200,Endometriosis of the parametrium
+ltc_024,Endometriosis,642811000006116,5327000,9929018,K5033,K503300,Endometriosis of the round ligament
+ltc_024,Endometriosis,304796018,198251001,304795019,K503z,K503z00,Endometriosis of the pelvic peritoneum NOS
+ltc_024,Endometriosis,642781000006118,52533003,87425018,K504,K504.00,Endometriosis of the rectovaginal septum and vagina
+ltc_024,Endometriosis,642771000006116,52533003,87425018,K5040,K504000,Endometriosis of the rectovaginal septum
+ltc_024,Endometriosis,642831000006110,57493005,95606014,K5041,K504100,Endometriosis of the vagina
+ltc_024,Endometriosis,304798017,52533003,87425018,K504z,K504z00,Endometriosis of rectovaginal septum
+ltc_024,Endometriosis,642701000006110,5562006,10284014,K505,K505.00,Endometriosis of the intestine
+ltc_024,Endometriosis,642651000006116,8421002,14907015,K5050,K505000,Endometriosis of the appendix
+ltc_024,Endometriosis,642681000006112,44601009,74408017,K5051,K505100,Endometriosis of the colon
+ltc_024,Endometriosis,642801000006119,9563009,16732013,K5052,K505200,Endometriosis of the rectum
+ltc_024,Endometriosis,304799013,5562006,10284014,K505z,K505z00,Endometriosis of intestine
+ltc_024,Endometriosis,89618011,53913001,89618011,K506,K506.00,Endometriosis in scar of skin
+ltc_024,Endometriosis,304801011,129103003,1784724014,K50y,K50y.00,Other endometriosis
+ltc_024,Endometriosis,642661000006119,65099004,108185013,K50y0,K50y000,Endometriosis of the bladder
+ltc_024,Endometriosis,642721000006117,50993001,84979012,K50y1,K50y100,Endometriosis of the lung
+ltc_024,Endometriosis,642821000006112,17829005,30125011,K50y2,K50y200,Endometriosis of the umbilicus
+ltc_024,Endometriosis,642841000006117,38780008,64543018,K50y3,K50y300,Endometriosis of the vulva
+ltc_024,Endometriosis,304802016,129103003,1784724014,K50yz,K50yz00,Other endometriosis NOS
+ltc_024,Endometriosis,304803014,129103003,1784724014,K50z,K50z.00,Endometriosis NOS
+ltc_024,Endometriosis,305247015,129103003,1784724014,Kyu90,Kyu9000,[X]Other endometriosis

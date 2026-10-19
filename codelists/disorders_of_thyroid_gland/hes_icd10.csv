@@ -1,0 +1,34 @@
+condition_id,condition_name,icd10_block,icd10_code,hes_code,description
+ltc_020,Disorders of thyroid gland,E00-E07,E03.3,E033,Postinfectious hypothyroidism
+ltc_020,Disorders of thyroid gland,E00-E07,E05.5,E055,Thyroid crisis or storm
+ltc_020,Disorders of thyroid gland,E00-E07,E06.2,E062,Chronic thyroiditis with transient thyrotoxicosis
+ltc_020,Disorders of thyroid gland,E00-E07,E07.1,E071,Dyshormogenetic goitre
+ltc_020,Disorders of thyroid gland,E00-E07,E01.0,E010,Iodine-deficiency-related diffuse (endemic) goitre
+ltc_020,Disorders of thyroid gland,E00-E07,E01.1,E011,Iodine-deficiency-related multinodular (endemic) goitre
+ltc_020,Disorders of thyroid gland,E00-E07,E01.2,E012,"Iodine-deficiency-related (endemic) goitre, unspecified"
+ltc_020,Disorders of thyroid gland,E00-E07,E01.8,E018,Other iodine-deficiency-related thyroid disorders and allied conditions
+ltc_020,Disorders of thyroid gland,E00-E07,E02.X,E02X,Subclinical iodine-deficiency hypothyroidism
+ltc_020,Disorders of thyroid gland,E00-E07,E03.2,E032,Hypothyroidism due to medicaments and other exogenous substances
+ltc_020,Disorders of thyroid gland,E00-E07,E03.4,E034,Atrophy of thyroid (acquired)
+ltc_020,Disorders of thyroid gland,E00-E07,E03.5,E035,Myxoedema coma
+ltc_020,Disorders of thyroid gland,E00-E07,E03.8,E038,Other specified hypothyroidism
+ltc_020,Disorders of thyroid gland,E00-E07,E03.9,E039,"Hypothyroidism, unspecified"
+ltc_020,Disorders of thyroid gland,E00-E07,E04.0,E040,Nontoxic diffuse goitre
+ltc_020,Disorders of thyroid gland,E00-E07,E04.1,E041,Nontoxic single thyroid nodule
+ltc_020,Disorders of thyroid gland,E00-E07,E04.2,E042,Nontoxic multinodular goitre
+ltc_020,Disorders of thyroid gland,E00-E07,E04.8,E048,Other specified nontoxic goitre
+ltc_020,Disorders of thyroid gland,E00-E07,E04.9,E049,"Nontoxic goitre, unspecified"
+ltc_020,Disorders of thyroid gland,E00-E07,E05.0,E050,Thyrotoxicosis with diffuse goitre
+ltc_020,Disorders of thyroid gland,E00-E07,E05.1,E051,Thyrotoxicosis with toxic single thyroid nodule
+ltc_020,Disorders of thyroid gland,E00-E07,E05.2,E052,Thyrotoxicosis with toxic multinodular goitre
+ltc_020,Disorders of thyroid gland,E00-E07,E05.3,E053,Thyrotoxicosis from ectopic thyroid tissue
+ltc_020,Disorders of thyroid gland,E00-E07,E05.4,E054,Thyrotoxicosis factitia
+ltc_020,Disorders of thyroid gland,E00-E07,E05.8,E058,Other thyrotoxicosis
+ltc_020,Disorders of thyroid gland,E00-E07,E05.9,E059,"Thyrotoxicosis, unspecified"
+ltc_020,Disorders of thyroid gland,E00-E07,E06.3,E063,Autoimmune thyroiditis
+ltc_020,Disorders of thyroid gland,E00-E07,E06.4,E064,Drug-induced thyroiditis
+ltc_020,Disorders of thyroid gland,E00-E07,E06.5,E065,Other chronic thyroiditis
+ltc_020,Disorders of thyroid gland,E00-E07,E06.9,E069,"Thyroiditis, unspecified"
+ltc_020,Disorders of thyroid gland,E00-E07,E07.0,E070,Hypersecretion of calcitonin
+ltc_020,Disorders of thyroid gland,E00-E07,E07.8,E078,Other specified disorders of thyroid
+ltc_020,Disorders of thyroid gland,E00-E07,E07.9,E079,"Disorder of thyroid, unspecified"

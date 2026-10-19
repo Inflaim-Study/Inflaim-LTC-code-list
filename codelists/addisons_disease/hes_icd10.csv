@@ -1,0 +1,5 @@
+condition_id,condition_name,icd10_block,icd10_code,hes_code,description
+ltc_001,Addison's disease,E20-E35,E27.2,E272,Addisonian crisis
+ltc_001,Addison's disease,E20-E35,E27.3,E273,Drug-induced adrenocortical insufficiency
+ltc_001,Addison's disease,E20-E35,E27.1,E271,Primary adrenocortical insufficiency
+ltc_001,Addison's disease,E20-E35,E27.4,E274,Other and unspecified adrenocortical insufficiency

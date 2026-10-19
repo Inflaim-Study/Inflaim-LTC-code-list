@@ -1,0 +1,68 @@
+condition_id,condition_name,MedCodeId,SnomedCTConceptId,SnomedCTDescriptionId,OriginalReadCode,CleansedReadCode,Term
+ltc_020,Disorders of thyroid gland,881391000006112,654491000000108,881391000006112,C04y-99,C04y.99,Acquired hypothyroidism NOS
+ltc_020,Disorders of thyroid gland,5108351000006116,237519003,355966019,^ESCTAU510835,,Autoimmune hypothyroidism
+ltc_020,Disorders of thyroid gland,881381000006114,111566002,881381000006114,C04-99,C04..99,Hypothyroidism-congen.+ acqui.
+ltc_020,Disorders of thyroid gland,1539151000006110,1539151000006106,1539151000006110,EMISNQSE16,,Secondary hypothyroidism
+ltc_020,Disorders of thyroid gland,3843671000006116,82598004,137019010,^ESCTSE384367,,Secondary hypothyroidism
+ltc_020,Disorders of thyroid gland,881371000006111,286909009,881371000006111,C02-99,C02..99,Thyrotoxicosis +/- goitre
+ltc_020,Disorders of thyroid gland,905741000006112,905741000006108,905741000006112,HNG0048,,[RFC] Reason for care : Hyperthyroidism
+ltc_020,Disorders of thyroid gland,2933341000006117,27059002,2536050019,^ESCTPO293334,,Postsurgical hypothyroidism
+ltc_020,Disorders of thyroid gland,2548990010,416477006,2548990010,212P,212P.00,Hyperthyroidism resolved
+ltc_020,Disorders of thyroid gland,412221013,276177000,412221013,66B4,66B4.00,Thyroid eye disease
+ltc_020,Disorders of thyroid gland,150375010,90739004,150375010,C02,C02..00,Thyrotoxicosis
+ltc_020,Disorders of thyroid gland,57561015,34486009,57561015,C02-1,C02..11,Hyperthyroidism
+ltc_020,Disorders of thyroid gland,355932011,237498007,355932011,C02-2,C02..12,Toxic goitre
+ltc_020,Disorders of thyroid gland,398780011,267374005,398780011,C020,C020.00,Toxic diffuse goitre
+ltc_020,Disorders of thyroid gland,490987015,353295004,2912991014,C020-1,C020.11,Basedow's disease
+ltc_020,Disorders of thyroid gland,472452010,353295004,472452010,C020-2,C020.12,Graves' disease
+ltc_020,Disorders of thyroid gland,356406019,237825005,356406019,C0202,C020200,Thyroid-associated dermopathy
+ltc_020,Disorders of thyroid gland,292331012,267374005,398780011,C020z,C020z00,Toxic diffuse goitre NOS
+ltc_020,Disorders of thyroid gland,200396013,73869005,200396013,C021,C021.00,Toxic uninodular goitre
+ltc_020,Disorders of thyroid gland,292338018,73869005,200396013,C021z,C021z00,Toxic uninodular goitre NOS
+ltc_020,Disorders of thyroid gland,196525014,26389007,196525014,C022,C022.00,Toxic multinodular goitre
+ltc_020,Disorders of thyroid gland,292343013,26389007,196525014,C022z,C022z00,Toxic multinodular goitre NOS
+ltc_020,Disorders of thyroid gland,292346017,57777000,497988010,C023,C023.00,Toxic nodular goitre
+ltc_020,Disorders of thyroid gland,292354015,57777000,497988010,C023z,C023z00,Toxic nodular goitre NOS
+ltc_020,Disorders of thyroid gland,398782015,90739004,150375010,C02y,C02y.00,Thyrotoxicosis of other specified origin
+ltc_020,Disorders of thyroid gland,292365013,90739004,150375010,C02yz,C02yz00,Thyrotoxicosis of other specified origin NOS
+ltc_020,Disorders of thyroid gland,292366014,90739004,150375010,C02z,C02z.00,Thyrotoxicosis without mention of goitre or other cause
+ltc_020,Disorders of thyroid gland,292372014,90739004,150375010,C02zz,C02zz00,Thyrotoxicosis NOS
+ltc_020,Disorders of thyroid gland,178809013,111566002,178809013,C04,C04..00,Acquired hypothyroidism
+ltc_020,Disorders of thyroid gland,493538010,43153006,493538010,C04-1,C04..11,Myxoedema
+ltc_020,Disorders of thyroid gland,101171000006116,40930008,68268011,C04-2,C04..12,Thyroid deficiency
+ltc_020,Disorders of thyroid gland,68268011,40930008,68268011,C04-3,C04..13,Hypothyroidism
+ltc_020,Disorders of thyroid gland,2536050019,27059002,45271010,C040,C040.00,Post-surgical hypothyroidism
+ltc_020,Disorders of thyroid gland,216181000006112,237527007,355975017,C040-1,C040.11,Postablative hypothyroidism
+ltc_020,Disorders of thyroid gland,292394018,237527007,355975017,C041,C041.00,Other postablative hypothyroidism
+ltc_020,Disorders of thyroid gland,292395017,190277005,292395017,C0410,C041000,Irradiation hypothyroidism
+ltc_020,Disorders of thyroid gland,292396016,237527007,355975017,C041z,C041z00,Postablative hypothyroidism NOS
+ltc_020,Disorders of thyroid gland,292400016,88273006,146340011,C043,C043.00,Iatrogenic hypothyroidism
+ltc_020,Disorders of thyroid gland,292404013,88273006,146340011,C043z,C043z00,Iatrogenic hypothyroidism NOS
+ltc_020,Disorders of thyroid gland,355964016,237519003,355964016,C046,C046.00,Autoimmune myxoedema
+ltc_020,Disorders of thyroid gland,292408011,111566002,178809013,C04y,C04y.00,Other acquired hypothyroidism
+ltc_020,Disorders of thyroid gland,398784019,40930008,68268011,C04z,C04z.00,Hypothyroidism NOS
+ltc_020,Disorders of thyroid gland,208391000006113,40930008,68268011,C04z-1,C04z.11,Pretibial myxoedema - hypothyroid
+ltc_020,Disorders of thyroid gland,101581000006112,40930008,68268011,C04z-2,C04z.12,Thyroid insufficiency
+ltc_020,Disorders of thyroid gland,355961012,237518006,355961012,C04z-3,C04z.13,"Hypothyroid goitre, acquired"
+ltc_020,Disorders of thyroid gland,292417011,190291004,292417011,C04z0,C04z000,Premature puberty due to hypothyroidism
+ltc_020,Disorders of thyroid gland,35727012,21263006,35727012,C04z1,C04z100,Myxoedema coma
+ltc_020,Disorders of thyroid gland,136211012,82119001,136211012,C05,C05..00,Thyroiditis
+ltc_020,Disorders of thyroid gland,481187014,21983002,481187014,C052,C052.00,Chronic lymphocytic thyroiditis
+ltc_020,Disorders of thyroid gland,481188016,21983002,481188016,C052-1,C052.11,Autoimmune thyroiditis
+ltc_020,Disorders of thyroid gland,36888019,21983002,36888019,C052-2,C052.12,Hashimoto's disease
+ltc_020,Disorders of thyroid gland,554221000006113,84362007,139911019,C053,C053.00,Chronic fibrous thyroiditis
+ltc_020,Disorders of thyroid gland,292435019,45053005,75139015,C05y,C05y.00,Other and unspecified chronic thyroiditis
+ltc_020,Disorders of thyroid gland,355987012,237538007,355987012,C05y4,C05y400,Chronic thyroiditis with transient thyrotoxicosis
+ltc_020,Disorders of thyroid gland,292437010,82119001,136211012,C05z,C05z.00,Thyroiditis NOS
+ltc_020,Disorders of thyroid gland,88781000006119,82598004,505169010,C1343,C134300,TSH deficiency
+ltc_020,Disorders of thyroid gland,413721000006119,40930008,68268011,Cyu11,Cyu1100,[X]Other sp cified hypothyroidism
+ltc_020,Disorders of thyroid gland,293750016,90739004,150375010,Cyu13,Cyu1300,[X]Other thyrotoxicosis
+ltc_020,Disorders of thyroid gland,293751017,45053005,75139015,Cyu14,Cyu1400,Chronic thyroiditis
+ltc_020,Disorders of thyroid gland,542671000006117,192816007,297016016,F11x5,F11x500,Cerebral degeneration due to myxoedema
+ltc_020,Disorders of thyroid gland,297588017,193212008,297588017,F3814,F381400,Myasthenic syndrome due to hypothyroidism
+ltc_020,Disorders of thyroid gland,297591017,193214009,297591017,F3816,F381600,Myasthenic syndrome due to thyrotoxicosis
+ltc_020,Disorders of thyroid gland,682701000006117,87844004,507778013,F3953,F395300,Myopathy due to myxoedema
+ltc_020,Disorders of thyroid gland,1233040016,68437005,1233040016,F3954,F395400,Myopathy due to thyrotoxicosis
+ltc_020,Disorders of thyroid gland,33469013,19885005,33469013,F4G20,F4G2000,Thyrotoxic exophthalmos
+ltc_020,Disorders of thyroid gland,379441000006115,509381000000104,1132591000000116,FyuBD,FyuBD00,Dysthyroid exophthalmos
+ltc_020,Disorders of thyroid gland,100438013,60446003,100438013,G5575,G557500,Thyrotoxic heart disease

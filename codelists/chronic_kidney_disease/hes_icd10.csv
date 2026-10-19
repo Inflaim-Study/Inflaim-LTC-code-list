@@ -1,0 +1,8 @@
+condition_id,condition_name,icd10_block,icd10_code,hes_code,description
+ltc_005,Chronic kidney disease,N18-N19,N18.1,N181,"Chronic kidney disease, stage 1"
+ltc_005,Chronic kidney disease,N18-N19,N18.2,N182,"Chronic kidney disease, stage 2"
+ltc_005,Chronic kidney disease,N18-N19,N18.3,N183,"Chronic kidney disease, stage 3"
+ltc_005,Chronic kidney disease,N18-N19,N18.4,N184,"Chronic kidney disease, stage 4"
+ltc_005,Chronic kidney disease,N18-N19,N18.5,N185,"Chronic kidney disease, stage 5"
+ltc_005,Chronic kidney disease,N18-N19,N18.9,N189,"Chronic kidney disease, unspecified"
+ltc_005,Chronic kidney disease,N18-N19,N19.X,N19X,Unspecified kidney failure

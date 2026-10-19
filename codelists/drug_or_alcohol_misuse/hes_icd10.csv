@@ -1,0 +1,47 @@
+condition_id,condition_name,icd10_block,icd10_code,hes_code,description
+ltc_022,Drug or alcohol misuse,F10-F19,F10.2,F102,Mental and behavioural disorders due to use of alcohol: dependence syndrome
+ltc_022,Drug or alcohol misuse,F10-F19,F10.3,F103,Mental and behavioural disorders due to use of alcohol: withdrawal state
+ltc_022,Drug or alcohol misuse,F10-F19,F10.4,F104,Mental and behavioural disorders due to use of alcohol: withdrawal state with delirium
+ltc_022,Drug or alcohol misuse,F10-F19,F10.5,F105,Mental and behavioural disorders due to use of alcohol: psychotic disorder
+ltc_022,Drug or alcohol misuse,F10-F19,F10.6,F106,Mental and behavioural disorders due to use of alcohol: amnesic syndrome
+ltc_022,Drug or alcohol misuse,F10-F19,F10.7,F107,Mental and behavioural disorders due to use of alcohol: residual and late-onset psychotic disorder
+ltc_022,Drug or alcohol misuse,F10-F19,F10.8,F108,Mental and behavioural disorders due to use of alcohol: other mental and behavioural disorders
+ltc_022,Drug or alcohol misuse,F10-F19,F10.9,F109,Mental and behavioural disorders due to use of alcohol: unspecified mental and behavioural disorder
+ltc_022,Drug or alcohol misuse,F10-F19,F11.2,F112,Mental and behavioural disorders due to use of opioids: dependence syndrome
+ltc_022,Drug or alcohol misuse,F10-F19,F11.3,F113,Mental and behavioural disorders due to use of opioids: withdrawal state
+ltc_022,Drug or alcohol misuse,F10-F19,F11.4,F114,Mental and behavioural disorders due to use of opioids: withdrawal state with delirium
+ltc_022,Drug or alcohol misuse,F10-F19,F11.5,F115,Mental and behavioural disorders due to use of opioids: psychotic disorder
+ltc_022,Drug or alcohol misuse,F10-F19,F11.6,F116,Mental and behavioural disorders due to use of opioids: amnesic syndrome
+ltc_022,Drug or alcohol misuse,F10-F19,F11.7,F117,Mental and behavioural disorders due to use of opioids: residual and late-onset psychotic disorder
+ltc_022,Drug or alcohol misuse,F10-F19,F11.8,F118,Mental and behavioural disorders due to use of opioids: other mental and behavioural disorders
+ltc_022,Drug or alcohol misuse,F10-F19,F12.2,F122,Mental and behavioural disorders due to use of cannabinoids: dependence syndrome
+ltc_022,Drug or alcohol misuse,F10-F19,F12.3,F123,Mental and behavioural disorders due to use of cannabinoids: withdrawal state
+ltc_022,Drug or alcohol misuse,F10-F19,F12.4,F124,Mental and behavioural disorders due to use of cannabinoids: withdrawal state with delirium
+ltc_022,Drug or alcohol misuse,F10-F19,F12.5,F125,Mental and behavioural disorders due to use of cannabinoids: psychotic disorder
+ltc_022,Drug or alcohol misuse,F10-F19,F12.6,F126,Mental and behavioural disorders due to use of cannabinoids: amnesic syndrome
+ltc_022,Drug or alcohol misuse,F10-F19,F12.7,F127,Mental and behavioural disorders due to use of cannabinoids: residual and late-onset psychotic disorder
+ltc_022,Drug or alcohol misuse,F10-F19,F13.2,F132,Mental and behavioural disorders due to use of sedatives or hypnotics: dependence syndrome
+ltc_022,Drug or alcohol misuse,F10-F19,F13.3,F133,Mental and behavioural disorders due to use of sedatives or hypnotics: withdrawal state
+ltc_022,Drug or alcohol misuse,F10-F19,F13.4,F134,Mental and behavioural disorders due to use of sedatives or hypnotics: withdrawal state with delirium
+ltc_022,Drug or alcohol misuse,F10-F19,F13.5,F135,Mental and behavioural disorders due to use of sedatives or hypnotics: psychotic disorder
+ltc_022,Drug or alcohol misuse,F10-F19,F13.6,F136,Mental and behavioural disorders due to use of sedatives or hypnotics: amnesic syndrome
+ltc_022,Drug or alcohol misuse,F10-F19,F13.7,F137,Mental and behavioural disorders due to use of sedatives or hypnotics: residual and late-onset psychotic disorder
+ltc_022,Drug or alcohol misuse,F10-F19,F14.2,F142,Mental and behavioural disorders due to use of cocaine: dependence syndrome
+ltc_022,Drug or alcohol misuse,F10-F19,F14.3,F143,Mental and behavioural disorders due to use of cocaine: withdrawal state
+ltc_022,Drug or alcohol misuse,F10-F19,F14.4,F144,Mental and behavioural disorders due to use of cocaine: withdrawal state with delirium
+ltc_022,Drug or alcohol misuse,F10-F19,F14.5,F145,Mental and behavioural disorders due to use of cocaine: psychotic disorder
+ltc_022,Drug or alcohol misuse,F10-F19,F14.6,F146,Mental and behavioural disorders due to use of cocaine: amnesic syndrome
+ltc_022,Drug or alcohol misuse,F10-F19,F14.7,F147,Mental and behavioural disorders due to use of cocaine: residual and late-onset psychotic disorder
+ltc_022,Drug or alcohol misuse,F10-F19,F14.8,F148,Mental and behavioural disorders due to use of cocaine: other mental and behavioural disorders
+ltc_022,Drug or alcohol misuse,F10-F19,F11.9,F119,Mental and behavioural disorders due to use of opioids: unspecified mental and behavioural disorder
+ltc_022,Drug or alcohol misuse,F10-F19,F12.8,F128,Mental and behavioural disorders due to use of cannabinoids: other mental and behavioural disorders
+ltc_022,Drug or alcohol misuse,F10-F19,F12.9,F129,Mental and behavioural disorders due to use of cannabinoids: unspecified mental and behavioural disorder
+ltc_022,Drug or alcohol misuse,F10-F19,F13.8,F138,Mental and behavioural disorders due to use of sedatives or hypnotics: other mental and behavioural disorders
+ltc_022,Drug or alcohol misuse,F10-F19,F13.9,F139,Mental and behavioural disorders due to use of sedatives or hypnotics: unspecified mental and behavioural disorder
+ltc_022,Drug or alcohol misuse,F10-F19,F14.1,F141,Mental and behavioural disorders due to use of cocaine: harmful use
+ltc_022,Drug or alcohol misuse,F10-F19,F14.9,F149,Mental and behavioural disorders due to use of cocaine: unspecified mental and behavioural disorder
+ltc_022,Drug or alcohol misuse,F10-F19,F16.1,F161,Mental and behavioural disorders due to use of hallucinogens: harmful use
+ltc_022,Drug or alcohol misuse,F10-F19,F16.8,F168,Mental and behavioural disorders due to use of hallucinogens: other mental and behavioural disorders
+ltc_022,Drug or alcohol misuse,F10-F19,F16.9,F169,Mental and behavioural disorders due to use of hallucinogens: unspecified mental and behavioural disorder
+ltc_022,Drug or alcohol misuse,F10-F19,F17.1,F171,Mental and behavioural disorders due to use of tobacco: harmful use
+ltc_022,Drug or alcohol misuse,F10-F19,F17.9,F179,Mental and behavioural disorders due to use of tobacco: unspecified mental and behavioural disorder

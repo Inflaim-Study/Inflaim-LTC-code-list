@@ -1,0 +1,9 @@
+condition_id,condition_name,icd10_block,icd10_code,hes_code,description
+ltc_023,Eating disorders,F50-F59,F50.0,F500,Anorexia nervosa
+ltc_023,Eating disorders,F50-F59,F50.1,F501,Atypical anorexia nervosa
+ltc_023,Eating disorders,F50-F59,F50.2,F502,Bulimia nervosa
+ltc_023,Eating disorders,F50-F59,F50.3,F503,Atypical bulimia nervosa
+ltc_023,Eating disorders,F50-F59,F50.4,F504,Overeating associated with other psychological disturbances
+ltc_023,Eating disorders,F50-F59,F50.5,F505,Vomiting associated with other psychological disturbances
+ltc_023,Eating disorders,F50-F59,F50.8,F508,Other eating disorders
+ltc_023,Eating disorders,F50-F59,F50.9,F509,"Eating disorder, unspecified"

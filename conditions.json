@@ -1,0 +1,482 @@
+[
+  {
+    "condition_id": "ltc_001",
+    "condition_name": "Addison's disease",
+    "abbreviation": "ADI",
+    "inflammatory_condition": "N",
+    "icd10_range": "E27",
+    "folder_name": "addisons_disease"
+  },
+  {
+    "condition_id": "ltc_002",
+    "condition_name": "Ankylosing spondylitis",
+    "abbreviation": "ANK",
+    "inflammatory_condition": "Y",
+    "icd10_range": "M45",
+    "folder_name": "ankylosing_spondylitis"
+  },
+  {
+    "condition_id": "ltc_003",
+    "condition_name": "Cataract",
+    "abbreviation": "CAT",
+    "inflammatory_condition": "N",
+    "icd10_range": "H25",
+    "folder_name": "cataract"
+  },
+  {
+    "condition_id": "ltc_004",
+    "condition_name": "Cerebrovascular disease",
+    "abbreviation": "CeVD",
+    "inflammatory_condition": "N",
+    "icd10_range": "I60-I69",
+    "folder_name": "cerebrovascular_disease"
+  },
+  {
+    "condition_id": "ltc_005",
+    "condition_name": "Chronic kidney disease",
+    "abbreviation": "CKD",
+    "inflammatory_condition": "N",
+    "icd10_range": "N18-N19",
+    "folder_name": "chronic_kidney_disease"
+  },
+  {
+    "condition_id": "ltc_006",
+    "condition_name": "Chronic lower respiratory diseases",
+    "abbreviation": "CRD",
+    "inflammatory_condition": "Y",
+    "icd10_range": "J40-J47",
+    "folder_name": "chronic_lower_respiratory_diseases"
+  },
+  {
+    "condition_id": "ltc_007",
+    "condition_name": "Chronic rheumatic heart diseases",
+    "abbreviation": "RHD",
+    "inflammatory_condition": "Y",
+    "icd10_range": "I05-I09",
+    "folder_name": "chronic_rheumatic_heart_diseases"
+  },
+  {
+    "condition_id": "ltc_008",
+    "condition_name": "Chronic viral hepatitis",
+    "abbreviation": "HEP",
+    "inflammatory_condition": "Y",
+    "icd10_range": "B18-B19",
+    "folder_name": "chronic_viral_hepatitis"
+  },
+  {
+    "condition_id": "ltc_009",
+    "condition_name": "Conductive and sensorineural hearing loss",
+    "abbreviation": "HRL",
+    "inflammatory_condition": "N",
+    "icd10_range": "H90-H91",
+    "folder_name": "conductive_and_sensorineural_hearing_loss"
+  },
+  {
+    "condition_id": "ltc_010",
+    "condition_name": "Dementia",
+    "abbreviation": "DEM",
+    "inflammatory_condition": "N",
+    "icd10_range": "F00-F03",
+    "folder_name": "dementia"
+  },
+  {
+    "condition_id": "ltc_011",
+    "condition_name": "Dermatitis and eczema",
+    "abbreviation": "ECZ",
+    "inflammatory_condition": "Y",
+    "icd10_range": "L20-L30",
+    "folder_name": "dermatitis_and_eczema"
+  },
+  {
+    "condition_id": "ltc_012",
+    "condition_name": "Diabetes",
+    "abbreviation": "DBT",
+    "inflammatory_condition": "N",
+    "icd10_range": "E10-E14",
+    "folder_name": "diabetes"
+  },
+  {
+    "condition_id": "ltc_013",
+    "condition_name": "Diseases of arteries, arterioles and capillaries",
+    "abbreviation": "ART",
+    "inflammatory_condition": "N",
+    "icd10_range": "I70-I79",
+    "folder_name": "diseases_of_arteries_arterioles_and_capillaries"
+  },
+  {
+    "condition_id": "ltc_014",
+    "condition_name": "Diseases of oesophagus, stomach and duodenum",
+    "abbreviation": "OGD",
+    "inflammatory_condition": "N",
+    "icd10_range": "K21, K27, K29",
+    "folder_name": "diseases_of_oesophagus_stomach_and_duodenum"
+  },
+  {
+    "condition_id": "ltc_015",
+    "condition_name": "Diseases of the liver",
+    "abbreviation": "LIV",
+    "inflammatory_condition": "N",
+    "icd10_range": "K70-K77",
+    "folder_name": "diseases_of_the_liver"
+  },
+  {
+    "condition_id": "ltc_016",
+    "condition_name": "Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",
+    "abbreviation": "VEN",
+    "inflammatory_condition": "N",
+    "icd10_range": "I80-I89",
+    "folder_name": "diseases_of_veins_lymphatic_vessels_and_lymph_nodes_not_elsewhere_classified"
+  },
+  {
+    "condition_id": "ltc_017",
+    "condition_name": "Disorders of bone density and structure",
+    "abbreviation": "BON",
+    "inflammatory_condition": "N",
+    "icd10_range": "M80-M85",
+    "folder_name": "disorders_of_bone_density_and_structure"
+  },
+  {
+    "condition_id": "ltc_018",
+    "condition_name": "Disorders of gallbladder, biliary tract and pancreas",
+    "abbreviation": "BIL",
+    "inflammatory_condition": "N",
+    "icd10_range": "K80-K87",
+    "folder_name": "disorders_of_gallbladder_biliary_tract_and_pancreas"
+  },
+  {
+    "condition_id": "ltc_019",
+    "condition_name": "Disorders of the prostate",
+    "abbreviation": "PRS",
+    "inflammatory_condition": "N",
+    "icd10_range": "N40-N42",
+    "folder_name": "disorders_of_the_prostate"
+  },
+  {
+    "condition_id": "ltc_020",
+    "condition_name": "Disorders of thyroid gland",
+    "abbreviation": "THY",
+    "inflammatory_condition": "N",
+    "icd10_range": "E00-E07",
+    "folder_name": "disorders_of_thyroid_gland"
+  },
+  {
+    "condition_id": "ltc_021",
+    "condition_name": "Diverticular disease of the intestine",
+    "abbreviation": "DIV",
+    "inflammatory_condition": "Y",
+    "icd10_range": "K57",
+    "folder_name": "diverticular_disease_of_the_intestine"
+  },
+  {
+    "condition_id": "ltc_022",
+    "condition_name": "Drug or alcohol misuse",
+    "abbreviation": "SUB",
+    "inflammatory_condition": "N",
+    "icd10_range": "F10-F19",
+    "folder_name": "drug_or_alcohol_misuse"
+  },
+  {
+    "condition_id": "ltc_023",
+    "condition_name": "Eating disorders",
+    "abbreviation": "EAT",
+    "inflammatory_condition": "N",
+    "icd10_range": "F50",
+    "folder_name": "eating_disorders"
+  },
+  {
+    "condition_id": "ltc_024",
+    "condition_name": "Endometriosis",
+    "abbreviation": "END",
+    "inflammatory_condition": "Y",
+    "icd10_range": "N80",
+    "folder_name": "endometriosis"
+  },
+  {
+    "condition_id": "ltc_025",
+    "condition_name": "Epilepsy",
+    "abbreviation": "EPI",
+    "inflammatory_condition": "N",
+    "icd10_range": "G40, F80.3",
+    "folder_name": "epilepsy"
+  },
+  {
+    "condition_id": "ltc_026",
+    "condition_name": "Glaucoma",
+    "abbreviation": "GLA",
+    "inflammatory_condition": "N",
+    "icd10_range": "H40-H42",
+    "folder_name": "glaucoma"
+  },
+  {
+    "condition_id": "ltc_027",
+    "condition_name": "HIV disease",
+    "abbreviation": "HIV",
+    "inflammatory_condition": "N",
+    "icd10_range": "B20-B24",
+    "folder_name": "hiv_disease"
+  },
+  {
+    "condition_id": "ltc_028",
+    "condition_name": "Hyperparathyroidism",
+    "abbreviation": "HPR",
+    "inflammatory_condition": "N",
+    "icd10_range": "E21",
+    "folder_name": "hyperparathyroidism"
+  },
+  {
+    "condition_id": "ltc_029",
+    "condition_name": "Hypertensive diseases",
+    "abbreviation": "HTN",
+    "inflammatory_condition": "N",
+    "icd10_range": "I10-I15",
+    "folder_name": "hypertensive_diseases"
+  },
+  {
+    "condition_id": "ltc_030",
+    "condition_name": "Hypoparathyroidism",
+    "abbreviation": "HPO",
+    "inflammatory_condition": "N",
+    "icd10_range": "E20",
+    "folder_name": "hypoparathyroidism"
+  },
+  {
+    "condition_id": "ltc_031",
+    "condition_name": "In situ neoplasms",
+    "abbreviation": "ISN",
+    "inflammatory_condition": "N",
+    "icd10_range": "D00-D09",
+    "folder_name": "in_situ_neoplasms"
+  },
+  {
+    "condition_id": "ltc_032",
+    "condition_name": "Inflammatory diseases of the female pelvic organs",
+    "abbreviation": "PID",
+    "inflammatory_condition": "Y",
+    "icd10_range": "N70-N77",
+    "folder_name": "inflammatory_diseases_of_the_female_pelvic_organs"
+  },
+  {
+    "condition_id": "ltc_033",
+    "condition_name": "Inflammatory polyarthropathies",
+    "abbreviation": "IAR",
+    "inflammatory_condition": "Y",
+    "icd10_range": "M05-M14",
+    "folder_name": "inflammatory_polyarthropathies"
+  },
+  {
+    "condition_id": "ltc_034",
+    "condition_name": "Iron deficiency anaemia",
+    "abbreviation": "IDA",
+    "inflammatory_condition": "N",
+    "icd10_range": "D50",
+    "folder_name": "iron_deficiency_anaemia"
+  },
+  {
+    "condition_id": "ltc_035",
+    "condition_name": "Irritable bowel syndrome",
+    "abbreviation": "IBS",
+    "inflammatory_condition": "N",
+    "icd10_range": "K58",
+    "folder_name": "irritable_bowel_syndrome"
+  },
+  {
+    "condition_id": "ltc_036",
+    "condition_name": "Ischaemic heart diseases",
+    "abbreviation": "IHD",
+    "inflammatory_condition": "N",
+    "icd10_range": "I20-I25",
+    "folder_name": "ischaemic_heart_diseases"
+  },
+  {
+    "condition_id": "ltc_037",
+    "condition_name": "Malignant neoplasms",
+    "abbreviation": "NEO",
+    "inflammatory_condition": "N",
+    "icd10_range": "C00-C80, C97, D37-D44, D47, D48",
+    "folder_name": "malignant_neoplasms"
+  },
+  {
+    "condition_id": "ltc_038",
+    "condition_name": "Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",
+    "abbreviation": "LYH",
+    "inflammatory_condition": "N",
+    "icd10_range": "C81-C96",
+    "folder_name": "malignant_neoplasms_stated_or_presumed_to_be_primary_of_lymphoid_haematopoietic_and_related_tissue"
+  },
+  {
+    "condition_id": "ltc_039",
+    "condition_name": "Meniere disease",
+    "abbreviation": "MEN",
+    "inflammatory_condition": "N",
+    "icd10_range": "H81.0",
+    "folder_name": "meniere_disease"
+  },
+  {
+    "condition_id": "ltc_040",
+    "condition_name": "Migraine",
+    "abbreviation": "MIG",
+    "inflammatory_condition": "N",
+    "icd10_range": "G43",
+    "folder_name": "migraine"
+  },
+  {
+    "condition_id": "ltc_041",
+    "condition_name": "Mood disorders",
+    "abbreviation": "MOD",
+    "inflammatory_condition": "N",
+    "icd10_range": "F30-F39",
+    "folder_name": "mood_disorders"
+  },
+  {
+    "condition_id": "ltc_042",
+    "condition_name": "Multiple sclerosis (and optic neuritis)",
+    "abbreviation": "MSN",
+    "inflammatory_condition": "Y",
+    "icd10_range": "G35, H46",
+    "folder_name": "multiple_sclerosis_and_optic_neuritis"
+  },
+  {
+    "condition_id": "ltc_043",
+    "condition_name": "Neurotic, stress-related and somatoform disorders",
+    "abbreviation": "NRS",
+    "inflammatory_condition": "N",
+    "icd10_range": "F40-F48",
+    "folder_name": "neurotic_stress_related_and_somatoform_disorders"
+  },
+  {
+    "condition_id": "ltc_044",
+    "condition_name": "Noninfective enteritis and colitis",
+    "abbreviation": "COL",
+    "inflammatory_condition": "Y",
+    "icd10_range": "K50-K52",
+    "folder_name": "noninfective_enteritis_and_colitis"
+  },
+  {
+    "condition_id": "ltc_045",
+    "condition_name": "Osteoarthritis",
+    "abbreviation": "OST",
+    "inflammatory_condition": "N",
+    "icd10_range": "M15-M19",
+    "folder_name": "osteoarthritis"
+  },
+  {
+    "condition_id": "ltc_046",
+    "condition_name": "Other forms of heart disease",
+    "abbreviation": "OHD",
+    "inflammatory_condition": "N",
+    "icd10_range": "I30-I52",
+    "folder_name": "other_forms_of_heart_disease"
+  },
+  {
+    "condition_id": "ltc_047",
+    "condition_name": "Other interstitial pulmonary diseases",
+    "abbreviation": "ILD",
+    "inflammatory_condition": "Y",
+    "icd10_range": "J84",
+    "folder_name": "other_interstitial_pulmonary_diseases"
+  },
+  {
+    "condition_id": "ltc_048",
+    "condition_name": "Other retinal disorders (Macular degeneration)",
+    "abbreviation": "MAC",
+    "inflammatory_condition": "N",
+    "icd10_range": "H35",
+    "folder_name": "other_retinal_disorders_macular_degeneration"
+  },
+  {
+    "condition_id": "ltc_049",
+    "condition_name": "Other spirochaetal infections",
+    "abbreviation": "SPI",
+    "inflammatory_condition": "Y",
+    "icd10_range": "A69",
+    "folder_name": "other_spirochaetal_infections"
+  },
+  {
+    "condition_id": "ltc_050",
+    "condition_name": "Parkinson disease",
+    "abbreviation": "PKN",
+    "inflammatory_condition": "N",
+    "icd10_range": "G20-G21",
+    "folder_name": "parkinson_disease"
+  },
+  {
+    "condition_id": "ltc_051",
+    "condition_name": "Polyneuropathies and other disorders of the peripheral nervous system",
+    "abbreviation": "PNS",
+    "inflammatory_condition": "N",
+    "icd10_range": "G61-G64",
+    "folder_name": "polyneuropathies_and_other_disorders_of_the_peripheral_nervous_system"
+  },
+  {
+    "condition_id": "ltc_052",
+    "condition_name": "Psoriasis",
+    "abbreviation": "PSO",
+    "inflammatory_condition": "Y",
+    "icd10_range": "L40",
+    "folder_name": "psoriasis"
+  },
+  {
+    "condition_id": "ltc_053",
+    "condition_name": "Retinal detachments and breaks",
+    "abbreviation": "RTD",
+    "inflammatory_condition": "N",
+    "icd10_range": "H33",
+    "folder_name": "retinal_detachments_and_breaks"
+  },
+  {
+    "condition_id": "ltc_054",
+    "condition_name": "Rhinitis and Sinusitis",
+    "abbreviation": "RNS",
+    "inflammatory_condition": "Y",
+    "icd10_range": "J30-J32",
+    "folder_name": "rhinitis_and_sinusitis"
+  },
+  {
+    "condition_id": "ltc_055",
+    "condition_name": "Schizophrenia",
+    "abbreviation": "SCZ",
+    "inflammatory_condition": "N",
+    "icd10_range": "F20-F29",
+    "folder_name": "schizophrenia"
+  },
+  {
+    "condition_id": "ltc_056",
+    "condition_name": "Sleep disorders",
+    "abbreviation": "SLP",
+    "inflammatory_condition": "N",
+    "icd10_range": "G47",
+    "folder_name": "sleep_disorders"
+  },
+  {
+    "condition_id": "ltc_057",
+    "condition_name": "Spinal degenerative disease",
+    "abbreviation": "SPD",
+    "inflammatory_condition": "N",
+    "icd10_range": "M47, M51",
+    "folder_name": "spinal_degenerative_disease"
+  },
+  {
+    "condition_id": "ltc_058",
+    "condition_name": "Systemic connective tissue disorders",
+    "abbreviation": "CTD",
+    "inflammatory_condition": "Y",
+    "icd10_range": "M30-M36",
+    "folder_name": "systemic_connective_tissue_disorders"
+  },
+  {
+    "condition_id": "ltc_059",
+    "condition_name": "Tuberculosis",
+    "abbreviation": "TBC",
+    "inflammatory_condition": "Y",
+    "icd10_range": "A15-A19",
+    "folder_name": "tuberculosis"
+  },
+  {
+    "condition_id": "ltc_060",
+    "condition_name": "Visual disturbances and blindness",
+    "abbreviation": "VIS",
+    "inflammatory_condition": "N",
+    "icd10_range": "H53-H54",
+    "folder_name": "visual_disturbances_and_blindness"
+  }
+]

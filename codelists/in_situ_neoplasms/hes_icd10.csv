@@ -1,0 +1,58 @@
+condition_id,condition_name,icd10_block,icd10_code,hes_code,description
+ltc_031,In situ neoplasms,D00-D09,D00.0,D000,"Lip, oral cavity and pharynx"
+ltc_031,In situ neoplasms,D00-D09,D00.1,D001,Oesophagus
+ltc_031,In situ neoplasms,D00-D09,D00.2,D002,Stomach
+ltc_031,In situ neoplasms,D00-D09,D01.0,D010,Colon
+ltc_031,In situ neoplasms,D00-D09,D01.1,D011,Rectosigmoid junction
+ltc_031,In situ neoplasms,D00-D09,D01.2,D012,Rectum
+ltc_031,In situ neoplasms,D00-D09,D01.3,D013,Anus and anal canal
+ltc_031,In situ neoplasms,D00-D09,D01.4,D014,Other and unspecified parts of intestine
+ltc_031,In situ neoplasms,D00-D09,D01.5,D015,"Liver, gallbladder and bile ducts"
+ltc_031,In situ neoplasms,D00-D09,D01.7,D017,Other specified digestive organs
+ltc_031,In situ neoplasms,D00-D09,D01.9,D019,"Digestive organ, unspecified"
+ltc_031,In situ neoplasms,D00-D09,D02.0,D020,Larynx
+ltc_031,In situ neoplasms,D00-D09,D02.1,D021,Trachea
+ltc_031,In situ neoplasms,D00-D09,D02.2,D022,Bronchus and lung
+ltc_031,In situ neoplasms,D00-D09,D02.3,D023,Other parts of respiratory system
+ltc_031,In situ neoplasms,D00-D09,D02.4,D024,"Respiratory system, unspecified"
+ltc_031,In situ neoplasms,D00-D09,D03.0,D030,Melanoma in situ of lip
+ltc_031,In situ neoplasms,D00-D09,D03.1,D031,"Melanoma in situ of eyelid, including canthus"
+ltc_031,In situ neoplasms,D00-D09,D03.2,D032,Melanoma in situ of ear and external auricular canal
+ltc_031,In situ neoplasms,D00-D09,D03.3,D033,Melanoma in situ of other and unspecified parts of face
+ltc_031,In situ neoplasms,D00-D09,D03.4,D034,Melanoma in situ of scalp and neck
+ltc_031,In situ neoplasms,D00-D09,D03.5,D035,Melanoma in situ of trunk
+ltc_031,In situ neoplasms,D00-D09,D03.6,D036,"Melanoma in situ of upper limb, including shoulder"
+ltc_031,In situ neoplasms,D00-D09,D03.7,D037,"Melanoma in situ of lower limb, including hip"
+ltc_031,In situ neoplasms,D00-D09,D03.8,D038,Melanoma in situ of other sites
+ltc_031,In situ neoplasms,D00-D09,D03.9,D039,"Melanoma in situ, unspecified"
+ltc_031,In situ neoplasms,D00-D09,D04.0,D040,Skin of lip
+ltc_031,In situ neoplasms,D00-D09,D04.1,D041,"Skin of eyelid, including canthus"
+ltc_031,In situ neoplasms,D00-D09,D04.2,D042,Skin of ear and external auricular canal
+ltc_031,In situ neoplasms,D00-D09,D04.3,D043,Skin of other and unspecified parts of face
+ltc_031,In situ neoplasms,D00-D09,D04.4,D044,Skin of scalp and neck
+ltc_031,In situ neoplasms,D00-D09,D04.5,D045,Skin of trunk
+ltc_031,In situ neoplasms,D00-D09,D04.6,D046,"Skin of upper limb, including shoulder"
+ltc_031,In situ neoplasms,D00-D09,D04.7,D047,"Skin of lower limb, including hip"
+ltc_031,In situ neoplasms,D00-D09,D04.8,D048,Skin of other sites
+ltc_031,In situ neoplasms,D00-D09,D04.9,D049,"Skin, unspecified"
+ltc_031,In situ neoplasms,D00-D09,D05.0,D050,Lobular carcinoma in situ
+ltc_031,In situ neoplasms,D00-D09,D05.1,D051,Intraductal carcinoma in situ
+ltc_031,In situ neoplasms,D00-D09,D05.7,D057,Other carcinoma in situ of breast
+ltc_031,In situ neoplasms,D00-D09,D05.9,D059,"Carcinoma in situ of breast, unspecified"
+ltc_031,In situ neoplasms,D00-D09,D06.0,D060,Endocervix
+ltc_031,In situ neoplasms,D00-D09,D06.1,D061,Exocervix
+ltc_031,In situ neoplasms,D00-D09,D06.7,D067,Other parts of cervix
+ltc_031,In situ neoplasms,D00-D09,D06.9,D069,"Cervix, unspecified"
+ltc_031,In situ neoplasms,D00-D09,D07.0,D070,Endometrium
+ltc_031,In situ neoplasms,D00-D09,D07.1,D071,Vulva
+ltc_031,In situ neoplasms,D00-D09,D07.2,D072,Vagina
+ltc_031,In situ neoplasms,D00-D09,D07.3,D073,Other and unspecified female genital organs
+ltc_031,In situ neoplasms,D00-D09,D07.4,D074,Penis
+ltc_031,In situ neoplasms,D00-D09,D07.5,D075,Prostate
+ltc_031,In situ neoplasms,D00-D09,D07.6,D076,Other and unspecified male genital organs
+ltc_031,In situ neoplasms,D00-D09,D09.0,D090,Bladder
+ltc_031,In situ neoplasms,D00-D09,D09.1,D091,Other and unspecified urinary organs
+ltc_031,In situ neoplasms,D00-D09,D09.2,D092,Eye
+ltc_031,In situ neoplasms,D00-D09,D09.3,D093,Thyroid and other endocrine glands
+ltc_031,In situ neoplasms,D00-D09,D09.7,D097,Carcinoma in situ of other specified sites
+ltc_031,In situ neoplasms,D00-D09,D09.9,D099,"Carcinoma in situ, unspecified"

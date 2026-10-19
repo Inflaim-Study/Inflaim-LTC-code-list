@@ -1,0 +1,34 @@
+condition_id,condition_name,icd10_block,icd10_code,hes_code,description
+ltc_004,Cerebrovascular disease,I60-I69,I67.0,I670,"Dissection of cerebral arteries, nonruptured"
+ltc_004,Cerebrovascular disease,I60-I69,I67.4,I674,Hypertensive encephalopathy
+ltc_004,Cerebrovascular disease,I60-I69,I67.6,I676,Nonpyogenic thrombosis of intracranial venous system
+ltc_004,Cerebrovascular disease,I60-I69,I68.1,I681,Cerebral arteritis in infectious and parasitic diseases classified elsewhere
+ltc_004,Cerebrovascular disease,I60-I69,I68.2,I682,Cerebral arteritis in other diseases classified elsewhere
+ltc_004,Cerebrovascular disease,I60-I69,I68.8,I688,Other cerebrovascular disorders in diseases classified elsewhere
+ltc_004,Cerebrovascular disease,I60-I69,I65.0,I650,Occlusion and stenosis of vertebral artery
+ltc_004,Cerebrovascular disease,I60-I69,I65.1,I651,Occlusion and stenosis of basilar artery
+ltc_004,Cerebrovascular disease,I60-I69,I65.2,I652,Occlusion and stenosis of carotid artery
+ltc_004,Cerebrovascular disease,I60-I69,I65.3,I653,Occlusion and stenosis of multiple and bilateral precerebral arteries
+ltc_004,Cerebrovascular disease,I60-I69,I65.8,I658,Occlusion and stenosis of other precerebral artery
+ltc_004,Cerebrovascular disease,I60-I69,I65.9,I659,Occlusion and stenosis of unspecified precerebral artery
+ltc_004,Cerebrovascular disease,I60-I69,I66.0,I660,Occlusion and stenosis of middle cerebral artery
+ltc_004,Cerebrovascular disease,I60-I69,I66.1,I661,Occlusion and stenosis of anterior cerebral artery
+ltc_004,Cerebrovascular disease,I60-I69,I66.2,I662,Occlusion and stenosis of posterior cerebral artery
+ltc_004,Cerebrovascular disease,I60-I69,I66.3,I663,Occlusion and stenosis of cerebellar arteries
+ltc_004,Cerebrovascular disease,I60-I69,I66.4,I664,Occlusion and stenosis of multiple and bilateral cerebral arteries
+ltc_004,Cerebrovascular disease,I60-I69,I66.8,I668,Occlusion and stenosis of other cerebral artery
+ltc_004,Cerebrovascular disease,I60-I69,I66.9,I669,Occlusion and stenosis of unspecified cerebral artery
+ltc_004,Cerebrovascular disease,I60-I69,I67.1,I671,"Cerebral aneurysm, nonruptured"
+ltc_004,Cerebrovascular disease,I60-I69,I67.2,I672,Cerebral atherosclerosis
+ltc_004,Cerebrovascular disease,I60-I69,I67.3,I673,Progressive vascular leukoencephalopathy
+ltc_004,Cerebrovascular disease,I60-I69,I67.5,I675,Moyamoya disease
+ltc_004,Cerebrovascular disease,I60-I69,I67.7,I677,"Cerebral arteritis, not elsewhere classified"
+ltc_004,Cerebrovascular disease,I60-I69,I67.8,I678,Other specified cerebrovascular diseases
+ltc_004,Cerebrovascular disease,I60-I69,I67.9,I679,"Cerebrovascular disease, unspecified"
+ltc_004,Cerebrovascular disease,I60-I69,I68.0,I680,Cerebral amyloid angiopathy
+ltc_004,Cerebrovascular disease,I60-I69,I69.0,I690,Sequelae of subarachnoid haemorrhage
+ltc_004,Cerebrovascular disease,I60-I69,I69.1,I691,Sequelae of intracerebral haemorrhage
+ltc_004,Cerebrovascular disease,I60-I69,I69.2,I692,Sequelae of other nontraumatic intracranial haemorrhage
+ltc_004,Cerebrovascular disease,I60-I69,I69.3,I693,Sequelae of cerebral infarction
+ltc_004,Cerebrovascular disease,I60-I69,I69.4,I694,"Sequelae of stroke, not specified as haemorrhage or infarction"
+ltc_004,Cerebrovascular disease,I60-I69,I69.8,I698,Sequelae of other and unspecified cerebrovascular diseases

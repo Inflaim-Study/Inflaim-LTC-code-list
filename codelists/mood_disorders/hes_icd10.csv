@@ -1,0 +1,37 @@
+condition_id,condition_name,icd10_block,icd10_code,hes_code,description
+ltc_041,Mood disorders,F30-F39,F30.0,F300,Hypomania
+ltc_041,Mood disorders,F30-F39,F30.1,F301,Mania without psychotic symptoms
+ltc_041,Mood disorders,F30-F39,F30.2,F302,Mania with psychotic symptoms
+ltc_041,Mood disorders,F30-F39,F30.8,F308,Other manic episodes
+ltc_041,Mood disorders,F30-F39,F30.9,F309,"Manic episode, unspecified"
+ltc_041,Mood disorders,F30-F39,F31.0,F310,"Bipolar affective disorder, current episode hypomanic"
+ltc_041,Mood disorders,F30-F39,F31.1,F311,"Bipolar affective disorder, current episode manic without psychotic symptoms"
+ltc_041,Mood disorders,F30-F39,F31.2,F312,"Bipolar affective disorder, current episode manic with psychotic symptoms"
+ltc_041,Mood disorders,F30-F39,F31.3,F313,"Bipolar affective disorder, current episode mild or moderate depression"
+ltc_041,Mood disorders,F30-F39,F31.4,F314,"Bipolar affective disorder, current episode severe depression without psychotic symptoms"
+ltc_041,Mood disorders,F30-F39,F31.5,F315,"Bipolar affective disorder, current episode severe depression with psychotic symptoms"
+ltc_041,Mood disorders,F30-F39,F31.6,F316,"Bipolar affective disorder, current episode mixed"
+ltc_041,Mood disorders,F30-F39,F31.7,F317,"Bipolar affective disorder, currently in remission"
+ltc_041,Mood disorders,F30-F39,F31.8,F318,Other bipolar affective disorders
+ltc_041,Mood disorders,F30-F39,F31.9,F319,"Bipolar affective disorder, unspecified"
+ltc_041,Mood disorders,F30-F39,F32.0,F320,Mild depressive episode
+ltc_041,Mood disorders,F30-F39,F32.1,F321,Moderate depressive episode
+ltc_041,Mood disorders,F30-F39,F32.2,F322,Severe depressive episode without psychotic symptoms
+ltc_041,Mood disorders,F30-F39,F32.3,F323,Severe depressive episode with psychotic symptoms
+ltc_041,Mood disorders,F30-F39,F32.8,F328,Other depressive episodes
+ltc_041,Mood disorders,F30-F39,F32.9,F329,"Depressive episode, unspecified"
+ltc_041,Mood disorders,F30-F39,F33.0,F330,"Recurrent depressive disorder, current episode mild"
+ltc_041,Mood disorders,F30-F39,F33.1,F331,"Recurrent depressive disorder, current episode moderate"
+ltc_041,Mood disorders,F30-F39,F33.2,F332,"Recurrent depressive disorder, current episode severe without psychotic symptoms"
+ltc_041,Mood disorders,F30-F39,F33.3,F333,"Recurrent depressive disorder, current episode severe with psychotic symptoms"
+ltc_041,Mood disorders,F30-F39,F33.4,F334,"Recurrent depressive disorder, currently in remission"
+ltc_041,Mood disorders,F30-F39,F33.8,F338,Other recurrent depressive disorders
+ltc_041,Mood disorders,F30-F39,F33.9,F339,"Recurrent depressive disorder, unspecified"
+ltc_041,Mood disorders,F30-F39,F34.0,F340,Cyclothymia
+ltc_041,Mood disorders,F30-F39,F34.1,F341,Dysthymia
+ltc_041,Mood disorders,F30-F39,F34.8,F348,Other persistent mood [affective] disorders
+ltc_041,Mood disorders,F30-F39,F34.9,F349,"Persistent mood [affective] disorder, unspecified"
+ltc_041,Mood disorders,F30-F39,F38.0,F380,Other single mood [affective] disorders
+ltc_041,Mood disorders,F30-F39,F38.1,F381,Other recurrent mood [affective] disorders
+ltc_041,Mood disorders,F30-F39,F38.8,F388,Other specified mood [affective] disorders
+ltc_041,Mood disorders,F30-F39,F39.X,F39X,Unspecified mood [affective] disorder

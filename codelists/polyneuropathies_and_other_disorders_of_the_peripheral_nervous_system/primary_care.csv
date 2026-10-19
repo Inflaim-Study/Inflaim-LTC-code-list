@@ -1,0 +1,165 @@
+condition_id,condition_name,MedCodeId,SnomedCTConceptId,SnomedCTDescriptionId,OriginalReadCode,CleansedReadCode,Term
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,297542011,193178008,297542011,F3710,F371000,Polyneuropathy in disseminated lupus erythematosus
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,84531000006118,420436000,2618201018,C109A-2,C109A12,Type 2 diabetes mellitus with mononeuropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,84901000006117,420436000,3697667019,C109A-1,C109A11,Mononeuropathy with type 2 diabetes mellitus
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,84971000006111,713706002,3297353013,C109B-1,C109B11,Type II diabetes mellitus with polyneuropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,84941000006115,314904008,459312014,C109H-1,C109H11,Type II diabetes mellitus with neuropathic arthropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,84571000006115,314904008,459313016,C109H-2,C109H12,Type 2 diabetes mellitus with neuropathic arthropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,914221000006113,420436000,2618201018,C10FA,C10FA00,Type 2 diabetes mellitus with mononeuropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,914231000006111,420436000,3697667019,C10FA-1,C10FA11,Type II diabetes mellitus with mononeuropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,914241000006118,713706002,3297353013,C10FB,C10FB00,Polyneuropathy due to type 2 diabetes mellitus
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,914251000006116,713706002,3297353013,C10FB-1,C10FB11,Type II diabetes mellitus with polyneuropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,459313016,314904008,459313016,C10FH,C10FH00,Type 2 diabetes mellitus with neuropathic arthropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,881501000006110,230572002,881501000006110,C106-99,C106.99,Diabetes + neuropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,4808921000006113,201724008,309740011,^ESCTDI480892,,Diabetic neuropathic arthropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,913981000006115,201724008,309740011,C10EJ-2,C10EJ12,Insulin dependent diab mell with neuropathic arthropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,913771000006115,230577008,345492010,C10EB-2,C10EB12,Insulin dependent diabetes mellitus with mononeuropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,84421000006115,713705003,3297342019,C108C-2,C108C12,Type 1 diabetes mellitus with polyneuropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,84791000006110,713705003,3297390014,C108C-1,C108C11,Polyneuropathy due to diabetes mellitus type I
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,345487013,230572002,345487013,C106-2,C106.12,Diabetes mellitus with neuropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,616451000006110,49455004,82373015,C106-3,C106.13,Diabetes mellitus with polyneuropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,771371000006118,230577008,345492010,C108B,C108B00,Insulin dependent diabetes mellitus with mononeuropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,771401000006115,49455004,82373015,C108C,C108C00,Insulin dependent diabetes mellitus with polyneuropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,772131000006111,201724008,309740011,C108J,C108J00,Insulin dependent diab mell with neuropathic arthropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,84761000006119,71771000119100,3010513018,C108J-1,C108J11,Type I diabetes mellitus with neuropathic arthropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,84391000006111,71771000119100,3010513018,C108J-2,C108J12,Type 1 diabetes mellitus with neuropathic arthropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,280521000006117,420436000,3697667019,C109A,C109A00,Non-insulin dependent diabetes mellitus with mononeuropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,280541000006112,713706002,3297353013,C109B,C109B00,Non-insulin dependent diabetes mellitus with polyneuropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,281181000006116,314904008,459314010,C109H,C109H00,Non-insulin dependent diabetes mellitus with neuropathic arthropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,913781000006117,420918009,2618199015,C10EB,C10EB00,Type 1 diabetes mellitus with mononeuropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,913811000006115,713705003,3297342019,C10EC,C10EC00,Type 1 diabetes mellitus with polyneuropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,913821000006111,713705003,3297390014,C10EC-1,C10EC11,Type I diabetes mellitus with polyneuropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,459296014,71771000119100,3010513018,C10EJ,C10EJ00,Type 1 diabetes mellitus with neuropathic arthropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,297492014,193141005,297492014,F3450,F345000,Diabetic mononeuritis multiplex
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,297510017,193141005,297492014,F35z0,F35z000,Diabetic mononeuritis NOS
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,214921000006116,49455004,82373015,F372,F372.00,Polyneuropathy in diabetes
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,82373015,49455004,82373015,F372-1,F372.11,Diabetic polyneuropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,345486016,230572002,345486016,F372-2,F372.12,Diabetic neuropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,297551015,193184006,297551015,F3721,F372100,Chronic painful diabetic neuropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,297552010,193185007,297552010,F3722,F372200,Asymptomatic diabetic neuropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,345492010,230577008,345492010,F3y0,F3y0.00,Diabetic mononeuropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,309179013,201251005,309179013,M2711,M271100,Neuropathic diabetic ulcer - foot
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,616971000006114,201724008,309739014,N0301,N030100,Diabetic Charcot's arthropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,883141000006119,193125009,883141000006119,F34-99,F34..99,Mononeuritis - upper limb
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,891791000006110,667651000000100,891791000006110,N242-93,N242.93,Neuralgia/neurit.-pelvis/thigh
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,891861000006112,16269008,891861000006112,N242z-99,N242z99,Neuralgia/neuritis - NOS
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,891811000006114,667651000000100,891811000006114,N242-95,N242.95,Neuralgia/neuritis - fore arm
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,891801000006111,667651000000100,891801000006111,N242-94,N242.94,Neuralgia/neuritis - hand
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,891781000006112,667651000000100,891781000006112,N242-92,N242.92,Neuralgia/neuritis - lower leg
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,891831000006115,667651000000100,891831000006115,N242-97,N242.97,Neuralgia/neuritis - shoulder
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,891821000006118,667651000000100,891821000006118,N242-96,N242.96,Neuralgia/neuritis - upper arm
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,891771000006114,667651000000100,891771000006114,N242-91,N242.91,Neuralgia/neuritis -ankle/foot
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,891851000006110,667651000000100,891851000006110,N242-99,N242.99,Neuralgia/neuritis NOS
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,883151000006117,620651000000108,883151000006117,F35x-99,F35x.99,Other mononeuritis -lower limb
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,2533651000006115,2177002,1222663014,^ESCTPH253365,,PHN - Post-herpetic neuralgia
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,5008921000006119,230507009,345410015,^ESCTRE500892,,Retrobulbar neuritis
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,883541000006113,66760008,883541000006113,F4H3-99,F4H3.99,Retrobulbar neuritis
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,905761000006111,905761000006107,905761000006111,HNG0061,,[RFC] Reason for care : Neuralgia
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,2626141000006112,7916009,14103017,^ESCTAL262614,,Alcoholic polyneuropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,12717011000006111,193125009,297470010,^ESCT1271701,,Mononeuritis of upper limb and mononeuritis multiplex
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,1724321000006115,1724321000006104,1724321000006115,EMISNQNE25,,Neuropathic foot ulcer
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,913791000006119,420918009,3697664014,C10EB-1,C10EB11,Type I diabetes mellitus with mononeuropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,211231000006113,76462000,126981019,A5313,A531300,Post-herpetic polyneuropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,52697011,31524007,52697011,A72x1,A72x100,Mumps polyneuropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,84721000006113,420918009,3697664014,C108B-1,C108B11,Mononeuropathy with type 1 diabetes mellitus
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,84601000006110,713706002,3297353013,C109B-2,C109B12,Type 2 diabetes mellitus with polyneuropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,913801000006118,49455004,82373015,C10EC-2,C10EC12,Insulin dependent diabetes mellitus with polyneuropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,459312014,314904008,459312014,C10FH-1,C10FH11,Type II diabetes mellitus with neuropathic arthropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,294662017,191471000,294662017,E0111,E011100,Korsakov's alcoholic psychosis with peripheral neuritis
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,297470010,193125009,297470010,F34,F34..00,Mononeuritis of upper limb and mononeuritis multiplex
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,297475017,397751001,1777362011,F341,F341.00,Other median nerve lesions
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,29902012,17689009,29902012,F3410,F341000,Median nerve neuritis
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,297477013,193129003,297477013,F3411,F341100,Median nerve compression in forearm
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,345456011,95675005,158497012,F342-1,F342.11,Neuritis ulnar nerve
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,93418010,56177003,93418010,F3420,F342000,Cubital tunnel syndrome
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,97213016,58497009,97213016,F3421,F342100,Tardy ulnar nerve palsy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,297485016,193134004,297485016,F3422,F342200,Canal of Guyon compression
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,413630015,277188003,413630015,F3423,F342300,Ulnar nerve entrapment
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,475273015,359837005,475273015,F3424,F342400,Ulnar neuropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,297487012,367475009,492283017,F342z,F342z00,Ulnar nerve lesion NOS
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,297488019,193137006,297488019,F343,F343.00,Radial nerve lesions
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,297489010,193138001,297489010,F3431,F343100,Sensory branch of radial nerve lesion
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,297490018,193139009,297490018,F3432,F343200,Posterior interosseous nerve lesion
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,297491019,193137006,297488019,F343z,F343z00,Radial nerve lesion NOS
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,2536776010,408751001,2536776010,F344,F344.00,Causalgia
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,50702011,30292005,50702011,F345,F345.00,Mononeuritis multiplex
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,368388010,246611002,368388010,F346,F346.00,Median nerve entrapment
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,297493016,297945000,438534013,F34y,F34y.00,Other upper limb mononeuritis
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,297494010,609591000,2967951017,F34z,F34z.00,Mononeuritis upper limb NOS
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,698001000006119,609592007,2967939019,F35,F35..00,Mononeuritis lower limb
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,490703010,367137004,490703010,F350,F350.00,Sciatic nerve lesion
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,140945016,85007004,140945016,F351,F351.00,Meralgia paraesthetica
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,483022012,25690000,483022012,F352,F352.00,Femoral nerve lesions
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,1778567016,399107008,1778567016,F353,F353.00,Common peroneal nerve lesion
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,1786691018,399107008,1786691018,F353-1,F353.11,Lateral popliteal nerve lesion
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,1778686017,399233006,1778686017,F354,F354.00,Tibial nerve lesion
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,712431000006111,399233006,1778686017,F354-1,F354.11,Medial popliteal nerve lesion
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,78977014,47374004,78977014,F355,F355.00,Tarsal tunnel syndrome
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,50335015,30085007,484476012,F3560,F356000,Morton metatarsalgia
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,50336019,30085007,50336019,F3561,F356100,Morton's neuralgia
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,474333019,128194008,474333019,F357,F357.00,Superficial peroneal nerve lesion
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,297504017,193152004,297504017,F358,F358.00,Deep peroneal nerve lesion
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,297505016,609592007,2967939019,F35x,F35x.00,Other mononeuritis lower limb
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,297506015,609592007,2967939019,F35y,F35y.00,Unspecified mononeuritis lower limb
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,399415018,128189008,206412019,F35z,F35z.00,Mononeuropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,345457019,302226006,443808012,F35z-1,F35z.11,Peripheral nerve disease
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,187824013,111499002,187824013,F3600,F360000,Dejerine-Sottas disease
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,84201015,398100001,3007425011,F3610,F361000,CMT - Charcot-Marie-Tooth disease
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,1846861000006111,398100001,1777664015,F3610-2,F361012,Charcot-Marie-Tooth syndrome
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,42524012,25362006,42524012,F363,F363.00,Refsum's disease
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,55426011,33209009,55426011,F364,F364.00,Idiopathic progressive polyneuropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,70659018,42345000,70659018,F366,F366.00,Polyneuropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,71168014,302226006,2870944013,F367,F367.00,Peripheral neuropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,297528015,22722001,38139010,F36y,F36y.00,Idiopathic peripheral neuropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,297530018,22722001,38139010,F36yz,F36yz00,Other idiopathic peripheral neuropathy NOS
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,399416017,267601009,399416017,F37,F37..00,Inflammatory and toxic neuropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,99281000006115,45600000,76028011,F37-1,F37..11,"Toxic neuropathy, NOS"
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,68321016,40956001,68321016,F3700,F370000,Guillain-Barre syndrome
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,211331000006117,193174005,297537015,F3701,F370100,Postinfectious polyneuritis
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,478396017,1767005,478396017,F3702,F370200,Miller-Fisher syndrome
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,297540015,193177003,297540015,F371,F371.00,Polyneuropathy in collagen vascular disease
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,297543018,193179000,297543018,F3711,F371100,Polyneuropathy in polyarteritis nodosa
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,297545013,193177003,297540015,F371z,F371z00,Polyneuropathy in collagen vascular disease NOS
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,1234144017,77659000,1234144017,F373,F373.00,Polyneuropathy in malignant disease
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,297553017,193186008,297553017,F374,F374.00,Polyneuropathy in disease EC
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,297554011,193187004,297554011,F3740,F374000,Polyneuropathy in amyloidosis
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,504101018,79389008,504101018,F3741,F374100,Polyneuropathy in beriberi
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,297555012,193188009,297555012,F3742,F374200,Polyneuropathy in vitamin B deficiency
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,345519017,230596007,345519017,F3743,F374300,Polyneuropathy in diphtheria
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,297557016,193190005,297557016,F3744,F374400,Polyneuropathy in herpes zoster
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,297558014,193191009,297558014,F3745,F374500,Polyneuropathy in hypoglycaemia
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,215001000006114,31524007,52697011,F3746,F374600,Polyneuropathy in mumps
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,297564019,129616004,3289854015,F3748,F374800,Polyneuropathy in porphyria
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,297566017,193195000,297566017,F3749,F374900,Polyneuropathy in sarcoidosis
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,215061000006110,193196004,297568016,F374A,F374A00,Polyneuropathy in uraemia
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,297569012,193186008,297553017,F374z,F374z00,Polyneuropathy in disease NOS
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,14103017,7916009,14104011,F375,F375.00,Alcohol-induced polyneuropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,214871000006114,7339009,1233619018,F376,F376.00,Polyneuropathy due to drugs
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,297571012,45600000,76028011,F377,F377.00,Other toxic agent polyneuropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,345580013,230646002,345580013,F378,F378.00,Intercostal neuropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,778621000006116,76886005,2966568017,F37X,F37X.00,"Inflammatory polyneuropathy, unspecified"
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,297574016,267601009,399416017,F37y,F37y.00,Other toxic or inflammatory neuropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,297575015,193203006,297575015,F37y0,F37y000,Serum neuropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,345594014,230657007,345594014,F37y1,F37y100,Axonal sensorimotor neuropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,399418016,267601009,399416017,F37z,F37z.00,Toxic or inflammatory neuropathy NOS
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,450558019,42345000,70659018,F37z-1,F37z.11,Polyneuropathy unspecified
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,297656018,42658009,71161015,F3y,F3y..00,Other specified disorders of peripheral nervous system
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,297658017,42658009,71161015,F3z,F3z..00,Peripheral nervous system disorder NOS
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,299306010,77659000,128892013,Fyu13,Fyu1300,Paraneoplastic neuropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,299359012,609591000,2967951017,Fyu6A,Fyu6A00,Mononeuropathy of upper limb
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,299360019,609592007,2967939019,Fyu6B,Fyu6B00,Mononeuropathy of lower limb
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,299361015,128189008,206412019,Fyu6C,Fyu6C00,[X]Other specified mononeuropathies
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,299362010,128189008,206412019,Fyu6D,Fyu6D00,[X]Other mononeuropathies in diseases classified elsewhere
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,422921000006119,42658009,71161015,Fyu7,Fyu7.00,[X]Polyneuropathies and other disorders of the peripheral nervous system
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,299365012,21018002,35332011,Fyu71,Fyu7100,Inflammatory neuropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,299366013,42345000,70659018,Fyu72,Fyu7200,[X]Other specified polyneuropathies
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,422971000006118,230571009,345485017,Fyu75,Fyu7500,[X]Polyneuropathy/other endocrine+metabolic diseases CE
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,422981000006115,386033004,1480220018,Fyu78,Fyu7800,[X]Polyneuropathy/other musculoskeletal disorders CE
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,299375010,76886005,2966568017,Fyu7B,Fyu7B00,Inflammatory polyneuropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,359071000006116,42345000,70659018,Fyu7C,Fyu7C00,"[X] Polyneuropathy, unspecified"
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,498448012,59483006,498448012,M2717,M271700,Neuropathic foot ulcer
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,500766011,67536000,500766011,N035,N035.00,Neuropathic arthropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,675631000006115,67536000,500766011,N035-2,N035.12,Neuropathic arthritis
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,311114015,202700003,311114015,N11y2,N11y200,Neuropathic spondylopathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,158497012,95675005,158497012,N134-4,N134.14,Ulnar neuritis
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,322645015,211412006,322645015,SD722,SD72200,Neuropathic foot blister

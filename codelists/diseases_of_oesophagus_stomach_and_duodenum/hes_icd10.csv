@@ -1,0 +1,16 @@
+condition_id,condition_name,icd10_block,icd10_code,hes_code,description
+ltc_014,"Diseases of oesophagus, stomach and duodenum",K20-K31,K27.9,K279,"Peptic ulcer, site unspecified, unspecified as acute or chronic, without haemorrhage or perforation"
+ltc_014,"Diseases of oesophagus, stomach and duodenum",K20-K31,K29.6,K296,Other gastritis
+ltc_014,"Diseases of oesophagus, stomach and duodenum",K20-K31,K29.7,K297,"Gastritis, unspecified"
+ltc_014,"Diseases of oesophagus, stomach and duodenum",K20-K31,K29.8,K298,Duodenitis
+ltc_014,"Diseases of oesophagus, stomach and duodenum",K20-K31,K29.9,K299,"Gastroduodenitis, unspecified"
+ltc_014,"Diseases of oesophagus, stomach and duodenum",K20-K31,K21.0,K210,Gastro-oesophageal reflux disease with oesophagitis
+ltc_014,"Diseases of oesophagus, stomach and duodenum",K20-K31,K21.9,K219,Gastro-oesophageal reflux disease without oesophagitis
+ltc_014,"Diseases of oesophagus, stomach and duodenum",K20-K31,K27.4,K274,"Peptic ulcer, site unspecified, chronic or unspecified with haemorrhage"
+ltc_014,"Diseases of oesophagus, stomach and duodenum",K20-K31,K27.5,K275,"Peptic ulcer, site unspecified, chronic or unspecified with perforation"
+ltc_014,"Diseases of oesophagus, stomach and duodenum",K20-K31,K27.6,K276,"Peptic ulcer, site unspecified, chronic or unspecified with both haemorrhage and perforation"
+ltc_014,"Diseases of oesophagus, stomach and duodenum",K20-K31,K27.7,K277,"Peptic ulcer, site unspecified, chronic without haemorrhage or perforation"
+ltc_014,"Diseases of oesophagus, stomach and duodenum",K20-K31,K29.2,K292,Alcoholic gastritis
+ltc_014,"Diseases of oesophagus, stomach and duodenum",K20-K31,K29.3,K293,Chronic superficial gastritis
+ltc_014,"Diseases of oesophagus, stomach and duodenum",K20-K31,K29.4,K294,Chronic atrophic gastritis
+ltc_014,"Diseases of oesophagus, stomach and duodenum",K20-K31,K29.5,K295,"Chronic gastritis, unspecified"

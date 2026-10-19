@@ -1,0 +1,362 @@
+condition_id,condition_name,MedCodeId,SnomedCTConceptId,SnomedCTDescriptionId,OriginalReadCode,CleansedReadCode,Term
+ltc_031,In situ neoplasms,881181000006112,189336000,881181000006112,B830-99,B830.99,Carcinoma in situ breast
+ltc_031,In situ neoplasms,290868010,189336000,290868010,B830,B830.00,Carcinoma in situ of breast
+ltc_031,In situ neoplasms,292214019,189336000,290868010,ByuFG,ByuFG00,[X]Other carcinoma in situ of breast
+ltc_031,In situ neoplasms,310951000006110,302836005,444775014,BBEF-1,BBEF.11,Lentigo maligna
+ltc_031,In situ neoplasms,310961000006112,302836005,444775014,BBEG-1,BBEG.11,[M]Lentigo maligna melanoma
+ltc_031,In situ neoplasms,118574012,254656002,379237019,B8-2,B8...12,Erythroplasia
+ltc_031,In situ neoplasms,140927016,254656002,379237019,B8-1,B8...11,Bowen's disease of skin
+ltc_031,In situ neoplasms,153085017,92527000,153085017,B8yy1,B8yy100,Carcinoma in situ of adrenal gland
+ltc_031,In situ neoplasms,153088015,92530007,153088015,B8086,B808600,Carcinoma in situ of ampulla of Vater
+ltc_031,In situ neoplasms,153089011,92531006,153089011,B805,B805.00,Carcinoma in situ of anal canal
+ltc_031,In situ neoplasms,153099018,92539008,153099018,B8035,B803500,Carcinoma in situ of appendix
+ltc_031,In situ neoplasms,153102018,92542002,153102018,B8036,B803600,Carcinoma in situ of ascending colon
+ltc_031,In situ neoplasms,153107012,92546004,153107012,B837,B837.00,Carcinoma in situ of bladder
+ltc_031,In situ neoplasms,153111018,92549006,153111018,B8022,B802200,Carcinoma in situ of body of stomach
+ltc_031,In situ neoplasms,153112013,92550006,153112013,B832-1,B832.11,Carcinoma in situ of body of uterus
+ltc_031,In situ neoplasms,153124018,92560002,153124018,B8020,B802000,Carcinoma in situ of cardia of stomach
+ltc_031,In situ neoplasms,153129011,92564006,1235742017,B831,B831.00,CIS - Carcinoma in situ of cervix
+ltc_031,In situ neoplasms,153133016,92568009,153133016,B803,B803.00,Carcinoma in situ of colon
+ltc_031,In situ neoplasms,153136012,92570000,153136012,B8085,B808500,Carcinoma in situ of common bile duct
+ltc_031,In situ neoplasms,153140015,92574009,153140015,B8084,B808400,Carcinoma in situ of cystic duct
+ltc_031,In situ neoplasms,153141016,92575005,153141016,B8032,B803200,Carcinoma in situ of descending colon
+ltc_031,In situ neoplasms,153143018,92577002,153143018,B8070,B807000,Carcinoma in situ of duodenum
+ltc_031,In situ neoplasms,153146014,92580001,153146014,B8310,B831000,Carcinoma in situ of endocervix
+ltc_031,In situ neoplasms,153149019,92582009,153149019,B8320,B832000,Carcinoma in situ of endometrium
+ltc_031,In situ neoplasms,153150019,92583004,153150019,B8361,B836100,Carcinoma in situ of epididymis
+ltc_031,In situ neoplasms,153151015,92584005,153151015,B8102,B810200,Carcinoma in situ of epiglottis
+ltc_031,In situ neoplasms,153155012,92586007,153155012,B81y7,B81y700,Carcinoma in situ of ethmoidal sinus
+ltc_031,In situ neoplasms,153156013,92587003,153156013,B81y4,B81y400,Carcinoma in situ of eustachian tube
+ltc_031,In situ neoplasms,153157016,92588008,153157016,B8311,B831100,Carcinoma in situ of exocervix
+ltc_031,In situ neoplasms,153160011,92590009,153160011,B8y0,B8y0.00,Carcinoma in situ of eye
+ltc_031,In situ neoplasms,153162015,92591008,153162015,B8331,B833100,Carcinoma in situ of fallopian tube
+ltc_031,In situ neoplasms,153169012,92595004,153169012,B8004,B800400,Carcinoma in situ of floor of mouth
+ltc_031,In situ neoplasms,153173010,92597007,153173010,B81y8,B81y800,Carcinoma in situ of frontal sinus
+ltc_031,In situ neoplasms,153174016,92598002,153174016,B8021,B802100,Carcinoma in situ of fundus of stomach
+ltc_031,In situ neoplasms,153180012,92603005,153180012,B8108-1,B810811,Carcinoma in situ of glottis
+ltc_031,In situ neoplasms,153187010,92608001,153187010,B8030,B803000,Carcinoma in situ of hepatic flexure of colon
+ltc_031,In situ neoplasms,153191017,92612007,153191017,B8009,B800900,Carcinoma in situ of hypopharynx
+ltc_031,In situ neoplasms,153193019,92613002,153193019,B8072,B807200,Carcinoma in situ of ileum
+ltc_031,In situ neoplasms,153200017,92618006,153200017,B8081,B808100,Carcinoma in situ of intrahepatic bile ducts
+ltc_031,In situ neoplasms,153203015,92621008,153203015,B8071,B807100,Carcinoma in situ of jejunum
+ltc_031,In situ neoplasms,153218019,92634009,153218019,B810,B810.00,Carcinoma in situ of larynx
+ltc_031,In situ neoplasms,153229015,92643000,153229015,B8000,B800000,Carcinoma in situ of lip
+ltc_031,In situ neoplasms,153231012,92644006,153231012,B8080,B808000,Carcinoma in situ of liver
+ltc_031,In situ neoplasms,153239014,92650001,153239014,B8121,B812100,Carcinoma in situ of main bronchus
+ltc_031,In situ neoplasms,153246017,92654005,153246017,B81y5,B81y500,Carcinoma in situ of mastoid air cells
+ltc_031,In situ neoplasms,153247014,92655006,153247014,B81y6,B81y600,Carcinoma in situ of maxillary sinus
+ltc_031,In situ neoplasms,153248016,92656007,153248016,B8073,B807300,Carcinoma in situ of Meckel's diverticulum
+ltc_031,In situ neoplasms,153256018,92663007,153256018,B81y1,B81y100,Carcinoma in situ of nasal cavity
+ltc_031,In situ neoplasms,153258017,92664001,153258017,B8007,B800700,Carcinoma in situ of nasopharynx
+ltc_031,In situ neoplasms,153265013,92668003,153265013,B8008,B800800,Carcinoma in situ of oropharynx
+ltc_031,In situ neoplasms,153267017,92669006,153267017,B8330,B833000,Carcinoma in situ of ovary
+ltc_031,In situ neoplasms,153268010,92670007,153268010,B8006,B800600,Carcinoma in situ of palate
+ltc_031,In situ neoplasms,153272014,92672004,153272014,B80z0,B80z000,Carcinoma in situ of pancreas
+ltc_031,In situ neoplasms,153276012,92675002,153276012,B8yy2,B8yy200,Carcinoma in situ of parathyroid gland
+ltc_031,In situ neoplasms,153280019,92679008,153280019,B835,B835.00,Carcinoma in situ of penis
+ltc_031,In situ neoplasms,153282010,92680006,153282010,B8258,B825800,Carcinoma in situ of perianal skin
+ltc_031,In situ neoplasms,153283017,92681005,153283017,B800-2,B800.12,Carcinoma in situ of pharynx
+ltc_031,In situ neoplasms,153286013,92683008,153286013,B8yy3,B8yy300,Carcinoma in situ of pituitary gland
+ltc_031,In situ neoplasms,153288014,92685001,153288014,B81y0,B81y000,Carcinoma in situ of pleura
+ltc_031,In situ neoplasms,153295017,92691004,153295017,B834,B834.00,Carcinoma in situ of prostate
+ltc_031,In situ neoplasms,153296016,92692006,153296016,B8023,B802300,Carcinoma in situ of pyloric antrum
+ltc_031,In situ neoplasms,153299011,92695008,153299011,B8040,B804000,Carcinoma in situ of rectosigmoid junction
+ltc_031,In situ neoplasms,153300015,92696009,153300015,B8041,B804100,Carcinoma in situ of rectum
+ltc_031,In situ neoplasms,153311011,92706007,153311011,B8363,B836300,Carcinoma in situ of scrotum
+ltc_031,In situ neoplasms,153313014,92708008,153313014,B8033,B803300,Carcinoma in situ of sigmoid colon
+ltc_031,In situ neoplasms,153317010,92712002,153317010,B8252,B825200,Carcinoma in situ of skin of axilla
+ltc_031,In situ neoplasms,153318017,92713007,153318017,B8253,B825300,Carcinoma in situ of skin of back
+ltc_031,In situ neoplasms,153319013,92714001,153319013,B8250,B825000,Carcinoma in situ of skin of breast
+ltc_031,In situ neoplasms,153320019,92715000,153320019,B8257,B825700,Carcinoma in situ of skin of buttock
+ltc_031,In situ neoplasms,153321015,92716004,153321015,B8233,B823300,Carcinoma in situ of skin of cheek
+ltc_031,In situ neoplasms,153332015,92726006,153332015,B8274,B827400,Carcinoma in situ of skin of foot
+ltc_031,In situ neoplasms,153335018,92729004,153335018,B8255,B825500,Carcinoma in situ of skin of groin
+ltc_031,In situ neoplasms,153336017,92730009,153336017,B8263,B826300,Carcinoma in situ of skin of hand
+ltc_031,In situ neoplasms,153337014,92731008,153337014,B8270,B827000,Carcinoma in situ of skin of hip
+ltc_031,In situ neoplasms,153338016,92732001,153338016,B8272,B827200,Carcinoma in situ of skin of knee
+ltc_031,In situ neoplasms,153340014,92734000,153340014,B820,B820.00,Carcinoma in situ of skin of lip
+ltc_031,In situ neoplasms,153343011,92736003,153343011,B8241,B824100,Carcinoma in situ of skin of neck
+ltc_031,In situ neoplasms,153344017,92737007,153344017,B8234,B823400,Carcinoma in situ of skin of nose
+ltc_031,In situ neoplasms,153345016,92738002,153345016,B8256,B825600,Carcinoma in situ of skin of perineum
+ltc_031,In situ neoplasms,153348019,92741006,153348019,B8260,B826000,Carcinoma in situ of skin of shoulder
+ltc_031,In situ neoplasms,153350010,92743009,153350010,B8271,B827100,Carcinoma in situ of skin of thigh
+ltc_031,In situ neoplasms,153358015,92749008,153358015,B82,B82..00,Carcinoma in situ of skin
+ltc_031,In situ neoplasms,153363016,92752000,153363016,B8362,B836200,Carcinoma in situ of spermatic cord
+ltc_031,In situ neoplasms,153364010,92753005,153364010,B81y9,B81y900,Carcinoma in situ of sphenoidal sinus
+ltc_031,In situ neoplasms,153365011,92754004,153365011,B80z1,B80z100,Carcinoma in situ of spleen
+ltc_031,In situ neoplasms,153367015,92756002,153367015,B802,B802.00,Carcinoma in situ of stomach
+ltc_031,In situ neoplasms,153376010,92764008,153376010,B8360,B836000,Carcinoma in situ of testis
+ltc_031,In situ neoplasms,153380017,92767001,1235765010,B8yy0,B8yy000,Carcinoma in situ of thyroid
+ltc_031,In situ neoplasms,153382013,92769003,153382013,B8001,B800100,Carcinoma in situ of tongue
+ltc_031,In situ neoplasms,153386011,92772005,153386011,B811,B811.00,Carcinoma in situ of trachea
+ltc_031,In situ neoplasms,153388012,92773000,153388012,B8031,B803100,Carcinoma in situ of transverse colon
+ltc_031,In situ neoplasms,153410011,92791005,153410011,B8332,B833200,Carcinoma in situ of vagina
+ltc_031,In situ neoplasms,153422014,92802003,153422014,B8333,B833300,Carcinoma in situ of vulva
+ltc_031,In situ neoplasms,173821010,109272006,173821010,B8280,B828000,Melanoma in situ of lip
+ltc_031,In situ neoplasms,173823013,109274007,173823013,B8281,B828100,"Melanoma in situ of eyelid, including canthus"
+ltc_031,In situ neoplasms,173825018,109276009,173825018,B8287,B828700,Melanoma in situ of scalp
+ltc_031,In situ neoplasms,173833017,109284008,173833017,B8284,B828400,Melanoma in situ of trunk
+ltc_031,In situ neoplasms,201638010,92559007,201638010,B8034,B803400,Carcinoma in situ of caecum
+ltc_031,In situ neoplasms,201640017,92585006,201640017,B801,B801.00,Carcinoma in situ of oesophagus
+ltc_031,In situ neoplasms,290718013,92660005,153252016,B800z,B800z00,"Carcinoma in situ of lip, oral cavity and pharynx NOS"
+ltc_031,In situ neoplasms,290732010,92585006,201640017,B801z,B801z00,Carcinoma in situ of oesophagus NOS
+ltc_031,In situ neoplasms,290741017,92756002,153367015,B802z,B802z00,Carcinoma in situ of stomach NOS
+ltc_031,In situ neoplasms,290749015,189229003,290749015,B8037,B803700,Carcinoma in situ of splenic flexure of colon
+ltc_031,In situ neoplasms,290750015,92568009,153133016,B803z,B803z00,Carcinoma in situ of colon NOS
+ltc_031,In situ neoplasms,290753018,92537005,153096013,B806,B806.00,Carcinoma in situ of anus
+ltc_031,In situ neoplasms,290758010,109850001,174529011,B807,B807.00,Carcinoma in situ of other and unspecified small intestine
+ltc_031,In situ neoplasms,290768017,189243008,290768017,B8082,B808200,Carcinoma in situ of hepatic duct
+ltc_031,In situ neoplasms,290771013,189246000,290771013,B8087,B808700,Carcinoma in situ of sphincter of Oddi
+ltc_031,In situ neoplasms,290772018,271525004,1489926012,B808z,B808z00,Carcinoma in situ of liver and/or biliary system
+ltc_031,In situ neoplasms,290773011,109850001,174529011,B80z,B80z.00,Carcinoma in situ of other and unspecified digestive organs
+ltc_031,In situ neoplasms,290775016,109850001,174529011,B80zz,B80zz00,Carcinoma in situ of digestive organs NOS
+ltc_031,In situ neoplasms,290776015,189251006,290776015,B81,B81..00,Carcinoma in situ of respiratory system
+ltc_031,In situ neoplasms,290777012,189252004,290777012,B8100,B810000,Carcinoma in situ of thyroid cartilage
+ltc_031,In situ neoplasms,290778019,189253009,290778019,B8101,B810100,Carcinoma in situ of cricoid cartilage
+ltc_031,In situ neoplasms,290780013,189255002,290780013,B8103,B810300,Carcinoma in situ of arytenoid cartilage
+ltc_031,In situ neoplasms,290781012,189256001,290781012,B8104,B810400,Carcinoma in situ of corniculate cartilage
+ltc_031,In situ neoplasms,290782017,189257005,290782017,B8105,B810500,Carcinoma in situ of cuneiform cartilage
+ltc_031,In situ neoplasms,290783010,189258000,290783010,B8106,B810600,Carcinoma in situ of aryepiglottic fold
+ltc_031,In situ neoplasms,290784016,189259008,290784016,B8107,B810700,Carcinoma in situ of vestibular fold
+ltc_031,In situ neoplasms,290787011,92634009,153218019,B810z,B810z00,Carcinoma in situ of larynx NOS
+ltc_031,In situ neoplasms,290788018,189262006,290788018,B812,B812.00,Carcinoma in situ of bronchus and lung
+ltc_031,In situ neoplasms,290789014,189263001,290789014,B8120,B812000,Carcinoma in situ of carina of bronchus
+ltc_031,In situ neoplasms,290791018,189265008,290791018,B8122,B812200,Carcinoma in situ of upper lobe bronchus and lung
+ltc_031,In situ neoplasms,290792013,189266009,290792013,B8123,B812300,Carcinoma in situ of middle lobe bronchus and lung
+ltc_031,In situ neoplasms,290793015,189267000,290793015,B8124,B812400,Carcinoma in situ of lower lobe bronchus and lung
+ltc_031,In situ neoplasms,290794014,189262006,290788018,B812z,B812z00,Carcinoma in situ of bronchus or lung NOS
+ltc_031,In situ neoplasms,290800017,189271002,290800017,B81y2,B81y200,Carcinoma in situ of tympanic cavity
+ltc_031,In situ neoplasms,290801018,189272009,290801018,B81y3,B81y300,Carcinoma in situ of tympanic antrum
+ltc_031,In situ neoplasms,290804014,189251006,290776015,B81z,B81z.00,Carcinoma in situ of respiratory organ NOS
+ltc_031,In situ neoplasms,290806011,189277003,290806011,B821,B821.00,Carcinoma in situ of skin of eyelid including canthus
+ltc_031,In situ neoplasms,290808012,189279000,290808012,B8220,B822000,Carcinoma in situ of skin of auricle
+ltc_031,In situ neoplasms,290809016,189280002,290809016,B8221,B822100,Carcinoma in situ of skin of external auricular canal
+ltc_031,In situ neoplasms,290818019,189288009,290818019,B8235,B823500,Carcinoma in situ of skin of temple
+ltc_031,In situ neoplasms,290819010,189289001,290819010,B8236,B823600,Carcinoma in situ of skin of jaw
+ltc_031,In situ neoplasms,290821017,189291009,290821017,B824,B824.00,Carcinoma in situ of scalp and skin of neck
+ltc_031,In situ neoplasms,290822012,189292002,290822012,B8240,B824000,Carcinoma in situ of scalp
+ltc_031,In situ neoplasms,290824013,189291009,290821017,B824z,B824z00,Carcinoma in situ of scalp or skin of neck NOS
+ltc_031,In situ neoplasms,290825014,189295000,290825014,B825,B825.00,"Carcinoma in situ of skin of trunk, excluding scrotum"
+ltc_031,In situ neoplasms,290827018,189295000,290825014,B8251,B825100,Carcinoma in situ of skin of chest wall NOS
+ltc_031,In situ neoplasms,290830013,189300003,290830013,B8254,B825400,Carcinoma in situ of skin of abdominal wall
+ltc_031,In situ neoplasms,290835015,189295000,290825014,B825z,B825z00,Carcinoma in situ of skin of trunk NOS
+ltc_031,In situ neoplasms,290836019,189306009,290836019,B826,B826.00,Carcinoma in situ of skin of upper limb and shoulder
+ltc_031,In situ neoplasms,290838018,189308005,290838018,B8261,B826100,Carcinoma in situ of skin of upper arm
+ltc_031,In situ neoplasms,290839014,189309002,290839014,B8262,B826200,Carcinoma in situ of skin of lower arm
+ltc_031,In situ neoplasms,290841010,189306009,290836019,B826z,B826z00,Carcinoma in situ of skin of upper limb or shoulder NOS
+ltc_031,In situ neoplasms,290843013,92735004,153341013,B827,B827.00,Carcinoma in situ of skin of lower limb
+ltc_031,In situ neoplasms,290849012,189317005,290849012,B8273,B827300,Carcinoma in situ of skin of lower leg
+ltc_031,In situ neoplasms,290851011,92735004,153341013,B827z,B827z00,Carcinoma in situ of skin of lower limb or hip NOS
+ltc_031,In situ neoplasms,290856018,189324006,3526664010,B8283,B828300,Melanoma in situ of scalp and neck
+ltc_031,In situ neoplasms,290865013,92749008,153358015,B82y,B82y.00,Carcinoma in situ of other specified sites of skin
+ltc_031,In situ neoplasms,290866014,92749008,153358015,B82z,B82z.00,Carcinoma in situ of skin NOS
+ltc_031,In situ neoplasms,290867017,109355002,202817017,B83,B83..00,Carcinoma in situ of breast and genitourinary system
+ltc_031,In situ neoplasms,290889018,92594000,153167014,B833z,B833z00,Carcinoma in situ of female genital organs NOS
+ltc_031,In situ neoplasms,290893012,92653004,153244019,B836z,B836z00,Carcinoma in situ of male genital organs NOS
+ltc_031,In situ neoplasms,290894018,255150000,380250017,B83z,B83z.00,Carcinoma in situ of urinary organs NOS
+ltc_031,In situ neoplasms,290895017,109355002,202817017,B8y,B8y..00,Carcinoma in situ of other and unspecified sites
+ltc_031,In situ neoplasms,290896016,109355002,2659784018,B8yy,B8yy.00,Carcinoma in situ of other specified site
+ltc_031,In situ neoplasms,290900018,109355002,202817017,B8yyz,B8yyz00,Carcinoma in situ of other specified site NOS
+ltc_031,In situ neoplasms,290901019,109355002,2659784018,B8z,B8z..00,Carcinoma in situ NOS
+ltc_031,In situ neoplasms,292197015,109355002,2659784018,ByuF,ByuF.00,[X]In situ neoplasms
+ltc_031,In situ neoplasms,292199017,109850001,174529011,ByuF1,ByuF100,[X]Carcinoma in situ of other specified digestive organs
+ltc_031,In situ neoplasms,292200019,109850001,174529011,ByuF2,ByuF200,"[X]Carcinoma in situ of digestive organ, unspecified"
+ltc_031,In situ neoplasms,292201015,189251006,290776015,ByuF3,ByuF300,[X]Carcinoma in situ of other parts of respiratory system
+ltc_031,In situ neoplasms,292202010,189251006,290776015,ByuF4,ByuF400,"[X]Carcinoma in situ of respiratory system, unspecified"
+ltc_031,In situ neoplasms,292203017,109270003,173819017,ByuF5,ByuF500,Melanoma in situ of face
+ltc_031,In situ neoplasms,292204011,127330008,2773592018,ByuF6,ByuF600,[X]Melanoma in situ of other sites
+ltc_031,In situ neoplasms,292206013,92749008,153358015,ByuF8,ByuF800,[X]Carcinoma in situ of skin of other sites
+ltc_031,In situ neoplasms,292207016,92749008,153358015,ByuF9,ByuF900,"[X]Carcinoma in situ of skin, unspecified"
+ltc_031,In situ neoplasms,292208014,92564006,153128015,ByuFA,ByuFA00,[X]Carcinoma in situ of other parts of cervix
+ltc_031,In situ neoplasms,292212015,109355002,202817017,ByuFE,ByuFE00,[X]Carcinoma in situ of other specified sites
+ltc_031,In situ neoplasms,292213013,127330008,2773592018,ByuFF,ByuFF00,"[X]Melanoma in situ, unspecified"
+ltc_031,In situ neoplasms,335843013,109266006,335843013,B828,B828.00,Melanoma in situ of skin
+ltc_031,In situ neoplasms,379770011,254901000,379770011,B8341,B834100,Prostatic intraepithelial neoplasia
+ltc_031,In situ neoplasms,380242014,255144005,380242014,B822-1,B822.11,Carcinoma in situ of ear
+ltc_031,In situ neoplasms,403735010,92594000,153167014,B832,B832.00,Carcinoma in situ of other and unspecified parts of uterus
+ltc_031,In situ neoplasms,406054011,271325000,406054011,B800,B800.00,"Carcinoma in situ of lip, oral cavity and pharynx"
+ltc_031,In situ neoplasms,406332017,271525004,406332017,B808,B808.00,Carcinoma in situ of liver and biliary system
+ltc_031,In situ neoplasms,413216018,276875006,413216018,B8336,B833600,Vulval intraepithelial neoplasia grade 3
+ltc_031,In situ neoplasms,459501013,315036008,459501013,B8288,B828800,Melanoma in situ of back of hand
+ltc_031,In situ neoplasms,459719019,315230006,459719019,B8289,B828900,Melanoma in situ of back
+ltc_031,In situ neoplasms,510029018,92558004,510029018,B8005,B800500,Carcinoma in situ of cheek
+ltc_031,In situ neoplasms,510045016,92603005,510045016,B8108,B810800,Carcinoma in situ of vocal fold - glottis
+ltc_031,In situ neoplasms,510061019,92660005,510061019,B800-1,B800.11,Carcinoma in situ of oral cavity
+ltc_031,In situ neoplasms,510074013,92693001,510074013,B8024,B802400,Carcinoma in situ of pyloric canal
+ltc_031,In situ neoplasms,510113012,399933001,2914177015,B8333-1,B833311,Vulval intraepithelial neoplasia
+ltc_031,In situ neoplasms,1217274016,92648009,1217274016,B8012,B801200,Carcinoma in situ of lower 1/3 oesophagus
+ltc_031,In situ neoplasms,1217275015,92658008,1217275015,B8011,B801100,Carcinoma in situ of middle 1/3 oesophagus
+ltc_031,In situ neoplasms,1217276019,92780003,1217276019,B8010,B801000,Carcinoma in situ of upper 1/3 oesophagus
+ltc_031,In situ neoplasms,1231967018,59529006,1231967018,BB29,BB29.00,[M]Squamous cell carcinoma in situ NOS
+ltc_031,In situ neoplasms,1235762013,92728007,1235762013,B8230,B823000,Carcinoma in situ of skin of forehead skin
+ltc_031,In situ neoplasms,1788227011,92537005,1788227011,B8050,B805000,Anal intraepithelial neoplasia grade III
+ltc_031,In situ neoplasms,2659784018,109355002,2659784018,B8,B8...00,Carcinoma in situ
+ltc_031,In situ neoplasms,3636264012,762260000,3636264012,^ESCT1168909,,Pleomorphic lobular carcinoma in situ of breast
+ltc_031,In situ neoplasms,223181000000115,398768004,1778272014,B8-3,B8...13,Queyrat's erythroplasia
+ltc_031,In situ neoplasms,299581000000117,446711009,2881600010,B8340,B834000,High grade prostatic intraepithelial neoplasia
+ltc_031,In situ neoplasms,306361000006113,109355002,2659784018,BB11,BB11.00,[M]Carcinoma in situ NOS
+ltc_031,In situ neoplasms,308101000006110,59529006,98875012,BB29-1,BB29.11,[M]Epidermoid carcinoma in situ
+ltc_031,In situ neoplasms,310491000006110,59529006,98876013,BB29-2,BB29.12,Intraepidermal carcinoma
+ltc_031,In situ neoplasms,310531000006110,109355002,2659784018,BB11-1,BB11.11,[M]Intraepithelial carcinoma NOS
+ltc_031,In situ neoplasms,310541000006117,59529006,98874011,BB29-3,BB29.13,Intraepithelial squamous cell carcinoma
+ltc_031,In situ neoplasms,370111000006119,92653004,153244019,ByuFC,ByuFC00,[X]Carcinoma in situ of oth+unspecified male genital organs
+ltc_031,In situ neoplasms,370161000006116,92594000,153167014,ByuFB,ByuFB00,[X]Carcinoma in situ of other+unspcfd female genital organs
+ltc_031,In situ neoplasms,370171000006111,255150000,380250017,ByuFD,ByuFD00,Carcinoma in situ of urinary tract proper
+ltc_031,In situ neoplasms,370201000006110,92749008,153358015,ByuF7,ByuF700,[X]Carcinoma in situ of skin of other+unspecified parts/face
+ltc_031,In situ neoplasms,370221000006117,92617001,153198011,ByuF0,ByuF000,Carcinoma in situ of intestinal tract
+ltc_031,In situ neoplasms,531861000006117,92600008,153176019,B80-1,B80..11,Carcinoma in situ of gastrointestinal tract
+ltc_031,In situ neoplasms,535331000006115,92545000,153105016,B808-1,B808.11,Carcinoma in situ of biliary system
+ltc_031,In situ neoplasms,535541000006116,109850001,174529011,B80,B80..00,Carcinoma in situ of digestive organ
+ltc_031,In situ neoplasms,535711000006110,92599005,153175015,B8083,B808300,Carcinoma in situ of gallbladder
+ltc_031,In situ neoplasms,535731000006116,92605003,153183014,B8003,B800300,Carcinoma in situ of gums
+ltc_031,In situ neoplasms,535981000006118,189251006,290776015,B81y-1,B81y.11,Carcinoma in situ of nasal sinuses
+ltc_031,In situ neoplasms,536081000006111,189251006,290776015,B81y,B81y.00,Carcinoma in situ of other specified part respiratory system
+ltc_031,In situ neoplasms,536301000006117,189212001,290717015,B8002,B800200,Carcinoma in situ of salivary gland
+ltc_031,In situ neoplasms,536561000006111,92735004,153341013,B827-1,B827.11,Carcinoma in situ of skin of leg
+ltc_031,In situ neoplasms,536641000006113,92749008,153358015,B823,B823.00,Carcinoma in situ of skin of other parts of face
+ltc_031,In situ neoplasms,536651000006110,92749008,153358015,B823z,B823z00,Carcinoma in situ of skin of other parts of face NOS
+ltc_031,In situ neoplasms,536751000006117,189251006,290776015,B81yz,B81yz00,Carcinoma in situ of specified parts respiratory system NOS
+ltc_031,In situ neoplasms,536981000006110,92594000,153167014,B833,B833.00,Carcinoma in situ other and unspecified female genital organ
+ltc_031,In situ neoplasms,536991000006113,92653004,153244019,B836,B836.00,Carcinoma in situ other and unspecified male genital organs
+ltc_031,In situ neoplasms,537001000006117,109850001,174529011,B807z,B807z00,Carcinoma in situ other and unspecified small intestine NOS
+ltc_031,In situ neoplasms,537011000006119,255144005,380241019,B822,B822.00,Carcinoma in situ of skin of ear and external auricular canal
+ltc_031,In situ neoplasms,537021000006110,92724009,153329018,B822z,B822z00,Carcinoma in situ skin of ear/external auricular canal NOS
+ltc_031,In situ neoplasms,543771000006118,92564006,153128015,B831-3,B831.13,Carcinoma in situ of uterine cervix
+ltc_031,In situ neoplasms,557401000006113,92564006,1235742017,B831-1,B831.11,CIN III - carcinoma in situ of cervix
+ltc_031,In situ neoplasms,711081000006111,109278005,173827014,B8282,B828200,Melanoma in situ of ear and external auricular canal
+ltc_031,In situ neoplasms,711111000006117,109294003,173843019,B8286,B828600,Melanoma in situ of lower limb
+ltc_031,In situ neoplasms,711121000006113,109270003,173819017,B828X,B828X00,Melanoma in situ of other and unspecified parts of face
+ltc_031,In situ neoplasms,711171000006114,109290007,173839018,B8285,B828500,Melanoma in situ of upper limb
+ltc_031,In situ neoplasms,711181000006112,127330008,2773592018,B828W,B828W00,Melanoma in situ by body site
+ltc_031,In situ neoplasms,880171000006119,109284008,880171000006119,B325-99,B325.99,Melanoma - trunk
+ltc_031,In situ neoplasms,881201000006113,92546004,881201000006113,B837-99,B837.99,Ca in situ bladder - papilloma
+ltc_031,In situ neoplasms,928781000006116,252991009,376780011,ZV13E,ZV13E00,"[V]Personal history of cervical intraepithelial neoplasia, grade III"
+ltc_031,In situ neoplasms,1770471000006116,92791005,1235767019,B8339,B833900,Vaginal intraepithelial neoplasia grade III
+ltc_031,In situ neoplasms,3466821000006112,59529006,98870019,^ESCTSQ346682,,Squamous cell carcinoma in situ
+ltc_031,In situ neoplasms,3466871000006113,59529006,1231968011,^ESCTIE346687,,IEC - Intraepidermal carcinoma
+ltc_031,In situ neoplasms,4005651000006117,92526009,153084018,^ESCTCA400565,,Carcinoma in situ of adrenal cortex
+ltc_031,In situ neoplasms,4005711000006114,92530007,1235735017,^ESCTAM400571,,Ampullary carcinoma in situ
+ltc_031,In situ neoplasms,4005871000006114,92544001,153104017,^ESCTCA400587,,Carcinoma in situ of base of tongue
+ltc_031,In situ neoplasms,4005911000006112,92546004,3036308016,^ESCTCA400591,,Cancer in situ of urinary bladder
+ltc_031,In situ neoplasms,4006071000006112,92557009,153120010,^ESCTCA400607,,Carcinoma in situ of bronchus
+ltc_031,In situ neoplasms,4006091000006113,92558004,153122019,^ESCTCA400609,,Carcinoma in situ of buccal mucosa
+ltc_031,In situ neoplasms,4006251000006111,92564006,153129011,^ESCTCA400625,,Carcinoma in situ of cervix uteri
+ltc_031,In situ neoplasms,4006261000006113,92564006,1235741012,^ESCTCI400626,,CIN 3 - Cervical intraepithelial neoplasia grade 3
+ltc_031,In situ neoplasms,4006371000006110,92570000,3036078010,^ESCTCA400637,,Cancer in situ of common bile duct
+ltc_031,In situ neoplasms,4006521000006116,92581002,3036585015,^ESCTCA400652,,Cancer in situ of endocrine gland
+ltc_031,In situ neoplasms,4006721000006113,92594000,153167014,^ESCTCA400672,,Carcinoma in situ of female genital organ
+ltc_031,In situ neoplasms,4006821000006118,92600008,3036558010,^ESCTCA400682,,Cancer in situ of gastrointestinal tract
+ltc_031,In situ neoplasms,4006891000006116,92605003,153183014,^ESCTCA400689,,Carcinoma in situ of gum
+ltc_031,In situ neoplasms,4007001000006116,92612007,1235749014,^ESCTCA400700,,Carcinoma in situ of laryngopharynx
+ltc_031,In situ neoplasms,4007261000006111,92633003,153217012,^ESCTCA400726,,Carcinoma in situ of laryngeal surface of epiglottis
+ltc_031,In situ neoplasms,4007321000006112,92639004,153224013,^ESCTCA400732,,Carcinoma in situ of left lower lobe of lung
+ltc_031,In situ neoplasms,4007331000006110,92640002,153225014,^ESCTCA400733,,Carcinoma in situ of left upper lobe of lung
+ltc_031,In situ neoplasms,4007411000006114,92648009,201641018,^ESCTCA400741,,Carcinoma in situ of lower third of oesophagus
+ltc_031,In situ neoplasms,4007451000006110,92649001,153237011,^ESCTCA400745,,Carcinoma in situ of lung
+ltc_031,In situ neoplasms,4007461000006112,92649001,3036367011,^ESCTCA400746,,Cancer in situ of lung
+ltc_031,In situ neoplasms,4007571000006118,92658008,201642013,^ESCTCA400757,,Carcinoma in situ of middle third of oesophagus
+ltc_031,In situ neoplasms,4007621000006115,92660005,153252016,^ESCTCA400762,,Carcinoma in situ of mouth
+ltc_031,In situ neoplasms,4007701000006118,92664001,510062014,^ESCTPN400770,,PNS - carcinoma in situ of postnasal space
+ltc_031,In situ neoplasms,4007721000006111,92664001,510064010,^ESCTCA400772,,Carcinoma in situ of postnasal space
+ltc_031,In situ neoplasms,4007761000006117,92668003,1235756015,^ESCTCA400776,,Carcinoma situ of oropharynx
+ltc_031,In situ neoplasms,4007811000006112,92670007,510067015,^ESCTCA400781,,Carcinoma in situ of roof of mouth
+ltc_031,In situ neoplasms,4007851000006113,92672004,3036575016,^ESCTCA400785,,Cancer in situ of pancreas
+ltc_031,In situ neoplasms,4007861000006110,92673009,153274010,^ESCTCA400786,,Carcinoma in situ of pancreatic duct
+ltc_031,In situ neoplasms,4008071000006111,92691004,3036016017,^ESCTCA400807,,Cancer in situ of prostate
+ltc_031,In situ neoplasms,4008091000006112,92693001,153297013,^ESCTCA400809,,Carcinoma in situ of pylorus
+ltc_031,In situ neoplasms,4008151000006119,92696009,3036087018,^ESCTCA400815,,Cancer in situ of rectum
+ltc_031,In situ neoplasms,4008161000006117,92697000,153301016,^ESCTCA400816,,Carcinoma in situ of renal pelvis
+ltc_031,In situ neoplasms,4008221000006118,92703004,153308010,^ESCTCA400822,,Carcinoma in situ of right upper lobe of lung
+ltc_031,In situ neoplasms,4008281000006119,92709000,153314015,^ESCTCA400828,,Carcinoma in situ of skin of abdomen
+ltc_031,In situ neoplasms,4008351000006116,92717008,153322010,^ESCTCA400835,,Carcinoma in situ of skin of chest
+ltc_031,In situ neoplasms,4008441000006114,92724009,3038128019,^ESCTCA400844,,Cancer in situ of skin of face
+ltc_031,In situ neoplasms,4008471000006118,92727002,153333013,^ESCTCA400847,,Carcinoma in situ of skin of forearm
+ltc_031,In situ neoplasms,4008481000006115,92728007,153334019,^ESCTCA400848,,Carcinoma in situ of skin of forehead
+ltc_031,In situ neoplasms,4008581000006116,92736003,3038133015,^ESCTCA400858,,Cancer in situ skin of neck
+ltc_031,In situ neoplasms,4008651000006113,92742004,153349010,^ESCTCA400865,,Carcinoma in situ of skin of temporal region
+ltc_031,In situ neoplasms,4008681000006117,92745002,153352019,^ESCTCA400868,,Carcinoma in situ of skin of trunk
+ltc_031,In situ neoplasms,4008891000006115,92761000,153373019,^ESCTCA400889,,Carcinoma in situ of supraglottis
+ltc_031,In situ neoplasms,4008941000006119,92767001,153380017,^ESCTCA400894,,Carcinoma in situ of thyroid gland
+ltc_031,In situ neoplasms,4009111000006113,92778009,153393010,^ESCTCA400911,,Carcinoma in situ of upper outer quadrant of female breast
+ltc_031,In situ neoplasms,4009131000006119,92780003,510099014,^ESCTCA400913,,Carcinoma in situ of upper third of oesophagus
+ltc_031,In situ neoplasms,4009221000006110,92784007,153400019,^ESCTCA400922,,Carcinoma in situ of urethra
+ltc_031,In situ neoplasms,4009231000006113,92785008,153401015,^ESCTCA400923,,Carcinoma in situ of urinary bladder neck
+ltc_031,In situ neoplasms,4009331000006117,92791005,1235768012,^ESCTVA400933,,VAIN - Vaginal intraepithelial neoplasia 3
+ltc_031,In situ neoplasms,4009341000006110,92791005,1235769016,^ESCTVA400934,,VAIN III - Vaginal intraepithelial neoplasia grade III
+ltc_031,In situ neoplasms,4009381000006116,92794002,153414019,^ESCTCA400938,,Carcinoma in situ of ventral surface of tongue
+ltc_031,In situ neoplasms,4009421000006114,92796000,153416017,^ESCTCA400942,,Carcinoma in situ of vermilion border of lower lip
+ltc_031,In situ neoplasms,4009511000006117,92801005,153421019,^ESCTCA400951,,Carcinoma in situ of vocal cord
+ltc_031,In situ neoplasms,4161781000006113,109266006,202772011,^ESCTME416178,,Melanoma in situ of skin (clinical)
+ltc_031,In situ neoplasms,4161801000006112,109266006,335844019,^ESCTIS416180,,ISM - In situ melanoma of skin
+ltc_031,In situ neoplasms,4161811000006110,109266006,335845018,^ESCTIN416181,,In situ malignant melanoma of skin
+ltc_031,In situ neoplasms,4161831000006116,109266006,335847014,^ESCTIN416183,,In situ melanoma of skin
+ltc_031,In situ neoplasms,4162001000006110,109278005,173827014,^ESCTME416200,,Melanoma in situ of ear
+ltc_031,In situ neoplasms,4162061000006111,109282007,173831015,^ESCTME416206,,Melanoma in situ of neck
+ltc_031,In situ neoplasms,4162211000006118,109292004,173841017,^ESCTME416221,,Melanoma in situ of shoulder
+ltc_031,In situ neoplasms,4170361000006118,109827007,174504017,^ESCTCA417036,,Carcinoma in situ of salivary gland duct
+ltc_031,In situ neoplasms,4170371000006113,109827007,174505016,^ESCTCA417037,,Carcinoma in situ of salivary duct
+ltc_031,In situ neoplasms,4396721000006111,127330008,206323016,^ESCTME439672,,Melanoma in situ by body site (clinical)
+ltc_031,In situ neoplasms,4755801000006111,189229003,290748011,^ESCTCA475580,,Carcinoma in situ of splenic flexure
+ltc_031,In situ neoplasms,4756261000006118,189336000,290870018,^ESCTNO475626,,Non-invasive carcinoma of breast
+ltc_031,In situ neoplasms,4756971000006115,189565007,291346019,^ESCTSQ475697,,Squamous cell carcinoma in situ
+ltc_031,In situ neoplasms,5028081000006114,231830001,347400011,^ESCTBO502808,,Bowen's disease of eyelid
+ltc_031,In situ neoplasms,5125271000006115,238701007,357761019,^ESCTPR512527,,Precancerous melanosis
+ltc_031,In situ neoplasms,5344761000006112,254460009,378847018,^ESCTCA534476,,Carcinoma in situ of anterior pillar of fauces
+ltc_031,In situ neoplasms,5347731000006110,254656002,379241015,^ESCTSQ534773,,Squamous cell carcinoma in situ of skin
+ltc_031,In situ neoplasms,5347761000006118,254656002,379239016,^ESCTSC534776,,SCC - Squamous cell carcinoma in situ of skin
+ltc_031,In situ neoplasms,5347771000006113,254656002,379240019,^ESCTIN534777,,Intraepidermal carcinoma of skin
+ltc_031,In situ neoplasms,5347781000006111,254656002,3036544013,^ESCTCA534778,,"Cancer in situ skin, squamous cell"
+ltc_031,In situ neoplasms,5352341000006118,254889004,379750017,^ESCTCA535234,,Carcinoma of cervix stage 0
+ltc_031,In situ neoplasms,5352351000006116,254890008,379752013,^ESCTAD535235,,Adenocarcinoma in situ of cervix
+ltc_031,In situ neoplasms,5352371000006114,254890008,3028429014,^ESCTCE535237,,Cervical ACIS (adenocarcinoma in situ)
+ltc_031,In situ neoplasms,5352411000006110,254894004,379756011,^ESCTVA535241,,Vaginal intraepithelial neoplasia
+ltc_031,In situ neoplasms,5352421000006119,254894004,379757019,^ESCTVA535242,,VAIN - Vaginal intraepithelial neoplasia
+ltc_031,In situ neoplasms,5352591000006118,254901000,379769010,^ESCTPI535259,,PIN - Prostatic intraepithelial neoplasia
+ltc_031,In situ neoplasms,5356501000006112,255140001,380236010,^ESCTCA535650,,Carcinoma in situ of nasal cavity and nasopharynx
+ltc_031,In situ neoplasms,5356521000006119,255143004,380239015,^ESCTAN535652,,Anal intraepithelial neoplasia
+ltc_031,In situ neoplasms,5356531000006116,255143004,380240018,^ESCTAI535653,,AIN - Anal intraepithelial neoplasia
+ltc_031,In situ neoplasms,5356601000006113,255149000,380249017,^ESCTCA535660,,Carcinoma in situ of prostatic ducts
+ltc_031,In situ neoplasms,5591851000006110,276875006,413214015,^ESCTVU559185,,Vulval intraepithelial neoplasia grade III
+ltc_031,In situ neoplasms,5591861000006112,276875006,413215019,^ESCTVI559186,,VIN - Vulval intraepithelial neoplasia grade 3
+ltc_031,In situ neoplasms,5591871000006117,276875006,413217010,^ESCTVI559187,,VIN III - Vulval intraepithelial neoplasia grade III
+ltc_031,In situ neoplasms,5608061000006115,278053004,2871985014,^ESCTIN560806,,Intraductal carcinoma of breast
+ltc_031,In situ neoplasms,5911801000006118,302836005,444776010,^ESCTLM591180,,LM - Lentigo maligna
+ltc_031,In situ neoplasms,6612711000006118,398831006,3036051013,^ESCTBO661271,,Bowens disease of penis
+ltc_031,In situ neoplasms,6631771000006113,399933001,1779218012,^ESCTVU663177,,Vulval intraepithelial neoplasia (VIN)
+ltc_031,In situ neoplasms,6634081000006112,400066006,1779335013,^ESCTIN663408,,Intraepithelial squamous cell carcinoma
+ltc_031,In situ neoplasms,6634491000006115,400092004,1779356010,^ESCTPE663449,,Penile intraepithelial neoplasia grade III
+ltc_031,In situ neoplasms,6681681000006113,403475002,1787767014,^ESCTLI668168,,Lichen sclerosus-associated vulval intraepithelial neoplasia
+ltc_031,In situ neoplasms,6681791000006116,403485001,1782521015,^ESCTAN668179,,Anal intraepithelial neoplasia (AIN III)
+ltc_031,In situ neoplasms,6688811000006111,403873003,1782877012,^ESCTIN668881,,Intraepidermal squamous carcinoma of scalp
+ltc_031,In situ neoplasms,6688821000006115,403873003,1787894017,^ESCTBO668882,,Bowen's disease of scalp
+ltc_031,In situ neoplasms,6688831000006117,403874009,1782878019,^ESCTIN668883,,Intraepidermal squamous carcinoma of face
+ltc_031,In situ neoplasms,6688861000006114,403875005,1787896015,^ESCTBO668886,,Bowen's disease of forehead
+ltc_031,In situ neoplasms,6688891000006118,403877002,1782881012,^ESCTIN668889,,Intraepidermal squamous carcinoma of hand
+ltc_031,In situ neoplasms,6688901000006119,403877002,1787898019,^ESCTBO668890,,Bowen's disease of hand
+ltc_031,In situ neoplasms,6688921000006112,403878007,1787899010,^ESCTBO668892,,Bowen's disease of arm
+ltc_031,In situ neoplasms,6688941000006117,403879004,1782883010,^ESCTIN668894,,Intraepidermal squamous carcinoma of leg
+ltc_031,In situ neoplasms,6688961000006118,403879004,1787902013,^ESCTBO668896,,Bowen's disease of leg
+ltc_031,In situ neoplasms,6688981000006111,403880001,1787903015,^ESCTBO668898,,Bowen's disease of trunk
+ltc_031,In situ neoplasms,6689021000006116,403882009,2841522012,^ESCTBO668902,,"Bowen disease, verrucous"
+ltc_031,In situ neoplasms,6689041000006111,403883004,2842652013,^ESCTBO668904,,"Bowen disease, psoriasiform"
+ltc_031,In situ neoplasms,6689051000006113,403884005,1782888018,^ESCTBO668905,,"Bowen's disease, pigmented"
+ltc_031,In situ neoplasms,6689061000006110,403884005,2841009014,^ESCTBO668906,,"Bowen disease, pigmented"
+ltc_031,In situ neoplasms,6689071000006115,403885006,1782889014,^ESCTBO668907,,"Bowen's disease, pagetoid"
+ltc_031,In situ neoplasms,6689081000006117,403885006,2841521017,^ESCTBO668908,,"Bowen disease, pagetoid"
+ltc_031,In situ neoplasms,6689101000006113,403886007,2838816018,^ESCTBO668910,,"Bowen disease, clonal"
+ltc_031,In situ neoplasms,6723061000006111,406103009,2157811013,^ESCTSQ672306,,Squamous cell carcinoma in situ of uterine cervix
+ltc_031,In situ neoplasms,6886541000006115,416033009,2553651017,^ESCTCE688654,,Cervicovaginal cytology: HGSIL or carcinoma
+ltc_031,In situ neoplasms,6961321000006119,420835009,2618528010,^ESCTCO696132,,Corneal intraepithelial neoplasia
+ltc_031,In situ neoplasms,7004701000006117,423278008,2644952013,^ESCTLE700470,,Lentigo maligna of skin of eyelid
+ltc_031,In situ neoplasms,7347971000006114,447953007,2900972014,^ESCTBO734797,,Bowen disease of skin of chest
+ltc_031,In situ neoplasms,7487891000006115,473419009,2956738014,^ESCTIN748789,,Intraductal papillary mucinous carcinoma in situ of pancreas
+ltc_031,In situ neoplasms,7820001000006115,721594000,3325541019,^ESCTPA782000,,Papillary carcinoma in situ of breast
+ltc_031,In situ neoplasms,7835321000006115,722689005,3333089011,^ESCTME783532,,Melanoma in situ of conjunctiva
+ltc_031,In situ neoplasms,11777961000006118,189324006,3526664010,^ESCT1177796,,Melanoma in situ of skin structure of scalp and/or neck
+ltc_031,In situ neoplasms,11923431000006116,271325000,406054011,^ESCT1192343,,"Carcinoma in situ of lip, oral cavity and pharynx"
+ltc_031,In situ neoplasms,12084891000006119,769169008,3689157016,^ESCT1208489,,High grade cervical glandular intraepithelial neoplasia
+ltc_031,In situ neoplasms,12084901000006115,769169008,3689159018,^ESCT1208490,,H-CGIN - high grade cervical glandular intraepithelial neoplasia
+ltc_031,In situ neoplasms,12703551000006113,255150000,2772277012,^ESCT1270355,,Carcinoma in situ of urinary tract proper
+ltc_031,In situ neoplasms,13652411000006113,785798002,3768405012,^ESCT1365241,,Carcinoma in situ of oral cavity
+ltc_031,In situ neoplasms,15482801000006113,92546004,5288264011,^ESCT1548280,,Carcinoma in situ of urinary bladder
+ltc_031,In situ neoplasms,15488951000006118,231830001,5259534016,^ESCT1548895,,Squamous cell carcinoma in situ of eyelid

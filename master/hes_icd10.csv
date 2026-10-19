@@ -1,0 +1,1642 @@
+condition_id,condition_name,icd10_block,icd10_code,hes_code,description
+ltc_001,Addison's disease,E20-E35,E27.2,E272,Addisonian crisis
+ltc_001,Addison's disease,E20-E35,E27.3,E273,Drug-induced adrenocortical insufficiency
+ltc_001,Addison's disease,E20-E35,E27.1,E271,Primary adrenocortical insufficiency
+ltc_001,Addison's disease,E20-E35,E27.4,E274,Other and unspecified adrenocortical insufficiency
+ltc_002,Ankylosing spondylitis,M45,M45.X,M45X,Ankylosing spondylitis
+ltc_003,Cataract,H25-H28,H26.4,H264,After-cataract
+ltc_003,Cataract,H25-H28,H28.0,H280,Diabetic cataract
+ltc_003,Cataract,H25-H28,H28.1,H281,"Cataract in other endocrine, nutritional and metabolic diseases"
+ltc_003,Cataract,H25-H28,H28.2,H282,Cataract in other diseases classified elsewhere
+ltc_003,Cataract,H25-H28,H28.8,H288,Other disorders of lens in diseases classified elsewhere
+ltc_003,Cataract,H25-H28,H25.0,H250,Senile incipient cataract
+ltc_003,Cataract,H25-H28,H25.1,H251,Senile nuclear cataract
+ltc_003,Cataract,H25-H28,H25.2,H252,"Senile cataract, morgagnian type"
+ltc_003,Cataract,H25-H28,H25.8,H258,Other senile cataract
+ltc_003,Cataract,H25-H28,H25.9,H259,"Senile cataract, unspecified"
+ltc_003,Cataract,H25-H28,H26.2,H262,Complicated cataract
+ltc_003,Cataract,H25-H28,H26.8,H268,Other specified cataract
+ltc_003,Cataract,H25-H28,H26.9,H269,"Cataract, unspecified"
+ltc_004,Cerebrovascular disease,I60-I69,I67.0,I670,"Dissection of cerebral arteries, nonruptured"
+ltc_004,Cerebrovascular disease,I60-I69,I67.4,I674,Hypertensive encephalopathy
+ltc_004,Cerebrovascular disease,I60-I69,I67.6,I676,Nonpyogenic thrombosis of intracranial venous system
+ltc_004,Cerebrovascular disease,I60-I69,I68.1,I681,Cerebral arteritis in infectious and parasitic diseases classified elsewhere
+ltc_004,Cerebrovascular disease,I60-I69,I68.2,I682,Cerebral arteritis in other diseases classified elsewhere
+ltc_004,Cerebrovascular disease,I60-I69,I68.8,I688,Other cerebrovascular disorders in diseases classified elsewhere
+ltc_004,Cerebrovascular disease,I60-I69,I65.0,I650,Occlusion and stenosis of vertebral artery
+ltc_004,Cerebrovascular disease,I60-I69,I65.1,I651,Occlusion and stenosis of basilar artery
+ltc_004,Cerebrovascular disease,I60-I69,I65.2,I652,Occlusion and stenosis of carotid artery
+ltc_004,Cerebrovascular disease,I60-I69,I65.3,I653,Occlusion and stenosis of multiple and bilateral precerebral arteries
+ltc_004,Cerebrovascular disease,I60-I69,I65.8,I658,Occlusion and stenosis of other precerebral artery
+ltc_004,Cerebrovascular disease,I60-I69,I65.9,I659,Occlusion and stenosis of unspecified precerebral artery
+ltc_004,Cerebrovascular disease,I60-I69,I66.0,I660,Occlusion and stenosis of middle cerebral artery
+ltc_004,Cerebrovascular disease,I60-I69,I66.1,I661,Occlusion and stenosis of anterior cerebral artery
+ltc_004,Cerebrovascular disease,I60-I69,I66.2,I662,Occlusion and stenosis of posterior cerebral artery
+ltc_004,Cerebrovascular disease,I60-I69,I66.3,I663,Occlusion and stenosis of cerebellar arteries
+ltc_004,Cerebrovascular disease,I60-I69,I66.4,I664,Occlusion and stenosis of multiple and bilateral cerebral arteries
+ltc_004,Cerebrovascular disease,I60-I69,I66.8,I668,Occlusion and stenosis of other cerebral artery
+ltc_004,Cerebrovascular disease,I60-I69,I66.9,I669,Occlusion and stenosis of unspecified cerebral artery
+ltc_004,Cerebrovascular disease,I60-I69,I67.1,I671,"Cerebral aneurysm, nonruptured"
+ltc_004,Cerebrovascular disease,I60-I69,I67.2,I672,Cerebral atherosclerosis
+ltc_004,Cerebrovascular disease,I60-I69,I67.3,I673,Progressive vascular leukoencephalopathy
+ltc_004,Cerebrovascular disease,I60-I69,I67.5,I675,Moyamoya disease
+ltc_004,Cerebrovascular disease,I60-I69,I67.7,I677,"Cerebral arteritis, not elsewhere classified"
+ltc_004,Cerebrovascular disease,I60-I69,I67.8,I678,Other specified cerebrovascular diseases
+ltc_004,Cerebrovascular disease,I60-I69,I67.9,I679,"Cerebrovascular disease, unspecified"
+ltc_004,Cerebrovascular disease,I60-I69,I68.0,I680,Cerebral amyloid angiopathy
+ltc_004,Cerebrovascular disease,I60-I69,I69.0,I690,Sequelae of subarachnoid haemorrhage
+ltc_004,Cerebrovascular disease,I60-I69,I69.1,I691,Sequelae of intracerebral haemorrhage
+ltc_004,Cerebrovascular disease,I60-I69,I69.2,I692,Sequelae of other nontraumatic intracranial haemorrhage
+ltc_004,Cerebrovascular disease,I60-I69,I69.3,I693,Sequelae of cerebral infarction
+ltc_004,Cerebrovascular disease,I60-I69,I69.4,I694,"Sequelae of stroke, not specified as haemorrhage or infarction"
+ltc_004,Cerebrovascular disease,I60-I69,I69.8,I698,Sequelae of other and unspecified cerebrovascular diseases
+ltc_005,Chronic kidney disease,N18-N19,N18.1,N181,"Chronic kidney disease, stage 1"
+ltc_005,Chronic kidney disease,N18-N19,N18.2,N182,"Chronic kidney disease, stage 2"
+ltc_005,Chronic kidney disease,N18-N19,N18.3,N183,"Chronic kidney disease, stage 3"
+ltc_005,Chronic kidney disease,N18-N19,N18.4,N184,"Chronic kidney disease, stage 4"
+ltc_005,Chronic kidney disease,N18-N19,N18.5,N185,"Chronic kidney disease, stage 5"
+ltc_005,Chronic kidney disease,N18-N19,N18.9,N189,"Chronic kidney disease, unspecified"
+ltc_005,Chronic kidney disease,N18-N19,N19.X,N19X,Unspecified kidney failure
+ltc_006,Chronic lower respiratory diseases,J40-J47,J40.X,J40X,"Bronchitis, not specified as acute or chronic"
+ltc_006,Chronic lower respiratory diseases,J40-J47,J41.0,J410,Simple chronic bronchitis
+ltc_006,Chronic lower respiratory diseases,J40-J47,J41.1,J411,Mucopurulent chronic bronchitis
+ltc_006,Chronic lower respiratory diseases,J40-J47,J41.8,J418,Mixed simple and mucopurulent chronic bronchitis
+ltc_006,Chronic lower respiratory diseases,J40-J47,J42.X,J42X,Unspecified chronic bronchitis
+ltc_006,Chronic lower respiratory diseases,J40-J47,J43.0,J430,MacLeod syndrome
+ltc_006,Chronic lower respiratory diseases,J40-J47,J43.1,J431,Panlobular emphysema
+ltc_006,Chronic lower respiratory diseases,J40-J47,J43.2,J432,Centrilobular emphysema
+ltc_006,Chronic lower respiratory diseases,J40-J47,J43.8,J438,Other emphysema
+ltc_006,Chronic lower respiratory diseases,J40-J47,J43.9,J439,"Emphysema, unspecified"
+ltc_006,Chronic lower respiratory diseases,J40-J47,J44.8,J448,Other specified chronic obstructive pulmonary disease
+ltc_006,Chronic lower respiratory diseases,J40-J47,J44.9,J449,"Chronic obstructive pulmonary disease, unspecified"
+ltc_006,Chronic lower respiratory diseases,J40-J47,J45.0,J450,Predominantly allergic asthma
+ltc_006,Chronic lower respiratory diseases,J40-J47,J45.1,J451,Nonallergic asthma
+ltc_006,Chronic lower respiratory diseases,J40-J47,J45.8,J458,Mixed asthma
+ltc_006,Chronic lower respiratory diseases,J40-J47,J45.9,J459,"Asthma, unspecified"
+ltc_006,Chronic lower respiratory diseases,J40-J47,J47.X,J47X,Bronchiectasis
+ltc_007,Chronic rheumatic heart diseases,I05-I09,I05.0,I050,Mitral stenosis
+ltc_007,Chronic rheumatic heart diseases,I05-I09,I05.1,I051,Rheumatic mitral insufficiency
+ltc_007,Chronic rheumatic heart diseases,I05-I09,I05.2,I052,Mitral stenosis with insufficiency
+ltc_007,Chronic rheumatic heart diseases,I05-I09,I05.8,I058,Other mitral valve diseases
+ltc_007,Chronic rheumatic heart diseases,I05-I09,I05.9,I059,"Mitral valve disease, unspecified"
+ltc_007,Chronic rheumatic heart diseases,I05-I09,I06.0,I060,Rheumatic aortic stenosis
+ltc_007,Chronic rheumatic heart diseases,I05-I09,I06.1,I061,Rheumatic aortic insufficiency
+ltc_007,Chronic rheumatic heart diseases,I05-I09,I06.2,I062,Rheumatic aortic stenosis with insufficiency
+ltc_007,Chronic rheumatic heart diseases,I05-I09,I06.8,I068,Other rheumatic aortic valve diseases
+ltc_007,Chronic rheumatic heart diseases,I05-I09,I06.9,I069,"Rheumatic aortic valve disease, unspecified"
+ltc_007,Chronic rheumatic heart diseases,I05-I09,I07.0,I070,Tricuspid stenosis
+ltc_007,Chronic rheumatic heart diseases,I05-I09,I07.1,I071,Tricuspid insufficiency
+ltc_007,Chronic rheumatic heart diseases,I05-I09,I07.2,I072,Tricuspid stenosis with insufficiency
+ltc_007,Chronic rheumatic heart diseases,I05-I09,I07.8,I078,Other tricuspid valve diseases
+ltc_007,Chronic rheumatic heart diseases,I05-I09,I07.9,I079,"Tricuspid valve disease, unspecified"
+ltc_007,Chronic rheumatic heart diseases,I05-I09,I08.0,I080,Disorders of both mitral and aortic valves
+ltc_007,Chronic rheumatic heart diseases,I05-I09,I08.1,I081,Disorders of both mitral and tricuspid valves
+ltc_007,Chronic rheumatic heart diseases,I05-I09,I08.2,I082,Disorders of both aortic and tricuspid valves
+ltc_007,Chronic rheumatic heart diseases,I05-I09,I08.3,I083,"Combined disorders of mitral, aortic and tricuspid valves"
+ltc_007,Chronic rheumatic heart diseases,I05-I09,I08.8,I088,Other multiple valve diseases
+ltc_007,Chronic rheumatic heart diseases,I05-I09,I08.9,I089,"Multiple valve disease, unspecified"
+ltc_007,Chronic rheumatic heart diseases,I05-I09,I09.0,I090,Rheumatic myocarditis
+ltc_007,Chronic rheumatic heart diseases,I05-I09,I09.1,I091,"Rheumatic diseases of endocardium, valve unspecified"
+ltc_007,Chronic rheumatic heart diseases,I05-I09,I09.2,I092,Chronic rheumatic pericarditis
+ltc_007,Chronic rheumatic heart diseases,I05-I09,I09.8,I098,Other specified rheumatic heart diseases
+ltc_007,Chronic rheumatic heart diseases,I05-I09,I09.9,I099,"Rheumatic heart disease, unspecified"
+ltc_008,Chronic viral hepatitis,B15-B19,B18.0,B180,Chronic viral hepatitis B with delta-agent
+ltc_008,Chronic viral hepatitis,B15-B19,B18.1,B181,Chronic viral hepatitis B without delta-agent
+ltc_008,Chronic viral hepatitis,B15-B19,B18.2,B182,Chronic viral hepatitis C
+ltc_008,Chronic viral hepatitis,B15-B19,B18.8,B188,Other chronic viral hepatitis
+ltc_008,Chronic viral hepatitis,B15-B19,B18.9,B189,"Chronic viral hepatitis, unspecified"
+ltc_008,Chronic viral hepatitis,B15-B19,B19.0,B190,Unspecified viral hepatitis with hepatic coma
+ltc_008,Chronic viral hepatitis,B15-B19,B19.9,B199,Unspecified viral hepatitis without hepatic coma
+ltc_009,Conductive and sensorineural hearing loss,H90-H95,H91.2,H912,Sudden idiopathic hearing loss
+ltc_009,Conductive and sensorineural hearing loss,H90-H95,H90.0,H900,"Conductive hearing loss, bilateral"
+ltc_009,Conductive and sensorineural hearing loss,H90-H95,H90.1,H901,"Conductive hearing loss, unilateral with unrestricted hearing on the contralateral side"
+ltc_009,Conductive and sensorineural hearing loss,H90-H95,H90.2,H902,"Conductive hearing loss, unspecified"
+ltc_009,Conductive and sensorineural hearing loss,H90-H95,H90.3,H903,"Sensorineural hearing loss, bilateral"
+ltc_009,Conductive and sensorineural hearing loss,H90-H95,H90.4,H904,"Sensorineural hearing loss, unilateral with unrestricted hearing on the contralateral side"
+ltc_009,Conductive and sensorineural hearing loss,H90-H95,H90.5,H905,"Sensorineural hearing loss, unspecified"
+ltc_009,Conductive and sensorineural hearing loss,H90-H95,H90.6,H906,"Mixed conductive and sensorineural hearing loss, bilateral"
+ltc_009,Conductive and sensorineural hearing loss,H90-H95,H90.7,H907,"Mixed conductive and sensorineural hearing loss, unilateral with unrestricted hearing on the contralateral side"
+ltc_009,Conductive and sensorineural hearing loss,H90-H95,H90.8,H908,"Mixed conductive and sensorineural hearing loss, unspecified"
+ltc_009,Conductive and sensorineural hearing loss,H90-H95,H91.0,H910,Ototoxic hearing loss
+ltc_009,Conductive and sensorineural hearing loss,H90-H95,H91.1,H911,Presbycusis
+ltc_009,Conductive and sensorineural hearing loss,H90-H95,H91.8,H918,Other specified hearing loss
+ltc_009,Conductive and sensorineural hearing loss,H90-H95,H91.9,H919,"Hearing loss, unspecified"
+ltc_010,Dementia,F00-F09,F05.1,F051,Delirium superimposed on dementia
+ltc_010,Dementia,F00-F09,F00.0,F000,Dementia in Alzheimer disease with early onset
+ltc_010,Dementia,F00-F09,F00.1,F001,Dementia in Alzheimer disease with late onset
+ltc_010,Dementia,F00-F09,F00.2,F002,"Dementia in Alzheimer disease, atypical or mixed type"
+ltc_010,Dementia,F00-F09,F00.9,F009,"Dementia in Alzheimer disease, unspecified"
+ltc_010,Dementia,F00-F09,F01.0,F010,Vascular dementia of acute onset
+ltc_010,Dementia,F00-F09,F01.1,F011,Multi-infarct dementia
+ltc_010,Dementia,F00-F09,F01.2,F012,Subcortical vascular dementia
+ltc_010,Dementia,F00-F09,F01.3,F013,Mixed cortical and subcortical vascular dementia
+ltc_010,Dementia,F00-F09,F01.8,F018,Other vascular dementia
+ltc_010,Dementia,F00-F09,F01.9,F019,"Vascular dementia, unspecified"
+ltc_010,Dementia,F00-F09,F02.0,F020,Dementia in Pick disease
+ltc_010,Dementia,F00-F09,F02.1,F021,Dementia in Creutzfeldt-Jakob disease
+ltc_010,Dementia,F00-F09,F02.2,F022,Dementia in Huntington disease
+ltc_010,Dementia,F00-F09,F02.3,F023,Dementia in Parkinson disease
+ltc_010,Dementia,F00-F09,F02.4,F024,Dementia in human immunodeficiency virus [HIV] disease
+ltc_010,Dementia,F00-F09,F02.8,F028,Dementia in other specified diseases classified elsewhere
+ltc_010,Dementia,F00-F09,F03.X,F03X,Unspecified dementia
+ltc_010,Dementia,G30-G32,G30.0,G300,Alzheimer disease with early onset
+ltc_010,Dementia,G30-G32,G30.1,G301,Alzheimer disease with late onset
+ltc_010,Dementia,G30-G32,G30.8,G308,Other Alzheimer disease
+ltc_010,Dementia,G30-G32,G30.9,G309,"Alzheimer disease, unspecified"
+ltc_011,Dermatitis and eczema,L20-L30,L23.0,L230,Allergic contact dermatitis due to metals
+ltc_011,Dermatitis and eczema,L20-L30,L23.1,L231,Allergic contact dermatitis due to adhesives
+ltc_011,Dermatitis and eczema,L20-L30,L23.2,L232,Allergic contact dermatitis due to cosmetics
+ltc_011,Dermatitis and eczema,L20-L30,L23.3,L233,Allergic contact dermatitis due to drugs in contact with skin
+ltc_011,Dermatitis and eczema,L20-L30,L23.4,L234,Allergic contact dermatitis due to dyes
+ltc_011,Dermatitis and eczema,L20-L30,L23.5,L235,Allergic contact dermatitis due to other chemical products
+ltc_011,Dermatitis and eczema,L20-L30,L23.6,L236,Allergic contact dermatitis due to food in contact with skin
+ltc_011,Dermatitis and eczema,L20-L30,L23.7,L237,"Allergic contact dermatitis due to plants, except food"
+ltc_011,Dermatitis and eczema,L20-L30,L23.8,L238,Allergic contact dermatitis due to other agents
+ltc_011,Dermatitis and eczema,L20-L30,L23.9,L239,"Allergic contact dermatitis, unspecified cause"
+ltc_011,Dermatitis and eczema,L20-L30,L24.0,L240,Irritant contact dermatitis due to detergents
+ltc_011,Dermatitis and eczema,L20-L30,L24.1,L241,Irritant contact dermatitis due to oils and greases
+ltc_011,Dermatitis and eczema,L20-L30,L24.2,L242,Irritant contact dermatitis due to solvents
+ltc_011,Dermatitis and eczema,L20-L30,L24.3,L243,Irritant contact dermatitis due to cosmetics
+ltc_011,Dermatitis and eczema,L20-L30,L24.4,L244,Irritant contact dermatitis due to drugs in contact with skin
+ltc_011,Dermatitis and eczema,L20-L30,L24.5,L245,Irritant contact dermatitis due to other chemical products
+ltc_011,Dermatitis and eczema,L20-L30,L24.6,L246,Irritant contact dermatitis due to food in contact with skin
+ltc_011,Dermatitis and eczema,L20-L30,L24.7,L247,"Irritant contact dermatitis due to plants, except food"
+ltc_011,Dermatitis and eczema,L20-L30,L24.8,L248,Irritant contact dermatitis due to other agents
+ltc_011,Dermatitis and eczema,L20-L30,L24.9,L249,"Irritant contact dermatitis, unspecified cause"
+ltc_011,Dermatitis and eczema,L20-L30,L25.0,L250,Unspecified contact dermatitis due to cosmetics
+ltc_011,Dermatitis and eczema,L20-L30,L25.1,L251,Unspecified contact dermatitis due to drugs in contact with skin
+ltc_011,Dermatitis and eczema,L20-L30,L25.2,L252,Unspecified contact dermatitis due to dyes
+ltc_011,Dermatitis and eczema,L20-L30,L25.3,L253,Unspecified contact dermatitis due to other chemical products
+ltc_011,Dermatitis and eczema,L20-L30,L25.4,L254,Unspecified contact dermatitis due to food in contact with skin
+ltc_011,Dermatitis and eczema,L20-L30,L25.5,L255,"Unspecified contact dermatitis due to plants, except food"
+ltc_011,Dermatitis and eczema,L20-L30,L25.8,L258,Unspecified contact dermatitis due to other agents
+ltc_011,Dermatitis and eczema,L20-L30,L25.9,L259,"Unspecified contact dermatitis, unspecified cause"
+ltc_011,Dermatitis and eczema,L20-L30,L26.X,L26X,Exfoliative dermatitis
+ltc_011,Dermatitis and eczema,L20-L30,L27.0,L270,Generalized skin eruption due to drugs and medicaments
+ltc_011,Dermatitis and eczema,L20-L30,L27.1,L271,Localized skin eruption due to drugs and medicaments
+ltc_011,Dermatitis and eczema,L20-L30,L27.2,L272,Dermatitis due to ingested food
+ltc_011,Dermatitis and eczema,L20-L30,L27.8,L278,Dermatitis due to other substances taken internally
+ltc_011,Dermatitis and eczema,L20-L30,L27.9,L279,Dermatitis due to unspecified substance taken internally
+ltc_011,Dermatitis and eczema,L20-L30,L20.0,L200,Besnier prurigo
+ltc_011,Dermatitis and eczema,L20-L30,L20.8,L208,Other atopic dermatitis
+ltc_011,Dermatitis and eczema,L20-L30,L20.9,L209,"Atopic dermatitis, unspecified"
+ltc_011,Dermatitis and eczema,L20-L30,L28.0,L280,Lichen simplex chronicus
+ltc_011,Dermatitis and eczema,L20-L30,L28.1,L281,Prurigo nodularis
+ltc_011,Dermatitis and eczema,L20-L30,L28.2,L282,Other prurigo
+ltc_011,Dermatitis and eczema,L20-L30,L30.0,L300,Nummular dermatitis
+ltc_011,Dermatitis and eczema,L20-L30,L30.1,L301,Dyshidrosis [pompholyx]
+ltc_011,Dermatitis and eczema,L20-L30,L30.2,L302,Cutaneous autosensitization
+ltc_011,Dermatitis and eczema,L20-L30,L30.5,L305,Pityriasis alba
+ltc_011,Dermatitis and eczema,L20-L30,L30.8,L308,Other specified dermatitis
+ltc_011,Dermatitis and eczema,L20-L30,L30.9,L309,"Dermatitis, unspecified"
+ltc_012,Diabetes,E10-E14,G59.0,G590,Diabetic mononeuropathy
+ltc_012,Diabetes,E10-E14,G63.2,G632,Diabetic polyneuropathy
+ltc_012,Diabetes,E10-E14,H28.0,H280,Diabetic cataract
+ltc_012,Diabetes,E10-E14,H36.0,H360,Diabetic retinopathy
+ltc_012,Diabetes,E10-E14,M14.2,M142,Diabetic arthropathy
+ltc_012,Diabetes,E10-E14,N08.3,N083,Glomerular disorders in diabetes mellitus
+ltc_012,Diabetes,E10-E14,O24.0,O240,"Diabetes mellitus in pregnancy: Pre-existing diabetes mellitus, insulin-dependent"
+ltc_012,Diabetes,E10-E14,O24.1,O241,"Diabetes mellitus in pregnancy: Pre-existing diabetes mellitus, non-insulin-dependent"
+ltc_012,Diabetes,E10-E14,O24.2,O242,Diabetes mellitus in pregnancy: Pre-existing malnutrition-related diabetes mellitus
+ltc_012,Diabetes,E10-E14,O24.3,O243,"Diabetes mellitus in pregnancy: Pre-existing diabetes mellitus, unspecified"
+ltc_012,Diabetes,E10-E14,E10.0,E100,"Type 1 diabetes mellitus, with coma"
+ltc_012,Diabetes,E10-E14,E10.1,E101,"Type 1 diabetes mellitus, with ketoacidosis"
+ltc_012,Diabetes,E10-E14,E10.2,E102,"Type 1 diabetes mellitus, with renal complications"
+ltc_012,Diabetes,E10-E14,E10.3,E103,"Type 1 diabetes mellitus, with ophthalmic complications"
+ltc_012,Diabetes,E10-E14,E10.4,E104,"Type 1 diabetes mellitus, with neurological complications"
+ltc_012,Diabetes,E10-E14,E10.5,E105,"Type 1 diabetes mellitus, with peripheral circulatory complications"
+ltc_012,Diabetes,E10-E14,E10.6,E106,"Type 1 diabetes mellitus, with other specified complications"
+ltc_012,Diabetes,E10-E14,E10.7,E107,"Type 1 diabetes mellitus, with multiple complications"
+ltc_012,Diabetes,E10-E14,E10.8,E108,"Type 1 diabetes mellitus, with unspecified complications"
+ltc_012,Diabetes,E10-E14,E10.9,E109,"Type 1 diabetes mellitus, without complications"
+ltc_012,Diabetes,E10-E14,E11.0,E110,"Type 2 diabetes mellitus, with coma"
+ltc_012,Diabetes,E10-E14,E11.1,E111,"Type 2 diabetes mellitus, with ketoacidosis"
+ltc_012,Diabetes,E10-E14,E11.2,E112,"Type 2 diabetes mellitus, with renal complications"
+ltc_012,Diabetes,E10-E14,E11.3,E113,"Type 2 diabetes mellitus, with ophthalmic complications"
+ltc_012,Diabetes,E10-E14,E11.4,E114,"Type 2 diabetes mellitus, with neurological complications"
+ltc_012,Diabetes,E10-E14,E11.5,E115,"Type 2 diabetes mellitus, with peripheral circulatory complications"
+ltc_012,Diabetes,E10-E14,E11.6,E116,"Type 2 diabetes mellitus, with other specified complications"
+ltc_012,Diabetes,E10-E14,E11.7,E117,"Type 2 diabetes mellitus, with multiple complications"
+ltc_012,Diabetes,E10-E14,E11.8,E118,"Type 2 diabetes mellitus, with unspecified complications"
+ltc_012,Diabetes,E10-E14,E11.9,E119,"Type 2 diabetes mellitus, without complications"
+ltc_012,Diabetes,E10-E14,E12.0,E120,"Malnutrition-related diabetes mellitus, with coma"
+ltc_012,Diabetes,E10-E14,E12.1,E121,"Malnutrition-related diabetes mellitus, with ketoacidosis"
+ltc_012,Diabetes,E10-E14,E12.2,E122,"Malnutrition-related diabetes mellitus, with renal complications"
+ltc_012,Diabetes,E10-E14,E12.3,E123,"Malnutrition-related diabetes mellitus, with ophthalmic complications"
+ltc_012,Diabetes,E10-E14,E12.4,E124,"Malnutrition-related diabetes mellitus, with neurological complications"
+ltc_012,Diabetes,E10-E14,E12.5,E125,"Malnutrition-related diabetes mellitus, with peripheral circulatory complications"
+ltc_012,Diabetes,E10-E14,E12.6,E126,"Malnutrition-related diabetes mellitus, with other specified complications"
+ltc_012,Diabetes,E10-E14,E12.7,E127,"Malnutrition-related diabetes mellitus, with multiple complications"
+ltc_012,Diabetes,E10-E14,E12.8,E128,"Malnutrition-related diabetes mellitus, with unspecified complications"
+ltc_012,Diabetes,E10-E14,E12.9,E129,"Malnutrition-related diabetes mellitus, without complications"
+ltc_012,Diabetes,E10-E14,E13.0,E130,"Other specified diabetes mellitus, with coma"
+ltc_012,Diabetes,E10-E14,E13.1,E131,"Other specified diabetes mellitus, with ketoacidosis"
+ltc_012,Diabetes,E10-E14,E13.2,E132,"Other specified diabetes mellitus, with renal complications"
+ltc_012,Diabetes,E10-E14,E13.3,E133,"Other specified diabetes mellitus, with ophthalmic complications"
+ltc_012,Diabetes,E10-E14,E13.4,E134,"Other specified diabetes mellitus, with neurological complications"
+ltc_012,Diabetes,E10-E14,E13.5,E135,"Other specified diabetes mellitus, with peripheral circulatory complications"
+ltc_012,Diabetes,E10-E14,E13.6,E136,"Other specified diabetes mellitus, with other specified complications"
+ltc_012,Diabetes,E10-E14,E13.7,E137,"Other specified diabetes mellitus, with multiple complications"
+ltc_012,Diabetes,E10-E14,E13.8,E138,"Other specified diabetes mellitus, with unspecified complications"
+ltc_012,Diabetes,E10-E14,E13.9,E139,"Other specified diabetes mellitus, without complications"
+ltc_012,Diabetes,E10-E14,E14.0,E140,"Unspecified diabetes mellitus, with coma"
+ltc_012,Diabetes,E10-E14,E14.1,E141,"Unspecified diabetes mellitus, with ketoacidosis"
+ltc_012,Diabetes,E10-E14,E14.2,E142,"Unspecified diabetes mellitus, with renal complications"
+ltc_012,Diabetes,E10-E14,E14.3,E143,"Unspecified diabetes mellitus, with ophthalmic complications"
+ltc_012,Diabetes,E10-E14,E14.4,E144,"Unspecified diabetes mellitus, with neurological complications"
+ltc_012,Diabetes,E10-E14,E14.5,E145,"Unspecified diabetes mellitus, with peripheral circulatory complications"
+ltc_012,Diabetes,E10-E14,E14.6,E146,"Unspecified diabetes mellitus, with other specified complications"
+ltc_012,Diabetes,E10-E14,E14.7,E147,"Unspecified diabetes mellitus, with multiple complications"
+ltc_012,Diabetes,E10-E14,E14.8,E148,"Unspecified diabetes mellitus, with unspecified complications"
+ltc_012,Diabetes,E10-E14,E14.9,E149,"Unspecified diabetes mellitus, without complications"
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I71.1,I711,"Thoracic aortic aneurysm, ruptured"
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I71.2,I712,"Thoracic aortic aneurysm, without mention of rupture"
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I71.3,I713,"Abdominal aortic aneurysm, ruptured"
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I71.4,I714,"Abdominal aortic aneurysm, without mention of rupture"
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I71.5,I715,"Thoracoabdominal aortic aneurysm, ruptured"
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I71.6,I716,"Thoracoabdominal aortic aneurysm, without mention of rupture"
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I71.8,I718,"Aortic aneurysm of unspecified site, ruptured"
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I71.9,I719,"Aortic aneurysm of unspecified site, without mention of rupture"
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I72.0,I720,Aneurysm and dissection of carotid artery
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I72.1,I721,Aneurysm and dissection of artery of upper extremity
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I72.2,I722,Aneurysm and dissection of renal artery
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I72.3,I723,Aneurysm and dissection of iliac artery
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I72.4,I724,Aneurysm and dissection of artery of lower extremity
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I72.5,I725,Aneurysm and dissection of other precerebral arteries
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I72.6,I726,Aneurysm and dissection of vertebral artery
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I72.8,I728,Aneurysm and dissection of other specified arteries
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I72.9,I729,Aneurysm and dissection of unspecified site
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I74.1,I741,Embolism and thrombosis of other and unspecified parts of aorta
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I74.2,I742,Embolism and thrombosis of arteries of upper extremities
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I74.3,I743,Embolism and thrombosis of arteries of lower extremities
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I74.4,I744,"Embolism and thrombosis of arteries of extremities, unspecified"
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I74.5,I745,Embolism and thrombosis of iliac artery
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I74.8,I748,Embolism and thrombosis of other arteries
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I74.9,I749,Embolism and thrombosis of unspecified artery
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I77.2,I772,Rupture of artery
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I70.0,I700,Atherosclerosis of aorta
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I70.1,I701,Atherosclerosis of renal artery
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I70.2,I702,Atherosclerosis of arteries of extremities
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I70.8,I708,Atherosclerosis of other arteries
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I70.9,I709,Generalized and unspecified atherosclerosis
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I71.0,I710,Dissection of aorta [any part]
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I73.0,I730,Raynaud syndrome
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I73.1,I731,Thromboangiitis obliterans [Buerger]
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I73.8,I738,Other specified peripheral vascular diseases
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I73.9,I739,"Peripheral vascular disease, unspecified"
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I74.0,I740,Embolism and thrombosis of abdominal aorta
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I77.0,I770,"Arteriovenous fistula, acquired"
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I77.1,I771,Stricture of artery
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I77.3,I773,Arterial fibromuscular dysplasia
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I77.4,I774,Coeliac artery compression syndrome
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I77.5,I775,Necrosis of artery
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I77.6,I776,"Arteritis, unspecified"
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I77.8,I778,Other specified disorders of arteries and arterioles
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I77.9,I779,"Disorder of arteries and arterioles, unspecified"
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I78.1,I781,"Naevus, non-neoplastic"
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I78.8,I788,Other diseases of capillaries
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I78.9,I789,"Disease of capillaries, unspecified"
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I79.0,I790,Aneurysm of aorta in diseases classified elsewhere
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I79.1,I791,Aortitis in diseases classified elsewhere
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I79.2,I792,Peripheral angiopathy in diseases classified elsewhere
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I79.8,I798,"Other disorders of arteries, arterioles and capillaries in diseases classifie..."
+ltc_014,"Diseases of oesophagus, stomach and duodenum",K20-K31,K27.9,K279,"Peptic ulcer, site unspecified, unspecified as acute or chronic, without haemorrhage or perforation"
+ltc_014,"Diseases of oesophagus, stomach and duodenum",K20-K31,K29.6,K296,Other gastritis
+ltc_014,"Diseases of oesophagus, stomach and duodenum",K20-K31,K29.7,K297,"Gastritis, unspecified"
+ltc_014,"Diseases of oesophagus, stomach and duodenum",K20-K31,K29.8,K298,Duodenitis
+ltc_014,"Diseases of oesophagus, stomach and duodenum",K20-K31,K29.9,K299,"Gastroduodenitis, unspecified"
+ltc_014,"Diseases of oesophagus, stomach and duodenum",K20-K31,K21.0,K210,Gastro-oesophageal reflux disease with oesophagitis
+ltc_014,"Diseases of oesophagus, stomach and duodenum",K20-K31,K21.9,K219,Gastro-oesophageal reflux disease without oesophagitis
+ltc_014,"Diseases of oesophagus, stomach and duodenum",K20-K31,K27.4,K274,"Peptic ulcer, site unspecified, chronic or unspecified with haemorrhage"
+ltc_014,"Diseases of oesophagus, stomach and duodenum",K20-K31,K27.5,K275,"Peptic ulcer, site unspecified, chronic or unspecified with perforation"
+ltc_014,"Diseases of oesophagus, stomach and duodenum",K20-K31,K27.6,K276,"Peptic ulcer, site unspecified, chronic or unspecified with both haemorrhage and perforation"
+ltc_014,"Diseases of oesophagus, stomach and duodenum",K20-K31,K27.7,K277,"Peptic ulcer, site unspecified, chronic without haemorrhage or perforation"
+ltc_014,"Diseases of oesophagus, stomach and duodenum",K20-K31,K29.2,K292,Alcoholic gastritis
+ltc_014,"Diseases of oesophagus, stomach and duodenum",K20-K31,K29.3,K293,Chronic superficial gastritis
+ltc_014,"Diseases of oesophagus, stomach and duodenum",K20-K31,K29.4,K294,Chronic atrophic gastritis
+ltc_014,"Diseases of oesophagus, stomach and duodenum",K20-K31,K29.5,K295,"Chronic gastritis, unspecified"
+ltc_015,Diseases of the liver,K70-K77,K70.4,K704,Alcoholic hepatic failure
+ltc_015,Diseases of the liver,K70-K77,K70.9,K709,"Alcoholic liver disease, unspecified"
+ltc_015,Diseases of the liver,K70-K77,K71.0,K710,Toxic liver disease with cholestasis
+ltc_015,Diseases of the liver,K70-K77,K71.1,K711,Toxic liver disease with hepatic necrosis
+ltc_015,Diseases of the liver,K70-K77,K71.3,K713,Toxic liver disease with chronic persistent hepatitis
+ltc_015,Diseases of the liver,K70-K77,K71.4,K714,Toxic liver disease with chronic lobular hepatitis
+ltc_015,Diseases of the liver,K70-K77,K71.5,K715,Toxic liver disease with chronic active hepatitis
+ltc_015,Diseases of the liver,K70-K77,K71.6,K716,"Toxic liver disease with hepatitis, not elsewhere classified"
+ltc_015,Diseases of the liver,K70-K77,K71.7,K717,Toxic liver disease with fibrosis and cirrhosis of liver
+ltc_015,Diseases of the liver,K70-K77,K71.8,K718,Toxic liver disease with other disorders of liver
+ltc_015,Diseases of the liver,K70-K77,K71.9,K719,"Toxic liver disease, unspecified"
+ltc_015,Diseases of the liver,K70-K77,K72.9,K729,"Hepatic failure, unspecified"
+ltc_015,Diseases of the liver,K70-K77,K77.8,K778,Liver disorders in other diseases classified elsewhere
+ltc_015,Diseases of the liver,K70-K77,K70.0,K700,Alcoholic fatty liver
+ltc_015,Diseases of the liver,K70-K77,K70.1,K701,Alcoholic hepatitis
+ltc_015,Diseases of the liver,K70-K77,K70.2,K702,Alcoholic fibrosis and sclerosis of liver
+ltc_015,Diseases of the liver,K70-K77,K70.3,K703,Alcoholic cirrhosis of liver
+ltc_015,Diseases of the liver,K70-K77,K72.1,K721,Chronic hepatic failure
+ltc_015,Diseases of the liver,K70-K77,K73.0,K730,"Chronic persistent hepatitis, not elsewhere classified"
+ltc_015,Diseases of the liver,K70-K77,K73.1,K731,"Chronic lobular hepatitis, not elsewhere classified"
+ltc_015,Diseases of the liver,K70-K77,K73.2,K732,"Chronic active hepatitis, not elsewhere classified"
+ltc_015,Diseases of the liver,K70-K77,K73.8,K738,"Other chronic hepatitis, not elsewhere classified"
+ltc_015,Diseases of the liver,K70-K77,K73.9,K739,"Chronic hepatitis, unspecified"
+ltc_015,Diseases of the liver,K70-K77,K74.0,K740,Hepatic fibrosis
+ltc_015,Diseases of the liver,K70-K77,K74.1,K741,Hepatic sclerosis
+ltc_015,Diseases of the liver,K70-K77,K74.2,K742,Hepatic fibrosis with hepatic sclerosis
+ltc_015,Diseases of the liver,K70-K77,K74.3,K743,Primary biliary cirrhosis
+ltc_015,Diseases of the liver,K70-K77,K74.4,K744,Secondary biliary cirrhosis
+ltc_015,Diseases of the liver,K70-K77,K74.5,K745,"Biliary cirrhosis, unspecified"
+ltc_015,Diseases of the liver,K70-K77,K74.6,K746,Other and unspecified cirrhosis of liver
+ltc_015,Diseases of the liver,K70-K77,K75.1,K751,Phlebitis of portal vein
+ltc_015,Diseases of the liver,K70-K77,K75.2,K752,Nonspecific reactive hepatitis
+ltc_015,Diseases of the liver,K70-K77,K75.3,K753,"Granulomatous hepatitis, not elsewhere classified"
+ltc_015,Diseases of the liver,K70-K77,K75.4,K754,Autoimmune hepatitis
+ltc_015,Diseases of the liver,K70-K77,K75.8,K758,Other specified inflammatory liver diseases
+ltc_015,Diseases of the liver,K70-K77,K75.9,K759,"Inflammatory liver disease, unspecified"
+ltc_015,Diseases of the liver,K70-K77,K76.0,K760,"Fatty (change of) liver, not elsewhere classified"
+ltc_015,Diseases of the liver,K70-K77,K76.1,K761,Chronic passive congestion of liver
+ltc_015,Diseases of the liver,K70-K77,K76.2,K762,Central haemorrhagic necrosis of liver
+ltc_015,Diseases of the liver,K70-K77,K76.3,K763,Infarction of liver
+ltc_015,Diseases of the liver,K70-K77,K76.4,K764,Peliosis hepatis
+ltc_015,Diseases of the liver,K70-K77,K76.5,K765,Hepatic veno-occlusive disease
+ltc_015,Diseases of the liver,K70-K77,K76.6,K766,Portal hypertension
+ltc_015,Diseases of the liver,K70-K77,K76.7,K767,Hepatorenal syndrome
+ltc_015,Diseases of the liver,K70-K77,K76.8,K768,Other specified diseases of liver
+ltc_015,Diseases of the liver,K70-K77,K76.9,K769,"Liver disease, unspecified"
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I80.0,I800,Phlebitis and thrombophlebitis of superficial vessels of lower extremities
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I80.1,I801,Phlebitis and thrombophlebitis of femoral vein
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I80.2,I802,Phlebitis and thrombophlebitis of other deep vessels of lower extremities
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I80.3,I803,"Phlebitis and thrombophlebitis of lower extremities, unspecified"
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I80.8,I808,Phlebitis and thrombophlebitis of other sites
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I80.9,I809,Phlebitis and thrombophlebitis of unspecified site
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I81.X,I81X,Portal vein thrombosis
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I82.0,I820,Budd-Chiari syndrome
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I82.1,I821,Thrombophlebitis migrans
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I82.2,I822,Embolism and thrombosis of vena cava
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I82.3,I823,Embolism and thrombosis of renal vein
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I82.8,I828,Embolism and thrombosis of other specified veins
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I82.9,I829,Embolism and thrombosis of unspecified vein
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I88.8,I888,Other nonspecific lymphadenitis
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I88.9,I889,"Nonspecific lymphadenitis, unspecified"
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I89.0,I890,"Lymphoedema, not elsewhere classified"
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I89.1,I891,Lymphangitis
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I83.0,I830,Varicose veins of lower extremities with ulcer
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I83.1,I831,Varicose veins of lower extremities with inflammation
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I83.2,I832,Varicose veins of lower extremities with both ulcer and inflammation
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I83.9,I839,Varicose veins of lower extremities without ulcer or inflammation
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I85.0,I850,Oesophageal varices with bleeding
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I85.9,I859,Oesophageal varices without bleeding
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I86.0,I860,Sublingual varices
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I86.1,I861,Scrotal varices
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I86.2,I862,Pelvic varices
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I86.3,I863,Vulval varices
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I86.4,I864,Gastric varices
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I86.8,I868,Varicose veins of other specified sites
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I87.0,I870,Postthrombotic syndrome
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I87.1,I871,Compression of vein
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I87.2,I872,Venous insufficiency (chronic)(peripheral)
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I87.8,I878,Other specified disorders of veins
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I87.9,I879,"Disorder of vein, unspecified"
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I88.0,I880,Nonspecific mesenteric lymphadenitis
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I88.1,I881,"Chronic lymphadenitis, except mesenteric"
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I89.8,I898,Other specified noninfective disorders of lymphatic vessels and lymph nodes
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I89.9,I899,"Noninfective disorder of lymphatic vessels and lymph nodes, unspecified"
+ltc_017,Disorders of bone density and structure,M80-M85,M80.0,M800,Postmenopausal osteoporosis with pathological fracture
+ltc_017,Disorders of bone density and structure,M80-M85,M80.1,M801,Postoophorectomy osteoporosis with pathological fracture
+ltc_017,Disorders of bone density and structure,M80-M85,M80.2,M802,Osteoporosis of disuse with pathological fracture
+ltc_017,Disorders of bone density and structure,M80-M85,M80.3,M803,Postsurgical malabsorption osteoporosis with pathological fracture
+ltc_017,Disorders of bone density and structure,M80-M85,M80.4,M804,Drug-induced osteoporosis with pathological fracture
+ltc_017,Disorders of bone density and structure,M80-M85,M80.5,M805,Idiopathic osteoporosis with pathological fracture
+ltc_017,Disorders of bone density and structure,M80-M85,M80.8,M808,Other osteoporosis with pathological fracture
+ltc_017,Disorders of bone density and structure,M80-M85,M80.9,M809,Unspecified osteoporosis with pathological fracture
+ltc_017,Disorders of bone density and structure,M80-M85,M81.0,M810,Postmenopausal osteoporosis
+ltc_017,Disorders of bone density and structure,M80-M85,M81.1,M811,Postoophorectomy osteoporosis
+ltc_017,Disorders of bone density and structure,M80-M85,M81.2,M812,Osteoporosis of disuse
+ltc_017,Disorders of bone density and structure,M80-M85,M81.3,M813,Postsurgical malabsorption osteoporosis
+ltc_017,Disorders of bone density and structure,M80-M85,M81.4,M814,Drug-induced osteoporosis
+ltc_017,Disorders of bone density and structure,M80-M85,M81.5,M815,Idiopathic osteoporosis
+ltc_017,Disorders of bone density and structure,M80-M85,M81.6,M816,Localized osteoporosis [Lequesne]
+ltc_017,Disorders of bone density and structure,M80-M85,M81.8,M818,Other osteoporosis
+ltc_017,Disorders of bone density and structure,M80-M85,M81.9,M819,"Osteoporosis, unspecified"
+ltc_017,Disorders of bone density and structure,M80-M85,M82.0,M820,Osteoporosis in multiple myelomatosis
+ltc_017,Disorders of bone density and structure,M80-M85,M82.1,M821,Osteoporosis in endocrine disorders
+ltc_017,Disorders of bone density and structure,M80-M85,M82.8,M828,Osteoporosis in other diseases classified elsewhere
+ltc_017,Disorders of bone density and structure,M80-M85,M83.1,M831,Senile osteomalacia
+ltc_017,Disorders of bone density and structure,M80-M85,M83.2,M832,Adult osteomalacia due to malabsorption
+ltc_017,Disorders of bone density and structure,M80-M85,M83.3,M833,Adult osteomalacia due to malnutrition
+ltc_017,Disorders of bone density and structure,M80-M85,M83.4,M834,Aluminium bone disease
+ltc_017,Disorders of bone density and structure,M80-M85,M83.5,M835,Other drug-induced osteomalacia in adults
+ltc_017,Disorders of bone density and structure,M80-M85,M83.8,M838,Other adult osteomalacia
+ltc_017,Disorders of bone density and structure,M80-M85,M83.9,M839,"Adult osteomalacia, unspecified"
+ltc_017,Disorders of bone density and structure,M80-M85,M84.8,M848,Other disorders of continuity of bone
+ltc_017,Disorders of bone density and structure,M80-M85,M84.9,M849,"Disorder of continuity of bone, unspecified"
+ltc_017,Disorders of bone density and structure,M80-M85,M85.0,M850,"Fibrous dysplasia, monostotic"
+ltc_017,Disorders of bone density and structure,M80-M85,M85.1,M851,Skeletal fluorosis
+ltc_017,Disorders of bone density and structure,M80-M85,M85.2,M852,Hyperostosis of skull
+ltc_017,Disorders of bone density and structure,M80-M85,M85.3,M853,Osteitis condensans
+ltc_017,Disorders of bone density and structure,M80-M85,M85.4,M854,Solitary bone cyst
+ltc_017,Disorders of bone density and structure,M80-M85,M85.5,M855,Aneurysmal bone cyst
+ltc_017,Disorders of bone density and structure,M80-M85,M85.6,M856,Other cyst of bone
+ltc_017,Disorders of bone density and structure,M80-M85,M85.8,M858,Other specified disorders of bone density and structure
+ltc_017,Disorders of bone density and structure,M80-M85,M85.9,M859,"Disorder of bone density and structure, unspecified"
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K80.1,K801,Calculus of gallbladder with other cholecystitis
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K80.2,K802,Calculus of gallbladder without cholecystitis
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K80.3,K803,Calculus of bile duct with cholangitis
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K80.4,K804,Calculus of bile duct with cholecystitis
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K80.5,K805,Calculus of bile duct without cholangitis or cholecystitis
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K81.8,K818,Other cholecystitis
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K81.9,K819,"Cholecystitis, unspecified"
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K82.0,K820,Obstruction of gallbladder
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K82.1,K821,Hydrops of gallbladder
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K82.2,K822,Perforation of gallbladder
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K82.3,K823,Fistula of gallbladder
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K82.4,K824,Cholesterolosis of gallbladder
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K87.0,K870,Disorders of gallbladder and biliary tract in diseases classified elsewhere
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K87.1,K871,Disorders of pancreas in diseases classified elsewhere
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K80.8,K808,Other cholelithiasis
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K81.1,K811,Chronic cholecystitis
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K82.8,K828,Other specified diseases of gallbladder
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K82.9,K829,"Disease of gallbladder, unspecified"
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K83.0,K830,Cholangitis
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K83.1,K831,Obstruction of bile duct
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K83.2,K832,Perforation of bile duct
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K83.3,K833,Fistula of bile duct
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K83.4,K834,Spasm of sphincter of Oddi
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K83.5,K835,Biliary cyst
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K83.8,K838,Other specified diseases of biliary tract
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K83.9,K839,"Disease of biliary tract, unspecified"
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K86.0,K860,Alcohol-induced chronic pancreatitis
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K86.1,K861,Other chronic pancreatitis
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K86.2,K862,Cyst of pancreas
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K86.3,K863,Pseudocyst of pancreas
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K86.8,K868,Other specified diseases of pancreas
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K86.9,K869,"Disease of pancreas, unspecified"
+ltc_019,Disorders of the prostate,N40-N42,N40.X,N40X,Hyperplasia of prostate
+ltc_019,Disorders of the prostate,N40-N42,N41.1,N411,Chronic prostatitis
+ltc_019,Disorders of the prostate,N40-N42,N41.9,N419,"Inflammatory disease of prostate, unspecified"
+ltc_019,Disorders of the prostate,N40-N42,N42.0,N420,Calculus of prostate
+ltc_019,Disorders of the prostate,N40-N42,N42.1,N421,Congestion and haemorrhage of prostate
+ltc_019,Disorders of the prostate,N40-N42,N42.2,N422,Atrophy of prostate
+ltc_019,Disorders of the prostate,N40-N42,N42.3,N423,Dysplasia of prostate
+ltc_019,Disorders of the prostate,N40-N42,N42.8,N428,Other specified disorders of prostate
+ltc_019,Disorders of the prostate,N40-N42,N42.9,N429,"Disorder of prostate, unspecified"
+ltc_020,Disorders of thyroid gland,E00-E07,E03.3,E033,Postinfectious hypothyroidism
+ltc_020,Disorders of thyroid gland,E00-E07,E05.5,E055,Thyroid crisis or storm
+ltc_020,Disorders of thyroid gland,E00-E07,E06.2,E062,Chronic thyroiditis with transient thyrotoxicosis
+ltc_020,Disorders of thyroid gland,E00-E07,E07.1,E071,Dyshormogenetic goitre
+ltc_020,Disorders of thyroid gland,E00-E07,E01.0,E010,Iodine-deficiency-related diffuse (endemic) goitre
+ltc_020,Disorders of thyroid gland,E00-E07,E01.1,E011,Iodine-deficiency-related multinodular (endemic) goitre
+ltc_020,Disorders of thyroid gland,E00-E07,E01.2,E012,"Iodine-deficiency-related (endemic) goitre, unspecified"
+ltc_020,Disorders of thyroid gland,E00-E07,E01.8,E018,Other iodine-deficiency-related thyroid disorders and allied conditions
+ltc_020,Disorders of thyroid gland,E00-E07,E02.X,E02X,Subclinical iodine-deficiency hypothyroidism
+ltc_020,Disorders of thyroid gland,E00-E07,E03.2,E032,Hypothyroidism due to medicaments and other exogenous substances
+ltc_020,Disorders of thyroid gland,E00-E07,E03.4,E034,Atrophy of thyroid (acquired)
+ltc_020,Disorders of thyroid gland,E00-E07,E03.5,E035,Myxoedema coma
+ltc_020,Disorders of thyroid gland,E00-E07,E03.8,E038,Other specified hypothyroidism
+ltc_020,Disorders of thyroid gland,E00-E07,E03.9,E039,"Hypothyroidism, unspecified"
+ltc_020,Disorders of thyroid gland,E00-E07,E04.0,E040,Nontoxic diffuse goitre
+ltc_020,Disorders of thyroid gland,E00-E07,E04.1,E041,Nontoxic single thyroid nodule
+ltc_020,Disorders of thyroid gland,E00-E07,E04.2,E042,Nontoxic multinodular goitre
+ltc_020,Disorders of thyroid gland,E00-E07,E04.8,E048,Other specified nontoxic goitre
+ltc_020,Disorders of thyroid gland,E00-E07,E04.9,E049,"Nontoxic goitre, unspecified"
+ltc_020,Disorders of thyroid gland,E00-E07,E05.0,E050,Thyrotoxicosis with diffuse goitre
+ltc_020,Disorders of thyroid gland,E00-E07,E05.1,E051,Thyrotoxicosis with toxic single thyroid nodule
+ltc_020,Disorders of thyroid gland,E00-E07,E05.2,E052,Thyrotoxicosis with toxic multinodular goitre
+ltc_020,Disorders of thyroid gland,E00-E07,E05.3,E053,Thyrotoxicosis from ectopic thyroid tissue
+ltc_020,Disorders of thyroid gland,E00-E07,E05.4,E054,Thyrotoxicosis factitia
+ltc_020,Disorders of thyroid gland,E00-E07,E05.8,E058,Other thyrotoxicosis
+ltc_020,Disorders of thyroid gland,E00-E07,E05.9,E059,"Thyrotoxicosis, unspecified"
+ltc_020,Disorders of thyroid gland,E00-E07,E06.3,E063,Autoimmune thyroiditis
+ltc_020,Disorders of thyroid gland,E00-E07,E06.4,E064,Drug-induced thyroiditis
+ltc_020,Disorders of thyroid gland,E00-E07,E06.5,E065,Other chronic thyroiditis
+ltc_020,Disorders of thyroid gland,E00-E07,E06.9,E069,"Thyroiditis, unspecified"
+ltc_020,Disorders of thyroid gland,E00-E07,E07.0,E070,Hypersecretion of calcitonin
+ltc_020,Disorders of thyroid gland,E00-E07,E07.8,E078,Other specified disorders of thyroid
+ltc_020,Disorders of thyroid gland,E00-E07,E07.9,E079,"Disorder of thyroid, unspecified"
+ltc_021,Diverticular disease of the intestine,K55-K64,K57.0,K570,Diverticular disease of small intestine with perforation and abscess
+ltc_021,Diverticular disease of the intestine,K55-K64,K57.1,K571,Diverticular disease of small intestine without perforation or abscess
+ltc_021,Diverticular disease of the intestine,K55-K64,K57.2,K572,Diverticular disease of large intestine with perforation and abscess
+ltc_021,Diverticular disease of the intestine,K55-K64,K57.3,K573,Diverticular disease of large intestine without perforation or abscess
+ltc_021,Diverticular disease of the intestine,K55-K64,K57.4,K574,Diverticular disease of both small and large intestine with perforation and abscess
+ltc_021,Diverticular disease of the intestine,K55-K64,K57.5,K575,Diverticular disease of both small and large intestine without perforation or abscess
+ltc_021,Diverticular disease of the intestine,K55-K64,K57.8,K578,"Diverticular disease of intestine, part unspecified, with perforation and abscess"
+ltc_021,Diverticular disease of the intestine,K55-K64,K57.9,K579,"Diverticular disease of intestine, part unspecified, without perforation or abscess"
+ltc_022,Drug or alcohol misuse,F10-F19,F10.2,F102,Mental and behavioural disorders due to use of alcohol: dependence syndrome
+ltc_022,Drug or alcohol misuse,F10-F19,F10.3,F103,Mental and behavioural disorders due to use of alcohol: withdrawal state
+ltc_022,Drug or alcohol misuse,F10-F19,F10.4,F104,Mental and behavioural disorders due to use of alcohol: withdrawal state with delirium
+ltc_022,Drug or alcohol misuse,F10-F19,F10.5,F105,Mental and behavioural disorders due to use of alcohol: psychotic disorder
+ltc_022,Drug or alcohol misuse,F10-F19,F10.6,F106,Mental and behavioural disorders due to use of alcohol: amnesic syndrome
+ltc_022,Drug or alcohol misuse,F10-F19,F10.7,F107,Mental and behavioural disorders due to use of alcohol: residual and late-onset psychotic disorder
+ltc_022,Drug or alcohol misuse,F10-F19,F10.8,F108,Mental and behavioural disorders due to use of alcohol: other mental and behavioural disorders
+ltc_022,Drug or alcohol misuse,F10-F19,F10.9,F109,Mental and behavioural disorders due to use of alcohol: unspecified mental and behavioural disorder
+ltc_022,Drug or alcohol misuse,F10-F19,F11.2,F112,Mental and behavioural disorders due to use of opioids: dependence syndrome
+ltc_022,Drug or alcohol misuse,F10-F19,F11.3,F113,Mental and behavioural disorders due to use of opioids: withdrawal state
+ltc_022,Drug or alcohol misuse,F10-F19,F11.4,F114,Mental and behavioural disorders due to use of opioids: withdrawal state with delirium
+ltc_022,Drug or alcohol misuse,F10-F19,F11.5,F115,Mental and behavioural disorders due to use of opioids: psychotic disorder
+ltc_022,Drug or alcohol misuse,F10-F19,F11.6,F116,Mental and behavioural disorders due to use of opioids: amnesic syndrome
+ltc_022,Drug or alcohol misuse,F10-F19,F11.7,F117,Mental and behavioural disorders due to use of opioids: residual and late-onset psychotic disorder
+ltc_022,Drug or alcohol misuse,F10-F19,F11.8,F118,Mental and behavioural disorders due to use of opioids: other mental and behavioural disorders
+ltc_022,Drug or alcohol misuse,F10-F19,F12.2,F122,Mental and behavioural disorders due to use of cannabinoids: dependence syndrome
+ltc_022,Drug or alcohol misuse,F10-F19,F12.3,F123,Mental and behavioural disorders due to use of cannabinoids: withdrawal state
+ltc_022,Drug or alcohol misuse,F10-F19,F12.4,F124,Mental and behavioural disorders due to use of cannabinoids: withdrawal state with delirium
+ltc_022,Drug or alcohol misuse,F10-F19,F12.5,F125,Mental and behavioural disorders due to use of cannabinoids: psychotic disorder
+ltc_022,Drug or alcohol misuse,F10-F19,F12.6,F126,Mental and behavioural disorders due to use of cannabinoids: amnesic syndrome
+ltc_022,Drug or alcohol misuse,F10-F19,F12.7,F127,Mental and behavioural disorders due to use of cannabinoids: residual and late-onset psychotic disorder
+ltc_022,Drug or alcohol misuse,F10-F19,F13.2,F132,Mental and behavioural disorders due to use of sedatives or hypnotics: dependence syndrome
+ltc_022,Drug or alcohol misuse,F10-F19,F13.3,F133,Mental and behavioural disorders due to use of sedatives or hypnotics: withdrawal state
+ltc_022,Drug or alcohol misuse,F10-F19,F13.4,F134,Mental and behavioural disorders due to use of sedatives or hypnotics: withdrawal state with delirium
+ltc_022,Drug or alcohol misuse,F10-F19,F13.5,F135,Mental and behavioural disorders due to use of sedatives or hypnotics: psychotic disorder
+ltc_022,Drug or alcohol misuse,F10-F19,F13.6,F136,Mental and behavioural disorders due to use of sedatives or hypnotics: amnesic syndrome
+ltc_022,Drug or alcohol misuse,F10-F19,F13.7,F137,Mental and behavioural disorders due to use of sedatives or hypnotics: residual and late-onset psychotic disorder
+ltc_022,Drug or alcohol misuse,F10-F19,F14.2,F142,Mental and behavioural disorders due to use of cocaine: dependence syndrome
+ltc_022,Drug or alcohol misuse,F10-F19,F14.3,F143,Mental and behavioural disorders due to use of cocaine: withdrawal state
+ltc_022,Drug or alcohol misuse,F10-F19,F14.4,F144,Mental and behavioural disorders due to use of cocaine: withdrawal state with delirium
+ltc_022,Drug or alcohol misuse,F10-F19,F14.5,F145,Mental and behavioural disorders due to use of cocaine: psychotic disorder
+ltc_022,Drug or alcohol misuse,F10-F19,F14.6,F146,Mental and behavioural disorders due to use of cocaine: amnesic syndrome
+ltc_022,Drug or alcohol misuse,F10-F19,F14.7,F147,Mental and behavioural disorders due to use of cocaine: residual and late-onset psychotic disorder
+ltc_022,Drug or alcohol misuse,F10-F19,F14.8,F148,Mental and behavioural disorders due to use of cocaine: other mental and behavioural disorders
+ltc_022,Drug or alcohol misuse,F10-F19,F11.9,F119,Mental and behavioural disorders due to use of opioids: unspecified mental and behavioural disorder
+ltc_022,Drug or alcohol misuse,F10-F19,F12.8,F128,Mental and behavioural disorders due to use of cannabinoids: other mental and behavioural disorders
+ltc_022,Drug or alcohol misuse,F10-F19,F12.9,F129,Mental and behavioural disorders due to use of cannabinoids: unspecified mental and behavioural disorder
+ltc_022,Drug or alcohol misuse,F10-F19,F13.8,F138,Mental and behavioural disorders due to use of sedatives or hypnotics: other mental and behavioural disorders
+ltc_022,Drug or alcohol misuse,F10-F19,F13.9,F139,Mental and behavioural disorders due to use of sedatives or hypnotics: unspecified mental and behavioural disorder
+ltc_022,Drug or alcohol misuse,F10-F19,F14.1,F141,Mental and behavioural disorders due to use of cocaine: harmful use
+ltc_022,Drug or alcohol misuse,F10-F19,F14.9,F149,Mental and behavioural disorders due to use of cocaine: unspecified mental and behavioural disorder
+ltc_022,Drug or alcohol misuse,F10-F19,F16.1,F161,Mental and behavioural disorders due to use of hallucinogens: harmful use
+ltc_022,Drug or alcohol misuse,F10-F19,F16.8,F168,Mental and behavioural disorders due to use of hallucinogens: other mental and behavioural disorders
+ltc_022,Drug or alcohol misuse,F10-F19,F16.9,F169,Mental and behavioural disorders due to use of hallucinogens: unspecified mental and behavioural disorder
+ltc_022,Drug or alcohol misuse,F10-F19,F17.1,F171,Mental and behavioural disorders due to use of tobacco: harmful use
+ltc_022,Drug or alcohol misuse,F10-F19,F17.9,F179,Mental and behavioural disorders due to use of tobacco: unspecified mental and behavioural disorder
+ltc_023,Eating disorders,F50-F59,F50.0,F500,Anorexia nervosa
+ltc_023,Eating disorders,F50-F59,F50.1,F501,Atypical anorexia nervosa
+ltc_023,Eating disorders,F50-F59,F50.2,F502,Bulimia nervosa
+ltc_023,Eating disorders,F50-F59,F50.3,F503,Atypical bulimia nervosa
+ltc_023,Eating disorders,F50-F59,F50.4,F504,Overeating associated with other psychological disturbances
+ltc_023,Eating disorders,F50-F59,F50.5,F505,Vomiting associated with other psychological disturbances
+ltc_023,Eating disorders,F50-F59,F50.8,F508,Other eating disorders
+ltc_023,Eating disorders,F50-F59,F50.9,F509,"Eating disorder, unspecified"
+ltc_024,Endometriosis,N80,N80.0,N800,Endometriosis of uterus
+ltc_024,Endometriosis,N80,N80.1,N801,Endometriosis of ovary
+ltc_024,Endometriosis,N80,N80.2,N802,Endometriosis of fallopian tube
+ltc_024,Endometriosis,N80,N80.3,N803,Endometriosis of pelvic peritoneum
+ltc_024,Endometriosis,N80,N80.4,N804,Endometriosis of rectovaginal septum and vagina
+ltc_024,Endometriosis,N80,N80.5,N805,Endometriosis of intestine
+ltc_024,Endometriosis,N80,N80.6,N806,Endometriosis in cutaneous scar
+ltc_024,Endometriosis,N80,N80.8,N808,Other endometriosis
+ltc_024,Endometriosis,N80,N80.9,N809,"Endometriosis, unspecified"
+ltc_025,Epilepsy,G40-G47,G40.0,G400,Localization-related (focal)(partial) idiopathic epilepsy and epileptic syndromes with seizures of localized onset
+ltc_025,Epilepsy,G40-G47,G40.1,G401,Localization-related (focal)(partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures
+ltc_025,Epilepsy,G40-G47,G40.2,G402,Localization-related (focal)(partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures
+ltc_025,Epilepsy,G40-G47,G40.3,G403,Generalized idiopathic epilepsy and epileptic syndromes
+ltc_025,Epilepsy,G40-G47,G40.4,G404,Other generalized epilepsy and epileptic syndromes
+ltc_025,Epilepsy,G40-G47,G40.5,G405,Special epileptic syndromes
+ltc_025,Epilepsy,G40-G47,G40.6,G406,"Grand mal seizures, unspecified (with or without petit mal)"
+ltc_025,Epilepsy,G40-G47,G40.7,G407,"Petit mal, unspecified, without grand mal seizures"
+ltc_025,Epilepsy,G40-G47,G40.8,G408,Other epilepsy
+ltc_025,Epilepsy,G40-G47,G40.9,G409,"Epilepsy, unspecified"
+ltc_026,Glaucoma,H40-H42,H40.1,H401,Primary open-angle glaucoma
+ltc_026,Glaucoma,H40-H42,H40.2,H402,Primary angle-closure glaucoma
+ltc_026,Glaucoma,H40-H42,H40.8,H408,Other glaucoma
+ltc_026,Glaucoma,H40-H42,H40.9,H409,"Glaucoma, unspecified"
+ltc_026,Glaucoma,H40-H42,H42.0,H420,"Glaucoma in endocrine, nutritional and metabolic diseases"
+ltc_026,Glaucoma,H40-H42,H42.8,H428,Glaucoma in other diseases classified elsewhere
+ltc_027,HIV disease,B20-B24,B20.0,B200,HIV disease resulting in mycobacterial infection
+ltc_027,HIV disease,B20-B24,B20.1,B201,HIV disease resulting in other bacterial infections
+ltc_027,HIV disease,B20-B24,B20.2,B202,HIV disease resulting in cytomegaloviral disease
+ltc_027,HIV disease,B20-B24,B20.3,B203,HIV disease resulting in other viral infections
+ltc_027,HIV disease,B20-B24,B20.4,B204,HIV disease resulting in candidiasis
+ltc_027,HIV disease,B20-B24,B20.5,B205,HIV disease resulting in other mycoses
+ltc_027,HIV disease,B20-B24,B20.6,B206,HIV disease resulting in Pneumocystis jirovecii pneumonia
+ltc_027,HIV disease,B20-B24,B20.7,B207,HIV disease resulting in multiple infections
+ltc_027,HIV disease,B20-B24,B20.8,B208,HIV disease resulting in other infectious and parasitic diseases
+ltc_027,HIV disease,B20-B24,B20.9,B209,HIV disease resulting in unspecified infectious or parasitic disease
+ltc_027,HIV disease,B20-B24,B21.0,B210,HIV disease resulting in Kaposi sarcoma
+ltc_027,HIV disease,B20-B24,B21.1,B211,HIV disease resulting in Burkitt lymphoma
+ltc_027,HIV disease,B20-B24,B21.2,B212,HIV disease resulting in other types of non-Hodgkin lymphoma
+ltc_027,HIV disease,B20-B24,B21.3,B213,"HIV disease resulting in other malignant neoplasms of lymphoid, haematopoietic and related tissue"
+ltc_027,HIV disease,B20-B24,B21.7,B217,HIV disease resulting in multiple malignant neoplasms
+ltc_027,HIV disease,B20-B24,B21.8,B218,HIV disease resulting in other malignant neoplasms
+ltc_027,HIV disease,B20-B24,B21.9,B219,HIV disease resulting in unspecified malignant neoplasm
+ltc_027,HIV disease,B20-B24,B22.0,B220,HIV disease resulting in encephalopathy
+ltc_027,HIV disease,B20-B24,B22.1,B221,HIV disease resulting in lymphoid interstitial pneumonitis
+ltc_027,HIV disease,B20-B24,B22.2,B222,HIV disease resulting in wasting syndrome
+ltc_027,HIV disease,B20-B24,B22.7,B227,HIV disease resulting in multiple diseases classified elsewhere
+ltc_027,HIV disease,B20-B24,B23.1,B231,HIV disease resulting in (persistent) generalized lymphadenopathy
+ltc_027,HIV disease,B20-B24,B23.2,B232,"HIV disease resulting in haematological and immunological abnormalities, not elsewhere classified"
+ltc_027,HIV disease,B20-B24,B23.8,B238,HIV disease resulting in other specified conditions
+ltc_027,HIV disease,B20-B24,B24.X,B24X,Unspecified human immunodeficiency virus [HIV] disease
+ltc_028,Hyperparathyroidism,E20-E35,E21.0,E210,Primary hyperparathyroidism
+ltc_028,Hyperparathyroidism,E20-E35,E21.1,E211,"Secondary hyperparathyroidism, not elsewhere classified"
+ltc_028,Hyperparathyroidism,E20-E35,E21.2,E212,Other hyperparathyroidism
+ltc_028,Hyperparathyroidism,E20-E35,E21.3,E213,"Hyperparathyroidism, unspecified"
+ltc_028,Hyperparathyroidism,E20-E35,E21.4,E214,Other specified disorders of parathyroid gland
+ltc_028,Hyperparathyroidism,E20-E35,E21.5,E215,"Disorder of parathyroid gland, unspecified"
+ltc_029,Hypertensive diseases,I10-I15,I11.0,I110,Hypertensive heart disease with (congestive) heart failure
+ltc_029,Hypertensive diseases,I10-I15,I12.0,I120,Hypertensive renal disease with renal failure
+ltc_029,Hypertensive diseases,I10-I15,I13.0,I130,Hypertensive heart and renal disease with (congestive) heart failure
+ltc_029,Hypertensive diseases,I10-I15,I13.1,I131,Hypertensive heart and renal disease with renal failure
+ltc_029,Hypertensive diseases,I10-I15,I13.2,I132,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure
+ltc_029,Hypertensive diseases,I10-I15,I13.9,I139,"Hypertensive heart and renal disease, unspecified"
+ltc_029,Hypertensive diseases,I10-I15,I15.1,I151,Hypertension secondary to other renal disorders
+ltc_029,Hypertensive diseases,I10-I15,I15.2,I152,Hypertension secondary to endocrine disorders
+ltc_029,Hypertensive diseases,I10-I15,I15.8,I158,Other secondary hypertension
+ltc_029,Hypertensive diseases,I10-I15,I15.9,I159,"Secondary hypertension, unspecified"
+ltc_029,Hypertensive diseases,I10-I15,I10.X,I10X,Essential (primary) hypertension
+ltc_029,Hypertensive diseases,I10-I15,I11.9,I119,Hypertensive heart disease without (congestive) heart failure
+ltc_029,Hypertensive diseases,I10-I15,I12.9,I129,Hypertensive renal disease without renal failure
+ltc_029,Hypertensive diseases,I10-I15,I15.0,I150,Renovascular hypertension
+ltc_030,Hypoparathyroidism,E20-E35,E20.0,E200,Idiopathic hypoparathyroidism
+ltc_030,Hypoparathyroidism,E20-E35,E20.1,E201,Pseudohypoparathyroidism
+ltc_030,Hypoparathyroidism,E20-E35,E20.8,E208,Other hypoparathyroidism
+ltc_030,Hypoparathyroidism,E20-E35,E20.9,E209,"Hypoparathyroidism, unspecified"
+ltc_031,In situ neoplasms,D00-D09,D00.0,D000,"Lip, oral cavity and pharynx"
+ltc_031,In situ neoplasms,D00-D09,D00.1,D001,Oesophagus
+ltc_031,In situ neoplasms,D00-D09,D00.2,D002,Stomach
+ltc_031,In situ neoplasms,D00-D09,D01.0,D010,Colon
+ltc_031,In situ neoplasms,D00-D09,D01.1,D011,Rectosigmoid junction
+ltc_031,In situ neoplasms,D00-D09,D01.2,D012,Rectum
+ltc_031,In situ neoplasms,D00-D09,D01.3,D013,Anus and anal canal
+ltc_031,In situ neoplasms,D00-D09,D01.4,D014,Other and unspecified parts of intestine
+ltc_031,In situ neoplasms,D00-D09,D01.5,D015,"Liver, gallbladder and bile ducts"
+ltc_031,In situ neoplasms,D00-D09,D01.7,D017,Other specified digestive organs
+ltc_031,In situ neoplasms,D00-D09,D01.9,D019,"Digestive organ, unspecified"
+ltc_031,In situ neoplasms,D00-D09,D02.0,D020,Larynx
+ltc_031,In situ neoplasms,D00-D09,D02.1,D021,Trachea
+ltc_031,In situ neoplasms,D00-D09,D02.2,D022,Bronchus and lung
+ltc_031,In situ neoplasms,D00-D09,D02.3,D023,Other parts of respiratory system
+ltc_031,In situ neoplasms,D00-D09,D02.4,D024,"Respiratory system, unspecified"
+ltc_031,In situ neoplasms,D00-D09,D03.0,D030,Melanoma in situ of lip
+ltc_031,In situ neoplasms,D00-D09,D03.1,D031,"Melanoma in situ of eyelid, including canthus"
+ltc_031,In situ neoplasms,D00-D09,D03.2,D032,Melanoma in situ of ear and external auricular canal
+ltc_031,In situ neoplasms,D00-D09,D03.3,D033,Melanoma in situ of other and unspecified parts of face
+ltc_031,In situ neoplasms,D00-D09,D03.4,D034,Melanoma in situ of scalp and neck
+ltc_031,In situ neoplasms,D00-D09,D03.5,D035,Melanoma in situ of trunk
+ltc_031,In situ neoplasms,D00-D09,D03.6,D036,"Melanoma in situ of upper limb, including shoulder"
+ltc_031,In situ neoplasms,D00-D09,D03.7,D037,"Melanoma in situ of lower limb, including hip"
+ltc_031,In situ neoplasms,D00-D09,D03.8,D038,Melanoma in situ of other sites
+ltc_031,In situ neoplasms,D00-D09,D03.9,D039,"Melanoma in situ, unspecified"
+ltc_031,In situ neoplasms,D00-D09,D04.0,D040,Skin of lip
+ltc_031,In situ neoplasms,D00-D09,D04.1,D041,"Skin of eyelid, including canthus"
+ltc_031,In situ neoplasms,D00-D09,D04.2,D042,Skin of ear and external auricular canal
+ltc_031,In situ neoplasms,D00-D09,D04.3,D043,Skin of other and unspecified parts of face
+ltc_031,In situ neoplasms,D00-D09,D04.4,D044,Skin of scalp and neck
+ltc_031,In situ neoplasms,D00-D09,D04.5,D045,Skin of trunk
+ltc_031,In situ neoplasms,D00-D09,D04.6,D046,"Skin of upper limb, including shoulder"
+ltc_031,In situ neoplasms,D00-D09,D04.7,D047,"Skin of lower limb, including hip"
+ltc_031,In situ neoplasms,D00-D09,D04.8,D048,Skin of other sites
+ltc_031,In situ neoplasms,D00-D09,D04.9,D049,"Skin, unspecified"
+ltc_031,In situ neoplasms,D00-D09,D05.0,D050,Lobular carcinoma in situ
+ltc_031,In situ neoplasms,D00-D09,D05.1,D051,Intraductal carcinoma in situ
+ltc_031,In situ neoplasms,D00-D09,D05.7,D057,Other carcinoma in situ of breast
+ltc_031,In situ neoplasms,D00-D09,D05.9,D059,"Carcinoma in situ of breast, unspecified"
+ltc_031,In situ neoplasms,D00-D09,D06.0,D060,Endocervix
+ltc_031,In situ neoplasms,D00-D09,D06.1,D061,Exocervix
+ltc_031,In situ neoplasms,D00-D09,D06.7,D067,Other parts of cervix
+ltc_031,In situ neoplasms,D00-D09,D06.9,D069,"Cervix, unspecified"
+ltc_031,In situ neoplasms,D00-D09,D07.0,D070,Endometrium
+ltc_031,In situ neoplasms,D00-D09,D07.1,D071,Vulva
+ltc_031,In situ neoplasms,D00-D09,D07.2,D072,Vagina
+ltc_031,In situ neoplasms,D00-D09,D07.3,D073,Other and unspecified female genital organs
+ltc_031,In situ neoplasms,D00-D09,D07.4,D074,Penis
+ltc_031,In situ neoplasms,D00-D09,D07.5,D075,Prostate
+ltc_031,In situ neoplasms,D00-D09,D07.6,D076,Other and unspecified male genital organs
+ltc_031,In situ neoplasms,D00-D09,D09.0,D090,Bladder
+ltc_031,In situ neoplasms,D00-D09,D09.1,D091,Other and unspecified urinary organs
+ltc_031,In situ neoplasms,D00-D09,D09.2,D092,Eye
+ltc_031,In situ neoplasms,D00-D09,D09.3,D093,Thyroid and other endocrine glands
+ltc_031,In situ neoplasms,D00-D09,D09.7,D097,Carcinoma in situ of other specified sites
+ltc_031,In situ neoplasms,D00-D09,D09.9,D099,"Carcinoma in situ, unspecified"
+ltc_032,Inflammatory diseases of the female pelvic organs,N70-N77 specific inclusions,N74.8,N748,Female pelvic inflammatory disorders in other diseases classified elsewhere
+ltc_032,Inflammatory diseases of the female pelvic organs,N70-N77 specific inclusions,N70.1,N701,Chronic salpingitis and oophoritis
+ltc_032,Inflammatory diseases of the female pelvic organs,N70-N77 specific inclusions,N70.9,N709,"Salpingitis and oophoritis, unspecified"
+ltc_032,Inflammatory diseases of the female pelvic organs,N70-N77 specific inclusions,N71.1,N711,Chronic inflammatory disease of uterus
+ltc_032,Inflammatory diseases of the female pelvic organs,N70-N77 specific inclusions,N71.9,N719,"Inflammatory disease of uterus, unspecified"
+ltc_032,Inflammatory diseases of the female pelvic organs,N70-N77 specific inclusions,N73.1,N731,Chronic parametritis and pelvic cellulitis
+ltc_032,Inflammatory diseases of the female pelvic organs,N70-N77 specific inclusions,N73.4,N734,Female chronic pelvic peritonitis
+ltc_032,Inflammatory diseases of the female pelvic organs,N70-N77 specific inclusions,N73.6,N736,Female pelvic peritoneal adhesions
+ltc_032,Inflammatory diseases of the female pelvic organs,N70-N77 specific inclusions,N73.8,N738,Other specified female pelvic inflammatory diseases
+ltc_032,Inflammatory diseases of the female pelvic organs,N70-N77 specific inclusions,N73.9,N739,"Female pelvic inflammatory disease, unspecified"
+ltc_032,Inflammatory diseases of the female pelvic organs,N70-N77 specific inclusions,N76.1,N761,Subacute and chronic vaginitis
+ltc_032,Inflammatory diseases of the female pelvic organs,N70-N77 specific inclusions,N76.3,N763,Subacute and chronic vulvitis
+ltc_033,Inflammatory polyarthropathies,M05-M14,M14.1,M141,Crystal arthropathy in other metabolic disorders
+ltc_033,Inflammatory polyarthropathies,M05-M14,M14.2,M142,Diabetic arthropathy
+ltc_033,Inflammatory polyarthropathies,M05-M14,M14.3,M143,Lipoid dermatoarthritis
+ltc_033,Inflammatory polyarthropathies,M05-M14,M14.4,M144,Arthropathy in amyloidosis
+ltc_033,Inflammatory polyarthropathies,M05-M14,M14.5,M145,"Arthropathies in other endocrine, nutritional and metabolic disorders"
+ltc_033,Inflammatory polyarthropathies,M05-M14,M14.6,M146,Neuropathic arthropathy
+ltc_033,Inflammatory polyarthropathies,M05-M14,M14.8,M148,Arthropathies in other specified diseases classified elsewhere
+ltc_033,Inflammatory polyarthropathies,M05-M14,M05.0,M050,Felty syndrome
+ltc_033,Inflammatory polyarthropathies,M05-M14,M05.1,M051,Rheumatoid lung disease
+ltc_033,Inflammatory polyarthropathies,M05-M14,M05.2,M052,Rheumatoid vasculitis
+ltc_033,Inflammatory polyarthropathies,M05-M14,M05.3,M053,Rheumatoid arthritis with involvement of other organs and systems
+ltc_033,Inflammatory polyarthropathies,M05-M14,M05.8,M058,Other seropositive rheumatoid arthritis
+ltc_033,Inflammatory polyarthropathies,M05-M14,M05.9,M059,"Seropositive rheumatoid arthritis, unspecified"
+ltc_033,Inflammatory polyarthropathies,M05-M14,M06.0,M060,Seronegative rheumatoid arthritis
+ltc_033,Inflammatory polyarthropathies,M05-M14,M06.1,M061,Adult-onset Still disease
+ltc_033,Inflammatory polyarthropathies,M05-M14,M06.2,M062,Rheumatoid bursitis
+ltc_033,Inflammatory polyarthropathies,M05-M14,M06.3,M063,Rheumatoid nodule
+ltc_033,Inflammatory polyarthropathies,M05-M14,M06.4,M064,Inflammatory polyarthropathy
+ltc_033,Inflammatory polyarthropathies,M05-M14,M06.8,M068,Other specified rheumatoid arthritis
+ltc_033,Inflammatory polyarthropathies,M05-M14,M06.9,M069,"Rheumatoid arthritis, unspecified"
+ltc_033,Inflammatory polyarthropathies,M05-M14,M07.0,M070,Distal interphalangeal psoriatic arthropathy
+ltc_033,Inflammatory polyarthropathies,M05-M14,M07.1,M071,Arthritis mutilans
+ltc_033,Inflammatory polyarthropathies,M05-M14,M07.2,M072,Psoriatic spondylitis
+ltc_033,Inflammatory polyarthropathies,M05-M14,M07.3,M073,Other psoriatic arthropathies
+ltc_033,Inflammatory polyarthropathies,M05-M14,M07.4,M074,Arthropathy in Crohn disease
+ltc_033,Inflammatory polyarthropathies,M05-M14,M07.5,M075,Arthropathy in ulcerative colitis
+ltc_033,Inflammatory polyarthropathies,M05-M14,M07.6,M076,Other enteropathic arthropathies
+ltc_033,Inflammatory polyarthropathies,M05-M14,M10.0,M100,Idiopathic gout
+ltc_033,Inflammatory polyarthropathies,M05-M14,M10.1,M101,Lead-induced gout
+ltc_033,Inflammatory polyarthropathies,M05-M14,M10.2,M102,Drug-induced gout
+ltc_033,Inflammatory polyarthropathies,M05-M14,M10.3,M103,Gout due to impairment of renal function
+ltc_033,Inflammatory polyarthropathies,M05-M14,M10.4,M104,Other secondary gout
+ltc_033,Inflammatory polyarthropathies,M05-M14,M10.9,M109,"Gout, unspecified"
+ltc_033,Inflammatory polyarthropathies,M05-M14,M11.0,M110,Hydroxyapatite deposition disease
+ltc_033,Inflammatory polyarthropathies,M05-M14,M11.2,M112,Other chondrocalcinosis
+ltc_033,Inflammatory polyarthropathies,M05-M14,M11.8,M118,Other specified crystal arthropathies
+ltc_033,Inflammatory polyarthropathies,M05-M14,M11.9,M119,"Crystal arthropathy, unspecified"
+ltc_033,Inflammatory polyarthropathies,M05-M14,M12.0,M120,Chronic postrheumatic arthropathy [Jaccoud]
+ltc_033,Inflammatory polyarthropathies,M05-M14,M12.1,M121,Kaschin-Beck disease
+ltc_033,Inflammatory polyarthropathies,M05-M14,M12.2,M122,"Villonodular synovitis, pigmented"
+ltc_033,Inflammatory polyarthropathies,M05-M14,M12.3,M123,Palindromic rheumatism
+ltc_033,Inflammatory polyarthropathies,M05-M14,M12.4,M124,Intermittent hydrarthrosis
+ltc_033,Inflammatory polyarthropathies,M05-M14,M12.8,M128,"Other specified arthropathies, not elsewhere classified"
+ltc_033,Inflammatory polyarthropathies,M05-M14,M13.0,M130,"Polyarthritis, unspecified"
+ltc_033,Inflammatory polyarthropathies,M05-M14,M13.1,M131,"Monoarthritis, not elsewhere classified"
+ltc_033,Inflammatory polyarthropathies,M05-M14,M13.8,M138,Other specified arthritis
+ltc_033,Inflammatory polyarthropathies,M05-M14,M13.9,M139,"Arthritis, unspecified"
+ltc_034,Iron deficiency anaemia,D50,D50.0,D500,Iron deficiency anaemia secondary to blood loss (chronic)
+ltc_034,Iron deficiency anaemia,D50,D50.1,D501,Sideropenic dysphagia
+ltc_034,Iron deficiency anaemia,D50,D50.8,D508,Other iron deficiency anaemias
+ltc_034,Iron deficiency anaemia,D50,D50.9,D509,"Iron deficiency anaemia, unspecified"
+ltc_035,Irritable bowel syndrome,K55-K64,K58.0,K580,Irritable bowel syndrome with diarrhoea
+ltc_035,Irritable bowel syndrome,K55-K64,K58.9,K589,Irritable bowel syndrome without diarrhoea
+ltc_036,Ischaemic heart diseases,I20-I25,I20.0,I200,Unstable angina
+ltc_036,Ischaemic heart diseases,I20-I25,I20.1,I201,Angina pectoris with documented spasm
+ltc_036,Ischaemic heart diseases,I20-I25,I20.8,I208,Other forms of angina pectoris
+ltc_036,Ischaemic heart diseases,I20-I25,I20.9,I209,"Angina pectoris, unspecified"
+ltc_036,Ischaemic heart diseases,I20-I25,I25.0,I250,"Atherosclerotic cardiovascular disease, so described"
+ltc_036,Ischaemic heart diseases,I20-I25,I25.1,I251,Atherosclerotic heart disease
+ltc_036,Ischaemic heart diseases,I20-I25,I25.2,I252,Old myocardial infarction
+ltc_036,Ischaemic heart diseases,I20-I25,I25.3,I253,Aneurysm of heart
+ltc_036,Ischaemic heart diseases,I20-I25,I25.4,I254,Coronary artery aneurysm and dissection
+ltc_036,Ischaemic heart diseases,I20-I25,I25.5,I255,Ischaemic cardiomyopathy
+ltc_036,Ischaemic heart diseases,I20-I25,I25.6,I256,Silent myocardial ischaemia
+ltc_036,Ischaemic heart diseases,I20-I25,I25.8,I258,Other forms of chronic ischaemic heart disease
+ltc_036,Ischaemic heart diseases,I20-I25,I25.9,I259,"Chronic ischaemic heart disease, unspecified"
+ltc_037,Malignant neoplasms,C00-C14,C00.0,C000,Malignant neoplasm of external upper lip
+ltc_037,Malignant neoplasms,C00-C14,C00.1,C001,Malignant neoplasm of external lower lip
+ltc_037,Malignant neoplasms,C00-C14,C00.2,C002,"Malignant neoplasm of external lip, unspecified"
+ltc_037,Malignant neoplasms,C00-C14,C00.3,C003,"Malignant neoplasm of upper lip, inner aspect"
+ltc_037,Malignant neoplasms,C00-C14,C00.4,C004,"Malignant neoplasm of lower lip, inner aspect"
+ltc_037,Malignant neoplasms,C00-C14,C00.5,C005,"Malignant neoplasm of lip, unspecified, inner aspect"
+ltc_037,Malignant neoplasms,C00-C14,C00.6,C006,Malignant neoplasm of commissure of lip
+ltc_037,Malignant neoplasms,C00-C14,C00.8,C008,Malignant neoplasm of overlapping sites of lip
+ltc_037,Malignant neoplasms,C00-C14,C00.9,C009,"Malignant neoplasm of lip, unspecified"
+ltc_037,Malignant neoplasms,C00-C14,C01.X,C01X,Malignant neoplasm of base of tongue
+ltc_037,Malignant neoplasms,C00-C14,C02.0,C020,Malignant neoplasm of dorsal surface of tongue
+ltc_037,Malignant neoplasms,C00-C14,C02.1,C021,Malignant neoplasm of border of tongue
+ltc_037,Malignant neoplasms,C00-C14,C02.2,C022,Malignant neoplasm of ventral surface of tongue
+ltc_037,Malignant neoplasms,C00-C14,C02.3,C023,"Malignant neoplasm of anterior two-thirds of tongue, part unspecified"
+ltc_037,Malignant neoplasms,C00-C14,C02.4,C024,Malignant neoplasm of lingual tonsil
+ltc_037,Malignant neoplasms,C00-C14,C02.8,C028,Malignant neoplasm of overlapping sites of tongue
+ltc_037,Malignant neoplasms,C00-C14,C02.9,C029,"Malignant neoplasm of tongue, unspecified"
+ltc_037,Malignant neoplasms,C00-C14,C03.0,C030,Malignant neoplasm of upper gum
+ltc_037,Malignant neoplasms,C00-C14,C03.1,C031,Malignant neoplasm of lower gum
+ltc_037,Malignant neoplasms,C00-C14,C03.9,C039,"Malignant neoplasm of gum, unspecified"
+ltc_037,Malignant neoplasms,C00-C14,C04.0,C040,Malignant neoplasm of anterior floor of mouth
+ltc_037,Malignant neoplasms,C00-C14,C04.1,C041,Malignant neoplasm of lateral floor of mouth
+ltc_037,Malignant neoplasms,C00-C14,C04.8,C048,Malignant neoplasm of overlapping sites of floor of mouth
+ltc_037,Malignant neoplasms,C00-C14,C04.9,C049,"Malignant neoplasm of floor of mouth, unspecified"
+ltc_037,Malignant neoplasms,C00-C14,C05.0,C050,Malignant neoplasm of hard palate
+ltc_037,Malignant neoplasms,C00-C14,C05.1,C051,Malignant neoplasm of soft palate
+ltc_037,Malignant neoplasms,C00-C14,C05.2,C052,Malignant neoplasm of uvula
+ltc_037,Malignant neoplasms,C00-C14,C05.8,C058,Malignant neoplasm of overlapping sites of palate
+ltc_037,Malignant neoplasms,C00-C14,C05.9,C059,"Malignant neoplasm of palate, unspecified"
+ltc_037,Malignant neoplasms,C00-C14,C06.0,C060,Malignant neoplasm of cheek mucosa
+ltc_037,Malignant neoplasms,C00-C14,C06.1,C061,Malignant neoplasm of vestibule of mouth
+ltc_037,Malignant neoplasms,C00-C14,C06.2,C062,Malignant neoplasm of retromolar area
+ltc_037,Malignant neoplasms,C00-C14,C06.8,C068,Malignant neoplasm of overlapping sites of other and unspecified parts of mouth
+ltc_037,Malignant neoplasms,C00-C14,C06.9,C069,"Malignant neoplasm of mouth, unspecified"
+ltc_037,Malignant neoplasms,C00-C14,C07.X,C07X,Malignant neoplasm of parotid gland
+ltc_037,Malignant neoplasms,C00-C14,C08.0,C080,Malignant neoplasm of submandibular gland
+ltc_037,Malignant neoplasms,C00-C14,C08.1,C081,Malignant neoplasm of sublingual gland
+ltc_037,Malignant neoplasms,C00-C14,C08.8,C088,Malignant neoplasm of overlapping sites of major salivary glands
+ltc_037,Malignant neoplasms,C00-C14,C08.9,C089,"Malignant neoplasm of major salivary gland, unspecified"
+ltc_037,Malignant neoplasms,C00-C14,C09.0,C090,Malignant neoplasm of tonsillar fossa
+ltc_037,Malignant neoplasms,C00-C14,C09.1,C091,Malignant neoplasm of tonsillar pillar (anterior) (posterior)
+ltc_037,Malignant neoplasms,C00-C14,C09.8,C098,Malignant neoplasm of overlapping sites of tonsil
+ltc_037,Malignant neoplasms,C00-C14,C09.9,C099,"Malignant neoplasm of tonsil, unspecified"
+ltc_037,Malignant neoplasms,C00-C14,C10.0,C100,Malignant neoplasm of vallecula
+ltc_037,Malignant neoplasms,C00-C14,C10.1,C101,Malignant neoplasm of anterior surface of epiglottis
+ltc_037,Malignant neoplasms,C00-C14,C10.2,C102,Malignant neoplasm of lateral wall of oropharynx
+ltc_037,Malignant neoplasms,C00-C14,C10.3,C103,Malignant neoplasm of posterior wall of oropharynx
+ltc_037,Malignant neoplasms,C00-C14,C10.4,C104,Malignant neoplasm of branchial cleft
+ltc_037,Malignant neoplasms,C00-C14,C10.8,C108,Malignant neoplasm of overlapping sites of oropharynx
+ltc_037,Malignant neoplasms,C00-C14,C10.9,C109,"Malignant neoplasm of oropharynx, unspecified"
+ltc_037,Malignant neoplasms,C00-C14,C11.0,C110,Malignant neoplasm of superior wall of nasopharynx
+ltc_037,Malignant neoplasms,C00-C14,C11.1,C111,Malignant neoplasm of posterior wall of nasopharynx
+ltc_037,Malignant neoplasms,C00-C14,C11.2,C112,Malignant neoplasm of lateral wall of nasopharynx
+ltc_037,Malignant neoplasms,C00-C14,C11.3,C113,Malignant neoplasm of anterior wall of nasopharynx
+ltc_037,Malignant neoplasms,C00-C14,C11.8,C118,Malignant neoplasm of overlapping sites of nasopharynx
+ltc_037,Malignant neoplasms,C00-C14,C11.9,C119,"Malignant neoplasm of nasopharynx, unspecified"
+ltc_037,Malignant neoplasms,C00-C14,C12.X,C12X,Malignant neoplasm of pyriform sinus
+ltc_037,Malignant neoplasms,C00-C14,C13.0,C130,Malignant neoplasm of postcricoid region
+ltc_037,Malignant neoplasms,C00-C14,C13.1,C131,"Malignant neoplasm of aryepiglottic fold, hypopharyngeal aspect"
+ltc_037,Malignant neoplasms,C00-C14,C13.2,C132,Malignant neoplasm of posterior wall of hypopharynx
+ltc_037,Malignant neoplasms,C00-C14,C13.8,C138,Malignant neoplasm of overlapping sites of hypopharynx
+ltc_037,Malignant neoplasms,C00-C14,C13.9,C139,"Malignant neoplasm of hypopharynx, unspecified"
+ltc_037,Malignant neoplasms,C00-C14,C14.0,C140,"Malignant neoplasm of pharynx, unspecified"
+ltc_037,Malignant neoplasms,C00-C14,C14.1,C141,Malignant neoplasm of laryngopharynx
+ltc_037,Malignant neoplasms,C00-C14,C14.2,C142,Malignant neoplasm of Waldeyer ring
+ltc_037,Malignant neoplasms,C00-C14,C14.8,C148,"Malignant neoplasm of overlapping sites of lip, oral cavity and pharynx"
+ltc_037,Malignant neoplasms,C15-C26,C15.0,C150,Malignant neoplasm of cervical part of oesophagus
+ltc_037,Malignant neoplasms,C15-C26,C15.1,C151,Malignant neoplasm of thoracic part of oesophagus
+ltc_037,Malignant neoplasms,C15-C26,C15.2,C152,Malignant neoplasm of abdominal part of oesophagus
+ltc_037,Malignant neoplasms,C15-C26,C15.3,C153,Malignant neoplasm of upper third of oesophagus
+ltc_037,Malignant neoplasms,C15-C26,C15.4,C154,Malignant neoplasm of middle third of oesophagus
+ltc_037,Malignant neoplasms,C15-C26,C15.5,C155,Malignant neoplasm of lower third of oesophagus
+ltc_037,Malignant neoplasms,C15-C26,C15.8,C158,Malignant neoplasm of overlapping sites of oesophagus
+ltc_037,Malignant neoplasms,C15-C26,C15.9,C159,"Malignant neoplasm of oesophagus, unspecified"
+ltc_037,Malignant neoplasms,C15-C26,C16.0,C160,Malignant neoplasm of cardia
+ltc_037,Malignant neoplasms,C15-C26,C16.1,C161,Malignant neoplasm of fundus of stomach
+ltc_037,Malignant neoplasms,C15-C26,C16.2,C162,Malignant neoplasm of body of stomach
+ltc_037,Malignant neoplasms,C15-C26,C16.3,C163,Malignant neoplasm of pyloric antrum
+ltc_037,Malignant neoplasms,C15-C26,C16.4,C164,Malignant neoplasm of pylorus
+ltc_037,Malignant neoplasms,C15-C26,C16.5,C165,"Malignant neoplasm of lesser curvature of stomach, unspecified"
+ltc_037,Malignant neoplasms,C15-C26,C16.6,C166,"Malignant neoplasm of greater curvature of stomach, unspecified"
+ltc_037,Malignant neoplasms,C15-C26,C16.8,C168,Malignant neoplasm of overlapping sites of stomach
+ltc_037,Malignant neoplasms,C15-C26,C16.9,C169,"Malignant neoplasm of stomach, unspecified"
+ltc_037,Malignant neoplasms,C15-C26,C17.0,C170,Malignant neoplasm of duodenum
+ltc_037,Malignant neoplasms,C15-C26,C17.1,C171,Malignant neoplasm of jejunum
+ltc_037,Malignant neoplasms,C15-C26,C17.2,C172,Malignant neoplasm of ileum
+ltc_037,Malignant neoplasms,C15-C26,C17.3,C173,Malignant neoplasm of Meckel diverticulum
+ltc_037,Malignant neoplasms,C15-C26,C17.8,C178,Malignant neoplasm of overlapping sites of small intestine
+ltc_037,Malignant neoplasms,C15-C26,C17.9,C179,"Malignant neoplasm of small intestine, unspecified"
+ltc_037,Malignant neoplasms,C15-C26,C18.0,C180,Malignant neoplasm of caecum
+ltc_037,Malignant neoplasms,C15-C26,C18.1,C181,Malignant neoplasm of appendix
+ltc_037,Malignant neoplasms,C15-C26,C18.2,C182,Malignant neoplasm of ascending colon
+ltc_037,Malignant neoplasms,C15-C26,C18.3,C183,Malignant neoplasm of hepatic flexure
+ltc_037,Malignant neoplasms,C15-C26,C18.4,C184,Malignant neoplasm of transverse colon
+ltc_037,Malignant neoplasms,C15-C26,C18.5,C185,Malignant neoplasm of splenic flexure
+ltc_037,Malignant neoplasms,C15-C26,C18.6,C186,Malignant neoplasm of descending colon
+ltc_037,Malignant neoplasms,C15-C26,C18.7,C187,Malignant neoplasm of sigmoid colon
+ltc_037,Malignant neoplasms,C15-C26,C18.8,C188,Malignant neoplasm of overlapping sites of colon
+ltc_037,Malignant neoplasms,C15-C26,C18.9,C189,"Malignant neoplasm of colon, unspecified"
+ltc_037,Malignant neoplasms,C15-C26,C19.X,C19X,Malignant neoplasm of rectosigmoid junction
+ltc_037,Malignant neoplasms,C15-C26,C20.X,C20X,Malignant neoplasm of rectum
+ltc_037,Malignant neoplasms,C15-C26,C21.0,C210,"Malignant neoplasm of anus, unspecified"
+ltc_037,Malignant neoplasms,C15-C26,C21.1,C211,Malignant neoplasm of anal canal
+ltc_037,Malignant neoplasms,C15-C26,C21.2,C212,Malignant neoplasm of cloacogenic zone
+ltc_037,Malignant neoplasms,C15-C26,C21.8,C218,"Malignant neoplasm of overlapping sites of rectum, anus and anal canal"
+ltc_037,Malignant neoplasms,C15-C26,C22.0,C220,Liver cell carcinoma
+ltc_037,Malignant neoplasms,C15-C26,C22.1,C221,Intrahepatic bile duct carcinoma
+ltc_037,Malignant neoplasms,C15-C26,C22.2,C222,Hepatoblastoma
+ltc_037,Malignant neoplasms,C15-C26,C22.3,C223,Angiosarcoma of liver
+ltc_037,Malignant neoplasms,C15-C26,C22.4,C224,Other sarcomas of liver
+ltc_037,Malignant neoplasms,C15-C26,C22.7,C227,Other specified carcinomas of liver
+ltc_037,Malignant neoplasms,C15-C26,C22.9,C229,"Malignant neoplasm of liver, unspecified"
+ltc_037,Malignant neoplasms,C15-C26,C23.X,C23X,Malignant neoplasm of gallbladder
+ltc_037,Malignant neoplasms,C15-C26,C24.0,C240,Malignant neoplasm of extrahepatic bile duct
+ltc_037,Malignant neoplasms,C15-C26,C24.1,C241,Malignant neoplasm of ampulla of Vater
+ltc_037,Malignant neoplasms,C15-C26,C24.8,C248,Malignant neoplasm of overlapping sites of biliary tract
+ltc_037,Malignant neoplasms,C15-C26,C24.9,C249,"Malignant neoplasm of biliary tract, unspecified"
+ltc_037,Malignant neoplasms,C15-C26,C25.0,C250,Malignant neoplasm of head of pancreas
+ltc_037,Malignant neoplasms,C15-C26,C25.1,C251,Malignant neoplasm of body of pancreas
+ltc_037,Malignant neoplasms,C15-C26,C25.2,C252,Malignant neoplasm of tail of pancreas
+ltc_037,Malignant neoplasms,C15-C26,C25.3,C253,Malignant neoplasm of pancreatic duct
+ltc_037,Malignant neoplasms,C15-C26,C25.4,C254,Malignant neoplasm of endocrine pancreas
+ltc_037,Malignant neoplasms,C15-C26,C25.7,C257,Malignant neoplasm of other parts of pancreas
+ltc_037,Malignant neoplasms,C15-C26,C25.8,C258,Malignant neoplasm of overlapping sites of pancreas
+ltc_037,Malignant neoplasms,C15-C26,C25.9,C259,"Malignant neoplasm of pancreas, unspecified"
+ltc_037,Malignant neoplasms,C15-C26,C26.0,C260,"Malignant neoplasm of intestinal tract, part unspecified"
+ltc_037,Malignant neoplasms,C15-C26,C26.1,C261,Malignant neoplasm of spleen
+ltc_037,Malignant neoplasms,C15-C26,C26.8,C268,Malignant neoplasm of overlapping sites of digestive system
+ltc_037,Malignant neoplasms,C15-C26,C26.9,C269,Malignant neoplasm of ill-defined sites within the digestive system
+ltc_037,Malignant neoplasms,C30-C39,C30.0,C300,Malignant neoplasm of nasal cavity
+ltc_037,Malignant neoplasms,C30-C39,C30.1,C301,Malignant neoplasm of middle ear
+ltc_037,Malignant neoplasms,C30-C39,C31.0,C310,Malignant neoplasm of maxillary sinus
+ltc_037,Malignant neoplasms,C30-C39,C31.1,C311,Malignant neoplasm of ethmoidal sinus
+ltc_037,Malignant neoplasms,C30-C39,C31.2,C312,Malignant neoplasm of frontal sinus
+ltc_037,Malignant neoplasms,C30-C39,C31.3,C313,Malignant neoplasm of sphenoidal sinus
+ltc_037,Malignant neoplasms,C30-C39,C31.8,C318,Malignant neoplasm of overlapping sites of accessory sinuses
+ltc_037,Malignant neoplasms,C30-C39,C31.9,C319,"Malignant neoplasm of accessory sinus, unspecified"
+ltc_037,Malignant neoplasms,C30-C39,C32.0,C320,Malignant neoplasm of glottis
+ltc_037,Malignant neoplasms,C30-C39,C32.1,C321,Malignant neoplasm of supraglottis
+ltc_037,Malignant neoplasms,C30-C39,C32.2,C322,Malignant neoplasm of subglottis
+ltc_037,Malignant neoplasms,C30-C39,C32.3,C323,Malignant neoplasm of laryngeal cartilage
+ltc_037,Malignant neoplasms,C30-C39,C32.8,C328,Malignant neoplasm of overlapping sites of larynx
+ltc_037,Malignant neoplasms,C30-C39,C32.9,C329,"Malignant neoplasm of larynx, unspecified"
+ltc_037,Malignant neoplasms,C30-C39,C33.X,C33X,Malignant neoplasm of trachea
+ltc_037,Malignant neoplasms,C30-C39,C34.0,C340,Malignant neoplasm of main bronchus
+ltc_037,Malignant neoplasms,C30-C39,C34.1,C341,"Malignant neoplasm of upper lobe, bronchus or lung"
+ltc_037,Malignant neoplasms,C30-C39,C34.2,C342,"Malignant neoplasm of middle lobe, bronchus or lung"
+ltc_037,Malignant neoplasms,C30-C39,C34.3,C343,"Malignant neoplasm of lower lobe, bronchus or lung"
+ltc_037,Malignant neoplasms,C30-C39,C34.8,C348,Malignant neoplasm of overlapping sites of bronchus and lung
+ltc_037,Malignant neoplasms,C30-C39,C34.9,C349,"Malignant neoplasm of bronchus or lung, unspecified"
+ltc_037,Malignant neoplasms,C30-C39,C37.X,C37X,Malignant neoplasm of thymus
+ltc_037,Malignant neoplasms,C30-C39,C38.0,C380,Malignant neoplasm of heart
+ltc_037,Malignant neoplasms,C30-C39,C38.1,C381,Malignant neoplasm of anterior mediastinum
+ltc_037,Malignant neoplasms,C30-C39,C38.2,C382,Malignant neoplasm of posterior mediastinum
+ltc_037,Malignant neoplasms,C30-C39,C38.3,C383,"Malignant neoplasm of mediastinum, part unspecified"
+ltc_037,Malignant neoplasms,C30-C39,C38.4,C384,Malignant neoplasm of pleura
+ltc_037,Malignant neoplasms,C30-C39,C38.8,C388,"Malignant neoplasm of overlapping sites of heart, mediastinum and pleura"
+ltc_037,Malignant neoplasms,C30-C39,C39.0,C390,"Malignant neoplasm of upper respiratory tract, part unspecified"
+ltc_037,Malignant neoplasms,C30-C39,C39.8,C398,Malignant neoplasm of overlapping sites of respiratory and intrathoracic organs
+ltc_037,Malignant neoplasms,C30-C39,C39.9,C399,Malignant neoplasm of ill-defined sites within the respiratory system
+ltc_037,Malignant neoplasms,C40-C41,C40.0,C400,Malignant neoplasm of scapula and long bones of upper limb
+ltc_037,Malignant neoplasms,C40-C41,C40.1,C401,Malignant neoplasm of short bones of upper limb
+ltc_037,Malignant neoplasms,C40-C41,C40.2,C402,Malignant neoplasm of long bones of lower limb
+ltc_037,Malignant neoplasms,C40-C41,C40.3,C403,Malignant neoplasm of short bones of lower limb
+ltc_037,Malignant neoplasms,C40-C41,C40.8,C408,Malignant neoplasm of overlapping sites of bone and articular cartilage of limbs
+ltc_037,Malignant neoplasms,C40-C41,C40.9,C409,"Malignant neoplasm of bone and articular cartilage of limb, unspecified"
+ltc_037,Malignant neoplasms,C40-C41,C41.0,C410,Malignant neoplasm of bones of skull and face
+ltc_037,Malignant neoplasms,C40-C41,C41.1,C411,Malignant neoplasm of mandible
+ltc_037,Malignant neoplasms,C40-C41,C41.2,C412,Malignant neoplasm of vertebral column
+ltc_037,Malignant neoplasms,C40-C41,C41.3,C413,"Malignant neoplasm of ribs, sternum and clavicle"
+ltc_037,Malignant neoplasms,C40-C41,C41.4,C414,"Malignant neoplasm of pelvic bones, sacrum and coccyx"
+ltc_037,Malignant neoplasms,C40-C41,C41.8,C418,Malignant neoplasm of overlapping sites of bone and articular cartilage
+ltc_037,Malignant neoplasms,C40-C41,C41.9,C419,"Malignant neoplasm of bone and articular cartilage, unspecified"
+ltc_037,Malignant neoplasms,C43-C44,C43.0,C430,Malignant melanoma of lip
+ltc_037,Malignant neoplasms,C43-C44,C43.1,C431,"Malignant melanoma of eyelid, including canthus"
+ltc_037,Malignant neoplasms,C43-C44,C43.2,C432,Malignant melanoma of ear and external auricular canal
+ltc_037,Malignant neoplasms,C43-C44,C43.3,C433,Malignant melanoma of other and unspecified parts of face
+ltc_037,Malignant neoplasms,C43-C44,C43.4,C434,Malignant melanoma of scalp and neck
+ltc_037,Malignant neoplasms,C43-C44,C43.5,C435,Malignant melanoma of trunk
+ltc_037,Malignant neoplasms,C43-C44,C43.6,C436,"Malignant melanoma of upper limb, including shoulder"
+ltc_037,Malignant neoplasms,C43-C44,C43.7,C437,"Malignant melanoma of lower limb, including hip"
+ltc_037,Malignant neoplasms,C43-C44,C43.8,C438,Overlapping malignant melanoma of skin
+ltc_037,Malignant neoplasms,C43-C44,C43.9,C439,"Malignant melanoma of skin, unspecified"
+ltc_037,Malignant neoplasms,C43-C44,C44.0,C440,Other malignant neoplasm of skin of lip
+ltc_037,Malignant neoplasms,C43-C44,C44.1,C441,"Other malignant neoplasm of skin of eyelid, including canthus"
+ltc_037,Malignant neoplasms,C43-C44,C44.2,C442,Other malignant neoplasm of skin of ear and external auricular canal
+ltc_037,Malignant neoplasms,C43-C44,C44.3,C443,Other malignant neoplasm of skin of other and unspecified parts of face
+ltc_037,Malignant neoplasms,C43-C44,C44.4,C444,Other malignant neoplasm of skin of scalp and neck
+ltc_037,Malignant neoplasms,C43-C44,C44.5,C445,Other malignant neoplasm of skin of trunk
+ltc_037,Malignant neoplasms,C43-C44,C44.6,C446,"Other malignant neoplasm of skin of upper limb, including shoulder"
+ltc_037,Malignant neoplasms,C43-C44,C44.7,C447,"Other malignant neoplasm of skin of lower limb, including hip"
+ltc_037,Malignant neoplasms,C43-C44,C44.8,C448,Overlapping malignant neoplasm of skin
+ltc_037,Malignant neoplasms,C43-C44,C44.9,C449,"Malignant neoplasm of skin, unspecified"
+ltc_037,Malignant neoplasms,C45-C49,C45.0,C450,Mesothelioma of pleura
+ltc_037,Malignant neoplasms,C45-C49,C45.1,C451,Mesothelioma of peritoneum
+ltc_037,Malignant neoplasms,C45-C49,C45.2,C452,Mesothelioma of pericardium
+ltc_037,Malignant neoplasms,C45-C49,C45.7,C457,Mesothelioma of other sites
+ltc_037,Malignant neoplasms,C45-C49,C45.9,C459,"Mesothelioma, unspecified"
+ltc_037,Malignant neoplasms,C45-C49,C46.0,C460,Kaposi sarcoma of skin
+ltc_037,Malignant neoplasms,C45-C49,C46.1,C461,Kaposi sarcoma of soft tissue
+ltc_037,Malignant neoplasms,C45-C49,C46.2,C462,Kaposi sarcoma of palate
+ltc_037,Malignant neoplasms,C45-C49,C46.3,C463,Kaposi sarcoma of lymph nodes
+ltc_037,Malignant neoplasms,C45-C49,C46.7,C467,Kaposi sarcoma of other sites
+ltc_037,Malignant neoplasms,C45-C49,C46.8,C468,Kaposi sarcoma of multiple organs
+ltc_037,Malignant neoplasms,C45-C49,C46.9,C469,"Kaposi sarcoma, unspecified"
+ltc_037,Malignant neoplasms,C45-C49,C47.0,C470,"Malignant neoplasm of peripheral nerves and autonomic nervous system of head,..."
+ltc_037,Malignant neoplasms,C45-C49,C47.1,C471,Malignant neoplasm of peripheral nerves and autonomic nervous system of upper...
+ltc_037,Malignant neoplasms,C45-C49,C47.2,C472,Malignant neoplasm of peripheral nerves and autonomic nervous system of lower...
+ltc_037,Malignant neoplasms,C45-C49,C47.3,C473,Malignant neoplasm of peripheral nerves and autonomic nervous system of thorax
+ltc_037,Malignant neoplasms,C45-C49,C47.4,C474,Malignant neoplasm of peripheral nerves and autonomic nervous system of abdomen
+ltc_037,Malignant neoplasms,C45-C49,C47.5,C475,Malignant neoplasm of peripheral nerves and autonomic nervous system of pelvis
+ltc_037,Malignant neoplasms,C45-C49,C47.6,C476,Malignant neoplasm of peripheral nerves and autonomic nervous system of trunk...
+ltc_037,Malignant neoplasms,C45-C49,C47.8,C478,Malignant neoplasm of overlapping sites of peripheral nerves and autonomic ne...
+ltc_037,Malignant neoplasms,C45-C49,C47.9,C479,"Malignant neoplasm of peripheral nerves and autonomic nervous system, unspeci..."
+ltc_037,Malignant neoplasms,C45-C49,C48.0,C480,Malignant neoplasm of retroperitoneum
+ltc_037,Malignant neoplasms,C45-C49,C48.1,C481,Malignant neoplasm of specified parts of peritoneum
+ltc_037,Malignant neoplasms,C45-C49,C48.2,C482,"Malignant neoplasm of peritoneum, unspecified"
+ltc_037,Malignant neoplasms,C45-C49,C48.8,C488,Malignant neoplasm of overlapping sites of retroperitoneum and peritoneum
+ltc_037,Malignant neoplasms,C45-C49,C49.0,C490,"Malignant neoplasm of connective and soft tissue of head, face and neck"
+ltc_037,Malignant neoplasms,C45-C49,C49.1,C491,"Malignant neoplasm of connective and soft tissue of upper limb, including sho..."
+ltc_037,Malignant neoplasms,C45-C49,C49.2,C492,"Malignant neoplasm of connective and soft tissue of lower limb, including hip"
+ltc_037,Malignant neoplasms,C45-C49,C49.3,C493,Malignant neoplasm of connective and soft tissue of thorax
+ltc_037,Malignant neoplasms,C45-C49,C49.4,C494,Malignant neoplasm of connective and soft tissue of abdomen
+ltc_037,Malignant neoplasms,C45-C49,C49.5,C495,Malignant neoplasm of connective and soft tissue of pelvis
+ltc_037,Malignant neoplasms,C45-C49,C49.6,C496,"Malignant neoplasm of connective and soft tissue of trunk, unspecified"
+ltc_037,Malignant neoplasms,C45-C49,C49.8,C498,Malignant neoplasm of overlapping sites of connective and soft tissue
+ltc_037,Malignant neoplasms,C45-C49,C49.9,C499,"Malignant neoplasm of connective and soft tissue, unspecified"
+ltc_037,Malignant neoplasms,C50,C50.0,C500,Malignant neoplasm of nipple and areola
+ltc_037,Malignant neoplasms,C50,C50.1,C501,Malignant neoplasm of central portion of breast
+ltc_037,Malignant neoplasms,C50,C50.2,C502,Malignant neoplasm of upper-inner quadrant of breast
+ltc_037,Malignant neoplasms,C50,C50.3,C503,Malignant neoplasm of lower-inner quadrant of breast
+ltc_037,Malignant neoplasms,C50,C50.4,C504,Malignant neoplasm of upper-outer quadrant of breast
+ltc_037,Malignant neoplasms,C50,C50.5,C505,Malignant neoplasm of lower-outer quadrant of breast
+ltc_037,Malignant neoplasms,C50,C50.6,C506,Malignant neoplasm of axillary tail of breast
+ltc_037,Malignant neoplasms,C50,C50.8,C508,Malignant neoplasm of overlapping sites of breast
+ltc_037,Malignant neoplasms,C50,C50.9,C509,"Malignant neoplasm of breast, unspecified"
+ltc_037,Malignant neoplasms,C51-C58,C51.0,C510,Malignant neoplasm of labium majus
+ltc_037,Malignant neoplasms,C51-C58,C51.1,C511,Malignant neoplasm of labium minus
+ltc_037,Malignant neoplasms,C51-C58,C51.2,C512,Malignant neoplasm of clitoris
+ltc_037,Malignant neoplasms,C51-C58,C51.8,C518,Malignant neoplasm of overlapping sites of vulva
+ltc_037,Malignant neoplasms,C51-C58,C51.9,C519,"Malignant neoplasm of vulva, unspecified"
+ltc_037,Malignant neoplasms,C51-C58,C52.X,C52X,Malignant neoplasm of vagina
+ltc_037,Malignant neoplasms,C51-C58,C53.0,C530,Malignant neoplasm of endocervix
+ltc_037,Malignant neoplasms,C51-C58,C53.1,C531,Malignant neoplasm of exocervix
+ltc_037,Malignant neoplasms,C51-C58,C53.8,C538,Malignant neoplasm of overlapping sites of cervix uteri
+ltc_037,Malignant neoplasms,C51-C58,C53.9,C539,"Malignant neoplasm of cervix uteri, unspecified"
+ltc_037,Malignant neoplasms,C51-C58,C54.0,C540,Malignant neoplasm of isthmus uteri
+ltc_037,Malignant neoplasms,C51-C58,C54.1,C541,Malignant neoplasm of endometrium
+ltc_037,Malignant neoplasms,C51-C58,C54.2,C542,Malignant neoplasm of myometrium
+ltc_037,Malignant neoplasms,C51-C58,C54.3,C543,Malignant neoplasm of fundus uteri
+ltc_037,Malignant neoplasms,C51-C58,C54.8,C548,Malignant neoplasm of overlapping sites of corpus uteri
+ltc_037,Malignant neoplasms,C51-C58,C54.9,C549,"Malignant neoplasm of corpus uteri, unspecified"
+ltc_037,Malignant neoplasms,C51-C58,C55.X,C55X,"Malignant neoplasm of uterus, part unspecified"
+ltc_037,Malignant neoplasms,C51-C58,C56.X,C56X,Malignant neoplasm of ovary
+ltc_037,Malignant neoplasms,C51-C58,C57.0,C570,Malignant neoplasm of fallopian tube
+ltc_037,Malignant neoplasms,C51-C58,C57.1,C571,Malignant neoplasm of broad ligament
+ltc_037,Malignant neoplasms,C51-C58,C57.2,C572,Malignant neoplasm of round ligament
+ltc_037,Malignant neoplasms,C51-C58,C57.3,C573,Malignant neoplasm of parametrium
+ltc_037,Malignant neoplasms,C51-C58,C57.4,C574,Malignant neoplasm of uterine adnexa
+ltc_037,Malignant neoplasms,C51-C58,C57.7,C577,Malignant neoplasm of other specified female genital organs
+ltc_037,Malignant neoplasms,C51-C58,C57.8,C578,Malignant neoplasm of overlapping sites of female genital organs
+ltc_037,Malignant neoplasms,C51-C58,C57.9,C579,"Malignant neoplasm of female genital organ, unspecified"
+ltc_037,Malignant neoplasms,C51-C58,C58.X,C58X,Malignant neoplasm of placenta
+ltc_037,Malignant neoplasms,C60-C63,C60.0,C600,Malignant neoplasm of prepuce
+ltc_037,Malignant neoplasms,C60-C63,C60.1,C601,Malignant neoplasm of glans penis
+ltc_037,Malignant neoplasms,C60-C63,C60.2,C602,Malignant neoplasm of body of penis
+ltc_037,Malignant neoplasms,C60-C63,C60.8,C608,Malignant neoplasm of overlapping sites of penis
+ltc_037,Malignant neoplasms,C60-C63,C60.9,C609,"Malignant neoplasm of penis, unspecified"
+ltc_037,Malignant neoplasms,C60-C63,C61.X,C61X,Malignant neoplasm of prostate
+ltc_037,Malignant neoplasms,C60-C63,C62.0,C620,Malignant neoplasm of undescended testis
+ltc_037,Malignant neoplasms,C60-C63,C62.1,C621,Malignant neoplasm of descended testis
+ltc_037,Malignant neoplasms,C60-C63,C62.9,C629,"Malignant neoplasm of testis, unspecified"
+ltc_037,Malignant neoplasms,C60-C63,C63.0,C630,Malignant neoplasm of epididymis
+ltc_037,Malignant neoplasms,C60-C63,C63.1,C631,Malignant neoplasm of spermatic cord
+ltc_037,Malignant neoplasms,C60-C63,C63.2,C632,Malignant neoplasm of scrotum
+ltc_037,Malignant neoplasms,C60-C63,C63.7,C637,Malignant neoplasm of other specified male genital organs
+ltc_037,Malignant neoplasms,C60-C63,C63.8,C638,Malignant neoplasm of overlapping sites of male genital organs
+ltc_037,Malignant neoplasms,C60-C63,C63.9,C639,"Malignant neoplasm of male genital organ, unspecified"
+ltc_037,Malignant neoplasms,C64-C68,C64.X,C64X,"Malignant neoplasm of kidney, except renal pelvis"
+ltc_037,Malignant neoplasms,C64-C68,C65.X,C65X,Malignant neoplasm of renal pelvis
+ltc_037,Malignant neoplasms,C64-C68,C66.X,C66X,Malignant neoplasm of ureter
+ltc_037,Malignant neoplasms,C64-C68,C67.0,C670,Malignant neoplasm of trigone of bladder
+ltc_037,Malignant neoplasms,C64-C68,C67.1,C671,Malignant neoplasm of dome of bladder
+ltc_037,Malignant neoplasms,C64-C68,C67.2,C672,Malignant neoplasm of lateral wall of bladder
+ltc_037,Malignant neoplasms,C64-C68,C67.3,C673,Malignant neoplasm of anterior wall of bladder
+ltc_037,Malignant neoplasms,C64-C68,C67.4,C674,Malignant neoplasm of posterior wall of bladder
+ltc_037,Malignant neoplasms,C64-C68,C67.5,C675,Malignant neoplasm of bladder neck
+ltc_037,Malignant neoplasms,C64-C68,C67.6,C676,Malignant neoplasm of ureteric orifice
+ltc_037,Malignant neoplasms,C64-C68,C67.7,C677,Malignant neoplasm of urachus
+ltc_037,Malignant neoplasms,C64-C68,C67.8,C678,Malignant neoplasm of overlapping sites of bladder
+ltc_037,Malignant neoplasms,C64-C68,C67.9,C679,"Malignant neoplasm of bladder, unspecified"
+ltc_037,Malignant neoplasms,C64-C68,C68.0,C680,Malignant neoplasm of urethra
+ltc_037,Malignant neoplasms,C64-C68,C68.1,C681,Malignant neoplasm of paraurethral gland
+ltc_037,Malignant neoplasms,C64-C68,C68.8,C688,Malignant neoplasm of overlapping sites of urinary organs
+ltc_037,Malignant neoplasms,C64-C68,C68.9,C689,"Malignant neoplasm of urinary organ, unspecified"
+ltc_037,Malignant neoplasms,C69-C72,C69.0,C690,Malignant neoplasm of conjunctiva
+ltc_037,Malignant neoplasms,C69-C72,C69.1,C691,Malignant neoplasm of cornea
+ltc_037,Malignant neoplasms,C69-C72,C69.2,C692,Malignant neoplasm of retina
+ltc_037,Malignant neoplasms,C69-C72,C69.3,C693,Malignant neoplasm of choroid
+ltc_037,Malignant neoplasms,C69-C72,C69.4,C694,Malignant neoplasm of ciliary body
+ltc_037,Malignant neoplasms,C69-C72,C69.5,C695,Malignant neoplasm of lacrimal gland and duct
+ltc_037,Malignant neoplasms,C69-C72,C69.6,C696,Malignant neoplasm of orbit
+ltc_037,Malignant neoplasms,C69-C72,C69.8,C698,Malignant neoplasm of overlapping sites of eye and adnexa
+ltc_037,Malignant neoplasms,C69-C72,C69.9,C699,"Malignant neoplasm of eye, unspecified"
+ltc_037,Malignant neoplasms,C69-C72,C70.0,C700,Malignant neoplasm of cerebral meninges
+ltc_037,Malignant neoplasms,C69-C72,C70.1,C701,Malignant neoplasm of spinal meninges
+ltc_037,Malignant neoplasms,C69-C72,C70.9,C709,"Malignant neoplasm of meninges, unspecified"
+ltc_037,Malignant neoplasms,C69-C72,C71.0,C710,"Malignant neoplasm of cerebrum, except lobes and ventricles"
+ltc_037,Malignant neoplasms,C69-C72,C71.1,C711,Malignant neoplasm of frontal lobe
+ltc_037,Malignant neoplasms,C69-C72,C71.2,C712,Malignant neoplasm of temporal lobe
+ltc_037,Malignant neoplasms,C69-C72,C71.3,C713,Malignant neoplasm of parietal lobe
+ltc_037,Malignant neoplasms,C69-C72,C71.4,C714,Malignant neoplasm of occipital lobe
+ltc_037,Malignant neoplasms,C69-C72,C71.5,C715,Malignant neoplasm of cerebral ventricle
+ltc_037,Malignant neoplasms,C69-C72,C71.6,C716,Malignant neoplasm of cerebellum
+ltc_037,Malignant neoplasms,C69-C72,C71.7,C717,Malignant neoplasm of brain stem
+ltc_037,Malignant neoplasms,C69-C72,C71.8,C718,Malignant neoplasm of overlapping sites of brain
+ltc_037,Malignant neoplasms,C69-C72,C71.9,C719,"Malignant neoplasm of brain, unspecified"
+ltc_037,Malignant neoplasms,C69-C72,C72.0,C720,Malignant neoplasm of spinal cord
+ltc_037,Malignant neoplasms,C69-C72,C72.1,C721,Malignant neoplasm of cauda equina
+ltc_037,Malignant neoplasms,C69-C72,C72.2,C722,Malignant neoplasm of olfactory nerve
+ltc_037,Malignant neoplasms,C69-C72,C72.3,C723,Malignant neoplasm of optic nerve
+ltc_037,Malignant neoplasms,C69-C72,C72.4,C724,Malignant neoplasm of acoustic nerve
+ltc_037,Malignant neoplasms,C69-C72,C72.5,C725,Malignant neoplasm of other and unspecified cranial nerves
+ltc_037,Malignant neoplasms,C69-C72,C72.8,C728,Malignant neoplasm of overlapping sites of brain and central nervous system
+ltc_037,Malignant neoplasms,C69-C72,C72.9,C729,"Malignant neoplasm of central nervous system, unspecified"
+ltc_037,Malignant neoplasms,C73-C75,C73.X,C73X,Malignant neoplasm of thyroid gland
+ltc_037,Malignant neoplasms,C73-C75,C74.0,C740,Malignant neoplasm of cortex of adrenal gland
+ltc_037,Malignant neoplasms,C73-C75,C74.1,C741,Malignant neoplasm of medulla of adrenal gland
+ltc_037,Malignant neoplasms,C73-C75,C74.9,C749,"Malignant neoplasm of adrenal gland, unspecified"
+ltc_037,Malignant neoplasms,C73-C75,C75.0,C750,Malignant neoplasm of parathyroid gland
+ltc_037,Malignant neoplasms,C73-C75,C75.1,C751,Malignant neoplasm of pituitary gland
+ltc_037,Malignant neoplasms,C73-C75,C75.2,C752,Malignant neoplasm of craniopharyngeal duct
+ltc_037,Malignant neoplasms,C73-C75,C75.3,C753,Malignant neoplasm of pineal gland
+ltc_037,Malignant neoplasms,C73-C75,C75.4,C754,Malignant neoplasm of carotid body
+ltc_037,Malignant neoplasms,C73-C75,C75.5,C755,Malignant neoplasm of aortic body and other paraganglia
+ltc_037,Malignant neoplasms,C73-C75,C75.8,C758,Malignant neoplasm with pluriglandular involvement
+ltc_037,Malignant neoplasms,C73-C75,C75.9,C759,"Malignant neoplasm of endocrine gland, unspecified"
+ltc_037,Malignant neoplasms,C76-C80,C76.0,C760,"Malignant neoplasm of head, face and neck"
+ltc_037,Malignant neoplasms,C76-C80,C76.1,C761,Malignant neoplasm of thorax
+ltc_037,Malignant neoplasms,C76-C80,C76.2,C762,Malignant neoplasm of abdomen
+ltc_037,Malignant neoplasms,C76-C80,C76.3,C763,Malignant neoplasm of pelvis
+ltc_037,Malignant neoplasms,C76-C80,C76.4,C764,Malignant neoplasm of upper limb
+ltc_037,Malignant neoplasms,C76-C80,C76.5,C765,Malignant neoplasm of lower limb
+ltc_037,Malignant neoplasms,C76-C80,C76.7,C767,Malignant neoplasm of other ill-defined sites
+ltc_037,Malignant neoplasms,C76-C80,C76.8,C768,Malignant neoplasm of overlapping sites of other and ill-defined sites
+ltc_037,Malignant neoplasms,C76-C80,C77.0,C770,"Secondary and unspecified malignant neoplasm of lymph nodes of head, face and..."
+ltc_037,Malignant neoplasms,C76-C80,C77.1,C771,Secondary and unspecified malignant neoplasm of intrathoracic lymph nodes
+ltc_037,Malignant neoplasms,C76-C80,C77.2,C772,Secondary and unspecified malignant neoplasm of intra-abdominal lymph nodes
+ltc_037,Malignant neoplasms,C76-C80,C77.3,C773,Secondary and unspecified malignant neoplasm of axillary and upper limb lymph...
+ltc_037,Malignant neoplasms,C76-C80,C77.4,C774,Secondary and unspecified malignant neoplasm of inguinal and lower limb lymph...
+ltc_037,Malignant neoplasms,C76-C80,C77.5,C775,Secondary and unspecified malignant neoplasm of intrapelvic lymph nodes
+ltc_037,Malignant neoplasms,C76-C80,C77.8,C778,Secondary and unspecified malignant neoplasm of lymph nodes of multiple regions
+ltc_037,Malignant neoplasms,C76-C80,C77.9,C779,"Secondary and unspecified malignant neoplasm of lymph node, unspecified"
+ltc_037,Malignant neoplasms,C76-C80,C78.0,C780,Secondary malignant neoplasm of lung
+ltc_037,Malignant neoplasms,C76-C80,C78.1,C781,Secondary malignant neoplasm of mediastinum
+ltc_037,Malignant neoplasms,C76-C80,C78.2,C782,Secondary malignant neoplasm of pleura
+ltc_037,Malignant neoplasms,C76-C80,C78.3,C783,Secondary malignant neoplasm of other and unspecified respiratory organs
+ltc_037,Malignant neoplasms,C76-C80,C78.4,C784,Secondary malignant neoplasm of small intestine
+ltc_037,Malignant neoplasms,C76-C80,C78.5,C785,Secondary malignant neoplasm of large intestine and rectum
+ltc_037,Malignant neoplasms,C76-C80,C78.6,C786,Secondary malignant neoplasm of retroperitoneum and peritoneum
+ltc_037,Malignant neoplasms,C76-C80,C78.7,C787,Secondary malignant neoplasm of liver and intrahepatic bile duct
+ltc_037,Malignant neoplasms,C76-C80,C78.8,C788,Secondary malignant neoplasm of other and unspecified digestive organs
+ltc_037,Malignant neoplasms,C76-C80,C79.0,C790,Secondary malignant neoplasm of kidney and renal pelvis
+ltc_037,Malignant neoplasms,C76-C80,C79.1,C791,Secondary malignant neoplasm of bladder and other and unspecified urinary organs
+ltc_037,Malignant neoplasms,C76-C80,C79.2,C792,Secondary malignant neoplasm of skin
+ltc_037,Malignant neoplasms,C76-C80,C79.3,C793,Secondary malignant neoplasm of brain and cerebral meninges
+ltc_037,Malignant neoplasms,C76-C80,C79.4,C794,Secondary malignant neoplasm of other and unspecified parts of nervous system
+ltc_037,Malignant neoplasms,C76-C80,C79.5,C795,Secondary malignant neoplasm of bone and bone marrow
+ltc_037,Malignant neoplasms,C76-C80,C79.6,C796,Secondary malignant neoplasm of ovary
+ltc_037,Malignant neoplasms,C76-C80,C79.7,C797,Secondary malignant neoplasm of adrenal gland
+ltc_037,Malignant neoplasms,C76-C80,C79.8,C798,Secondary malignant neoplasm of other specified sites
+ltc_037,Malignant neoplasms,C76-C80,C79.9,C799,Secondary malignant neoplasm of unspecified site
+ltc_037,Malignant neoplasms,C76-C80,C80.X,C80X,Malignant neoplasm without specification of site
+ltc_037,Malignant neoplasms,C97,C97.X,C97X,Malignant neoplasms of independent (primary) multiple sites
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C84.1,C841,Sézary disease
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C88.0,C880,Waldenström macroglobulinaemia
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C81.0,C810,Nodular lymphocyte predominant Hodgkin lymphoma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C81.1,C811,Nodular sclerosis (classical) Hodgkin lymphoma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C81.2,C812,Mixed cellularity (classical) Hodgkin lymphoma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C81.3,C813,Lymphocyte depleted (classical) Hodgkin lymphoma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C81.4,C814,Lymphocyte-rich (classical) Hodgkin lymphoma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C81.7,C817,Other (classical) Hodgkin lymphoma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C81.9,C819,"Hodgkin lymphoma, unspecified"
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C82.0,C820,Follicular lymphoma grade I
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C82.1,C821,Follicular lymphoma grade II
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C82.2,C822,"Follicular lymphoma grade III, unspecified"
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C82.3,C823,Follicular lymphoma grade IIIa
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C82.4,C824,Follicular lymphoma grade IIIb
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C82.5,C825,Diffuse follicle centre lymphoma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C82.6,C826,Cutaneous follicle centre lymphoma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C82.7,C827,Other types of follicular lymphoma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C82.9,C829,"Follicular lymphoma, unspecified"
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C83.0,C830,Small cell B-cell lymphoma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C83.1,C831,Mantle cell lymphoma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C83.3,C833,Diffuse large B-cell lymphoma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C83.5,C835,Lymphoblastic (diffuse) lymphoma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C83.7,C837,Burkitt lymphoma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C83.8,C838,Other non-follicular lymphoma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C83.9,C839,"Non-follicular (diffuse) lymphoma, unspecified"
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C84.0,C840,Mycosis fungoides
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C84.4,C844,"Peripheral T-cell lymphoma, not elsewhere classified"
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C84.5,C845,Other mature T/NK-cell lymphomas
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C84.6,C846,"Anaplastic large cell lymphoma, ALK-positive"
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C84.7,C847,"Anaplastic large cell lymphoma, ALK-negative"
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C84.8,C848,"Cutaneous T-cell lymphoma, unspecified"
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C84.9,C849,"Mature T/NK-cell lymphoma, unspecified"
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C85.1,C851,"B-cell lymphoma, unspecified"
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C85.2,C852,Mediastinal (thymic) large B-cell lymphoma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C85.7,C857,Other specified types of non-Hodgkin lymphoma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C85.9,C859,"Non-Hodgkin lymphoma, unspecified"
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C86.0,C860,"Extranodal NK/T-cell lymphoma, nasal type"
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C86.1,C861,Hepatosplenic T-cell lymphoma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C86.2,C862,Enteropathy-type (intestinal) T-cell lymphoma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C86.3,C863,Subcutaneous panniculitis-like T-cell lymphoma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C86.4,C864,Blastic NK-cell lymphoma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C86.5,C865,Angioimmunoblastic T-cell lymphoma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C86.6,C866,Primary cutaneous CD30-positive T-cell proliferations
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C88.1,C881,Alpha heavy chain disease
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C88.2,C882,Other heavy chain disease
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C88.3,C883,Immunoproliferative small intestinal disease
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C88.4,C884,Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue [MALT-lymphoma]
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C88.7,C887,Other malignant immunoproliferative diseases
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C88.9,C889,"Malignant immunoproliferative disease, unspecified"
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C90.0,C900,Multiple myeloma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C90.1,C901,Plasma cell leukaemia
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C90.2,C902,Extramedullary plasmacytoma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C90.3,C903,Solitary plasmacytoma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C91.1,C911,Chronic lymphocytic leukaemia of B-cell type
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C91.3,C913,Prolymphocytic leukaemia of B-cell type
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C91.4,C914,Hairy-cell leukaemia
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C91.5,C915,Adult T-cell lymphoma/leukaemia [HTLV-1-associated]
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C91.6,C916,Prolymphocytic leukaemia of T-cell type
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C91.7,C917,Other lymphoid leukaemia
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C91.8,C918,Mature B-cell leukaemia Burkitt-type
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C91.9,C919,"Lymphoid leukaemia, unspecified"
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C92.1,C921,"Chronic myeloid leukaemia [CML], BCR/ABL-positive"
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C92.2,C922,"Atypical chronic myeloid leukaemia, BCR/ABL-negative"
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C92.3,C923,Myeloid sarcoma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C92.7,C927,Other myeloid leukaemia
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C92.9,C929,"Myeloid leukaemia, unspecified"
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C93.1,C931,Chronic myelomonocytic leukaemia
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C93.7,C937,Other monocytic leukaemia
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C93.9,C939,"Monocytic leukaemia, unspecified"
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C94.3,C943,Mast cell leukaemia
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C94.6,C946,"Myelodysplastic and myeloproliferative disease, not elsewhere classified"
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C94.7,C947,Other specified leukaemias
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C95.1,C951,Chronic leukaemia of unspecified cell type
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C95.7,C957,Other leukaemia of unspecified cell type
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C95.9,C959,"Leukaemia, unspecified"
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C96.0,C960,Multifocal and multisystemic (disseminated) Langerhans-cell histiocytosis [Letterer-Siwe disease]
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C96.2,C962,Malignant mast cell tumour
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C96.4,C964,Sarcoma of dendritic cells (accessory cells)
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C96.5,C965,Multifocal and unisystemic Langerhans-cell histiocytosis
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C96.6,C966,Unifocal Langerhans-cell histiocytosis
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C96.7,C967,"Other specified malignant neoplasms of lymphoid, haematopoietic and related tissue"
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C96.8,C968,Histiocytic sarcoma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C96.9,C969,"Malignant neoplasm of lymphoid, haematopoietic and related tissue, unspecified"
+ltc_039,Meniere disease,H80-H83,H81.0,H810,Ménière disease
+ltc_040,Migraine,G40-G47,G43.2,G432,Status migrainosus
+ltc_040,Migraine,G40-G47,G43.0,G430,Migraine without aura [common migraine]
+ltc_040,Migraine,G40-G47,G43.1,G431,Migraine with aura [classical migraine]
+ltc_040,Migraine,G40-G47,G43.3,G433,Complicated migraine
+ltc_040,Migraine,G40-G47,G43.8,G438,Other migraine
+ltc_040,Migraine,G40-G47,G43.9,G439,"Migraine, unspecified"
+ltc_041,Mood disorders,F30-F39,F30.0,F300,Hypomania
+ltc_041,Mood disorders,F30-F39,F30.1,F301,Mania without psychotic symptoms
+ltc_041,Mood disorders,F30-F39,F30.2,F302,Mania with psychotic symptoms
+ltc_041,Mood disorders,F30-F39,F30.8,F308,Other manic episodes
+ltc_041,Mood disorders,F30-F39,F30.9,F309,"Manic episode, unspecified"
+ltc_041,Mood disorders,F30-F39,F31.0,F310,"Bipolar affective disorder, current episode hypomanic"
+ltc_041,Mood disorders,F30-F39,F31.1,F311,"Bipolar affective disorder, current episode manic without psychotic symptoms"
+ltc_041,Mood disorders,F30-F39,F31.2,F312,"Bipolar affective disorder, current episode manic with psychotic symptoms"
+ltc_041,Mood disorders,F30-F39,F31.3,F313,"Bipolar affective disorder, current episode mild or moderate depression"
+ltc_041,Mood disorders,F30-F39,F31.4,F314,"Bipolar affective disorder, current episode severe depression without psychotic symptoms"
+ltc_041,Mood disorders,F30-F39,F31.5,F315,"Bipolar affective disorder, current episode severe depression with psychotic symptoms"
+ltc_041,Mood disorders,F30-F39,F31.6,F316,"Bipolar affective disorder, current episode mixed"
+ltc_041,Mood disorders,F30-F39,F31.7,F317,"Bipolar affective disorder, currently in remission"
+ltc_041,Mood disorders,F30-F39,F31.8,F318,Other bipolar affective disorders
+ltc_041,Mood disorders,F30-F39,F31.9,F319,"Bipolar affective disorder, unspecified"
+ltc_041,Mood disorders,F30-F39,F32.0,F320,Mild depressive episode
+ltc_041,Mood disorders,F30-F39,F32.1,F321,Moderate depressive episode
+ltc_041,Mood disorders,F30-F39,F32.2,F322,Severe depressive episode without psychotic symptoms
+ltc_041,Mood disorders,F30-F39,F32.3,F323,Severe depressive episode with psychotic symptoms
+ltc_041,Mood disorders,F30-F39,F32.8,F328,Other depressive episodes
+ltc_041,Mood disorders,F30-F39,F32.9,F329,"Depressive episode, unspecified"
+ltc_041,Mood disorders,F30-F39,F33.0,F330,"Recurrent depressive disorder, current episode mild"
+ltc_041,Mood disorders,F30-F39,F33.1,F331,"Recurrent depressive disorder, current episode moderate"
+ltc_041,Mood disorders,F30-F39,F33.2,F332,"Recurrent depressive disorder, current episode severe without psychotic symptoms"
+ltc_041,Mood disorders,F30-F39,F33.3,F333,"Recurrent depressive disorder, current episode severe with psychotic symptoms"
+ltc_041,Mood disorders,F30-F39,F33.4,F334,"Recurrent depressive disorder, currently in remission"
+ltc_041,Mood disorders,F30-F39,F33.8,F338,Other recurrent depressive disorders
+ltc_041,Mood disorders,F30-F39,F33.9,F339,"Recurrent depressive disorder, unspecified"
+ltc_041,Mood disorders,F30-F39,F34.0,F340,Cyclothymia
+ltc_041,Mood disorders,F30-F39,F34.1,F341,Dysthymia
+ltc_041,Mood disorders,F30-F39,F34.8,F348,Other persistent mood [affective] disorders
+ltc_041,Mood disorders,F30-F39,F34.9,F349,"Persistent mood [affective] disorder, unspecified"
+ltc_041,Mood disorders,F30-F39,F38.0,F380,Other single mood [affective] disorders
+ltc_041,Mood disorders,F30-F39,F38.1,F381,Other recurrent mood [affective] disorders
+ltc_041,Mood disorders,F30-F39,F38.8,F388,Other specified mood [affective] disorders
+ltc_041,Mood disorders,F30-F39,F39.X,F39X,Unspecified mood [affective] disorder
+ltc_042,Multiple sclerosis (and optic neuritis),H46-H48,H46.X,H46X,Optic neuritis
+ltc_042,Multiple sclerosis (and optic neuritis),G35-G37,G35.X,G35X,Multiple sclerosis
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F43.2,F432,Adjustment disorders
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F43.8,F438,Other reactions to severe stress
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F40.0,F400,Agoraphobia
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F40.1,F401,Social phobias
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F40.2,F402,Specific (isolated) phobias
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F40.8,F408,Other phobic anxiety disorders
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F40.9,F409,"Phobic anxiety disorder, unspecified"
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F41.0,F410,Panic disorder [episodic paroxysmal anxiety]
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F41.1,F411,Generalized anxiety disorder
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F41.2,F412,Mixed anxiety and depressive disorder
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F41.3,F413,Other mixed anxiety disorders
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F41.8,F418,Other specified anxiety disorders
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F41.9,F419,"Anxiety disorder, unspecified"
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F42.0,F420,Predominantly obsessional thoughts or ruminations
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F42.1,F421,Predominantly compulsive acts [obsessional rituals]
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F42.2,F422,Mixed obsessional thoughts and acts
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F42.8,F428,Other obsessive-compulsive disorders
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F42.9,F429,"Obsessive-compulsive disorder, unspecified"
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F43.1,F431,Post-traumatic stress disorder
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F43.9,F439,"Reaction to severe stress, unspecified"
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F44.0,F440,Dissociative amnesia
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F44.1,F441,Dissociative fugue
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F44.2,F442,Dissociative stupor
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F44.3,F443,Trance and possession disorders
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F44.4,F444,Dissociative motor disorders
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F44.5,F445,Dissociative convulsions
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F44.6,F446,Dissociative anaesthesia and sensory loss
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F44.7,F447,Mixed dissociative [conversion] disorders
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F44.8,F448,Other dissociative [conversion] disorders
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F44.9,F449,"Dissociative [conversion] disorder, unspecified"
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F45.0,F450,Somatization disorder
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F45.1,F451,Undifferentiated somatoform disorder
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F45.2,F452,Hypochondriacal disorder
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F45.3,F453,Somatoform autonomic dysfunction
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F45.4,F454,Persistent somatoform pain disorder
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F45.8,F458,Other somatoform disorders
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F45.9,F459,"Somatoform disorder, unspecified"
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F48.0,F480,Neurasthenia
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F48.1,F481,Depersonalization-derealization syndrome
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F48.8,F488,Other specified neurotic disorders
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F48.9,F489,"Neurotic disorder, unspecified"
+ltc_044,Noninfective enteritis and colitis,K50-K52,K50.0,K500,Crohn disease of small intestine
+ltc_044,Noninfective enteritis and colitis,K50-K52,K50.1,K501,Crohn disease of large intestine
+ltc_044,Noninfective enteritis and colitis,K50-K52,K50.8,K508,Other Crohn disease
+ltc_044,Noninfective enteritis and colitis,K50-K52,K50.9,K509,"Crohn disease, unspecified"
+ltc_044,Noninfective enteritis and colitis,K50-K52,K51.0,K510,Ulcerative (chronic) pancolitis
+ltc_044,Noninfective enteritis and colitis,K50-K52,K51.2,K512,Ulcerative (chronic) proctitis
+ltc_044,Noninfective enteritis and colitis,K50-K52,K51.3,K513,Ulcerative (chronic) rectosigmoiditis
+ltc_044,Noninfective enteritis and colitis,K50-K52,K51.4,K514,Inflammatory polyps
+ltc_044,Noninfective enteritis and colitis,K50-K52,K51.5,K515,Left sided colitis
+ltc_044,Noninfective enteritis and colitis,K50-K52,K51.8,K518,Other ulcerative colitis
+ltc_044,Noninfective enteritis and colitis,K50-K52,K51.9,K519,"Ulcerative colitis, unspecified"
+ltc_044,Noninfective enteritis and colitis,K50-K52,K52.0,K520,Gastroenteritis and colitis due to radiation
+ltc_044,Noninfective enteritis and colitis,K50-K52,K52.1,K521,Toxic gastroenteritis and colitis
+ltc_044,Noninfective enteritis and colitis,K50-K52,K52.2,K522,Allergic and dietetic gastroenteritis and colitis
+ltc_044,Noninfective enteritis and colitis,K50-K52,K52.3,K523,Indeterminate colitis
+ltc_044,Noninfective enteritis and colitis,K50-K52,K52.8,K528,Other specified noninfective gastroenteritis and colitis
+ltc_044,Noninfective enteritis and colitis,K50-K52,K52.9,K529,"Noninfective gastroenteritis and colitis, unspecified"
+ltc_045,Osteoarthritis,M15-M19,M15.0,M150,Primary generalized osteoarthritis
+ltc_045,Osteoarthritis,M15-M19,M15.1,M151,"Heberden nodes, with arthropathy"
+ltc_045,Osteoarthritis,M15-M19,M15.2,M152,"Bouchard nodes, with arthropathy"
+ltc_045,Osteoarthritis,M15-M19,M15.3,M153,Secondary multiple arthrosis
+ltc_045,Osteoarthritis,M15-M19,M15.4,M154,Erosive osteoarthritis
+ltc_045,Osteoarthritis,M15-M19,M15.8,M158,Other polyarthrosis
+ltc_045,Osteoarthritis,M15-M19,M15.9,M159,"Polyarthrosis, unspecified"
+ltc_045,Osteoarthritis,M15-M19,M16.0,M160,"Primary coxarthrosis, bilateral"
+ltc_045,Osteoarthritis,M15-M19,M16.1,M161,Other primary coxarthrosis
+ltc_045,Osteoarthritis,M15-M19,M16.2,M162,"Coxarthrosis resulting from dysplasia, bilateral"
+ltc_045,Osteoarthritis,M15-M19,M16.3,M163,Other dysplastic coxarthrosis
+ltc_045,Osteoarthritis,M15-M19,M16.5,M165,Other post-traumatic coxarthrosis
+ltc_045,Osteoarthritis,M15-M19,M16.9,M169,"Coxarthrosis, unspecified"
+ltc_045,Osteoarthritis,M15-M19,M17.0,M170,"Primary gonarthrosis, bilateral"
+ltc_045,Osteoarthritis,M15-M19,M17.1,M171,Other primary gonarthrosis
+ltc_045,Osteoarthritis,M15-M19,M17.3,M173,Other post-traumatic gonarthrosis
+ltc_045,Osteoarthritis,M15-M19,M17.9,M179,"Gonarthrosis, unspecified"
+ltc_045,Osteoarthritis,M15-M19,M18.0,M180,"Primary arthrosis of first carpometacarpal joints, bilateral"
+ltc_045,Osteoarthritis,M15-M19,M18.1,M181,Other primary arthrosis of first carpometacarpal joint
+ltc_045,Osteoarthritis,M15-M19,M18.3,M183,Other post-traumatic arthrosis of first carpometacarpal joint
+ltc_045,Osteoarthritis,M15-M19,M18.9,M189,"Arthrosis of first carpometacarpal joint, unspecified"
+ltc_045,Osteoarthritis,M15-M19,M19.0,M190,Primary arthrosis of other joints
+ltc_045,Osteoarthritis,M15-M19,M19.8,M198,Other specified arthrosis
+ltc_045,Osteoarthritis,M15-M19,M19.9,M199,"Arthrosis, unspecified"
+ltc_046,Other forms of heart disease,I30-I52,I39.0,I390,Mitral valve disorders in diseases classified elsewhere
+ltc_046,Other forms of heart disease,I30-I52,I39.1,I391,Aortic valve disorders in diseases classified elsewhere
+ltc_046,Other forms of heart disease,I30-I52,I39.2,I392,Tricuspid valve disorders in diseases classified elsewhere
+ltc_046,Other forms of heart disease,I30-I52,I39.3,I393,Pulmonary valve disorders in diseases classified elsewhere
+ltc_046,Other forms of heart disease,I30-I52,I39.4,I394,Multiple valve disorders in diseases classified elsewhere
+ltc_046,Other forms of heart disease,I30-I52,I39.8,I398,"Endocarditis, valve unspecified, in diseases classified elsewhere"
+ltc_046,Other forms of heart disease,I30-I52,I44.0,I440,"Atrioventricular block, first degree"
+ltc_046,Other forms of heart disease,I30-I52,I44.1,I441,"Atrioventricular block, second degree"
+ltc_046,Other forms of heart disease,I30-I52,I44.2,I442,"Atrioventricular block, complete"
+ltc_046,Other forms of heart disease,I30-I52,I44.3,I443,Other and unspecified atrioventricular block
+ltc_046,Other forms of heart disease,I30-I52,I44.4,I444,Left anterior fascicular block
+ltc_046,Other forms of heart disease,I30-I52,I44.5,I445,Left posterior fascicular block
+ltc_046,Other forms of heart disease,I30-I52,I44.6,I446,Other and unspecified fascicular block
+ltc_046,Other forms of heart disease,I30-I52,I44.7,I447,"Left bundle-branch block, unspecified"
+ltc_046,Other forms of heart disease,I30-I52,I45.0,I450,Right fascicular block
+ltc_046,Other forms of heart disease,I30-I52,I45.1,I451,Other and unspecified right bundle-branch block
+ltc_046,Other forms of heart disease,I30-I52,I45.2,I452,Bifascicular block
+ltc_046,Other forms of heart disease,I30-I52,I45.3,I453,Trifascicular block
+ltc_046,Other forms of heart disease,I30-I52,I45.4,I454,Nonspecific intraventricular block
+ltc_046,Other forms of heart disease,I30-I52,I45.5,I455,Other specified heart block
+ltc_046,Other forms of heart disease,I30-I52,I45.6,I456,Pre-excitation syndrome
+ltc_046,Other forms of heart disease,I30-I52,I45.8,I458,Other specified conduction disorders
+ltc_046,Other forms of heart disease,I30-I52,I51.1,I511,"Rupture of chordae tendineae, not elsewhere classified"
+ltc_046,Other forms of heart disease,I30-I52,I51.2,I512,"Rupture of papillary muscle, not elsewhere classified"
+ltc_046,Other forms of heart disease,I30-I52,I52.0,I520,Other heart disorders in bacterial diseases classified elsewhere
+ltc_046,Other forms of heart disease,I30-I52,I52.1,I521,Other heart disorders in other infectious and parasitic diseases classified elsewhere
+ltc_046,Other forms of heart disease,I30-I52,I52.8,I528,Other heart disorders in other diseases classified elsewhere
+ltc_046,Other forms of heart disease,I30-I52,I34.0,I340,Mitral (valve) insufficiency
+ltc_046,Other forms of heart disease,I30-I52,I34.1,I341,Mitral (valve) prolapse
+ltc_046,Other forms of heart disease,I30-I52,I34.2,I342,Nonrheumatic mitral (valve) stenosis
+ltc_046,Other forms of heart disease,I30-I52,I34.8,I348,Other nonrheumatic mitral valve disorders
+ltc_046,Other forms of heart disease,I30-I52,I34.9,I349,"Nonrheumatic mitral valve disorder, unspecified"
+ltc_046,Other forms of heart disease,I30-I52,I35.0,I350,Aortic (valve) stenosis
+ltc_046,Other forms of heart disease,I30-I52,I35.1,I351,Aortic (valve) insufficiency
+ltc_046,Other forms of heart disease,I30-I52,I35.2,I352,Aortic (valve) stenosis with insufficiency
+ltc_046,Other forms of heart disease,I30-I52,I35.8,I358,Other aortic valve disorders
+ltc_046,Other forms of heart disease,I30-I52,I35.9,I359,"Aortic valve disorder, unspecified"
+ltc_046,Other forms of heart disease,I30-I52,I36.0,I360,Nonrheumatic tricuspid (valve) stenosis
+ltc_046,Other forms of heart disease,I30-I52,I36.1,I361,Nonrheumatic tricuspid (valve) insufficiency
+ltc_046,Other forms of heart disease,I30-I52,I36.2,I362,Nonrheumatic tricuspid (valve) stenosis with insufficiency
+ltc_046,Other forms of heart disease,I30-I52,I36.8,I368,Other nonrheumatic tricuspid valve disorders
+ltc_046,Other forms of heart disease,I30-I52,I36.9,I369,"Nonrheumatic tricuspid valve disorder, unspecified"
+ltc_046,Other forms of heart disease,I30-I52,I37.0,I370,Pulmonary valve stenosis
+ltc_046,Other forms of heart disease,I30-I52,I37.1,I371,Pulmonary valve insufficiency
+ltc_046,Other forms of heart disease,I30-I52,I37.2,I372,Pulmonary valve stenosis with insufficiency
+ltc_046,Other forms of heart disease,I30-I52,I37.8,I378,Other pulmonary valve disorders
+ltc_046,Other forms of heart disease,I30-I52,I37.9,I379,"Pulmonary valve disorder, unspecified"
+ltc_046,Other forms of heart disease,I30-I52,I38.X,I38X,"Endocarditis, valve unspecified"
+ltc_046,Other forms of heart disease,I30-I52,I42.0,I420,Dilated cardiomyopathy
+ltc_046,Other forms of heart disease,I30-I52,I42.1,I421,Obstructive hypertrophic cardiomyopathy
+ltc_046,Other forms of heart disease,I30-I52,I42.2,I422,Other hypertrophic cardiomyopathy
+ltc_046,Other forms of heart disease,I30-I52,I42.3,I423,Endomyocardial (eosinophilic) disease
+ltc_046,Other forms of heart disease,I30-I52,I42.4,I424,Endocardial fibroelastosis
+ltc_046,Other forms of heart disease,I30-I52,I42.5,I425,Other restrictive cardiomyopathy
+ltc_046,Other forms of heart disease,I30-I52,I42.6,I426,Alcoholic cardiomyopathy
+ltc_046,Other forms of heart disease,I30-I52,I42.7,I427,Cardiomyopathy due to drugs and other external agents
+ltc_046,Other forms of heart disease,I30-I52,I42.8,I428,Other cardiomyopathies
+ltc_046,Other forms of heart disease,I30-I52,I42.9,I429,"Cardiomyopathy, unspecified"
+ltc_046,Other forms of heart disease,I30-I52,I45.9,I459,"Conduction disorder, unspecified"
+ltc_046,Other forms of heart disease,I30-I52,I47.1,I471,Supraventricular tachycardia
+ltc_046,Other forms of heart disease,I30-I52,I50.0,I500,Congestive heart failure
+ltc_046,Other forms of heart disease,I30-I52,I50.1,I501,Left ventricular failure
+ltc_046,Other forms of heart disease,I30-I52,I50.9,I509,"Heart failure, unspecified"
+ltc_046,Other forms of heart disease,I30-I52,I51.0,I510,"Cardiac septal defect, acquired"
+ltc_046,Other forms of heart disease,I30-I52,I51.3,I513,"Intracardiac thrombosis, not elsewhere classified"
+ltc_046,Other forms of heart disease,I30-I52,I51.4,I514,"Myocarditis, unspecified"
+ltc_046,Other forms of heart disease,I30-I52,I51.5,I515,Myocardial degeneration
+ltc_046,Other forms of heart disease,I30-I52,I51.6,I516,"Cardiovascular disease, unspecified"
+ltc_046,Other forms of heart disease,I30-I52,I51.7,I517,Cardiomegaly
+ltc_046,Other forms of heart disease,I30-I52,I51.8,I518,Other ill-defined heart diseases
+ltc_046,Other forms of heart disease,I30-I52,I51.9,I519,"Heart disease, unspecified"
+ltc_047,Other interstitial pulmonary diseases,J80-J84,J84.0,J840,Alveolar and parietoalveolar conditions
+ltc_047,Other interstitial pulmonary diseases,J80-J84,J84.1,J841,Other interstitial pulmonary diseases with fibrosis
+ltc_047,Other interstitial pulmonary diseases,J80-J84,J84.8,J848,Other specified interstitial pulmonary diseases
+ltc_047,Other interstitial pulmonary diseases,J80-J84,J84.9,J849,"Interstitial pulmonary disease, unspecified"
+ltc_048,Other retinal disorders (Macular degeneration),H30-H36,H35.0,H350,Background retinopathy and retinal vascular changes
+ltc_048,Other retinal disorders (Macular degeneration),H30-H36,H35.2,H352,Other proliferative retinopathy
+ltc_048,Other retinal disorders (Macular degeneration),H30-H36,H35.3,H353,Degeneration of macula and posterior pole
+ltc_048,Other retinal disorders (Macular degeneration),H30-H36,H35.4,H354,Peripheral retinal degeneration
+ltc_048,Other retinal disorders (Macular degeneration),H30-H36,H35.7,H357,Separation of retinal layers
+ltc_048,Other retinal disorders (Macular degeneration),H30-H36,H35.8,H358,Other specified retinal disorders
+ltc_048,Other retinal disorders (Macular degeneration),H30-H36,H35.9,H359,"Retinal disorder, unspecified"
+ltc_049,Other spirochaetal infections,A65-A69,A69.2,A692,Lyme disease
+ltc_050,Parkinson disease,G20-G26,G20.X,G20X,Parkinson disease
+ltc_050,Parkinson disease,G20-G26,G21.1,G211,Other drug-induced secondary parkinsonism
+ltc_050,Parkinson disease,G20-G26,G21.2,G212,Secondary parkinsonism due to other external agents
+ltc_050,Parkinson disease,G20-G26,G21.3,G213,Postencephalitic parkinsonism
+ltc_050,Parkinson disease,G20-G26,G21.4,G214,Vascular parkinsonism
+ltc_050,Parkinson disease,G20-G26,G21.8,G218,Other secondary parkinsonism
+ltc_050,Parkinson disease,G20-G26,G21.9,G219,"Secondary parkinsonism, unspecified"
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,G60-G64,G61.1,G611,Serum neuropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,G60-G64,G63.2,G632,Diabetic polyneuropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,G60-G64,G63.3,G633,Polyneuropathy in other endocrine and metabolic diseases
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,G60-G64,G63.4,G634,Polyneuropathy in nutritional deficiency
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,G60-G64,G63.5,G635,Polyneuropathy in systemic connective tissue disorders
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,G60-G64,G63.6,G636,Polyneuropathy in other musculoskeletal disorders
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,G60-G64,G63.8,G638,Polyneuropathy in other diseases classified elsewhere
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,G60-G64,G61.8,G618,Other inflammatory polyneuropathies
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,G60-G64,G61.9,G619,"Inflammatory polyneuropathy, unspecified"
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,G60-G64,G62.0,G620,Drug-induced polyneuropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,G60-G64,G62.1,G621,Alcoholic polyneuropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,G60-G64,G62.2,G622,Polyneuropathy due to other toxic agents
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,G60-G64,G62.8,G628,Other specified polyneuropathies
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,G60-G64,G62.9,G629,"Polyneuropathy, unspecified"
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,G60-G64,G63.0,G630,Polyneuropathy in infectious and parasitic diseases classified elsewhere
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,G60-G64,G63.1,G631,Polyneuropathy in neoplastic disease
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,G60-G64,G64.X,G64X,Other disorders of peripheral nervous system
+ltc_052,Psoriasis,L40-L45,L40.0,L400,Psoriasis vulgaris
+ltc_052,Psoriasis,L40-L45,L40.1,L401,Generalized pustular psoriasis
+ltc_052,Psoriasis,L40-L45,L40.2,L402,Acrodermatitis continua
+ltc_052,Psoriasis,L40-L45,L40.3,L403,Pustulosis palmaris et plantaris
+ltc_052,Psoriasis,L40-L45,L40.4,L404,Guttate psoriasis
+ltc_052,Psoriasis,L40-L45,L40.5,L405,Arthropathic psoriasis
+ltc_052,Psoriasis,L40-L45,L40.8,L408,Other psoriasis
+ltc_052,Psoriasis,L40-L45,L40.9,L409,"Psoriasis, unspecified"
+ltc_053,Retinal detachments and breaks,H30-H36,H33.0,H330,Retinal detachment with retinal break
+ltc_053,Retinal detachments and breaks,H30-H36,H33.1,H331,Retinoschisis and retinal cysts
+ltc_053,Retinal detachments and breaks,H30-H36,H33.2,H332,Serous retinal detachment
+ltc_053,Retinal detachments and breaks,H30-H36,H33.3,H333,Retinal breaks without detachment
+ltc_053,Retinal detachments and breaks,H30-H36,H33.4,H334,Traction detachment of retina
+ltc_053,Retinal detachments and breaks,H30-H36,H33.5,H335,Other retinal detachments
+ltc_054,Rhinitis and Sinusitis,J30-J39,J30.1,J301,Allergic rhinitis due to pollen
+ltc_054,Rhinitis and Sinusitis,J30-J39,J30.2,J302,Other seasonal allergic rhinitis
+ltc_054,Rhinitis and Sinusitis,J30-J39,J30.3,J303,Other allergic rhinitis
+ltc_054,Rhinitis and Sinusitis,J30-J39,J30.4,J304,"Allergic rhinitis, unspecified"
+ltc_054,Rhinitis and Sinusitis,J30-J39,J31.0,J310,Chronic rhinitis
+ltc_054,Rhinitis and Sinusitis,J30-J39,J32.0,J320,Chronic maxillary sinusitis
+ltc_054,Rhinitis and Sinusitis,J30-J39,J32.1,J321,Chronic frontal sinusitis
+ltc_054,Rhinitis and Sinusitis,J30-J39,J32.2,J322,Chronic ethmoidal sinusitis
+ltc_054,Rhinitis and Sinusitis,J30-J39,J32.3,J323,Chronic sphenoidal sinusitis
+ltc_054,Rhinitis and Sinusitis,J30-J39,J32.4,J324,Chronic pansinusitis
+ltc_054,Rhinitis and Sinusitis,J30-J39,J32.8,J328,Other chronic sinusitis
+ltc_054,Rhinitis and Sinusitis,J30-J39,J32.9,J329,"Chronic sinusitis, unspecified"
+ltc_055,Schizophrenia,F20-F29,F20.0,F200,Paranoid schizophrenia
+ltc_055,Schizophrenia,F20-F29,F20.1,F201,Hebephrenic schizophrenia
+ltc_055,Schizophrenia,F20-F29,F20.2,F202,Catatonic schizophrenia
+ltc_055,Schizophrenia,F20-F29,F20.3,F203,Undifferentiated schizophrenia
+ltc_055,Schizophrenia,F20-F29,F20.4,F204,Post-schizophrenic depression
+ltc_055,Schizophrenia,F20-F29,F20.5,F205,Residual schizophrenia
+ltc_055,Schizophrenia,F20-F29,F20.6,F206,Simple schizophrenia
+ltc_055,Schizophrenia,F20-F29,F20.8,F208,Other schizophrenia
+ltc_055,Schizophrenia,F20-F29,F20.9,F209,"Schizophrenia, unspecified"
+ltc_055,Schizophrenia,F20-F29,F21.X,F21X,Schizotypal disorder
+ltc_055,Schizophrenia,F20-F29,F22.0,F220,Delusional disorder
+ltc_055,Schizophrenia,F20-F29,F22.8,F228,Other persistent delusional disorders
+ltc_055,Schizophrenia,F20-F29,F22.9,F229,"Persistent delusional disorder, unspecified"
+ltc_055,Schizophrenia,F20-F29,F24.X,F24X,Induced delusional disorder
+ltc_055,Schizophrenia,F20-F29,F25.0,F250,"Schizoaffective disorder, manic type"
+ltc_055,Schizophrenia,F20-F29,F25.1,F251,"Schizoaffective disorder, depressive type"
+ltc_055,Schizophrenia,F20-F29,F25.2,F252,"Schizoaffective disorder, mixed type"
+ltc_055,Schizophrenia,F20-F29,F25.8,F258,Other schizoaffective disorders
+ltc_055,Schizophrenia,F20-F29,F25.9,F259,"Schizoaffective disorder, unspecified"
+ltc_055,Schizophrenia,F20-F29,F28.X,F28X,Other nonorganic psychotic disorders
+ltc_055,Schizophrenia,F20-F29,F29.X,F29X,Unspecified nonorganic psychosis
+ltc_056,Sleep disorders,G40-G47,G47.0,G470,Disorders of initiating and maintaining sleep [insomnias]
+ltc_056,Sleep disorders,G40-G47,G47.1,G471,Disorders of excessive somnolence [hypersomnias]
+ltc_056,Sleep disorders,G40-G47,G47.2,G472,Disorders of the sleep-wake schedule
+ltc_056,Sleep disorders,G40-G47,G47.3,G473,Sleep apnoea
+ltc_056,Sleep disorders,G40-G47,G47.4,G474,Narcolepsy and cataplexy
+ltc_056,Sleep disorders,G40-G47,G47.8,G478,Other sleep disorders
+ltc_056,Sleep disorders,G40-G47,G47.9,G479,"Sleep disorder, unspecified"
+ltc_057,Spinal degenerative disease,"M47, M51",M47.0,M470,Anterior spinal and vertebral artery compression syndromes
+ltc_057,Spinal degenerative disease,"M47, M51",M47.1,M471,Other spondylosis with myelopathy
+ltc_057,Spinal degenerative disease,"M47, M51",M47.2,M472,Other spondylosis with radiculopathy
+ltc_057,Spinal degenerative disease,"M47, M51",M47.8,M478,Other spondylosis
+ltc_057,Spinal degenerative disease,"M47, M51",M47.9,M479,"Spondylosis, unspecified"
+ltc_057,Spinal degenerative disease,"M47, M51",M51.0,M510,Lumbar and other intervertebral disc disorders with myelopathy
+ltc_057,Spinal degenerative disease,"M47, M51",M51.1,M511,Lumbar and other intervertebral disc disorders with radiculopathy
+ltc_057,Spinal degenerative disease,"M47, M51",M51.2,M512,Other specified intervertebral disc displacement
+ltc_057,Spinal degenerative disease,"M47, M51",M51.3,M513,Other specified intervertebral disc degeneration
+ltc_057,Spinal degenerative disease,"M47, M51",M51.4,M514,Schmorl nodes
+ltc_057,Spinal degenerative disease,"M47, M51",M51.8,M518,Other specified intervertebral disc disorders
+ltc_057,Spinal degenerative disease,"M47, M51",M51.9,M519,"Intervertebral disc disorder, unspecified"
+ltc_058,Systemic connective tissue disorders,M30-M36,M36.0,M360,Dermato(poly)myositis in neoplastic disease
+ltc_058,Systemic connective tissue disorders,M30-M36,M36.1,M361,Arthropathy in neoplastic disease
+ltc_058,Systemic connective tissue disorders,M30-M36,M36.2,M362,Haemophilic arthropathy
+ltc_058,Systemic connective tissue disorders,M30-M36,M36.3,M363,Arthropathy in other blood disorders
+ltc_058,Systemic connective tissue disorders,M30-M36,M36.4,M364,Arthropathy in hypersensitivity reactions classified elsewhere
+ltc_058,Systemic connective tissue disorders,M30-M36,M36.8,M368,Systemic disorders of connective tissue in other diseases classified elsewhere
+ltc_058,Systemic connective tissue disorders,M30-M36,M30.0,M300,Polyarteritis nodosa
+ltc_058,Systemic connective tissue disorders,M30-M36,M30.1,M301,Polyarteritis with lung involvement [Churg-Strauss]
+ltc_058,Systemic connective tissue disorders,M30-M36,M30.8,M308,Other conditions related to polyarteritis nodosa
+ltc_058,Systemic connective tissue disorders,M30-M36,M31.0,M310,Hypersensitivity angiitis
+ltc_058,Systemic connective tissue disorders,M30-M36,M31.1,M311,Thrombotic microangiopathy
+ltc_058,Systemic connective tissue disorders,M30-M36,M31.2,M312,Lethal midline granuloma
+ltc_058,Systemic connective tissue disorders,M30-M36,M31.3,M313,Granulomatosis with polyangiitis [Wegener]
+ltc_058,Systemic connective tissue disorders,M30-M36,M31.4,M314,Aortic arch syndrome [Takayasu]
+ltc_058,Systemic connective tissue disorders,M30-M36,M31.5,M315,Giant cell arteritis with polymyalgia rheumatica
+ltc_058,Systemic connective tissue disorders,M30-M36,M31.6,M316,Other giant cell arteritis
+ltc_058,Systemic connective tissue disorders,M30-M36,M31.7,M317,Microscopic polyangiitis
+ltc_058,Systemic connective tissue disorders,M30-M36,M31.8,M318,Other specified necrotizing vasculopathies
+ltc_058,Systemic connective tissue disorders,M30-M36,M31.9,M319,"Necrotizing vasculopathy, unspecified"
+ltc_058,Systemic connective tissue disorders,M30-M36,M32.0,M320,Drug-induced systemic lupus erythematosus
+ltc_058,Systemic connective tissue disorders,M30-M36,M32.1,M321,Systemic lupus erythematosus with organ or system involvement
+ltc_058,Systemic connective tissue disorders,M30-M36,M32.8,M328,Other forms of systemic lupus erythematosus
+ltc_058,Systemic connective tissue disorders,M30-M36,M32.9,M329,"Systemic lupus erythematosus, unspecified"
+ltc_058,Systemic connective tissue disorders,M30-M36,M33.1,M331,Other dermatopolymyositis
+ltc_058,Systemic connective tissue disorders,M30-M36,M33.2,M332,Polymyositis
+ltc_058,Systemic connective tissue disorders,M30-M36,M33.9,M339,"Dermatopolymyositis, unspecified"
+ltc_058,Systemic connective tissue disorders,M30-M36,M34.0,M340,Progressive systemic sclerosis
+ltc_058,Systemic connective tissue disorders,M30-M36,M34.1,M341,CR(E)ST syndrome
+ltc_058,Systemic connective tissue disorders,M30-M36,M34.8,M348,Other forms of systemic sclerosis
+ltc_058,Systemic connective tissue disorders,M30-M36,M34.9,M349,"Systemic sclerosis, unspecified"
+ltc_058,Systemic connective tissue disorders,M30-M36,M35.0,M350,Sicca syndrome [Sjogren]
+ltc_058,Systemic connective tissue disorders,M30-M36,M35.1,M351,Other overlap syndromes
+ltc_058,Systemic connective tissue disorders,M30-M36,M35.2,M352,Behcet disease
+ltc_058,Systemic connective tissue disorders,M30-M36,M35.3,M353,Polymyalgia rheumatica
+ltc_058,Systemic connective tissue disorders,M30-M36,M35.4,M354,Diffuse eosinophilic fasciitis
+ltc_058,Systemic connective tissue disorders,M30-M36,M35.5,M355,Multifocal fibrosclerosis
+ltc_058,Systemic connective tissue disorders,M30-M36,M35.6,M356,Relapsing panniculitis [Weber-Christian]
+ltc_058,Systemic connective tissue disorders,M30-M36,M35.7,M357,Hypermobility syndrome
+ltc_058,Systemic connective tissue disorders,M30-M36,M35.8,M358,Other specified systemic involvement of connective tissue
+ltc_058,Systemic connective tissue disorders,M30-M36,M35.9,M359,"Systemic involvement of connective tissue, unspecified"
+ltc_059,Tuberculosis,B20-B24,B20.0,B200,HIV disease resulting in mycobacterial infection
+ltc_059,Tuberculosis,J60-J70,J65.X,J65X,Pneumoconiosis associated with tuberculosis
+ltc_059,Tuberculosis,A15-A19,A15.0,A150,"Tuberculosis of lung, confirmed by sputum microscopy with or without culture"
+ltc_059,Tuberculosis,A15-A19,A15.1,A151,"Tuberculosis of lung, confirmed by culture only"
+ltc_059,Tuberculosis,A15-A19,A15.2,A152,"Tuberculosis of lung, confirmed histologically"
+ltc_059,Tuberculosis,A15-A19,A15.3,A153,"Tuberculosis of lung, confirmed by unspecified means"
+ltc_059,Tuberculosis,A15-A19,A15.4,A154,"Tuberculosis of intrathoracic lymph nodes, confirmed bacteriologically and histologically"
+ltc_059,Tuberculosis,A15-A19,A15.5,A155,"Tuberculosis of larynx, trachea and bronchus, confirmed bacteriologically and histologically"
+ltc_059,Tuberculosis,A15-A19,A15.6,A156,"Tuberculous pleurisy, confirmed bacteriologically and histologically"
+ltc_059,Tuberculosis,A15-A19,A15.7,A157,"Primary respiratory tuberculosis, confirmed bacteriologically and histologically"
+ltc_059,Tuberculosis,A15-A19,A15.8,A158,"Other respiratory tuberculosis, confirmed bacteriologically and histologically"
+ltc_059,Tuberculosis,A15-A19,A15.9,A159,"Respiratory tuberculosis unspecified, confirmed bacteriologically and histologically"
+ltc_059,Tuberculosis,A15-A19,A16.0,A160,"Tuberculosis of lung, bacteriologically and histologically negative"
+ltc_059,Tuberculosis,A15-A19,A16.1,A161,"Tuberculosis of lung, bacteriological and histological examination not done"
+ltc_059,Tuberculosis,A15-A19,A16.2,A162,"Tuberculosis of lung, without mention of bacteriological or histological confirmation"
+ltc_059,Tuberculosis,A15-A19,A16.3,A163,"Tuberculosis of intrathoracic lymph nodes, without mention of bacteriological or histological confirmation"
+ltc_059,Tuberculosis,A15-A19,A16.4,A164,"Tuberculosis of larynx, trachea and bronchus, without mention of bacteriological or histological confirmation"
+ltc_059,Tuberculosis,A15-A19,A16.5,A165,"Tuberculous pleurisy, without mention of bacteriological or histological confirmation"
+ltc_059,Tuberculosis,A15-A19,A16.7,A167,Primary respiratory tuberculosis without mention of bacteriological or histological confirmation
+ltc_059,Tuberculosis,A15-A19,A16.8,A168,"Other respiratory tuberculosis, without mention of bacteriological or histological confirmation"
+ltc_059,Tuberculosis,A15-A19,A16.9,A169,"Respiratory tuberculosis unspecified, without mention of bacteriological or histological confirmation"
+ltc_059,Tuberculosis,A15-A19,A17.0,A170,Tuberculous meningitis
+ltc_059,Tuberculosis,A15-A19,A17.1,A171,Meningeal tuberculoma
+ltc_059,Tuberculosis,A15-A19,A17.8,A178,Other tuberculosis of nervous system
+ltc_059,Tuberculosis,A15-A19,A17.9,A179,"Tuberculosis of nervous system, unspecified"
+ltc_059,Tuberculosis,A15-A19,A18.0,A180,Tuberculosis of bones and joints
+ltc_059,Tuberculosis,A15-A19,A18.1,A181,Tuberculosis of genitourinary system
+ltc_059,Tuberculosis,A15-A19,A18.2,A182,Tuberculous peripheral lymphadenopathy
+ltc_059,Tuberculosis,A15-A19,A18.3,A183,"Tuberculosis of intestines, peritoneum and mesenteric glands"
+ltc_059,Tuberculosis,A15-A19,A18.4,A184,Tuberculosis of skin and subcutaneous tissue
+ltc_059,Tuberculosis,A15-A19,A18.5,A185,Tuberculosis of eye
+ltc_059,Tuberculosis,A15-A19,A18.6,A186,Tuberculosis of ear
+ltc_059,Tuberculosis,A15-A19,A18.7,A187,Tuberculosis of adrenal glands
+ltc_059,Tuberculosis,A15-A19,A18.8,A188,Tuberculosis of other specified organs
+ltc_059,Tuberculosis,A15-A19,A19.8,A198,Other miliary tuberculosis
+ltc_059,Tuberculosis,A15-A19,A19.9,A199,"Miliary tuberculosis, unspecified"
+ltc_059,Tuberculosis,B90-B94,B90.0,B900,Sequelae of central nervous system tuberculosis
+ltc_059,Tuberculosis,B90-B94,B90.1,B901,Sequelae of genitourinary tuberculosis
+ltc_059,Tuberculosis,B90-B94,B90.2,B902,Sequelae of tuberculosis of bones and joints
+ltc_059,Tuberculosis,B90-B94,B90.8,B908,Sequelae of tuberculosis of other organs
+ltc_059,Tuberculosis,B90-B94,B90.9,B909,Sequelae of respiratory and unspecified tuberculosis
+ltc_059,Tuberculosis,K20-K31,K23.0,K230,Tuberculous oesophagitis
+ltc_059,Tuberculosis,K65-K67,K67.3,K673,Tuberculous peritonitis
+ltc_059,Tuberculosis,K90-K93,K93.0,K930,"Tuberculous disorders of intestines, peritoneum and mesenteric glands"
+ltc_059,Tuberculosis,M00-M03,M01.1,M011,Tuberculous arthritis
+ltc_059,Tuberculosis,M45-M49,M49.0,M490,Tuberculosis of spine
+ltc_059,Tuberculosis,M86-M90,M90.0,M900,Tuberculosis of bone
+ltc_059,Tuberculosis,N30-N39,N33.0,N330,Tuberculous cystitis
+ltc_059,Tuberculosis,N70-N77,N74.0,N740,Tuberculous infection of cervix uteri
+ltc_059,Tuberculosis,N70-N77,N74.1,N741,Female tuberculous pelvic inflammatory disease
+ltc_060,Visual disturbances and blindness,H53-H54,H53.2,H532,Diplopia
+ltc_060,Visual disturbances and blindness,H53-H54,H53.3,H533,Other disorders of binocular vision
+ltc_060,Visual disturbances and blindness,H53-H54,H53.4,H534,Visual field defects
+ltc_060,Visual disturbances and blindness,H53-H54,H53.5,H535,Colour vision deficiencies
+ltc_060,Visual disturbances and blindness,H53-H54,H53.6,H536,Night blindness
+ltc_060,Visual disturbances and blindness,H53-H54,H54.0,H540,"Blindness, binocular"
+ltc_060,Visual disturbances and blindness,H53-H54,H54.1,H541,"Severe visual impairment, binocular"
+ltc_060,Visual disturbances and blindness,H53-H54,H54.2,H542,"Moderate visual impairment, binocular"
+ltc_060,Visual disturbances and blindness,H53-H54,H54.4,H544,"Blindness, monocular"
+ltc_060,Visual disturbances and blindness,H53-H54,H54.5,H545,"Severe visual impairment, monocular"
+ltc_060,Visual disturbances and blindness,H53-H54,H54.6,H546,"Moderate visual impairment, monocular"

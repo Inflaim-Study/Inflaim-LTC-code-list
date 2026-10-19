@@ -1,0 +1,25 @@
+condition_id,condition_name,icd10_block,icd10_code,hes_code,description
+ltc_045,Osteoarthritis,M15-M19,M15.0,M150,Primary generalized osteoarthritis
+ltc_045,Osteoarthritis,M15-M19,M15.1,M151,"Heberden nodes, with arthropathy"
+ltc_045,Osteoarthritis,M15-M19,M15.2,M152,"Bouchard nodes, with arthropathy"
+ltc_045,Osteoarthritis,M15-M19,M15.3,M153,Secondary multiple arthrosis
+ltc_045,Osteoarthritis,M15-M19,M15.4,M154,Erosive osteoarthritis
+ltc_045,Osteoarthritis,M15-M19,M15.8,M158,Other polyarthrosis
+ltc_045,Osteoarthritis,M15-M19,M15.9,M159,"Polyarthrosis, unspecified"
+ltc_045,Osteoarthritis,M15-M19,M16.0,M160,"Primary coxarthrosis, bilateral"
+ltc_045,Osteoarthritis,M15-M19,M16.1,M161,Other primary coxarthrosis
+ltc_045,Osteoarthritis,M15-M19,M16.2,M162,"Coxarthrosis resulting from dysplasia, bilateral"
+ltc_045,Osteoarthritis,M15-M19,M16.3,M163,Other dysplastic coxarthrosis
+ltc_045,Osteoarthritis,M15-M19,M16.5,M165,Other post-traumatic coxarthrosis
+ltc_045,Osteoarthritis,M15-M19,M16.9,M169,"Coxarthrosis, unspecified"
+ltc_045,Osteoarthritis,M15-M19,M17.0,M170,"Primary gonarthrosis, bilateral"
+ltc_045,Osteoarthritis,M15-M19,M17.1,M171,Other primary gonarthrosis
+ltc_045,Osteoarthritis,M15-M19,M17.3,M173,Other post-traumatic gonarthrosis
+ltc_045,Osteoarthritis,M15-M19,M17.9,M179,"Gonarthrosis, unspecified"
+ltc_045,Osteoarthritis,M15-M19,M18.0,M180,"Primary arthrosis of first carpometacarpal joints, bilateral"
+ltc_045,Osteoarthritis,M15-M19,M18.1,M181,Other primary arthrosis of first carpometacarpal joint
+ltc_045,Osteoarthritis,M15-M19,M18.3,M183,Other post-traumatic arthrosis of first carpometacarpal joint
+ltc_045,Osteoarthritis,M15-M19,M18.9,M189,"Arthrosis of first carpometacarpal joint, unspecified"
+ltc_045,Osteoarthritis,M15-M19,M19.0,M190,Primary arthrosis of other joints
+ltc_045,Osteoarthritis,M15-M19,M19.8,M198,Other specified arthrosis
+ltc_045,Osteoarthritis,M15-M19,M19.9,M199,"Arthrosis, unspecified"

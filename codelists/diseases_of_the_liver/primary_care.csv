@@ -1,0 +1,75 @@
+condition_id,condition_name,MedCodeId,SnomedCTConceptId,SnomedCTDescriptionId,OriginalReadCode,CleansedReadCode,Term
+ltc_015,Diseases of the liver,538081000000115,773411000000107,1726971000000115,7L1f,7L1f.00,Compensation for liver failure
+ltc_015,Diseases of the liver,286858013,16060001,3008400017,A700,A700.00,Hepatic coma due to viral hepatitis A
+ltc_015,Diseases of the liver,286862019,26206000,3008554017,A702,A702.00,Hepatic coma due to viral hepatitis B
+ltc_015,Diseases of the liver,286867013,3738000,7302012,A704,A704.00,Other specified viral hepatitis with coma
+ltc_015,Diseases of the liver,286868015,186628001,286868015,A7040,A704000,Viral hepatitis C with coma
+ltc_015,Diseases of the liver,286869011,3738000,7302012,A704z,A704z00,Other specified viral hepatitis with hepatic coma NOS
+ltc_015,Diseases of the liver,353595019,235881000,353595019,J6130,J613000,Alcoholic hepatic failure
+ltc_015,Diseases of the liver,120980011,72836002,120980011,J622,J622.00,Hepatic coma
+ltc_015,Diseases of the liver,221131000000118,13920009,23734015,J622-1,J622.11,Hepatic encephalopathy
+ltc_015,Diseases of the liver,358961000006119,59927004,99549014,J625,J625.00,[X] Hepatic failure
+ltc_015,Diseases of the liver,359011000006113,59927004,498583014,J625-1,J625.11,[X] Liver failure
+ltc_015,Diseases of the liver,353597010,59927004,99549014,J62y-1,J62y.11,Hepatic failure NOS
+ltc_015,Diseases of the liver,353596018,59927004,498583014,J62y-2,J62y.12,Liver failure
+ltc_015,Diseases of the liver,99549014,59927004,99549014,J62y-3,J62y.13,Hepatic failure
+ltc_015,Diseases of the liver,30226018,17890003,30226018,J634,J634.00,Hepatic infarction
+ltc_015,Diseases of the liver,303512010,197356006,303512010,J6351,J635100,Toxic liver disease with hepatic necrosis
+ltc_015,Diseases of the liver,303521011,197364000,303521011,J636,J636.00,Central haemorrhagic necrosis of liver
+ltc_015,Diseases of the liver,325080013,213230009,325080013,SP142,SP14200,Hepatic failure as a complication of care
+ltc_015,Diseases of the liver,325079010,213230009,325079010,SP142-1,SP14211,Liver failure as a complication of care
+ltc_015,Diseases of the liver,886501000006115,589511000000102,886501000006115,J613-99,J613.99,Alcoholic liver damage NOS
+ltc_015,Diseases of the liver,453265010,309783001,453265010,G8523,G852300,Oesophageal varices in alcoholic cirrhosis of the liver
+ltc_015,Diseases of the liver,83834016,50325005,83834016,J610,J610.00,Alcoholic fatty liver
+ltc_015,Diseases of the liver,476611000006116,420054005,2920441014,J612,J612.00,Alcoholic cirrhosis of liver
+ltc_015,Diseases of the liver,2579818016,419728003,2576980018,J612-2,J612.12,Laennec's cirrhosis
+ltc_015,Diseases of the liver,353594015,235880004,353594015,J6120,J612000,Alcoholic fibrosis and sclerosis of liver
+ltc_015,Diseases of the liver,303399018,41309000,68906017,J613,J613.00,Alcoholic liver damage
+ltc_015,Diseases of the liver,353587018,235875008,353587018,J617,J617.00,Alcoholic hepatitis
+ltc_015,Diseases of the liver,451124014,307757001,451124014,J6170,J617000,Chronic alcoholic hepatitis
+ltc_015,Diseases of the liver,851341000006110,851341000006106,851341000006110,EMISR4QFA1,,Fatty liver
+ltc_015,Diseases of the liver,303463012,197321007,303463012,J61y7,J61y700,Steatosis of liver
+ltc_015,Diseases of the liver,2819666013,442685003,2819666013,J61y8,J61y800,Nonalcoholic steatohepatitis
+ltc_015,Diseases of the liver,1786201000006119,197321007,303463012,J61y9,J61y900,Fatty change of liver
+ltc_015,Diseases of the liver,1786211000006116,197321007,2819770010,J61y9-1,J61y911,Fatty liver
+ltc_015,Diseases of the liver,3713571000006114,74669004,123999018,^ESCTCO371357,,Congestive cirrhosis
+ltc_015,Diseases of the liver,803961000006119,29633007,49567015,C3104,C310400,Glycogenosis with hepatic cirrhosis
+ltc_015,Diseases of the liver,1786709019,399126000,1786709019,C3500-2,C350012,Pigmentary cirrhosis of liver
+ltc_015,Diseases of the liver,1736361000000112,776981000000103,1736361000000112,C3708,C370800,Cystic fibrosis related cirrhosis
+ltc_015,Diseases of the liver,451442010,308129003,451442010,G8522,G852200,Oesophageal varices in cirrhosis of the liver
+ltc_015,Diseases of the liver,303393017,197279005,303393017,J61,J61..00,Cirrhosis and chronic liver disease
+ltc_015,Diseases of the liver,126721013,76301009,126721013,J612-1,J612.11,Florid cirrhosis
+ltc_015,Diseases of the liver,221111000000114,266468003,396389015,J615,J615.00,Cirrhosis - non-alcoholic
+ltc_015,Diseases of the liver,2576980018,419728003,2576980018,J615-1,J615.11,Portal cirrhosis
+ltc_015,Diseases of the liver,396390012,266469006,396390012,J6151,J615100,Multilobular portal cirrhosis
+ltc_015,Diseases of the liver,303419015,197293003,303419015,J6153,J615300,Diffuse nodular cirrhosis
+ltc_015,Diseases of the liver,303420014,197294009,303420014,J6154,J615400,Fatty portal cirrhosis
+ltc_015,Diseases of the liver,493707012,43904005,493707012,J6155,J615500,Hypertrophic portal cirrhosis
+ltc_015,Diseases of the liver,303425016,197296006,303425016,J6156,J615600,Capsular portal cirrhosis
+ltc_015,Diseases of the liver,396391011,266470007,396391011,J6157,J615700,Cardiac portal cirrhosis
+ltc_015,Diseases of the liver,123999018,74669004,123997016,J6157-1,J615711,Congestive cirrhosis
+ltc_015,Diseases of the liver,11267010,6183001,11267010,J6158-2,J615812,Indian childhood cirrhosis
+ltc_015,Diseases of the liver,55851000006118,271440004,406232019,J615C,J615C00,Xanthomatous portal cirrhosis
+ltc_015,Diseases of the liver,303437019,197303009,303437019,J615D,J615D00,Bacterial portal cirrhosis
+ltc_015,Diseases of the liver,303440019,197306001,303440019,J615G,J615G00,Zooparasitic portal cirrhosis
+ltc_015,Diseases of the liver,303441015,235896001,353622016,J615H,J615H00,Infectious cirrhosis
+ltc_015,Diseases of the liver,303442010,419728003,2576980018,J615y,J615y00,Portal cirrhosis unspecified
+ltc_015,Diseases of the liver,396393014,266468003,396389015,J615z,J615z00,Non-alcoholic cirrhosis NOS
+ltc_015,Diseases of the liver,731231000006114,43904005,73201018,J615z-1,J615z11,Macronodular cirrhosis of liver
+ltc_015,Diseases of the liver,603321000006118,89580002,148522018,J615z-2,J615z12,Cryptogenic cirrhosis
+ltc_015,Diseases of the liver,353613017,19943007,33568015,J615z-3,J615z13,Cirrhosis of liver
+ltc_015,Diseases of the liver,820381000006112,62484002,103853010,J615z-5,J615z15,Hepatic fibrosis
+ltc_015,Diseases of the liver,4044018,1761006,4044018,J616,J616.00,Biliary cirrhosis
+ltc_015,Diseases of the liver,21289010,12368000,21289010,J6161,J616100,Secondary biliary cirrhosis
+ltc_015,Diseases of the liver,303452014,197310003,303452014,J6162,J616200,Biliary cirrhosis of children
+ltc_015,Diseases of the liver,303453016,1761006,4044018,J616z,J616z00,Biliary cirrhosis NOS
+ltc_015,Diseases of the liver,303458013,197316009,303458013,J61y3,J61y300,Portal fibrosis without cirrhosis
+ltc_015,Diseases of the liver,103853010,62484002,103853010,J61y4,J61y400,Hepatic fibrosis
+ltc_015,Diseases of the liver,353625019,235899008,353625019,J61y5,J61y500,Hepatic sclerosis
+ltc_015,Diseases of the liver,353627010,235901004,353627010,J61y6,J61y600,Hepatic fibrosis with hepatic sclerosis
+ltc_015,Diseases of the liver,303518014,197362001,303518014,J6356,J635600,Toxic liver disease with fibrosis and cirrhosis of liver
+ltc_015,Diseases of the liver,303781011,19943007,33568015,Jyu71,Jyu7100,[X]Other and unspecified cirrhosis of liver
+ltc_015,Diseases of the liver,303404016,197284004,303404016,J6141-1,J614111,Autoimmune chronic active hepatitis
+ltc_015,Diseases of the liver,52980015,31712002,52980015,J6160,J616000,Primary biliary cirrhosis
+ltc_015,Diseases of the liver,2159899016,408335007,2159899016,J63B,J63B.00,Autoimmune hepatitis
+ltc_015,Diseases of the liver,303614019,197441003,303614019,J6617,J661700,Primary sclerosing cholangitis

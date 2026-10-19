@@ -1,0 +1,7 @@
+condition_id,condition_name,icd10_block,icd10_code,hes_code,description
+ltc_053,Retinal detachments and breaks,H30-H36,H33.0,H330,Retinal detachment with retinal break
+ltc_053,Retinal detachments and breaks,H30-H36,H33.1,H331,Retinoschisis and retinal cysts
+ltc_053,Retinal detachments and breaks,H30-H36,H33.2,H332,Serous retinal detachment
+ltc_053,Retinal detachments and breaks,H30-H36,H33.3,H333,Retinal breaks without detachment
+ltc_053,Retinal detachments and breaks,H30-H36,H33.4,H334,Traction detachment of retina
+ltc_053,Retinal detachments and breaks,H30-H36,H33.5,H335,Other retinal detachments

@@ -1,0 +1,16 @@
+condition_id,condition_name,MedCodeId,SnomedCTConceptId,SnomedCTDescriptionId,OriginalReadCode,CleansedReadCode,Term
+ltc_049,Other spirochaetal infections,39462014,23502006,39462014,A8710,A871000,Lyme disease
+ltc_049,Other spirochaetal infections,56659013,33937009,56659013,N010A-1,N010A11,Lyme arthritis
+ltc_049,Other spirochaetal infections,129217018,77863005,129217018,A8712,A871200,Lyme carditis
+ltc_049,Other spirochaetal infections,481640018,23502006,481640018,A8710-1,A871011,Lyme borreliosis
+ltc_049,Other spirochaetal infections,485678014,33937009,485678014,N010A,N010A00,Arthritis in Lyme disease
+ltc_049,Other spirochaetal infections,2955528012,69588003,2955528012,AA41-1,AA41.11,Erythema migrans
+ltc_049,Other spirochaetal infections,648201000006115,69588003,1233178016,AA41,AA41.00,ECM - Erythema chronicum migrans
+ltc_049,Other spirochaetal infections,1927231000006113,715507005,3302870016,A8711,A871100,Lyme neuroborreliosis
+ltc_049,Other spirochaetal infections,2390131000000110,718373005,3312055010,A8713,A871300,Borrelial lymphocytoma
+ltc_049,Other spirochaetal infections,3292561000006115,48982009,81601010,^ESCTBA329256,,Bannwarth syndrome
+ltc_049,Other spirochaetal infections,3631811000006115,69588003,115616014,^ESCTER363181,,Erythema chronica migrans
+ltc_049,Other spirochaetal infections,5004121000006110,230150008,344924017,^ESCTME500412,,Meningitis in Lyme disease
+ltc_049,Other spirochaetal infections,5010031000006119,230605007,345533017,^ESCTLY501003,,Lyme mononeuritis multiplex
+ltc_049,Other spirochaetal infections,5150601000006117,240668005,360487015,^ESCTBO515060,,Borreliosis
+ltc_049,Other spirochaetal infections,5150621000006110,240670001,360489017,^ESCTSK515062,,Skeletal Lyme disease

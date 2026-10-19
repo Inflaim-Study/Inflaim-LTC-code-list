@@ -1,0 +1,89 @@
+condition_id,condition_name,MedCodeId,SnomedCTConceptId,SnomedCTDescriptionId,OriginalReadCode,CleansedReadCode,Term
+ltc_003,Cataract,84871000006117,420756003,3688522015,C109E-1,C109E11,Cataract due to diabetes mellitus type 2
+ltc_003,Cataract,84501000006114,420756003,3688522015,C109E-2,C109E12,Type 2 diabetes mellitus with diabetic cataract
+ltc_003,Cataract,914301000006111,420756003,3688522015,C10FE,C10FE00,Type 2 diabetes mellitus with diabetic cataract
+ltc_003,Cataract,914311000006114,420756003,3688522015,C10FE-1,C10FE11,Type II diabetes mellitus with diabetic cataract
+ltc_003,Cataract,913911000006110,421920002,3688521010,C10EF-1,C10EF11,Type I diabetes mellitus with diabetic cataract
+ltc_003,Cataract,771341000006114,43959009,73294018,C108F,C108F00,Insulin dependent diabetes mellitus with diabetic cataract
+ltc_003,Cataract,84691000006115,421920002,3688521010,C108F-1,C108F11,Cataract due to diabetes mellitus type 1
+ltc_003,Cataract,281161000006114,420756003,3035281015,C109E,C109E00,Non-insulin depend diabetes mellitus with diabetic cataract
+ltc_003,Cataract,913901000006112,421920002,2618234016,C10EF,C10EF00,Type 1 diabetes mellitus with diabetic cataract
+ltc_003,Cataract,73294018,43959009,73294018,F4640,F464000,Diabetic cataract
+ltc_003,Cataract,3390661000006113,54885007,91237012,^ESCTCA339066,,Cataract extraction
+ltc_003,Cataract,853291000006111,853291000006107,853291000006111,EGTON132,,Cataract extraction & lens repl
+ltc_003,Cataract,859771000006116,538661000000100,859771000006116,7266z-99,7266z99,Cataract extraction unspec.
+ltc_003,Cataract,2718741000006113,13793006,1221016013,^ESCTEX271874,,Extracapsular cataract extraction
+ltc_003,Cataract,853641000006116,853641000006100,853641000006116,EGTON254,,Left cataract extraction
+ltc_003,Cataract,853651000006119,853651000006103,853651000006119,EGTON255,,Right cataract extraction
+ltc_003,Cataract,883311000006115,193600001,883311000006115,F463-99,F463.99,Secondary cataract
+ltc_003,Cataract,859751000006114,172532006,859751000006114,72654-99,7265499,YAG laser post capsulotomy
+ltc_003,Cataract,857711000006116,857711000006100,857711000006116,EGTONYA1,,Yag laser capsulotomy
+ltc_003,Cataract,2472224012,47337003,78919019,F4K34-1,F4K3411,Posterior capsule opacification
+ltc_003,Cataract,253774010,162811006,253774010,22E5,22E5.00,O/E - cataract present
+ltc_003,Cataract,539421000006110,247052002,368958013,2BT,2BT..00,Cataract finding
+ltc_003,Cataract,451393017,308088006,451393017,2BT0,2BT0.00,O/E - Right cataract present
+ltc_003,Cataract,451394011,308089003,451394011,2BT1,2BT1.00,O/E - Left cataract present
+ltc_003,Cataract,495988011,5130002,495988011,72630-1,7263011,Needling of lens for cataract
+ltc_003,Cataract,495989015,5130002,495989015,72661,7266100,Discission of cataract
+ltc_003,Cataract,84321000006114,421920002,2618234016,C108F-2,C108F12,Type 1 diabetes mellitus with diabetic cataract
+ltc_003,Cataract,913891000006113,43959009,73294018,C10EF-2,C10EF12,Insulin dependent diabetes mellitus with diabetic cataract
+ltc_003,Cataract,298076010,193570009,298076010,F46,F46..00,Cataract
+ltc_003,Cataract,298081018,399305009,1778757011,F4602,F460200,Unspecified presenile cataract
+ltc_003,Cataract,3463017,1412008,3463017,F4603,F460300,Anterior subcapsular polar cataract
+ltc_003,Cataract,57632013,34533008,57632013,F4604,F460400,Posterior subcapsular polar cataract
+ltc_003,Cataract,298083015,193576003,298083015,F4605,F460500,Cortical cataract
+ltc_003,Cataract,298084014,193577007,298084014,F4606,F460600,Lamellar zonular cataract
+ltc_003,Cataract,89579016,53889007,89579016,F4607,F460700,Nuclear cataract
+ltc_003,Cataract,298086011,193579005,298086011,F460x,F460x00,Combined nonsenile cataract
+ltc_003,Cataract,298087019,193571008,298078011,F460y,F460y00,Other nonsenile cataract
+ltc_003,Cataract,298088012,193571008,298078011,F460z,F460z00,Nonsenile cataract NOS
+ltc_003,Cataract,66160017,39450006,66160017,F461,F461.00,Senile cataract
+ltc_003,Cataract,298090013,39450006,492086016,F4610,F461000,Age-related cataract
+ltc_003,Cataract,747871000006116,44219007,73743014,F4611,F461100,Pseudoexfoliation of lens capsule
+ltc_003,Cataract,21000016,12195004,21000016,F4612,F461200,Coronary cataract
+ltc_003,Cataract,67912012,40714009,67912012,F4613,F461300,Punctate cataract
+ltc_003,Cataract,298091012,52421005,87235014,F4614,F461400,Incipient cataract
+ltc_003,Cataract,298092017,446474007,2884338017,F4615,F461500,Immature cataract
+ltc_003,Cataract,178759010,111515007,178759010,F4616,F461600,Anterior subcapsular polar senile cataract
+ltc_003,Cataract,9918017,5318001,9918017,F4617,F461700,Posterior subcapsular polar senile cataract
+ltc_003,Cataract,130863017,78875003,130863017,F4618,F461800,Cortical senile cataract
+ltc_003,Cataract,298096019,193589009,298096019,F4619,F461900,Nuclear senile cataract
+ltc_003,Cataract,298097011,193590000,298097011,F461A,F461A00,"Total, mature senile cataract"
+ltc_003,Cataract,399449014,267626000,399449014,F461B,F461B00,Hypermature cataract
+ltc_003,Cataract,699721000006118,267626000,399449014,F461B-1,F461B11,Morgagni cataract
+ltc_003,Cataract,574651000006115,11422002,19766015,F461x,F461x00,Combined form of senile cataract
+ltc_003,Cataract,298102014,39450006,66160017,F461y,F461y00,Other senile cataract
+ltc_003,Cataract,298103016,39450006,66160017,F461z,F461z00,Senile cataract NOS
+ltc_003,Cataract,298113012,193600001,298113012,F463,F463.00,Cataract secondary to ocular disease
+ltc_003,Cataract,298116016,193600001,298113012,F4630,F463000,Unspecified cataracta complicata
+ltc_003,Cataract,298117013,193602009,298117013,F4632,F463200,Cataract in eye inflammatory disorder
+ltc_003,Cataract,126733015,76309006,503251011,F4633,F463300,Cataract with neovascularisation
+ltc_003,Cataract,36608018,766837000,3662814015,F4634,F463400,Cataract in degenerative disorder
+ltc_003,Cataract,298125010,193600001,298113012,F463z,F463z00,Cataract secondary to ocular disorder NOS
+ltc_003,Cataract,298126011,193570009,298076010,F464,F464.00,Cataract due to other disorder
+ltc_003,Cataract,113312017,68216000,113312017,F4641,F464100,Tetanic cataract
+ltc_003,Cataract,107602013,64741003,107602013,F4642,F464200,Myotonic cataract
+ltc_003,Cataract,298128012,193570009,298076010,F4643,F464300,Cataract associated with other syndromes
+ltc_003,Cataract,298132018,193570009,298076010,F464z,F464z00,Cataract due to other disorder NOS
+ltc_003,Cataract,473371000006112,47337003,78919019,F465,F465.00,After cataract
+ltc_003,Cataract,298133011,193570009,298076010,F4650,F465000,Unspecified secondary cataract
+ltc_003,Cataract,298134017,47337003,78919019,F4652,F465200,Other after cataract with vision normal
+ltc_003,Cataract,298135016,193615000,298135016,F4653,F465300,After-cataract with vision obscured
+ltc_003,Cataract,217851000006114,47337003,78919019,F4655,F465500,After-cataract
+ltc_003,Cataract,298137012,47337003,78919019,F465z,F465z00,After cataract NOS
+ltc_003,Cataract,158572010,95722004,158572010,F466,F466.00,Bilateral cataracts
+ltc_003,Cataract,298142016,193570009,298076010,F46y,F46y.00,Other cataract
+ltc_003,Cataract,298144015,193570009,298076010,F46yz,F46yz00,Other cataract NOS
+ltc_003,Cataract,298145019,193570009,298076010,F46z,F46z.00,Cataract NOS
+ltc_003,Cataract,455415018,311789006,455415018,F46z0,F46z000,Immature cortical cataract
+ltc_003,Cataract,299464010,10810001,18772014,FyuE0,FyuE000,[X]Other senile cataract
+ltc_003,Cataract,299465011,10810001,18772014,FyuE1,FyuE100,[X]Other specified cataract
+ltc_003,Cataract,299468013,10810001,18772014,FyuE4,FyuE400,[X]Cataract in other diseases classified elsewhere
+ltc_003,Cataract,313009012,204124004,313009012,P331,P331.00,Capsular and subcapsular cataract
+ltc_003,Cataract,313010019,204125003,313010019,P3310,P331000,Capsular cataract
+ltc_003,Cataract,158573017,95723009,158573017,P3311,P331100,Subcapsular cataract
+ltc_003,Cataract,313011015,204124004,3009961018,P331z,P331z00,Capsular and/or subcapsular cataract
+ltc_003,Cataract,313012010,204127006,313012010,P332,P332.00,Cortical and zonular cataract
+ltc_003,Cataract,313014011,204128001,313014011,P3321,P332100,Zonular cataract
+ltc_003,Cataract,313017016,204128001,313013017,P332z,P332z00,Cortical or zonular cataract NOS
+ltc_003,Cataract,1227680019,428535004,2693274017,ZV456-1,ZV45611,[V]State following cataract extraction

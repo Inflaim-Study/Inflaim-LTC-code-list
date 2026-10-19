@@ -1,0 +1,13 @@
+condition_id,condition_name,icd10_block,icd10_code,hes_code,description
+ltc_054,Rhinitis and Sinusitis,J30-J39,J30.1,J301,Allergic rhinitis due to pollen
+ltc_054,Rhinitis and Sinusitis,J30-J39,J30.2,J302,Other seasonal allergic rhinitis
+ltc_054,Rhinitis and Sinusitis,J30-J39,J30.3,J303,Other allergic rhinitis
+ltc_054,Rhinitis and Sinusitis,J30-J39,J30.4,J304,"Allergic rhinitis, unspecified"
+ltc_054,Rhinitis and Sinusitis,J30-J39,J31.0,J310,Chronic rhinitis
+ltc_054,Rhinitis and Sinusitis,J30-J39,J32.0,J320,Chronic maxillary sinusitis
+ltc_054,Rhinitis and Sinusitis,J30-J39,J32.1,J321,Chronic frontal sinusitis
+ltc_054,Rhinitis and Sinusitis,J30-J39,J32.2,J322,Chronic ethmoidal sinusitis
+ltc_054,Rhinitis and Sinusitis,J30-J39,J32.3,J323,Chronic sphenoidal sinusitis
+ltc_054,Rhinitis and Sinusitis,J30-J39,J32.4,J324,Chronic pansinusitis
+ltc_054,Rhinitis and Sinusitis,J30-J39,J32.8,J328,Other chronic sinusitis
+ltc_054,Rhinitis and Sinusitis,J30-J39,J32.9,J329,"Chronic sinusitis, unspecified"

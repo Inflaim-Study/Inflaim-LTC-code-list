@@ -1,0 +1,135 @@
+condition_id,condition_name,MedCodeId,SnomedCTConceptId,SnomedCTDescriptionId,OriginalReadCode,CleansedReadCode,Term
+ltc_032,Inflammatory diseases of the female pelvic organs,2904011,1085006,2904011,AB210,AB21000,Candidiasis of vulva
+ltc_032,Inflammatory diseases of the female pelvic organs,22462017,13125003,22462017,K4112,K411200,Chronic myometritis
+ltc_032,Inflammatory diseases of the female pelvic organs,24624012,14488001,1221103010,K4213,K421300,Postirradiation vaginitis
+ltc_032,Inflammatory diseases of the female pelvic organs,29947013,17716001,29947013,K4111,K411100,Chronic endomyometritis
+ltc_032,Inflammatory diseases of the female pelvic organs,51991013,31066003,51991013,K42y2,K42y200,Ulcer of vagina
+ltc_032,Inflammatory diseases of the female pelvic organs,53464010,31999004,53464010,A9836,A983600,Chronic gonococcal endometritis
+ltc_032,Inflammatory diseases of the female pelvic organs,54399018,32582007,54399018,K4010,K401000,Chronic oophoritis
+ltc_032,Inflammatory diseases of the female pelvic organs,63108018,37830006,63108018,K4113,K411300,Chronic perimetritis
+ltc_032,Inflammatory diseases of the female pelvic organs,89006018,53529004,89006018,A9837,A983700,Chronic gonococcal salpingitis
+ltc_032,Inflammatory diseases of the female pelvic organs,92337013,55551005,92337013,K4013,K401300,Chronic salpingitis
+ltc_032,Inflammatory diseases of the female pelvic organs,103705018,62394006,103705018,K407,K407.00,Female pelvic peritoneal adhesions
+ltc_032,Inflammatory diseases of the female pelvic organs,106241010,63922003,106241010,K4110,K411000,Chronic endometritis
+ltc_032,Inflammatory diseases of the female pelvic organs,109583017,65984002,109583017,K4016,K401600,Salpingitis follicularis
+ltc_032,Inflammatory diseases of the female pelvic organs,120590012,72605008,120590012,AB21,AB21.00,Candidal vulvovaginitis
+ltc_032,Inflammatory diseases of the female pelvic organs,120591011,72605008,120591011,AB21-1,AB21.11,Monilial vulvovaginitis
+ltc_032,Inflammatory diseases of the female pelvic organs,121148017,72934000,121148017,AB211,AB21100,Candidiasis of vagina
+ltc_032,Inflammatory diseases of the female pelvic organs,135354012,81598001,135354012,AD101,AD10100,Trichomonal vulvovaginitis
+ltc_032,Inflammatory diseases of the female pelvic organs,304640015,198130006,304640015,K40z-3,K40z.13,PID - pelvic inflammatory disease
+ltc_032,Inflammatory diseases of the female pelvic organs,304642011,198130006,304641016,K40z-1,K40z.11,PID
+ltc_032,Inflammatory diseases of the female pelvic organs,304643018,198130006,304643018,K4-98,K4...98,Pelvic inflammatory disease
+ltc_032,Inflammatory diseases of the female pelvic organs,304658014,198141008,304658014,K4011,K401100,Chronic perioophoritis
+ltc_032,Inflammatory diseases of the female pelvic organs,304659018,198142001,304659018,K4012,K401200,Chronic salpingo-oophoritis
+ltc_032,Inflammatory diseases of the female pelvic organs,304660011,198143006,304660011,K4014,K401400,Chronic perisalpingitis
+ltc_032,Inflammatory diseases of the female pelvic organs,304663013,198142001,304659018,K401z,K401z00,Chronic salpingitis and oophoritis NOS
+ltc_032,Inflammatory diseases of the female pelvic organs,304664019,46536000,77563016,K402,K402.00,Salpingitis and oophoritis unspecified
+ltc_032,Inflammatory diseases of the female pelvic organs,304665018,76047005,126311015,K4023,K402300,Oophoritis
+ltc_032,Inflammatory diseases of the female pelvic organs,304666017,8258000,14627016,K4024,K402400,Perioophoritis
+ltc_032,Inflammatory diseases of the female pelvic organs,304667014,46536000,77563016,K4025,K402500,Salpingo-oophoritis unspecified
+ltc_032,Inflammatory diseases of the female pelvic organs,304668016,88157006,146147019,K4026,K402600,Salpingitis
+ltc_032,Inflammatory diseases of the female pelvic organs,304669012,56321006,93656019,K4027,K402700,Perisalpingitis
+ltc_032,Inflammatory diseases of the female pelvic organs,304670013,46536000,77563016,K402z,K402z00,Unspecified salpingitis and oophoritis NOS
+ltc_032,Inflammatory diseases of the female pelvic organs,304679014,198159006,304679014,K404,K404.00,Chronic parametritis and pelvic cellulitis
+ltc_032,Inflammatory diseases of the female pelvic organs,304682016,198161002,304682016,K4045,K404500,Female chronic pelvic peritonitis
+ltc_032,Inflammatory diseases of the female pelvic organs,304683014,237044002,355304013,K404z,K404z00,Chronic pelvic inflammatory disease
+ltc_032,Inflammatory diseases of the female pelvic organs,304684015,280486004,418100014,K405,K405.00,Parametritis and pelvic cellulitis unspecified
+ltc_032,Inflammatory diseases of the female pelvic organs,304685019,280483007,418097016,K4050,K405000,Parametritis
+ltc_032,Inflammatory diseases of the female pelvic organs,304686018,280486004,418100014,K4051,K405100,Pelvic cellulitis unspecified
+ltc_032,Inflammatory diseases of the female pelvic organs,304687010,280486004,418100014,K405z,K405z00,Parametritis and pelvic cellulitis NOS
+ltc_032,Inflammatory diseases of the female pelvic organs,304692012,32923006,54954015,K4061,K406100,Female pelvic peritonitis unspecified
+ltc_032,Inflammatory diseases of the female pelvic organs,304694013,62394006,103705018,K407z,K407z00,Female pelvic peritoneal adhesions NOS
+ltc_032,Inflammatory diseases of the female pelvic organs,304695014,237044002,355303019,K408,K408.00,Other chronic female pelvic peritonitis
+ltc_032,Inflammatory diseases of the female pelvic organs,304697018,198130006,304638013,K40y,K40y.00,Other female pelvic organ inflammatory diseases
+ltc_032,Inflammatory diseases of the female pelvic organs,304698011,198175009,304698011,K40y0,K40y000,Female syphilitic pelvic inflammatory disease
+ltc_032,Inflammatory diseases of the female pelvic organs,304699015,198176005,304699015,K40y1,K40y100,Female chlamydial pelvic inflammatory disease
+ltc_032,Inflammatory diseases of the female pelvic organs,304715018,198188007,304715018,K411,K411.00,Chronic uterine inflammatory disease
+ltc_032,Inflammatory diseases of the female pelvic organs,304716017,198189004,304716017,K4114,K411400,Chronic pyometra
+ltc_032,Inflammatory diseases of the female pelvic organs,304717014,198188007,304715018,K411z,K411z00,Chronic uterine inflammatory disease NOS
+ltc_032,Inflammatory diseases of the female pelvic organs,304718016,28783002,48199010,K41z,K41z.00,Unspecified uterine inflammatory disease
+ltc_032,Inflammatory diseases of the female pelvic organs,304719012,78623009,130465017,K41z0,K41z000,Endometritis
+ltc_032,Inflammatory diseases of the female pelvic organs,304720018,88027004,145916016,K41z1,K41z100,Endomyometritis
+ltc_032,Inflammatory diseases of the female pelvic organs,304721019,4316006,8270017,K41z2,K41z200,Myometritis
+ltc_032,Inflammatory diseases of the female pelvic organs,304722014,15363000,26057013,K41z3,K41z300,Perimetritis unspecified
+ltc_032,Inflammatory diseases of the female pelvic organs,304723016,88981003,147534012,K41z4,K41z400,Pyometra
+ltc_032,Inflammatory diseases of the female pelvic organs,304724010,28783002,48199010,K41zz,K41zz00,Unspecified uterine inflammatory disease NOS
+ltc_032,Inflammatory diseases of the female pelvic organs,304769016,198231000,304769016,K4252,K425200,Ulceration of vulva in Behcet's disease
+ltc_032,Inflammatory diseases of the female pelvic organs,304781017,198242009,304781017,K44,K44..00,Female gonococcal pelvic inflammatory disease
+ltc_032,Inflammatory diseases of the female pelvic organs,304782012,198130006,304641016,K4y,K4y..00,Other specified female pelvic inflammatory disease
+ltc_032,Inflammatory diseases of the female pelvic organs,304783019,198130006,304641016,K4z,K4z..00,Female pelvic inflammatory disease NOS
+ltc_032,Inflammatory diseases of the female pelvic organs,305236010,198130006,304638013,Kyu8,Kyu8.00,[X]Inflammatory diseases of female pelvic organs
+ltc_032,Inflammatory diseases of the female pelvic organs,305237018,198130006,304638013,Kyu80,Kyu8000,[X]Other specified female pelvic inflammatory diseases
+ltc_032,Inflammatory diseases of the female pelvic organs,305239015,198130006,304638013,Kyu82,Kyu8200,[X]Other diseases of Bartholin's gland
+ltc_032,Inflammatory diseases of the female pelvic organs,305240018,198130006,304638013,Kyu83,Kyu8300,[X]Other specified inflammation of vagina and vulva
+ltc_032,Inflammatory diseases of the female pelvic organs,305244010,32923006,54954015,Kyu87,Kyu8700,Female pelvic peritonitis
+ltc_032,Inflammatory diseases of the female pelvic organs,395436014,72605008,120590012,AB21z,AB21z00,Candidal vulvovaginitis NOS
+ltc_032,Inflammatory diseases of the female pelvic organs,396762011,198130006,304641016,K40z,K40z.00,Female pelvic inflammatory disease
+ltc_032,Inflammatory diseases of the female pelvic organs,396764012,63144007,104972016,K4211,K421100,Vulvitis
+ltc_032,Inflammatory diseases of the female pelvic organs,413220019,276877003,413220019,AD101-1,AD10111,Trichomonal vaginitis
+ltc_032,Inflammatory diseases of the female pelvic organs,485094015,31999004,485094015,A9836-1,A983611,Uterus - chronic gonorrhoea
+ltc_032,Inflammatory diseases of the female pelvic organs,504739016,81598001,504739016,AD100-2,AD10012,Leukorrhoea vaginalis - trichomonal
+ltc_032,Inflammatory diseases of the female pelvic organs,1227519016,31474007,1227519016,K4042,K404200,Chronic abscess of the parametrium
+ltc_032,Inflammatory diseases of the female pelvic organs,1232567014,64532005,1232567014,K4043,K404300,Chronic abscess of the female pelvis
+ltc_032,Inflammatory diseases of the female pelvic organs,1233568012,72934000,1233568012,AB211-1,AB21111,Vaginal thrush
+ltc_032,Inflammatory diseases of the female pelvic organs,1234099011,77360001,1234099011,K4041,K404100,Chronic abscess of the broad ligament
+ltc_032,Inflammatory diseases of the female pelvic organs,1235638013,91155009,1235638013,K4044,K404400,Chronic abscess of the pouch of Douglas
+ltc_032,Inflammatory diseases of the female pelvic organs,83301000006119,30406004,484577017,K4071,K407100,Tubo-ovarian peritoneal adhesions
+ltc_032,Inflammatory diseases of the female pelvic organs,229091000006110,77681005,1234152019,K4070,K407000,Peritubal peritoneal adhesions
+ltc_032,Inflammatory diseases of the female pelvic organs,253801000006111,198130006,304641016,K40,K40..00,"Ovarian, fallopian tube and pelvic inflammatory diseases"
+ltc_032,Inflammatory diseases of the female pelvic organs,386781000006115,198130006,304641016,Kyu81,Kyu8100,[X]Female pelvic inflammatory disorders in other diseases CE
+ltc_032,Inflammatory diseases of the female pelvic organs,429681000006119,198130006,304638013,Kyu84,Kyu8400,[X]Ulceration of vulva in infectious+parasitic diseases CE
+ltc_032,Inflammatory diseases of the female pelvic organs,431631000006118,198130006,304638013,Kyu85,Kyu8500,"[X]Vaginits,vulvits+vulvovaginitis/infect+parasitc diseas CE"
+ltc_032,Inflammatory diseases of the female pelvic organs,432571000006111,198130006,304638013,Kyu86,Kyu8600,[X]Vulvovaginal ulceration+inflammation in other diseases CE
+ltc_032,Inflammatory diseases of the female pelvic organs,533491000006110,237082005,355362010,AB21z-1,AB21z11,Candidiasis cervix
+ltc_032,Inflammatory diseases of the female pelvic organs,556601000006112,198142001,3005111017,K401,K401.00,Chronic salpingitis and oophoritis
+ltc_032,Inflammatory diseases of the female pelvic organs,668261000006111,198130006,304641016,K40z-2,K40z.12,Female pelvic infection
+ltc_032,Inflammatory diseases of the female pelvic organs,668281000006118,198130006,304641016,K4,K4...00,Female pelvic inflammatory disease
+ltc_032,Inflammatory diseases of the female pelvic organs,762171000006119,81598001,135354012,AD100-1,AD10011,Flour vaginalis - trichomonal
+ltc_032,Inflammatory diseases of the female pelvic organs,887071000006119,198130006,887071000006119,K4-99,K4...99,Female pelvic inflamm diseases
+ltc_032,Inflammatory diseases of the female pelvic organs,887091000006118,198142001,887091000006118,K401-99,K401.99,Chronic salpingitis/oophoritis
+ltc_032,Inflammatory diseases of the female pelvic organs,887121000006119,62394006,887121000006119,K407-99,K407.99,Female pelvic periton. adhes.
+ltc_032,Inflammatory diseases of the female pelvic organs,887131000006116,198130006,887131000006116,K40z-99,K40z.99,Pelvic inflam. disease NOS
+ltc_032,Inflammatory diseases of the female pelvic organs,988731000006110,81598001,988731000006110,AD101-99,AD10199,Trichomonas vaginalis
+ltc_032,Inflammatory diseases of the female pelvic organs,990811000006112,198130006,990811000006112,K4-97,K4...97,Pelvic inflam. disease NOS
+ltc_032,Inflammatory diseases of the female pelvic organs,990821000006116,198130006,990821000006116,K4-96,K4...96,Female pelvic inflam. dis. NOS
+ltc_032,Inflammatory diseases of the female pelvic organs,2515631000006117,1085006,1219405014,^ESCTVU251563,,Vulval candidiasis
+ltc_032,Inflammatory diseases of the female pelvic organs,2515641000006110,1085006,1219406010,^ESCTVU251564,,Vulval thrush
+ltc_032,Inflammatory diseases of the female pelvic organs,2515651000006112,1085006,1219407018,^ESCTVU251565,,Vulval candidosis
+ltc_032,Inflammatory diseases of the female pelvic organs,2566441000006118,4232007,8134014,^ESCTCH256644,,Chronic vulvitis
+ltc_032,Inflammatory diseases of the female pelvic organs,2609831000006110,6887003,12390016,^ESCTCH260983,,Chronic vulvovaginitis
+ltc_032,Inflammatory diseases of the female pelvic organs,2725681000006113,14248008,24233019,^ESCTCH272568,,Chronic vaginitis
+ltc_032,Inflammatory diseases of the female pelvic organs,2729561000006119,14488001,24624012,^ESCTPO272956,,Postirradiation vaginitis
+ltc_032,Inflammatory diseases of the female pelvic organs,2729571000006114,14488001,1221103010,^ESCTPO272957,,Post-irradiation vaginitis
+ltc_032,Inflammatory diseases of the female pelvic organs,2743801000006118,15363000,26057013,^ESCTME274380,,Metritis
+ltc_032,Inflammatory diseases of the female pelvic organs,2962701000006115,28783002,48199010,^ESCTIN296270,,Inflammatory disease of the uterus
+ltc_032,Inflammatory diseases of the female pelvic organs,2989761000006111,30406004,50896014,^ESCTTU298976,,Tubo-ovarian adhesions
+ltc_032,Inflammatory diseases of the female pelvic organs,2989771000006116,30406004,484577017,^ESCTTU298977,,Tubo-ovarian peritoneal adhesion
+ltc_032,Inflammatory diseases of the female pelvic organs,3000881000006118,31066003,484769018,^ESCTVA300088,,Vaginal ulcer
+ltc_032,Inflammatory diseases of the female pelvic organs,3000901000006116,31066003,51992018,^ESCTVA300090,,Vaginal ulceration
+ltc_032,Inflammatory diseases of the female pelvic organs,3251461000006118,46536000,77563016,^ESCTTU325146,,Tubo-ovarian inflammatory disease
+ltc_032,Inflammatory diseases of the female pelvic organs,3490451000006118,60967006,101304011,^ESCTAL349045,,Allergic vaginitis
+ltc_032,Inflammatory diseases of the female pelvic organs,3549431000006119,64532005,107251019,^ESCTCH354943,,Chronic abscess of female pelvis
+ltc_032,Inflammatory diseases of the female pelvic organs,3549441000006112,64532005,1232566017,^ESCTCH354944,,Chronic pelvic abscess - female
+ltc_032,Inflammatory diseases of the female pelvic organs,3680711000006111,72605008,1233526012,^ESCTVU368071,,Vulvovaginal thrush
+ltc_032,Inflammatory diseases of the female pelvic organs,3686471000006111,72934000,121149013,^ESCTVA368647,,Vaginal candidiasis
+ltc_032,Inflammatory diseases of the female pelvic organs,3686491000006112,72934000,1233570015,^ESCTVA368649,,Vaginal candidosis
+ltc_032,Inflammatory diseases of the female pelvic organs,3686501000006116,72934000,1233571016,^ESCTVA368650,,Vaginal candida
+ltc_032,Inflammatory diseases of the female pelvic organs,3686521000006114,72934000,2920668017,^ESCTCA368652,,Candida of vagina
+ltc_032,Inflammatory diseases of the female pelvic organs,3728531000006110,75548002,125479019,^ESCTMU372853,,Mumps oophoritis
+ltc_032,Inflammatory diseases of the female pelvic organs,3763891000006114,77681005,128931019,^ESCTPE376389,,Peritubal adhesions
+ltc_032,Inflammatory diseases of the female pelvic organs,3763901000006113,77681005,1234152019,^ESCTPE376390,,Peritubal peritoneal adhesion
+ltc_032,Inflammatory diseases of the female pelvic organs,3946181000006112,88981003,3012582011,^ESCTPY394618,,Pyometrium
+ltc_032,Inflammatory diseases of the female pelvic organs,4791331000006115,198130006,304639017,^ESCTFE479133,,Female pelvic inflammation
+ltc_032,Inflammatory diseases of the female pelvic organs,5102721000006114,237044002,355306010,^ESCTCH510272,,Chronic PID - Chronic pelvic inflammatory disease
+ltc_032,Inflammatory diseases of the female pelvic organs,5102811000006110,237051006,355316019,^ESCTPA510281,,Para-ovarian adhesion
+ltc_032,Inflammatory diseases of the female pelvic organs,5103041000006111,237070001,355350011,^ESCTUT510304,,Uterine candidiasis
+ltc_032,Inflammatory diseases of the female pelvic organs,5103161000006114,237082005,355362010,^ESCTCA510316,,Candidiasis of cervix
+ltc_032,Inflammatory diseases of the female pelvic organs,5103251000006116,237091009,355375010,^ESCTIN510325,,Infective vaginitis
+ltc_032,Inflammatory diseases of the female pelvic organs,5103261000006119,237091009,355373015,^ESCTVA510326,,Vaginal infection
+ltc_032,Inflammatory diseases of the female pelvic organs,5149791000006112,240581006,360369019,^ESCTGO514979,,Gonococcal female pelvic infection
+ltc_032,Inflammatory diseases of the female pelvic organs,5591921000006110,276877003,3011197017,^ESCTVA559192,,Vaginal trichomoniasis
+ltc_032,Inflammatory diseases of the female pelvic organs,5638861000006118,280486004,418100014,^ESCTFE563886,,Female pelvic cellulitis
+ltc_032,Inflammatory diseases of the female pelvic organs,6298151000006116,367504009,492483019,^ESCTPI629815,,PID with female sterility due to Chlamydia trachomatis
+ltc_032,Inflammatory diseases of the female pelvic organs,7856091000006112,724459009,3441355011,^ESCTAD785609,,Adhesion of pelvic peritoneum
+ltc_032,Inflammatory diseases of the female pelvic organs,7856101000006118,724459009,3441356012,^ESCTPE785610,,Pelvic peritoneal adhesion
+ltc_032,Inflammatory diseases of the female pelvic organs,15080291000006112,237051006,5089342010,^ESCT1508029,,Paraovarian adhesion

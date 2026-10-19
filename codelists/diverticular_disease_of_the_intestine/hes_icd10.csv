@@ -1,0 +1,9 @@
+condition_id,condition_name,icd10_block,icd10_code,hes_code,description
+ltc_021,Diverticular disease of the intestine,K55-K64,K57.0,K570,Diverticular disease of small intestine with perforation and abscess
+ltc_021,Diverticular disease of the intestine,K55-K64,K57.1,K571,Diverticular disease of small intestine without perforation or abscess
+ltc_021,Diverticular disease of the intestine,K55-K64,K57.2,K572,Diverticular disease of large intestine with perforation and abscess
+ltc_021,Diverticular disease of the intestine,K55-K64,K57.3,K573,Diverticular disease of large intestine without perforation or abscess
+ltc_021,Diverticular disease of the intestine,K55-K64,K57.4,K574,Diverticular disease of both small and large intestine with perforation and abscess
+ltc_021,Diverticular disease of the intestine,K55-K64,K57.5,K575,Diverticular disease of both small and large intestine without perforation or abscess
+ltc_021,Diverticular disease of the intestine,K55-K64,K57.8,K578,"Diverticular disease of intestine, part unspecified, with perforation and abscess"
+ltc_021,Diverticular disease of the intestine,K55-K64,K57.9,K579,"Diverticular disease of intestine, part unspecified, without perforation or abscess"

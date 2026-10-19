@@ -1,0 +1,61 @@
+condition_id,condition_name,abbreviation,folder_name,n_medcodeids,n_snomed_concepts,n_hes_codes
+ltc_001,Addison's disease,ADI,addisons_disease,10,6,4
+ltc_002,Ankylosing spondylitis,ANK,ankylosing_spondylitis,5,3,1
+ltc_003,Cataract,CAT,cataract,88,55,13
+ltc_004,Cerebrovascular disease,CeVD,cerebrovascular_disease,61,39,33
+ltc_005,Chronic kidney disease,CKD,chronic_kidney_disease,108,69,7
+ltc_006,Chronic lower respiratory diseases,CRD,chronic_lower_respiratory_diseases,108,71,17
+ltc_007,Chronic rheumatic heart diseases,RHD,chronic_rheumatic_heart_diseases,27,16,26
+ltc_008,Chronic viral hepatitis,HEP,chronic_viral_hepatitis,37,32,7
+ltc_009,Conductive and sensorineural hearing loss,HRL,conductive_and_sensorineural_hearing_loss,128,75,14
+ltc_010,Dementia,DEM,dementia,60,34,22
+ltc_011,Dermatitis and eczema,ECZ,dermatitis_and_eczema,193,135,46
+ltc_012,Diabetes,DBT,diabetes,351,191,60
+ltc_013,"Diseases of arteries, arterioles and capillaries",ART,diseases_of_arteries_arterioles_and_capillaries,168,100,51
+ltc_014,"Diseases of oesophagus, stomach and duodenum",OGD,diseases_of_oesophagus_stomach_and_duodenum,101,44,15
+ltc_015,Diseases of the liver,LIV,diseases_of_the_liver,74,58,46
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",VEN,diseases_of_veins_lymphatic_vessels_and_lymph_nodes_not_elsewhere_classified,154,124,38
+ltc_017,Disorders of bone density and structure,BON,disorders_of_bone_density_and_structure,37,28,38
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",BIL,disorders_of_gallbladder_biliary_tract_and_pancreas,133,66,32
+ltc_019,Disorders of the prostate,PRS,disorders_of_the_prostate,11,7,9
+ltc_020,Disorders of thyroid gland,THY,disorders_of_thyroid_gland,67,40,33
+ltc_021,Diverticular disease of the intestine,DIV,diverticular_disease_of_the_intestine,46,31,8
+ltc_022,Drug or alcohol misuse,SUB,drug_or_alcohol_misuse,344,230,46
+ltc_023,Eating disorders,EAT,eating_disorders,11,7,8
+ltc_024,Endometriosis,END,endometriosis,38,26,9
+ltc_025,Epilepsy,EPI,epilepsy,118,90,10
+ltc_026,Glaucoma,GLA,glaucoma,45,25,6
+ltc_027,HIV disease,HIV,hiv_disease,42,24,25
+ltc_028,Hyperparathyroidism,HPR,hyperparathyroidism,12,7,6
+ltc_029,Hypertensive diseases,HTN,hypertensive_diseases,75,50,14
+ltc_030,Hypoparathyroidism,HPO,hypoparathyroidism,10,8,4
+ltc_031,In situ neoplasms,ISN,in_situ_neoplasms,361,231,57
+ltc_032,Inflammatory diseases of the female pelvic organs,PID,inflammatory_diseases_of_the_female_pelvic_organs,134,63,12
+ltc_033,Inflammatory polyarthropathies,IAR,inflammatory_polyarthropathies,109,77,47
+ltc_034,Iron deficiency anaemia,IDA,iron_deficiency_anaemia,19,6,4
+ltc_035,Irritable bowel syndrome,IBS,irritable_bowel_syndrome,6,3,2
+ltc_036,Ischaemic heart diseases,IHD,ischaemic_heart_diseases,201,135,13
+ltc_037,Malignant neoplasms,NEO,malignant_neoplasms,1744,1142,374
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",LYH,malignant_neoplasms_stated_or_presumed_to_be_primary_of_lymphoid_haematopoietic_and_related_tissue,430,233,83
+ltc_039,Meniere disease,MEN,meniere_disease,10,7,1
+ltc_040,Migraine,MIG,migraine,25,15,6
+ltc_041,Mood disorders,MOD,mood_disorders,103,60,36
+ltc_042,Multiple sclerosis (and optic neuritis),MSN,multiple_sclerosis_and_optic_neuritis,16,14,2
+ltc_043,"Neurotic, stress-related and somatoform disorders",NRS,neurotic_stress_related_and_somatoform_disorders,78,42,41
+ltc_044,Noninfective enteritis and colitis,COL,noninfective_enteritis_and_colitis,41,24,17
+ltc_045,Osteoarthritis,OST,osteoarthritis,141,64,24
+ltc_046,Other forms of heart disease,OHD,other_forms_of_heart_disease,171,114,71
+ltc_047,Other interstitial pulmonary diseases,ILD,other_interstitial_pulmonary_diseases,16,8,4
+ltc_048,Other retinal disorders (Macular degeneration),MAC,other_retinal_disorders_macular_degeneration,12,9,7
+ltc_049,Other spirochaetal infections,SPI,other_spirochaetal_infections,15,11,1
+ltc_050,Parkinson disease,PKN,parkinson_disease,8,5,7
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,PNS,polyneuropathies_and_other_disorders_of_the_peripheral_nervous_system,164,95,17
+ltc_052,Psoriasis,PSO,psoriasis,28,22,8
+ltc_053,Retinal detachments and breaks,RTD,retinal_detachments_and_breaks,30,22,6
+ltc_054,Rhinitis and Sinusitis,RNS,rhinitis_and_sinusitis,52,32,12
+ltc_055,Schizophrenia,SCZ,schizophrenia,124,54,21
+ltc_056,Sleep disorders,SLP,sleep_disorders,8,5,7
+ltc_057,Spinal degenerative disease,SPD,spinal_degenerative_disease,155,108,12
+ltc_058,Systemic connective tissue disorders,CTD,systemic_connective_tissue_disorders,47,35,40
+ltc_059,Tuberculosis,TBC,tuberculosis,229,147,50
+ltc_060,Visual disturbances and blindness,VIS,visual_disturbances_and_blindness,79,52,11

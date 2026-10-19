@@ -1,0 +1,47 @@
+condition_id,condition_name,icd10_block,icd10_code,hes_code,description
+ltc_011,Dermatitis and eczema,L20-L30,L23.0,L230,Allergic contact dermatitis due to metals
+ltc_011,Dermatitis and eczema,L20-L30,L23.1,L231,Allergic contact dermatitis due to adhesives
+ltc_011,Dermatitis and eczema,L20-L30,L23.2,L232,Allergic contact dermatitis due to cosmetics
+ltc_011,Dermatitis and eczema,L20-L30,L23.3,L233,Allergic contact dermatitis due to drugs in contact with skin
+ltc_011,Dermatitis and eczema,L20-L30,L23.4,L234,Allergic contact dermatitis due to dyes
+ltc_011,Dermatitis and eczema,L20-L30,L23.5,L235,Allergic contact dermatitis due to other chemical products
+ltc_011,Dermatitis and eczema,L20-L30,L23.6,L236,Allergic contact dermatitis due to food in contact with skin
+ltc_011,Dermatitis and eczema,L20-L30,L23.7,L237,"Allergic contact dermatitis due to plants, except food"
+ltc_011,Dermatitis and eczema,L20-L30,L23.8,L238,Allergic contact dermatitis due to other agents
+ltc_011,Dermatitis and eczema,L20-L30,L23.9,L239,"Allergic contact dermatitis, unspecified cause"
+ltc_011,Dermatitis and eczema,L20-L30,L24.0,L240,Irritant contact dermatitis due to detergents
+ltc_011,Dermatitis and eczema,L20-L30,L24.1,L241,Irritant contact dermatitis due to oils and greases
+ltc_011,Dermatitis and eczema,L20-L30,L24.2,L242,Irritant contact dermatitis due to solvents
+ltc_011,Dermatitis and eczema,L20-L30,L24.3,L243,Irritant contact dermatitis due to cosmetics
+ltc_011,Dermatitis and eczema,L20-L30,L24.4,L244,Irritant contact dermatitis due to drugs in contact with skin
+ltc_011,Dermatitis and eczema,L20-L30,L24.5,L245,Irritant contact dermatitis due to other chemical products
+ltc_011,Dermatitis and eczema,L20-L30,L24.6,L246,Irritant contact dermatitis due to food in contact with skin
+ltc_011,Dermatitis and eczema,L20-L30,L24.7,L247,"Irritant contact dermatitis due to plants, except food"
+ltc_011,Dermatitis and eczema,L20-L30,L24.8,L248,Irritant contact dermatitis due to other agents
+ltc_011,Dermatitis and eczema,L20-L30,L24.9,L249,"Irritant contact dermatitis, unspecified cause"
+ltc_011,Dermatitis and eczema,L20-L30,L25.0,L250,Unspecified contact dermatitis due to cosmetics
+ltc_011,Dermatitis and eczema,L20-L30,L25.1,L251,Unspecified contact dermatitis due to drugs in contact with skin
+ltc_011,Dermatitis and eczema,L20-L30,L25.2,L252,Unspecified contact dermatitis due to dyes
+ltc_011,Dermatitis and eczema,L20-L30,L25.3,L253,Unspecified contact dermatitis due to other chemical products
+ltc_011,Dermatitis and eczema,L20-L30,L25.4,L254,Unspecified contact dermatitis due to food in contact with skin
+ltc_011,Dermatitis and eczema,L20-L30,L25.5,L255,"Unspecified contact dermatitis due to plants, except food"
+ltc_011,Dermatitis and eczema,L20-L30,L25.8,L258,Unspecified contact dermatitis due to other agents
+ltc_011,Dermatitis and eczema,L20-L30,L25.9,L259,"Unspecified contact dermatitis, unspecified cause"
+ltc_011,Dermatitis and eczema,L20-L30,L26.X,L26X,Exfoliative dermatitis
+ltc_011,Dermatitis and eczema,L20-L30,L27.0,L270,Generalized skin eruption due to drugs and medicaments
+ltc_011,Dermatitis and eczema,L20-L30,L27.1,L271,Localized skin eruption due to drugs and medicaments
+ltc_011,Dermatitis and eczema,L20-L30,L27.2,L272,Dermatitis due to ingested food
+ltc_011,Dermatitis and eczema,L20-L30,L27.8,L278,Dermatitis due to other substances taken internally
+ltc_011,Dermatitis and eczema,L20-L30,L27.9,L279,Dermatitis due to unspecified substance taken internally
+ltc_011,Dermatitis and eczema,L20-L30,L20.0,L200,Besnier prurigo
+ltc_011,Dermatitis and eczema,L20-L30,L20.8,L208,Other atopic dermatitis
+ltc_011,Dermatitis and eczema,L20-L30,L20.9,L209,"Atopic dermatitis, unspecified"
+ltc_011,Dermatitis and eczema,L20-L30,L28.0,L280,Lichen simplex chronicus
+ltc_011,Dermatitis and eczema,L20-L30,L28.1,L281,Prurigo nodularis
+ltc_011,Dermatitis and eczema,L20-L30,L28.2,L282,Other prurigo
+ltc_011,Dermatitis and eczema,L20-L30,L30.0,L300,Nummular dermatitis
+ltc_011,Dermatitis and eczema,L20-L30,L30.1,L301,Dyshidrosis [pompholyx]
+ltc_011,Dermatitis and eczema,L20-L30,L30.2,L302,Cutaneous autosensitization
+ltc_011,Dermatitis and eczema,L20-L30,L30.5,L305,Pityriasis alba
+ltc_011,Dermatitis and eczema,L20-L30,L30.8,L308,Other specified dermatitis
+ltc_011,Dermatitis and eczema,L20-L30,L30.9,L309,"Dermatitis, unspecified"

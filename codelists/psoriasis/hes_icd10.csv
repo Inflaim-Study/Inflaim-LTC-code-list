@@ -1,0 +1,9 @@
+condition_id,condition_name,icd10_block,icd10_code,hes_code,description
+ltc_052,Psoriasis,L40-L45,L40.0,L400,Psoriasis vulgaris
+ltc_052,Psoriasis,L40-L45,L40.1,L401,Generalized pustular psoriasis
+ltc_052,Psoriasis,L40-L45,L40.2,L402,Acrodermatitis continua
+ltc_052,Psoriasis,L40-L45,L40.3,L403,Pustulosis palmaris et plantaris
+ltc_052,Psoriasis,L40-L45,L40.4,L404,Guttate psoriasis
+ltc_052,Psoriasis,L40-L45,L40.5,L405,Arthropathic psoriasis
+ltc_052,Psoriasis,L40-L45,L40.8,L408,Other psoriasis
+ltc_052,Psoriasis,L40-L45,L40.9,L409,"Psoriasis, unspecified"

@@ -1,0 +1,8 @@
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+~$*
+
+InflAIM_internal_working_files/
+InflAIM_internal_working_files_DO_NOT_UPLOAD.zip

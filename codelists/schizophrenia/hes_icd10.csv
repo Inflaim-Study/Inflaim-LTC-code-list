@@ -1,0 +1,22 @@
+condition_id,condition_name,icd10_block,icd10_code,hes_code,description
+ltc_055,Schizophrenia,F20-F29,F20.0,F200,Paranoid schizophrenia
+ltc_055,Schizophrenia,F20-F29,F20.1,F201,Hebephrenic schizophrenia
+ltc_055,Schizophrenia,F20-F29,F20.2,F202,Catatonic schizophrenia
+ltc_055,Schizophrenia,F20-F29,F20.3,F203,Undifferentiated schizophrenia
+ltc_055,Schizophrenia,F20-F29,F20.4,F204,Post-schizophrenic depression
+ltc_055,Schizophrenia,F20-F29,F20.5,F205,Residual schizophrenia
+ltc_055,Schizophrenia,F20-F29,F20.6,F206,Simple schizophrenia
+ltc_055,Schizophrenia,F20-F29,F20.8,F208,Other schizophrenia
+ltc_055,Schizophrenia,F20-F29,F20.9,F209,"Schizophrenia, unspecified"
+ltc_055,Schizophrenia,F20-F29,F21.X,F21X,Schizotypal disorder
+ltc_055,Schizophrenia,F20-F29,F22.0,F220,Delusional disorder
+ltc_055,Schizophrenia,F20-F29,F22.8,F228,Other persistent delusional disorders
+ltc_055,Schizophrenia,F20-F29,F22.9,F229,"Persistent delusional disorder, unspecified"
+ltc_055,Schizophrenia,F20-F29,F24.X,F24X,Induced delusional disorder
+ltc_055,Schizophrenia,F20-F29,F25.0,F250,"Schizoaffective disorder, manic type"
+ltc_055,Schizophrenia,F20-F29,F25.1,F251,"Schizoaffective disorder, depressive type"
+ltc_055,Schizophrenia,F20-F29,F25.2,F252,"Schizoaffective disorder, mixed type"
+ltc_055,Schizophrenia,F20-F29,F25.8,F258,Other schizoaffective disorders
+ltc_055,Schizophrenia,F20-F29,F25.9,F259,"Schizoaffective disorder, unspecified"
+ltc_055,Schizophrenia,F20-F29,F28.X,F28X,Other nonorganic psychotic disorders
+ltc_055,Schizophrenia,F20-F29,F29.X,F29X,Unspecified nonorganic psychosis

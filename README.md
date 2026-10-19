@@ -1,56 +1,58 @@
-# Inflaim Project: LTC Codelist Repository
+# InflAIM long-term condition codelists
 
-**Version:** 2.0  
-**Date:** 2025-06-12
+Codelists for 60 long-term conditions used in the InflAIM research programme, covering UK primary care and hospital records. The condition framework classifies 17 conditions as inflammatory.
 
-## Overview
+Primary care files contain CPRD Aurum MedCodeIds, SNOMED CT identifiers and Read v2 code fields. Hospital Episode Statistics (HES) files contain ICD-10 codes for the same conditions.
 
-This repository contains the generated, curated, multi-system medical codelists for the 60 Long-Term Conditions (LTCs) defined for the Inflaim research project. These codelists are designed to support epidemiological analyses and research within the Inflaim project by providing standardized definitions of conditions recorded in UK primary care datasets.
+The primary care codelist development is described in the [published paper](https://doi.org/10.1186/s13104-025-07626-0). The HES codelists are under review and may change.
 
-The codelists harmonise terms from three key clinical coding systems:
+## Files
 
--   **Read Code Version 2 (CTV2)**
--   **SNOMED CT (UK Clinical Extension & International Edition)**
--   **CPRD Aurum MedCodes**
+| File or folder | Contents |
+|---|---|
+| [conditions.csv](conditions.csv) | Condition names, IDs, abbreviations and inflammatory classification |
+| [conditions.json](conditions.json) | The same condition list in JSON format |
+| [master/primary_care.csv](master/primary_care.csv) | Primary care codes for all conditions |
+| [master/hes_icd10.csv](master/hes_icd10.csv) | HES ICD-10 codes for all conditions |
+| [combined/all_codelists.csv](combined/all_codelists.csv) | Primary care and HES records together, identified by data source |
+| [codelists/](codelists/) | Separate primary care and HES files for each condition |
+| [metadata/](metadata/) | Sources, alternative condition names, code counts and review records |
 
-These curated code sets facilitate consistent patient identification and precise cohort definition, particularly within UK primary care datasets like CPRD Aurum. They were developed through a process combining established literature review with targeted mapping and clinical validation, aiming for comprehensiveness and clinical relevance across all 60 target conditions.
+Each condition folder contains `primary_care.csv` and `hes_icd10.csv`. For example, see the [diabetes files](codelists/diabetes/).
 
-**Note:** This repository currently provides the initial version of the curated codelists and a reference file detailing their origin. The full details of the development methodology, including the supporting code used for their generation, will be made publicly available alongside our forthcoming publication.
+## Using the files
 
-## Repository Contents
+1. Download the combined file, a complete primary care or HES list, or the files for an individual condition.
+2. Import code identifiers as **text** to preserve long numbers and punctuation.
+3. Match against the appropriate code column for your dataset. HES files provide dotted ICD-10 codes, such as `E27.2`, and codes without the decimal point, such as `E272`.
+4. Record the repository release or commit used in your analysis.
 
-This repository contains the final curated medical codelists and a reference file detailing their development source, organized as follows:
+The `condition_id` field links records to the condition list. In `conditions.csv`, `inflammatory_condition` is `Y` for inflammatory conditions and `N` for conditions not classified as inflammatory in the published framework.
 
-1.  **`Inflaim_Conditions_CodeList.csv`**: This is the master codelist file, located in the **root** of the repository. It contains the final, curated mappings for all 60 LTCs across all included coding systems in a single, comprehensive file.  This is a primary file intended for direct use in cohort identification for multiple conditions simultaneously.
-2.  **`Inflaim_LTCs__mapping_reference.csv`**: This file, also located in the **root** of the repository, lists the 60 Long-Term Conditions and provides a reference for the source or methodology used to develop their respective codelists. This file serves as a provenance record for the codelists provided.
-3.  **`CodeLists/`**: This directory, located in the **root** of the repository, contains the curated codes broken down per condition and per coding system. Inside the `CodeLists/` directory, you will find four subdirectories:
-    * **`all_colde_csv/`**: Contains 61 CSV files, one for each condition (e.g., `Diabetes.csv`), where each file lists all the curated codes for that specific condition across all included coding systems combined. *(Note: User provided spelling 'all_colde_csv')*
-    * **`Medcode/`**: Contains 60 CSV files, one for each condition (e.g., `Diabetes_Medcode.csv`), listing only the curated CPRD Aurum MedCodes for that condition.
-    * **`Readcode_V2/`**: Contains 61 CSV files, one for each condition (e.g., `Diabetes_Readcode.csv`), listing only the curated Read Code Version 2 (CTV2) codes for that condition.
-    * **`SnomedCT/`**: Contains 60 CSV files, one for each condition (e.g., `Diabetes_SnomedCT.csv`), listing only the curated SNOMED CT codes for that condition.
+See the [column definitions](docs/data_dictionary.md), [import examples](docs/using_files.md) and [methods and matching guidance](docs/methods.md). Use the selected code records rather than assuming that every code within a listed ICD-10 range is included.
 
-## Accompanying Publication
+## Sources and methods
 
-A detailed manuscript describing the methodology used to generate and clinically validate the Inflaim LTC codelists is in preparation. The supporting code will be released concurrently with this publication.
+The condition framework and primary care codelists were developed through literature review, clinical review, and patient and public involvement. The published paper describes the process and the source resources, including CALIBER, the HDR UK Phenotype Library and MULTIPLY.
 
-## Repository Structure
+Condition-level references are listed in [metadata/sources.csv](metadata/sources.csv). Supporting reference files are in [metadata/source_files/](metadata/source_files/).
 
-```plaintext
-├── CodeLists/                                    # Directory containing condition-specific code files
-│   ├── all_colde_csv/                            # Contains [ConditionName].csv for each condition (all systems)
-│   │   ├── [ConditionName1].csv                 # E.g., Diabetes.csv
-│   │   └── ...                                 # Files for all 61 conditions
-│   ├── Medcode/                                # Contains [ConditionName]_Medcode.csv for each condition
-│   │   ├── [ConditionName1]_Medcode.csv         # E.g., Diabetes_Medcode.csv
-│   │   └── ...
-│   ├── Readcode/                               # Contains [ConditionName]_Readcode.csv for each condition
-│   │   ├── [ConditionName1]_Readcode.csv       # E.g., Diabetes_Readcode.csv
-│   │   └── ...
-│   └── SnomedCT/                               # Contains [ConditionName]_SnomedCT.csv for each condition
-│       ├── [ConditionName1]_SnomedCT.csv       # E.g., Diabetes_SnomedCT.csv
-│       └── ...
-├── Inflaim_Conditions_CodeList.csv # Master curated codelist (all conditions, all systems) 
-├── Inflaim_LTCs__mapping_reference.csv       # Codelist source/methodology reference (all conditions) 
-├── AnnaHead_LTC_Code_Reference.csv       # Codelist source AnnaHead / https://github.com/annalhead/CPRD_multimorbidity_codelists
-├── MULTIPLY-Initiative_LTC_Code_Reference.csv   # Codelist MULTIPLY-Initiative / https://github.com/Fabiola-Eto/MULTIPLY-Initiative   
-├── README.md                                 
+## Citation
+
+Asfaw D, Davies C, Kulinskaya E, et al. **Harmonising definitions of multiple long term conditions for inflammation research: a co-production approach.** *BMC Research Notes*. 2026;19:53.
+
+[DOI: 10.1186/s13104-025-07626-0](https://doi.org/10.1186/s13104-025-07626-0) | [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC12888286/)
+
+Please cite the paper when using the condition framework or primary care codelists, and state the repository release or commit used.
+
+## Funding
+
+This work was supported by the National Institute for Health and Care Research (NIHR), grant NIHR205461. The views expressed are those of the authors and not necessarily those of the NIHR or the Department of Health and Social Care.
+
+## Reuse
+
+See the [reuse notes](docs/reuse.md) for the current licensing status and source terms.
+
+## Questions and corrections
+
+Maintained by the [InflAIM Study team](https://github.com/Inflaim-Study). Please [open an issue](https://github.com/Inflaim-Study/Inflaim-LTC-code-list/issues) to report an error or suggest a correction. Include the condition, code, filename and repository release or commit.

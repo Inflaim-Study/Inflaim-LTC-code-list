@@ -1,0 +1,11 @@
+condition_id,condition_name,icd10_block,icd10_code,hes_code,description
+ltc_025,Epilepsy,G40-G47,G40.0,G400,Localization-related (focal)(partial) idiopathic epilepsy and epileptic syndromes with seizures of localized onset
+ltc_025,Epilepsy,G40-G47,G40.1,G401,Localization-related (focal)(partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures
+ltc_025,Epilepsy,G40-G47,G40.2,G402,Localization-related (focal)(partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures
+ltc_025,Epilepsy,G40-G47,G40.3,G403,Generalized idiopathic epilepsy and epileptic syndromes
+ltc_025,Epilepsy,G40-G47,G40.4,G404,Other generalized epilepsy and epileptic syndromes
+ltc_025,Epilepsy,G40-G47,G40.5,G405,Special epileptic syndromes
+ltc_025,Epilepsy,G40-G47,G40.6,G406,"Grand mal seizures, unspecified (with or without petit mal)"
+ltc_025,Epilepsy,G40-G47,G40.7,G407,"Petit mal, unspecified, without grand mal seizures"
+ltc_025,Epilepsy,G40-G47,G40.8,G408,Other epilepsy
+ltc_025,Epilepsy,G40-G47,G40.9,G409,"Epilepsy, unspecified"

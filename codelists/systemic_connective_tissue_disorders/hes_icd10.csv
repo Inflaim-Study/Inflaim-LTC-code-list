@@ -1,0 +1,41 @@
+condition_id,condition_name,icd10_block,icd10_code,hes_code,description
+ltc_058,Systemic connective tissue disorders,M30-M36,M36.0,M360,Dermato(poly)myositis in neoplastic disease
+ltc_058,Systemic connective tissue disorders,M30-M36,M36.1,M361,Arthropathy in neoplastic disease
+ltc_058,Systemic connective tissue disorders,M30-M36,M36.2,M362,Haemophilic arthropathy
+ltc_058,Systemic connective tissue disorders,M30-M36,M36.3,M363,Arthropathy in other blood disorders
+ltc_058,Systemic connective tissue disorders,M30-M36,M36.4,M364,Arthropathy in hypersensitivity reactions classified elsewhere
+ltc_058,Systemic connective tissue disorders,M30-M36,M36.8,M368,Systemic disorders of connective tissue in other diseases classified elsewhere
+ltc_058,Systemic connective tissue disorders,M30-M36,M30.0,M300,Polyarteritis nodosa
+ltc_058,Systemic connective tissue disorders,M30-M36,M30.1,M301,Polyarteritis with lung involvement [Churg-Strauss]
+ltc_058,Systemic connective tissue disorders,M30-M36,M30.8,M308,Other conditions related to polyarteritis nodosa
+ltc_058,Systemic connective tissue disorders,M30-M36,M31.0,M310,Hypersensitivity angiitis
+ltc_058,Systemic connective tissue disorders,M30-M36,M31.1,M311,Thrombotic microangiopathy
+ltc_058,Systemic connective tissue disorders,M30-M36,M31.2,M312,Lethal midline granuloma
+ltc_058,Systemic connective tissue disorders,M30-M36,M31.3,M313,Granulomatosis with polyangiitis [Wegener]
+ltc_058,Systemic connective tissue disorders,M30-M36,M31.4,M314,Aortic arch syndrome [Takayasu]
+ltc_058,Systemic connective tissue disorders,M30-M36,M31.5,M315,Giant cell arteritis with polymyalgia rheumatica
+ltc_058,Systemic connective tissue disorders,M30-M36,M31.6,M316,Other giant cell arteritis
+ltc_058,Systemic connective tissue disorders,M30-M36,M31.7,M317,Microscopic polyangiitis
+ltc_058,Systemic connective tissue disorders,M30-M36,M31.8,M318,Other specified necrotizing vasculopathies
+ltc_058,Systemic connective tissue disorders,M30-M36,M31.9,M319,"Necrotizing vasculopathy, unspecified"
+ltc_058,Systemic connective tissue disorders,M30-M36,M32.0,M320,Drug-induced systemic lupus erythematosus
+ltc_058,Systemic connective tissue disorders,M30-M36,M32.1,M321,Systemic lupus erythematosus with organ or system involvement
+ltc_058,Systemic connective tissue disorders,M30-M36,M32.8,M328,Other forms of systemic lupus erythematosus
+ltc_058,Systemic connective tissue disorders,M30-M36,M32.9,M329,"Systemic lupus erythematosus, unspecified"
+ltc_058,Systemic connective tissue disorders,M30-M36,M33.1,M331,Other dermatopolymyositis
+ltc_058,Systemic connective tissue disorders,M30-M36,M33.2,M332,Polymyositis
+ltc_058,Systemic connective tissue disorders,M30-M36,M33.9,M339,"Dermatopolymyositis, unspecified"
+ltc_058,Systemic connective tissue disorders,M30-M36,M34.0,M340,Progressive systemic sclerosis
+ltc_058,Systemic connective tissue disorders,M30-M36,M34.1,M341,CR(E)ST syndrome
+ltc_058,Systemic connective tissue disorders,M30-M36,M34.8,M348,Other forms of systemic sclerosis
+ltc_058,Systemic connective tissue disorders,M30-M36,M34.9,M349,"Systemic sclerosis, unspecified"
+ltc_058,Systemic connective tissue disorders,M30-M36,M35.0,M350,Sicca syndrome [Sjogren]
+ltc_058,Systemic connective tissue disorders,M30-M36,M35.1,M351,Other overlap syndromes
+ltc_058,Systemic connective tissue disorders,M30-M36,M35.2,M352,Behcet disease
+ltc_058,Systemic connective tissue disorders,M30-M36,M35.3,M353,Polymyalgia rheumatica
+ltc_058,Systemic connective tissue disorders,M30-M36,M35.4,M354,Diffuse eosinophilic fasciitis
+ltc_058,Systemic connective tissue disorders,M30-M36,M35.5,M355,Multifocal fibrosclerosis
+ltc_058,Systemic connective tissue disorders,M30-M36,M35.6,M356,Relapsing panniculitis [Weber-Christian]
+ltc_058,Systemic connective tissue disorders,M30-M36,M35.7,M357,Hypermobility syndrome
+ltc_058,Systemic connective tissue disorders,M30-M36,M35.8,M358,Other specified systemic involvement of connective tissue
+ltc_058,Systemic connective tissue disorders,M30-M36,M35.9,M359,"Systemic involvement of connective tissue, unspecified"

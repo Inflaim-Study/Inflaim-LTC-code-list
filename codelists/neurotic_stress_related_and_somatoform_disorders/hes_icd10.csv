@@ -1,0 +1,42 @@
+condition_id,condition_name,icd10_block,icd10_code,hes_code,description
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F43.2,F432,Adjustment disorders
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F43.8,F438,Other reactions to severe stress
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F40.0,F400,Agoraphobia
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F40.1,F401,Social phobias
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F40.2,F402,Specific (isolated) phobias
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F40.8,F408,Other phobic anxiety disorders
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F40.9,F409,"Phobic anxiety disorder, unspecified"
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F41.0,F410,Panic disorder [episodic paroxysmal anxiety]
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F41.1,F411,Generalized anxiety disorder
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F41.2,F412,Mixed anxiety and depressive disorder
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F41.3,F413,Other mixed anxiety disorders
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F41.8,F418,Other specified anxiety disorders
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F41.9,F419,"Anxiety disorder, unspecified"
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F42.0,F420,Predominantly obsessional thoughts or ruminations
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F42.1,F421,Predominantly compulsive acts [obsessional rituals]
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F42.2,F422,Mixed obsessional thoughts and acts
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F42.8,F428,Other obsessive-compulsive disorders
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F42.9,F429,"Obsessive-compulsive disorder, unspecified"
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F43.1,F431,Post-traumatic stress disorder
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F43.9,F439,"Reaction to severe stress, unspecified"
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F44.0,F440,Dissociative amnesia
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F44.1,F441,Dissociative fugue
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F44.2,F442,Dissociative stupor
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F44.3,F443,Trance and possession disorders
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F44.4,F444,Dissociative motor disorders
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F44.5,F445,Dissociative convulsions
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F44.6,F446,Dissociative anaesthesia and sensory loss
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F44.7,F447,Mixed dissociative [conversion] disorders
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F44.8,F448,Other dissociative [conversion] disorders
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F44.9,F449,"Dissociative [conversion] disorder, unspecified"
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F45.0,F450,Somatization disorder
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F45.1,F451,Undifferentiated somatoform disorder
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F45.2,F452,Hypochondriacal disorder
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F45.3,F453,Somatoform autonomic dysfunction
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F45.4,F454,Persistent somatoform pain disorder
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F45.8,F458,Other somatoform disorders
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F45.9,F459,"Somatoform disorder, unspecified"
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F48.0,F480,Neurasthenia
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F48.1,F481,Depersonalization-derealization syndrome
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F48.8,F488,Other specified neurotic disorders
+ltc_043,"Neurotic, stress-related and somatoform disorders",F40-F48,F48.9,F489,"Neurotic disorder, unspecified"

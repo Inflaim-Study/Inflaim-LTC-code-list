@@ -1,0 +1,15 @@
+condition_id,condition_name,icd10_block,icd10_code,hes_code,description
+ltc_009,Conductive and sensorineural hearing loss,H90-H95,H91.2,H912,Sudden idiopathic hearing loss
+ltc_009,Conductive and sensorineural hearing loss,H90-H95,H90.0,H900,"Conductive hearing loss, bilateral"
+ltc_009,Conductive and sensorineural hearing loss,H90-H95,H90.1,H901,"Conductive hearing loss, unilateral with unrestricted hearing on the contralateral side"
+ltc_009,Conductive and sensorineural hearing loss,H90-H95,H90.2,H902,"Conductive hearing loss, unspecified"
+ltc_009,Conductive and sensorineural hearing loss,H90-H95,H90.3,H903,"Sensorineural hearing loss, bilateral"
+ltc_009,Conductive and sensorineural hearing loss,H90-H95,H90.4,H904,"Sensorineural hearing loss, unilateral with unrestricted hearing on the contralateral side"
+ltc_009,Conductive and sensorineural hearing loss,H90-H95,H90.5,H905,"Sensorineural hearing loss, unspecified"
+ltc_009,Conductive and sensorineural hearing loss,H90-H95,H90.6,H906,"Mixed conductive and sensorineural hearing loss, bilateral"
+ltc_009,Conductive and sensorineural hearing loss,H90-H95,H90.7,H907,"Mixed conductive and sensorineural hearing loss, unilateral with unrestricted hearing on the contralateral side"
+ltc_009,Conductive and sensorineural hearing loss,H90-H95,H90.8,H908,"Mixed conductive and sensorineural hearing loss, unspecified"
+ltc_009,Conductive and sensorineural hearing loss,H90-H95,H91.0,H910,Ototoxic hearing loss
+ltc_009,Conductive and sensorineural hearing loss,H90-H95,H91.1,H911,Presbycusis
+ltc_009,Conductive and sensorineural hearing loss,H90-H95,H91.8,H918,Other specified hearing loss
+ltc_009,Conductive and sensorineural hearing loss,H90-H95,H91.9,H919,"Hearing loss, unspecified"

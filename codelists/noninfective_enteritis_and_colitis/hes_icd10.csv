@@ -1,0 +1,18 @@
+condition_id,condition_name,icd10_block,icd10_code,hes_code,description
+ltc_044,Noninfective enteritis and colitis,K50-K52,K50.0,K500,Crohn disease of small intestine
+ltc_044,Noninfective enteritis and colitis,K50-K52,K50.1,K501,Crohn disease of large intestine
+ltc_044,Noninfective enteritis and colitis,K50-K52,K50.8,K508,Other Crohn disease
+ltc_044,Noninfective enteritis and colitis,K50-K52,K50.9,K509,"Crohn disease, unspecified"
+ltc_044,Noninfective enteritis and colitis,K50-K52,K51.0,K510,Ulcerative (chronic) pancolitis
+ltc_044,Noninfective enteritis and colitis,K50-K52,K51.2,K512,Ulcerative (chronic) proctitis
+ltc_044,Noninfective enteritis and colitis,K50-K52,K51.3,K513,Ulcerative (chronic) rectosigmoiditis
+ltc_044,Noninfective enteritis and colitis,K50-K52,K51.4,K514,Inflammatory polyps
+ltc_044,Noninfective enteritis and colitis,K50-K52,K51.5,K515,Left sided colitis
+ltc_044,Noninfective enteritis and colitis,K50-K52,K51.8,K518,Other ulcerative colitis
+ltc_044,Noninfective enteritis and colitis,K50-K52,K51.9,K519,"Ulcerative colitis, unspecified"
+ltc_044,Noninfective enteritis and colitis,K50-K52,K52.0,K520,Gastroenteritis and colitis due to radiation
+ltc_044,Noninfective enteritis and colitis,K50-K52,K52.1,K521,Toxic gastroenteritis and colitis
+ltc_044,Noninfective enteritis and colitis,K50-K52,K52.2,K522,Allergic and dietetic gastroenteritis and colitis
+ltc_044,Noninfective enteritis and colitis,K50-K52,K52.3,K523,Indeterminate colitis
+ltc_044,Noninfective enteritis and colitis,K50-K52,K52.8,K528,Other specified noninfective gastroenteritis and colitis
+ltc_044,Noninfective enteritis and colitis,K50-K52,K52.9,K529,"Noninfective gastroenteritis and colitis, unspecified"

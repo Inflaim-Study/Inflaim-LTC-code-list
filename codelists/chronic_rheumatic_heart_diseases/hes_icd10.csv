@@ -1,0 +1,27 @@
+condition_id,condition_name,icd10_block,icd10_code,hes_code,description
+ltc_007,Chronic rheumatic heart diseases,I05-I09,I05.0,I050,Mitral stenosis
+ltc_007,Chronic rheumatic heart diseases,I05-I09,I05.1,I051,Rheumatic mitral insufficiency
+ltc_007,Chronic rheumatic heart diseases,I05-I09,I05.2,I052,Mitral stenosis with insufficiency
+ltc_007,Chronic rheumatic heart diseases,I05-I09,I05.8,I058,Other mitral valve diseases
+ltc_007,Chronic rheumatic heart diseases,I05-I09,I05.9,I059,"Mitral valve disease, unspecified"
+ltc_007,Chronic rheumatic heart diseases,I05-I09,I06.0,I060,Rheumatic aortic stenosis
+ltc_007,Chronic rheumatic heart diseases,I05-I09,I06.1,I061,Rheumatic aortic insufficiency
+ltc_007,Chronic rheumatic heart diseases,I05-I09,I06.2,I062,Rheumatic aortic stenosis with insufficiency
+ltc_007,Chronic rheumatic heart diseases,I05-I09,I06.8,I068,Other rheumatic aortic valve diseases
+ltc_007,Chronic rheumatic heart diseases,I05-I09,I06.9,I069,"Rheumatic aortic valve disease, unspecified"
+ltc_007,Chronic rheumatic heart diseases,I05-I09,I07.0,I070,Tricuspid stenosis
+ltc_007,Chronic rheumatic heart diseases,I05-I09,I07.1,I071,Tricuspid insufficiency
+ltc_007,Chronic rheumatic heart diseases,I05-I09,I07.2,I072,Tricuspid stenosis with insufficiency
+ltc_007,Chronic rheumatic heart diseases,I05-I09,I07.8,I078,Other tricuspid valve diseases
+ltc_007,Chronic rheumatic heart diseases,I05-I09,I07.9,I079,"Tricuspid valve disease, unspecified"
+ltc_007,Chronic rheumatic heart diseases,I05-I09,I08.0,I080,Disorders of both mitral and aortic valves
+ltc_007,Chronic rheumatic heart diseases,I05-I09,I08.1,I081,Disorders of both mitral and tricuspid valves
+ltc_007,Chronic rheumatic heart diseases,I05-I09,I08.2,I082,Disorders of both aortic and tricuspid valves
+ltc_007,Chronic rheumatic heart diseases,I05-I09,I08.3,I083,"Combined disorders of mitral, aortic and tricuspid valves"
+ltc_007,Chronic rheumatic heart diseases,I05-I09,I08.8,I088,Other multiple valve diseases
+ltc_007,Chronic rheumatic heart diseases,I05-I09,I08.9,I089,"Multiple valve disease, unspecified"
+ltc_007,Chronic rheumatic heart diseases,I05-I09,I09.0,I090,Rheumatic myocarditis
+ltc_007,Chronic rheumatic heart diseases,I05-I09,I09.1,I091,"Rheumatic diseases of endocardium, valve unspecified"
+ltc_007,Chronic rheumatic heart diseases,I05-I09,I09.2,I092,Chronic rheumatic pericarditis
+ltc_007,Chronic rheumatic heart diseases,I05-I09,I09.8,I098,Other specified rheumatic heart diseases
+ltc_007,Chronic rheumatic heart diseases,I05-I09,I09.9,I099,"Rheumatic heart disease, unspecified"

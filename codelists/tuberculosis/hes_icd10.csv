@@ -1,0 +1,51 @@
+condition_id,condition_name,icd10_block,icd10_code,hes_code,description
+ltc_059,Tuberculosis,B20-B24,B20.0,B200,HIV disease resulting in mycobacterial infection
+ltc_059,Tuberculosis,J60-J70,J65.X,J65X,Pneumoconiosis associated with tuberculosis
+ltc_059,Tuberculosis,A15-A19,A15.0,A150,"Tuberculosis of lung, confirmed by sputum microscopy with or without culture"
+ltc_059,Tuberculosis,A15-A19,A15.1,A151,"Tuberculosis of lung, confirmed by culture only"
+ltc_059,Tuberculosis,A15-A19,A15.2,A152,"Tuberculosis of lung, confirmed histologically"
+ltc_059,Tuberculosis,A15-A19,A15.3,A153,"Tuberculosis of lung, confirmed by unspecified means"
+ltc_059,Tuberculosis,A15-A19,A15.4,A154,"Tuberculosis of intrathoracic lymph nodes, confirmed bacteriologically and histologically"
+ltc_059,Tuberculosis,A15-A19,A15.5,A155,"Tuberculosis of larynx, trachea and bronchus, confirmed bacteriologically and histologically"
+ltc_059,Tuberculosis,A15-A19,A15.6,A156,"Tuberculous pleurisy, confirmed bacteriologically and histologically"
+ltc_059,Tuberculosis,A15-A19,A15.7,A157,"Primary respiratory tuberculosis, confirmed bacteriologically and histologically"
+ltc_059,Tuberculosis,A15-A19,A15.8,A158,"Other respiratory tuberculosis, confirmed bacteriologically and histologically"
+ltc_059,Tuberculosis,A15-A19,A15.9,A159,"Respiratory tuberculosis unspecified, confirmed bacteriologically and histologically"
+ltc_059,Tuberculosis,A15-A19,A16.0,A160,"Tuberculosis of lung, bacteriologically and histologically negative"
+ltc_059,Tuberculosis,A15-A19,A16.1,A161,"Tuberculosis of lung, bacteriological and histological examination not done"
+ltc_059,Tuberculosis,A15-A19,A16.2,A162,"Tuberculosis of lung, without mention of bacteriological or histological confirmation"
+ltc_059,Tuberculosis,A15-A19,A16.3,A163,"Tuberculosis of intrathoracic lymph nodes, without mention of bacteriological or histological confirmation"
+ltc_059,Tuberculosis,A15-A19,A16.4,A164,"Tuberculosis of larynx, trachea and bronchus, without mention of bacteriological or histological confirmation"
+ltc_059,Tuberculosis,A15-A19,A16.5,A165,"Tuberculous pleurisy, without mention of bacteriological or histological confirmation"
+ltc_059,Tuberculosis,A15-A19,A16.7,A167,Primary respiratory tuberculosis without mention of bacteriological or histological confirmation
+ltc_059,Tuberculosis,A15-A19,A16.8,A168,"Other respiratory tuberculosis, without mention of bacteriological or histological confirmation"
+ltc_059,Tuberculosis,A15-A19,A16.9,A169,"Respiratory tuberculosis unspecified, without mention of bacteriological or histological confirmation"
+ltc_059,Tuberculosis,A15-A19,A17.0,A170,Tuberculous meningitis
+ltc_059,Tuberculosis,A15-A19,A17.1,A171,Meningeal tuberculoma
+ltc_059,Tuberculosis,A15-A19,A17.8,A178,Other tuberculosis of nervous system
+ltc_059,Tuberculosis,A15-A19,A17.9,A179,"Tuberculosis of nervous system, unspecified"
+ltc_059,Tuberculosis,A15-A19,A18.0,A180,Tuberculosis of bones and joints
+ltc_059,Tuberculosis,A15-A19,A18.1,A181,Tuberculosis of genitourinary system
+ltc_059,Tuberculosis,A15-A19,A18.2,A182,Tuberculous peripheral lymphadenopathy
+ltc_059,Tuberculosis,A15-A19,A18.3,A183,"Tuberculosis of intestines, peritoneum and mesenteric glands"
+ltc_059,Tuberculosis,A15-A19,A18.4,A184,Tuberculosis of skin and subcutaneous tissue
+ltc_059,Tuberculosis,A15-A19,A18.5,A185,Tuberculosis of eye
+ltc_059,Tuberculosis,A15-A19,A18.6,A186,Tuberculosis of ear
+ltc_059,Tuberculosis,A15-A19,A18.7,A187,Tuberculosis of adrenal glands
+ltc_059,Tuberculosis,A15-A19,A18.8,A188,Tuberculosis of other specified organs
+ltc_059,Tuberculosis,A15-A19,A19.8,A198,Other miliary tuberculosis
+ltc_059,Tuberculosis,A15-A19,A19.9,A199,"Miliary tuberculosis, unspecified"
+ltc_059,Tuberculosis,B90-B94,B90.0,B900,Sequelae of central nervous system tuberculosis
+ltc_059,Tuberculosis,B90-B94,B90.1,B901,Sequelae of genitourinary tuberculosis
+ltc_059,Tuberculosis,B90-B94,B90.2,B902,Sequelae of tuberculosis of bones and joints
+ltc_059,Tuberculosis,B90-B94,B90.8,B908,Sequelae of tuberculosis of other organs
+ltc_059,Tuberculosis,B90-B94,B90.9,B909,Sequelae of respiratory and unspecified tuberculosis
+ltc_059,Tuberculosis,K20-K31,K23.0,K230,Tuberculous oesophagitis
+ltc_059,Tuberculosis,K65-K67,K67.3,K673,Tuberculous peritonitis
+ltc_059,Tuberculosis,K90-K93,K93.0,K930,"Tuberculous disorders of intestines, peritoneum and mesenteric glands"
+ltc_059,Tuberculosis,M00-M03,M01.1,M011,Tuberculous arthritis
+ltc_059,Tuberculosis,M45-M49,M49.0,M490,Tuberculosis of spine
+ltc_059,Tuberculosis,M86-M90,M90.0,M900,Tuberculosis of bone
+ltc_059,Tuberculosis,N30-N39,N33.0,N330,Tuberculous cystitis
+ltc_059,Tuberculosis,N70-N77,N74.0,N740,Tuberculous infection of cervix uteri
+ltc_059,Tuberculosis,N70-N77,N74.1,N741,Female tuberculous pelvic inflammatory disease

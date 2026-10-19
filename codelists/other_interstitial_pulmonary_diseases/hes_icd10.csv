@@ -1,0 +1,5 @@
+condition_id,condition_name,icd10_block,icd10_code,hes_code,description
+ltc_047,Other interstitial pulmonary diseases,J80-J84,J84.0,J840,Alveolar and parietoalveolar conditions
+ltc_047,Other interstitial pulmonary diseases,J80-J84,J84.1,J841,Other interstitial pulmonary diseases with fibrosis
+ltc_047,Other interstitial pulmonary diseases,J80-J84,J84.8,J848,Other specified interstitial pulmonary diseases
+ltc_047,Other interstitial pulmonary diseases,J80-J84,J84.9,J849,"Interstitial pulmonary disease, unspecified"

@@ -1,0 +1,11 @@
+condition_id,condition_name,MedCodeId,SnomedCTConceptId,SnomedCTDescriptionId,OriginalReadCode,CleansedReadCode,Term
+ltc_030,Hypoparathyroidism,61678012,36976004,61678012,C121,C121.00,Hypoparathyroidism
+ltc_030,Hypoparathyroidism,292683010,36976004,61678012,C121z,C121z00,Hypoparathyroidism NOS
+ltc_030,Hypoparathyroidism,293765015,36976004,61678012,Cyu40,Cyu4000,[X]Other hypoparathyroidism
+ltc_030,Hypoparathyroidism,356185013,237654002,356185013,C1212,C121200,Idiopathic hypoparathyroidism
+ltc_030,Hypoparathyroidism,356191010,237659007,356191010,C3543-1,C354311,Pseudopseudohypoparathyroidism
+ltc_030,Hypoparathyroidism,498253016,58976002,98005010,C3543,C354300,Pseudohypoparathyroidism
+ltc_030,Hypoparathyroidism,3455731000006115,58833000,97765018,^ESCTPS345573,,Pseudohypoparathyroidism type I A
+ltc_030,Hypoparathyroidism,3724671000006118,75316000,125091015,^ESCTAU372467,,Autoimmune hypoparathyroidism
+ltc_030,Hypoparathyroidism,3962381000006119,89965003,149125015,^ESCTID396238,,Idiopathic parathyroidism
+ltc_030,Hypoparathyroidism,7764061000006118,717903003,3310556014,^ESCTSE776406,,Secondary hypoparathyroidism
