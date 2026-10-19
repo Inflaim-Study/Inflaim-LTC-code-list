@@ -12,8 +12,8 @@ The primary care codelist development is described in the [published paper](http
 |---|---|
 | [conditions.csv](conditions.csv) | Condition names, IDs, abbreviations and inflammatory classification |
 | [conditions.json](conditions.json) | The same condition list in JSON format |
-| [master/primary_care.csv](master/primary_care.csv) | Primary care codes for all conditions |
-| [master/hes_icd10.csv](master/hes_icd10.csv) | HES ICD-10 codes for all conditions |
+| [primary_care.csv](primary_care.csv) | Primary care codes for all conditions |
+| [hes_icd10.csv](hes_icd10.csv) | HES ICD-10 codes for all conditions |
 | [combined/all_codelists.csv](combined/all_codelists.csv) | Primary care and HES records together, identified by data source |
 | [codelists/](codelists/) | Separate primary care and HES files for each condition |
 | [metadata/](metadata/) | Sources, alternative condition names, code counts and review records |

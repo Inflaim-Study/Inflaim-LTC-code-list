@@ -5,20 +5,20 @@ Read identifiers as text to retain long values and punctuation.
 ## R
 
 ```r
-pc <- readr::read_csv("master/primary_care.csv", col_types = readr::cols(.default = "c"))
+pc <- readr::read_csv("primary_care.csv", col_types = readr::cols(.default = "c"))
 ```
 
 ## Python
 
 ```python
 import pandas as pd
-pc = pd.read_csv("master/primary_care.csv", dtype=str, keep_default_na=False)
+pc = pd.read_csv("primary_care.csv", dtype=str, keep_default_na=False)
 ```
 
 ## Stata
 
 ```stata
-import delimited "master/primary_care.csv", stringcols(_all) encoding(utf-8) clear
+import delimited "primary_care.csv", stringcols(_all) encoding(utf-8) clear
 ```
 
 ## Excel

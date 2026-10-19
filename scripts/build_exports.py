@@ -4,8 +4,8 @@
 The three maintained files are:
 
     conditions.csv
-    master/primary_care.csv
-    master/hes_icd10.csv
+    primary_care.csv
+    hes_icd10.csv
 
 Everything else (per-condition files, the combined file, conditions.json and the
 summary files in metadata/) is generated from them by this script.
@@ -94,7 +94,7 @@ def validate(conditions, primary, hes, sources):
         require(re.fullmatch(r'[a-z0-9_]+', c['folder_name']), f"{c['condition_id']}: bad folder_name.")
 
     names = {c['condition_id']: c['condition_name'] for c in conditions}
-    for label, rows in (('master/primary_care.csv', primary), ('master/hes_icd10.csv', hes),
+    for label, rows in (('primary_care.csv', primary), ('hes_icd10.csv', hes),
                         ('metadata/sources.csv', sources)):
         for row in rows:
             require(names.get(row['condition_id']) == row['condition_name'],
@@ -125,8 +125,8 @@ def validate(conditions, primary, hes, sources):
 
 def generate(destination):
     conditions = read_csv(ROOT / 'conditions.csv', CONDITION_FIELDS)
-    primary = read_csv(ROOT / 'master' / 'primary_care.csv', PRIMARY_FIELDS)
-    hes = read_csv(ROOT / 'master' / 'hes_icd10.csv', HES_FIELDS)
+    primary = read_csv(ROOT / 'primary_care.csv', PRIMARY_FIELDS)
+    hes = read_csv(ROOT / 'hes_icd10.csv', HES_FIELDS)
     sources = read_csv(ROOT / 'metadata' / 'sources.csv', SOURCE_FIELDS)
     validate(conditions, primary, hes, sources)
 
