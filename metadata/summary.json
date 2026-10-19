@@ -1,0 +1,31 @@
+{
+  "conditions": 60,
+  "inflammatory_conditions": 17,
+  "primary_care_rows": 7218,
+  "primary_care_rows_without_CleansedReadCode": 1126,
+  "hes_rows": 1641,
+  "combined_rows": 8859,
+  "codes": {
+    "MedCodeId": {
+      "distinct_codes": 7216,
+      "codes_in_more_than_one_condition": 2
+    },
+    "SnomedCTConceptId": {
+      "distinct_codes": 4524,
+      "codes_in_more_than_one_condition": 2
+    },
+    "OriginalReadCode": {
+      "distinct_codes": 7216,
+      "codes_in_more_than_one_condition": 2
+    },
+    "CleansedReadCode": {
+      "distinct_codes": 6091,
+      "codes_in_more_than_one_condition": 1
+    },
+    "hes_code": {
+      "distinct_codes": 1637,
+      "codes_in_more_than_one_condition": 4
+    }
+  },
+  "note": "Structural checks only; codes have not been clinically re-validated by this script."
+}

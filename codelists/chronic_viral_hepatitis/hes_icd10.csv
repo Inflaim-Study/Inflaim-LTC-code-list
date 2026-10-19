@@ -1,0 +1,8 @@
+condition_id,condition_name,icd10_block,icd10_code,hes_code,description
+ltc_008,Chronic viral hepatitis,B15-B19,B18.0,B180,Chronic viral hepatitis B with delta-agent
+ltc_008,Chronic viral hepatitis,B15-B19,B18.1,B181,Chronic viral hepatitis B without delta-agent
+ltc_008,Chronic viral hepatitis,B15-B19,B18.2,B182,Chronic viral hepatitis C
+ltc_008,Chronic viral hepatitis,B15-B19,B18.8,B188,Other chronic viral hepatitis
+ltc_008,Chronic viral hepatitis,B15-B19,B18.9,B189,"Chronic viral hepatitis, unspecified"
+ltc_008,Chronic viral hepatitis,B15-B19,B19.0,B190,Unspecified viral hepatitis with hepatic coma
+ltc_008,Chronic viral hepatitis,B15-B19,B19.9,B199,Unspecified viral hepatitis without hepatic coma

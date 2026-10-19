@@ -1,0 +1,56 @@
+cff-version: 1.2.0
+message: "If you use these codelists, please cite the paper below and give the version of the codelists you used."
+title: "InflAIM long-term condition codelists"
+type: dataset
+abstract: >-
+  Codelists for 60 long-term conditions, for research on inflammation and
+  multiple long-term conditions using UK electronic health records. Primary
+  care codes are given as CPRD Aurum MedCodeIds, SNOMED CT and Read v2 codes;
+  hospital codes are given as ICD-10 codes for Hospital Episode Statistics.
+authors:
+  - name: "InflAIM Study team"
+repository-code: "https://github.com/Inflaim-Study/Inflaim-LTC-code-list"
+url: "https://github.com/Inflaim-Study/Inflaim-LTC-code-list"
+keywords:
+  - multimorbidity
+  - multiple long-term conditions
+  - inflammation
+  - codelists
+  - electronic health records
+  - CPRD Aurum
+  - SNOMED CT
+  - Read codes
+  - ICD-10
+  - Hospital Episode Statistics
+preferred-citation:
+  type: article
+  title: "Harmonising definitions of multiple long term conditions for inflammation research: a co-production approach"
+  authors:
+    - family-names: "Asfaw"
+      given-names: "Daniel"
+    - family-names: "Davies"
+      given-names: "Charlotte"
+    - family-names: "Kulinskaya"
+      given-names: "Elena"
+    - family-names: "Zebin"
+      given-names: "Tahmina"
+    - family-names: "Aung"
+      given-names: "Min Hane"
+    - family-names: "Fox"
+      given-names: "Christopher"
+    - family-names: "Jones"
+      given-names: "Benedict Alan Harries"
+    - family-names: "Gooding"
+      given-names: "Jasmyn"
+    - family-names: "Ford"
+      given-names: "John"
+    - family-names: "MacGregor"
+      given-names: "Alexander J."
+  journal: "BMC Research Notes"
+  volume: 19
+  issue: 1
+  start: 53
+  year: 2026
+  date-published: "2026-01-13"
+  doi: "10.1186/s13104-025-07626-0"
+  url: "https://doi.org/10.1186/s13104-025-07626-0"

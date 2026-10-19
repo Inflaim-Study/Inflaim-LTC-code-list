@@ -1,0 +1,375 @@
+condition_id,condition_name,icd10_block,icd10_code,hes_code,description
+ltc_037,Malignant neoplasms,C00-C14,C00.0,C000,Malignant neoplasm of external upper lip
+ltc_037,Malignant neoplasms,C00-C14,C00.1,C001,Malignant neoplasm of external lower lip
+ltc_037,Malignant neoplasms,C00-C14,C00.2,C002,"Malignant neoplasm of external lip, unspecified"
+ltc_037,Malignant neoplasms,C00-C14,C00.3,C003,"Malignant neoplasm of upper lip, inner aspect"
+ltc_037,Malignant neoplasms,C00-C14,C00.4,C004,"Malignant neoplasm of lower lip, inner aspect"
+ltc_037,Malignant neoplasms,C00-C14,C00.5,C005,"Malignant neoplasm of lip, unspecified, inner aspect"
+ltc_037,Malignant neoplasms,C00-C14,C00.6,C006,Malignant neoplasm of commissure of lip
+ltc_037,Malignant neoplasms,C00-C14,C00.8,C008,Malignant neoplasm of overlapping sites of lip
+ltc_037,Malignant neoplasms,C00-C14,C00.9,C009,"Malignant neoplasm of lip, unspecified"
+ltc_037,Malignant neoplasms,C00-C14,C01.X,C01X,Malignant neoplasm of base of tongue
+ltc_037,Malignant neoplasms,C00-C14,C02.0,C020,Malignant neoplasm of dorsal surface of tongue
+ltc_037,Malignant neoplasms,C00-C14,C02.1,C021,Malignant neoplasm of border of tongue
+ltc_037,Malignant neoplasms,C00-C14,C02.2,C022,Malignant neoplasm of ventral surface of tongue
+ltc_037,Malignant neoplasms,C00-C14,C02.3,C023,"Malignant neoplasm of anterior two-thirds of tongue, part unspecified"
+ltc_037,Malignant neoplasms,C00-C14,C02.4,C024,Malignant neoplasm of lingual tonsil
+ltc_037,Malignant neoplasms,C00-C14,C02.8,C028,Malignant neoplasm of overlapping sites of tongue
+ltc_037,Malignant neoplasms,C00-C14,C02.9,C029,"Malignant neoplasm of tongue, unspecified"
+ltc_037,Malignant neoplasms,C00-C14,C03.0,C030,Malignant neoplasm of upper gum
+ltc_037,Malignant neoplasms,C00-C14,C03.1,C031,Malignant neoplasm of lower gum
+ltc_037,Malignant neoplasms,C00-C14,C03.9,C039,"Malignant neoplasm of gum, unspecified"
+ltc_037,Malignant neoplasms,C00-C14,C04.0,C040,Malignant neoplasm of anterior floor of mouth
+ltc_037,Malignant neoplasms,C00-C14,C04.1,C041,Malignant neoplasm of lateral floor of mouth
+ltc_037,Malignant neoplasms,C00-C14,C04.8,C048,Malignant neoplasm of overlapping sites of floor of mouth
+ltc_037,Malignant neoplasms,C00-C14,C04.9,C049,"Malignant neoplasm of floor of mouth, unspecified"
+ltc_037,Malignant neoplasms,C00-C14,C05.0,C050,Malignant neoplasm of hard palate
+ltc_037,Malignant neoplasms,C00-C14,C05.1,C051,Malignant neoplasm of soft palate
+ltc_037,Malignant neoplasms,C00-C14,C05.2,C052,Malignant neoplasm of uvula
+ltc_037,Malignant neoplasms,C00-C14,C05.8,C058,Malignant neoplasm of overlapping sites of palate
+ltc_037,Malignant neoplasms,C00-C14,C05.9,C059,"Malignant neoplasm of palate, unspecified"
+ltc_037,Malignant neoplasms,C00-C14,C06.0,C060,Malignant neoplasm of cheek mucosa
+ltc_037,Malignant neoplasms,C00-C14,C06.1,C061,Malignant neoplasm of vestibule of mouth
+ltc_037,Malignant neoplasms,C00-C14,C06.2,C062,Malignant neoplasm of retromolar area
+ltc_037,Malignant neoplasms,C00-C14,C06.8,C068,Malignant neoplasm of overlapping sites of other and unspecified parts of mouth
+ltc_037,Malignant neoplasms,C00-C14,C06.9,C069,"Malignant neoplasm of mouth, unspecified"
+ltc_037,Malignant neoplasms,C00-C14,C07.X,C07X,Malignant neoplasm of parotid gland
+ltc_037,Malignant neoplasms,C00-C14,C08.0,C080,Malignant neoplasm of submandibular gland
+ltc_037,Malignant neoplasms,C00-C14,C08.1,C081,Malignant neoplasm of sublingual gland
+ltc_037,Malignant neoplasms,C00-C14,C08.8,C088,Malignant neoplasm of overlapping sites of major salivary glands
+ltc_037,Malignant neoplasms,C00-C14,C08.9,C089,"Malignant neoplasm of major salivary gland, unspecified"
+ltc_037,Malignant neoplasms,C00-C14,C09.0,C090,Malignant neoplasm of tonsillar fossa
+ltc_037,Malignant neoplasms,C00-C14,C09.1,C091,Malignant neoplasm of tonsillar pillar (anterior) (posterior)
+ltc_037,Malignant neoplasms,C00-C14,C09.8,C098,Malignant neoplasm of overlapping sites of tonsil
+ltc_037,Malignant neoplasms,C00-C14,C09.9,C099,"Malignant neoplasm of tonsil, unspecified"
+ltc_037,Malignant neoplasms,C00-C14,C10.0,C100,Malignant neoplasm of vallecula
+ltc_037,Malignant neoplasms,C00-C14,C10.1,C101,Malignant neoplasm of anterior surface of epiglottis
+ltc_037,Malignant neoplasms,C00-C14,C10.2,C102,Malignant neoplasm of lateral wall of oropharynx
+ltc_037,Malignant neoplasms,C00-C14,C10.3,C103,Malignant neoplasm of posterior wall of oropharynx
+ltc_037,Malignant neoplasms,C00-C14,C10.4,C104,Malignant neoplasm of branchial cleft
+ltc_037,Malignant neoplasms,C00-C14,C10.8,C108,Malignant neoplasm of overlapping sites of oropharynx
+ltc_037,Malignant neoplasms,C00-C14,C10.9,C109,"Malignant neoplasm of oropharynx, unspecified"
+ltc_037,Malignant neoplasms,C00-C14,C11.0,C110,Malignant neoplasm of superior wall of nasopharynx
+ltc_037,Malignant neoplasms,C00-C14,C11.1,C111,Malignant neoplasm of posterior wall of nasopharynx
+ltc_037,Malignant neoplasms,C00-C14,C11.2,C112,Malignant neoplasm of lateral wall of nasopharynx
+ltc_037,Malignant neoplasms,C00-C14,C11.3,C113,Malignant neoplasm of anterior wall of nasopharynx
+ltc_037,Malignant neoplasms,C00-C14,C11.8,C118,Malignant neoplasm of overlapping sites of nasopharynx
+ltc_037,Malignant neoplasms,C00-C14,C11.9,C119,"Malignant neoplasm of nasopharynx, unspecified"
+ltc_037,Malignant neoplasms,C00-C14,C12.X,C12X,Malignant neoplasm of pyriform sinus
+ltc_037,Malignant neoplasms,C00-C14,C13.0,C130,Malignant neoplasm of postcricoid region
+ltc_037,Malignant neoplasms,C00-C14,C13.1,C131,"Malignant neoplasm of aryepiglottic fold, hypopharyngeal aspect"
+ltc_037,Malignant neoplasms,C00-C14,C13.2,C132,Malignant neoplasm of posterior wall of hypopharynx
+ltc_037,Malignant neoplasms,C00-C14,C13.8,C138,Malignant neoplasm of overlapping sites of hypopharynx
+ltc_037,Malignant neoplasms,C00-C14,C13.9,C139,"Malignant neoplasm of hypopharynx, unspecified"
+ltc_037,Malignant neoplasms,C00-C14,C14.0,C140,"Malignant neoplasm of pharynx, unspecified"
+ltc_037,Malignant neoplasms,C00-C14,C14.1,C141,Malignant neoplasm of laryngopharynx
+ltc_037,Malignant neoplasms,C00-C14,C14.2,C142,Malignant neoplasm of Waldeyer ring
+ltc_037,Malignant neoplasms,C00-C14,C14.8,C148,"Malignant neoplasm of overlapping sites of lip, oral cavity and pharynx"
+ltc_037,Malignant neoplasms,C15-C26,C15.0,C150,Malignant neoplasm of cervical part of oesophagus
+ltc_037,Malignant neoplasms,C15-C26,C15.1,C151,Malignant neoplasm of thoracic part of oesophagus
+ltc_037,Malignant neoplasms,C15-C26,C15.2,C152,Malignant neoplasm of abdominal part of oesophagus
+ltc_037,Malignant neoplasms,C15-C26,C15.3,C153,Malignant neoplasm of upper third of oesophagus
+ltc_037,Malignant neoplasms,C15-C26,C15.4,C154,Malignant neoplasm of middle third of oesophagus
+ltc_037,Malignant neoplasms,C15-C26,C15.5,C155,Malignant neoplasm of lower third of oesophagus
+ltc_037,Malignant neoplasms,C15-C26,C15.8,C158,Malignant neoplasm of overlapping sites of oesophagus
+ltc_037,Malignant neoplasms,C15-C26,C15.9,C159,"Malignant neoplasm of oesophagus, unspecified"
+ltc_037,Malignant neoplasms,C15-C26,C16.0,C160,Malignant neoplasm of cardia
+ltc_037,Malignant neoplasms,C15-C26,C16.1,C161,Malignant neoplasm of fundus of stomach
+ltc_037,Malignant neoplasms,C15-C26,C16.2,C162,Malignant neoplasm of body of stomach
+ltc_037,Malignant neoplasms,C15-C26,C16.3,C163,Malignant neoplasm of pyloric antrum
+ltc_037,Malignant neoplasms,C15-C26,C16.4,C164,Malignant neoplasm of pylorus
+ltc_037,Malignant neoplasms,C15-C26,C16.5,C165,"Malignant neoplasm of lesser curvature of stomach, unspecified"
+ltc_037,Malignant neoplasms,C15-C26,C16.6,C166,"Malignant neoplasm of greater curvature of stomach, unspecified"
+ltc_037,Malignant neoplasms,C15-C26,C16.8,C168,Malignant neoplasm of overlapping sites of stomach
+ltc_037,Malignant neoplasms,C15-C26,C16.9,C169,"Malignant neoplasm of stomach, unspecified"
+ltc_037,Malignant neoplasms,C15-C26,C17.0,C170,Malignant neoplasm of duodenum
+ltc_037,Malignant neoplasms,C15-C26,C17.1,C171,Malignant neoplasm of jejunum
+ltc_037,Malignant neoplasms,C15-C26,C17.2,C172,Malignant neoplasm of ileum
+ltc_037,Malignant neoplasms,C15-C26,C17.3,C173,Malignant neoplasm of Meckel diverticulum
+ltc_037,Malignant neoplasms,C15-C26,C17.8,C178,Malignant neoplasm of overlapping sites of small intestine
+ltc_037,Malignant neoplasms,C15-C26,C17.9,C179,"Malignant neoplasm of small intestine, unspecified"
+ltc_037,Malignant neoplasms,C15-C26,C18.0,C180,Malignant neoplasm of caecum
+ltc_037,Malignant neoplasms,C15-C26,C18.1,C181,Malignant neoplasm of appendix
+ltc_037,Malignant neoplasms,C15-C26,C18.2,C182,Malignant neoplasm of ascending colon
+ltc_037,Malignant neoplasms,C15-C26,C18.3,C183,Malignant neoplasm of hepatic flexure
+ltc_037,Malignant neoplasms,C15-C26,C18.4,C184,Malignant neoplasm of transverse colon
+ltc_037,Malignant neoplasms,C15-C26,C18.5,C185,Malignant neoplasm of splenic flexure
+ltc_037,Malignant neoplasms,C15-C26,C18.6,C186,Malignant neoplasm of descending colon
+ltc_037,Malignant neoplasms,C15-C26,C18.7,C187,Malignant neoplasm of sigmoid colon
+ltc_037,Malignant neoplasms,C15-C26,C18.8,C188,Malignant neoplasm of overlapping sites of colon
+ltc_037,Malignant neoplasms,C15-C26,C18.9,C189,"Malignant neoplasm of colon, unspecified"
+ltc_037,Malignant neoplasms,C15-C26,C19.X,C19X,Malignant neoplasm of rectosigmoid junction
+ltc_037,Malignant neoplasms,C15-C26,C20.X,C20X,Malignant neoplasm of rectum
+ltc_037,Malignant neoplasms,C15-C26,C21.0,C210,"Malignant neoplasm of anus, unspecified"
+ltc_037,Malignant neoplasms,C15-C26,C21.1,C211,Malignant neoplasm of anal canal
+ltc_037,Malignant neoplasms,C15-C26,C21.2,C212,Malignant neoplasm of cloacogenic zone
+ltc_037,Malignant neoplasms,C15-C26,C21.8,C218,"Malignant neoplasm of overlapping sites of rectum, anus and anal canal"
+ltc_037,Malignant neoplasms,C15-C26,C22.0,C220,Liver cell carcinoma
+ltc_037,Malignant neoplasms,C15-C26,C22.1,C221,Intrahepatic bile duct carcinoma
+ltc_037,Malignant neoplasms,C15-C26,C22.2,C222,Hepatoblastoma
+ltc_037,Malignant neoplasms,C15-C26,C22.3,C223,Angiosarcoma of liver
+ltc_037,Malignant neoplasms,C15-C26,C22.4,C224,Other sarcomas of liver
+ltc_037,Malignant neoplasms,C15-C26,C22.7,C227,Other specified carcinomas of liver
+ltc_037,Malignant neoplasms,C15-C26,C22.9,C229,"Malignant neoplasm of liver, unspecified"
+ltc_037,Malignant neoplasms,C15-C26,C23.X,C23X,Malignant neoplasm of gallbladder
+ltc_037,Malignant neoplasms,C15-C26,C24.0,C240,Malignant neoplasm of extrahepatic bile duct
+ltc_037,Malignant neoplasms,C15-C26,C24.1,C241,Malignant neoplasm of ampulla of Vater
+ltc_037,Malignant neoplasms,C15-C26,C24.8,C248,Malignant neoplasm of overlapping sites of biliary tract
+ltc_037,Malignant neoplasms,C15-C26,C24.9,C249,"Malignant neoplasm of biliary tract, unspecified"
+ltc_037,Malignant neoplasms,C15-C26,C25.0,C250,Malignant neoplasm of head of pancreas
+ltc_037,Malignant neoplasms,C15-C26,C25.1,C251,Malignant neoplasm of body of pancreas
+ltc_037,Malignant neoplasms,C15-C26,C25.2,C252,Malignant neoplasm of tail of pancreas
+ltc_037,Malignant neoplasms,C15-C26,C25.3,C253,Malignant neoplasm of pancreatic duct
+ltc_037,Malignant neoplasms,C15-C26,C25.4,C254,Malignant neoplasm of endocrine pancreas
+ltc_037,Malignant neoplasms,C15-C26,C25.7,C257,Malignant neoplasm of other parts of pancreas
+ltc_037,Malignant neoplasms,C15-C26,C25.8,C258,Malignant neoplasm of overlapping sites of pancreas
+ltc_037,Malignant neoplasms,C15-C26,C25.9,C259,"Malignant neoplasm of pancreas, unspecified"
+ltc_037,Malignant neoplasms,C15-C26,C26.0,C260,"Malignant neoplasm of intestinal tract, part unspecified"
+ltc_037,Malignant neoplasms,C15-C26,C26.1,C261,Malignant neoplasm of spleen
+ltc_037,Malignant neoplasms,C15-C26,C26.8,C268,Malignant neoplasm of overlapping sites of digestive system
+ltc_037,Malignant neoplasms,C15-C26,C26.9,C269,Malignant neoplasm of ill-defined sites within the digestive system
+ltc_037,Malignant neoplasms,C30-C39,C30.0,C300,Malignant neoplasm of nasal cavity
+ltc_037,Malignant neoplasms,C30-C39,C30.1,C301,Malignant neoplasm of middle ear
+ltc_037,Malignant neoplasms,C30-C39,C31.0,C310,Malignant neoplasm of maxillary sinus
+ltc_037,Malignant neoplasms,C30-C39,C31.1,C311,Malignant neoplasm of ethmoidal sinus
+ltc_037,Malignant neoplasms,C30-C39,C31.2,C312,Malignant neoplasm of frontal sinus
+ltc_037,Malignant neoplasms,C30-C39,C31.3,C313,Malignant neoplasm of sphenoidal sinus
+ltc_037,Malignant neoplasms,C30-C39,C31.8,C318,Malignant neoplasm of overlapping sites of accessory sinuses
+ltc_037,Malignant neoplasms,C30-C39,C31.9,C319,"Malignant neoplasm of accessory sinus, unspecified"
+ltc_037,Malignant neoplasms,C30-C39,C32.0,C320,Malignant neoplasm of glottis
+ltc_037,Malignant neoplasms,C30-C39,C32.1,C321,Malignant neoplasm of supraglottis
+ltc_037,Malignant neoplasms,C30-C39,C32.2,C322,Malignant neoplasm of subglottis
+ltc_037,Malignant neoplasms,C30-C39,C32.3,C323,Malignant neoplasm of laryngeal cartilage
+ltc_037,Malignant neoplasms,C30-C39,C32.8,C328,Malignant neoplasm of overlapping sites of larynx
+ltc_037,Malignant neoplasms,C30-C39,C32.9,C329,"Malignant neoplasm of larynx, unspecified"
+ltc_037,Malignant neoplasms,C30-C39,C33.X,C33X,Malignant neoplasm of trachea
+ltc_037,Malignant neoplasms,C30-C39,C34.0,C340,Malignant neoplasm of main bronchus
+ltc_037,Malignant neoplasms,C30-C39,C34.1,C341,"Malignant neoplasm of upper lobe, bronchus or lung"
+ltc_037,Malignant neoplasms,C30-C39,C34.2,C342,"Malignant neoplasm of middle lobe, bronchus or lung"
+ltc_037,Malignant neoplasms,C30-C39,C34.3,C343,"Malignant neoplasm of lower lobe, bronchus or lung"
+ltc_037,Malignant neoplasms,C30-C39,C34.8,C348,Malignant neoplasm of overlapping sites of bronchus and lung
+ltc_037,Malignant neoplasms,C30-C39,C34.9,C349,"Malignant neoplasm of bronchus or lung, unspecified"
+ltc_037,Malignant neoplasms,C30-C39,C37.X,C37X,Malignant neoplasm of thymus
+ltc_037,Malignant neoplasms,C30-C39,C38.0,C380,Malignant neoplasm of heart
+ltc_037,Malignant neoplasms,C30-C39,C38.1,C381,Malignant neoplasm of anterior mediastinum
+ltc_037,Malignant neoplasms,C30-C39,C38.2,C382,Malignant neoplasm of posterior mediastinum
+ltc_037,Malignant neoplasms,C30-C39,C38.3,C383,"Malignant neoplasm of mediastinum, part unspecified"
+ltc_037,Malignant neoplasms,C30-C39,C38.4,C384,Malignant neoplasm of pleura
+ltc_037,Malignant neoplasms,C30-C39,C38.8,C388,"Malignant neoplasm of overlapping sites of heart, mediastinum and pleura"
+ltc_037,Malignant neoplasms,C30-C39,C39.0,C390,"Malignant neoplasm of upper respiratory tract, part unspecified"
+ltc_037,Malignant neoplasms,C30-C39,C39.8,C398,Malignant neoplasm of overlapping sites of respiratory and intrathoracic organs
+ltc_037,Malignant neoplasms,C30-C39,C39.9,C399,Malignant neoplasm of ill-defined sites within the respiratory system
+ltc_037,Malignant neoplasms,C40-C41,C40.0,C400,Malignant neoplasm of scapula and long bones of upper limb
+ltc_037,Malignant neoplasms,C40-C41,C40.1,C401,Malignant neoplasm of short bones of upper limb
+ltc_037,Malignant neoplasms,C40-C41,C40.2,C402,Malignant neoplasm of long bones of lower limb
+ltc_037,Malignant neoplasms,C40-C41,C40.3,C403,Malignant neoplasm of short bones of lower limb
+ltc_037,Malignant neoplasms,C40-C41,C40.8,C408,Malignant neoplasm of overlapping sites of bone and articular cartilage of limbs
+ltc_037,Malignant neoplasms,C40-C41,C40.9,C409,"Malignant neoplasm of bone and articular cartilage of limb, unspecified"
+ltc_037,Malignant neoplasms,C40-C41,C41.0,C410,Malignant neoplasm of bones of skull and face
+ltc_037,Malignant neoplasms,C40-C41,C41.1,C411,Malignant neoplasm of mandible
+ltc_037,Malignant neoplasms,C40-C41,C41.2,C412,Malignant neoplasm of vertebral column
+ltc_037,Malignant neoplasms,C40-C41,C41.3,C413,"Malignant neoplasm of ribs, sternum and clavicle"
+ltc_037,Malignant neoplasms,C40-C41,C41.4,C414,"Malignant neoplasm of pelvic bones, sacrum and coccyx"
+ltc_037,Malignant neoplasms,C40-C41,C41.8,C418,Malignant neoplasm of overlapping sites of bone and articular cartilage
+ltc_037,Malignant neoplasms,C40-C41,C41.9,C419,"Malignant neoplasm of bone and articular cartilage, unspecified"
+ltc_037,Malignant neoplasms,C43-C44,C43.0,C430,Malignant melanoma of lip
+ltc_037,Malignant neoplasms,C43-C44,C43.1,C431,"Malignant melanoma of eyelid, including canthus"
+ltc_037,Malignant neoplasms,C43-C44,C43.2,C432,Malignant melanoma of ear and external auricular canal
+ltc_037,Malignant neoplasms,C43-C44,C43.3,C433,Malignant melanoma of other and unspecified parts of face
+ltc_037,Malignant neoplasms,C43-C44,C43.4,C434,Malignant melanoma of scalp and neck
+ltc_037,Malignant neoplasms,C43-C44,C43.5,C435,Malignant melanoma of trunk
+ltc_037,Malignant neoplasms,C43-C44,C43.6,C436,"Malignant melanoma of upper limb, including shoulder"
+ltc_037,Malignant neoplasms,C43-C44,C43.7,C437,"Malignant melanoma of lower limb, including hip"
+ltc_037,Malignant neoplasms,C43-C44,C43.8,C438,Overlapping malignant melanoma of skin
+ltc_037,Malignant neoplasms,C43-C44,C43.9,C439,"Malignant melanoma of skin, unspecified"
+ltc_037,Malignant neoplasms,C43-C44,C44.0,C440,Other malignant neoplasm of skin of lip
+ltc_037,Malignant neoplasms,C43-C44,C44.1,C441,"Other malignant neoplasm of skin of eyelid, including canthus"
+ltc_037,Malignant neoplasms,C43-C44,C44.2,C442,Other malignant neoplasm of skin of ear and external auricular canal
+ltc_037,Malignant neoplasms,C43-C44,C44.3,C443,Other malignant neoplasm of skin of other and unspecified parts of face
+ltc_037,Malignant neoplasms,C43-C44,C44.4,C444,Other malignant neoplasm of skin of scalp and neck
+ltc_037,Malignant neoplasms,C43-C44,C44.5,C445,Other malignant neoplasm of skin of trunk
+ltc_037,Malignant neoplasms,C43-C44,C44.6,C446,"Other malignant neoplasm of skin of upper limb, including shoulder"
+ltc_037,Malignant neoplasms,C43-C44,C44.7,C447,"Other malignant neoplasm of skin of lower limb, including hip"
+ltc_037,Malignant neoplasms,C43-C44,C44.8,C448,Overlapping malignant neoplasm of skin
+ltc_037,Malignant neoplasms,C43-C44,C44.9,C449,"Malignant neoplasm of skin, unspecified"
+ltc_037,Malignant neoplasms,C45-C49,C45.0,C450,Mesothelioma of pleura
+ltc_037,Malignant neoplasms,C45-C49,C45.1,C451,Mesothelioma of peritoneum
+ltc_037,Malignant neoplasms,C45-C49,C45.2,C452,Mesothelioma of pericardium
+ltc_037,Malignant neoplasms,C45-C49,C45.7,C457,Mesothelioma of other sites
+ltc_037,Malignant neoplasms,C45-C49,C45.9,C459,"Mesothelioma, unspecified"
+ltc_037,Malignant neoplasms,C45-C49,C46.0,C460,Kaposi sarcoma of skin
+ltc_037,Malignant neoplasms,C45-C49,C46.1,C461,Kaposi sarcoma of soft tissue
+ltc_037,Malignant neoplasms,C45-C49,C46.2,C462,Kaposi sarcoma of palate
+ltc_037,Malignant neoplasms,C45-C49,C46.3,C463,Kaposi sarcoma of lymph nodes
+ltc_037,Malignant neoplasms,C45-C49,C46.7,C467,Kaposi sarcoma of other sites
+ltc_037,Malignant neoplasms,C45-C49,C46.8,C468,Kaposi sarcoma of multiple organs
+ltc_037,Malignant neoplasms,C45-C49,C46.9,C469,"Kaposi sarcoma, unspecified"
+ltc_037,Malignant neoplasms,C45-C49,C47.0,C470,"Malignant neoplasm of peripheral nerves and autonomic nervous system of head,..."
+ltc_037,Malignant neoplasms,C45-C49,C47.1,C471,Malignant neoplasm of peripheral nerves and autonomic nervous system of upper...
+ltc_037,Malignant neoplasms,C45-C49,C47.2,C472,Malignant neoplasm of peripheral nerves and autonomic nervous system of lower...
+ltc_037,Malignant neoplasms,C45-C49,C47.3,C473,Malignant neoplasm of peripheral nerves and autonomic nervous system of thorax
+ltc_037,Malignant neoplasms,C45-C49,C47.4,C474,Malignant neoplasm of peripheral nerves and autonomic nervous system of abdomen
+ltc_037,Malignant neoplasms,C45-C49,C47.5,C475,Malignant neoplasm of peripheral nerves and autonomic nervous system of pelvis
+ltc_037,Malignant neoplasms,C45-C49,C47.6,C476,Malignant neoplasm of peripheral nerves and autonomic nervous system of trunk...
+ltc_037,Malignant neoplasms,C45-C49,C47.8,C478,Malignant neoplasm of overlapping sites of peripheral nerves and autonomic ne...
+ltc_037,Malignant neoplasms,C45-C49,C47.9,C479,"Malignant neoplasm of peripheral nerves and autonomic nervous system, unspeci..."
+ltc_037,Malignant neoplasms,C45-C49,C48.0,C480,Malignant neoplasm of retroperitoneum
+ltc_037,Malignant neoplasms,C45-C49,C48.1,C481,Malignant neoplasm of specified parts of peritoneum
+ltc_037,Malignant neoplasms,C45-C49,C48.2,C482,"Malignant neoplasm of peritoneum, unspecified"
+ltc_037,Malignant neoplasms,C45-C49,C48.8,C488,Malignant neoplasm of overlapping sites of retroperitoneum and peritoneum
+ltc_037,Malignant neoplasms,C45-C49,C49.0,C490,"Malignant neoplasm of connective and soft tissue of head, face and neck"
+ltc_037,Malignant neoplasms,C45-C49,C49.1,C491,"Malignant neoplasm of connective and soft tissue of upper limb, including sho..."
+ltc_037,Malignant neoplasms,C45-C49,C49.2,C492,"Malignant neoplasm of connective and soft tissue of lower limb, including hip"
+ltc_037,Malignant neoplasms,C45-C49,C49.3,C493,Malignant neoplasm of connective and soft tissue of thorax
+ltc_037,Malignant neoplasms,C45-C49,C49.4,C494,Malignant neoplasm of connective and soft tissue of abdomen
+ltc_037,Malignant neoplasms,C45-C49,C49.5,C495,Malignant neoplasm of connective and soft tissue of pelvis
+ltc_037,Malignant neoplasms,C45-C49,C49.6,C496,"Malignant neoplasm of connective and soft tissue of trunk, unspecified"
+ltc_037,Malignant neoplasms,C45-C49,C49.8,C498,Malignant neoplasm of overlapping sites of connective and soft tissue
+ltc_037,Malignant neoplasms,C45-C49,C49.9,C499,"Malignant neoplasm of connective and soft tissue, unspecified"
+ltc_037,Malignant neoplasms,C50,C50.0,C500,Malignant neoplasm of nipple and areola
+ltc_037,Malignant neoplasms,C50,C50.1,C501,Malignant neoplasm of central portion of breast
+ltc_037,Malignant neoplasms,C50,C50.2,C502,Malignant neoplasm of upper-inner quadrant of breast
+ltc_037,Malignant neoplasms,C50,C50.3,C503,Malignant neoplasm of lower-inner quadrant of breast
+ltc_037,Malignant neoplasms,C50,C50.4,C504,Malignant neoplasm of upper-outer quadrant of breast
+ltc_037,Malignant neoplasms,C50,C50.5,C505,Malignant neoplasm of lower-outer quadrant of breast
+ltc_037,Malignant neoplasms,C50,C50.6,C506,Malignant neoplasm of axillary tail of breast
+ltc_037,Malignant neoplasms,C50,C50.8,C508,Malignant neoplasm of overlapping sites of breast
+ltc_037,Malignant neoplasms,C50,C50.9,C509,"Malignant neoplasm of breast, unspecified"
+ltc_037,Malignant neoplasms,C51-C58,C51.0,C510,Malignant neoplasm of labium majus
+ltc_037,Malignant neoplasms,C51-C58,C51.1,C511,Malignant neoplasm of labium minus
+ltc_037,Malignant neoplasms,C51-C58,C51.2,C512,Malignant neoplasm of clitoris
+ltc_037,Malignant neoplasms,C51-C58,C51.8,C518,Malignant neoplasm of overlapping sites of vulva
+ltc_037,Malignant neoplasms,C51-C58,C51.9,C519,"Malignant neoplasm of vulva, unspecified"
+ltc_037,Malignant neoplasms,C51-C58,C52.X,C52X,Malignant neoplasm of vagina
+ltc_037,Malignant neoplasms,C51-C58,C53.0,C530,Malignant neoplasm of endocervix
+ltc_037,Malignant neoplasms,C51-C58,C53.1,C531,Malignant neoplasm of exocervix
+ltc_037,Malignant neoplasms,C51-C58,C53.8,C538,Malignant neoplasm of overlapping sites of cervix uteri
+ltc_037,Malignant neoplasms,C51-C58,C53.9,C539,"Malignant neoplasm of cervix uteri, unspecified"
+ltc_037,Malignant neoplasms,C51-C58,C54.0,C540,Malignant neoplasm of isthmus uteri
+ltc_037,Malignant neoplasms,C51-C58,C54.1,C541,Malignant neoplasm of endometrium
+ltc_037,Malignant neoplasms,C51-C58,C54.2,C542,Malignant neoplasm of myometrium
+ltc_037,Malignant neoplasms,C51-C58,C54.3,C543,Malignant neoplasm of fundus uteri
+ltc_037,Malignant neoplasms,C51-C58,C54.8,C548,Malignant neoplasm of overlapping sites of corpus uteri
+ltc_037,Malignant neoplasms,C51-C58,C54.9,C549,"Malignant neoplasm of corpus uteri, unspecified"
+ltc_037,Malignant neoplasms,C51-C58,C55.X,C55X,"Malignant neoplasm of uterus, part unspecified"
+ltc_037,Malignant neoplasms,C51-C58,C56.X,C56X,Malignant neoplasm of ovary
+ltc_037,Malignant neoplasms,C51-C58,C57.0,C570,Malignant neoplasm of fallopian tube
+ltc_037,Malignant neoplasms,C51-C58,C57.1,C571,Malignant neoplasm of broad ligament
+ltc_037,Malignant neoplasms,C51-C58,C57.2,C572,Malignant neoplasm of round ligament
+ltc_037,Malignant neoplasms,C51-C58,C57.3,C573,Malignant neoplasm of parametrium
+ltc_037,Malignant neoplasms,C51-C58,C57.4,C574,Malignant neoplasm of uterine adnexa
+ltc_037,Malignant neoplasms,C51-C58,C57.7,C577,Malignant neoplasm of other specified female genital organs
+ltc_037,Malignant neoplasms,C51-C58,C57.8,C578,Malignant neoplasm of overlapping sites of female genital organs
+ltc_037,Malignant neoplasms,C51-C58,C57.9,C579,"Malignant neoplasm of female genital organ, unspecified"
+ltc_037,Malignant neoplasms,C51-C58,C58.X,C58X,Malignant neoplasm of placenta
+ltc_037,Malignant neoplasms,C60-C63,C60.0,C600,Malignant neoplasm of prepuce
+ltc_037,Malignant neoplasms,C60-C63,C60.1,C601,Malignant neoplasm of glans penis
+ltc_037,Malignant neoplasms,C60-C63,C60.2,C602,Malignant neoplasm of body of penis
+ltc_037,Malignant neoplasms,C60-C63,C60.8,C608,Malignant neoplasm of overlapping sites of penis
+ltc_037,Malignant neoplasms,C60-C63,C60.9,C609,"Malignant neoplasm of penis, unspecified"
+ltc_037,Malignant neoplasms,C60-C63,C61.X,C61X,Malignant neoplasm of prostate
+ltc_037,Malignant neoplasms,C60-C63,C62.0,C620,Malignant neoplasm of undescended testis
+ltc_037,Malignant neoplasms,C60-C63,C62.1,C621,Malignant neoplasm of descended testis
+ltc_037,Malignant neoplasms,C60-C63,C62.9,C629,"Malignant neoplasm of testis, unspecified"
+ltc_037,Malignant neoplasms,C60-C63,C63.0,C630,Malignant neoplasm of epididymis
+ltc_037,Malignant neoplasms,C60-C63,C63.1,C631,Malignant neoplasm of spermatic cord
+ltc_037,Malignant neoplasms,C60-C63,C63.2,C632,Malignant neoplasm of scrotum
+ltc_037,Malignant neoplasms,C60-C63,C63.7,C637,Malignant neoplasm of other specified male genital organs
+ltc_037,Malignant neoplasms,C60-C63,C63.8,C638,Malignant neoplasm of overlapping sites of male genital organs
+ltc_037,Malignant neoplasms,C60-C63,C63.9,C639,"Malignant neoplasm of male genital organ, unspecified"
+ltc_037,Malignant neoplasms,C64-C68,C64.X,C64X,"Malignant neoplasm of kidney, except renal pelvis"
+ltc_037,Malignant neoplasms,C64-C68,C65.X,C65X,Malignant neoplasm of renal pelvis
+ltc_037,Malignant neoplasms,C64-C68,C66.X,C66X,Malignant neoplasm of ureter
+ltc_037,Malignant neoplasms,C64-C68,C67.0,C670,Malignant neoplasm of trigone of bladder
+ltc_037,Malignant neoplasms,C64-C68,C67.1,C671,Malignant neoplasm of dome of bladder
+ltc_037,Malignant neoplasms,C64-C68,C67.2,C672,Malignant neoplasm of lateral wall of bladder
+ltc_037,Malignant neoplasms,C64-C68,C67.3,C673,Malignant neoplasm of anterior wall of bladder
+ltc_037,Malignant neoplasms,C64-C68,C67.4,C674,Malignant neoplasm of posterior wall of bladder
+ltc_037,Malignant neoplasms,C64-C68,C67.5,C675,Malignant neoplasm of bladder neck
+ltc_037,Malignant neoplasms,C64-C68,C67.6,C676,Malignant neoplasm of ureteric orifice
+ltc_037,Malignant neoplasms,C64-C68,C67.7,C677,Malignant neoplasm of urachus
+ltc_037,Malignant neoplasms,C64-C68,C67.8,C678,Malignant neoplasm of overlapping sites of bladder
+ltc_037,Malignant neoplasms,C64-C68,C67.9,C679,"Malignant neoplasm of bladder, unspecified"
+ltc_037,Malignant neoplasms,C64-C68,C68.0,C680,Malignant neoplasm of urethra
+ltc_037,Malignant neoplasms,C64-C68,C68.1,C681,Malignant neoplasm of paraurethral gland
+ltc_037,Malignant neoplasms,C64-C68,C68.8,C688,Malignant neoplasm of overlapping sites of urinary organs
+ltc_037,Malignant neoplasms,C64-C68,C68.9,C689,"Malignant neoplasm of urinary organ, unspecified"
+ltc_037,Malignant neoplasms,C69-C72,C69.0,C690,Malignant neoplasm of conjunctiva
+ltc_037,Malignant neoplasms,C69-C72,C69.1,C691,Malignant neoplasm of cornea
+ltc_037,Malignant neoplasms,C69-C72,C69.2,C692,Malignant neoplasm of retina
+ltc_037,Malignant neoplasms,C69-C72,C69.3,C693,Malignant neoplasm of choroid
+ltc_037,Malignant neoplasms,C69-C72,C69.4,C694,Malignant neoplasm of ciliary body
+ltc_037,Malignant neoplasms,C69-C72,C69.5,C695,Malignant neoplasm of lacrimal gland and duct
+ltc_037,Malignant neoplasms,C69-C72,C69.6,C696,Malignant neoplasm of orbit
+ltc_037,Malignant neoplasms,C69-C72,C69.8,C698,Malignant neoplasm of overlapping sites of eye and adnexa
+ltc_037,Malignant neoplasms,C69-C72,C69.9,C699,"Malignant neoplasm of eye, unspecified"
+ltc_037,Malignant neoplasms,C69-C72,C70.0,C700,Malignant neoplasm of cerebral meninges
+ltc_037,Malignant neoplasms,C69-C72,C70.1,C701,Malignant neoplasm of spinal meninges
+ltc_037,Malignant neoplasms,C69-C72,C70.9,C709,"Malignant neoplasm of meninges, unspecified"
+ltc_037,Malignant neoplasms,C69-C72,C71.0,C710,"Malignant neoplasm of cerebrum, except lobes and ventricles"
+ltc_037,Malignant neoplasms,C69-C72,C71.1,C711,Malignant neoplasm of frontal lobe
+ltc_037,Malignant neoplasms,C69-C72,C71.2,C712,Malignant neoplasm of temporal lobe
+ltc_037,Malignant neoplasms,C69-C72,C71.3,C713,Malignant neoplasm of parietal lobe
+ltc_037,Malignant neoplasms,C69-C72,C71.4,C714,Malignant neoplasm of occipital lobe
+ltc_037,Malignant neoplasms,C69-C72,C71.5,C715,Malignant neoplasm of cerebral ventricle
+ltc_037,Malignant neoplasms,C69-C72,C71.6,C716,Malignant neoplasm of cerebellum
+ltc_037,Malignant neoplasms,C69-C72,C71.7,C717,Malignant neoplasm of brain stem
+ltc_037,Malignant neoplasms,C69-C72,C71.8,C718,Malignant neoplasm of overlapping sites of brain
+ltc_037,Malignant neoplasms,C69-C72,C71.9,C719,"Malignant neoplasm of brain, unspecified"
+ltc_037,Malignant neoplasms,C69-C72,C72.0,C720,Malignant neoplasm of spinal cord
+ltc_037,Malignant neoplasms,C69-C72,C72.1,C721,Malignant neoplasm of cauda equina
+ltc_037,Malignant neoplasms,C69-C72,C72.2,C722,Malignant neoplasm of olfactory nerve
+ltc_037,Malignant neoplasms,C69-C72,C72.3,C723,Malignant neoplasm of optic nerve
+ltc_037,Malignant neoplasms,C69-C72,C72.4,C724,Malignant neoplasm of acoustic nerve
+ltc_037,Malignant neoplasms,C69-C72,C72.5,C725,Malignant neoplasm of other and unspecified cranial nerves
+ltc_037,Malignant neoplasms,C69-C72,C72.8,C728,Malignant neoplasm of overlapping sites of brain and central nervous system
+ltc_037,Malignant neoplasms,C69-C72,C72.9,C729,"Malignant neoplasm of central nervous system, unspecified"
+ltc_037,Malignant neoplasms,C73-C75,C73.X,C73X,Malignant neoplasm of thyroid gland
+ltc_037,Malignant neoplasms,C73-C75,C74.0,C740,Malignant neoplasm of cortex of adrenal gland
+ltc_037,Malignant neoplasms,C73-C75,C74.1,C741,Malignant neoplasm of medulla of adrenal gland
+ltc_037,Malignant neoplasms,C73-C75,C74.9,C749,"Malignant neoplasm of adrenal gland, unspecified"
+ltc_037,Malignant neoplasms,C73-C75,C75.0,C750,Malignant neoplasm of parathyroid gland
+ltc_037,Malignant neoplasms,C73-C75,C75.1,C751,Malignant neoplasm of pituitary gland
+ltc_037,Malignant neoplasms,C73-C75,C75.2,C752,Malignant neoplasm of craniopharyngeal duct
+ltc_037,Malignant neoplasms,C73-C75,C75.3,C753,Malignant neoplasm of pineal gland
+ltc_037,Malignant neoplasms,C73-C75,C75.4,C754,Malignant neoplasm of carotid body
+ltc_037,Malignant neoplasms,C73-C75,C75.5,C755,Malignant neoplasm of aortic body and other paraganglia
+ltc_037,Malignant neoplasms,C73-C75,C75.8,C758,Malignant neoplasm with pluriglandular involvement
+ltc_037,Malignant neoplasms,C73-C75,C75.9,C759,"Malignant neoplasm of endocrine gland, unspecified"
+ltc_037,Malignant neoplasms,C76-C80,C76.0,C760,"Malignant neoplasm of head, face and neck"
+ltc_037,Malignant neoplasms,C76-C80,C76.1,C761,Malignant neoplasm of thorax
+ltc_037,Malignant neoplasms,C76-C80,C76.2,C762,Malignant neoplasm of abdomen
+ltc_037,Malignant neoplasms,C76-C80,C76.3,C763,Malignant neoplasm of pelvis
+ltc_037,Malignant neoplasms,C76-C80,C76.4,C764,Malignant neoplasm of upper limb
+ltc_037,Malignant neoplasms,C76-C80,C76.5,C765,Malignant neoplasm of lower limb
+ltc_037,Malignant neoplasms,C76-C80,C76.7,C767,Malignant neoplasm of other ill-defined sites
+ltc_037,Malignant neoplasms,C76-C80,C76.8,C768,Malignant neoplasm of overlapping sites of other and ill-defined sites
+ltc_037,Malignant neoplasms,C76-C80,C77.0,C770,"Secondary and unspecified malignant neoplasm of lymph nodes of head, face and..."
+ltc_037,Malignant neoplasms,C76-C80,C77.1,C771,Secondary and unspecified malignant neoplasm of intrathoracic lymph nodes
+ltc_037,Malignant neoplasms,C76-C80,C77.2,C772,Secondary and unspecified malignant neoplasm of intra-abdominal lymph nodes
+ltc_037,Malignant neoplasms,C76-C80,C77.3,C773,Secondary and unspecified malignant neoplasm of axillary and upper limb lymph...
+ltc_037,Malignant neoplasms,C76-C80,C77.4,C774,Secondary and unspecified malignant neoplasm of inguinal and lower limb lymph...
+ltc_037,Malignant neoplasms,C76-C80,C77.5,C775,Secondary and unspecified malignant neoplasm of intrapelvic lymph nodes
+ltc_037,Malignant neoplasms,C76-C80,C77.8,C778,Secondary and unspecified malignant neoplasm of lymph nodes of multiple regions
+ltc_037,Malignant neoplasms,C76-C80,C77.9,C779,"Secondary and unspecified malignant neoplasm of lymph node, unspecified"
+ltc_037,Malignant neoplasms,C76-C80,C78.0,C780,Secondary malignant neoplasm of lung
+ltc_037,Malignant neoplasms,C76-C80,C78.1,C781,Secondary malignant neoplasm of mediastinum
+ltc_037,Malignant neoplasms,C76-C80,C78.2,C782,Secondary malignant neoplasm of pleura
+ltc_037,Malignant neoplasms,C76-C80,C78.3,C783,Secondary malignant neoplasm of other and unspecified respiratory organs
+ltc_037,Malignant neoplasms,C76-C80,C78.4,C784,Secondary malignant neoplasm of small intestine
+ltc_037,Malignant neoplasms,C76-C80,C78.5,C785,Secondary malignant neoplasm of large intestine and rectum
+ltc_037,Malignant neoplasms,C76-C80,C78.6,C786,Secondary malignant neoplasm of retroperitoneum and peritoneum
+ltc_037,Malignant neoplasms,C76-C80,C78.7,C787,Secondary malignant neoplasm of liver and intrahepatic bile duct
+ltc_037,Malignant neoplasms,C76-C80,C78.8,C788,Secondary malignant neoplasm of other and unspecified digestive organs
+ltc_037,Malignant neoplasms,C76-C80,C79.0,C790,Secondary malignant neoplasm of kidney and renal pelvis
+ltc_037,Malignant neoplasms,C76-C80,C79.1,C791,Secondary malignant neoplasm of bladder and other and unspecified urinary organs
+ltc_037,Malignant neoplasms,C76-C80,C79.2,C792,Secondary malignant neoplasm of skin
+ltc_037,Malignant neoplasms,C76-C80,C79.3,C793,Secondary malignant neoplasm of brain and cerebral meninges
+ltc_037,Malignant neoplasms,C76-C80,C79.4,C794,Secondary malignant neoplasm of other and unspecified parts of nervous system
+ltc_037,Malignant neoplasms,C76-C80,C79.5,C795,Secondary malignant neoplasm of bone and bone marrow
+ltc_037,Malignant neoplasms,C76-C80,C79.6,C796,Secondary malignant neoplasm of ovary
+ltc_037,Malignant neoplasms,C76-C80,C79.7,C797,Secondary malignant neoplasm of adrenal gland
+ltc_037,Malignant neoplasms,C76-C80,C79.8,C798,Secondary malignant neoplasm of other specified sites
+ltc_037,Malignant neoplasms,C76-C80,C79.9,C799,Secondary malignant neoplasm of unspecified site
+ltc_037,Malignant neoplasms,C76-C80,C80.X,C80X,Malignant neoplasm without specification of site
+ltc_037,Malignant neoplasms,C97,C97.X,C97X,Malignant neoplasms of independent (primary) multiple sites

@@ -1,0 +1,10 @@
+condition_id,condition_name,icd10_block,icd10_code,hes_code,description
+ltc_024,Endometriosis,N80,N80.0,N800,Endometriosis of uterus
+ltc_024,Endometriosis,N80,N80.1,N801,Endometriosis of ovary
+ltc_024,Endometriosis,N80,N80.2,N802,Endometriosis of fallopian tube
+ltc_024,Endometriosis,N80,N80.3,N803,Endometriosis of pelvic peritoneum
+ltc_024,Endometriosis,N80,N80.4,N804,Endometriosis of rectovaginal septum and vagina
+ltc_024,Endometriosis,N80,N80.5,N805,Endometriosis of intestine
+ltc_024,Endometriosis,N80,N80.6,N806,Endometriosis in cutaneous scar
+ltc_024,Endometriosis,N80,N80.8,N808,Other endometriosis
+ltc_024,Endometriosis,N80,N80.9,N809,"Endometriosis, unspecified"

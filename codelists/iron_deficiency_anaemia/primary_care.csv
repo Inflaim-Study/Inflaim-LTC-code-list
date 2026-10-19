@@ -1,0 +1,20 @@
+condition_id,condition_name,MedCodeId,SnomedCTConceptId,SnomedCTDescriptionId,OriginalReadCode,CleansedReadCode,Term
+ltc_034,Iron deficiency anaemia,507619019,87522002,507616014,D0-1,D0...11,Asiderotic anaemia
+ltc_034,Iron deficiency anaemia,507621012,87522002,507616014,D0-2,D0...12,Sideropenic anaemia
+ltc_034,Iron deficiency anaemia,745851000006117,87522002,507616014,D00,D00..00,Iron deficiency anaemia
+ltc_034,Iron deficiency anaemia,745811000006118,413533008,2532901013,D000,D000.00,Anaemia due to chronic blood loss
+ltc_034,Iron deficiency anaemia,351092018,234352004,351092018,D000-1,D000.11,Normocytic anaemia due to chronic blood loss
+ltc_034,Iron deficiency anaemia,745801000006116,413533008,2532901013,D000-2,D000.12,Iron deficiency anaemia due to blood loss
+ltc_034,Iron deficiency anaemia,293864013,191128004,293864013,D001,D001.00,Iron deficiency anaemia due to dietary causes
+ltc_034,Iron deficiency anaemia,399195014,87522002,507616014,D00y,D00y.00,Iron deficiency anemia
+ltc_034,Iron deficiency anaemia,281961000006111,80126007,132937017,D00y-1,D00y.11,Kelly - Paterson syndrome
+ltc_034,Iron deficiency anaemia,219431000006113,80126007,132937017,D00y-2,D00y.12,Plummer - Vinson syndrome
+ltc_034,Iron deficiency anaemia,132939019,80126007,132939019,D00y0,D00y000,Sideropenic dysphagia
+ltc_034,Iron deficiency anaemia,755101000006110,80126007,132937017,D00y0-1,D00y011,Kelly-Paterson syndrome
+ltc_034,Iron deficiency anaemia,132937017,80126007,132937017,D00y0-2,D00y012,Plummer-Vinson syndrome
+ltc_034,Iron deficiency anaemia,293877016,87522002,507616014,D00yz,D00yz00,Iron deficiency anemia
+ltc_034,Iron deficiency anaemia,293880015,87522002,507616014,D00z,D00z.00,Unspecified iron deficiency anaemia
+ltc_034,Iron deficiency anaemia,504528016,80875006,504528016,D00z0,D00z000,Achlorhydric anaemia
+ltc_034,Iron deficiency anaemia,293884012,87522002,507623010,D00z1,D00z100,Chlorotic anaemia
+ltc_034,Iron deficiency anaemia,293888010,87522002,507616014,D00zz,D00zz00,Iron deficiency anaemia NOS
+ltc_034,Iron deficiency anaemia,294567019,87522002,507616014,Dyu00,Dyu0000,[X]Other iron deficiency anaemias

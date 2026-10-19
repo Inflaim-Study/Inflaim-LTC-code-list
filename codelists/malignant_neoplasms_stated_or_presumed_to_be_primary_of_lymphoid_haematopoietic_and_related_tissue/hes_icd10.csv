@@ -1,0 +1,84 @@
+condition_id,condition_name,icd10_block,icd10_code,hes_code,description
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C84.1,C841,Sézary disease
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C88.0,C880,Waldenström macroglobulinaemia
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C81.0,C810,Nodular lymphocyte predominant Hodgkin lymphoma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C81.1,C811,Nodular sclerosis (classical) Hodgkin lymphoma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C81.2,C812,Mixed cellularity (classical) Hodgkin lymphoma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C81.3,C813,Lymphocyte depleted (classical) Hodgkin lymphoma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C81.4,C814,Lymphocyte-rich (classical) Hodgkin lymphoma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C81.7,C817,Other (classical) Hodgkin lymphoma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C81.9,C819,"Hodgkin lymphoma, unspecified"
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C82.0,C820,Follicular lymphoma grade I
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C82.1,C821,Follicular lymphoma grade II
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C82.2,C822,"Follicular lymphoma grade III, unspecified"
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C82.3,C823,Follicular lymphoma grade IIIa
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C82.4,C824,Follicular lymphoma grade IIIb
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C82.5,C825,Diffuse follicle centre lymphoma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C82.6,C826,Cutaneous follicle centre lymphoma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C82.7,C827,Other types of follicular lymphoma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C82.9,C829,"Follicular lymphoma, unspecified"
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C83.0,C830,Small cell B-cell lymphoma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C83.1,C831,Mantle cell lymphoma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C83.3,C833,Diffuse large B-cell lymphoma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C83.5,C835,Lymphoblastic (diffuse) lymphoma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C83.7,C837,Burkitt lymphoma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C83.8,C838,Other non-follicular lymphoma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C83.9,C839,"Non-follicular (diffuse) lymphoma, unspecified"
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C84.0,C840,Mycosis fungoides
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C84.4,C844,"Peripheral T-cell lymphoma, not elsewhere classified"
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C84.5,C845,Other mature T/NK-cell lymphomas
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C84.6,C846,"Anaplastic large cell lymphoma, ALK-positive"
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C84.7,C847,"Anaplastic large cell lymphoma, ALK-negative"
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C84.8,C848,"Cutaneous T-cell lymphoma, unspecified"
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C84.9,C849,"Mature T/NK-cell lymphoma, unspecified"
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C85.1,C851,"B-cell lymphoma, unspecified"
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C85.2,C852,Mediastinal (thymic) large B-cell lymphoma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C85.7,C857,Other specified types of non-Hodgkin lymphoma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C85.9,C859,"Non-Hodgkin lymphoma, unspecified"
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C86.0,C860,"Extranodal NK/T-cell lymphoma, nasal type"
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C86.1,C861,Hepatosplenic T-cell lymphoma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C86.2,C862,Enteropathy-type (intestinal) T-cell lymphoma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C86.3,C863,Subcutaneous panniculitis-like T-cell lymphoma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C86.4,C864,Blastic NK-cell lymphoma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C86.5,C865,Angioimmunoblastic T-cell lymphoma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C86.6,C866,Primary cutaneous CD30-positive T-cell proliferations
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C88.1,C881,Alpha heavy chain disease
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C88.2,C882,Other heavy chain disease
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C88.3,C883,Immunoproliferative small intestinal disease
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C88.4,C884,Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue [MALT-lymphoma]
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C88.7,C887,Other malignant immunoproliferative diseases
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C88.9,C889,"Malignant immunoproliferative disease, unspecified"
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C90.0,C900,Multiple myeloma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C90.1,C901,Plasma cell leukaemia
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C90.2,C902,Extramedullary plasmacytoma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C90.3,C903,Solitary plasmacytoma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C91.1,C911,Chronic lymphocytic leukaemia of B-cell type
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C91.3,C913,Prolymphocytic leukaemia of B-cell type
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C91.4,C914,Hairy-cell leukaemia
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C91.5,C915,Adult T-cell lymphoma/leukaemia [HTLV-1-associated]
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C91.6,C916,Prolymphocytic leukaemia of T-cell type
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C91.7,C917,Other lymphoid leukaemia
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C91.8,C918,Mature B-cell leukaemia Burkitt-type
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C91.9,C919,"Lymphoid leukaemia, unspecified"
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C92.1,C921,"Chronic myeloid leukaemia [CML], BCR/ABL-positive"
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C92.2,C922,"Atypical chronic myeloid leukaemia, BCR/ABL-negative"
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C92.3,C923,Myeloid sarcoma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C92.7,C927,Other myeloid leukaemia
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C92.9,C929,"Myeloid leukaemia, unspecified"
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C93.1,C931,Chronic myelomonocytic leukaemia
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C93.7,C937,Other monocytic leukaemia
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C93.9,C939,"Monocytic leukaemia, unspecified"
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C94.3,C943,Mast cell leukaemia
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C94.6,C946,"Myelodysplastic and myeloproliferative disease, not elsewhere classified"
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C94.7,C947,Other specified leukaemias
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C95.1,C951,Chronic leukaemia of unspecified cell type
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C95.7,C957,Other leukaemia of unspecified cell type
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C95.9,C959,"Leukaemia, unspecified"
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C96.0,C960,Multifocal and multisystemic (disseminated) Langerhans-cell histiocytosis [Letterer-Siwe disease]
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C96.2,C962,Malignant mast cell tumour
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C96.4,C964,Sarcoma of dendritic cells (accessory cells)
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C96.5,C965,Multifocal and unisystemic Langerhans-cell histiocytosis
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C96.6,C966,Unifocal Langerhans-cell histiocytosis
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C96.7,C967,"Other specified malignant neoplasms of lymphoid, haematopoietic and related tissue"
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C96.8,C968,Histiocytic sarcoma
+ltc_038,"Malignant neoplasms, stated or presumed to be primary, of lymphoid, haematopoietic and related tissue",C81-C96,C96.9,C969,"Malignant neoplasm of lymphoid, haematopoietic and related tissue, unspecified"

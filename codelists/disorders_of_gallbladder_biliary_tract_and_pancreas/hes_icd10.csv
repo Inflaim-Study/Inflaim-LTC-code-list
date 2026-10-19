@@ -1,0 +1,33 @@
+condition_id,condition_name,icd10_block,icd10_code,hes_code,description
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K80.1,K801,Calculus of gallbladder with other cholecystitis
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K80.2,K802,Calculus of gallbladder without cholecystitis
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K80.3,K803,Calculus of bile duct with cholangitis
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K80.4,K804,Calculus of bile duct with cholecystitis
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K80.5,K805,Calculus of bile duct without cholangitis or cholecystitis
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K81.8,K818,Other cholecystitis
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K81.9,K819,"Cholecystitis, unspecified"
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K82.0,K820,Obstruction of gallbladder
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K82.1,K821,Hydrops of gallbladder
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K82.2,K822,Perforation of gallbladder
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K82.3,K823,Fistula of gallbladder
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K82.4,K824,Cholesterolosis of gallbladder
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K87.0,K870,Disorders of gallbladder and biliary tract in diseases classified elsewhere
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K87.1,K871,Disorders of pancreas in diseases classified elsewhere
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K80.8,K808,Other cholelithiasis
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K81.1,K811,Chronic cholecystitis
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K82.8,K828,Other specified diseases of gallbladder
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K82.9,K829,"Disease of gallbladder, unspecified"
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K83.0,K830,Cholangitis
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K83.1,K831,Obstruction of bile duct
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K83.2,K832,Perforation of bile duct
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K83.3,K833,Fistula of bile duct
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K83.4,K834,Spasm of sphincter of Oddi
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K83.5,K835,Biliary cyst
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K83.8,K838,Other specified diseases of biliary tract
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K83.9,K839,"Disease of biliary tract, unspecified"
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K86.0,K860,Alcohol-induced chronic pancreatitis
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K86.1,K861,Other chronic pancreatitis
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K86.2,K862,Cyst of pancreas
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K86.3,K863,Pseudocyst of pancreas
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K86.8,K868,Other specified diseases of pancreas
+ltc_018,"Disorders of gallbladder, biliary tract and pancreas",K80-K87,K86.9,K869,"Disease of pancreas, unspecified"

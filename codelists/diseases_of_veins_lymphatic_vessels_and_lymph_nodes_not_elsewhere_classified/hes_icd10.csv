@@ -1,0 +1,39 @@
+condition_id,condition_name,icd10_block,icd10_code,hes_code,description
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I80.0,I800,Phlebitis and thrombophlebitis of superficial vessels of lower extremities
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I80.1,I801,Phlebitis and thrombophlebitis of femoral vein
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I80.2,I802,Phlebitis and thrombophlebitis of other deep vessels of lower extremities
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I80.3,I803,"Phlebitis and thrombophlebitis of lower extremities, unspecified"
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I80.8,I808,Phlebitis and thrombophlebitis of other sites
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I80.9,I809,Phlebitis and thrombophlebitis of unspecified site
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I81.X,I81X,Portal vein thrombosis
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I82.0,I820,Budd-Chiari syndrome
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I82.1,I821,Thrombophlebitis migrans
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I82.2,I822,Embolism and thrombosis of vena cava
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I82.3,I823,Embolism and thrombosis of renal vein
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I82.8,I828,Embolism and thrombosis of other specified veins
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I82.9,I829,Embolism and thrombosis of unspecified vein
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I88.8,I888,Other nonspecific lymphadenitis
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I88.9,I889,"Nonspecific lymphadenitis, unspecified"
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I89.0,I890,"Lymphoedema, not elsewhere classified"
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I89.1,I891,Lymphangitis
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I83.0,I830,Varicose veins of lower extremities with ulcer
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I83.1,I831,Varicose veins of lower extremities with inflammation
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I83.2,I832,Varicose veins of lower extremities with both ulcer and inflammation
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I83.9,I839,Varicose veins of lower extremities without ulcer or inflammation
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I85.0,I850,Oesophageal varices with bleeding
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I85.9,I859,Oesophageal varices without bleeding
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I86.0,I860,Sublingual varices
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I86.1,I861,Scrotal varices
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I86.2,I862,Pelvic varices
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I86.3,I863,Vulval varices
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I86.4,I864,Gastric varices
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I86.8,I868,Varicose veins of other specified sites
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I87.0,I870,Postthrombotic syndrome
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I87.1,I871,Compression of vein
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I87.2,I872,Venous insufficiency (chronic)(peripheral)
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I87.8,I878,Other specified disorders of veins
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I87.9,I879,"Disorder of vein, unspecified"
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I88.0,I880,Nonspecific mesenteric lymphadenitis
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I88.1,I881,"Chronic lymphadenitis, except mesenteric"
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I89.8,I898,Other specified noninfective disorders of lymphatic vessels and lymph nodes
+ltc_016,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified",I80-I89,I89.9,I899,"Noninfective disorder of lymphatic vessels and lymph nodes, unspecified"

@@ -1,0 +1,39 @@
+condition_id,condition_name,icd10_block,icd10_code,hes_code,description
+ltc_017,Disorders of bone density and structure,M80-M85,M80.0,M800,Postmenopausal osteoporosis with pathological fracture
+ltc_017,Disorders of bone density and structure,M80-M85,M80.1,M801,Postoophorectomy osteoporosis with pathological fracture
+ltc_017,Disorders of bone density and structure,M80-M85,M80.2,M802,Osteoporosis of disuse with pathological fracture
+ltc_017,Disorders of bone density and structure,M80-M85,M80.3,M803,Postsurgical malabsorption osteoporosis with pathological fracture
+ltc_017,Disorders of bone density and structure,M80-M85,M80.4,M804,Drug-induced osteoporosis with pathological fracture
+ltc_017,Disorders of bone density and structure,M80-M85,M80.5,M805,Idiopathic osteoporosis with pathological fracture
+ltc_017,Disorders of bone density and structure,M80-M85,M80.8,M808,Other osteoporosis with pathological fracture
+ltc_017,Disorders of bone density and structure,M80-M85,M80.9,M809,Unspecified osteoporosis with pathological fracture
+ltc_017,Disorders of bone density and structure,M80-M85,M81.0,M810,Postmenopausal osteoporosis
+ltc_017,Disorders of bone density and structure,M80-M85,M81.1,M811,Postoophorectomy osteoporosis
+ltc_017,Disorders of bone density and structure,M80-M85,M81.2,M812,Osteoporosis of disuse
+ltc_017,Disorders of bone density and structure,M80-M85,M81.3,M813,Postsurgical malabsorption osteoporosis
+ltc_017,Disorders of bone density and structure,M80-M85,M81.4,M814,Drug-induced osteoporosis
+ltc_017,Disorders of bone density and structure,M80-M85,M81.5,M815,Idiopathic osteoporosis
+ltc_017,Disorders of bone density and structure,M80-M85,M81.6,M816,Localized osteoporosis [Lequesne]
+ltc_017,Disorders of bone density and structure,M80-M85,M81.8,M818,Other osteoporosis
+ltc_017,Disorders of bone density and structure,M80-M85,M81.9,M819,"Osteoporosis, unspecified"
+ltc_017,Disorders of bone density and structure,M80-M85,M82.0,M820,Osteoporosis in multiple myelomatosis
+ltc_017,Disorders of bone density and structure,M80-M85,M82.1,M821,Osteoporosis in endocrine disorders
+ltc_017,Disorders of bone density and structure,M80-M85,M82.8,M828,Osteoporosis in other diseases classified elsewhere
+ltc_017,Disorders of bone density and structure,M80-M85,M83.1,M831,Senile osteomalacia
+ltc_017,Disorders of bone density and structure,M80-M85,M83.2,M832,Adult osteomalacia due to malabsorption
+ltc_017,Disorders of bone density and structure,M80-M85,M83.3,M833,Adult osteomalacia due to malnutrition
+ltc_017,Disorders of bone density and structure,M80-M85,M83.4,M834,Aluminium bone disease
+ltc_017,Disorders of bone density and structure,M80-M85,M83.5,M835,Other drug-induced osteomalacia in adults
+ltc_017,Disorders of bone density and structure,M80-M85,M83.8,M838,Other adult osteomalacia
+ltc_017,Disorders of bone density and structure,M80-M85,M83.9,M839,"Adult osteomalacia, unspecified"
+ltc_017,Disorders of bone density and structure,M80-M85,M84.8,M848,Other disorders of continuity of bone
+ltc_017,Disorders of bone density and structure,M80-M85,M84.9,M849,"Disorder of continuity of bone, unspecified"
+ltc_017,Disorders of bone density and structure,M80-M85,M85.0,M850,"Fibrous dysplasia, monostotic"
+ltc_017,Disorders of bone density and structure,M80-M85,M85.1,M851,Skeletal fluorosis
+ltc_017,Disorders of bone density and structure,M80-M85,M85.2,M852,Hyperostosis of skull
+ltc_017,Disorders of bone density and structure,M80-M85,M85.3,M853,Osteitis condensans
+ltc_017,Disorders of bone density and structure,M80-M85,M85.4,M854,Solitary bone cyst
+ltc_017,Disorders of bone density and structure,M80-M85,M85.5,M855,Aneurysmal bone cyst
+ltc_017,Disorders of bone density and structure,M80-M85,M85.6,M856,Other cyst of bone
+ltc_017,Disorders of bone density and structure,M80-M85,M85.8,M858,Other specified disorders of bone density and structure
+ltc_017,Disorders of bone density and structure,M80-M85,M85.9,M859,"Disorder of bone density and structure, unspecified"

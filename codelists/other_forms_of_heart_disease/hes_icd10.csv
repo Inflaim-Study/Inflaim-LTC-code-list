@@ -1,0 +1,72 @@
+condition_id,condition_name,icd10_block,icd10_code,hes_code,description
+ltc_046,Other forms of heart disease,I30-I52,I39.0,I390,Mitral valve disorders in diseases classified elsewhere
+ltc_046,Other forms of heart disease,I30-I52,I39.1,I391,Aortic valve disorders in diseases classified elsewhere
+ltc_046,Other forms of heart disease,I30-I52,I39.2,I392,Tricuspid valve disorders in diseases classified elsewhere
+ltc_046,Other forms of heart disease,I30-I52,I39.3,I393,Pulmonary valve disorders in diseases classified elsewhere
+ltc_046,Other forms of heart disease,I30-I52,I39.4,I394,Multiple valve disorders in diseases classified elsewhere
+ltc_046,Other forms of heart disease,I30-I52,I39.8,I398,"Endocarditis, valve unspecified, in diseases classified elsewhere"
+ltc_046,Other forms of heart disease,I30-I52,I44.0,I440,"Atrioventricular block, first degree"
+ltc_046,Other forms of heart disease,I30-I52,I44.1,I441,"Atrioventricular block, second degree"
+ltc_046,Other forms of heart disease,I30-I52,I44.2,I442,"Atrioventricular block, complete"
+ltc_046,Other forms of heart disease,I30-I52,I44.3,I443,Other and unspecified atrioventricular block
+ltc_046,Other forms of heart disease,I30-I52,I44.4,I444,Left anterior fascicular block
+ltc_046,Other forms of heart disease,I30-I52,I44.5,I445,Left posterior fascicular block
+ltc_046,Other forms of heart disease,I30-I52,I44.6,I446,Other and unspecified fascicular block
+ltc_046,Other forms of heart disease,I30-I52,I44.7,I447,"Left bundle-branch block, unspecified"
+ltc_046,Other forms of heart disease,I30-I52,I45.0,I450,Right fascicular block
+ltc_046,Other forms of heart disease,I30-I52,I45.1,I451,Other and unspecified right bundle-branch block
+ltc_046,Other forms of heart disease,I30-I52,I45.2,I452,Bifascicular block
+ltc_046,Other forms of heart disease,I30-I52,I45.3,I453,Trifascicular block
+ltc_046,Other forms of heart disease,I30-I52,I45.4,I454,Nonspecific intraventricular block
+ltc_046,Other forms of heart disease,I30-I52,I45.5,I455,Other specified heart block
+ltc_046,Other forms of heart disease,I30-I52,I45.6,I456,Pre-excitation syndrome
+ltc_046,Other forms of heart disease,I30-I52,I45.8,I458,Other specified conduction disorders
+ltc_046,Other forms of heart disease,I30-I52,I51.1,I511,"Rupture of chordae tendineae, not elsewhere classified"
+ltc_046,Other forms of heart disease,I30-I52,I51.2,I512,"Rupture of papillary muscle, not elsewhere classified"
+ltc_046,Other forms of heart disease,I30-I52,I52.0,I520,Other heart disorders in bacterial diseases classified elsewhere
+ltc_046,Other forms of heart disease,I30-I52,I52.1,I521,Other heart disorders in other infectious and parasitic diseases classified elsewhere
+ltc_046,Other forms of heart disease,I30-I52,I52.8,I528,Other heart disorders in other diseases classified elsewhere
+ltc_046,Other forms of heart disease,I30-I52,I34.0,I340,Mitral (valve) insufficiency
+ltc_046,Other forms of heart disease,I30-I52,I34.1,I341,Mitral (valve) prolapse
+ltc_046,Other forms of heart disease,I30-I52,I34.2,I342,Nonrheumatic mitral (valve) stenosis
+ltc_046,Other forms of heart disease,I30-I52,I34.8,I348,Other nonrheumatic mitral valve disorders
+ltc_046,Other forms of heart disease,I30-I52,I34.9,I349,"Nonrheumatic mitral valve disorder, unspecified"
+ltc_046,Other forms of heart disease,I30-I52,I35.0,I350,Aortic (valve) stenosis
+ltc_046,Other forms of heart disease,I30-I52,I35.1,I351,Aortic (valve) insufficiency
+ltc_046,Other forms of heart disease,I30-I52,I35.2,I352,Aortic (valve) stenosis with insufficiency
+ltc_046,Other forms of heart disease,I30-I52,I35.8,I358,Other aortic valve disorders
+ltc_046,Other forms of heart disease,I30-I52,I35.9,I359,"Aortic valve disorder, unspecified"
+ltc_046,Other forms of heart disease,I30-I52,I36.0,I360,Nonrheumatic tricuspid (valve) stenosis
+ltc_046,Other forms of heart disease,I30-I52,I36.1,I361,Nonrheumatic tricuspid (valve) insufficiency
+ltc_046,Other forms of heart disease,I30-I52,I36.2,I362,Nonrheumatic tricuspid (valve) stenosis with insufficiency
+ltc_046,Other forms of heart disease,I30-I52,I36.8,I368,Other nonrheumatic tricuspid valve disorders
+ltc_046,Other forms of heart disease,I30-I52,I36.9,I369,"Nonrheumatic tricuspid valve disorder, unspecified"
+ltc_046,Other forms of heart disease,I30-I52,I37.0,I370,Pulmonary valve stenosis
+ltc_046,Other forms of heart disease,I30-I52,I37.1,I371,Pulmonary valve insufficiency
+ltc_046,Other forms of heart disease,I30-I52,I37.2,I372,Pulmonary valve stenosis with insufficiency
+ltc_046,Other forms of heart disease,I30-I52,I37.8,I378,Other pulmonary valve disorders
+ltc_046,Other forms of heart disease,I30-I52,I37.9,I379,"Pulmonary valve disorder, unspecified"
+ltc_046,Other forms of heart disease,I30-I52,I38.X,I38X,"Endocarditis, valve unspecified"
+ltc_046,Other forms of heart disease,I30-I52,I42.0,I420,Dilated cardiomyopathy
+ltc_046,Other forms of heart disease,I30-I52,I42.1,I421,Obstructive hypertrophic cardiomyopathy
+ltc_046,Other forms of heart disease,I30-I52,I42.2,I422,Other hypertrophic cardiomyopathy
+ltc_046,Other forms of heart disease,I30-I52,I42.3,I423,Endomyocardial (eosinophilic) disease
+ltc_046,Other forms of heart disease,I30-I52,I42.4,I424,Endocardial fibroelastosis
+ltc_046,Other forms of heart disease,I30-I52,I42.5,I425,Other restrictive cardiomyopathy
+ltc_046,Other forms of heart disease,I30-I52,I42.6,I426,Alcoholic cardiomyopathy
+ltc_046,Other forms of heart disease,I30-I52,I42.7,I427,Cardiomyopathy due to drugs and other external agents
+ltc_046,Other forms of heart disease,I30-I52,I42.8,I428,Other cardiomyopathies
+ltc_046,Other forms of heart disease,I30-I52,I42.9,I429,"Cardiomyopathy, unspecified"
+ltc_046,Other forms of heart disease,I30-I52,I45.9,I459,"Conduction disorder, unspecified"
+ltc_046,Other forms of heart disease,I30-I52,I47.1,I471,Supraventricular tachycardia
+ltc_046,Other forms of heart disease,I30-I52,I50.0,I500,Congestive heart failure
+ltc_046,Other forms of heart disease,I30-I52,I50.1,I501,Left ventricular failure
+ltc_046,Other forms of heart disease,I30-I52,I50.9,I509,"Heart failure, unspecified"
+ltc_046,Other forms of heart disease,I30-I52,I51.0,I510,"Cardiac septal defect, acquired"
+ltc_046,Other forms of heart disease,I30-I52,I51.3,I513,"Intracardiac thrombosis, not elsewhere classified"
+ltc_046,Other forms of heart disease,I30-I52,I51.4,I514,"Myocarditis, unspecified"
+ltc_046,Other forms of heart disease,I30-I52,I51.5,I515,Myocardial degeneration
+ltc_046,Other forms of heart disease,I30-I52,I51.6,I516,"Cardiovascular disease, unspecified"
+ltc_046,Other forms of heart disease,I30-I52,I51.7,I517,Cardiomegaly
+ltc_046,Other forms of heart disease,I30-I52,I51.8,I518,Other ill-defined heart diseases
+ltc_046,Other forms of heart disease,I30-I52,I51.9,I519,"Heart disease, unspecified"

@@ -1,0 +1,80 @@
+condition_id,condition_name,MedCodeId,SnomedCTConceptId,SnomedCTDescriptionId,OriginalReadCode,CleansedReadCode,Term
+ltc_060,Visual disturbances and blindness,2549896013,417677008,2549896013,2BBo,2BBo.00,O/E - sight threatening diabetic retinopathy
+ltc_060,Visual disturbances and blindness,855291000006110,855291000006106,855291000006110,EGTONBL2,,Blind (subjectively)
+ltc_060,Visual disturbances and blindness,1963661000006119,1963661000006103,1963661000006119,EMISNQDI223,,Disability code - Sight
+ltc_060,Visual disturbances and blindness,7973691000006117,2531000000100,17781000000113,^ESCTEN797369,,England and Wales partially sighted certification
+ltc_060,Visual disturbances and blindness,856171000006114,856171000006105,856171000006114,EGTONPA4,,Partially sighted (subjectively)
+ltc_060,Visual disturbances and blindness,982291000006118,982291000006102,982291000006118,EMISCSI4,,Sight impairment
+ltc_060,Visual disturbances and blindness,857631000006118,857631000006102,857631000006118,EGTONVI8,,Vision - blind despite any aid
+ltc_060,Visual disturbances and blindness,2627081000006116,7973008,2164155010,^ESCTSI262708,,Sight impaired
+ltc_060,Visual disturbances and blindness,734661000006116,240311000000103,390341000000115,1B75,1B75.00,Loss of vision
+ltc_060,Visual disturbances and blindness,255275013,163946009,255275013,2B6A-1,2B6A.11,O/E - blind R-eye
+ltc_060,Visual disturbances and blindness,255276014,163946009,255276014,2B6B,2B6B.00,O/E - R-eye completely blind
+ltc_060,Visual disturbances and blindness,2163962013,408322003,2163962013,2B6S,2B6S.00,O/E - pinhole R-eye completely blind
+ltc_060,Visual disturbances and blindness,255292016,163960006,255292016,2B7A-1,2B7A.11,O/E - blind L-eye
+ltc_060,Visual disturbances and blindness,255293014,163960006,255293014,2B7B,2B7B.00,O/E - L-eye completely blind
+ltc_060,Visual disturbances and blindness,2163958019,408318008,2163958019,2B7S,2B7S.00,O/E - pinhole L-eye completely blind
+ltc_060,Visual disturbances and blindness,733161000000116,373041000000101,733161000000116,2BBr,2BBr.00,Impaired vision due to diabetic retinopathy
+ltc_060,Visual disturbances and blindness,442202014,300994001,442202014,6688,6688.00,Registered partially sighted
+ltc_060,Visual disturbances and blindness,17791000000110,2531000000100,17791000000110,6688-1,6688.11,Registered partially blind
+ltc_060,Visual disturbances and blindness,264661019,170727003,264661019,6689,6689.00,Registered blind
+ltc_060,Visual disturbances and blindness,1563201000000117,713031000000100,1563201000000117,668D,668D.00,Registered sight impaired
+ltc_060,Visual disturbances and blindness,515731000006113,183361009,283416014,8F6-1,8F6..11,Blind rehabilitation
+ltc_060,Visual disturbances and blindness,283416014,183361009,283416014,8F61,8F61.00,Blind rehabilitation
+ltc_060,Visual disturbances and blindness,515711000006119,29960003,484447014,8F62,8F62.00,Blind lead dog rehabilitation
+ltc_060,Visual disturbances and blindness,746431000000113,378931000000102,746431000000113,9NlD,9NlD.00,Seen by visual impairment teacher
+ltc_060,Visual disturbances and blindness,493267010,4229009,493267010,F4041,F404100,Blind hypotensive eye
+ltc_060,Visual disturbances and blindness,515791000006112,397540003,3011990016,F49,F49..00,Blindness and low vision
+ltc_060,Visual disturbances and blindness,14191011,397540003,3011990016,F49-1,F49..11,Impaired vision
+ltc_060,Visual disturbances and blindness,2164158012,7973008,2164158012,F49-3,F49..13,Partial sight
+ltc_060,Visual disturbances and blindness,2164155010,397540003,3011990016,F49-4,F49..14,Sight impaired
+ltc_060,Visual disturbances and blindness,515811000006111,193699007,298251016,F490,F490.00,Blindness - both eyes
+ltc_060,Visual disturbances and blindness,298252011,193699007,298251016,F4900,F490000,Unspecified blindness both eyes
+ltc_060,Visual disturbances and blindness,2619503012,193699007,2619503012,F4901,F490100,Both eyes total visual impairment
+ltc_060,Visual disturbances and blindness,510281000006111,193699007,298251016,F4902,F490200,"Better eye: near total VI, Lesser eye: unspecified"
+ltc_060,Visual disturbances and blindness,510261000006118,193704004,298256014,F4904,F490400,"Better eye: near total visual impairment, Lesser eye: near total visual impairment"
+ltc_060,Visual disturbances and blindness,510311000006113,13734003,23430013,F4906,F490600,Impairment level: better eye: profound impairment: lesser eye: total impairment
+ltc_060,Visual disturbances and blindness,456798010,193709009,3670145014,F4909,F490900,"Acquired blindness, both eyes"
+ltc_060,Visual disturbances and blindness,298262016,193699007,298251016,F490z,F490z00,Blindness both eyes NOS
+ltc_060,Visual disturbances and blindness,510181000006115,193711000,298263014,F491,F491.00,"Better eye: low vision, Lesser eye: profound visual impairment"
+ltc_060,Visual disturbances and blindness,298264015,193712007,298264015,F4910,F491000,"One eye blind, one eye low vision"
+ltc_060,Visual disturbances and blindness,510191000006117,193711000,298263014,F4915,F491500,"Better eye: moderate VI, Lesser eye: blind, unspecified"
+ltc_060,Visual disturbances and blindness,510221000006112,193719003,298274017,F4917,F491700,"Better eye: moderate visual impairment, Lesser eye: near total visual impairment"
+ltc_060,Visual disturbances and blindness,298276015,193711000,298263014,F491z,F491z00,"One eye blind, one eye low vision NOS"
+ltc_060,Visual disturbances and blindness,298277012,193722001,298277012,F492,F492.00,"Low vision, both eyes"
+ltc_060,Visual disturbances and blindness,298278019,193722001,298277012,F4920,F492000,"Low vision, both eyes unspecified"
+ltc_060,Visual disturbances and blindness,510201000006119,193722001,298277012,F4923,F492300,"Better eye: moderate VI, Lesser eye: low vision unspecified"
+ltc_060,Visual disturbances and blindness,510211000006116,193728002,298283010,F4925,F492500,"Better eye: moderate visual impairment, Lesser eye: moderate visual impairment"
+ltc_060,Visual disturbances and blindness,298284016,193722001,298277012,F492z,F492z00,"Low vision, both eyes NOS"
+ltc_060,Visual disturbances and blindness,298285015,267727004,399719011,F493,F493.00,Blind or low vision - both eyes
+ltc_060,Visual disturbances and blindness,298286019,193731001,298286019,F494,F494.00,Legal blindness USA
+ltc_060,Visual disturbances and blindness,298287011,193732008,298287011,F495,F495.00,"Profound impairment, one eye"
+ltc_060,Visual disturbances and blindness,298288018,22950006,38553019,F4950,F495000,Blindness of one eye
+ltc_060,Visual disturbances and blindness,298289014,193732008,298287011,F4951,F495100,"Lesser eye: total visual impairment, Better eye: unspecified"
+ltc_060,Visual disturbances and blindness,747421000006119,193735005,298290017,F4952,F495200,"Lesser eye: total visual impairment, Better eye: near normal vision"
+ltc_060,Visual disturbances and blindness,747431000006116,193736006,298291018,F4953,F495300,"Lesser eye: total visual impairment, Better eye: normal vision"
+ltc_060,Visual disturbances and blindness,747351000006116,193732008,298287011,F4954,F495400,"Lesser eye: near total VI, Better eye: unspecified"
+ltc_060,Visual disturbances and blindness,747341000006118,193738007,298293015,F4955,F495500,"Lesser eye: near total visual impairment, Better eye: near normal vision"
+ltc_060,Visual disturbances and blindness,734951000006114,111519001,2618966018,F4956,F495600,"Lesser eye: near total visual impairment, Better eye: normal vision"
+ltc_060,Visual disturbances and blindness,747361000006119,193741003,298296011,F4958,F495800,"Lesser eye: profound visual impairment, Better eye: near normal vision"
+ltc_060,Visual disturbances and blindness,456799019,22950006,38553019,F495A,F495A00,"Acquired blindness, one eye"
+ltc_060,Visual disturbances and blindness,298299016,193732008,298287011,F495z,F495z00,Profound impairment one eye NOS
+ltc_060,Visual disturbances and blindness,298300012,193745007,298300012,F496,F496.00,"Low vision, one eye"
+ltc_060,Visual disturbances and blindness,298301011,193745007,298300012,F4960,F496000,"Low vision, one eye, unspecified"
+ltc_060,Visual disturbances and blindness,747331000006111,193745007,298300012,F4964,F496400,"Lesser eye: moderate VI, Better eye: unspecified"
+ltc_060,Visual disturbances and blindness,747311000006117,193751002,298306018,F4965,F496500,"Lesser eye: moderate visual impairment, Better eye: near normal vision"
+ltc_060,Visual disturbances and blindness,747321000006113,16169003,27365013,F4966,F496600,Impairment level: one eye: moderate impairment: other eye: normal vision
+ltc_060,Visual disturbances and blindness,298308017,193745007,298300012,F496z,F496z00,"Low vision, one eye NOS"
+ltc_060,Visual disturbances and blindness,2168201000000117,813891000000107,2168201000000117,F498,F498.00,"Moderate visual impairment, binocular"
+ltc_060,Visual disturbances and blindness,1816031000006118,815051000000106,2124351000000112,F499,F499.00,Mild binocular visual impairment
+ltc_060,Visual disturbances and blindness,1816041000006111,22950006,38553019,F49A,F49A.00,"Blindness, monocular"
+ltc_060,Visual disturbances and blindness,2168211000000115,813901000000108,2168211000000115,F49C,F49C.00,"Moderate visual impairment, monocular"
+ltc_060,Visual disturbances and blindness,298309013,267728009,399720017,F49y,F49y.00,Blind or low vision - one eye only
+ltc_060,Visual disturbances and blindness,399455016,240311000000103,390341000000115,F49z,F49z.00,Visual loss NOS
+ltc_060,Visual disturbances and blindness,347842017,105597003,169718011,F49z-1,F49z.11,Acquired blindness
+ltc_060,Visual disturbances and blindness,298313018,193756007,298313018,F49z0,F49z000,Charles Bonnet syndrome
+ltc_060,Visual disturbances and blindness,113901010,68574006,113901010,F4H73,F4H7300,Cortical blindness
+ltc_060,Visual disturbances and blindness,2773231012,433147009,2773231012,Fy1,Fy1..00,Combined visual and hearing impairment
+ltc_060,Visual disturbances and blindness,299506011,105597003,169718011,FyuL,FyuL.00,Blindness AND/OR vision impairment level
+ltc_060,Visual disturbances and blindness,515781000006114,212141007,323622018,SJ0z-1,SJ0z.11,Blindness - traumatic - NOS
+ltc_060,Visual disturbances and blindness,460633016,397540003,1777162017,ZV410,ZV41000,[V]Problems with sight

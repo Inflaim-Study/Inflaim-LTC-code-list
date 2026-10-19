@@ -1,0 +1,5 @@
+condition_id,condition_name,icd10_block,icd10_code,hes_code,description
+ltc_030,Hypoparathyroidism,E20-E35,E20.0,E200,Idiopathic hypoparathyroidism
+ltc_030,Hypoparathyroidism,E20-E35,E20.1,E201,Pseudohypoparathyroidism
+ltc_030,Hypoparathyroidism,E20-E35,E20.8,E208,Other hypoparathyroidism
+ltc_030,Hypoparathyroidism,E20-E35,E20.9,E209,"Hypoparathyroidism, unspecified"

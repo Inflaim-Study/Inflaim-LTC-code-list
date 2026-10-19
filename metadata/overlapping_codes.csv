@@ -1,0 +1,23 @@
+code_column,code,condition_id,condition_name
+MedCodeId,2773231012,ltc_009,Conductive and sensorineural hearing loss
+MedCodeId,2773231012,ltc_060,Visual disturbances and blindness
+MedCodeId,3797871000006116,ltc_014,"Diseases of oesophagus, stomach and duodenum"
+MedCodeId,3797871000006116,ltc_018,"Disorders of gallbladder, biliary tract and pancreas"
+SnomedCTConceptId,433147009,ltc_009,Conductive and sensorineural hearing loss
+SnomedCTConceptId,433147009,ltc_060,Visual disturbances and blindness
+SnomedCTConceptId,79806007,ltc_014,"Diseases of oesophagus, stomach and duodenum"
+SnomedCTConceptId,79806007,ltc_018,"Disorders of gallbladder, biliary tract and pancreas"
+OriginalReadCode,Fy1,ltc_009,Conductive and sensorineural hearing loss
+OriginalReadCode,Fy1,ltc_060,Visual disturbances and blindness
+OriginalReadCode,^ESCTCO379787,ltc_014,"Diseases of oesophagus, stomach and duodenum"
+OriginalReadCode,^ESCTCO379787,ltc_018,"Disorders of gallbladder, biliary tract and pancreas"
+CleansedReadCode,Fy1..00,ltc_009,Conductive and sensorineural hearing loss
+CleansedReadCode,Fy1..00,ltc_060,Visual disturbances and blindness
+hes_code,B200,ltc_027,HIV disease
+hes_code,B200,ltc_059,Tuberculosis
+hes_code,G632,ltc_012,Diabetes
+hes_code,G632,ltc_051,Polyneuropathies and other disorders of the peripheral nervous system
+hes_code,H280,ltc_003,Cataract
+hes_code,H280,ltc_012,Diabetes
+hes_code,M142,ltc_012,Diabetes
+hes_code,M142,ltc_033,Inflammatory polyarthropathies

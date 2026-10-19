@@ -1,0 +1,352 @@
+condition_id,condition_name,MedCodeId,SnomedCTConceptId,SnomedCTDescriptionId,OriginalReadCode,CleansedReadCode,Term
+ltc_012,Diabetes,1667921000000117,713703005,3698412014,C10FR-1,C10FR11,Type II diabetes mellitus with gastroparesis
+ltc_012,Diabetes,84541000006111,190388001,292577016,C1093-2,C109312,Type 2 diabetes mellitus with multiple complications
+ltc_012,Diabetes,84641000006112,313436004,457329019,C1099-2,C109912,Type 2 diabetes mellitus without complication
+ltc_012,Diabetes,459311019,314903002,459311019,C10FG-1,C10FG11,Type II diabetes mellitus with arthropathy
+ltc_012,Diabetes,84911000006119,190388001,292576013,C1093-1,C109311,Type II diabetes mellitus with multiple complications
+ltc_012,Diabetes,914271000006114,420279001,3013392012,C10FC-1,C10FC11,Type II diabetes mellitus with nephropathy
+ltc_012,Diabetes,85011000006119,313436004,457330012,C1099-1,C109911,Type II diabetes mellitus without complication
+ltc_012,Diabetes,84471000006119,44054006,197761014,C109-2,C109.12,Type 2 diabetes mellitus
+ltc_012,Diabetes,84841000006113,44054006,493774016,C109-3,C109.13,Type II diabetes mellitus
+ltc_012,Diabetes,84981000006114,420279001,3013392012,C1090-1,C109011,Type II diabetes mellitus with renal complications
+ltc_012,Diabetes,84611000006113,420279001,2618208012,C1090-2,C109012,Type 2 diabetes mellitus with renal complications
+ltc_012,Diabetes,84951000006118,422099009,3698440016,C1091-1,C109111,Disorder of eye with type 2 diabetes mellitus
+ltc_012,Diabetes,84581000006117,422099009,3698440016,C1091-2,C109112,Type 2 diabetes mellitus with ophthalmic complications
+ltc_012,Diabetes,84931000006113,421326000,3695406015,C1092-1,C109211,Neurological disorder with diabetes type 2
+ltc_012,Diabetes,84561000006110,421326000,3695406015,C1092-2,C109212,Type 2 diabetes mellitus with neurological complications
+ltc_012,Diabetes,85001000006117,190389009,292581016,C1094-1,C109411,Type II diabetes mellitus with ulcer
+ltc_012,Diabetes,84631000006119,190389009,292579018,C1094-2,C109412,Type 2 diabetes mellitus with ulcer
+ltc_012,Diabetes,84991000006112,422034002,3699410014,C1096-1,C109611,Type II diabetes mellitus with retinopathy
+ltc_012,Diabetes,84621000006117,422034002,3699410014,C1096-2,C109612,Type 2 diabetes mellitus with retinopathy
+ltc_012,Diabetes,84921000006110,420279001,3013392012,C109C-1,C109C11,Renal disorder due to type 2 diabetes mellitus
+ltc_012,Diabetes,84551000006113,420279001,3035432019,C109C-2,C109C12,Type 2 diabetes mellitus with nephropathy
+ltc_012,Diabetes,84891000006116,719216001,3316336015,C109D-1,C109D11,Type II diabetes mellitus with hypoglycaemic coma
+ltc_012,Diabetes,84521000006116,719216001,3316336015,C109D-2,C109D12,Type 2 diabetes mellitus with hypoglycaemic coma
+ltc_012,Diabetes,84861000006112,314903002,459311019,C109G-1,C109G11,Type II diabetes mellitus with arthropathy
+ltc_012,Diabetes,84491000006118,314903002,459310018,C109G-2,C109G12,Type 2 diabetes mellitus with arthropathy
+ltc_012,Diabetes,840951000006119,237599002,2967820013,C109J,C109J00,Insulin treated Type 2 diabetes mellitus
+ltc_012,Diabetes,841351000006110,237599002,1223147012,C109J-2,C109J12,Insulin treated Type II diabetes mellitus
+ltc_012,Diabetes,850691000006118,395204000,1488898011,C109K,C109K00,Hyperosmolar non-ketotic state in type 2 diabetes mellitus
+ltc_012,Diabetes,197761014,44054006,197761014,C10F,C10F.00,Type 2 diabetes mellitus
+ltc_012,Diabetes,493774016,44054006,493774016,C10F-1,C10F.11,Type II diabetes mellitus
+ltc_012,Diabetes,914031000006118,420279001,2618208012,C10F0,C10F000,Renal disorder associated with type II diabetes mellitus
+ltc_012,Diabetes,914041000006111,420279001,3013392012,C10F0-1,C10F011,Type II diabetes mellitus with renal complications
+ltc_012,Diabetes,914051000006113,422099009,3698440016,C10F1,C10F100,Disorder of eye with type 2 diabetes mellitus
+ltc_012,Diabetes,914071000006115,421326000,3695406015,C10F2,C10F200,Neurologic disorder associated with type 2 diabetes mellitus
+ltc_012,Diabetes,914081000006117,421326000,3695406015,C10F2-1,C10F211,Type II diabetes mellitus with neurological complications
+ltc_012,Diabetes,292577016,190388001,292577016,C10F3,C10F300,Type 2 diabetes mellitus with multiple complications
+ltc_012,Diabetes,292576013,190388001,292576013,C10F3-1,C10F311,Type II diabetes mellitus with multiple complications
+ltc_012,Diabetes,292579018,190389009,292579018,C10F4,C10F400,Type 2 diabetes mellitus with ulcer
+ltc_012,Diabetes,292581016,190389009,292581016,C10F4-1,C10F411,Type II diabetes mellitus with ulcer
+ltc_012,Diabetes,914151000006112,422034002,3699410014,C10F6,C10F600,Retinopathy with type 2 diabetes mellitus
+ltc_012,Diabetes,914161000006114,422034002,3699410014,C10F6-1,C10F611,Type II diabetes mellitus with retinopathy
+ltc_012,Diabetes,457329019,313436004,457329019,C10F9,C10F900,Type 2 diabetes mellitus without complication
+ltc_012,Diabetes,457330012,313436004,457330012,C10F9-1,C10F911,Type II diabetes mellitus without complication
+ltc_012,Diabetes,914261000006119,420279001,3035432019,C10FC,C10FC00,Diabetes type 2 with nephropathy
+ltc_012,Diabetes,459167016,719216001,3316336015,C10FD,C10FD00,Type 2 diabetes mellitus with hypoglycaemic coma
+ltc_012,Diabetes,459169018,719216001,3316336015,C10FD-1,C10FD11,Hypoglycaemic coma co-occurrent and due to diabetes mellitus type II
+ltc_012,Diabetes,459310018,314903002,459310018,C10FG,C10FG00,Type 2 diabetes mellitus with arthropathy
+ltc_012,Diabetes,914391000006116,237599002,2967820013,C10FJ,C10FJ00,Insulin treated Type 2 diabetes mellitus
+ltc_012,Diabetes,1223147012,237599002,1223147012,C10FJ-1,C10FJ11,Insulin treated Type II diabetes mellitus
+ltc_012,Diabetes,1488898011,395204000,1488898011,C10FK,C10FK00,Hyperosmolar non-ketotic state in type 2 diabetes mellitus
+ltc_012,Diabetes,928541000006117,421986006,2967751013,C10FL,C10FL00,Persistent proteinuria associated with type 2 diabetes mellitus
+ltc_012,Diabetes,928551000006115,421986006,2967751013,C10FL-1,C10FL11,Type II diabetes mellitus with persistent proteinuria
+ltc_012,Diabetes,928561000006118,420715001,2967769016,C10FM,C10FM00,Persistent microalbuminuria associated with type 2 diabetes mellitus
+ltc_012,Diabetes,928571000006113,420715001,2967769016,C10FM-1,C10FM11,Type II diabetes mellitus with persistent microalbuminuria
+ltc_012,Diabetes,928581000006111,421750000,2967754017,C10FN,C10FN00,Ketoacidosis in type 2 diabetes mellitus
+ltc_012,Diabetes,928601000006118,421847006,2618218019,C10FP,C10FP00,Ketoacidotic coma in type 2 diabetes mellitus
+ltc_012,Diabetes,938321000006116,421779007,2618237011,C10FQ,C10FQ00,Exudative maculopathy associated with type 2 diabetes mellitus
+ltc_012,Diabetes,299621000000117,713703005,3698412014,C10FR,C10FR00,Gastroparesis with type 2 diabetes mellitus
+ltc_012,Diabetes,1873301000006114,1873301000006105,1873301000006114,EMISNQCA1013,,Care contact service: diabetes
+ltc_012,Diabetes,6953901000006115,420422005,3303994013,^ESCTDK695390,,DKA - diabetic ketoacidosis
+ltc_012,Diabetes,1823921000006119,1823921000006103,1823921000006119,EMISNQDI96,,Diabetes mellitus confirmed
+ltc_012,Diabetes,881461000006110,420422005,881461000006110,C101-99,C101.99,Diabetes+ketoacidosis -no coma
+ltc_012,Diabetes,856531000006119,856531000006103,856531000006119,EMISQDI1,,Diabetic - GP eye check
+ltc_012,Diabetes,856551000006114,856551000006105,856551000006114,EMISQDI2,,Diabetic - hospital eye check
+ltc_012,Diabetes,3319861000006118,50620007,84344019,^ESCTDI331986,,Diabetic autonomic neuropathy
+ltc_012,Diabetes,6953861000006110,420422005,2616611010,^ESCTDI695386,,Diabetic ketoacidosis
+ltc_012,Diabetes,178798017,111556005,178798017,ESCTDI20,,Diabetic ketoacidosis without coma
+ltc_012,Diabetes,1780981000006115,1780981000006104,1780981000006115,EMISNQDI70,,Diabetic on non-insulin injectable
+ltc_012,Diabetes,1804191000006114,1804191000006105,1804191000006114,EMISNQDI80,,Diabetic retinopathy screen done by optician
+ltc_012,Diabetes,851051000006110,851051000006106,851051000006110,EMISR4QIN2,,Ins-treat non-ins-dep diab mel
+ltc_012,Diabetes,856611000006114,856611000006105,856611000006114,EMISQLA1,,Laser treated diabetic retinopathy
+ltc_012,Diabetes,856661000006112,856661000006108,856661000006112,EMISQLE14,,Left diabetic foot active ulceration
+ltc_012,Diabetes,856671000006117,856671000006101,856671000006117,EMISQLE15,,Left diabetic foot high risk
+ltc_012,Diabetes,856691000006116,856691000006100,856691000006116,EMISQLE17,,Left diabetic foot low current risk
+ltc_012,Diabetes,856681000006119,856681000006103,856681000006119,EMISQLE16,,Left diabetic foot moderate risk
+ltc_012,Diabetes,856631000006115,856631000006104,856631000006115,EMISQLE11,,Left laser treated diabetic retinopathy
+ltc_012,Diabetes,857031000006113,857031000006109,857031000006113,EMISQLE8,,Left non-proliferative diabetic retinopathy
+ltc_012,Diabetes,856621000006118,856621000006102,856621000006118,EMISQLE10,,Left proliferative diabetic retinopathy
+ltc_012,Diabetes,2014951000006115,2014951000006104,2014951000006115,EMISNQNE127,,New diabetic foot ulcer
+ltc_012,Diabetes,1694761000006113,405749004,2157525015,EMISNQNE23,,Newly diagnosed diabetes
+ltc_012,Diabetes,1621011000006115,1621011000006104,1621011000006115,EMISNQNO16,,No evidence of diabetic peripheral neuropathy
+ltc_012,Diabetes,887971000006115,199223000,887971000006115,L180-99,L180.99,Preg.+ diabetes mellitus
+ltc_012,Diabetes,6022721000006112,312907002,456707011,^ESCTPR602272,,Proliferative diabetic retinopathy - high risk
+ltc_012,Diabetes,902201000006112,293190009,902201000006112,TJ23-99,TJ23.99,Reaction: insulin/antidiabetic
+ltc_012,Diabetes,1850931000006111,1850931000006107,1850931000006111,EMISNQRE335,,Reason for influenza vaccine - diabetes mellitus
+ltc_012,Diabetes,1775381000006118,1775381000006102,1775381000006118,EMISNQRE174,,Referred to Diabetes Service
+ltc_012,Diabetes,857691000006119,857691000006103,857691000006119,EMISQRI14,,Right diabetic foot active ulceration
+ltc_012,Diabetes,857721000006112,857721000006108,857721000006112,EMISQRI15,,Right diabetic foot high risk
+ltc_012,Diabetes,857761000006118,857761000006102,857761000006118,EMISQRI17,,Right diabetic foot low current risk
+ltc_012,Diabetes,857741000006117,857741000006101,857741000006117,EMISQRI16,,Right diabetic foot moderate risk
+ltc_012,Diabetes,857421000006119,857421000006103,857421000006119,EMISQRI11,,Right laser treated diabetic retinopathy
+ltc_012,Diabetes,857971000006110,857971000006106,857971000006110,EMISQRI8,,Right non-proliferative diabetic retinopathy
+ltc_012,Diabetes,857981000006113,857981000006109,857981000006113,EMISQRI9,,Right preproliferative diabetic retinopathy
+ltc_012,Diabetes,857411000006110,857411000006106,857411000006110,EMISQRI10,,Right proliferative diabetic retinopathy
+ltc_012,Diabetes,356078011,237601000,356078011,ESCTSE11,,Secondary endocrine diabetes mellitus
+ltc_012,Diabetes,2586611000000113,720685006,3320858019,9NlP1,,Seen by diabetes specialist nurse
+ltc_012,Diabetes,1773381000006119,1773381000006103,1773381000006119,EMISNQSE63,,Seen in in-house nurse-led diabetic clinic
+ltc_012,Diabetes,2586731000000110,1024571000000100,2586731000000110,9NN91,,Under care of community-based diabetes specialist nurse
+ltc_012,Diabetes,2586691000000116,1024551000000109,2586691000000116,9NN90,,Under care of hospital-based diabetes specialist nurse
+ltc_012,Diabetes,2493341000000118,980351000000105,2493341000000118,38VP,38VP.00,Young Townson FootSkin Scale for Diabetic Neuropathy
+ltc_012,Diabetes,905621000006113,905621000006109,905621000006113,HNG0036,,[RFC] Reason for care : Diabetes
+ltc_012,Diabetes,908831000006118,908831000006102,908831000006118,HNG0605,,[RFC] Reason for care : Diabetes mellitus
+ltc_012,Diabetes,910501000006113,910501000006109,910501000006113,HNGNQRF95,,[RFC] Reason for care : Diabetic foot ulcer
+ltc_012,Diabetes,906711000006116,906711000006100,906711000006116,HNG0167,,[RFC] Reason for care : Diabetic foot/leg ulcer
+ltc_012,Diabetes,910491000006117,910491000006101,910491000006117,HNGNQRF94,,[RFC] Reason for care : Diabetic leg ulcer
+ltc_012,Diabetes,459293018,39710007,1229552016,C10EH-2,C10EH12,Insulin dependent diabetes mellitus with arthropathy
+ltc_012,Diabetes,459162010,237632004,356141011,C10EE-2,C10EE12,Insulin dependent diabetes mellitus with hypoglycaemic coma
+ltc_012,Diabetes,6050041000006115,314771006,459162010,^ESCTIN605004,,Insulin dependent diabetes mellitus with hypoglycaemic coma
+ltc_012,Diabetes,913831000006114,127013003,301016,C10ED-2,C10ED12,Insulin dependent diabetes mellitus with nephropathy
+ltc_012,Diabetes,913441000006119,127013003,301016,C10E0-2,C10E012,Insulin-dependent diabetes mellitus with renal complications
+ltc_012,Diabetes,457327017,111552007,178796018,C10EA-2,C10EA12,Insulin-dependent diabetes without complication
+ltc_012,Diabetes,6030001000006116,313435000,457327017,^ESCTIN603000,,Insulin-dependent diabetes without complication
+ltc_012,Diabetes,918281000006116,918281000006100,918281000006116,PC0646,,Pt advised re diabetic diet
+ltc_012,Diabetes,84311000006118,314893005,459292011,C108H-2,C108H12,Type 1 diabetes mellitus with arthropathy
+ltc_012,Diabetes,84361000006115,422228004,2618232017,C1083-2,C108312,Type 1 diabetes mellitus with multiple complications
+ltc_012,Diabetes,84371000006110,421893009,2623054013,C108D-2,C108D12,Type 1 diabetes mellitus with nephropathy
+ltc_012,Diabetes,84461000006114,313435000,457326014,C108A-2,C108A12,Type 1 diabetes mellitus without complication
+ltc_012,Diabetes,459294012,314893005,459294012,C10EH-1,C10EH11,Type I diabetes mellitus with arthropathy
+ltc_012,Diabetes,459163017,314771006,459163017,C10EE-1,C10EE11,Type I diabetes mellitus with hypoglycaemic coma
+ltc_012,Diabetes,84731000006111,422228004,2967771016,C1083-1,C108311,Multiple complications of type 1 diabetes mellitus
+ltc_012,Diabetes,913851000006119,421893009,2623054013,C10ED-1,C10ED11,Type I diabetes mellitus with nephropathy
+ltc_012,Diabetes,913521000006113,421468001,3695401013,C10E2-1,C10E211,Neurological disorder with type 1 diabetes mellitus
+ltc_012,Diabetes,913461000006115,421893009,2623054013,C10E0-1,C10E011,Type I diabetes mellitus with renal complications
+ltc_012,Diabetes,459694018,315207000,459694018,13AB,13AB.00,Diabetic lipid lowering diet
+ltc_012,Diabetes,459695017,315208005,459695017,13AC,13AC.00,Diabetic weight reducing diet
+ltc_012,Diabetes,250447011,160670007,250447011,13B1,13B1.00,Diabetic diet
+ltc_012,Diabetes,169731000006118,4855003,1230609013,2BBF,2BBF.00,Retinal abnormality - diabetes-related
+ltc_012,Diabetes,1484887015,390854003,1484887015,2BBL,2BBL.00,O/E - diabetic maculopathy present both eyes
+ltc_012,Diabetes,1484888013,390855002,1484888013,2BBM,2BBM.00,O/E - diabetic maculopathy absent both eyes
+ltc_012,Diabetes,2159973010,408409007,2159973010,2BBP,2BBP.00,O/E - right eye background diabetic retinopathy
+ltc_012,Diabetes,2159974016,408410002,2159974016,2BBQ,2BBQ.00,O/E - left eye background diabetic retinopathy
+ltc_012,Diabetes,2159975015,408411003,2159975015,2BBR,2BBR.00,O/E - right eye preproliferative diabetic retinopathy
+ltc_012,Diabetes,2159976019,408412005,2159976019,2BBS,2BBS.00,O/E - left eye preproliferative diabetic retinopathy
+ltc_012,Diabetes,2159977011,408413000,2159977011,2BBT,2BBT.00,O/E - right eye proliferative diabetic retinopathy
+ltc_012,Diabetes,2159978018,408414006,2159978018,2BBV,2BBV.00,O/E - left eye proliferative diabetic retinopathy
+ltc_012,Diabetes,2159979014,769244003,3698428016,2BBW,2BBW.00,Maculopathy of right eye with diabetes mellitus
+ltc_012,Diabetes,2159980012,769245002,3698426017,2BBX,2BBX.00,Maculopathy of left eye with diabetes mellitus
+ltc_012,Diabetes,975251000006111,414910007,2532963013,2BBk,2BBk.00,O/E - right eye stable treated proliferative diabetic retinopathy
+ltc_012,Diabetes,975261000006113,414894003,2532964019,2BBl,2BBl.00,O/E - left eye stable treated proliferative diabetic retinopathy
+ltc_012,Diabetes,764191000006112,280137006,417658010,2G510,2G51000,Foot abnormality - diabetes related
+ltc_012,Diabetes,451410016,308105005,451410016,2G5A,2G5A.00,O/E - Right diabetic foot at risk
+ltc_012,Diabetes,451411017,308106006,451411017,2G5B,2G5B.00,O/E - Left diabetic foot at risk
+ltc_012,Diabetes,764201000006110,280137006,417658010,2G5C,2G5C.00,Foot abnormality - diabetes related
+ltc_012,Diabetes,1488393013,394671009,1488393013,2G5E,2G5E.00,O/E - Right diabetic foot at low risk
+ltc_012,Diabetes,1488404014,394682001,1488404014,2G5F,2G5F.00,O/E - Right diabetic foot at moderate risk
+ltc_012,Diabetes,1488394019,394672002,1488394019,2G5G,2G5G.00,O/E - Right diabetic foot at high risk
+ltc_012,Diabetes,1488395018,394673007,1488395018,2G5H,2G5H.00,O/E - Right diabetic foot - ulcerated
+ltc_012,Diabetes,1488397014,394675000,1488397014,2G5I,2G5I.00,O/E - Left diabetic foot at low risk
+ltc_012,Diabetes,1488403015,394681008,1488403015,2G5J,2G5J.00,O/E - Left diabetic foot at moderate risk
+ltc_012,Diabetes,1488398016,394676004,1488398016,2G5K,2G5K.00,O/E - Left diabetic foot at high risk
+ltc_012,Diabetes,1488396017,394674001,1488396017,2G5L,2G5L.00,O/E - Left diabetic foot - ulcerated
+ltc_012,Diabetes,2532977011,414906009,2532977011,2G5V,2G5V.00,O/E - right chronic diabetic foot ulcer
+ltc_012,Diabetes,2532976019,414890007,2532976019,2G5W,2G5W.00,O/E - left chronic diabetic foot ulcer
+ltc_012,Diabetes,264679015,170745003,264679015,66A3,66A3.00,Diabetic on diet only
+ltc_012,Diabetes,264681018,170746002,264681018,66A4,66A4.00,Diabetic on oral treatment
+ltc_012,Diabetes,264682013,170747006,264682013,66A5,66A5.00,Diabetic on insulin
+ltc_012,Diabetes,264693010,170752001,264693010,66A8,66A8.00,Has seen dietician - diabetes
+ltc_012,Diabetes,264695015,170753006,264695015,66A9,66A9.00,Understands diet - diabetes
+ltc_012,Diabetes,264701014,170757007,264701014,66AD,66AD.00,Fundoscopy - diabetic check
+ltc_012,Diabetes,264704018,170760000,264704018,66AG,66AG.00,Diabetic drug side effects
+ltc_012,Diabetes,264705017,170761001,264705017,66AH,66AH.00,Diabetic treatment changed
+ltc_012,Diabetes,411891014,11530004,19931010,66AJ-1,66AJ.11,Unstable diabetes
+ltc_012,Diabetes,19931010,11530004,19931010,66AJ1,66AJ100,Brittle diabetes
+ltc_012,Diabetes,264717015,170769004,264717015,66AK,66AK.00,Diabetic - cooperative patient
+ltc_012,Diabetes,264718013,170770003,264718013,66AL,66AL.00,Diabetic-uncooperative patient
+ltc_012,Diabetes,264720011,170772006,264720011,66AN,66AN.00,Date diabetic treatment start
+ltc_012,Diabetes,607851000006113,170773001,264721010,66AO,66AO.00,Date diabetic treatment stopped
+ltc_012,Diabetes,216195015,243860001,364695019,66AU,66AU.00,Diabetes care by hospital only
+ltc_012,Diabetes,458512016,314194001,458512016,66AV,66AV.00,Diabetic on insulin and oral treatment
+ltc_012,Diabetes,845341000006111,24451000000107,61891000000110,66AX,66AX.00,Diabetes: shared care in pregnancy - diabetologist and obstetrician
+ltc_012,Diabetes,63021000000116,25351000000101,1749251000000114,66AY,66AY.00,Good compliance with diabetic diet
+ltc_012,Diabetes,63041000000111,25361000000103,1749271000000117,66Aa,66Aa.00,Poor compliance with diabetic diet
+ltc_012,Diabetes,1780386019,401191002,1780386019,66Ab,66Ab.00,Diabetic foot examination
+ltc_012,Diabetes,299191000000110,198471000000107,299191000000110,66Ag,66Ag.00,Insulin needles changed daily
+ltc_012,Diabetes,299211000000114,198481000000109,299211000000114,66Ah,66Ah.00,Insulin needles changed for each injection
+ltc_012,Diabetes,301161000000113,199291000000104,301161000000113,66Aj,66Aj.00,Insulin needles changed less than once a day
+ltc_012,Diabetes,472901000000116,703972004,3012379017,66Am,66Am.00,Insulin dose changed
+ltc_012,Diabetes,646031000000112,345041000000101,646031000000112,66Ap,66Ap.00,Insulin treatment initiated
+ltc_012,Diabetes,692951000000111,367011000000100,692951000000111,66Aq,66Aq.00,Diabetic foot screen
+ltc_012,Diabetes,2474726011,413180006,2474726011,7276,7276.00,Pan retinal photocoagulation for diabetes
+ltc_012,Diabetes,278718015,180178009,278718015,7L100,7L10000,Continuous subcutaneous infusion of insulin
+ltc_012,Diabetes,452078013,308755006,452078013,7L198,7L19800,Subcutaneous injection of insulin
+ltc_012,Diabetes,282570016,182781000,282570016,8A13,8A13.00,Diabetic stabilisation
+ltc_012,Diabetes,2532974016,415744000,2532974016,8CP2,8CP2.00,Transition of diabetes care options discussed
+ltc_012,Diabetes,1484923019,390890005,1484923019,8H7r,8H7r.00,Refer to diabetic foot screener
+ltc_012,Diabetes,283938017,183751004,283938017,8HLE,8HLE.00,Diabetology D.V. done
+ltc_012,Diabetes,2474309019,412752009,2474309019,8I3W,8I3W.00,Diabetic foot examination declined
+ltc_012,Diabetes,2548633012,763782001,3643843012,8I57,8I57.00,Provision of patient held diabetes record refused
+ltc_012,Diabetes,2159969012,408405001,2159969012,9360,9360.00,Patient held diabetic record issued
+ltc_012,Diabetes,2549901010,417681008,2549901010,9OLD,9OLD.00,Diabetic patient unsuitable for digital retinal photography
+ltc_012,Diabetes,121589010,73211009,121589010,C10,C10..00,Diabetes mellitus
+ltc_012,Diabetes,292466013,111552007,178796018,C100,C100.00,Diabetes mellitus without complication
+ltc_012,Diabetes,616621000006115,313435000,457326014,C1000,C100000,Type 1 diabetes mellitus without complication
+ltc_012,Diabetes,772161000006119,73211009,121589010,C1000-1,C100011,Insulin dependent diabetes mellitus
+ltc_012,Diabetes,73466011,44054006,493773010,C1001-2,C100112,Non-insulin dependent diabetes mellitus
+ltc_012,Diabetes,292475010,111552007,178796018,C100z,C100z00,Diabetes mellitus NOS with no mention of complication
+ltc_012,Diabetes,2622193012,420422005,2622193012,C101,C101.00,Diabetes mellitus with ketoacidosis
+ltc_012,Diabetes,292478012,420422005,2616611010,C101y,C101y00,Other specified diabetes mellitus with ketoacidosis
+ltc_012,Diabetes,292479016,420422005,2616611010,C101z,C101z00,Diabetes mellitus NOS with ketoacidosis
+ltc_012,Diabetes,292480018,422126006,2618221017,C102,C102.00,Diabetes mellitus with hyperosmolar coma
+ltc_012,Diabetes,292484010,422126006,2618221017,C102z,C102z00,Hyperosmolar coma associated with diabetes mellitus
+ltc_012,Diabetes,616381000006111,26298008,44045012,C103,C103.00,Diabetes mellitus with ketoacidotic coma
+ltc_012,Diabetes,292488013,420662003,2618230013,C103y,C103y00,Coma associated with diabetes mellitus
+ltc_012,Diabetes,292489017,420422005,2616611010,C103z,C103z00,Diabetes mellitus NOS with ketoacidotic coma
+ltc_012,Diabetes,616461000006112,127013003,301016,C104,C104.00,Diabetes mellitus with renal manifestation
+ltc_012,Diabetes,205225016,127013003,205225016,C104-1,C104.11,Diabetic nephropathy
+ltc_012,Diabetes,292495016,127013003,301016,C104y,C104y00,Other specified diabetes mellitus with renal complications
+ltc_012,Diabetes,292496015,127013003,301016,C104z,C104z00,Diabetes mellitus with nephropathy NOS
+ltc_012,Diabetes,616421000006118,25093002,3688467012,C105,C105.00,Eye disorder due to diabetes mellitus
+ltc_012,Diabetes,13771000006110,25093002,42062018,C105y,C105y00,Other specified diabetes mellitus with ophthalmic complicatn
+ltc_012,Diabetes,292503016,25093002,42062018,C105z,C105z00,Diabetes mellitus NOS with ophthalmic manifestation
+ltc_012,Diabetes,616391000006114,422088007,3688477014,C106,C106.00,Nervous system disorder due to diabetes mellitus
+ltc_012,Diabetes,616921000006113,39058009,65526011,C106-1,C106.11,Diabetic amyotrophy
+ltc_012,Diabetes,13761000006115,422088007,2618195014,C106y,C106y00,Other specified diabetes mellitus with neurological comps
+ltc_012,Diabetes,292512019,422088007,2618195014,C106z,C106z00,Diabetes mellitus NOS with neurological manifestation
+ltc_012,Diabetes,772171000006114,73211009,121589010,C108,C108.00,Insulin dependent diabetes mellitus
+ltc_012,Diabetes,787111000006112,73211009,121589010,C108-1,C108.11,IDDM-Insulin dependent diabetes mellitus
+ltc_012,Diabetes,84281000006115,46635009,197984010,C108-2,C108.12,Type 1 diabetes mellitus
+ltc_012,Diabetes,84651000006114,46635009,494564012,C108-3,C108.13,Type I diabetes mellitus
+ltc_012,Diabetes,771501000006119,127013003,301016,C1080,C108000,Insulin-dependent diabetes mellitus with renal complications
+ltc_012,Diabetes,84801000006111,421893009,2623054013,C1080-1,C108011,Type I diabetes mellitus with renal complications
+ltc_012,Diabetes,84431000006117,421893009,2618211013,C1080-2,C108012,Type 1 diabetes mellitus with renal complications
+ltc_012,Diabetes,771491000006110,25093002,3688467012,C1081,C108100,Insulin-dependent diabetes mellitus with ophthalmic comps
+ltc_012,Diabetes,771481000006112,422088007,3688477014,C1082,C108200,Insulin-dependent diabetes mellitus with neurological comps
+ltc_012,Diabetes,84751000006116,421468001,3695401013,C1082-1,C108211,Type I diabetes mellitus with neurological complications
+ltc_012,Diabetes,84381000006113,421468001,2618197018,C1082-2,C108212,Type 1 diabetes mellitus with neurological complications
+ltc_012,Diabetes,771381000006115,385041000000108,760111000000115,C1083,C108300,Insulin dependent diabetes mellitus with multiple complicatn
+ltc_012,Diabetes,72651000006114,11530004,19931010,C1084,C108400,Unstable insulin dependent diabetes mellitus
+ltc_012,Diabetes,72721000006113,290002008,429970018,C1084-1,C108411,Unstable type I diabetes mellitus
+ltc_012,Diabetes,72711000006117,290002008,429971019,C1084-2,C108412,Unstable type 1 diabetes mellitus
+ltc_012,Diabetes,771421000006113,422183001,2623058011,C1085,C108500,Insulin dependent diabetes mellitus with ulcer
+ltc_012,Diabetes,84821000006118,190368000,292538019,C1085-1,C108511,Type I diabetes mellitus with ulcer
+ltc_012,Diabetes,84451000006112,190368000,292540012,C1085-2,C108512,Type 1 diabetes mellitus with ulcer
+ltc_012,Diabetes,771411000006117,4855003,9093013,C1087,C108700,Insulin dependent diabetes mellitus with retinopathy
+ltc_012,Diabetes,84811000006114,420789003,3699407019,C1087-1,C108711,Type I diabetes mellitus with retinopathy
+ltc_012,Diabetes,84441000006110,420789003,3699407019,C1087-2,C108712,Type 1 diabetes mellitus with retinopathy
+ltc_012,Diabetes,746791000006111,111552007,178796018,C108A,C108A00,Insulin-dependent diabetes without complication
+ltc_012,Diabetes,84831000006115,313435000,457325013,C108A-1,C108A11,Type I diabetes mellitus without complication
+ltc_012,Diabetes,771391000006117,127013003,301016,C108D,C108D00,Insulin dependent diabetes mellitus with nephropathy
+ltc_012,Diabetes,84741000006118,421893009,2623054013,C108D-1,C108D11,Type I diabetes mellitus with nephropathy
+ltc_012,Diabetes,771361000006113,237632004,356141011,C108E,C108E00,Insulin dependent diabetes mellitus with hypoglycaemic coma
+ltc_012,Diabetes,84711000006117,314771006,459163017,C108E-1,C108E11,Type I diabetes mellitus with hypoglycaemic coma
+ltc_012,Diabetes,84341000006119,314771006,459161015,C108E-2,C108E12,Type 1 diabetes mellitus with hypoglycaemic coma
+ltc_012,Diabetes,771331000006116,39710007,1229552016,C108H,C108H00,Insulin dependent diabetes mellitus with arthropathy
+ltc_012,Diabetes,84681000006118,314893005,459294012,C108H-1,C108H11,Type I diabetes mellitus with arthropathy
+ltc_012,Diabetes,13751000006117,385041000000108,760111000000115,C108y,C108y00,Other specified diabetes mellitus with multiple comps
+ltc_012,Diabetes,292565014,385041000000108,760111000000115,C108z,C108z00,Diabetes mellitus with multiple complications
+ltc_012,Diabetes,280571000006116,44054006,493773010,C109,C109.00,Non-insulin dependent diabetes mellitus
+ltc_012,Diabetes,493773010,44054006,493773010,C109-1,C109.11,NIDDM - Non-insulin dependent diabetes mellitus
+ltc_012,Diabetes,587521000006111,420279001,2615535015,C1090,C109000,Non-insulin-dependent diabetes mellitus with renal comps
+ltc_012,Diabetes,587111000006111,422099009,3698440016,C1091,C109100,Non-insulin-dependent diabetes mellitus with ophthalm comps
+ltc_012,Diabetes,280591000006115,421326000,3695406015,C1092,C109200,Non-insulin-dependent diabetes mellitus with neuro comps
+ltc_012,Diabetes,280581000006118,190388001,292578014,C1093,C109300,Non-insulin-dependent diabetes mellitus with multiple complications
+ltc_012,Diabetes,280551000006114,190389009,292580015,C1094,C109400,Non-insulin-dependent diabetes mellitus with ulcer
+ltc_012,Diabetes,641581000006115,422034002,3035295017,C1096,C109600,Non-insulin-dependent diabetes mellitus with retinopathy
+ltc_012,Diabetes,457328010,313436004,457328010,C1099,C109900,Non-insulin-dependent diabetes mellitus without complication
+ltc_012,Diabetes,280531000006119,420279001,3035432019,C109C,C109C00,Non-insulin dependent diabetes mellitus with nephropathy
+ltc_012,Diabetes,280511000006113,719216001,3316336015,C109D,C109D00,Non-insulin dependent diabetes mellitus with hypoglyca coma
+ltc_012,Diabetes,459309011,314903002,459309011,C109G,C109G00,Non-insulin dependent diabetes mellitus with arthropathy
+ltc_012,Diabetes,1223148019,237599002,1223148019,C109J-1,C109J11,Insulin treated non-insulin dependent diabetes mellitus
+ltc_012,Diabetes,719531000006118,75524006,125439011,C10A,C10A.00,Malnutrition related diabetes mellitus
+ltc_012,Diabetes,719541000006111,420996007,2618229015,C10A0,C10A000,Malnutrition-related diabetes mellitus with coma
+ltc_012,Diabetes,292606016,190406000,292606016,C10A1,C10A100,Malnutrition-related diabetes mellitus with ketoacidosis
+ltc_012,Diabetes,616241000006112,190447002,292667010,C10B,C10B.00,Diabetes mellitus induced by steroids
+ltc_012,Diabetes,127051000006112,190416008,292616012,C10B0,C10B000,Steroid-induced diabetes mellitus without complication
+ltc_012,Diabetes,197984010,46635009,197984010,C10E,C10E.00,Type 1 diabetes mellitus
+ltc_012,Diabetes,494564012,46635009,494564012,C10E-1,C10E.11,Type I diabetes mellitus
+ltc_012,Diabetes,77727018,73211009,121589010,C10E-2,C10E.12,Insulin dependent diabetes mellitus
+ltc_012,Diabetes,913451000006117,421893009,2618211013,C10E0,C10E000,Type 1 diabetes mellitus with renal complications
+ltc_012,Diabetes,913481000006113,739681000,3537386015,C10E1,C10E100,Type 1 diabetes mellitus with ophthalmic complications
+ltc_012,Diabetes,913471000006110,25093002,3688467012,C10E1-2,C10E112,Insulin-dependent diabetes mellitus with ophthalmic comps
+ltc_012,Diabetes,913511000006117,421468001,2618197018,C10E2,C10E200,Type 1 diabetes mellitus with neurological complications
+ltc_012,Diabetes,913541000006118,422228004,2618232017,C10E3,C10E300,Type 1 diabetes mellitus with multiple complications
+ltc_012,Diabetes,913551000006116,422228004,2967771016,C10E3-1,C10E311,Type I diabetes mellitus with multiple complications
+ltc_012,Diabetes,913531000006111,385041000000108,760111000000115,C10E3-2,C10E312,Insulin dependent diabetes mellitus with multiple complicat
+ltc_012,Diabetes,429971019,290002008,429971019,C10E4,C10E400,Unstable type 1 diabetes mellitus
+ltc_012,Diabetes,429970018,290002008,429970018,C10E4-1,C10E411,Unstable type I diabetes mellitus
+ltc_012,Diabetes,429972014,11530004,19931010,C10E4-2,C10E412,Unstable insulin dependent diabetes mellitus
+ltc_012,Diabetes,292540012,190368000,292540012,C10E5,C10E500,Type 1 diabetes mellitus with ulcer
+ltc_012,Diabetes,292538019,190368000,292538019,C10E5-1,C10E511,Type I diabetes mellitus with ulcer
+ltc_012,Diabetes,913591000006110,422183001,2623058011,C10E5-2,C10E512,Skin ulcer associated with diabetes mellitus
+ltc_012,Diabetes,913661000006118,420789003,3699407019,C10E7,C10E700,Retinopathy with type 1 diabetes mellitus
+ltc_012,Diabetes,913671000006113,420789003,3699407019,C10E7-1,C10E711,Type I diabetes mellitus with retinopathy
+ltc_012,Diabetes,913651000006115,4855003,9093013,C10E7-2,C10E712,Insulin dependent diabetes mellitus with retinopathy
+ltc_012,Diabetes,457326014,313435000,457326014,C10EA,C10EA00,Type 1 diabetes mellitus without complication
+ltc_012,Diabetes,457325013,313435000,457325013,C10EA-1,C10EA11,Type I diabetes mellitus without complication
+ltc_012,Diabetes,913841000006116,421893009,2623054013,C10ED,C10ED00,Renal disorder associated with type 1 diabetes mellitus
+ltc_012,Diabetes,459161015,314771006,459161015,C10EE,C10EE00,Type 1 diabetes mellitus with hypoglycaemic coma
+ltc_012,Diabetes,459292011,314893005,459292011,C10EH,C10EH00,Type 1 diabetes mellitus with arthropathy
+ltc_012,Diabetes,928461000006119,420514000,2967914011,C10EK,C10EK00,Persistent proteinuria associated with type 1 diabetes mellitus
+ltc_012,Diabetes,1780311019,401110002,1780311019,C10EL,C10EL00,Type 1 diabetes mellitus with persistent microalbuminuria
+ltc_012,Diabetes,928501000006119,420270002,2967817017,C10EM,C10EM00,Ketoacidosis in type 1 diabetes mellitus
+ltc_012,Diabetes,928511000006116,420270002,2967817017,C10EM-1,C10EM11,Type I diabetes mellitus with ketoacidosis
+ltc_012,Diabetes,928521000006112,421075007,2967758019,C10EN,C10EN00,Ketoacidotic coma in type 1 diabetes mellitus
+ltc_012,Diabetes,928531000006110,421075007,2967758019,C10EN-1,C10EN11,Type I diabetes mellitus with ketoacidotic coma
+ltc_012,Diabetes,938301000006114,420486006,3698521013,C10EP,C10EP00,Exudative maculopathy with type 1 diabetes mellitus
+ltc_012,Diabetes,938311000006112,420486006,2618236019,C10EP-1,C10EP11,Type I diabetes mellitus with exudative maculopathy
+ltc_012,Diabetes,299601000000114,713702000,3698406016,C10EQ,C10EQ00,Gastroparesis with type 1 diabetes mellitus
+ltc_012,Diabetes,2674067015,426875007,2674067015,C10ER,C10ER00,Latent autoimmune diabetes mellitus in adult
+ltc_012,Diabetes,1230929011,51002006,1230929011,C10G,C10G.00,Secondary pancreatic diabetes mellitus
+ltc_012,Diabetes,198461000000116,51002006,84990019,C10G0,C10G000,Diabetes mellitus associated with pancreatic disease
+ltc_012,Diabetes,2160090014,408540003,2160090014,C10H,C10H.00,Diabetes mellitus induced by non-steroid drugs
+ltc_012,Diabetes,967631000006115,413183008,2474729016,C10H0,C10H000,Diabetes mellitus induced by non-steroid drugs without complication
+ltc_012,Diabetes,967701000006116,127012008,300015,C10M,C10M.00,Lipoatrophic diabetes mellitus
+ltc_012,Diabetes,15518018,8801005,15518018,C10N,C10N.00,Secondary diabetes mellitus
+ltc_012,Diabetes,189721000000113,8801005,15518018,C10N0,C10N000,Secondary diabetes mellitus without complication
+ltc_012,Diabetes,494831000000119,426705001,2674608014,C10N1,C10N100,Diabetes mellitus associated with cystic fibrosis
+ltc_012,Diabetes,292617015,74627003,123939015,C10y,C10y.00,Diabetes mellitus with other specified manifestation
+ltc_012,Diabetes,616571000006118,73211009,121589010,C10y1,C10y100,"Diabetes mellitus, adult, + other specified manifestation"
+ltc_012,Diabetes,13781000006113,73211009,121589010,C10yy,C10yy00,Other specified diabetes mellitus with other spec comps
+ltc_012,Diabetes,292621010,73211009,121589010,C10yz,C10yz00,Diabetes mellitus NOS with other specified manifestation
+ltc_012,Diabetes,292622015,74627003,123939015,C10z,C10z.00,Diabetes mellitus with unspecified complication
+ltc_012,Diabetes,616611000006111,420868002,3013528019,C10z0,C10z000,Disorder due to type 1 diabetes mellitus
+ltc_012,Diabetes,616501000006112,422014003,3013072014,C10z1,C10z100,Disorder due to type 2 diabetes mellitus
+ltc_012,Diabetes,13811000006110,74627003,123939015,C10zy,C10zy00,Other specified diabetes mellitus with unspecified comps
+ltc_012,Diabetes,292626017,74627003,123939015,C10zz,C10zz00,Diabetic complication
+ltc_012,Diabetes,127041000006110,190447002,292667010,C11y0,C11y000,Steroid-induced diabetes
+ltc_012,Diabetes,354316011,127013003,3688488015,C314-1,C314.11,Kidney disorder due to diabetes mellitus
+ltc_012,Diabetes,1786715019,399144008,1786715019,C3500-1,C350011,Bronzed diabetes
+ltc_012,Diabetes,377001000006117,73211009,121589010,Cyu2,Cyu2.00,[X]Diabetes mellitus
+ltc_012,Diabetes,293756010,73211009,121589010,Cyu20,Cyu2000,[X]Other specified diabetes mellitus
+ltc_012,Diabetes,1230890017,50620007,1230890017,F1711,F171100,Autonomic neuropathy due to diabetes
+ltc_012,Diabetes,399419012,267604001,399419012,F3813,F381300,Myasthenic syndrome due to diabetic amyotrophy
+ltc_012,Diabetes,65526011,39058009,65526011,F3813-1,F381311,Diabetic amyotrophy
+ltc_012,Diabetes,9093013,4855003,9093013,F420,F420.00,Diabetic retinopathy
+ltc_012,Diabetes,1785332013,390834004,1785332013,F4200,F420000,Background diabetic retinopathy
+ltc_012,Diabetes,98476015,59276001,98476015,F4201,F420100,Proliferative diabetic retinopathy
+ltc_012,Diabetes,297754014,193349004,297754014,F4202,F420200,Preproliferative diabetic retinopathy
+ltc_012,Diabetes,297755010,193350004,297755010,F4203,F420300,Advanced diabetic maculopathy
+ltc_012,Diabetes,347657010,232020009,347657010,F4204,F420400,Diabetic maculopathy
+ltc_012,Diabetes,455408014,311782002,455408014,F4205,F420500,Advanced diabetic retinal disease
+ltc_012,Diabetes,1484867016,390834004,1484867016,F4206,F420600,Non proliferative diabetic retinopathy
+ltc_012,Diabetes,1785163015,312907002,1785163015,F4207,F420700,High risk proliferative diabetic retinopathy
+ltc_012,Diabetes,297758012,4855003,9093013,F420z,F420z00,Diabetic retinopathy NOS
+ltc_012,Diabetes,297964010,193489006,297964010,F4407,F440700,Diabetic iritis
+ltc_012,Diabetes,303846016,197605007,303846016,K01x1,K01x100,Nephrotic syndrome in diabetes mellitus
+ltc_012,Diabetes,303847013,197605007,303847013,K01x1-1,K01x111,Kimmelstiel - Wilson disease
+ltc_012,Diabetes,306112011,385051000000106,760131000000111,L1805,L180500,"Pre-existing diabetes mellitus, insulin-dependent"
+ltc_012,Diabetes,306113018,199230006,306113018,L1806,L180600,"Pre-existing diabetes mellitus, non-insulin-dependent"
+ltc_012,Diabetes,213141000006111,385051000000106,760131000000111,L180X,L180X00,"Pre-existing diabetes mellitus, unspecified"
+ltc_012,Diabetes,308360012,200687002,308360012,M0372,M037200,Cellulitis in diabetic foot
+ltc_012,Diabetes,358035014,238894004,358035014,M21yC,M21yC00,Insulin lipohypertrophy
+ltc_012,Diabetes,358036010,238894004,358036010,M21yC-1,M21yC11,Insulin site lipohypertrophy
+ltc_012,Diabetes,309180011,201252003,309180011,M2712,M271200,Mixed diabetic ulcer - foot
+ltc_012,Diabetes,309737011,201723002,309737011,N0300,N030000,Diabetic cheiroarthropathy
+ltc_012,Diabetes,309738018,201723002,309738018,N0300-1,N030011,Diabetic cheiropathy
+ltc_012,Diabetes,468191000006114,430400006,2708697011,TJ23,TJ23.00,Adverse reaction to insulins and antidiabetic agents
+ltc_012,Diabetes,330806013,430400006,2708697011,TJ23z,TJ23z00,Adverse reaction to insulins and antidiabetic agents NOS
+ltc_012,Diabetes,354661000006118,430400006,2708697011,U6023-1,U602311,[X] Adverse reaction to insulins and antidiabetic agents
+ltc_012,Diabetes,2967831017,199223000,306106018,L180A,,Pre-existing type 1 diabetes mellitus in pregnancy
+ltc_012,Diabetes,928471000006114,420514000,2967914011,C10EK-1,C10EK11,Type I diabetes mellitus with persistent proteinuria

@@ -1,0 +1,38 @@
+condition_id,condition_name,MedCodeId,SnomedCTConceptId,SnomedCTDescriptionId,OriginalReadCode,CleansedReadCode,Term
+ltc_017,Disorders of bone density and structure,5992471000006115,309745002,453226012,^ESCTOS599247,,Osteoporosis localized to spine
+ltc_017,Disorders of bone density and structure,1485098013,391070005,1485098013,58EG,58EG.00,Hip DXA scan result osteoporotic
+ltc_017,Disorders of bone density and structure,1485103010,391075000,1485103010,58EM,58EM.00,Lumbar DXA scan result osteoporotic
+ltc_017,Disorders of bone density and structure,668551000000116,440100002,3013373010,58EV,58EV.00,Femoral neck DXA scan result osteoporotic
+ltc_017,Disorders of bone density and structure,1715131000006113,505171000000102,1152201000000112,9kj0,9kj0.00,Bone sparing drug treatment offered for osteoporosis
+ltc_017,Disorders of bone density and structure,107806013,64859006,107806013,N330,N330.00,Osteoporosis
+ltc_017,Disorders of bone density and structure,312124013,64859006,107806013,N3300,N330000,"Osteoporosis, unspecified"
+ltc_017,Disorders of bone density and structure,30475015,18040001,30475015,N3301,N330100,Senile osteoporosis
+ltc_017,Disorders of bone density and structure,54058015,102447009,165682016,N3302,N330200,Postmenopausal osteoporosis
+ltc_017,Disorders of bone density and structure,786501000006117,203429007,312126010,N3303,N330300,Idiopathic generalised osteoporosis
+ltc_017,Disorders of bone density and structure,625381000006110,53174001,88440018,N3304,N330400,Dissuse osteoporosis
+ltc_017,Disorders of bone density and structure,24883018,14651005,24883018,N3305,N330500,Drug-induced osteoporosis
+ltc_017,Disorders of bone density and structure,312133010,203433000,312133010,N3306,N330600,Postoophorectomy osteoporosis
+ltc_017,Disorders of bone density and structure,212431000006119,203434006,312134016,N3307,N330700,Postsurgical malabsorption osteoporosis
+ltc_017,Disorders of bone density and structure,312138018,203437004,312138018,N330A,N330A00,Osteoporosis in endocrine disorders
+ltc_017,Disorders of bone density and structure,312139014,203438009,312139014,N330B,N330B00,Vertebral osteoporosis
+ltc_017,Disorders of bone density and structure,453226012,309745002,453225011,N330C,N330C00,Osteoporosis localised to spine
+ltc_017,Disorders of bone density and structure,1484866013,390833005,1484866013,N330D,N330D00,Osteoporosis due to corticosteroids
+ltc_017,Disorders of bone density and structure,312142015,64859006,107806013,N330z,N330z00,Osteoporosis NOS
+ltc_017,Disorders of bone density and structure,312156018,203444008,312156018,N3312,N331200,Postoophorectomy osteoporosis with pathological fracture
+ltc_017,Disorders of bone density and structure,312157010,203445009,312157010,N3313,N331300,Osteoporosis of disuse with pathological fracture
+ltc_017,Disorders of bone density and structure,212441000006112,203446005,312158017,N3314,N331400,Post-surgical malabsorption osteoporosis with pathological fracture
+ltc_017,Disorders of bone density and structure,312159013,203447001,312159013,N3315,N331500,Drug-induced osteoporosis with pathological fracture
+ltc_017,Disorders of bone density and structure,312160015,203448006,312160015,N3316,N331600,Idiopathic osteoporosis with pathological fracture
+ltc_017,Disorders of bone density and structure,40881000006116,203450003,312162011,N3318,N331800,Osteoporosis with pathological fracture of lumbar vertebrae
+ltc_017,Disorders of bone density and structure,40891000006118,203451004,312163018,N3319,N331900,Osteoporosis with pathological fracture of thoracic vertebrae
+ltc_017,Disorders of bone density and structure,40871000006119,203452006,312164012,N331A,N331A00,Osteoporosis with pathological fracture of cervical vertebrae
+ltc_017,Disorders of bone density and structure,312165013,203453001,312165013,N331B,N331B00,Postmenopausal osteoporosis with pathological fracture
+ltc_017,Disorders of bone density and structure,216206018,443165006,2837900019,N331M,N331M00,Pathological fracture due to osteoporosis
+ltc_017,Disorders of bone density and structure,556881000000111,443165006,2837900019,N331M-1,N331M11,Minimal trauma fracture due to unspecified osteoporosis
+ltc_017,Disorders of bone density and structure,545121000000114,306171000000106,545121000000114,N331N,N331N00,Fragility fracture
+ltc_017,Disorders of bone density and structure,557111000000111,306171000000106,557111000000111,N331N-1,N331N11,Minimal trauma fracture
+ltc_017,Disorders of bone density and structure,312441019,203657009,312441019,N3746,N374600,Osteoporotic kyphosis
+ltc_017,Disorders of bone density and structure,312681016,443165006,2837900019,NyuB0,NyuB000,[X]Other osteoporosis with pathological fracture
+ltc_017,Disorders of bone density and structure,312682011,64859006,107806013,NyuB1,NyuB100,[X]Other osteoporosis
+ltc_017,Disorders of bone density and structure,312683018,64859006,107806013,NyuB2,NyuB200,[X]Osteoporosis in other disorders classified elsewhere
+ltc_017,Disorders of bone density and structure,312689019,443165006,2837900019,NyuB8,NyuB800,[X]Unspecified osteoporosis with pathological fracture

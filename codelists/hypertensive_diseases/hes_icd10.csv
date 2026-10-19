@@ -1,0 +1,15 @@
+condition_id,condition_name,icd10_block,icd10_code,hes_code,description
+ltc_029,Hypertensive diseases,I10-I15,I11.0,I110,Hypertensive heart disease with (congestive) heart failure
+ltc_029,Hypertensive diseases,I10-I15,I12.0,I120,Hypertensive renal disease with renal failure
+ltc_029,Hypertensive diseases,I10-I15,I13.0,I130,Hypertensive heart and renal disease with (congestive) heart failure
+ltc_029,Hypertensive diseases,I10-I15,I13.1,I131,Hypertensive heart and renal disease with renal failure
+ltc_029,Hypertensive diseases,I10-I15,I13.2,I132,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure
+ltc_029,Hypertensive diseases,I10-I15,I13.9,I139,"Hypertensive heart and renal disease, unspecified"
+ltc_029,Hypertensive diseases,I10-I15,I15.1,I151,Hypertension secondary to other renal disorders
+ltc_029,Hypertensive diseases,I10-I15,I15.2,I152,Hypertension secondary to endocrine disorders
+ltc_029,Hypertensive diseases,I10-I15,I15.8,I158,Other secondary hypertension
+ltc_029,Hypertensive diseases,I10-I15,I15.9,I159,"Secondary hypertension, unspecified"
+ltc_029,Hypertensive diseases,I10-I15,I10.X,I10X,Essential (primary) hypertension
+ltc_029,Hypertensive diseases,I10-I15,I11.9,I119,Hypertensive heart disease without (congestive) heart failure
+ltc_029,Hypertensive diseases,I10-I15,I12.9,I129,Hypertensive renal disease without renal failure
+ltc_029,Hypertensive diseases,I10-I15,I15.0,I150,Renovascular hypertension

@@ -1,0 +1,7 @@
+condition_id,condition_name,MedCodeId,SnomedCTConceptId,SnomedCTDescriptionId,OriginalReadCode,CleansedReadCode,Term
+ltc_035,Irritable bowel syndrome,886361000006114,10743008,886361000006114,J521-99,J521.99,Irritable bowel - IBS
+ltc_035,Irritable bowel syndrome,906181000006110,906181000006106,906181000006110,HNG0095,,[RFC] Reason for care : Irritable bowel syndrome (IBS)
+ltc_035,Irritable bowel syndrome,742351000006119,10743008,18666015,J521,J521.00,Irritable colon - Irritable bowel syndrome
+ltc_035,Irritable bowel syndrome,18666015,10743008,18666015,J521-1,J521.11,Irritable bowel syndrome
+ltc_035,Irritable bowel syndrome,18665016,10743008,18665016,J521-3,J521.13,Spastic colon
+ltc_035,Irritable bowel syndrome,303172010,197125005,303172010,J5210,J521000,Irritable bowel syndrome with diarrhoea

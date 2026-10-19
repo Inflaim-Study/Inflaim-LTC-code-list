@@ -1,0 +1,7 @@
+condition_id,condition_name,icd10_block,icd10_code,hes_code,description
+ltc_028,Hyperparathyroidism,E20-E35,E21.0,E210,Primary hyperparathyroidism
+ltc_028,Hyperparathyroidism,E20-E35,E21.1,E211,"Secondary hyperparathyroidism, not elsewhere classified"
+ltc_028,Hyperparathyroidism,E20-E35,E21.2,E212,Other hyperparathyroidism
+ltc_028,Hyperparathyroidism,E20-E35,E21.3,E213,"Hyperparathyroidism, unspecified"
+ltc_028,Hyperparathyroidism,E20-E35,E21.4,E214,Other specified disorders of parathyroid gland
+ltc_028,Hyperparathyroidism,E20-E35,E21.5,E215,"Disorder of parathyroid gland, unspecified"

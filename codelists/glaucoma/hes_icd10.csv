@@ -1,0 +1,7 @@
+condition_id,condition_name,icd10_block,icd10_code,hes_code,description
+ltc_026,Glaucoma,H40-H42,H40.1,H401,Primary open-angle glaucoma
+ltc_026,Glaucoma,H40-H42,H40.2,H402,Primary angle-closure glaucoma
+ltc_026,Glaucoma,H40-H42,H40.8,H408,Other glaucoma
+ltc_026,Glaucoma,H40-H42,H40.9,H409,"Glaucoma, unspecified"
+ltc_026,Glaucoma,H40-H42,H42.0,H420,"Glaucoma in endocrine, nutritional and metabolic diseases"
+ltc_026,Glaucoma,H40-H42,H42.8,H428,Glaucoma in other diseases classified elsewhere

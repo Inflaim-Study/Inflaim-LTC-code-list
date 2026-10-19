@@ -1,0 +1,8 @@
+condition_id,condition_name,icd10_block,icd10_code,hes_code,description
+ltc_056,Sleep disorders,G40-G47,G47.0,G470,Disorders of initiating and maintaining sleep [insomnias]
+ltc_056,Sleep disorders,G40-G47,G47.1,G471,Disorders of excessive somnolence [hypersomnias]
+ltc_056,Sleep disorders,G40-G47,G47.2,G472,Disorders of the sleep-wake schedule
+ltc_056,Sleep disorders,G40-G47,G47.3,G473,Sleep apnoea
+ltc_056,Sleep disorders,G40-G47,G47.4,G474,Narcolepsy and cataplexy
+ltc_056,Sleep disorders,G40-G47,G47.8,G478,Other sleep disorders
+ltc_056,Sleep disorders,G40-G47,G47.9,G479,"Sleep disorder, unspecified"

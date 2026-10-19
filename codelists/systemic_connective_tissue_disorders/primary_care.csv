@@ -1,0 +1,48 @@
+condition_id,condition_name,MedCodeId,SnomedCTConceptId,SnomedCTDescriptionId,OriginalReadCode,CleansedReadCode,Term
+ltc_058,Systemic connective tissue disorders,2534171012,414341000,2534171012,G755,G755.00,Giant cell arteritis
+ltc_058,Systemic connective tissue disorders,1787109017,400130008,1787109017,G7550,G755000,Cranial arteritis
+ltc_058,Systemic connective tissue disorders,1779388019,400130008,1779388019,G7551,G755100,Temporal arteritis
+ltc_058,Systemic connective tissue disorders,1787110010,400130008,1787110010,G7552,G755200,Horton's disease
+ltc_058,Systemic connective tissue disorders,300584016,414341000,2534171012,G755z,G755z00,Giant cell arteritis NOS
+ltc_058,Systemic connective tissue disorders,359513016,239938009,359513016,N200,N200.00,Giant cell arteritis with polymyalgia rheumatica
+ltc_058,Systemic connective tissue disorders,312576015,414341000,2534171012,Nyu41,Nyu4100,[X]Other giant cell arteritis
+ltc_058,Systemic connective tissue disorders,108529013,65323003,108529013,N20,N20..00,Polymyalgia rheumatica
+ltc_058,Systemic connective tissue disorders,158050019,65323003,108529013,N20-1,N20..11,Polymyalgia
+ltc_058,Systemic connective tissue disorders,297645018,193253000,297645018,F3967,F396700,Myopathy due to Sjogren's disease
+ltc_058,Systemic connective tissue disorders,301720019,196137000,301720019,H57y3,H57y300,Lung disease with Sjogren's disease
+ltc_058,Systemic connective tissue disorders,141091000006112,83901003,139128015,N002,N002.00,Sicca syndrome
+ltc_058,Systemic connective tissue disorders,297639014,193248005,297639014,F3961,F396100,Myopathy due to disseminated lupus erythematosus
+ltc_058,Systemic connective tissue disorders,660871000006118,79291003,1234339017,F4D33,F4D3300,Eyelid discoid lupus erythematosus
+ltc_058,Systemic connective tissue disorders,301721015,196138005,301721015,H57y4,H57y400,Lung disease with systemic lupus erythematosus
+ltc_058,Systemic connective tissue disorders,677561000006119,68815009,114310015,K01x4,K01x400,Nephrotic syndrome in systemic lupus erythematosus
+ltc_058,Systemic connective tissue disorders,114310015,68815009,114310015,K01x4-1,K01x411,Lupus nephritis
+ltc_058,Systemic connective tissue disorders,177301000006114,307755009,451122013,K0B40,K0B4000,Renal tubulo-interstitial disorder in systemic lupus erythematosus
+ltc_058,Systemic connective tissue disorders,308697013,200936003,308697013,M154,M154.00,Lupus erythematosus
+ltc_058,Systemic connective tissue disorders,308700012,200937007,308700012,M1540,M154000,Lupus erythematosus chronicus
+ltc_058,Systemic connective tissue disorders,308701011,200938002,308701011,M1541,M154100,Discoid lupus erythematosus
+ltc_058,Systemic connective tissue disorders,308704015,200939005,308704015,M1542,M154200,Lupus erythematosus migrans
+ltc_058,Systemic connective tissue disorders,308705019,200940007,308705019,M1543,M154300,Lupus erythematosus nodularis
+ltc_058,Systemic connective tissue disorders,25612013,15084002,25612013,M1544,M154400,Lupus erythematosus profundus
+ltc_058,Systemic connective tissue disorders,308706018,200941006,308706018,M1545,M154500,Lupus erythematosus tumidus
+ltc_058,Systemic connective tissue disorders,308707010,200942004,308707010,M1546,M154600,Lupus erythematosus unguium mutilans
+ltc_058,Systemic connective tissue disorders,308709013,200936003,308697013,M154z,M154z00,Lupus erythematosus NOS
+ltc_058,Systemic connective tissue disorders,309383019,7119001,12747019,Myu78,Myu7800,Cutaneous lupus erythematosus
+ltc_058,Systemic connective tissue disorders,92208011,55464009,92208011,N000,N000.00,Systemic lupus erythematosus
+ltc_058,Systemic connective tissue disorders,92209015,55464009,92209015,N0000,N000000,Disseminated lupus erythematosus
+ltc_058,Systemic connective tissue disorders,496853017,54072008,496853017,N0001,N000100,Libman-Sacks disease
+ltc_058,Systemic connective tissue disorders,309405011,201436003,309405011,N0002,N000200,Drug-induced systemic lupus erythematosus
+ltc_058,Systemic connective tissue disorders,114251000006118,239887007,359443016,N0003,N000300,Systemic lupus erythematosus with organ/system involvement
+ltc_058,Systemic connective tissue disorders,453243010,309762007,453243010,N0004,N000400,Systemic lupus erythematosus with pericarditis
+ltc_058,Systemic connective tissue disorders,512234017,95644001,512234017,N0006,N000600,Cerebral lupus
+ltc_058,Systemic connective tissue disorders,309408013,55464009,92208011,N000z,N000z00,Systemic lupus erythematosus NOS
+ltc_058,Systemic connective tissue disorders,312579010,55464009,92208011,Nyu43,Nyu4300,[X]Other forms of systemic lupus erythematosus
+ltc_058,Systemic connective tissue disorders,297644019,193252005,297644019,F3966,F396600,Myopathy due to scleroderma
+ltc_058,Systemic connective tissue disorders,301716018,196133001,301716018,H572,H572.00,Lung disease with systemic sclerosis
+ltc_058,Systemic connective tissue disorders,354512012,236502006,354512012,K0J0,K0J0.00,Renal involvement in scleroderma
+ltc_058,Systemic connective tissue disorders,309413012,89155008,147835019,N001,N001.00,Scleroderma
+ltc_058,Systemic connective tissue disorders,1785104011,298285004,1785104011,N001-1,N001.11,Acrosclerosis
+ltc_058,Systemic connective tissue disorders,147833014,89155008,147833014,N001-2,N001.12,Systemic sclerosis
+ltc_058,Systemic connective tissue disorders,147834015,444133002,2842339011,N0010,N001000,Progressive systemic sclerosis
+ltc_058,Systemic connective tissue disorders,53211014,31848007,53211014,N0011,N001100,CREST syndrome
+ltc_058,Systemic connective tissue disorders,309416016,201443009,309416016,N0012,N001200,Systemic sclerosis induced by drugs and chemicals
+ltc_058,Systemic connective tissue disorders,312581012,89155008,147833014,Nyu45,Nyu4500,[X]Other forms of systemic sclerosis

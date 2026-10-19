@@ -1,0 +1,3 @@
+condition_id,condition_name,icd10_block,icd10_code,hes_code,description
+ltc_042,Multiple sclerosis (and optic neuritis),H46-H48,H46.X,H46X,Optic neuritis
+ltc_042,Multiple sclerosis (and optic neuritis),G35-G37,G35.X,G35X,Multiple sclerosis

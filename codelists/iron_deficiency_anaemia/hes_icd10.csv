@@ -1,0 +1,5 @@
+condition_id,condition_name,icd10_block,icd10_code,hes_code,description
+ltc_034,Iron deficiency anaemia,D50,D50.0,D500,Iron deficiency anaemia secondary to blood loss (chronic)
+ltc_034,Iron deficiency anaemia,D50,D50.1,D501,Sideropenic dysphagia
+ltc_034,Iron deficiency anaemia,D50,D50.8,D508,Other iron deficiency anaemias
+ltc_034,Iron deficiency anaemia,D50,D50.9,D509,"Iron deficiency anaemia, unspecified"

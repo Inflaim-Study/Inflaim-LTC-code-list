@@ -1,0 +1,8 @@
+condition_id,condition_name,icd10_block,icd10_code,hes_code,description
+ltc_048,Other retinal disorders (Macular degeneration),H30-H36,H35.0,H350,Background retinopathy and retinal vascular changes
+ltc_048,Other retinal disorders (Macular degeneration),H30-H36,H35.2,H352,Other proliferative retinopathy
+ltc_048,Other retinal disorders (Macular degeneration),H30-H36,H35.3,H353,Degeneration of macula and posterior pole
+ltc_048,Other retinal disorders (Macular degeneration),H30-H36,H35.4,H354,Peripheral retinal degeneration
+ltc_048,Other retinal disorders (Macular degeneration),H30-H36,H35.7,H357,Separation of retinal layers
+ltc_048,Other retinal disorders (Macular degeneration),H30-H36,H35.8,H358,Other specified retinal disorders
+ltc_048,Other retinal disorders (Macular degeneration),H30-H36,H35.9,H359,"Retinal disorder, unspecified"

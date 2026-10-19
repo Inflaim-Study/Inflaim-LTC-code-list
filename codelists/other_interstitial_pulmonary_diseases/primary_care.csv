@@ -1,0 +1,17 @@
+condition_id,condition_name,MedCodeId,SnomedCTConceptId,SnomedCTDescriptionId,OriginalReadCode,CleansedReadCode,Term
+ltc_047,Other interstitial pulmonary diseases,909731000006117,909731000006101,909731000006117,HNGNQRF18,,[RFC] Reason for care : Pulmonary fibrosis
+ltc_047,Other interstitial pulmonary diseases,3336411000006117,51615001,85961019,^ESCTCI333641,,Cirrhosis of lung
+ltc_047,Other interstitial pulmonary diseases,885491000006116,51615001,885491000006116,H5631-99,H563199,Pulmonary fibrosis
+ltc_047,Other interstitial pulmonary diseases,254003016,162974009,254003016,23E5,23E5.00,O/E - fibrosis of lung present
+ltc_047,Other interstitial pulmonary diseases,254002014,162974009,254002014,23E5-1,23E5.11,O/E - fibrosis of lung
+ltc_047,Other interstitial pulmonary diseases,211391000006118,266368002,396123011,H55,H55..00,Post-inflammatory pulmonary fibrosis
+ltc_047,Other interstitial pulmonary diseases,85961019,266368002,396123011,H55-1,H55..11,Cirrhosis of lung
+ltc_047,Other interstitial pulmonary diseases,75302014,700250006,2989716019,H563,H563.00,Idiopathic fibrosing alveolitis
+ltc_047,Other interstitial pulmonary diseases,815341000006115,236302005,2579204016,H563-1,H563.11,Hamman Rich syndrome
+ltc_047,Other interstitial pulmonary diseases,196654011,700250006,2989718018,H563-2,H563.12,Cryptogenic fibrosing alveolitis
+ltc_047,Other interstitial pulmonary diseases,1786131000006116,700250006,2989760019,H563-3,H563.13,Idiopathic pulmonary fibrosis
+ltc_047,Other interstitial pulmonary diseases,621121000006112,196125002,301706014,H5631,H563100,Diffuse interstitial pulmonary fibrosis
+ltc_047,Other interstitial pulmonary diseases,85960018,51615001,85960018,H5632,H563200,Pulmonary fibrosis
+ltc_047,Other interstitial pulmonary diseases,2475606014,196125002,2475606014,H5633,H563300,Usual interstitial pneumonitis
+ltc_047,Other interstitial pulmonary diseases,301709019,700250006,2989716019,H563z,H563z00,Idiopathic fibrosing alveolitis NOS
+ltc_047,Other interstitial pulmonary diseases,301852014,233703007,350185018,Hyu50,Hyu5000,[X]Other interstitial pulmonary diseases with fibrosis

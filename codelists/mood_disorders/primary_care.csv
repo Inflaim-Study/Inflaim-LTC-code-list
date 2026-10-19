@@ -1,0 +1,104 @@
+condition_id,condition_name,MedCodeId,SnomedCTConceptId,SnomedCTDescriptionId,OriginalReadCode,CleansedReadCode,Term
+ltc_041,Mood disorders,423041000006119,231485007,346956014,Eu204,Eu20400,[X]Post-schizophrenic depression
+ltc_041,Mood disorders,851691000006114,851691000006105,851691000006114,EMISQHY1,,Hypomanic
+ltc_041,Mood disorders,882321000006119,268619003,882321000006119,E110-99,E110.99,Mania/hypomania
+ltc_041,Mood disorders,882311000006110,13746004,882311000006110,E11-99,E11..99,Manic-depressive psychoses
+ltc_041,Mood disorders,2157096015,405273008,2157096015,1S42,1S42.00,Manic mood
+ltc_041,Mood disorders,492761000000114,285491000000101,492761000000114,212V,212V.00,Bipolar affective disorder resolved
+ltc_041,Mood disorders,513871000006118,13746004,23447014,E11-1,E11..11,Bipolar disorder
+ltc_041,Mood disorders,223601000000119,231494001,346966018,E11-3,E11..13,Manic psychosis
+ltc_041,Mood disorders,789221000006116,231496004,346969013,E110-1,E110.11,Hypomanic psychoses
+ltc_041,Mood disorders,294847017,191618007,294847017,E114-1,E114.11,Manic-depressive - now manic
+ltc_041,Mood disorders,294848010,191618007,294846014,E1140,E114000,"Bipolar affective disorder, currently manic, unspecified"
+ltc_041,Mood disorders,294849019,191620005,294849019,E1141,E114100,"Bipolar affective disorder, currently manic, mild"
+ltc_041,Mood disorders,294850019,191621009,294850019,E1142,E114200,"Bipolar affective disorder, currently manic, moderate"
+ltc_041,Mood disorders,513741000006119,63249007,105141010,E1145,E114500,Manic bipolar I disorder in partial remission
+ltc_041,Mood disorders,513811000006110,191625000,294857016,E1146,E114600,"Bipolar affective disorder, currently manic, in full remission"
+ltc_041,Mood disorders,294858014,191618007,294846014,E114z,E114z00,"Bipolar affective disorder, currently manic, NOS"
+ltc_041,Mood disorders,294860011,191627008,294860011,E115-1,E115.11,Manic-depressive - now depressed
+ltc_041,Mood disorders,294861010,191627008,294859018,E1150,E115000,"Bipolar affective disorder, currently depressed, unspecified"
+ltc_041,Mood disorders,294862015,191629006,294862015,E1151,E115100,"Bipolar affective disorder, currently depressed, mild"
+ltc_041,Mood disorders,294863013,191630001,294863013,E1152,E115200,"Bipolar affective disorder, currently depressed, moderate"
+ltc_041,Mood disorders,513711000006118,49512000,82468013,E1155,E115500,Depressed bipolar I disorder in partial remission
+ltc_041,Mood disorders,513861000006113,191634005,294867014,E1156,E115600,"Bipolar affective disorder, currently depressed, in full remission"
+ltc_041,Mood disorders,294868016,191627008,294859018,E115z,E115z00,"Bipolar affective disorder, currently depressed, NOS"
+ltc_041,Mood disorders,294869012,191636007,294869012,E116,E116.00,Mixed bipolar affective disorder
+ltc_041,Mood disorders,294870013,191636007,294869012,E1160,E116000,"Mixed bipolar affective disorder, unspecified"
+ltc_041,Mood disorders,294871012,191638008,294871012,E1161,E116100,"Mixed bipolar affective disorder, mild"
+ltc_041,Mood disorders,294872017,191639000,294872017,E1162,E116200,"Mixed bipolar affective disorder, moderate"
+ltc_041,Mood disorders,701051000006118,760721000000109,1683621000000116,E1165,E116500,"Mixed bipolar affective disorder, partial/unspec remission"
+ltc_041,Mood disorders,294876019,191643001,294876019,E1166,E116600,"Mixed bipolar affective disorder, in full remission"
+ltc_041,Mood disorders,294877011,191636007,294869012,E116z,E116z00,"Mixed bipolar affective disorder, NOS"
+ltc_041,Mood disorders,294880012,13746004,2839307017,E117,E117.00,Unspecified bipolar affective disorder
+ltc_041,Mood disorders,294881011,13746004,2839307017,E1170,E117000,"Unspecified bipolar affective disorder, unspecified"
+ltc_041,Mood disorders,294882016,13313007,22777014,E1171,E117100,Mild bipolar disorder
+ltc_041,Mood disorders,294883014,79584002,132034014,E1172,E117200,Moderate bipolar disorder
+ltc_041,Mood disorders,82091000006116,5703000,10501015,E1175,E117500,Bipolar disorder in partial remission
+ltc_041,Mood disorders,294887010,41836007,69794013,E1176,E117600,Bipolar disorder in full remission
+ltc_041,Mood disorders,294888017,13746004,2839307017,E117z,E117z00,"Unspecified bipolar affective disorder, NOS"
+ltc_041,Mood disorders,294891017,13746004,1221011015,E11y,E11y.00,Other and unspecified manic-depressive psychoses
+ltc_041,Mood disorders,294892012,13746004,1221011015,E11y0,E11y000,Unspecified manic-depressive psychoses
+ltc_041,Mood disorders,294893019,191658009,294893019,E11y1,E11y100,Atypical manic disorder
+ltc_041,Mood disorders,294895014,16506000,27929014,E11y3,E11y300,Mixed bipolar I disorder
+ltc_041,Mood disorders,294896010,13746004,1221011015,E11yz,E11yz00,Other and unspecified manic-depressive psychoses NOS
+ltc_041,Mood disorders,389401000006111,231496004,346969013,Eu300,Eu30000,Hypomania
+ltc_041,Mood disorders,296110017,231494001,346965019,Eu301,Eu30100,Mania
+ltc_041,Mood disorders,401863011,231494001,346965019,Eu302,Eu30200,[X]Mania with psychotic symptoms
+ltc_041,Mood disorders,396701000006111,231494001,346965019,Eu302-1,Eu30211,[X]Mania with mood-congruent psychotic symptoms
+ltc_041,Mood disorders,396711000006114,231494001,346965019,Eu302-2,Eu30212,[X]Mania with mood-incongruent psychotic symptoms
+ltc_041,Mood disorders,396691000006111,268619003,401765010,Eu30z-1,Eu30z11,[X]Mania NOS
+ltc_041,Mood disorders,367101000006112,13746004,2839307017,Eu31,Eu31.00,Bipolar affective disorder
+ltc_041,Mood disorders,396791000006116,13746004,1221012010,Eu31-1,Eu31.11,Manic-depressive illness
+ltc_041,Mood disorders,396801000006115,13746004,1221011015,Eu31-2,Eu31.12,Manic-depressive psychosis
+ltc_041,Mood disorders,396071000006119,13746004,23447014,Eu31-3,Eu31.13,[X]Manic-depressive reaction
+ltc_041,Mood disorders,367081000006116,191618007,294846014,Eu311,Eu31100,[X]Bipolar affect disorder cur epi manic wout psychotic symp
+ltc_041,Mood disorders,367091000006118,191630001,294863013,Eu313,Eu31300,[X]Bipolar affect disorder cur epi mild or moderate depressn
+ltc_041,Mood disorders,296130018,85248005,141328010,Eu317,Eu31700,Bipolar disorder in remission
+ltc_041,Mood disorders,1785851000006110,371596008,1210225015,Eu318,Eu31800,Bipolar I disorder
+ltc_041,Mood disorders,1785861000006112,83225003,138029017,Eu319,Eu31900,Bipolar II disorder
+ltc_041,Mood disorders,1785871000006117,83225003,138029017,Eu319-1,Eu31911,[X]Bipolar II disorder
+ltc_041,Mood disorders,401865016,13746004,23447014,Eu31y,Eu31y00,[X]Other bipolar affective disorders
+ltc_041,Mood disorders,367161000006113,83225003,138029017,Eu31y-1,Eu31y11,[X]Bipolar II disorder
+ltc_041,Mood disorders,296135011,13746004,2839307017,Eu31z,Eu31z00,"[X]Bipolar affective disorder, unspecified"
+ltc_041,Mood disorders,396771000006117,36474008,60885016,Eu332-3,Eu33213,"[X] Manic-depressive psychosis, depressed type without psychotic symptoms"
+ltc_041,Mood disorders,396781000006119,765176007,3657334019,Eu333-2,Eu33312,"[X]Manic-depress psychosis,depressed type+psychotic symptoms"
+ltc_041,Mood disorders,12727931000006110,609311000000100,1347681000000113,^ESCT1272793,,Depressive disorder NEC
+ltc_041,Mood disorders,294621000000118,196381000000100,294621000000118,212S,212S.00,Depression resolved
+ltc_041,Mood disorders,2474715017,413169006,2474715017,9HA0,9HA0.00,On depression register
+ltc_041,Mood disorders,226581000000119,166481000000107,1154701000000110,9k40,9k40.00,Depression enhanced service completed
+ltc_041,Mood disorders,1680571000006118,361761000000106,681801000000113,9kQ,9kQ..00,On full dose long term treatment depression - enh serv admin
+ltc_041,Mood disorders,613791000006115,35489007,59212011,E11-2,E11..12,Depressive psychoses
+ltc_041,Mood disorders,474171000006112,83458005,138421012,E112-1,E112.11,Agitated depression
+ltc_041,Mood disorders,441826016,300706003,441826016,E112-4,E112.14,Endogenous depression
+ltc_041,Mood disorders,410861011,274948002,410861011,E113-1,E113.11,Endogenous depression - recurrent
+ltc_041,Mood disorders,294843018,46244001,3304524018,E1136,E113600,Recurrent major depression in full remission
+ltc_041,Mood disorders,294844012,191616006,294844012,E1137,E113700,Recurrent depression
+ltc_041,Mood disorders,369982012,247803002,369982012,E118,E118.00,Seasonal affective disorder
+ltc_041,Mood disorders,294894013,191659001,294894013,E11y2,E11y200,Atypical depressive disorder
+ltc_041,Mood disorders,346973011,231500002,346973011,E11z2,E11z200,Masked depression
+ltc_041,Mood disorders,294917018,191676002,294917018,E130,E130.00,Reactive depressive psychosis
+ltc_041,Mood disorders,294918011,191676002,294918011,E130-1,E130.11,Psychotic reactive depression
+ltc_041,Mood disorders,138421012,83458005,138421012,E135,E135.00,Agitated depression
+ltc_041,Mood disorders,202561000006114,192049004,295495012,E291,E291.00,Prolonged depressive adjustment reaction
+ltc_041,Mood disorders,295535012,35489007,59212011,E2B,E2B..00,Depressive disorder
+ltc_041,Mood disorders,295537016,192080009,295537016,E2B1,E2B1.00,Chronic depression
+ltc_041,Mood disorders,296137015,310495003,454082014,Eu320,Eu32000,Mild depression
+ltc_041,Mood disorders,213641000000111,310495003,213641000000111,Eu324,Eu32400,[X]Mild depression
+ltc_041,Mood disorders,1715771000006112,87512008,145089017,Eu325,Eu32500,Mild major depression
+ltc_041,Mood disorders,1715181000006114,832007,2451016,Eu326,Eu32600,Moderate major depression
+ltc_041,Mood disorders,366561000006119,191659001,294894013,Eu32y-1,Eu32y11,[X]Atypical depression
+ltc_041,Mood disorders,376691000006116,35489007,486184015,Eu32z-1,Eu32z11,Depression
+ltc_041,Mood disorders,376711000006118,35489007,486185019,Eu32z-2,Eu32z12,[X]Depressive disorder NOS
+ltc_041,Mood disorders,359121000006116,87414006,2951871015,Eu32z-4,Eu32z14,Reactive depression
+ltc_041,Mood disorders,401873013,191616006,294844012,Eu33,Eu33.00,[X]Recurrent depressive disorder
+ltc_041,Mood disorders,425751000006115,247803002,369982012,Eu33-4,Eu33.14,[X]Seasonal depressive disorder
+ltc_041,Mood disorders,425411000006110,247803002,369983019,Eu33-5,Eu33.15,SAD - Seasonal affective disorder
+ltc_041,Mood disorders,379781000006118,300706003,441826016,Eu332-1,Eu33211,[X]Endogenous depression without psychotic symptoms
+ltc_041,Mood disorders,396081000006116,268621008,401767019,Eu332-2,Eu33212,"[X]Major depression, recurrent without psychotic symptoms"
+ltc_041,Mood disorders,432511000006119,310497006,454084010,Eu332-4,Eu33214,"[X]Vital depression, recurrent without psychotic symptoms"
+ltc_041,Mood disorders,379771000006116,73867007,122670017,Eu333-1,Eu33311,[X]Endogenous depression with psychotic symptoms
+ltc_041,Mood disorders,296198011,698957003,2981573016,Eu334,Eu33400,"[X]Recurrent depressive disorder, currently in remission"
+ltc_041,Mood disorders,296199015,191616006,294844012,Eu33y,Eu33y00,[X]Other recurrent depressive disorders
+ltc_041,Mood disorders,401876017,191616006,294844012,Eu33z,Eu33z00,"[X]Recurrent depressive disorder, unspecified"
+ltc_041,Mood disorders,398841000006119,35489007,59212011,Eu33z-1,Eu33z11,[X]Monopolar depression NOS
+ltc_041,Mood disorders,376751000006117,1084061000000106,2716551000000112,Eu341-2,Eu34112,Depressive personality disorder

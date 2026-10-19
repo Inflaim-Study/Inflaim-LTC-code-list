@@ -1,0 +1,6 @@
+condition_id,condition_name,MedCodeId,SnomedCTConceptId,SnomedCTDescriptionId,OriginalReadCode,CleansedReadCode,Term
+ltc_002,Ankylosing spondylitis,309788014,9631008,16840014,N0401,N040100,Rheumatoid arthritis of spine
+ltc_002,Ankylosing spondylitis,253940015,162930007,2668362011,2377,2377.00,On examination - ankylosing spondylitis chest deformity
+ltc_002,Ankylosing spondylitis,2692996011,441562009,2817026019,388p,388p.00,Bath ankylosing spondylitis disease activity index score
+ltc_002,Ankylosing spondylitis,16833013,9631008,16833013,N100,N100.00,Ankylosing spondylitis
+ltc_002,Ankylosing spondylitis,718001000006112,9631008,1235977013,N100-1,N100.11,Marie - Strumpell spondylitis

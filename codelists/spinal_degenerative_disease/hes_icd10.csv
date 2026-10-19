@@ -1,0 +1,13 @@
+condition_id,condition_name,icd10_block,icd10_code,hes_code,description
+ltc_057,Spinal degenerative disease,"M47, M51",M47.0,M470,Anterior spinal and vertebral artery compression syndromes
+ltc_057,Spinal degenerative disease,"M47, M51",M47.1,M471,Other spondylosis with myelopathy
+ltc_057,Spinal degenerative disease,"M47, M51",M47.2,M472,Other spondylosis with radiculopathy
+ltc_057,Spinal degenerative disease,"M47, M51",M47.8,M478,Other spondylosis
+ltc_057,Spinal degenerative disease,"M47, M51",M47.9,M479,"Spondylosis, unspecified"
+ltc_057,Spinal degenerative disease,"M47, M51",M51.0,M510,Lumbar and other intervertebral disc disorders with myelopathy
+ltc_057,Spinal degenerative disease,"M47, M51",M51.1,M511,Lumbar and other intervertebral disc disorders with radiculopathy
+ltc_057,Spinal degenerative disease,"M47, M51",M51.2,M512,Other specified intervertebral disc displacement
+ltc_057,Spinal degenerative disease,"M47, M51",M51.3,M513,Other specified intervertebral disc degeneration
+ltc_057,Spinal degenerative disease,"M47, M51",M51.4,M514,Schmorl nodes
+ltc_057,Spinal degenerative disease,"M47, M51",M51.8,M518,Other specified intervertebral disc disorders
+ltc_057,Spinal degenerative disease,"M47, M51",M51.9,M519,"Intervertebral disc disorder, unspecified"

@@ -1,0 +1,10 @@
+condition_id,condition_name,icd10_block,icd10_code,hes_code,description
+ltc_019,Disorders of the prostate,N40-N42,N40.X,N40X,Hyperplasia of prostate
+ltc_019,Disorders of the prostate,N40-N42,N41.1,N411,Chronic prostatitis
+ltc_019,Disorders of the prostate,N40-N42,N41.9,N419,"Inflammatory disease of prostate, unspecified"
+ltc_019,Disorders of the prostate,N40-N42,N42.0,N420,Calculus of prostate
+ltc_019,Disorders of the prostate,N40-N42,N42.1,N421,Congestion and haemorrhage of prostate
+ltc_019,Disorders of the prostate,N40-N42,N42.2,N422,Atrophy of prostate
+ltc_019,Disorders of the prostate,N40-N42,N42.3,N423,Dysplasia of prostate
+ltc_019,Disorders of the prostate,N40-N42,N42.8,N428,Other specified disorders of prostate
+ltc_019,Disorders of the prostate,N40-N42,N42.9,N429,"Disorder of prostate, unspecified"

@@ -1,0 +1,2 @@
+# Keep line endings identical on every platform so the build check gives the same result.
+* text=auto eol=lf

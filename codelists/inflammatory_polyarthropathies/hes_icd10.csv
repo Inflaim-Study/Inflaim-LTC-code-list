@@ -1,0 +1,48 @@
+condition_id,condition_name,icd10_block,icd10_code,hes_code,description
+ltc_033,Inflammatory polyarthropathies,M05-M14,M14.1,M141,Crystal arthropathy in other metabolic disorders
+ltc_033,Inflammatory polyarthropathies,M05-M14,M14.2,M142,Diabetic arthropathy
+ltc_033,Inflammatory polyarthropathies,M05-M14,M14.3,M143,Lipoid dermatoarthritis
+ltc_033,Inflammatory polyarthropathies,M05-M14,M14.4,M144,Arthropathy in amyloidosis
+ltc_033,Inflammatory polyarthropathies,M05-M14,M14.5,M145,"Arthropathies in other endocrine, nutritional and metabolic disorders"
+ltc_033,Inflammatory polyarthropathies,M05-M14,M14.6,M146,Neuropathic arthropathy
+ltc_033,Inflammatory polyarthropathies,M05-M14,M14.8,M148,Arthropathies in other specified diseases classified elsewhere
+ltc_033,Inflammatory polyarthropathies,M05-M14,M05.0,M050,Felty syndrome
+ltc_033,Inflammatory polyarthropathies,M05-M14,M05.1,M051,Rheumatoid lung disease
+ltc_033,Inflammatory polyarthropathies,M05-M14,M05.2,M052,Rheumatoid vasculitis
+ltc_033,Inflammatory polyarthropathies,M05-M14,M05.3,M053,Rheumatoid arthritis with involvement of other organs and systems
+ltc_033,Inflammatory polyarthropathies,M05-M14,M05.8,M058,Other seropositive rheumatoid arthritis
+ltc_033,Inflammatory polyarthropathies,M05-M14,M05.9,M059,"Seropositive rheumatoid arthritis, unspecified"
+ltc_033,Inflammatory polyarthropathies,M05-M14,M06.0,M060,Seronegative rheumatoid arthritis
+ltc_033,Inflammatory polyarthropathies,M05-M14,M06.1,M061,Adult-onset Still disease
+ltc_033,Inflammatory polyarthropathies,M05-M14,M06.2,M062,Rheumatoid bursitis
+ltc_033,Inflammatory polyarthropathies,M05-M14,M06.3,M063,Rheumatoid nodule
+ltc_033,Inflammatory polyarthropathies,M05-M14,M06.4,M064,Inflammatory polyarthropathy
+ltc_033,Inflammatory polyarthropathies,M05-M14,M06.8,M068,Other specified rheumatoid arthritis
+ltc_033,Inflammatory polyarthropathies,M05-M14,M06.9,M069,"Rheumatoid arthritis, unspecified"
+ltc_033,Inflammatory polyarthropathies,M05-M14,M07.0,M070,Distal interphalangeal psoriatic arthropathy
+ltc_033,Inflammatory polyarthropathies,M05-M14,M07.1,M071,Arthritis mutilans
+ltc_033,Inflammatory polyarthropathies,M05-M14,M07.2,M072,Psoriatic spondylitis
+ltc_033,Inflammatory polyarthropathies,M05-M14,M07.3,M073,Other psoriatic arthropathies
+ltc_033,Inflammatory polyarthropathies,M05-M14,M07.4,M074,Arthropathy in Crohn disease
+ltc_033,Inflammatory polyarthropathies,M05-M14,M07.5,M075,Arthropathy in ulcerative colitis
+ltc_033,Inflammatory polyarthropathies,M05-M14,M07.6,M076,Other enteropathic arthropathies
+ltc_033,Inflammatory polyarthropathies,M05-M14,M10.0,M100,Idiopathic gout
+ltc_033,Inflammatory polyarthropathies,M05-M14,M10.1,M101,Lead-induced gout
+ltc_033,Inflammatory polyarthropathies,M05-M14,M10.2,M102,Drug-induced gout
+ltc_033,Inflammatory polyarthropathies,M05-M14,M10.3,M103,Gout due to impairment of renal function
+ltc_033,Inflammatory polyarthropathies,M05-M14,M10.4,M104,Other secondary gout
+ltc_033,Inflammatory polyarthropathies,M05-M14,M10.9,M109,"Gout, unspecified"
+ltc_033,Inflammatory polyarthropathies,M05-M14,M11.0,M110,Hydroxyapatite deposition disease
+ltc_033,Inflammatory polyarthropathies,M05-M14,M11.2,M112,Other chondrocalcinosis
+ltc_033,Inflammatory polyarthropathies,M05-M14,M11.8,M118,Other specified crystal arthropathies
+ltc_033,Inflammatory polyarthropathies,M05-M14,M11.9,M119,"Crystal arthropathy, unspecified"
+ltc_033,Inflammatory polyarthropathies,M05-M14,M12.0,M120,Chronic postrheumatic arthropathy [Jaccoud]
+ltc_033,Inflammatory polyarthropathies,M05-M14,M12.1,M121,Kaschin-Beck disease
+ltc_033,Inflammatory polyarthropathies,M05-M14,M12.2,M122,"Villonodular synovitis, pigmented"
+ltc_033,Inflammatory polyarthropathies,M05-M14,M12.3,M123,Palindromic rheumatism
+ltc_033,Inflammatory polyarthropathies,M05-M14,M12.4,M124,Intermittent hydrarthrosis
+ltc_033,Inflammatory polyarthropathies,M05-M14,M12.8,M128,"Other specified arthropathies, not elsewhere classified"
+ltc_033,Inflammatory polyarthropathies,M05-M14,M13.0,M130,"Polyarthritis, unspecified"
+ltc_033,Inflammatory polyarthropathies,M05-M14,M13.1,M131,"Monoarthritis, not elsewhere classified"
+ltc_033,Inflammatory polyarthropathies,M05-M14,M13.8,M138,Other specified arthritis
+ltc_033,Inflammatory polyarthropathies,M05-M14,M13.9,M139,"Arthritis, unspecified"

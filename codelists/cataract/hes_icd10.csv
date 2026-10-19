@@ -1,0 +1,14 @@
+condition_id,condition_name,icd10_block,icd10_code,hes_code,description
+ltc_003,Cataract,H25-H28,H26.4,H264,After-cataract
+ltc_003,Cataract,H25-H28,H28.0,H280,Diabetic cataract
+ltc_003,Cataract,H25-H28,H28.1,H281,"Cataract in other endocrine, nutritional and metabolic diseases"
+ltc_003,Cataract,H25-H28,H28.2,H282,Cataract in other diseases classified elsewhere
+ltc_003,Cataract,H25-H28,H28.8,H288,Other disorders of lens in diseases classified elsewhere
+ltc_003,Cataract,H25-H28,H25.0,H250,Senile incipient cataract
+ltc_003,Cataract,H25-H28,H25.1,H251,Senile nuclear cataract
+ltc_003,Cataract,H25-H28,H25.2,H252,"Senile cataract, morgagnian type"
+ltc_003,Cataract,H25-H28,H25.8,H258,Other senile cataract
+ltc_003,Cataract,H25-H28,H25.9,H259,"Senile cataract, unspecified"
+ltc_003,Cataract,H25-H28,H26.2,H262,Complicated cataract
+ltc_003,Cataract,H25-H28,H26.8,H268,Other specified cataract
+ltc_003,Cataract,H25-H28,H26.9,H269,"Cataract, unspecified"

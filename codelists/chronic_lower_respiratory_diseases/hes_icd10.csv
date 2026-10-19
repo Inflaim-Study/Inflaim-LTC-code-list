@@ -1,0 +1,18 @@
+condition_id,condition_name,icd10_block,icd10_code,hes_code,description
+ltc_006,Chronic lower respiratory diseases,J40-J47,J40.X,J40X,"Bronchitis, not specified as acute or chronic"
+ltc_006,Chronic lower respiratory diseases,J40-J47,J41.0,J410,Simple chronic bronchitis
+ltc_006,Chronic lower respiratory diseases,J40-J47,J41.1,J411,Mucopurulent chronic bronchitis
+ltc_006,Chronic lower respiratory diseases,J40-J47,J41.8,J418,Mixed simple and mucopurulent chronic bronchitis
+ltc_006,Chronic lower respiratory diseases,J40-J47,J42.X,J42X,Unspecified chronic bronchitis
+ltc_006,Chronic lower respiratory diseases,J40-J47,J43.0,J430,MacLeod syndrome
+ltc_006,Chronic lower respiratory diseases,J40-J47,J43.1,J431,Panlobular emphysema
+ltc_006,Chronic lower respiratory diseases,J40-J47,J43.2,J432,Centrilobular emphysema
+ltc_006,Chronic lower respiratory diseases,J40-J47,J43.8,J438,Other emphysema
+ltc_006,Chronic lower respiratory diseases,J40-J47,J43.9,J439,"Emphysema, unspecified"
+ltc_006,Chronic lower respiratory diseases,J40-J47,J44.8,J448,Other specified chronic obstructive pulmonary disease
+ltc_006,Chronic lower respiratory diseases,J40-J47,J44.9,J449,"Chronic obstructive pulmonary disease, unspecified"
+ltc_006,Chronic lower respiratory diseases,J40-J47,J45.0,J450,Predominantly allergic asthma
+ltc_006,Chronic lower respiratory diseases,J40-J47,J45.1,J451,Nonallergic asthma
+ltc_006,Chronic lower respiratory diseases,J40-J47,J45.8,J458,Mixed asthma
+ltc_006,Chronic lower respiratory diseases,J40-J47,J45.9,J459,"Asthma, unspecified"
+ltc_006,Chronic lower respiratory diseases,J40-J47,J47.X,J47X,Bronchiectasis

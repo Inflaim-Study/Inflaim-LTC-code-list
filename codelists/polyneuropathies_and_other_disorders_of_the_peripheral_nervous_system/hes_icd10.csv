@@ -1,0 +1,18 @@
+condition_id,condition_name,icd10_block,icd10_code,hes_code,description
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,G60-G64,G61.1,G611,Serum neuropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,G60-G64,G63.2,G632,Diabetic polyneuropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,G60-G64,G63.3,G633,Polyneuropathy in other endocrine and metabolic diseases
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,G60-G64,G63.4,G634,Polyneuropathy in nutritional deficiency
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,G60-G64,G63.5,G635,Polyneuropathy in systemic connective tissue disorders
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,G60-G64,G63.6,G636,Polyneuropathy in other musculoskeletal disorders
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,G60-G64,G63.8,G638,Polyneuropathy in other diseases classified elsewhere
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,G60-G64,G61.8,G618,Other inflammatory polyneuropathies
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,G60-G64,G61.9,G619,"Inflammatory polyneuropathy, unspecified"
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,G60-G64,G62.0,G620,Drug-induced polyneuropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,G60-G64,G62.1,G621,Alcoholic polyneuropathy
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,G60-G64,G62.2,G622,Polyneuropathy due to other toxic agents
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,G60-G64,G62.8,G628,Other specified polyneuropathies
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,G60-G64,G62.9,G629,"Polyneuropathy, unspecified"
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,G60-G64,G63.0,G630,Polyneuropathy in infectious and parasitic diseases classified elsewhere
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,G60-G64,G63.1,G631,Polyneuropathy in neoplastic disease
+ltc_051,Polyneuropathies and other disorders of the peripheral nervous system,G60-G64,G64.X,G64X,Other disorders of peripheral nervous system

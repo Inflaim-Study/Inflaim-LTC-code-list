@@ -1,0 +1,52 @@
+condition_id,condition_name,icd10_block,icd10_code,hes_code,description
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I71.1,I711,"Thoracic aortic aneurysm, ruptured"
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I71.2,I712,"Thoracic aortic aneurysm, without mention of rupture"
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I71.3,I713,"Abdominal aortic aneurysm, ruptured"
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I71.4,I714,"Abdominal aortic aneurysm, without mention of rupture"
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I71.5,I715,"Thoracoabdominal aortic aneurysm, ruptured"
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I71.6,I716,"Thoracoabdominal aortic aneurysm, without mention of rupture"
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I71.8,I718,"Aortic aneurysm of unspecified site, ruptured"
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I71.9,I719,"Aortic aneurysm of unspecified site, without mention of rupture"
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I72.0,I720,Aneurysm and dissection of carotid artery
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I72.1,I721,Aneurysm and dissection of artery of upper extremity
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I72.2,I722,Aneurysm and dissection of renal artery
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I72.3,I723,Aneurysm and dissection of iliac artery
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I72.4,I724,Aneurysm and dissection of artery of lower extremity
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I72.5,I725,Aneurysm and dissection of other precerebral arteries
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I72.6,I726,Aneurysm and dissection of vertebral artery
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I72.8,I728,Aneurysm and dissection of other specified arteries
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I72.9,I729,Aneurysm and dissection of unspecified site
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I74.1,I741,Embolism and thrombosis of other and unspecified parts of aorta
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I74.2,I742,Embolism and thrombosis of arteries of upper extremities
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I74.3,I743,Embolism and thrombosis of arteries of lower extremities
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I74.4,I744,"Embolism and thrombosis of arteries of extremities, unspecified"
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I74.5,I745,Embolism and thrombosis of iliac artery
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I74.8,I748,Embolism and thrombosis of other arteries
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I74.9,I749,Embolism and thrombosis of unspecified artery
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I77.2,I772,Rupture of artery
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I70.0,I700,Atherosclerosis of aorta
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I70.1,I701,Atherosclerosis of renal artery
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I70.2,I702,Atherosclerosis of arteries of extremities
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I70.8,I708,Atherosclerosis of other arteries
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I70.9,I709,Generalized and unspecified atherosclerosis
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I71.0,I710,Dissection of aorta [any part]
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I73.0,I730,Raynaud syndrome
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I73.1,I731,Thromboangiitis obliterans [Buerger]
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I73.8,I738,Other specified peripheral vascular diseases
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I73.9,I739,"Peripheral vascular disease, unspecified"
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I74.0,I740,Embolism and thrombosis of abdominal aorta
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I77.0,I770,"Arteriovenous fistula, acquired"
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I77.1,I771,Stricture of artery
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I77.3,I773,Arterial fibromuscular dysplasia
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I77.4,I774,Coeliac artery compression syndrome
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I77.5,I775,Necrosis of artery
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I77.6,I776,"Arteritis, unspecified"
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I77.8,I778,Other specified disorders of arteries and arterioles
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I77.9,I779,"Disorder of arteries and arterioles, unspecified"
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I78.1,I781,"Naevus, non-neoplastic"
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I78.8,I788,Other diseases of capillaries
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I78.9,I789,"Disease of capillaries, unspecified"
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I79.0,I790,Aneurysm of aorta in diseases classified elsewhere
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I79.1,I791,Aortitis in diseases classified elsewhere
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I79.2,I792,Peripheral angiopathy in diseases classified elsewhere
+ltc_013,"Diseases of arteries, arterioles and capillaries",I70-I79,I79.8,I798,"Other disorders of arteries, arterioles and capillaries in diseases classifie..."
