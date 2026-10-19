@@ -1,6 +1,8 @@
 # Importing files
 
-Read identifiers as text to retain long values and punctuation.
+Read identifiers as text to retain long values and punctuation. Exclude blank values from the chosen identifier column before matching to patient records.
+
+SNOMED CT concept 45157009 has a blank MedCodeId because its CPRD Aurum mapping has not been verified.
 
 ## R
 
