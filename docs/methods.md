@@ -4,13 +4,15 @@ The condition framework and primary care codelist development are described in [
 
 ## Primary care
 
-The primary care master contains 7,218 condition–code records and 7,216 distinct MedCodeIds. CPRD Aurum medical code identifiers, SNOMED CT concept identifiers and SNOMED CT description identifiers are separate fields. Read code fields and clinical terms are also provided.
+The primary care file contains 7,219 condition–code records and 7,216 distinct MedCodeIds. CPRD Aurum medical code identifiers, SNOMED CT concept identifiers and SNOMED CT description identifiers are separate fields. Read code fields and clinical terms are also provided.
 
-There are 1,126 blank `CleansedReadCode` values. A blank means that no value is available in that field; it does not establish whether an equivalent Read code exists. Check the source dictionary before assigning a replacement.
+The SNOMED CT concept 45157009 (Idiopathic fibrosing alveolitis) has no verified MedCodeId in this collection. Its MedCodeId field is blank. Use the SNOMED CT concept identifier when matching this record to SNOMED-coded data. A verified dictionary mapping is needed before it can be matched using a CPRD Aurum MedCodeId.
+
+There are 1,127 blank `CleansedReadCode` values. A blank means that no value is available in that field; it does not establish whether an equivalent Read code exists. Check the source dictionary before assigning a replacement.
 
 ## Hospital records
 
-The HES master contains 1,641 condition–code records and 1,637 distinct codes. It provides dotted ICD-10 codes and the corresponding representation without the decimal point.
+The HES file contains 1,641 condition–code records and 1,637 distinct codes. It provides dotted ICD-10 codes and the corresponding representation without the decimal point.
 
 The `icd10_block` field contains source grouping labels and annotations. These are not a uniform ICD-10 block hierarchy and should not be expanded into additional codes. Use the individual code records listed for each condition.
 
@@ -20,7 +22,7 @@ The HES codelists remain under review. The primary care publication does not est
 
 The condition list provides a fixed identifier, name, abbreviation, inflammatory classification and folder name for each condition. It classifies 17 conditions as inflammatory and 43 as not classified as inflammatory in the published framework. Alternative names are recorded in `metadata/condition_aliases.csv`.
 
-Other interstitial pulmonary diseases is the J84 category. Fibrosing alveolitis falls within J84.1, a subset of J84. A condition label alone does not establish that a codelist covers every diagnosis in the category. See the [NHS ICD-10 classification](https://classbrowser.nhs.uk/ICD-10-5TH-Edition/vol1/block-j80-j84.htm) and `metadata/condition_code_review.csv` for the outstanding code review.
+Other interstitial pulmonary diseases is the J84 category. Fibrosing alveolitis falls within J84.1, a subset of J84. A condition label alone does not establish that a codelist covers every diagnosis in the category. See the [NHS ICD-10 classification](https://classbrowser.nhs.uk/ICD-10-5TH-Edition/vol1/block-j80-j84.htm) and `metadata/condition_code_review.csv` for the recorded inclusion decision.
 
 ## Matching codes
 
@@ -39,11 +41,11 @@ Match the selected HES codes exactly after confirming the dataset's representati
 
 Terminology editions and dictionary releases are not recorded in these files. HES diagnosis positions, lookback periods, repeat-event requirements and treatment of historical or resolved diagnoses must be specified for each analysis.
 
-Some codes occur under more than one condition. These are listed in `metadata/overlapping_codes.csv`. Specify how these memberships will be handled when counting conditions per person.
+Some codes occur under more than one condition. Specify how these memberships will be handled when counting conditions per person. Exclude blank identifiers from the matching field before joining codelists to patient records.
 
 ## Maintaining the files
 
-Edit the condition list, the two master CSVs and the relevant source references. Generate the condition files, combined file and summary files with:
+Edit the condition list, the two complete CSVs and the relevant source references. Generate the condition files, combined file and summary files with:
 
 ```bash
 python scripts/build_exports.py

@@ -1,21 +1,22 @@
 {
   "conditions": 60,
   "inflammatory_conditions": 17,
-  "primary_care_rows": 7218,
-  "primary_care_rows_without_CleansedReadCode": 1126,
+  "primary_care_rows": 7219,
+  "primary_care_rows_without_MedCodeId": 1,
+  "primary_care_rows_without_CleansedReadCode": 1127,
   "hes_rows": 1641,
-  "combined_rows": 8859,
+  "combined_rows": 8860,
   "codes": {
     "MedCodeId": {
       "distinct_codes": 7216,
       "codes_in_more_than_one_condition": 2
     },
     "SnomedCTConceptId": {
-      "distinct_codes": 4524,
+      "distinct_codes": 4525,
       "codes_in_more_than_one_condition": 2
     },
     "OriginalReadCode": {
-      "distinct_codes": 7216,
+      "distinct_codes": 7217,
       "codes_in_more_than_one_condition": 2
     },
     "CleansedReadCode": {

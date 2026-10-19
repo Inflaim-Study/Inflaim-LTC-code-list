@@ -34,7 +34,7 @@ PRIMARY_FIELDS = ['condition_id', 'condition_name', 'MedCodeId', 'SnomedCTConcep
 HES_FIELDS = ['condition_id', 'condition_name', 'icd10_block', 'icd10_code', 'hes_code', 'description']
 SOURCE_FIELDS = ['condition_id', 'condition_name', 'source', 'source_condition_names', 'source_link', 'notes']
 
-# Code columns reported in metadata/overlapping_codes.csv
+# Code columns included in the summary counts.
 CODE_COLUMNS = [('primary_care', 'MedCodeId'), ('primary_care', 'SnomedCTConceptId'),
                 ('primary_care', 'OriginalReadCode'), ('primary_care', 'CleansedReadCode'),
                 ('hes', 'hes_code')]
@@ -105,6 +105,8 @@ def validate(conditions, primary, hes, sources):
 
     for row in primary:
         for key in ('MedCodeId', 'SnomedCTConceptId', 'SnomedCTDescriptionId'):
+            if key == 'MedCodeId' and not row[key]:
+                continue  # A concept may be included before its Aurum mapping is verified.
             require(row[key].isdigit(), f"primary care: {key} {row[key]!r} is not a whole number.")
         require(row['OriginalReadCode'] and row['Term'], f"primary care: missing value for {row['MedCodeId']}.")
     for row in hes:
@@ -116,7 +118,10 @@ def validate(conditions, primary, hes, sources):
         # This field preserves the source grouping. Some condition-related
         # codes are in another chapter; containment is not a validity rule.
 
-    for label, rows, key in (('primary care', primary, ('condition_id', 'MedCodeId')),
+    for label, rows, key in (('primary care', [r for r in primary if r['MedCodeId']],
+                             ('condition_id', 'MedCodeId')),
+                             ('primary care without MedCodeId', [r for r in primary if not r['MedCodeId']],
+                              ('condition_id', 'SnomedCTConceptId', 'SnomedCTDescriptionId', 'OriginalReadCode')),
                              ('HES', hes, ('condition_id', 'hes_code'))):
         seen = collections.Counter(tuple(r[k] for k in key) for r in rows)
         dupes = [k for k, n in seen.items() if n > 1]
@@ -143,7 +148,7 @@ def generate(destination):
         write_csv(folder / 'hes_icd10.csv', HES_FIELDS, h)
         counts.append({'condition_id': c['condition_id'], 'condition_name': c['condition_name'],
                        'abbreviation': c['abbreviation'], 'folder_name': c['folder_name'],
-                       'n_medcodeids': len({r['MedCodeId'] for r in p}),
+                       'n_medcodeids': len({r['MedCodeId'] for r in p if r['MedCodeId']}),
                        'n_snomed_concepts': len({r['SnomedCTConceptId'] for r in p}),
                        'n_hes_codes': len({r['hes_code'] for r in h})})
     write_csv(destination / 'metadata' / 'condition_counts.csv', list(counts[0]), counts)
@@ -162,8 +167,8 @@ def generate(destination):
     # Condition list as JSON
     write_json(destination / 'conditions.json', conditions)
 
-    # Codes that appear in more than one condition
-    overlaps, summary_codes = [], {}
+    # Distinct code counts and counts shared between conditions.
+    summary_codes = {}
     for source, column in CODE_COLUMNS:
         members = collections.defaultdict(set)
         for row in rows_by_source[source]:
@@ -171,17 +176,12 @@ def generate(destination):
                 members[row[column]].add(row['condition_id'])
         shared = {code: ids for code, ids in members.items() if len(ids) > 1}
         summary_codes[column] = {'distinct_codes': len(members), 'codes_in_more_than_one_condition': len(shared)}
-        for code in sorted(shared):
-            for cid in sorted(shared[code]):
-                overlaps.append({'code_column': column, 'code': code,
-                                 'condition_id': cid, 'condition_name': by_id[cid]['condition_name']})
-    write_csv(destination / 'metadata' / 'overlapping_codes.csv',
-              ['code_column', 'code', 'condition_id', 'condition_name'], overlaps)
 
     summary = {
         'conditions': len(conditions),
         'inflammatory_conditions': sum(c['inflammatory_condition'] == 'Y' for c in conditions),
         'primary_care_rows': len(primary),
+        'primary_care_rows_without_MedCodeId': sum(not r['MedCodeId'] for r in primary),
         'primary_care_rows_without_CleansedReadCode': sum(not r['CleansedReadCode'] for r in primary),
         'hes_rows': len(hes),
         'combined_rows': len(combined),

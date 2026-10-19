@@ -22,7 +22,7 @@ Each row contains one condition–code mapping. All primary care files contain:
 | Column | Meaning |
 |---|---|
 | `condition_id`, `condition_name` | Link to the condition list |
-| `MedCodeId` | CPRD Aurum medical code identifier |
+| `MedCodeId` | CPRD Aurum medical code identifier; blank when the mapping is unverified |
 | `SnomedCTConceptId` | SNOMED CT concept identifier |
 | `SnomedCTDescriptionId` | SNOMED CT description identifier |
 | `OriginalReadCode` | Original code field in the supplied mapping |
@@ -43,16 +43,15 @@ Each row represents one selected condition–code record.
 
 ## Combined file
 
-`combined/all_codelists.csv` contains all 8,859 records from the two masters. It adds `abbreviation` and `data_source` (`primary_care` or `hes`) and retains source-specific fields. Fields from the other source are blank. It does not create pairs of equivalent primary care and HES codes.
+`combined/all_codelists.csv` contains all 8,860 records from the two complete lists. It adds `abbreviation` and `data_source` (`primary_care` or `hes`) and retains source-specific fields. Fields from the other source are blank. It does not create pairs of equivalent primary care and HES codes.
 
 ## Supporting files
 
 | File | Contents |
 |---|---|
 | `metadata/condition_counts.csv` | Counts by condition and coding field |
-| `metadata/overlapping_codes.csv` | Codes appearing under multiple conditions |
 | `metadata/condition_aliases.csv` | Previous names and abbreviations |
-| `metadata/condition_code_review.csv` | Specific code-membership differences requiring review |
+| `metadata/condition_code_review.csv` | Code-membership review decisions and mapping limitations |
 | `metadata/sources.csv` | Condition-level source summary, including unresolved attribution where applicable |
 | `metadata/source_files/` | Supporting source references |
 | `metadata/summary.json` | Current data counts and structural-check scope |
